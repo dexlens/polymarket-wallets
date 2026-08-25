@@ -142,5 +142,21 @@
     "win_count": 27,
     "rank": 6309,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x41c472d123281ae53ff9b741ff7b89d3a3ede363",
+    "trader_name": "shimazhen",
+    "tag": "Overall",
+    "overall_gain": 16971.22121020681,
+    "active_positions": 5,
+    "win_amount": 17638.569696683822,
+    "loss_amount": -667.3484864770161,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 20.792285832,
+    "total_positions": 38,
+    "event_ct": 35,
+    "win_count": 25,
+    "rank": 6310,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
