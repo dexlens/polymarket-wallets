@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 48823,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xda8b20bc0d165af16ad507042878b3d78049f67f",
+    "trader_name": "LeSinner",
+    "tag": "Overall",
+    "overall_gain": 1536.1698888980004,
+    "active_positions": 6,
+    "win_amount": 1585.9814838980005,
+    "loss_amount": -49.811595000000125,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 41808.326728029,
+    "total_positions": 7,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 48824,
+    "trader_tags": "< 30 days old"
   }
 ]
