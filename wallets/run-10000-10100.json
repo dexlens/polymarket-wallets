@@ -238,5 +238,21 @@
     "win_count": 22,
     "rank": 10015,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xfc0abd159180dc84176a971bb208f94a3567f268",
+    "trader_name": "hackers",
+    "tag": "Overall",
+    "overall_gain": 10467.691996680403,
+    "active_positions": 9,
+    "win_amount": 95062.83709100001,
+    "loss_amount": -84595.1450943196,
+    "win_rate": 0.5689655172413793,
+    "total_current_value": 0,
+    "total_positions": 64,
+    "event_ct": 58,
+    "win_count": 33,
+    "rank": 10016,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
