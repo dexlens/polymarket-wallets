@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 15097,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x667f974d2b716cdd2b7d18429e061022d1875a0a",
+    "trader_name": "rderry1",
+    "tag": "Overall",
+    "overall_gain": 6441.633000000001,
+    "active_positions": 1,
+    "win_amount": 6479.457,
+    "loss_amount": -37.824,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 15098,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
