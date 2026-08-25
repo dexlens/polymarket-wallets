@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 80182,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56dcd605a77aa97be1f5253e218b0f59e06e00c0",
+    "trader_name": "HanaSuzuki",
+    "tag": "Overall",
+    "overall_gain": 627.617946746922,
+    "active_positions": 1,
+    "win_amount": 628.608454860091,
+    "loss_amount": -0.9905081131690003,
+    "win_rate": 0.17857142857142858,
+    "total_current_value": 3.41283725,
+    "total_positions": 41,
+    "event_ct": 28,
+    "win_count": 5,
+    "rank": 80183,
+    "trader_tags": ""
   }
 ]
