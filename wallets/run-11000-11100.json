@@ -606,5 +606,21 @@
     "win_count": 16,
     "rank": 11038,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x030343b4567b0c0e79eeebbebf90fe46f30e1770",
+    "trader_name": "ffstbot1",
+    "tag": "Overall",
+    "overall_gain": 9543.940000740413,
+    "active_positions": 20,
+    "win_amount": 34130.043790819735,
+    "loss_amount": -24586.103790079327,
+    "win_rate": 0.526595744680851,
+    "total_current_value": 41.375227065999994,
+    "total_positions": 504,
+    "event_ct": 376,
+    "win_count": 198,
+    "rank": 11039,
+    "trader_tags": ""
   }
 ]
