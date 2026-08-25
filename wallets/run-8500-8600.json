@@ -1358,5 +1358,21 @@
     "win_count": 9,
     "rank": 8585,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa1d3c69f0ddbc1b85d426cfd2a3289d443c9fc8b",
+    "trader_name": "faker888111",
+    "tag": "Overall",
+    "overall_gain": 12208.262016843824,
+    "active_positions": 1,
+    "win_amount": 32986.549279,
+    "loss_amount": -20778.287262156176,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 14,
+    "rank": 8586,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
