@@ -526,5 +526,21 @@
     "win_count": 4,
     "rank": 11433,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x04128bfe6f9d66bcb82f405761fb3f8e7c773734",
+    "trader_name": "Phaelion",
+    "tag": "Overall",
+    "overall_gain": 9143.444123443769,
+    "active_positions": 14,
+    "win_amount": 9742.2136560164,
+    "loss_amount": -598.769532572632,
+    "win_rate": 0.8653846153846154,
+    "total_current_value": 81.320577,
+    "total_positions": 53,
+    "event_ct": 52,
+    "win_count": 45,
+    "rank": 11434,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
