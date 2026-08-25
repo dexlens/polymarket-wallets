@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 41087,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa37735f09a3cc7d9a2ed3437aca7dcf35f176168",
+    "trader_name": "zks1",
+    "tag": "Overall",
+    "overall_gain": 1929.943592343552,
+    "active_positions": 8,
+    "win_amount": 2133.569233465001,
+    "loss_amount": -203.62564112144895,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 797.271870801,
+    "total_positions": 36,
+    "event_ct": 27,
+    "win_count": 18,
+    "rank": 41088,
+    "trader_tags": "> 1 year old"
   }
 ]
