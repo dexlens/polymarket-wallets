@@ -958,5 +958,21 @@
     "win_count": 4,
     "rank": 16360,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4f3806d8fa734ac614bcb73e539c99d3c5e3af70",
+    "trader_name": "sWINub123",
+    "tag": "Overall",
+    "overall_gain": 5838.100717684205,
+    "active_positions": 2,
+    "win_amount": 14760.788391864204,
+    "loss_amount": -8922.687674179999,
+    "win_rate": 0.75,
+    "total_current_value": 6.605046500000001,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 16361,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
