@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 6993,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x32ac980d68ded7819e2b72625e26d23f47645bef",
+    "trader_name": "jshk5",
+    "tag": "Overall",
+    "overall_gain": 15301,
+    "active_positions": 6,
+    "win_amount": 35416,
+    "loss_amount": -20115,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 7,
+    "rank": 6994,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
