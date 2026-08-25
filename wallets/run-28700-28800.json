@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 28723,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9556b91b210659545fb0855d2f12189efe8a71c4",
+    "trader_name": "DFibn",
+    "tag": "Overall",
+    "overall_gain": 2983.3797161059997,
+    "active_positions": 2,
+    "win_amount": 3186.01021,
+    "loss_amount": -202.63049389399998,
+    "win_rate": 0.9512195121951219,
+    "total_current_value": 200.434117,
+    "total_positions": 43,
+    "event_ct": 41,
+    "win_count": 39,
+    "rank": 28724,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
