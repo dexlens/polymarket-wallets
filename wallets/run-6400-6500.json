@@ -1390,5 +1390,21 @@
     "win_count": 82,
     "rank": 6487,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3102491e37c699d1fda77d09b0af63128675406a",
+    "trader_name": "westgolfer",
+    "tag": "Overall",
+    "overall_gain": 16513.801399317555,
+    "active_positions": 1,
+    "win_amount": 62824.601815942464,
+    "loss_amount": -46310.800416624894,
+    "win_rate": 0.673469387755102,
+    "total_current_value": 0.09946399999999998,
+    "total_positions": 52,
+    "event_ct": 49,
+    "win_count": 33,
+    "rank": 6488,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
