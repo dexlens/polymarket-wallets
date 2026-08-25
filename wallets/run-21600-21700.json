@@ -1246,5 +1246,21 @@
     "win_count": 3,
     "rank": 21678,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x179c70cbc31fedca4c4f8b4962605037d3c12d61",
+    "trader_name": "wowola",
+    "tag": "Overall",
+    "overall_gain": 4193.246402415946,
+    "active_positions": 6,
+    "win_amount": 12574.278693,
+    "loss_amount": -8381.032290584053,
+    "win_rate": 0.58,
+    "total_current_value": 0.00005,
+    "total_positions": 50,
+    "event_ct": 50,
+    "win_count": 29,
+    "rank": 21679,
+    "trader_tags": "> 1 year old"
   }
 ]
