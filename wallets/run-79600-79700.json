@@ -270,5 +270,21 @@
     "win_count": 2,
     "rank": 79618,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ee8dab84e3d9c654d2e317e4be4c197d094fe0c",
+    "trader_name": "Protectors",
+    "tag": "Overall",
+    "overall_gain": 636.942892720213,
+    "active_positions": 31,
+    "win_amount": 2741.677306706374,
+    "loss_amount": -2104.7344139861607,
+    "win_rate": 0.5095238095238095,
+    "total_current_value": 54.71677248699999,
+    "total_positions": 225,
+    "event_ct": 210,
+    "win_count": 107,
+    "rank": 79619,
+    "trader_tags": "< 30 days old"
   }
 ]
