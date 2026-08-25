@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 40625,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x35f9219c8236bc7b378d9b694cedf3ab2ca6b6f4",
+    "trader_name": "genios",
+    "tag": "Overall",
+    "overall_gain": 1958.2732012714087,
+    "active_positions": 0,
+    "win_amount": 2482.974617296257,
+    "loss_amount": -524.701416024848,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.21912850500000003,
+    "total_positions": 44,
+    "event_ct": 35,
+    "win_count": 15,
+    "rank": 40626,
+    "trader_tags": "> 1 year old"
   }
 ]
