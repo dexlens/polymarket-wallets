@@ -174,5 +174,21 @@
     "win_count": 1649,
     "rank": 4111,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x38455e2ff26a46fbb30cf2307cab428620e76bd9",
+    "trader_name": "JanicePeg",
+    "tag": "Overall",
+    "overall_gain": 27239.46075208166,
+    "active_positions": 26,
+    "win_amount": 47244.05201453029,
+    "loss_amount": -20004.59126244863,
+    "win_rate": 0.7553191489361702,
+    "total_current_value": 8.5842435,
+    "total_positions": 94,
+    "event_ct": 94,
+    "win_count": 71,
+    "rank": 4112,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
