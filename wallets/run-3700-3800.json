@@ -1518,5 +1518,21 @@
     "win_count": 158,
     "rank": 3795,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x43ed7d1bf7c703136971ae5e64f6e7feea435535",
+    "trader_name": "XiJinPing",
+    "tag": "Overall",
+    "overall_gain": 30026.55697049578,
+    "active_positions": 0,
+    "win_amount": 69559.11964938478,
+    "loss_amount": -39532.562678889,
+    "win_rate": 0.6768060836501901,
+    "total_current_value": 0.6275019999999999,
+    "total_positions": 522,
+    "event_ct": 263,
+    "win_count": 178,
+    "rank": 3796,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
