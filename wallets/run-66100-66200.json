@@ -766,5 +766,21 @@
     "win_count": 11,
     "rank": 66149,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x95226741fe39162f255fd4c3abe7f22898fc589c",
+    "trader_name": "deletrarity",
+    "tag": "Overall",
+    "overall_gain": 911.5,
+    "active_positions": 1,
+    "win_amount": 961.5,
+    "loss_amount": -50,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 66150,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
