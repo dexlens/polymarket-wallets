@@ -286,5 +286,21 @@
     "win_count": 89,
     "rank": 2018,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a480b60cb78213fdf34842160dc956a831a2558",
+    "trader_name": "scaffolding",
+    "tag": "Overall",
+    "overall_gain": 59934.92323574856,
+    "active_positions": 0,
+    "win_amount": 60560.76132674856,
+    "loss_amount": -625.838091,
+    "win_rate": 0.75,
+    "total_current_value": 0.064023,
+    "total_positions": 47,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 2019,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
