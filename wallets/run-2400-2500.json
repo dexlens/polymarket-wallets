@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 2477,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xb08829b65b45c4f5660f98fd5e22bdd20a7a683d",
+    "trader_name": "DeusDXM",
+    "tag": "Overall",
+    "overall_gain": 47384.535532268645,
+    "active_positions": 0,
+    "win_amount": 61674.5716220296,
+    "loss_amount": -14290.03608976096,
+    "win_rate": 0.25,
+    "total_current_value": 0.015346000000000002,
+    "total_positions": 20,
+    "event_ct": 16,
+    "win_count": 4,
+    "rank": 2478,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
