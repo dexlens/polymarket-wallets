@@ -1246,5 +1246,21 @@
     "win_count": 3,
     "rank": 59579,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04cf98544d860bb6deaab0f0b6f9af297af07cf4",
+    "trader_name": "Brezollo",
+    "tag": "Overall",
+    "overall_gain": 1090.061523,
+    "active_positions": 1,
+    "win_amount": 1090.061523,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 204.07,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 59580,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
