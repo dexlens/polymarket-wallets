@@ -302,5 +302,21 @@
     "win_count": 162,
     "rank": 3419,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x79a67a08cba29ab262025124f4b43ba3e1bb7477",
+    "trader_name": "purpledeer",
+    "tag": "Overall",
+    "overall_gain": 33349.375703,
+    "active_positions": 0,
+    "win_amount": 109007.38469200004,
+    "loss_amount": -75658.00898900002,
+    "win_rate": 0.5927910375060886,
+    "total_current_value": 0,
+    "total_positions": 5405,
+    "event_ct": 4106,
+    "win_count": 2434,
+    "rank": 3420,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
