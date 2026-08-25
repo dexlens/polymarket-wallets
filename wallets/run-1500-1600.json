@@ -238,5 +238,21 @@
     "win_count": 328,
     "rank": 1515,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1a29b75d4bfb5d62b343e4abdd10b60c0ce19b2e",
+    "trader_name": "Casablanca10",
+    "tag": "Overall",
+    "overall_gain": 79726.72926971962,
+    "active_positions": 1,
+    "win_amount": 91282.75156243611,
+    "loss_amount": -11556.02229271649,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 1269.549172291,
+    "total_positions": 84,
+    "event_ct": 42,
+    "win_count": 32,
+    "rank": 1516,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
