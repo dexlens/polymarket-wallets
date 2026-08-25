@@ -1262,5 +1262,21 @@
     "win_count": 42,
     "rank": 2479,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81d26f2a674f82031e054205877e0e38a7aaff5f",
+    "trader_name": "velajuel.eth",
+    "tag": "Overall",
+    "overall_gain": 47376.83634840879,
+    "active_positions": 1,
+    "win_amount": 50514.37248924629,
+    "loss_amount": -3137.5361408374997,
+    "win_rate": 0.4,
+    "total_current_value": 0.040942,
+    "total_positions": 9,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 2480,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
