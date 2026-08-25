@@ -382,5 +382,21 @@
     "win_count": 7,
     "rank": 46725,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x86f0cd7f5a8b9f7e1f74265a73046dc8a0c9ef9f",
+    "trader_name": "GoldenJiwoo",
+    "tag": "Overall",
+    "overall_gain": 1629.39642928,
+    "active_positions": 0,
+    "win_amount": 1635.48042928,
+    "loss_amount": -6.084,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.005619,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 46726,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
