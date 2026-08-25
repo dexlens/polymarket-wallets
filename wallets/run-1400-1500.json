@@ -1582,5 +1582,21 @@
     "win_count": 982,
     "rank": 1499,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x684299e6ac5595ff7f78f1f1edc97e77fea420d0",
+    "trader_name": "ColinHe",
+    "tag": "Overall",
+    "overall_gain": 80586.02205398568,
+    "active_positions": 36,
+    "win_amount": 286693.11886795296,
+    "loss_amount": -206107.09681396725,
+    "win_rate": 0.4430379746835443,
+    "total_current_value": 7325.4834908309995,
+    "total_positions": 320,
+    "event_ct": 158,
+    "win_count": 70,
+    "rank": 1500,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
