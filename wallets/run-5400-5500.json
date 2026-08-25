@@ -1342,5 +1342,21 @@
     "win_count": 28,
     "rank": 5484,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00e1e82c27aae8b2459c7721497e7b481916b679",
+    "trader_name": "JumpingJacks",
+    "tag": "Overall",
+    "overall_gain": 19714.408637568667,
+    "active_positions": 7,
+    "win_amount": 57225.84796724587,
+    "loss_amount": -37511.439329677196,
+    "win_rate": 0.6491228070175439,
+    "total_current_value": 10399.717616716005,
+    "total_positions": 146,
+    "event_ct": 57,
+    "win_count": 37,
+    "rank": 5485,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
