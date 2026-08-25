@@ -1406,5 +1406,21 @@
     "win_count": 2,
     "rank": 58789,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x628f1e728dc1dd53d32cc864de721802a75a23bd",
+    "trader_name": "nahht",
+    "tag": "Overall",
+    "overall_gain": 1115.660047401675,
+    "active_positions": 5,
+    "win_amount": 1117.9210500041659,
+    "loss_amount": -2.2610026024909944,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 71.8824553355,
+    "total_positions": 23,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 58790,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
