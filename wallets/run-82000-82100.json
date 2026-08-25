@@ -206,5 +206,21 @@
     "win_count": 16,
     "rank": 82014,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7dea90ca6c436b899adbc3c5d50e41b6904e50cf",
+    "trader_name": "hei10",
+    "tag": "Overall",
+    "overall_gain": 598.0865092557771,
+    "active_positions": 3,
+    "win_amount": 853.6232939907769,
+    "loss_amount": -255.536784735,
+    "win_rate": 0.5299145299145299,
+    "total_current_value": 51.992442000000004,
+    "total_positions": 120,
+    "event_ct": 117,
+    "win_count": 62,
+    "rank": 82015,
+    "trader_tags": "> 1 year old"
   }
 ]
