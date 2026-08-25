@@ -606,5 +606,21 @@
     "win_count": 720,
     "rank": 2838,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x3e545810f8b95dd0fcf4114b0246a0dbb40ad1c5",
+    "trader_name": "outbound478",
+    "tag": "Overall",
+    "overall_gain": 40622.78231853959,
+    "active_positions": 0,
+    "win_amount": 40622.78231853959,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00999,
+    "total_positions": 10,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 2839,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
