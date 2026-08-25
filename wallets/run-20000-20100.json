@@ -318,5 +318,21 @@
     "win_count": 9,
     "rank": 20020,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97b56a333a8445b952e16c24e9392b6badd442f9",
+    "trader_name": "PalmTrees",
+    "tag": "Overall",
+    "overall_gain": 4620.867007926944,
+    "active_positions": 123,
+    "win_amount": 29819.658994942765,
+    "loss_amount": -25198.79198701583,
+    "win_rate": 0.4921259842519685,
+    "total_current_value": 0.005679,
+    "total_positions": 277,
+    "event_ct": 254,
+    "win_count": 125,
+    "rank": 20021,
+    "trader_tags": "> 1 year old"
   }
 ]
