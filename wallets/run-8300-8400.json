@@ -1454,5 +1454,21 @@
     "win_count": 39,
     "rank": 8391,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa3c1ee26ec5adb6c530f792c662912459a874ca7",
+    "trader_name": "woyaoyinga",
+    "tag": "Overall",
+    "overall_gain": 12480.0217,
+    "active_positions": 1,
+    "win_amount": 12480.0217,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 200.4975,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 8392,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
