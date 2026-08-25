@@ -1566,5 +1566,21 @@
     "win_count": 9,
     "rank": 9298,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5fea774d3548a44d48452e868d7faf0c860078b1",
+    "trader_name": "CurbFlayer",
+    "tag": "Overall",
+    "overall_gain": 11279.247052773218,
+    "active_positions": 103,
+    "win_amount": 28696.737731453148,
+    "loss_amount": -17417.49067867992,
+    "win_rate": 0.6015625,
+    "total_current_value": 0.20124,
+    "total_positions": 337,
+    "event_ct": 128,
+    "win_count": 77,
+    "rank": 9299,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
