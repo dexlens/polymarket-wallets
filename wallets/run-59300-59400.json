@@ -126,5 +126,21 @@
     "win_count": 125,
     "rank": 59309,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6d510b0a095590e751a8f1e828bf761fc3de66ce",
+    "trader_name": "10Bfakemerchant",
+    "tag": "Overall",
+    "overall_gain": 1098.6222382510819,
+    "active_positions": 7,
+    "win_amount": 1268.6215888369147,
+    "loss_amount": -169.999350585833,
+    "win_rate": 0.8023255813953488,
+    "total_current_value": 5910.689339948999,
+    "total_positions": 101,
+    "event_ct": 86,
+    "win_count": 69,
+    "rank": 59310,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
