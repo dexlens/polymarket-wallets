@@ -1582,5 +1582,21 @@
     "win_count": 8,
     "rank": 62100,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7109f5787aad6658890f1aeebe154db7e15f1cc",
+    "trader_name": "0xPPao",
+    "tag": "Overall",
+    "overall_gain": 1019.662764345351,
+    "active_positions": 3,
+    "win_amount": 30088.985444741204,
+    "loss_amount": -29069.322680395853,
+    "win_rate": 0.3175591531755915,
+    "total_current_value": 58.07776799999999,
+    "total_positions": 1148,
+    "event_ct": 803,
+    "win_count": 255,
+    "rank": 62101,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
