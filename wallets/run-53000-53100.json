@@ -462,5 +462,21 @@
     "win_count": 3,
     "rank": 53030,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb3f5bc52c9088cb54c2c8c633194de5a32e2e669",
+    "trader_name": "ssaw",
+    "tag": "Overall",
+    "overall_gain": 1346.500945910369,
+    "active_positions": 160,
+    "win_amount": 6875.185594675175,
+    "loss_amount": -5528.684648764804,
+    "win_rate": 0.49137931034482757,
+    "total_current_value": 481.04754599999995,
+    "total_positions": 398,
+    "event_ct": 348,
+    "win_count": 171,
+    "rank": 53031,
+    "trader_tags": "> 1 year old"
   }
 ]
