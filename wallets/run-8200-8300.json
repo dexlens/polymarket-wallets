@@ -1038,5 +1038,21 @@
     "win_count": 3,
     "rank": 8265,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0bc2821529628e39484b4115fad0e931356b95a9",
+    "trader_name": "gMFpAn4l",
+    "tag": "Overall",
+    "overall_gain": 12723.539098000001,
+    "active_positions": 6,
+    "win_amount": 20865.014098,
+    "loss_amount": -8141.475,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 11,
+    "rank": 8266,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
