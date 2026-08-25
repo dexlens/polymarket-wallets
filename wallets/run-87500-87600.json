@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 87570,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf5b46cb62066190f98c7be92bf7c037203a6fdac",
+    "trader_name": "gaojing",
+    "tag": "Overall",
+    "overall_gain": 518.0215486024739,
+    "active_positions": 10,
+    "win_amount": 905.56337698493,
+    "loss_amount": -387.54182838245595,
+    "win_rate": 0.6,
+    "total_current_value": 649.740388313,
+    "total_positions": 51,
+    "event_ct": 40,
+    "win_count": 24,
+    "rank": 87571,
+    "trader_tags": "> 1 year old"
   }
 ]
