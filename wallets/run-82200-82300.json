@@ -494,5 +494,21 @@
     "win_count": 11,
     "rank": 82232,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8b8d9851146f625c2a12755a7900ce52ad2bb20b",
+    "trader_name": "qiiiazaaq",
+    "tag": "Overall",
+    "overall_gain": 594.759301,
+    "active_positions": 1,
+    "win_amount": 612.5,
+    "loss_amount": -17.740699,
+    "win_rate": 0.16666666666666666,
+    "total_current_value": 5.8454429999999995,
+    "total_positions": 18,
+    "event_ct": 6,
+    "win_count": 1,
+    "rank": 82233,
+    "trader_tags": "67%+ Positions in US Election "
   }
 ]
