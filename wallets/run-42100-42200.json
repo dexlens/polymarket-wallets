@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 42115,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28c5412943fc89bf06dfcbf94884ef6e7e44fb13",
+    "trader_name": "Mumpsmus",
+    "tag": "Overall",
+    "overall_gain": 1870.49,
+    "active_positions": 1,
+    "win_amount": 1988.49,
+    "loss_amount": -118,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 42116,
+    "trader_tags": "< 30 days old"
   }
 ]
