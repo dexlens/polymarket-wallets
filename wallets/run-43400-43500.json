@@ -654,5 +654,21 @@
     "win_count": 10,
     "rank": 43442,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71d8188e13e9bee17fc6d68aca2d5441ee5cc311",
+    "trader_name": "jakcpual",
+    "tag": "Overall",
+    "overall_gain": 1797.079035221904,
+    "active_positions": 3,
+    "win_amount": 1797.079035221904,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3860.306797,
+    "total_positions": 34,
+    "event_ct": 22,
+    "win_count": 22,
+    "rank": 43443,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
