@@ -1022,5 +1022,21 @@
     "win_count": 7,
     "rank": 21064,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1bcf0dc44af11e1302f78cac564b959cd4991004",
+    "trader_name": "tightehg",
+    "tag": "Overall",
+    "overall_gain": 4344.772207355606,
+    "active_positions": 2,
+    "win_amount": 4453.101377656,
+    "loss_amount": -108.329170300393,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 171.60186199999998,
+    "total_positions": 38,
+    "event_ct": 34,
+    "win_count": 30,
+    "rank": 21065,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
