@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 14542,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdb6123e10861668808cf04ee77ebb51c3c569488",
+    "trader_name": "richmondvolu",
+    "tag": "Overall",
+    "overall_gain": 6758.164654,
+    "active_positions": 1,
+    "win_amount": 10392.154654,
+    "loss_amount": -3633.9900000000002,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 14543,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
