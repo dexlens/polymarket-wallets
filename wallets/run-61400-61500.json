@@ -1566,5 +1566,21 @@
     "win_count": 24,
     "rank": 61499,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8c6908edd1485a2aa6631d19c21c1538e17443e0",
+    "trader_name": "Biazus",
+    "tag": "Overall",
+    "overall_gain": 1034.6445,
+    "active_positions": 0,
+    "win_amount": 1034.6445,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 61500,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
