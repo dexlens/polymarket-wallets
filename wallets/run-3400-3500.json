@@ -590,5 +590,21 @@
     "win_count": 2,
     "rank": 3437,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07d2dc0bef4fc2b066cf8536ee7d132808261b32",
+    "trader_name": "drater",
+    "tag": "Overall",
+    "overall_gain": 33166.530934141585,
+    "active_positions": 72,
+    "win_amount": 47150.86188617794,
+    "loss_amount": -13984.330952036351,
+    "win_rate": 0.26153846153846155,
+    "total_current_value": 0.28844525699999995,
+    "total_positions": 146,
+    "event_ct": 65,
+    "win_count": 17,
+    "rank": 3438,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
