@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 85652,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ca38840a9fe45fd9b040b9b8df703b353c317a2",
+    "trader_name": "TMDG",
+    "tag": "Overall",
+    "overall_gain": 543.5060606257407,
+    "active_positions": 8,
+    "win_amount": 1644.2956520157672,
+    "loss_amount": -1100.789591390026,
+    "win_rate": 0.47368421052631576,
+    "total_current_value": 3024.096576095,
+    "total_positions": 31,
+    "event_ct": 19,
+    "win_count": 9,
+    "rank": 85653,
+    "trader_tags": "< 30 days old"
   }
 ]
