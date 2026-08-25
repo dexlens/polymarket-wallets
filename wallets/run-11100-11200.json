@@ -510,5 +510,21 @@
     "win_count": 11,
     "rank": 11132,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7524102ed372451a5e011f5a7386715c43b025b8",
+    "trader_name": "Hazar",
+    "tag": "Overall",
+    "overall_gain": 9455.931621713808,
+    "active_positions": 0,
+    "win_amount": 15482.779902999999,
+    "loss_amount": -6026.848281286192,
+    "win_rate": 0.5,
+    "total_current_value": 0.001914,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 11133,
+    "trader_tags": "> 1 year old"
   }
 ]
