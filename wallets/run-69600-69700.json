@@ -382,5 +382,21 @@
     "win_count": 16,
     "rank": 69625,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7efdd7fc37b3a7b1b68fcde794abf581049ec159",
+    "trader_name": "BSN",
+    "tag": "Overall",
+    "overall_gain": 819.3685317042407,
+    "active_positions": 13,
+    "win_amount": 2337.41276090725,
+    "loss_amount": -1518.0442292030093,
+    "win_rate": 0.3584905660377358,
+    "total_current_value": 0.38392101700000003,
+    "total_positions": 77,
+    "event_ct": 53,
+    "win_count": 19,
+    "rank": 69626,
+    "trader_tags": "> 1 year old"
   }
 ]
