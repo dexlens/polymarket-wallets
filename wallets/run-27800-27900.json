@@ -638,5 +638,21 @@
     "win_count": 26,
     "rank": 27841,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x04420183dbb4a4c0a9dccaf7ec485cb601b645b2",
+    "trader_name": "ddaq",
+    "tag": "Overall",
+    "overall_gain": 3087.47548,
+    "active_positions": 0,
+    "win_amount": 3087.47548,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 27842,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
