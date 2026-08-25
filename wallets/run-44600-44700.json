@@ -1022,5 +1022,21 @@
     "win_count": 38,
     "rank": 44665,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x166d85bfbe2624b68580e8d776b034650a8ab508",
+    "trader_name": "OrderBookOmen",
+    "tag": "Overall",
+    "overall_gain": 1729.166603,
+    "active_positions": 0,
+    "win_amount": 3478.81265,
+    "loss_amount": -1749.646047,
+    "win_rate": 0.7761194029850746,
+    "total_current_value": 0.04,
+    "total_positions": 71,
+    "event_ct": 67,
+    "win_count": 52,
+    "rank": 44666,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
