@@ -990,5 +990,21 @@
     "win_count": 40,
     "rank": 3962,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ddcbfcab7e3bdb3c5f996efacb6baf9bd3a1232",
+    "trader_name": "MysticMeado",
+    "tag": "Overall",
+    "overall_gain": 28372.945392999998,
+    "active_positions": 0,
+    "win_amount": 32334.191296999998,
+    "loss_amount": -3961.2459040000003,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 22,
+    "win_count": 16,
+    "rank": 3963,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
