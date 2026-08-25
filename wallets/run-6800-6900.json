@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 6825,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83f159b4879558802c28a493f004f9594e61a818",
+    "trader_name": "hah5",
+    "tag": "Overall",
+    "overall_gain": 15714.124799999998,
+    "active_positions": 1,
+    "win_amount": 21320.8,
+    "loss_amount": -5606.675200000001,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 6826,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
