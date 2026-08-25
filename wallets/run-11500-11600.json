@@ -750,5 +750,21 @@
     "win_count": 15,
     "rank": 11547,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf2f60e212496ca198f809d3e4fc94e5045a39249",
+    "trader_name": "lightning2",
+    "tag": "Overall",
+    "overall_gain": 9018.156974000001,
+    "active_positions": 2,
+    "win_amount": 10422.156974000001,
+    "loss_amount": -1404,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 100,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 11548,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
