@@ -702,5 +702,21 @@
     "win_count": 55,
     "rank": 3544,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4fc19a907012ef58717ee7ceb1f89057f71aec92",
+    "trader_name": "Roht",
+    "tag": "Overall",
+    "overall_gain": 32157.691709060182,
+    "active_positions": 36,
+    "win_amount": 60903.24335998429,
+    "loss_amount": -28745.551650924175,
+    "win_rate": 0.7352799227799228,
+    "total_current_value": 1029.6323845835,
+    "total_positions": 7753,
+    "event_ct": 4144,
+    "win_count": 3047,
+    "rank": 3545,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
