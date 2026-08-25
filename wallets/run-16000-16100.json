@@ -1422,5 +1422,21 @@
     "win_count": 63,
     "rank": 16089,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x161adba7ce6a3d202ced6b2abc66b9451a386f22",
+    "trader_name": "Kurasi",
+    "tag": "Overall",
+    "overall_gain": 5957.432854934145,
+    "active_positions": 29,
+    "win_amount": 15526.06457547962,
+    "loss_amount": -9568.631720545478,
+    "win_rate": 0.814968814968815,
+    "total_current_value": 0.197394,
+    "total_positions": 518,
+    "event_ct": 481,
+    "win_count": 392,
+    "rank": 16090,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
