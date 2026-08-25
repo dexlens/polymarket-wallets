@@ -1262,5 +1262,21 @@
     "win_count": 4,
     "rank": 84980,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x30fb42342b40002d936922df69c8c7daa3c51985",
+    "trader_name": "eus",
+    "tag": "Overall",
+    "overall_gain": 552.7074065446769,
+    "active_positions": 0,
+    "win_amount": 552.7074065446769,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005571,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 84981,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
