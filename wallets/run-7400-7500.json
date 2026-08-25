@@ -1486,5 +1486,21 @@
     "win_count": 8,
     "rank": 7493,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x95ea80e6c696bd59642fa7ac0daac62188ebb94c",
+    "trader_name": "sta2g",
+    "tag": "Overall",
+    "overall_gain": 14157.239679506418,
+    "active_positions": 3,
+    "win_amount": 22119.04539430642,
+    "loss_amount": -7961.805714799998,
+    "win_rate": 0.6312178387650086,
+    "total_current_value": 1.7620779999999998,
+    "total_positions": 1157,
+    "event_ct": 583,
+    "win_count": 368,
+    "rank": 7494,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
