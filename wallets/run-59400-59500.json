@@ -1022,5 +1022,21 @@
     "win_count": 1142,
     "rank": 59465,
     "trader_tags": "< 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x68585263e006a76bf6d8e590481088b79cfc3467",
+    "trader_name": "nicktrick",
+    "tag": "Overall",
+    "overall_gain": 1093.388654666136,
+    "active_positions": 1,
+    "win_amount": 1093.388654666136,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.085726,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 59466,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
