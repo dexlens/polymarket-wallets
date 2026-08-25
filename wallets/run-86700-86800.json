@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 86740,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcef2a6c279ce749652b6190a19c2b76f197d0a3c",
+    "trader_name": "token99",
+    "tag": "Overall",
+    "overall_gain": 528.9769168723509,
+    "active_positions": 18,
+    "win_amount": 4355.01691,
+    "loss_amount": -3826.039993127649,
+    "win_rate": 0.5609756097560976,
+    "total_current_value": 0,
+    "total_positions": 41,
+    "event_ct": 41,
+    "win_count": 23,
+    "rank": 86741,
+    "trader_tags": "> 1 year old"
   }
 ]
