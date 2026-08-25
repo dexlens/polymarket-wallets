@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 30399,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56830f378499ee35121822d778da29afd4c7a967",
+    "trader_name": "arturoem",
+    "tag": "Overall",
+    "overall_gain": 2773.321605120017,
+    "active_positions": 21,
+    "win_amount": 3728.082572947958,
+    "loss_amount": -954.760967827941,
+    "win_rate": 0.26666666666666666,
+    "total_current_value": 0.015566,
+    "total_positions": 39,
+    "event_ct": 15,
+    "win_count": 4,
+    "rank": 30400,
+    "trader_tags": "> 1 year old"
   }
 ]
