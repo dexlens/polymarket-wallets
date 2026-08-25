@@ -1518,5 +1518,21 @@
     "win_count": 28,
     "rank": 56196,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2c219bc8bba417ee2ad5acae1e2adbcdfb857fc5",
+    "trader_name": "PotentialVo",
+    "tag": "Overall",
+    "overall_gain": 1210,
+    "active_positions": 2,
+    "win_amount": 1606.5,
+    "loss_amount": -396.5,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 56197,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
