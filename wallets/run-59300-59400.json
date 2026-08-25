@@ -638,5 +638,21 @@
     "win_count": 31,
     "rank": 59341,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfdacdad7122e3a398a24b235003ac32c40bdc44b",
+    "trader_name": "utoken",
+    "tag": "Overall",
+    "overall_gain": 1097.7364030558533,
+    "active_positions": 1,
+    "win_amount": 1116.2535354033691,
+    "loss_amount": -18.517132347516,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 23.136136,
+    "total_positions": 19,
+    "event_ct": 17,
+    "win_count": 15,
+    "rank": 59342,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
