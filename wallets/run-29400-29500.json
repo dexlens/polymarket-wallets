@@ -1118,5 +1118,21 @@
     "win_count": 16,
     "rank": 29471,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7105c2df1392ec7f5c7751e13567f548f1dd31a3",
+    "trader_name": "lcccc",
+    "tag": "Overall",
+    "overall_gain": 2885.7555468400005,
+    "active_positions": 6,
+    "win_amount": 4766.728616,
+    "loss_amount": -1880.97306916,
+    "win_rate": 0.75,
+    "total_current_value": 45.3125,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 18,
+    "rank": 29472,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
