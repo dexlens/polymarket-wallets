@@ -1486,5 +1486,21 @@
     "win_count": 5,
     "rank": 44494,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x45183d9422c447dd1d55687edf3aef07965a1cac",
+    "trader_name": "Oskoreiter",
+    "tag": "Overall",
+    "overall_gain": 1737.4763395079324,
+    "active_positions": 76,
+    "win_amount": 3080.0331124606714,
+    "loss_amount": -1342.556772952738,
+    "win_rate": 0.5,
+    "total_current_value": 5053.1027666965,
+    "total_positions": 154,
+    "event_ct": 84,
+    "win_count": 42,
+    "rank": 44495,
+    "trader_tags": ""
   }
 ]
