@@ -1422,5 +1422,21 @@
     "win_count": 36,
     "rank": 8889,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x6ca98d83343bb21ca1d18eebb4d0d7a7dfd8cdd3",
+    "trader_name": "Bloom66",
+    "tag": "Overall",
+    "overall_gain": 11785.269112,
+    "active_positions": 2,
+    "win_amount": 12470.436112,
+    "loss_amount": -685.167,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 28.086000000000002,
+    "total_positions": 35,
+    "event_ct": 27,
+    "win_count": 15,
+    "rank": 8890,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
