@@ -414,5 +414,21 @@
     "win_count": 4,
     "rank": 17126,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1568915b183ae151f01787dd5fe609e71d668c0b",
+    "trader_name": "galabool",
+    "tag": "Overall",
+    "overall_gain": 5497.751875015532,
+    "active_positions": 4,
+    "win_amount": 12497.31037301553,
+    "loss_amount": -6999.558497999999,
+    "win_rate": 0.5889618922470433,
+    "total_current_value": 806.95073443,
+    "total_positions": 15212,
+    "event_ct": 7610,
+    "win_count": 4482,
+    "rank": 17127,
+    "trader_tags": "1k+ Positions"
   }
 ]
