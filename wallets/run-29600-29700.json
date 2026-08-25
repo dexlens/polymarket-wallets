@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 29655,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3e354ff18bb29f74d734bc4b04c947f578e94956",
+    "trader_name": "yomayo",
+    "tag": "Overall",
+    "overall_gain": 2861.2162595537334,
+    "active_positions": 4,
+    "win_amount": 12969.22172094517,
+    "loss_amount": -10108.005461391434,
+    "win_rate": 0.8163265306122449,
+    "total_current_value": 31700.5109486645,
+    "total_positions": 92,
+    "event_ct": 49,
+    "win_count": 40,
+    "rank": 29656,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
