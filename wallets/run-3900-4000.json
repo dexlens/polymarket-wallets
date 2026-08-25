@@ -1390,5 +1390,21 @@
     "win_count": 41,
     "rank": 3987,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc3ec13b68caafda133cfff5d53d5630eb1fd0d0f",
+    "trader_name": "Maaa",
+    "tag": "Overall",
+    "overall_gain": 28165.587411207925,
+    "active_positions": 5,
+    "win_amount": 28817.965938,
+    "loss_amount": -652.378526792076,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 3988,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
