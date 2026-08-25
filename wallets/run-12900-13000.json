@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 12986,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbab06dcebba0a95acaadeb2cceda791a8e9c6e92",
+    "trader_name": "ffou",
+    "tag": "Overall",
+    "overall_gain": 7752.684091926571,
+    "active_positions": 3,
+    "win_amount": 9095.723318522436,
+    "loss_amount": -1343.039226595865,
+    "win_rate": 0.8518518518518519,
+    "total_current_value": 0.058951,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 23,
+    "rank": 12987,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
