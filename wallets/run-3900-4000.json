@@ -782,5 +782,21 @@
     "win_count": 89,
     "rank": 3949,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xad609e504b0ff9e588bf73eefe7b270d1a7aca07",
+    "trader_name": "HenrickWolfun",
+    "tag": "Overall",
+    "overall_gain": 28478.026560000002,
+    "active_positions": 0,
+    "win_amount": 163543.718171,
+    "loss_amount": -135065.69161100002,
+    "win_rate": 0.5169839492347891,
+    "total_current_value": 0,
+    "total_positions": 2956,
+    "event_ct": 2679,
+    "win_count": 1385,
+    "rank": 3950,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
