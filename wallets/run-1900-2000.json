@@ -1230,5 +1230,21 @@
     "win_count": 82,
     "rank": 1977,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f2ba33b080882c0f6b296f48cfd07b6c326f448",
+    "trader_name": "Cajetan",
+    "tag": "Overall",
+    "overall_gain": 61063.529377857834,
+    "active_positions": 945,
+    "win_amount": 91674.30482061784,
+    "loss_amount": -30610.77544276,
+    "win_rate": 0.671280276816609,
+    "total_current_value": 10355.589678000004,
+    "total_positions": 10425,
+    "event_ct": 867,
+    "win_count": 582,
+    "rank": 1978,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
