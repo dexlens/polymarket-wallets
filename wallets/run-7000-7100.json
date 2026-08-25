@@ -1006,5 +1006,21 @@
     "win_count": 43,
     "rank": 7063,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9473b1eb8e05690b820549b3098bbe86df3d3b20",
+    "trader_name": "Xgs",
+    "tag": "Overall",
+    "overall_gain": 15115.382464244674,
+    "active_positions": 176,
+    "win_amount": 47989.36043945677,
+    "loss_amount": -32873.977975212096,
+    "win_rate": 0.897071129707113,
+    "total_current_value": 17732.667972000003,
+    "total_positions": 2278,
+    "event_ct": 1195,
+    "win_count": 1072,
+    "rank": 7064,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
