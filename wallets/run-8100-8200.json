@@ -334,5 +334,21 @@
     "win_count": 10,
     "rank": 8121,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2579f742c98ac26507b4b088439da65beae29d48",
+    "trader_name": "zygp88",
+    "tag": "Overall",
+    "overall_gain": 12952.488383464746,
+    "active_positions": 37,
+    "win_amount": 35304.745772974115,
+    "loss_amount": -22352.257389509374,
+    "win_rate": 0.638095238095238,
+    "total_current_value": 808.2286114999999,
+    "total_positions": 110,
+    "event_ct": 105,
+    "win_count": 67,
+    "rank": 8122,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
