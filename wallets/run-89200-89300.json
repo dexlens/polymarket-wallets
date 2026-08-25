@@ -1342,5 +1342,21 @@
     "win_count": 3,
     "rank": 89285,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x587ca2b3a5ae25020e3f77141dbd171601639609",
+    "trader_name": "RustHalo",
+    "tag": "Overall",
+    "overall_gain": 498.32853846,
+    "active_positions": 11,
+    "win_amount": 2785.6983979999995,
+    "loss_amount": -2287.3698595399997,
+    "win_rate": 0.5416666666666666,
+    "total_current_value": 30,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 13,
+    "rank": 89286,
+    "trader_tags": ""
   }
 ]
