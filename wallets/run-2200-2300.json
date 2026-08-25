@@ -286,5 +286,21 @@
     "win_count": 10,
     "rank": 2218,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84f9909ef2b934cdfdff74fb965c8e4e6ec60285",
+    "trader_name": "KAM",
+    "tag": "Overall",
+    "overall_gain": 53933.8555868189,
+    "active_positions": 13,
+    "win_amount": 93902.96784780975,
+    "loss_amount": -39969.11226099088,
+    "win_rate": 0.5816023738872403,
+    "total_current_value": 7.5835569193290775,
+    "total_positions": 854,
+    "event_ct": 337,
+    "win_count": 196,
+    "rank": 2219,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
