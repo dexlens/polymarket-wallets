@@ -1182,5 +1182,21 @@
     "win_count": 3,
     "rank": 23674,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9def39cb6f7f37a9bdd91c444e4c200778576eac",
+    "trader_name": "toosmart",
+    "tag": "Overall",
+    "overall_gain": 3783.3371904748956,
+    "active_positions": 9,
+    "win_amount": 5770.372510995554,
+    "loss_amount": -1987.0353205206598,
+    "win_rate": 0.9581749049429658,
+    "total_current_value": 2585.66082283,
+    "total_positions": 613,
+    "event_ct": 263,
+    "win_count": 252,
+    "rank": 23675,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
