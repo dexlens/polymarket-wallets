@@ -1262,5 +1262,21 @@
     "win_count": 234,
     "rank": 34980,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x82d73ae266834b05f5cac3f4c202942380037766",
+    "trader_name": "edisondic",
+    "tag": "Overall",
+    "overall_gain": 2343.6,
+    "active_positions": 0,
+    "win_amount": 2343.6,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 34981,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
