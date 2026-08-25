@@ -1262,5 +1262,21 @@
     "win_count": 15,
     "rank": 6379,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x28b06b374d7b531e4a4991d6a0043fc242274397",
+    "trader_name": "amarahaagzmh",
+    "tag": "Overall",
+    "overall_gain": 16790.28,
+    "active_positions": 0,
+    "win_amount": 18786.28,
+    "loss_amount": -1996,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 6380,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
