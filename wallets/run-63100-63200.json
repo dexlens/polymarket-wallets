@@ -638,5 +638,21 @@
     "win_count": 16,
     "rank": 63141,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x634d8951a88a1c9c4562208b12865dd9e72fcc4c",
+    "trader_name": "gooningtotrump1",
+    "tag": "Overall",
+    "overall_gain": 997.1690154033688,
+    "active_positions": 0,
+    "win_amount": 2310.815101371337,
+    "loss_amount": -1313.646085967968,
+    "win_rate": 0.7448979591836735,
+    "total_current_value": 0.290771,
+    "total_positions": 294,
+    "event_ct": 196,
+    "win_count": 146,
+    "rank": 63142,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
