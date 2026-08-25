@@ -478,5 +478,21 @@
     "win_count": 284,
     "rank": 4930,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4b472b2e02535fddb062b0f357fab8107f3bde7e",
+    "trader_name": "huabi",
+    "tag": "Overall",
+    "overall_gain": 21996.972598808654,
+    "active_positions": 5,
+    "win_amount": 22735.635053144175,
+    "loss_amount": -738.662454335524,
+    "win_rate": 0.7714285714285715,
+    "total_current_value": 15.3712061045,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 27,
+    "rank": 4931,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
