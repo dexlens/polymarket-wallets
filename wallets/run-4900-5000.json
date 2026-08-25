@@ -718,5 +718,21 @@
     "win_count": 104,
     "rank": 4945,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x3257430605a00758ba401809a24dd891cc09eb53",
+    "trader_name": "Noravel",
+    "tag": "Overall",
+    "overall_gain": 21910.348634266044,
+    "active_positions": 6,
+    "win_amount": 23703.46740396512,
+    "loss_amount": -1793.118769699078,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 4.817374000000001,
+    "total_positions": 32,
+    "event_ct": 30,
+    "win_count": 25,
+    "rank": 4946,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
