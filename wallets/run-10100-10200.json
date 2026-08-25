@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 10164,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x442bdd854cf9a95b04af7e0d6585c8e9949b5410",
+    "trader_name": "Farmcat",
+    "tag": "Overall",
+    "overall_gain": 10330.900125101223,
+    "active_positions": 1,
+    "win_amount": 24263.86079714792,
+    "loss_amount": -13932.9606720467,
+    "win_rate": 0.573170731707317,
+    "total_current_value": 0.08193199999999999,
+    "total_positions": 100,
+    "event_ct": 82,
+    "win_count": 47,
+    "rank": 10165,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
