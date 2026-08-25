@@ -1166,5 +1166,21 @@
     "win_count": 31,
     "rank": 80074,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74b67082d63bbdb35a23179c7fee5eeda39778c6",
+    "trader_name": "gamble45",
+    "tag": "Overall",
+    "overall_gain": 629.269576241769,
+    "active_positions": 1,
+    "win_amount": 629.269576241769,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 148.57628442549998,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 80075,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
