@@ -1390,5 +1390,21 @@
     "win_count": 2,
     "rank": 27488,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x287a21fbb305946dd3e344c2415b86f5f5b19ee2",
+    "trader_name": "polpol3",
+    "tag": "Overall",
+    "overall_gain": 3135.125476838316,
+    "active_positions": 1,
+    "win_amount": 6124.326983119645,
+    "loss_amount": -2989.2015062813293,
+    "win_rate": 0.625,
+    "total_current_value": 0.026996,
+    "total_positions": 49,
+    "event_ct": 24,
+    "win_count": 15,
+    "rank": 27489,
+    "trader_tags": ""
   }
 ]
