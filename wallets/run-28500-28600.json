@@ -686,5 +686,21 @@
     "win_count": 75,
     "rank": 28544,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd6619818ed670a8784fff404d8838c30ed017b22",
+    "trader_name": "AdairPullman",
+    "tag": "Overall",
+    "overall_gain": 2999.78628160952,
+    "active_positions": 38,
+    "win_amount": 16499.78628160952,
+    "loss_amount": -13500,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 9.148615482999999,
+    "total_positions": 93,
+    "event_ct": 93,
+    "win_count": 63,
+    "rank": 28545,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
