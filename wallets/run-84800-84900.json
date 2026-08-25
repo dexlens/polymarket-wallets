@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 84851,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72051f57c649301ec267d74e43906c69e3843377",
+    "trader_name": "WiseColibri",
+    "tag": "Overall",
+    "overall_gain": 554.1886771923569,
+    "active_positions": 4,
+    "win_amount": 25309.38595847121,
+    "loss_amount": -24755.197281278848,
+    "win_rate": 0.549165120593692,
+    "total_current_value": 2628.6631511305,
+    "total_positions": 970,
+    "event_ct": 539,
+    "win_count": 296,
+    "rank": 84852,
+    "trader_tags": ""
   }
 ]
