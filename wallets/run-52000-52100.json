@@ -670,5 +670,21 @@
     "win_count": 28,
     "rank": 52043,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd3c8606d96b39bc24f0adddd4d71da55d7f82c2",
+    "trader_name": "AuraGlow1",
+    "tag": "Overall",
+    "overall_gain": 1390.3,
+    "active_positions": 0,
+    "win_amount": 1390.3,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 52044,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
