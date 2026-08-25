@@ -974,5 +974,21 @@
     "win_count": 5,
     "rank": 2861,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13b066438ef6690b0d4064f5839a61e833e2bb21",
+    "trader_name": "reikano",
+    "tag": "Overall",
+    "overall_gain": 40201.204468528376,
+    "active_positions": 217,
+    "win_amount": 478814.1426265153,
+    "loss_amount": -438612.938157987,
+    "win_rate": 0.5610579628587508,
+    "total_current_value": 63.730636,
+    "total_positions": 2178,
+    "event_ct": 1777,
+    "win_count": 997,
+    "rank": 2862,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
