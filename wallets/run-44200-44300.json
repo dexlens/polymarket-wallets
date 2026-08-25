@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 44225,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40d4c5fec7ca00a5d4f2c9f45371aef405195b2d",
+    "trader_name": "MoneyMoneyGoMyHome",
+    "tag": "Overall",
+    "overall_gain": 1753.0183469222538,
+    "active_positions": 661,
+    "win_amount": 152277.55247199995,
+    "loss_amount": -150524.53412507777,
+    "win_rate": 0.5919515361315448,
+    "total_current_value": 0,
+    "total_positions": 2957,
+    "event_ct": 2311,
+    "win_count": 1368,
+    "rank": 44226,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
