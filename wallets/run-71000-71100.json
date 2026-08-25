@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 71035,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa74151da0848ed81f119cfba03822e82dac78d0e",
+    "trader_name": "mynameisgu",
+    "tag": "Overall",
+    "overall_gain": 787.6250218332523,
+    "active_positions": 2,
+    "win_amount": 1219.261998356603,
+    "loss_amount": -431.636976523351,
+    "win_rate": 0.7577319587628866,
+    "total_current_value": 146.31901705600006,
+    "total_positions": 434,
+    "event_ct": 194,
+    "win_count": 147,
+    "rank": 71036,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
