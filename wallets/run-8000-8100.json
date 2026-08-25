@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 8043,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11f595efb56332743b05b803cfe9d557c5605d82",
+    "trader_name": "fifafifa",
+    "tag": "Overall",
+    "overall_gain": 13049.638774833824,
+    "active_positions": 78,
+    "win_amount": 128084.67102014372,
+    "loss_amount": -115035.03224530992,
+    "win_rate": 0.577347143334447,
+    "total_current_value": 172.625035655,
+    "total_positions": 5998,
+    "event_ct": 5986,
+    "win_count": 3456,
+    "rank": 8044,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
