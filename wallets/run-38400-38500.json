@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 38480,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x075b75c54bb713e4295c9ac840b2fda59ead9a8c",
+    "trader_name": "rebn",
+    "tag": "Overall",
+    "overall_gain": 2087.665333742949,
+    "active_positions": 3,
+    "win_amount": 2893.726364329431,
+    "loss_amount": -806.061030586481,
+    "win_rate": 0.6101694915254238,
+    "total_current_value": 657.9446240609998,
+    "total_positions": 85,
+    "event_ct": 59,
+    "win_count": 36,
+    "rank": 38481,
+    "trader_tags": ""
   }
 ]
