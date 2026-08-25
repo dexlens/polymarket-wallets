@@ -526,5 +526,21 @@
     "win_count": 2,
     "rank": 49134,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f77084b4a437e65701e157df9f1c29db025924e",
+    "trader_name": "turnouttrader",
+    "tag": "Overall",
+    "overall_gain": 1521.9323229999998,
+    "active_positions": 0,
+    "win_amount": 3429.8203869999998,
+    "loss_amount": -1907.888064,
+    "win_rate": 0.8260869565217391,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 19,
+    "rank": 49135,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
