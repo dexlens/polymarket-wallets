@@ -1566,5 +1566,21 @@
     "win_count": 10,
     "rank": 35599,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x53d7d32946281320ba10e5e106a19f30084a649e",
+    "trader_name": "tdev00-account6",
+    "tag": "Overall",
+    "overall_gain": 2293.5540366293335,
+    "active_positions": 16,
+    "win_amount": 7555.18305633675,
+    "loss_amount": -5261.629019707419,
+    "win_rate": 0.8455882352941176,
+    "total_current_value": 1.1581829999999997,
+    "total_positions": 974,
+    "event_ct": 680,
+    "win_count": 575,
+    "rank": 35600,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
