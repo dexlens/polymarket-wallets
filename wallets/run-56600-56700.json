@@ -1534,5 +1534,21 @@
     "win_count": 194,
     "rank": 56697,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x129489bf1f242642930c14f810f95e5c83676bb7",
+    "trader_name": "QuantFable",
+    "tag": "Overall",
+    "overall_gain": 1191.012221405972,
+    "active_positions": 2,
+    "win_amount": 2610.516329,
+    "loss_amount": -1419.504107594028,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 56698,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
