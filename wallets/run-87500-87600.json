@@ -14,5 +14,21 @@
     "win_count": 72,
     "rank": 87502,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x811fe35b4ccfb689a8bf2e144498f358ae7516e3",
+    "trader_name": "TimeDecay",
+    "tag": "Overall",
+    "overall_gain": 518.7569577032272,
+    "active_positions": 39,
+    "win_amount": 2485.838353893945,
+    "loss_amount": -1967.0813961907181,
+    "win_rate": 0.7669902912621359,
+    "total_current_value": 4212.470680994,
+    "total_positions": 172,
+    "event_ct": 103,
+    "win_count": 79,
+    "rank": 87503,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
