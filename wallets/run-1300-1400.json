@@ -910,5 +910,21 @@
     "win_count": 20,
     "rank": 1357,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf20986f7c6b8e3ea603a7bb33797d5ba982597e1",
+    "trader_name": "ronsonjonson",
+    "tag": "Overall",
+    "overall_gain": 89326.45858034145,
+    "active_positions": 2,
+    "win_amount": 383091.17216304387,
+    "loss_amount": -293764.71358270245,
+    "win_rate": 0.33613445378151263,
+    "total_current_value": 0.16077600000000003,
+    "total_positions": 179,
+    "event_ct": 119,
+    "win_count": 40,
+    "rank": 1358,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
