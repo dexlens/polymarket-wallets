@@ -990,5 +990,21 @@
     "win_count": 2,
     "rank": 762,
     "trader_tags": "Overall PnL > $100k; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x43440ab002eaac9fede6f9d21bea96d84228f90d",
+    "trader_name": "M888",
+    "tag": "Overall",
+    "overall_gain": 167941.5246638281,
+    "active_positions": 60,
+    "win_amount": 221170.86386047807,
+    "loss_amount": -53229.339196649984,
+    "win_rate": 0.7429245283018868,
+    "total_current_value": 160782.22671728898,
+    "total_positions": 1647,
+    "event_ct": 848,
+    "win_count": 630,
+    "rank": 763,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions; Politics PnL > $100k"
   }
 ]
