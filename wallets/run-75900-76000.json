@@ -430,5 +430,21 @@
     "win_count": 65,
     "rank": 75928,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbde7b1cb510be5786a3c0012a1f1f51835e09bfe",
+    "trader_name": "anodh",
+    "tag": "Overall",
+    "overall_gain": 700.187109638782,
+    "active_positions": 0,
+    "win_amount": 700.187109638782,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008912825,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 75929,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
