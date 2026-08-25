@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 35963,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e3cc8abc44e1df60af7fe7cf9316e646272ca53",
+    "trader_name": "otterr",
+    "tag": "Overall",
+    "overall_gain": 2264.8598628004497,
+    "active_positions": 69,
+    "win_amount": 5296.489391355644,
+    "loss_amount": -3031.6295285551937,
+    "win_rate": 0.9296296296296296,
+    "total_current_value": 2821.007240133999,
+    "total_positions": 1439,
+    "event_ct": 540,
+    "win_count": 502,
+    "rank": 35964,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
