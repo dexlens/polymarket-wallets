@@ -1326,5 +1326,21 @@
     "win_count": 312,
     "rank": 30784,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb2dd7ae2e63db43785d8da78cc9e77a464d6e469",
+    "trader_name": "ToolPart59",
+    "tag": "Overall",
+    "overall_gain": 2725.63332576172,
+    "active_positions": 5,
+    "win_amount": 2726.751456566944,
+    "loss_amount": -1.1181308052240007,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 21.557702952,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 30785,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
