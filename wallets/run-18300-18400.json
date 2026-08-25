@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 18312,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x55291dc2069439a6de5c93a9bec8da2215a9e5b9",
+    "trader_name": "i2dt",
+    "tag": "Overall",
+    "overall_gain": 5076.273196726173,
+    "active_positions": 402,
+    "win_amount": 6031.66623691394,
+    "loss_amount": -955.393040187768,
+    "win_rate": 0.7645429362880887,
+    "total_current_value": 46223.4424513755,
+    "total_positions": 1078,
+    "event_ct": 361,
+    "win_count": 276,
+    "rank": 18313,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
