@@ -1198,5 +1198,21 @@
     "win_count": 8,
     "rank": 7875,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0b56c9e0e3b1dc5915cf26801c579c2dc12f4254",
+    "trader_name": "mabels",
+    "tag": "Overall",
+    "overall_gain": 13377.02419,
+    "active_positions": 1,
+    "win_amount": 13942.434190000002,
+    "loss_amount": -565.41,
+    "win_rate": 0.8055555555555556,
+    "total_current_value": 0,
+    "total_positions": 47,
+    "event_ct": 36,
+    "win_count": 29,
+    "rank": 7876,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
