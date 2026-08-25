@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 83138,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x35a971c47ae7a766732d42c935a65043dc44b4c3",
+    "trader_name": "Zorosayu",
+    "tag": "Overall",
+    "overall_gain": 580.351573698717,
+    "active_positions": 4,
+    "win_amount": 758.375962426556,
+    "loss_amount": -178.02438872783898,
+    "win_rate": 0.5625,
+    "total_current_value": 10.8024509,
+    "total_positions": 18,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 83139,
+    "trader_tags": "< 30 days old"
   }
 ]
