@@ -590,5 +590,21 @@
     "win_count": 16,
     "rank": 9437,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x91667e40b80c447050904b042f3b85d22fc6b479",
+    "trader_name": "BeraEnjoyer",
+    "tag": "Overall",
+    "overall_gain": 11105.63369143733,
+    "active_positions": 2,
+    "win_amount": 38015.10978620329,
+    "loss_amount": -26909.476094765952,
+    "win_rate": 0.696969696969697,
+    "total_current_value": 5388.490066058001,
+    "total_positions": 81,
+    "event_ct": 66,
+    "win_count": 46,
+    "rank": 9438,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
