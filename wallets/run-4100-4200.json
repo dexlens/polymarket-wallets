@@ -1182,5 +1182,21 @@
     "win_count": 12,
     "rank": 4174,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x255b391b48fc1ee40616312cc3c29031438c7b2a",
+    "trader_name": "MrmrmrYAYAYA",
+    "tag": "Overall",
+    "overall_gain": 26732.53676323379,
+    "active_positions": 483,
+    "win_amount": 115430.9536966003,
+    "loss_amount": -88698.41693336648,
+    "win_rate": 0.48306148055207027,
+    "total_current_value": 1948.6694520000005,
+    "total_positions": 832,
+    "event_ct": 797,
+    "win_count": 385,
+    "rank": 4175,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
