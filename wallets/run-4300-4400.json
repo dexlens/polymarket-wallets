@@ -734,5 +734,21 @@
     "win_count": 537,
     "rank": 4346,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x75d4c19708ad084c1cf6a10cfdf528c76fd94027",
+    "trader_name": "maduroisq",
+    "tag": "Overall",
+    "overall_gain": 25557.371794191473,
+    "active_positions": 10,
+    "win_amount": 40343.70879748575,
+    "loss_amount": -14786.337003294277,
+    "win_rate": 0.7317073170731707,
+    "total_current_value": 23537.646671962502,
+    "total_positions": 64,
+    "event_ct": 41,
+    "win_count": 30,
+    "rank": 4347,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
