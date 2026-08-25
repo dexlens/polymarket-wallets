@@ -78,5 +78,21 @@
     "win_count": 1,
     "rank": 2105,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x94316f968e96c23acb45bfd1796a382adba6015f",
+    "trader_name": "lishengshun",
+    "tag": "Overall",
+    "overall_gain": 57137.56397058,
+    "active_positions": 2,
+    "win_amount": 57137.56397058,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 2106,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
