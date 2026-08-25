@@ -1294,5 +1294,21 @@
     "win_count": 2,
     "rank": 82182,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x0890eed6e987678b12a20ba4cc03458d393d1b14",
+    "trader_name": "vandik",
+    "tag": "Overall",
+    "overall_gain": 595.524837079983,
+    "active_positions": 2,
+    "win_amount": 607.704634079983,
+    "loss_amount": -12.179796999999999,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 484.68014493450005,
+    "total_positions": 93,
+    "event_ct": 35,
+    "win_count": 30,
+    "rank": 82183,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
