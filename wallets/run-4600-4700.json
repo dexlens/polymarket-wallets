@@ -446,5 +446,21 @@
     "win_count": 3984,
     "rank": 4628,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x62fb171d1ead8281d38074927ea2507eaa444d60",
+    "trader_name": "martnh23",
+    "tag": "Overall",
+    "overall_gain": 23704.479189983842,
+    "active_positions": 4,
+    "win_amount": 36624.48630899288,
+    "loss_amount": -12920.007119009053,
+    "win_rate": 0.6755852842809364,
+    "total_current_value": 7467.214000765002,
+    "total_positions": 312,
+    "event_ct": 299,
+    "win_count": 202,
+    "rank": 4629,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
