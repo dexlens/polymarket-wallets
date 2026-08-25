@@ -446,5 +446,21 @@
     "win_count": 60,
     "rank": 65329,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3808c3b33cd3e043235bd61b47ca99d416ef1cd1",
+    "trader_name": "3p3",
+    "tag": "Overall",
+    "overall_gain": 935.3001023254268,
+    "active_positions": 10,
+    "win_amount": 1347.299235556707,
+    "loss_amount": -411.99913323128,
+    "win_rate": 0.6875,
+    "total_current_value": 246.97915509999999,
+    "total_positions": 19,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 65330,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
