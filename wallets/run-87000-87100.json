@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 87096,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x594650e395e617dd3db6d9324c1d6087fbd0027b",
+    "trader_name": "moorebrett",
+    "tag": "Overall",
+    "overall_gain": 524.497413331877,
+    "active_positions": 1,
+    "win_amount": 599.617078091721,
+    "loss_amount": -75.119664759844,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 23.303721,
+    "total_positions": 25,
+    "event_ct": 24,
+    "win_count": 16,
+    "rank": 87097,
+    "trader_tags": ""
   }
 ]
