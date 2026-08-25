@@ -958,5 +958,21 @@
     "win_count": 27,
     "rank": 32861,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ca8bd910c888dbb87995e89d33206b52997cb82",
+    "trader_name": "melodyap",
+    "tag": "Overall",
+    "overall_gain": 2516.978,
+    "active_positions": 2,
+    "win_amount": 2606.1530000000002,
+    "loss_amount": -89.17500000000001,
+    "win_rate": 0.8,
+    "total_current_value": 3160.565,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 32862,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
