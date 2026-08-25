@@ -1006,5 +1006,21 @@
     "win_count": 8,
     "rank": 2063,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1cdb4cac9d2428094058b60a0284c2c177dceb5c",
+    "trader_name": "nervem13",
+    "tag": "Overall",
+    "overall_gain": 58306.48327199489,
+    "active_positions": 7,
+    "win_amount": 63640.17952900603,
+    "loss_amount": -5333.696257011145,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 0.006887,
+    "total_positions": 21,
+    "event_ct": 19,
+    "win_count": 13,
+    "rank": 2064,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
