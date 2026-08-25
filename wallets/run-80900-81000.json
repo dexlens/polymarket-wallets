@@ -46,5 +46,21 @@
     "win_count": 10,
     "rank": 80904,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x83b7b8d8f91c6b738fd676770422a1838aec24ab",
+    "trader_name": "bitbin",
+    "tag": "Overall",
+    "overall_gain": 615.765468644724,
+    "active_positions": 4,
+    "win_amount": 765.6676164417529,
+    "loss_amount": -149.902147797029,
+    "win_rate": 0.8552631578947368,
+    "total_current_value": 133.771467585,
+    "total_positions": 81,
+    "event_ct": 76,
+    "win_count": 65,
+    "rank": 80905,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
