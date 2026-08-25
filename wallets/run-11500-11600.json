@@ -1326,5 +1326,21 @@
     "win_count": 255,
     "rank": 11583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcc1fe9cb2567ff172ccae0fb3fa18529afcd35d5",
+    "trader_name": "truthseeker",
+    "tag": "Overall",
+    "overall_gain": 8989.548709822127,
+    "active_positions": 6,
+    "win_amount": 15467.39191288086,
+    "loss_amount": -6477.843203058731,
+    "win_rate": 0.6,
+    "total_current_value": 168.52147999999997,
+    "total_positions": 17,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 11584,
+    "trader_tags": "> 1 year old"
   }
 ]
