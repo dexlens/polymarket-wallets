@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 65482,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59db57b28ddbcdf7f15e6dfcafad229fe99a7840",
+    "trader_name": "88888wallet",
+    "tag": "Overall",
+    "overall_gain": 930.8072620961099,
+    "active_positions": 17,
+    "win_amount": 969.42768159511,
+    "loss_amount": -38.620419499,
+    "win_rate": 0.35294117647058826,
+    "total_current_value": 5.451778327499999,
+    "total_positions": 35,
+    "event_ct": 17,
+    "win_count": 6,
+    "rank": 65483,
+    "trader_tags": ""
   }
 ]
