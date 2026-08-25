@@ -622,5 +622,21 @@
     "win_count": 8,
     "rank": 2939,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6e1d8cad0ec25f9e10a9564b6e373da8efa07a6b",
+    "trader_name": "cacamacacaca",
+    "tag": "Overall",
+    "overall_gain": 39121.03159794033,
+    "active_positions": 1,
+    "win_amount": 40121.028962,
+    "loss_amount": -999.997364059668,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 2940,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
