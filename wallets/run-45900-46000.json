@@ -926,5 +926,21 @@
     "win_count": 2,
     "rank": 45959,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3418196e5132d4b7be9e1d03ac24025e102fa3f2",
+    "trader_name": "HoffmanV1",
+    "tag": "Overall",
+    "overall_gain": 1668.4632981135508,
+    "active_positions": 7,
+    "win_amount": 9801.4926508848,
+    "loss_amount": -8133.029352771248,
+    "win_rate": 0.5,
+    "total_current_value": 0.073047,
+    "total_positions": 75,
+    "event_ct": 50,
+    "win_count": 25,
+    "rank": 45960,
+    "trader_tags": "> 1 year old"
   }
 ]
