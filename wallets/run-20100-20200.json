@@ -1246,5 +1246,21 @@
     "win_count": 9,
     "rank": 20178,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23bed9841bdb22393472663b5067d3deff869c92",
+    "trader_name": "YITAKER",
+    "tag": "Overall",
+    "overall_gain": 4581.005289000001,
+    "active_positions": 0,
+    "win_amount": 4622.043289,
+    "loss_amount": -41.038,
+    "win_rate": 0.7428571428571429,
+    "total_current_value": 0,
+    "total_positions": 36,
+    "event_ct": 35,
+    "win_count": 26,
+    "rank": 20179,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
