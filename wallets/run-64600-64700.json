@@ -1454,5 +1454,21 @@
     "win_count": 11,
     "rank": 64692,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd8e40e6ef2efd7b35220369b1ad605307b7f254f",
+    "trader_name": "GuardMaster",
+    "tag": "Overall",
+    "overall_gain": 954.0337850745891,
+    "active_positions": 4,
+    "win_amount": 1656.402350775053,
+    "loss_amount": -702.368565700464,
+    "win_rate": 0.75,
+    "total_current_value": 929.885053,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 64693,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
