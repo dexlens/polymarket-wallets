@@ -1518,5 +1518,21 @@
     "win_count": 76,
     "rank": 6195,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xe4fc1041edb5c205e449fb6a5967e9db24418af7",
+    "trader_name": "SC-Trader",
+    "tag": "Overall",
+    "overall_gain": 17285.95420614024,
+    "active_positions": 28,
+    "win_amount": 40873.61890377526,
+    "loss_amount": -23587.664697635006,
+    "win_rate": 0.6447154471544716,
+    "total_current_value": 16617.790852488495,
+    "total_positions": 2303,
+    "event_ct": 1230,
+    "win_count": 793,
+    "rank": 6196,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
