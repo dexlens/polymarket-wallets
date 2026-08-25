@@ -654,5 +654,21 @@
     "win_count": 51,
     "rank": 6941,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85a3bbe66dd6c89f76bfb04f036d2d72e63f84b5",
+    "trader_name": "sendal",
+    "tag": "Overall",
+    "overall_gain": 15451.18363787117,
+    "active_positions": 0,
+    "win_amount": 15451.18363787117,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00015300000000000003,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6942,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
