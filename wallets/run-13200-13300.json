@@ -878,5 +878,21 @@
     "win_count": 27,
     "rank": 13255,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x68cf9bac1730688c7a65c81b1be47e71e942004d",
+    "trader_name": "TWCP3",
+    "tag": "Overall",
+    "overall_gain": 7563.21077158036,
+    "active_positions": 33,
+    "win_amount": 45165.41870445742,
+    "loss_amount": -37602.20793287706,
+    "win_rate": 0.5645933014354066,
+    "total_current_value": 285.645953,
+    "total_positions": 263,
+    "event_ct": 209,
+    "win_count": 118,
+    "rank": 13256,
+    "trader_tags": "> 1 year old"
   }
 ]
