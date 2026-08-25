@@ -1294,5 +1294,21 @@
     "win_count": 5,
     "rank": 45282,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ef504ae1e5d487e13b3cab6d6237268746b437d",
+    "trader_name": "yuyu66774",
+    "tag": "Overall",
+    "overall_gain": 1700.0517393300001,
+    "active_positions": 1,
+    "win_amount": 1700.1068995800001,
+    "loss_amount": -0.05516025000000013,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 110.04478574999999,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 45283,
+    "trader_tags": "< 30 days old"
   }
 ]
