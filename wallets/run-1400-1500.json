@@ -1358,5 +1358,21 @@
     "win_count": 212,
     "rank": 1485,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61bcad5ea4e55e6995b775a193326297edbf6d0b",
+    "trader_name": "boom888",
+    "tag": "Overall",
+    "overall_gain": 81322.61506659005,
+    "active_positions": 15,
+    "win_amount": 97220.95677283542,
+    "loss_amount": -15898.341706245401,
+    "win_rate": 0.35294117647058826,
+    "total_current_value": 108.007025,
+    "total_positions": 20,
+    "event_ct": 17,
+    "win_count": 6,
+    "rank": 1486,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
