@@ -1182,5 +1182,21 @@
     "win_count": 7,
     "rank": 13674,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5adb67597b77c2a25c67afc1aec0fb5315f89916",
+    "trader_name": "kapow",
+    "tag": "Overall",
+    "overall_gain": 7242.754403492222,
+    "active_positions": 6,
+    "win_amount": 7595.105836762425,
+    "loss_amount": -352.35143327020404,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 40.00485,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 4,
+    "rank": 13675,
+    "trader_tags": "> 1 year old"
   }
 ]
