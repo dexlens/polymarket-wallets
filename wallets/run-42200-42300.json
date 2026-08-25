@@ -718,5 +718,21 @@
     "win_count": 2,
     "rank": 42246,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe5a307e5fb06f3b0b000e9a4650f10031521364c",
+    "trader_name": "LiYU369",
+    "tag": "Overall",
+    "overall_gain": 1863.7960064282154,
+    "active_positions": 18,
+    "win_amount": 4846.365130401091,
+    "loss_amount": -2982.569123972877,
+    "win_rate": 0.8104575163398693,
+    "total_current_value": 39.10766699999999,
+    "total_positions": 159,
+    "event_ct": 153,
+    "win_count": 124,
+    "rank": 42247,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
