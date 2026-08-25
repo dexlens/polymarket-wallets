@@ -222,5 +222,21 @@
     "win_count": 10,
     "rank": 28215,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x4d60083778e56bf47c228897305f78257f0cadf1",
+    "trader_name": "dervondort",
+    "tag": "Overall",
+    "overall_gain": 3037.2561216395648,
+    "active_positions": 2,
+    "win_amount": 4517.589378854859,
+    "loss_amount": -1480.3332572152951,
+    "win_rate": 0.9041916167664671,
+    "total_current_value": 301.00216414300013,
+    "total_positions": 352,
+    "event_ct": 334,
+    "win_count": 302,
+    "rank": 28216,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
