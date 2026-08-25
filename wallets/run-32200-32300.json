@@ -1438,5 +1438,21 @@
     "win_count": 305,
     "rank": 32291,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2abf669e8b520826d259065d13051504163b977f",
+    "trader_name": "ll1ejddw",
+    "tag": "Overall",
+    "overall_gain": 2572.35198295,
+    "active_positions": 2,
+    "win_amount": 3773.55198295,
+    "loss_amount": -1201.2,
+    "win_rate": 0.8,
+    "total_current_value": 4499.984277,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 32292,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
