@@ -286,5 +286,21 @@
     "win_count": 32,
     "rank": 918,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53a4f5be7d64abd9c49835374b5686cb86454447",
+    "trader_name": "Vespucci",
+    "tag": "Overall",
+    "overall_gain": 134131.50371849965,
+    "active_positions": 28,
+    "win_amount": 166407.99344862666,
+    "loss_amount": -32276.48973012694,
+    "win_rate": 0.7218934911242604,
+    "total_current_value": 0.25380545549999994,
+    "total_positions": 386,
+    "event_ct": 169,
+    "win_count": 122,
+    "rank": 919,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
   }
 ]
