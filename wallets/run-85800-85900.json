@@ -750,5 +750,21 @@
     "win_count": 5,
     "rank": 85848,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f747b31a17bbdd3ab9db83028176e71cd10d00b",
+    "trader_name": "AgentMike",
+    "tag": "Overall",
+    "overall_gain": 541.064855601115,
+    "active_positions": 2,
+    "win_amount": 6260.702535360001,
+    "loss_amount": -5719.637679758883,
+    "win_rate": 0.8101950183433095,
+    "total_current_value": 27.896201894500003,
+    "total_positions": 5282,
+    "event_ct": 5179,
+    "win_count": 4196,
+    "rank": 85849,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
