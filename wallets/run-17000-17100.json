@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 17022,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x96034778fd33bf8a4ac359ab07262b5267d09507",
+    "trader_name": "opjdi",
+    "tag": "Overall",
+    "overall_gain": 5543.5,
+    "active_positions": 2,
+    "win_amount": 5881.5,
+    "loss_amount": -338,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 17023,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
