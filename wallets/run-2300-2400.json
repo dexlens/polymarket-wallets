@@ -382,5 +382,21 @@
     "win_count": 58,
     "rank": 2324,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6465185233a1a2c8b0c7309636d620e25d4aabff",
+    "trader_name": "VelvetVist",
+    "tag": "Overall",
+    "overall_gain": 50965.526417,
+    "active_positions": 0,
+    "win_amount": 51195.571296999995,
+    "loss_amount": -230.04487999999998,
+    "win_rate": 0.7241379310344828,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 29,
+    "win_count": 21,
+    "rank": 2325,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
