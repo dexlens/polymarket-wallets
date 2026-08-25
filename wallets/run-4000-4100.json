@@ -1166,5 +1166,21 @@
     "win_count": 170,
     "rank": 4073,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdceec8c274d8913c6f2631e84986b81df9307634",
+    "trader_name": "lulerz",
+    "tag": "Overall",
+    "overall_gain": 27532.757708151938,
+    "active_positions": 1,
+    "win_amount": 27532.757708151938,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 4074,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
