@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 4976,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbf93328f8b69273453228a82c913207731822fd7",
+    "trader_name": "hell0pia",
+    "tag": "Overall",
+    "overall_gain": 21775.608344735618,
+    "active_positions": 2,
+    "win_amount": 156437.23402433618,
+    "loss_amount": -134661.62567960058,
+    "win_rate": 0.631578947368421,
+    "total_current_value": 38336.175537677,
+    "total_positions": 56,
+    "event_ct": 38,
+    "win_count": 24,
+    "rank": 4977,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
