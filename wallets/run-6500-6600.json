@@ -398,5 +398,21 @@
     "win_count": 36,
     "rank": 6525,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44eaa80d96ca5854c8838b2fe081835ee242d579",
+    "trader_name": "chankahjun",
+    "tag": "Overall",
+    "overall_gain": 16430.009793493275,
+    "active_positions": 3,
+    "win_amount": 18725.835199999998,
+    "loss_amount": -2295.825406506723,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0.01155,
+    "total_positions": 78,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 6526,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
