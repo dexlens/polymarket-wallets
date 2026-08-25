@@ -30,5 +30,21 @@
     "win_count": 1,
     "rank": 39003,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00594ce0f3f1df8920a6b024bb0a76dea95c2c12",
+    "trader_name": "SamuelCollins",
+    "tag": "Overall",
+    "overall_gain": 2053.041880920064,
+    "active_positions": 4,
+    "win_amount": 6367.115184000001,
+    "loss_amount": -4314.073303079936,
+    "win_rate": 0.8275862068965517,
+    "total_current_value": 0.008064,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 24,
+    "rank": 39004,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
