@@ -622,5 +622,21 @@
     "win_count": 38,
     "rank": 56640,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x720791c13cb5ea398bfe50e5c6186b6792cc9d7f",
+    "trader_name": "buqingg",
+    "tag": "Overall",
+    "overall_gain": 1193.352842,
+    "active_positions": 1,
+    "win_amount": 1193.352842,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 52.21,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 56641,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
