@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 38735,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xddc6d0c280cd5295992c39e9537343759b6d8acc",
+    "trader_name": "kapanv",
+    "tag": "Overall",
+    "overall_gain": 2070.374517844853,
+    "active_positions": 6,
+    "win_amount": 7666.718369749063,
+    "loss_amount": -5596.343851904209,
+    "win_rate": 0.76,
+    "total_current_value": 0.020568,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 19,
+    "rank": 38736,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
