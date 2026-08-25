@@ -1374,5 +1374,21 @@
     "win_count": 77,
     "rank": 67687,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe15df4932cd99e7babc638e1fa464e0472634c38",
+    "trader_name": "appuum",
+    "tag": "Overall",
+    "overall_gain": 870.0148293990717,
+    "active_positions": 4,
+    "win_amount": 2725.7210229999996,
+    "loss_amount": -1855.7061936009281,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 67688,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
