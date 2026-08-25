@@ -110,5 +110,21 @@
     "win_count": 1,
     "rank": 8307,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x46d244c7f0eb4214988d2ca15cc4520bb98e1cf9",
+    "trader_name": "ONIONSB",
+    "tag": "Overall",
+    "overall_gain": 12649.465832,
+    "active_positions": 0,
+    "win_amount": 14744.757856,
+    "loss_amount": -2095.292024,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 8308,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
