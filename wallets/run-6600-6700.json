@@ -718,5 +718,21 @@
     "win_count": 207,
     "rank": 6645,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2af23e956f62c74eba6ff907dc594829534ef2a7",
+    "trader_name": "kattiepar",
+    "tag": "Overall",
+    "overall_gain": 16158,
+    "active_positions": 0,
+    "win_amount": 16158,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 6646,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
