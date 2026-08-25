@@ -542,5 +542,21 @@
     "win_count": 2,
     "rank": 80535,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8a37bbf79eba56e84beb04a270d62da2424ea71d",
+    "trader_name": "morenaji",
+    "tag": "Overall",
+    "overall_gain": 621.558960548904,
+    "active_positions": 3,
+    "win_amount": 680.8410621161979,
+    "loss_amount": -59.282101567294,
+    "win_rate": 0.75,
+    "total_current_value": 1235.01339,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 80536,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
