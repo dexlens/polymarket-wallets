@@ -590,5 +590,21 @@
     "win_count": 13,
     "rank": 2537,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1b783fdf50a87b74c0261f14ea835acf578a683b",
+    "trader_name": "SUCIO",
+    "tag": "Overall",
+    "overall_gain": 46209.66507374538,
+    "active_positions": 6,
+    "win_amount": 50470.87507020251,
+    "loss_amount": -4261.209996457144,
+    "win_rate": 0.7435897435897436,
+    "total_current_value": 108.664997,
+    "total_positions": 87,
+    "event_ct": 78,
+    "win_count": 58,
+    "rank": 2538,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
