@@ -670,5 +670,21 @@
     "win_count": 31,
     "rank": 68943,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88b5f7fd6c373e11b243c1d3bc6e25b39dfc7b0b",
+    "trader_name": "Dzmitriy",
+    "tag": "Overall",
+    "overall_gain": 836.4813942504862,
+    "active_positions": 476,
+    "win_amount": 5096.312929780798,
+    "loss_amount": -4259.831535530309,
+    "win_rate": 0.5192878338278932,
+    "total_current_value": 601.2015681149999,
+    "total_positions": 1526,
+    "event_ct": 674,
+    "win_count": 350,
+    "rank": 68944,
+    "trader_tags": "1k+ Positions"
   }
 ]
