@@ -462,5 +462,21 @@
     "win_count": 18,
     "rank": 87730,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88a105d37b28fa19849d79e878cedce173c6cd0c",
+    "trader_name": "DD07",
+    "tag": "Overall",
+    "overall_gain": 516.01285936,
+    "active_positions": 0,
+    "win_amount": 516.01285936,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002738,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 87731,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
