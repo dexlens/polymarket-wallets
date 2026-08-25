@@ -910,5 +910,21 @@
     "win_count": 8,
     "rank": 9657,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7e3ea890a4d7ae1371f153bc5517103faa08f784",
+    "trader_name": "austenimpe",
+    "tag": "Overall",
+    "overall_gain": 10837.661614,
+    "active_positions": 0,
+    "win_amount": 10913.451601,
+    "loss_amount": -75.789987,
+    "win_rate": 0.7916666666666666,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 24,
+    "win_count": 19,
+    "rank": 9658,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
