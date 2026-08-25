@@ -414,5 +414,21 @@
     "win_count": 1,
     "rank": 4026,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd3e86cb6ad62ab6ae91f3d57cdc8a6c318de3c6f",
+    "trader_name": "aleenvolupt",
+    "tag": "Overall",
+    "overall_gain": 27844.08,
+    "active_positions": 0,
+    "win_amount": 27844.08,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 4027,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
