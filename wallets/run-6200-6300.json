@@ -1054,5 +1054,21 @@
     "win_count": 3,
     "rank": 6266,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x35cefeafd26483fb669f1a03d3c67ee657432e38",
+    "trader_name": "InsiderM",
+    "tag": "Overall",
+    "overall_gain": 17093.691356521034,
+    "active_positions": 1,
+    "win_amount": 23141.672284829503,
+    "loss_amount": -6047.980928308467,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.014333,
+    "total_positions": 7,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 6267,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
