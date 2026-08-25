@@ -446,5 +446,21 @@
     "win_count": 2,
     "rank": 57929,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xa7f4c1c4b5ba617bdc0c4e4b2ff4484fba6395c3",
+    "trader_name": "tyhfh",
+    "tag": "Overall",
+    "overall_gain": 1145.302779330442,
+    "active_positions": 0,
+    "win_amount": 1145.303279696442,
+    "loss_amount": -0.0005003660000000013,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.2087962,
+    "total_positions": 17,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 57930,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
