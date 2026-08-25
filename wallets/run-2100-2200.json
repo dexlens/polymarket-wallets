@@ -446,5 +446,21 @@
     "win_count": 33,
     "rank": 2128,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91583ceb1ebec79951a068e1d7d02c1ea590fa7b",
+    "trader_name": "GlobalizeTheHorchata",
+    "tag": "Overall",
+    "overall_gain": 56755.923200678655,
+    "active_positions": 197,
+    "win_amount": 3880436.528790326,
+    "loss_amount": -3823680.6055896482,
+    "win_rate": 0.45121951219512196,
+    "total_current_value": 0.000674,
+    "total_positions": 392,
+    "event_ct": 328,
+    "win_count": 148,
+    "rank": 2129,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
