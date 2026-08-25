@@ -1278,5 +1278,21 @@
     "win_count": 43,
     "rank": 4780,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd5bdad40c72bd558d366b9c119dad81c6c0a2182",
+    "trader_name": "13wwe",
+    "tag": "Overall",
+    "overall_gain": 22761.70254815016,
+    "active_positions": 1,
+    "win_amount": 96485.46032655341,
+    "loss_amount": -73723.75777840325,
+    "win_rate": 0.3953488372093023,
+    "total_current_value": 0.029831999999999997,
+    "total_positions": 205,
+    "event_ct": 129,
+    "win_count": 51,
+    "rank": 4781,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
