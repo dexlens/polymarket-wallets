@@ -302,5 +302,21 @@
     "win_count": 134,
     "rank": 79620,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x03d77272a075cb2a631b25a8889005e4448d9d82",
+    "trader_name": "Vaporcatch",
+    "tag": "Overall",
+    "overall_gain": 636.9200000000001,
+    "active_positions": 1,
+    "win_amount": 636.9200000000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 79621,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
