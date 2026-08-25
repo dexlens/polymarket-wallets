@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 87261,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3feca39df54a671c6570b9bc360db7142ba87f9d",
+    "trader_name": "tlin2011",
+    "tag": "Overall",
+    "overall_gain": 522.2887049910961,
+    "active_positions": 1,
+    "win_amount": 676.7198635130331,
+    "loss_amount": -154.431158521937,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 1524.5242329999999,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 28,
+    "rank": 87262,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
