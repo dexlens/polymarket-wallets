@@ -766,5 +766,21 @@
     "win_count": 207,
     "rank": 4848,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x72348f5fd941ab5c08b4d4b9d11f9d700e421d85",
+    "trader_name": "Neigel",
+    "tag": "Overall",
+    "overall_gain": 22433.587902029187,
+    "active_positions": 217,
+    "win_amount": 374116.803607599,
+    "loss_amount": -351683.2157055698,
+    "win_rate": 0.5334728033472803,
+    "total_current_value": 0.022149000000000002,
+    "total_positions": 601,
+    "event_ct": 478,
+    "win_count": 255,
+    "rank": 4849,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
