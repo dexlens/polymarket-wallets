@@ -542,5 +542,21 @@
     "win_count": 9,
     "rank": 2634,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d3d1f2f3611e11d482c69061805e6ef78f535d0",
+    "trader_name": "Sealamb0609",
+    "tag": "Overall",
+    "overall_gain": 44229.03652307712,
+    "active_positions": 8,
+    "win_amount": 96709.60001324647,
+    "loss_amount": -52480.56349016934,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 0.13056904249999998,
+    "total_positions": 65,
+    "event_ct": 57,
+    "win_count": 30,
+    "rank": 2635,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
