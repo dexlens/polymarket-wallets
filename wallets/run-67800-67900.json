@@ -286,5 +286,21 @@
     "win_count": 20,
     "rank": 67819,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x517702019e010a39abb816c1594c1d18aa0f60b6",
+    "trader_name": "Frh",
+    "tag": "Overall",
+    "overall_gain": 865.859163907764,
+    "active_positions": 1,
+    "win_amount": 2961.704295082384,
+    "loss_amount": -2095.84513117462,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.015728,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 67820,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
