@@ -238,5 +238,21 @@
     "win_count": 1,
     "rank": 30216,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57ba2826b06cb6846c164d7614b37c365ce2d369",
+    "trader_name": "MaksTrader",
+    "tag": "Overall",
+    "overall_gain": 2797.3959441125335,
+    "active_positions": 118,
+    "win_amount": 66352.51379066079,
+    "loss_amount": -63555.11784654827,
+    "win_rate": 0.6091549295774648,
+    "total_current_value": 0.055241,
+    "total_positions": 303,
+    "event_ct": 284,
+    "win_count": 173,
+    "rank": 30217,
+    "trader_tags": ""
   }
 ]
