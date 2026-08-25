@@ -1358,5 +1358,21 @@
     "win_count": 3,
     "rank": 62786,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x22aa44c67eef95460eddf21ecd5cbb1c53bbb32b",
+    "trader_name": "jaeh",
+    "tag": "Overall",
+    "overall_gain": 1002.5486650216524,
+    "active_positions": 1,
+    "win_amount": 9056.470425748514,
+    "loss_amount": -8053.92176072686,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.030078,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 62787,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
