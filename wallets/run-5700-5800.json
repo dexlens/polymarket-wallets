@@ -414,5 +414,21 @@
     "win_count": 4,
     "rank": 5726,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x827b8a78c18825d3621652c8e556f35db64501ce",
+    "trader_name": "SaudiMinisterOfHomeEntertainment",
+    "tag": "Overall",
+    "overall_gain": 18806.544327480893,
+    "active_positions": 23,
+    "win_amount": 190697.7698070822,
+    "loss_amount": -171891.22547960133,
+    "win_rate": 0.5021533161068045,
+    "total_current_value": 89.5083940835,
+    "total_positions": 2558,
+    "event_ct": 1161,
+    "win_count": 583,
+    "rank": 5727,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
