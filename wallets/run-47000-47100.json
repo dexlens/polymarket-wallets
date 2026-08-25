@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 47033,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67eda02a8ff182dcca8be5d54553703b48bf56c6",
+    "trader_name": "Codehard",
+    "tag": "Overall",
+    "overall_gain": 1615.6663320006992,
+    "active_positions": 0,
+    "win_amount": 32768.23467055656,
+    "loss_amount": -31152.568338555848,
+    "win_rate": 0.49745676500508645,
+    "total_current_value": 0.065011,
+    "total_positions": 1009,
+    "event_ct": 983,
+    "win_count": 489,
+    "rank": 47034,
+    "trader_tags": "1k+ Positions"
   }
 ]
