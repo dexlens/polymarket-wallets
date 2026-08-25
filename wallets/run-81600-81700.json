@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 81665,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ec87f488699a0bdf3dbc86e0b7eb7fa5fff1bd7",
+    "trader_name": "TFUOLF",
+    "tag": "Overall",
+    "overall_gain": 603.51472,
+    "active_positions": 7,
+    "win_amount": 625.630709,
+    "loss_amount": -22.115989,
+    "win_rate": 0.5,
+    "total_current_value": 14.949,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 81666,
+    "trader_tags": ""
   }
 ]
