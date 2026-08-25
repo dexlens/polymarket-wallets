@@ -78,5 +78,21 @@
     "win_count": 10,
     "rank": 10605,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3abbb0d4c068611a132d5400d65dae03b6853405",
+    "trader_name": "XGB",
+    "tag": "Overall",
+    "overall_gain": 9979.636902054159,
+    "active_positions": 2,
+    "win_amount": 226915.44607674846,
+    "loss_amount": -216935.8091746944,
+    "win_rate": 0.46083866382373845,
+    "total_current_value": 24.998710825000003,
+    "total_positions": 11589,
+    "event_ct": 7035,
+    "win_count": 3242,
+    "rank": 10606,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
