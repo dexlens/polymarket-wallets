@@ -462,5 +462,21 @@
     "win_count": 173,
     "rank": 79230,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23097bca4030a323403082e1cd569ddbafaa61f6",
+    "trader_name": "sWb65",
+    "tag": "Overall",
+    "overall_gain": 643.5,
+    "active_positions": 2,
+    "win_amount": 851.5,
+    "loss_amount": -208,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 79231,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
