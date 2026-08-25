@@ -270,5 +270,21 @@
     "win_count": 1,
     "rank": 49318,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbc0d572d1abb04e9fe39781fbd9db5728922d3a5",
+    "trader_name": "pecepe",
+    "tag": "Overall",
+    "overall_gain": 1512.8289773223846,
+    "active_positions": 18,
+    "win_amount": 5296.819028415511,
+    "loss_amount": -3783.990051093126,
+    "win_rate": 0.7387198321091291,
+    "total_current_value": 591.7583937120002,
+    "total_positions": 2986,
+    "event_ct": 1906,
+    "win_count": 1408,
+    "rank": 49319,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
