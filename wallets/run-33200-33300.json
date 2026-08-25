@@ -1102,5 +1102,21 @@
     "win_count": 9,
     "rank": 33270,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcc93c81f198f163b836404e1887615c5937ed374",
+    "trader_name": "SamONC",
+    "tag": "Overall",
+    "overall_gain": 2484.052110779741,
+    "active_positions": 40,
+    "win_amount": 9205.020630047498,
+    "loss_amount": -6720.968519267761,
+    "win_rate": 0.46,
+    "total_current_value": 243.29589900000002,
+    "total_positions": 53,
+    "event_ct": 50,
+    "win_count": 23,
+    "rank": 33271,
+    "trader_tags": "< 30 days old"
   }
 ]
