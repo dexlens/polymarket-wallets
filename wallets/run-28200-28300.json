@@ -1534,5 +1534,21 @@
     "win_count": 5,
     "rank": 28297,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c3cbb2b86adc310ecde3945e641595557d08f25",
+    "trader_name": "Scalpings",
+    "tag": "Overall",
+    "overall_gain": 3027.761030912507,
+    "active_positions": 0,
+    "win_amount": 3329.673696239798,
+    "loss_amount": -301.91266532729196,
+    "win_rate": 0.5217391304347826,
+    "total_current_value": 0.12514736,
+    "total_positions": 112,
+    "event_ct": 69,
+    "win_count": 36,
+    "rank": 28298,
+    "trader_tags": "> 1 year old"
   }
 ]
