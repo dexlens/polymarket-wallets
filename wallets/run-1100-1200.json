@@ -254,5 +254,21 @@
     "win_count": 39,
     "rank": 1116,
     "trader_tags": "Overall PnL > $100k"
+  },
+  {
+    "trader": "0x094b905df5688b523ded3d6328252ece47556550",
+    "trader_name": "xbft4e",
+    "tag": "Overall",
+    "overall_gain": 109560,
+    "active_positions": 0,
+    "win_amount": 109560,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 1117,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Sports PnL > $100k"
   }
 ]
