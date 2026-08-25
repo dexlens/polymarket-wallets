@@ -1502,5 +1502,21 @@
     "win_count": 5,
     "rank": 73695,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x037241268d1bf4259aaeeb63b9eafa9184728404",
+    "trader_name": "ForcedBuyer",
+    "tag": "Overall",
+    "overall_gain": 733.0737431104164,
+    "active_positions": 2,
+    "win_amount": 2204.9951054858325,
+    "loss_amount": -1471.921362375416,
+    "win_rate": 0.76,
+    "total_current_value": 3737.8320884130003,
+    "total_positions": 32,
+    "event_ct": 25,
+    "win_count": 19,
+    "rank": 73696,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
