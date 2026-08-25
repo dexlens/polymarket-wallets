@@ -1582,5 +1582,21 @@
     "win_count": 17,
     "rank": 42200,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x27b7c140a8fbcd8e5e30f64021926b210e370704",
+    "trader_name": "MCC2026",
+    "tag": "Overall",
+    "overall_gain": 1866.2199488141448,
+    "active_positions": 22,
+    "win_amount": 3047.6220473774183,
+    "loss_amount": -1181.4020985632737,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 3022.101147164,
+    "total_positions": 114,
+    "event_ct": 56,
+    "win_count": 40,
+    "rank": 42201,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
