@@ -1342,5 +1342,21 @@
     "win_count": 2,
     "rank": 48985,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b0949b7a81355c19f833c9019840fe741033408",
+    "trader_name": "mumubaobao",
+    "tag": "Overall",
+    "overall_gain": 1529.3258882025088,
+    "active_positions": 1177,
+    "win_amount": 44565.92295052,
+    "loss_amount": -43036.5970623175,
+    "win_rate": 0.6234018899388549,
+    "total_current_value": 2.511638,
+    "total_positions": 3757,
+    "event_ct": 3598,
+    "win_count": 2243,
+    "rank": 48986,
+    "trader_tags": "1k+ Positions"
   }
 ]
