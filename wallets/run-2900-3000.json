@@ -1582,5 +1582,21 @@
     "win_count": 15,
     "rank": 2999,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x31376ec3898447399ff78bbec847273f3b465e0d",
+    "trader_name": "Ohmyleesang",
+    "tag": "Overall",
+    "overall_gain": 38256.08973330828,
+    "active_positions": 0,
+    "win_amount": 38873.51871917158,
+    "loss_amount": -617.428985863301,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.008848,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 3000,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
