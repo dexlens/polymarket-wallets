@@ -1454,5 +1454,21 @@
     "win_count": 6,
     "rank": 17691,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24d8e49649f26f3c8596258742051f139f3386a9",
+    "trader_name": "wallet-ad-4",
+    "tag": "Overall",
+    "overall_gain": 5288.51733379332,
+    "active_positions": 1081,
+    "win_amount": 8334.168322826752,
+    "loss_amount": -3045.6509890334323,
+    "win_rate": 0.04473684210526316,
+    "total_current_value": 0.025637,
+    "total_positions": 1148,
+    "event_ct": 1140,
+    "win_count": 51,
+    "rank": 17692,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
