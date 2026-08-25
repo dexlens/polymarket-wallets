@@ -126,5 +126,21 @@
     "win_count": 3,
     "rank": 23709,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x22f79f5c45e51b34181600069f8ac669e332b205",
+    "trader_name": "Tv12345",
+    "tag": "Overall",
+    "overall_gain": 3777.9148012834767,
+    "active_positions": 26,
+    "win_amount": 6751.346384077192,
+    "loss_amount": -2973.4315827937144,
+    "win_rate": 0.9629629629629629,
+    "total_current_value": 1117.2704984355,
+    "total_positions": 969,
+    "event_ct": 729,
+    "win_count": 702,
+    "rank": 23710,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
