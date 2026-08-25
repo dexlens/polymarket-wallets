@@ -46,5 +46,21 @@
     "win_count": 10,
     "rank": 18303,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a180af0762686eefe8faed69f73dc125b8c53f8",
+    "trader_name": "HJL",
+    "tag": "Overall",
+    "overall_gain": 5080.556743440604,
+    "active_positions": 1,
+    "win_amount": 5094.167926453225,
+    "loss_amount": -13.611183012621,
+    "win_rate": 0.8,
+    "total_current_value": 290.1366498,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 18304,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
