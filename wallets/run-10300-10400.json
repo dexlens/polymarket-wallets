@@ -750,5 +750,21 @@
     "win_count": 248,
     "rank": 10347,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xac65ce0c6ffabecec55c4967473ce6e97defe4f2",
+    "trader_name": "quantam",
+    "tag": "Overall",
+    "overall_gain": 10161.790998692004,
+    "active_positions": 4,
+    "win_amount": 10859.422419192004,
+    "loss_amount": -697.6314204999998,
+    "win_rate": 0.7244897959183674,
+    "total_current_value": 45070.312464,
+    "total_positions": 138,
+    "event_ct": 98,
+    "win_count": 71,
+    "rank": 10348,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
