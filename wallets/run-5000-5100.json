@@ -1294,5 +1294,21 @@
     "win_count": 26,
     "rank": 5081,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x398900e95487c704ac3b52fd653e1697d32227b1",
+    "trader_name": "HuntersMethDealer",
+    "tag": "Overall",
+    "overall_gain": 21328.6159581815,
+    "active_positions": 361,
+    "win_amount": 124432.25310703722,
+    "loss_amount": -103103.63714885572,
+    "win_rate": 0.45614035087719296,
+    "total_current_value": 5570.102556,
+    "total_positions": 1208,
+    "event_ct": 969,
+    "win_count": 442,
+    "rank": 5082,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
