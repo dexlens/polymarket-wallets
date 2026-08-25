@@ -1358,5 +1358,21 @@
     "win_count": 195,
     "rank": 85986,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x475bf77515fe74c21a7b9f0283eb0fc12a4fb83a",
+    "trader_name": "nvcrf",
+    "tag": "Overall",
+    "overall_gain": 539.3121666166361,
+    "active_positions": 3,
+    "win_amount": 552.636797416636,
+    "loss_amount": -13.324630800000001,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 48.8817276025,
+    "total_positions": 34,
+    "event_ct": 21,
+    "win_count": 19,
+    "rank": 85987,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
