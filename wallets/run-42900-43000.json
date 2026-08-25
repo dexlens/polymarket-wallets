@@ -1438,5 +1438,21 @@
     "win_count": 2,
     "rank": 42991,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x35ec1cc1453d902f35e366aa09f500c58d40e2e7",
+    "trader_name": "Bluergiver",
+    "tag": "Overall",
+    "overall_gain": 1819.5,
+    "active_positions": 1,
+    "win_amount": 2503.5,
+    "loss_amount": -684,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 42992,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
