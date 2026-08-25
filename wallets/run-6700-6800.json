@@ -1214,5 +1214,21 @@
     "win_count": 27,
     "rank": 6776,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x03840968649d45d0173405c6e924a6711c72d4ef",
+    "trader_name": "pirateshere",
+    "tag": "Overall",
+    "overall_gain": 15829.162237351942,
+    "active_positions": 44,
+    "win_amount": 17868.34258506064,
+    "loss_amount": -2039.180347708699,
+    "win_rate": 0.9480840543881335,
+    "total_current_value": 11480.286654000003,
+    "total_positions": 1446,
+    "event_ct": 809,
+    "win_count": 767,
+    "rank": 6777,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
