@@ -1086,5 +1086,21 @@
     "win_count": 7,
     "rank": 8968,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58547cb94ee3d4cf07c4b91d7e8659ae9e2f3f2e",
+    "trader_name": "sbsb",
+    "tag": "Overall",
+    "overall_gain": 11684.088980983197,
+    "active_positions": 1,
+    "win_amount": 11744.088759476397,
+    "loss_amount": -59.999778493200004,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.012486,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 8969,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
