@@ -1534,5 +1534,21 @@
     "win_count": 5,
     "rank": 36097,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e79b929ceef99335f59a56c7aa6efe3570291e5",
+    "trader_name": "You7",
+    "tag": "Overall",
+    "overall_gain": 2255.951,
+    "active_positions": 1,
+    "win_amount": 2440.7306,
+    "loss_amount": -184.77960000000002,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 36098,
+    "trader_tags": "> 1 year old"
   }
 ]
