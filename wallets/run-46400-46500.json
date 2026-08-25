@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 46419,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c060830b6f6b43174b1cf8b4475db07703c1543",
+    "trader_name": "mentoscola",
+    "tag": "Overall",
+    "overall_gain": 1645.899945916725,
+    "active_positions": 40,
+    "win_amount": 9605.6892175215,
+    "loss_amount": -7959.7892716047745,
+    "win_rate": 0.5455125478519779,
+    "total_current_value": 1107.068103,
+    "total_positions": 9214,
+    "event_ct": 4702,
+    "win_count": 2565,
+    "rank": 46420,
+    "trader_tags": "1k+ Positions"
   }
 ]
