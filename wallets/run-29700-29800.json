@@ -942,5 +942,21 @@
     "win_count": 2,
     "rank": 29760,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x34d4a95d4cbd725df53f7f41079ab9cd0cef3028",
+    "trader_name": "Zenithy",
+    "tag": "Overall",
+    "overall_gain": 2849.713784,
+    "active_positions": 4,
+    "win_amount": 3551.5537839999997,
+    "loss_amount": -701.8399999999999,
+    "win_rate": 0.75,
+    "total_current_value": 12.69,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 29761,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
