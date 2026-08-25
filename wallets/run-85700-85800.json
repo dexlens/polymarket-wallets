@@ -1326,5 +1326,21 @@
     "win_count": 7,
     "rank": 85784,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8df1e8deb689ab43eea50151923fd04e6567d7fb",
+    "trader_name": "catfish",
+    "tag": "Overall",
+    "overall_gain": 541.9134515404413,
+    "active_positions": 50,
+    "win_amount": 1142.811883893284,
+    "loss_amount": -600.8984323528426,
+    "win_rate": 0.5393258426966292,
+    "total_current_value": 822.531173,
+    "total_positions": 703,
+    "event_ct": 89,
+    "win_count": 48,
+    "rank": 85785,
+    "trader_tags": "> 1 year old"
   }
 ]
