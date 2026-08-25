@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 4364,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d91954919c7c729cc0dc4c82c62d336132f3578",
+    "trader_name": "YourFriendSteave",
+    "tag": "Overall",
+    "overall_gain": 25455.027327165757,
+    "active_positions": 12,
+    "win_amount": 32961.323937780355,
+    "loss_amount": -7506.2966106146,
+    "win_rate": 0.48484848484848486,
+    "total_current_value": 29858.9966526135,
+    "total_positions": 99,
+    "event_ct": 66,
+    "win_count": 32,
+    "rank": 4365,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
