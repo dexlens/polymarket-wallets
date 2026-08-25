@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 63042,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe67fb68f146efdea93ac01ffaa7b07682be0cddc",
+    "trader_name": "xf211",
+    "tag": "Overall",
+    "overall_gain": 998.7296539792851,
+    "active_positions": 5,
+    "win_amount": 7067.884653979286,
+    "loss_amount": -6069.155,
+    "win_rate": 0.8378378378378378,
+    "total_current_value": 0.004285,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 31,
+    "rank": 63043,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
