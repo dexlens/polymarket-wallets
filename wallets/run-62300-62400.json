@@ -622,5 +622,21 @@
     "win_count": 4,
     "rank": 62340,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x509b8a755864339b2d88eabf648209ba3af32cb3",
+    "trader_name": "M567N9",
+    "tag": "Overall",
+    "overall_gain": 1013.8793399999998,
+    "active_positions": 1,
+    "win_amount": 1013.8793399999998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.192,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 26,
+    "rank": 62341,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
