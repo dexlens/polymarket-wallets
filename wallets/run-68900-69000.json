@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 68951,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef763727c84a6817200cd7ca99dd0235f7e7f046",
+    "trader_name": "spiderwoman",
+    "tag": "Overall",
+    "overall_gain": 836.3413118503879,
+    "active_positions": 0,
+    "win_amount": 839.2634477808589,
+    "loss_amount": -2.9221359304709997,
+    "win_rate": 0.3125,
+    "total_current_value": 0.099204,
+    "total_positions": 25,
+    "event_ct": 16,
+    "win_count": 5,
+    "rank": 68952,
+    "trader_tags": "> 1 year old"
   }
 ]
