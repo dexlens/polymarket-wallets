@@ -1102,5 +1102,21 @@
     "win_count": 4,
     "rank": 6669,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x735410130609d8bc5a30e279263a1f566c55430f",
+    "trader_name": "Dr.napol",
+    "tag": "Overall",
+    "overall_gain": 16097.2532951535,
+    "active_positions": 17,
+    "win_amount": 18745.805527025226,
+    "loss_amount": -2648.552231871721,
+    "win_rate": 0.8360655737704918,
+    "total_current_value": 2230.872267718499,
+    "total_positions": 345,
+    "event_ct": 61,
+    "win_count": 51,
+    "rank": 6670,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
