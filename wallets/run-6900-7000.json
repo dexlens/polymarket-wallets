@@ -1566,5 +1566,21 @@
     "win_count": 5,
     "rank": 6998,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0c1b5c495cef313deb992bcfd1fc9fb60e3eb5fa",
+    "trader_name": "Lorquen",
+    "tag": "Overall",
+    "overall_gain": 15287.702214110113,
+    "active_positions": 2,
+    "win_amount": 15665.336469110114,
+    "loss_amount": -377.63425499999994,
+    "win_rate": 0.925,
+    "total_current_value": 5.818165,
+    "total_positions": 47,
+    "event_ct": 40,
+    "win_count": 37,
+    "rank": 6999,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
