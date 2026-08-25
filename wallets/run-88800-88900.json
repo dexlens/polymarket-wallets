@@ -622,5 +622,21 @@
     "win_count": 10,
     "rank": 88840,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x112fdca6c81a4f6ce3a9ab6657e809f5dff41856",
+    "trader_name": "Ejgo",
+    "tag": "Overall",
+    "overall_gain": 503.626028,
+    "active_positions": 0,
+    "win_amount": 503.626028,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 88841,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
