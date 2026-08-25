@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 2278,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x113be982878fc16d7b00828ca646ca93f80411c4",
+    "trader_name": "turnover-5g",
+    "tag": "Overall",
+    "overall_gain": 52377.38009806393,
+    "active_positions": 15,
+    "win_amount": 283138.3546361129,
+    "loss_amount": -230760.97453804902,
+    "win_rate": 0.6445430704054872,
+    "total_current_value": 23.281155000000002,
+    "total_positions": 5807,
+    "event_ct": 4957,
+    "win_count": 3195,
+    "rank": 2279,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
