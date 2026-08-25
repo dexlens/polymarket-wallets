@@ -734,5 +734,21 @@
     "win_count": 25,
     "rank": 34247,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0aa78108918e7c6a9d607722d9167b8ff288e80a",
+    "trader_name": "zhuyili",
+    "tag": "Overall",
+    "overall_gain": 2401.556548,
+    "active_positions": 2,
+    "win_amount": 2699.7845979999997,
+    "loss_amount": -298.22804999999994,
+    "win_rate": 0.7,
+    "total_current_value": 19.9075,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 34248,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
