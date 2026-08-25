@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 5054,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe9599e8aeee1b0361d125a0efed03b7c43db7c7a",
+    "trader_name": "Pikachu1111111111",
+    "tag": "Overall",
+    "overall_gain": 21414.866132645562,
+    "active_positions": 5,
+    "win_amount": 289119.7478262983,
+    "loss_amount": -267704.8816936527,
+    "win_rate": 0.47577092511013214,
+    "total_current_value": 207.24958700649998,
+    "total_positions": 544,
+    "event_ct": 454,
+    "win_count": 216,
+    "rank": 5055,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
