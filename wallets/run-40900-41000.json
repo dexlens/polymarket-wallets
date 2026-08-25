@@ -494,5 +494,21 @@
     "win_count": 3,
     "rank": 40932,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55f545bd523cd451fea169e3e37e951a663f6550",
+    "trader_name": "P66666",
+    "tag": "Overall",
+    "overall_gain": 1938.3166606452799,
+    "active_positions": 11,
+    "win_amount": 17220.06109180425,
+    "loss_amount": -15281.744431158972,
+    "win_rate": 0.46511627906976744,
+    "total_current_value": 0.11143499999999999,
+    "total_positions": 45,
+    "event_ct": 43,
+    "win_count": 20,
+    "rank": 40933,
+    "trader_tags": "< 30 days old"
   }
 ]
