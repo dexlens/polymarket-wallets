@@ -398,5 +398,21 @@
     "win_count": 5,
     "rank": 21425,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ca90ad7d9d7781c15dc4ba40ea524fa6f8d79c9",
+    "trader_name": "Hourdivider",
+    "tag": "Overall",
+    "overall_gain": 4253.163309,
+    "active_positions": 0,
+    "win_amount": 4253.163309,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 21426,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
