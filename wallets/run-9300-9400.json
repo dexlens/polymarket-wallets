@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 9344,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1a3fac1bac46066b9ddff4443461460164b97112",
+    "trader_name": "elAleman",
+    "tag": "Overall",
+    "overall_gain": 11212.968198225111,
+    "active_positions": 47,
+    "win_amount": 14855.386142772688,
+    "loss_amount": -3642.4179445475775,
+    "win_rate": 0.1,
+    "total_current_value": 355.70549061450004,
+    "total_positions": 52,
+    "event_ct": 30,
+    "win_count": 3,
+    "rank": 9345,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
