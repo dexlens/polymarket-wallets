@@ -1118,5 +1118,21 @@
     "win_count": 12,
     "rank": 9070,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe0a5bc7615640f82d5e6983beb1d5fa6a8f5c0ba",
+    "trader_name": "milliArzun",
+    "tag": "Overall",
+    "overall_gain": 11561.269210037568,
+    "active_positions": 25,
+    "win_amount": 18807.864499,
+    "loss_amount": -7246.595288962429,
+    "win_rate": 0.9947035118019574,
+    "total_current_value": 0.12,
+    "total_positions": 8692,
+    "event_ct": 8685,
+    "win_count": 8639,
+    "rank": 9071,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
