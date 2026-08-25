@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 2743,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6b0ebbef2630b9a0da35594bf7ddd1911246e3ea",
+    "trader_name": "spartatrading",
+    "tag": "Overall",
+    "overall_gain": 42282.95222323136,
+    "active_positions": 1104,
+    "win_amount": 80856.28018915896,
+    "loss_amount": -38573.3279659276,
+    "win_rate": 0.5044008124576845,
+    "total_current_value": 7284.6348773889995,
+    "total_positions": 4020,
+    "event_ct": 1477,
+    "win_count": 745,
+    "rank": 2744,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
