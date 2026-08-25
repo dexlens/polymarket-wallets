@@ -1086,5 +1086,21 @@
     "win_count": 2,
     "rank": 49269,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2a66d9fd6fa7f9244cef81c208046cb9ee33a177",
+    "trader_name": "rette33",
+    "tag": "Overall",
+    "overall_gain": 1515.001252689721,
+    "active_positions": 2239,
+    "win_amount": 2510.479411900411,
+    "loss_amount": -995.4781592106909,
+    "win_rate": 0.4707646176911544,
+    "total_current_value": 383.0569234259999,
+    "total_positions": 2746,
+    "event_ct": 667,
+    "win_count": 314,
+    "rank": 49270,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
