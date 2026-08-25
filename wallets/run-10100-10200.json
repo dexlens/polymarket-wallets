@@ -1374,5 +1374,21 @@
     "win_count": 34,
     "rank": 10186,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x736539924a5602b37a03a54fc12c1cc8f98964da",
+    "trader_name": "cqk",
+    "tag": "Overall",
+    "overall_gain": 10312.618471411311,
+    "active_positions": 32,
+    "win_amount": 13794.315537296421,
+    "loss_amount": -3481.6970658851105,
+    "win_rate": 0.7114093959731543,
+    "total_current_value": 7756.348322293,
+    "total_positions": 332,
+    "event_ct": 149,
+    "win_count": 106,
+    "rank": 10187,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
