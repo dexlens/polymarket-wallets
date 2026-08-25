@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 1865,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x38e598961dd0456a7fb2e758bd433d3e59fb8a4a",
+    "trader_name": "snoopdoge",
+    "tag": "Overall",
+    "overall_gain": 65218.29528152906,
+    "active_positions": 59,
+    "win_amount": 316094.84128773474,
+    "loss_amount": -250876.54600620575,
+    "win_rate": 0.5160961128119491,
+    "total_current_value": 9786.5246268885,
+    "total_positions": 43054,
+    "event_ct": 21558,
+    "win_count": 11126,
+    "rank": 1866,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
