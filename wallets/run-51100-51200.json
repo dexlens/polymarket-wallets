@@ -1102,5 +1102,21 @@
     "win_count": 4,
     "rank": 51170,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a1bb72d15c753464d07917df953727a69f25f82",
+    "trader_name": "norio",
+    "tag": "Overall",
+    "overall_gain": 1430.449824452161,
+    "active_positions": 27,
+    "win_amount": 1602.149677969305,
+    "loss_amount": -171.699853517144,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 3016.9020987625,
+    "total_positions": 50,
+    "event_ct": 22,
+    "win_count": 10,
+    "rank": 51171,
+    "trader_tags": "> 1 year old"
   }
 ]
