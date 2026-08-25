@@ -718,5 +718,21 @@
     "win_count": 39,
     "rank": 76046,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x413d04ce54be35435ce7e7c8fe260fec92ca8064",
+    "trader_name": "dadstoic",
+    "tag": "Overall",
+    "overall_gain": 698.1323445896289,
+    "active_positions": 9,
+    "win_amount": 4244.759813614472,
+    "loss_amount": -3546.6274690248406,
+    "win_rate": 0.408955223880597,
+    "total_current_value": 31.86443845,
+    "total_positions": 337,
+    "event_ct": 335,
+    "win_count": 137,
+    "rank": 76047,
+    "trader_tags": "< 30 days old"
   }
 ]
