@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 37844,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4bafb3c4c9860bd4533bf5cf30a164e2bd71b22b",
+    "trader_name": "DannyChantom",
+    "tag": "Overall",
+    "overall_gain": 2129.7528098660623,
+    "active_positions": 15,
+    "win_amount": 11497.755733500968,
+    "loss_amount": -9368.002923634906,
+    "win_rate": 0.5373134328358209,
+    "total_current_value": 755.6273146120001,
+    "total_positions": 119,
+    "event_ct": 67,
+    "win_count": 36,
+    "rank": 37845,
+    "trader_tags": "> 1 year old"
   }
 ]
