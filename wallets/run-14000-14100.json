@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 14050,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97f3f9f15c0063710c60d3ac9c40d17f4ba60eba",
+    "trader_name": "Investnow",
+    "tag": "Overall",
+    "overall_gain": 7026.33162920571,
+    "active_positions": 35,
+    "win_amount": 85151.40076222102,
+    "loss_amount": -78125.0691330153,
+    "win_rate": 0.42592592592592593,
+    "total_current_value": 78210.7585554345,
+    "total_positions": 272,
+    "event_ct": 162,
+    "win_count": 69,
+    "rank": 14051,
+    "trader_tags": ""
   }
 ]
