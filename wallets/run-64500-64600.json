@@ -142,5 +142,21 @@
     "win_count": 357,
     "rank": 64510,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6bc72ca463dbf9090939b93e8fb672587bc055fa",
+    "trader_name": "prostakov",
+    "tag": "Overall",
+    "overall_gain": 959.148757327893,
+    "active_positions": 0,
+    "win_amount": 959.148757327893,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007893,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 64511,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
