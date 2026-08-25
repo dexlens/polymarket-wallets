@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 86326,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x120ea5a99c367ebf0dfe75140a4d80fcdcc593f0",
+    "trader_name": "kbtn",
+    "tag": "Overall",
+    "overall_gain": 534.664635569256,
+    "active_positions": 3,
+    "win_amount": 1088.52709255645,
+    "loss_amount": -553.8624569871939,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0.06754299999999999,
+    "total_positions": 23,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 86327,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
