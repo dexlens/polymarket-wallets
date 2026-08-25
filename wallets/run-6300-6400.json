@@ -1566,5 +1566,21 @@
     "win_count": 5,
     "rank": 6398,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53bffcbff36055113b8775ae488e9bda0988bc10",
+    "trader_name": "rewardfarmer",
+    "tag": "Overall",
+    "overall_gain": 16749.491243212997,
+    "active_positions": 20,
+    "win_amount": 42823.05103779847,
+    "loss_amount": -26073.559794585468,
+    "win_rate": 0.6086956521739131,
+    "total_current_value": 13857.63923886,
+    "total_positions": 35,
+    "event_ct": 23,
+    "win_count": 14,
+    "rank": 6399,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
