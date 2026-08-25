@@ -1310,5 +1310,21 @@
     "win_count": 13,
     "rank": 8082,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17b940f214b86f8ac634d479d2e962dd678b430d",
+    "trader_name": "xiaohui18",
+    "tag": "Overall",
+    "overall_gain": 13006.527201937422,
+    "active_positions": 457,
+    "win_amount": 136774.29322966866,
+    "loss_amount": -123767.76602773128,
+    "win_rate": 0.46932814021421615,
+    "total_current_value": 4.362819000000001,
+    "total_positions": 1120,
+    "event_ct": 1027,
+    "win_count": 482,
+    "rank": 8083,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
