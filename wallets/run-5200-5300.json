@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 5269,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x63d2e943bc928a8035b87c29a1a8473a4e9c9e05",
+    "trader_name": "baccarat",
+    "tag": "Overall",
+    "overall_gain": 20585.335012,
+    "active_positions": 0,
+    "win_amount": 20585.335012,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 5270,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
