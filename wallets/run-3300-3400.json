@@ -430,5 +430,21 @@
     "win_count": 26,
     "rank": 3327,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd52fa78ffc8a1942ac63e526466b9c98fc24508",
+    "trader_name": "shi.yu",
+    "tag": "Overall",
+    "overall_gain": 34365.282024597065,
+    "active_positions": 344,
+    "win_amount": 85242.17674155015,
+    "loss_amount": -50876.894716953066,
+    "win_rate": 0.4461172741679873,
+    "total_current_value": 0.071711,
+    "total_positions": 1971,
+    "event_ct": 1262,
+    "win_count": 563,
+    "rank": 3328,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
