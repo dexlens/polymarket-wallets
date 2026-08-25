@@ -1406,5 +1406,21 @@
     "win_count": 24,
     "rank": 7588,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcd9cf0caefcdd0e16635531b4c00ef8fa421fba5",
+    "trader_name": "takeme2themoon",
+    "tag": "Overall",
+    "overall_gain": 13959.333438870233,
+    "active_positions": 0,
+    "win_amount": 49467.12548958548,
+    "loss_amount": -35507.792050715245,
+    "win_rate": 0.9855491329479769,
+    "total_current_value": 0.0005,
+    "total_positions": 767,
+    "event_ct": 346,
+    "win_count": 341,
+    "rank": 7589,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
