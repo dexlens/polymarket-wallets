@@ -94,5 +94,21 @@
     "win_count": 222,
     "rank": 1506,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d1de18e209968c2732cd39fcad91548eee75aa0",
+    "trader_name": "ChicoAlves04",
+    "tag": "Overall",
+    "overall_gain": 80155.02768949363,
+    "active_positions": 5,
+    "win_amount": 89038.15577964792,
+    "loss_amount": -8883.128090154334,
+    "win_rate": 0.4190871369294606,
+    "total_current_value": 7.932865860499999,
+    "total_positions": 381,
+    "event_ct": 241,
+    "win_count": 101,
+    "rank": 1507,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
