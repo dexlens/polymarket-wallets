@@ -462,5 +462,21 @@
     "win_count": 38,
     "rank": 6829,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xbca2527604aa0d99bd17de3eee9e9f1f3f76b397",
+    "trader_name": "makennalem",
+    "tag": "Overall",
+    "overall_gain": 15697.5,
+    "active_positions": 0,
+    "win_amount": 15697.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 6830,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
