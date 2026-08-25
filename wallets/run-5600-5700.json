@@ -1294,5 +1294,21 @@
     "win_count": 3,
     "rank": 5681,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f67d5b6e970efb63cad9148dec1a1e0cd58a203",
+    "trader_name": "gshan",
+    "tag": "Overall",
+    "overall_gain": 18992.211585262412,
+    "active_positions": 14,
+    "win_amount": 22797.317811792804,
+    "loss_amount": -3805.106226530385,
+    "win_rate": 0.6,
+    "total_current_value": 1013.8290863169999,
+    "total_positions": 28,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 5682,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
