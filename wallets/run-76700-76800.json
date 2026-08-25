@@ -1582,5 +1582,21 @@
     "win_count": 80,
     "rank": 76800,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4c909ac428626679964140e37805e19d6e4bcd7b",
+    "trader_name": "SOSAKEEF300",
+    "tag": "Overall",
+    "overall_gain": 685.4559831743034,
+    "active_positions": 420,
+    "win_amount": 5659.678172664126,
+    "loss_amount": -4974.22218948982,
+    "win_rate": 0.41168289290681503,
+    "total_current_value": 228.343202324,
+    "total_positions": 1332,
+    "event_ct": 719,
+    "win_count": 296,
+    "rank": 76801,
+    "trader_tags": "1k+ Positions"
   }
 ]
