@@ -718,5 +718,21 @@
     "win_count": 65,
     "rank": 12645,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6328502051bf12125b033641355a65552fff18b4",
+    "trader_name": "81PG",
+    "tag": "Overall",
+    "overall_gain": 8006.591675355008,
+    "active_positions": 2,
+    "win_amount": 8100.370775355008,
+    "loss_amount": -93.7791,
+    "win_rate": 0.9375,
+    "total_current_value": 0.09845539550000001,
+    "total_positions": 21,
+    "event_ct": 16,
+    "win_count": 15,
+    "rank": 12646,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
