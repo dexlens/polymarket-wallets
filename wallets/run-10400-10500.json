@@ -366,5 +366,21 @@
     "win_count": 20,
     "rank": 10423,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9af21600aa250ad0db1b974771b264513f5bb14e",
+    "trader_name": "xiaoxiao8888",
+    "tag": "Overall",
+    "overall_gain": 10085.276734991645,
+    "active_positions": 15,
+    "win_amount": 10715.981366013644,
+    "loss_amount": -630.704631022,
+    "win_rate": 0.6206896551724138,
+    "total_current_value": 0.04349000000000001,
+    "total_positions": 52,
+    "event_ct": 29,
+    "win_count": 18,
+    "rank": 10424,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
