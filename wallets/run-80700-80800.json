@@ -254,5 +254,21 @@
     "win_count": 3,
     "rank": 80717,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0303fd84d72fdc661410bea359f9dd5a67e62b82",
+    "trader_name": "RodWolf",
+    "tag": "Overall",
+    "overall_gain": 618.6220336925901,
+    "active_positions": 38,
+    "win_amount": 1231.1533301024704,
+    "loss_amount": -612.53129640988,
+    "win_rate": 0.3695652173913043,
+    "total_current_value": 0.030967,
+    "total_positions": 66,
+    "event_ct": 46,
+    "win_count": 17,
+    "rank": 80718,
+    "trader_tags": "> 1 year old"
   }
 ]
