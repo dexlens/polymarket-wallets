@@ -1198,5 +1198,21 @@
     "win_count": 2,
     "rank": 9975,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x94d80904cea7409cb33da9300c41d6469c08166d",
+    "trader_name": "gobshite",
+    "tag": "Overall",
+    "overall_gain": 10507.030122,
+    "active_positions": 0,
+    "win_amount": 10507.030122,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 9976,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
