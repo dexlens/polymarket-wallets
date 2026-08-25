@@ -1438,5 +1438,21 @@
     "win_count": 2,
     "rank": 72191,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x97e9f8a16631f0fb42ac1de37625891480459811",
+    "trader_name": "ThePoliWinner",
+    "tag": "Overall",
+    "overall_gain": 762.4073191721681,
+    "active_positions": 2,
+    "win_amount": 1662.405678550255,
+    "loss_amount": -899.9983593780869,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.000255,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 72192,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
