@@ -606,5 +606,21 @@
     "win_count": 2,
     "rank": 79039,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14cee29d40599553bca8d0fd18fa088f7919559f",
+    "trader_name": "plmijm",
+    "tag": "Overall",
+    "overall_gain": 646.61577899,
+    "active_positions": 0,
+    "win_amount": 646.61577899,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006665,
+    "total_positions": 28,
+    "event_ct": 27,
+    "win_count": 27,
+    "rank": 79040,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
