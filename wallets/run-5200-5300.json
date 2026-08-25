@@ -558,5 +558,21 @@
     "win_count": 9,
     "rank": 5235,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4fd172b5c9e29086f966ab653172798f3f704cf1",
+    "trader_name": "causaf",
+    "tag": "Overall",
+    "overall_gain": 20729.49611894761,
+    "active_positions": 8,
+    "win_amount": 21560.344469564723,
+    "loss_amount": -830.8483506171121,
+    "win_rate": 0.68,
+    "total_current_value": 135386.866664005,
+    "total_positions": 26,
+    "event_ct": 25,
+    "win_count": 17,
+    "rank": 5236,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
