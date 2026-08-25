@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 11025,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11f09d48095b152eb82a6bccc64138735d4c3fa8",
+    "trader_name": "Effet",
+    "tag": "Overall",
+    "overall_gain": 9555.877865491471,
+    "active_positions": 925,
+    "win_amount": 133873.69352842262,
+    "loss_amount": -124317.81566293111,
+    "win_rate": 0.543825561312608,
+    "total_current_value": 187.54794722999995,
+    "total_positions": 15800,
+    "event_ct": 9264,
+    "win_count": 5038,
+    "rank": 11026,
+    "trader_tags": "1k+ Positions"
   }
 ]
