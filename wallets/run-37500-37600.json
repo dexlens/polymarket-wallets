@@ -1070,5 +1070,21 @@
     "win_count": 5,
     "rank": 37568,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c62db323ce36385fa3f6ebdfb67fa762034726b",
+    "trader_name": "bnbnm",
+    "tag": "Overall",
+    "overall_gain": 2150.2833523249046,
+    "active_positions": 149,
+    "win_amount": 15859.481214163274,
+    "loss_amount": -13709.19786183838,
+    "win_rate": 0.5919811320754716,
+    "total_current_value": 50.292943023999996,
+    "total_positions": 485,
+    "event_ct": 424,
+    "win_count": 251,
+    "rank": 37569,
+    "trader_tags": ""
   }
 ]
