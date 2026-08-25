@@ -750,5 +750,21 @@
     "win_count": 11,
     "rank": 4447,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6e8b7f4ba03a7795326b31f943b865aec1d9e99f",
+    "trader_name": "MichaelStrategy",
+    "tag": "Overall",
+    "overall_gain": 24935.603134701272,
+    "active_positions": 15,
+    "win_amount": 46422.48045063281,
+    "loss_amount": -21486.877315931535,
+    "win_rate": 0.6568877551020408,
+    "total_current_value": 261.38108941900003,
+    "total_positions": 1213,
+    "event_ct": 784,
+    "win_count": 515,
+    "rank": 4448,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
