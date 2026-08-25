@@ -46,5 +46,21 @@
     "win_count": 12,
     "rank": 15503,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42f00208bcb39700d211c21d1ed20d735c06120e",
+    "trader_name": "nikkip",
+    "tag": "Overall",
+    "overall_gain": 6237.893912665493,
+    "active_positions": 3,
+    "win_amount": 18583.709678665502,
+    "loss_amount": -12345.815766,
+    "win_rate": 0.464068209500609,
+    "total_current_value": 4.6416404999999985,
+    "total_positions": 830,
+    "event_ct": 821,
+    "win_count": 381,
+    "rank": 15504,
+    "trader_tags": ""
   }
 ]
