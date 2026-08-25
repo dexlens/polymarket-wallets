@@ -702,5 +702,21 @@
     "win_count": 6,
     "rank": 31245,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3442e55254f2c7e3c35348fddb59d8b651df2758",
+    "trader_name": "swp10",
+    "tag": "Overall",
+    "overall_gain": 2676.259149804929,
+    "active_positions": 0,
+    "win_amount": 2676.259149804929,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005613,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 31246,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
