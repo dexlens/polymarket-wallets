@@ -302,5 +302,21 @@
     "win_count": 5,
     "rank": 67820,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9569e042a3e349a8d1797e45406b5288494f27fd",
+    "trader_name": "Treasured-Spending",
+    "tag": "Overall",
+    "overall_gain": 865.7960854739606,
+    "active_positions": 100,
+    "win_amount": 102990.54365016882,
+    "loss_amount": -102124.74756469484,
+    "win_rate": 0.5389048991354467,
+    "total_current_value": 3833.3344814199995,
+    "total_positions": 394,
+    "event_ct": 347,
+    "win_count": 187,
+    "rank": 67821,
+    "trader_tags": ""
   }
 ]
