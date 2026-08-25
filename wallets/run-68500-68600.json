@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 68594,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe2265cd63cb8870f32dcf33309c3289999f0d557",
+    "trader_name": "NYET-po",
+    "tag": "Overall",
+    "overall_gain": 845.6005620000001,
+    "active_positions": 0,
+    "win_amount": 922.595262,
+    "loss_amount": -76.9947,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 68595,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
