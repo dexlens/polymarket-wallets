@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 38140,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x45d4a8cafad4998c9f14d548e5e20aaa65c7ef10",
+    "trader_name": "gevsa",
+    "tag": "Overall",
+    "overall_gain": 2109.7685520888795,
+    "active_positions": 13,
+    "win_amount": 2589.2726003543194,
+    "loss_amount": -479.50404826544,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 13.2761746365,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 24,
+    "rank": 38141,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
