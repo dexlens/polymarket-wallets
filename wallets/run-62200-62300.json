@@ -654,5 +654,21 @@
     "win_count": 35,
     "rank": 62242,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b4a4348eb19c3c4fff014fe938c1316118c07fb",
+    "trader_name": "surfing",
+    "tag": "Overall",
+    "overall_gain": 1015.519894147225,
+    "active_positions": 14,
+    "win_amount": 7945.98968087309,
+    "loss_amount": -6930.469786725865,
+    "win_rate": 0.6547619047619048,
+    "total_current_value": 7228.326782615501,
+    "total_positions": 116,
+    "event_ct": 84,
+    "win_count": 55,
+    "rank": 62243,
+    "trader_tags": ""
   }
 ]
