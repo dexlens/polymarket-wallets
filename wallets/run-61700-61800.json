@@ -670,5 +670,21 @@
     "win_count": 7,
     "rank": 61743,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x401ce6bdbbcbe78ab0e07800ed7d44cccaa7d4bd",
+    "trader_name": "peacefully",
+    "tag": "Overall",
+    "overall_gain": 1028.6579487472002,
+    "active_positions": 1,
+    "win_amount": 1087.0970051415843,
+    "loss_amount": -58.439056394384004,
+    "win_rate": 0.9655172413793104,
+    "total_current_value": 2127.6481286,
+    "total_positions": 37,
+    "event_ct": 29,
+    "win_count": 28,
+    "rank": 61744,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
