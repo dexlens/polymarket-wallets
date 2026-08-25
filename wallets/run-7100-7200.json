@@ -46,5 +46,21 @@
     "win_count": 2,
     "rank": 7103,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9f94a674e5810069f1c671414fc564597b11f841",
+    "trader_name": "jedutkftsgzph",
+    "tag": "Overall",
+    "overall_gain": 15041.355607000001,
+    "active_positions": 0,
+    "win_amount": 15107.376607,
+    "loss_amount": -66.021,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 7104,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
