@@ -1502,5 +1502,21 @@
     "win_count": 12,
     "rank": 89495,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e736975d9bb031ac00d41849c23fad50b399e30",
+    "trader_name": "zubdao",
+    "tag": "Overall",
+    "overall_gain": 495.5218699977697,
+    "active_positions": 20,
+    "win_amount": 2124.54991659777,
+    "loss_amount": -1629.0280466,
+    "win_rate": 0.6901408450704225,
+    "total_current_value": 0.667407,
+    "total_positions": 77,
+    "event_ct": 71,
+    "win_count": 49,
+    "rank": 89496,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
