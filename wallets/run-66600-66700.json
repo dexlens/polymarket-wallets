@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 66699,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8f1d10351f0cb04d56ccab84ffdc0b04fa9fea8e",
+    "trader_name": "kouzhs",
+    "tag": "Overall",
+    "overall_gain": 896.807078363405,
+    "active_positions": 2,
+    "win_amount": 973.45,
+    "loss_amount": -76.642921636595,
+    "win_rate": 0.2222222222222222,
+    "total_current_value": 10.313405,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 2,
+    "rank": 66700,
+    "trader_tags": "> 1 year old"
   }
 ]
