@@ -1006,5 +1006,21 @@
     "win_count": 64,
     "rank": 50364,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xffe7d09cf00df0e3d84aab6d285a0db0e2939763",
+    "trader_name": "zhugfedali",
+    "tag": "Overall",
+    "overall_gain": 1468.4105800000002,
+    "active_positions": 2,
+    "win_amount": 1468.4105800000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.29,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 50365,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
