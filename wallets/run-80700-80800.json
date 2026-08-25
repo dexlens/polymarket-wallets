@@ -862,5 +862,21 @@
     "win_count": 8,
     "rank": 80755,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x590295e2858962ac6cd79da646220ee9b749f400",
+    "trader_name": "sohofidi",
+    "tag": "Overall",
+    "overall_gain": 618.0561203300001,
+    "active_positions": 2,
+    "win_amount": 1038.295511,
+    "loss_amount": -420.23939067,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 1.666665,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 80756,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
