@@ -782,5 +782,21 @@
     "win_count": 14,
     "rank": 2049,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3928faf6e1bd6763ee13e89aca1cff401e9515e4",
+    "trader_name": "Fastisslow",
+    "tag": "Overall",
+    "overall_gain": 58956.212122409,
+    "active_positions": 1,
+    "win_amount": 58956.212122409,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3495.50737,
+    "total_positions": 29,
+    "event_ct": 19,
+    "win_count": 19,
+    "rank": 2050,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
