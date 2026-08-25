@@ -1342,5 +1342,21 @@
     "win_count": 8,
     "rank": 53985,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x469fb75333b4fbcf292bd375e9df9160200b276c",
+    "trader_name": "aids2000wx",
+    "tag": "Overall",
+    "overall_gain": 1303.386028793969,
+    "active_positions": 1,
+    "win_amount": 2123.385354793969,
+    "loss_amount": -819.999326,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.024597,
+    "total_positions": 19,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 53986,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
