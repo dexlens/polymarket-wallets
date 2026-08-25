@@ -1326,5 +1326,21 @@
     "win_count": 4,
     "rank": 4683,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x662715e6d2fd9ab3aa3e072529c3a3e9d862898b",
+    "trader_name": "DeepestState",
+    "tag": "Overall",
+    "overall_gain": 23279.25585232548,
+    "active_positions": 0,
+    "win_amount": 50152.62887232886,
+    "loss_amount": -26873.373020003375,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.023371000000000003,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 4,
+    "rank": 4684,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
