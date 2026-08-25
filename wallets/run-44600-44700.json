@@ -270,5 +270,21 @@
     "win_count": 8,
     "rank": 44618,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54a446505e5c5bc63a91b897bafeb930a243f169",
+    "trader_name": "Whis",
+    "tag": "Overall",
+    "overall_gain": 1731.162894773775,
+    "active_positions": 20,
+    "win_amount": 3046.374326284955,
+    "loss_amount": -1315.2114315111803,
+    "win_rate": 0.41379310344827586,
+    "total_current_value": 1787.657294594,
+    "total_positions": 97,
+    "event_ct": 58,
+    "win_count": 24,
+    "rank": 44619,
+    "trader_tags": "> 1 year old"
   }
 ]
