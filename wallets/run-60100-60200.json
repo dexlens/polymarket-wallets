@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 60155,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77d9c40698aeabd4ce363d2e53ecf123436bf65a",
+    "trader_name": "pain6path",
+    "tag": "Overall",
+    "overall_gain": 1071.559933863511,
+    "active_positions": 1,
+    "win_amount": 1108.559817863511,
+    "loss_amount": -36.999884,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.003511,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 60156,
+    "trader_tags": "> 1 year old"
   }
 ]
