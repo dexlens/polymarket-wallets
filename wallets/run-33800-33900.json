@@ -526,5 +526,21 @@
     "win_count": 20,
     "rank": 33834,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb6a20febd8149aca5eff091c16345b9d4f729413",
+    "trader_name": "Horduna",
+    "tag": "Overall",
+    "overall_gain": 2438.49766063851,
+    "active_positions": 1,
+    "win_amount": 2438.49766063851,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005161,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 33835,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
