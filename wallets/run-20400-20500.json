@@ -638,5 +638,21 @@
     "win_count": 5,
     "rank": 20440,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9007438bed2f690fe52f158dab0ea9dbf32de26f",
+    "trader_name": "Lancut1",
+    "tag": "Overall",
+    "overall_gain": 4511.926528570331,
+    "active_positions": 1,
+    "win_amount": 5061.890228570332,
+    "loss_amount": -549.9637,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.009483,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 20441,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
