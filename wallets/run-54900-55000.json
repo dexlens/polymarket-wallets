@@ -414,5 +414,21 @@
     "win_count": 3,
     "rank": 54927,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a3a65ba755bc96fd84125bef12e084d9837a68c",
+    "trader_name": "BlessAccidentalWin",
+    "tag": "Overall",
+    "overall_gain": 1262.9212,
+    "active_positions": 3,
+    "win_amount": 2316.9132000000004,
+    "loss_amount": -1053.992,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 54928,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
