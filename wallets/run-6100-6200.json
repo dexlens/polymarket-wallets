@@ -1150,5 +1150,21 @@
     "win_count": 11,
     "rank": 6172,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1cb02be110cce61bf3a43bf1bca940857209f493",
+    "trader_name": "mihaii1",
+    "tag": "Overall",
+    "overall_gain": 17354.567194420284,
+    "active_positions": 2,
+    "win_amount": 22096.123965269602,
+    "loss_amount": -4741.556770849316,
+    "win_rate": 0.5981308411214953,
+    "total_current_value": 717.5567111850002,
+    "total_positions": 123,
+    "event_ct": 107,
+    "win_count": 64,
+    "rank": 6173,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
