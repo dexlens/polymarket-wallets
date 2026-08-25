@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 50225,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00fe2865a8dda724bc78210d66af949f85a713c2",
+    "trader_name": "dsfgrsgs",
+    "tag": "Overall",
+    "overall_gain": 1474.481579909904,
+    "active_positions": 13,
+    "win_amount": 6597.742452,
+    "loss_amount": -5123.260872090096,
+    "win_rate": 0.5526315789473685,
+    "total_current_value": 0.005904,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 21,
+    "rank": 50226,
+    "trader_tags": ""
   }
 ]
