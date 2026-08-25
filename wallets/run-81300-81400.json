@@ -366,5 +366,21 @@
     "win_count": 8,
     "rank": 81324,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xff72d2f62879d69aff2c69d84ce74cfb2fd4ae9b",
+    "trader_name": "Wort",
+    "tag": "Overall",
+    "overall_gain": 609.097037993792,
+    "active_positions": 0,
+    "win_amount": 622.7906801800299,
+    "loss_amount": -13.693642186237998,
+    "win_rate": 0.625,
+    "total_current_value": 0.01287847,
+    "total_positions": 12,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 81325,
+    "trader_tags": ""
   }
 ]
