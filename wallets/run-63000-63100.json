@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 63048,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe5196e5d585d81b74acab79293e2c1d38a275c47",
+    "trader_name": "CVNTJRT",
+    "tag": "Overall",
+    "overall_gain": 998.7017522690238,
+    "active_positions": 4,
+    "win_amount": 3033.7615419935137,
+    "loss_amount": -2035.05978972449,
+    "win_rate": 0.90625,
+    "total_current_value": 10.463514,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 29,
+    "rank": 63049,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
