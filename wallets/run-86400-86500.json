@@ -270,5 +270,21 @@
     "win_count": 3,
     "rank": 86418,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe55c0dcc64baa0155325440316df5bae66f9ccb2",
+    "trader_name": "bench1naive",
+    "tag": "Overall",
+    "overall_gain": 533.4925392634319,
+    "active_positions": 2,
+    "win_amount": 633.492182314992,
+    "loss_amount": -99.99964305156,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 132.501733,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 86419,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
