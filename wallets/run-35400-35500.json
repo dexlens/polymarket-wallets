@@ -718,5 +718,21 @@
     "win_count": 1,
     "rank": 35446,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x547db0c8fcef2ed4a8de7819a0882b8be3bcea58",
+    "trader_name": "Bitcoin150K",
+    "tag": "Overall",
+    "overall_gain": 2305.3729544967564,
+    "active_positions": 240,
+    "win_amount": 49818.81453706691,
+    "loss_amount": -47513.44158257016,
+    "win_rate": 0.539647577092511,
+    "total_current_value": 15377.106201438499,
+    "total_positions": 497,
+    "event_ct": 454,
+    "win_count": 245,
+    "rank": 35447,
+    "trader_tags": "< 30 days old"
   }
 ]
