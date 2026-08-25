@@ -1118,5 +1118,21 @@
     "win_count": 11,
     "rank": 74571,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdff760c249d3d1b6702ce84f02c8c4a017ae951d",
+    "trader_name": "NAUK",
+    "tag": "Overall",
+    "overall_gain": 720.55349257018,
+    "active_positions": 0,
+    "win_amount": 731.5534645701799,
+    "loss_amount": -10.999972,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.016036,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 74572,
+    "trader_tags": "< 30 days old"
   }
 ]
