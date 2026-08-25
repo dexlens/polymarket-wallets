@@ -1006,5 +1006,21 @@
     "win_count": 4,
     "rank": 76264,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcdcb141336e0d56e32b0bec6dbffbabc9a8540e6",
+    "trader_name": "benbaoli",
+    "tag": "Overall",
+    "overall_gain": 694.863312645,
+    "active_positions": 4,
+    "win_amount": 699.292482645,
+    "loss_amount": -4.42917,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 20.020629,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 76265,
+    "trader_tags": "< 30 days old"
   }
 ]
