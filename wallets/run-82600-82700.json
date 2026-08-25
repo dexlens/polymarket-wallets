@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 82639,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x922739acef2b27d5123fba2faa8758ec8826a8e2",
+    "trader_name": "Natury",
+    "tag": "Overall",
+    "overall_gain": 588.1054340705248,
+    "active_positions": 18,
+    "win_amount": 1832.9234426414198,
+    "loss_amount": -1244.8180085708955,
+    "win_rate": 0.6628571428571428,
+    "total_current_value": 106.71100958000001,
+    "total_positions": 180,
+    "event_ct": 175,
+    "win_count": 116,
+    "rank": 82640,
+    "trader_tags": "< 30 days old"
   }
 ]
