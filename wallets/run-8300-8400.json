@@ -478,5 +478,21 @@
     "win_count": 4,
     "rank": 8330,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xe574b4bf69386301fa2759bc4c39c0fc6f83832a",
+    "trader_name": "Turtle892",
+    "tag": "Overall",
+    "overall_gain": 12605.191432177246,
+    "active_positions": 35,
+    "win_amount": 19988.631876726387,
+    "loss_amount": -7383.440444549135,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 48524.772821477985,
+    "total_positions": 66,
+    "event_ct": 18,
+    "win_count": 10,
+    "rank": 8331,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
