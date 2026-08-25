@@ -878,5 +878,21 @@
     "win_count": 2,
     "rank": 65956,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x48e8322f32a0d76fdb5ddd08ed8b50b0d4eefe9e",
+    "trader_name": "eafasdf",
+    "tag": "Overall",
+    "overall_gain": 917.3718407815509,
+    "active_positions": 2,
+    "win_amount": 4781.707605790441,
+    "loss_amount": -3864.3357650088906,
+    "win_rate": 0.9634146341463414,
+    "total_current_value": 0.033181,
+    "total_positions": 411,
+    "event_ct": 410,
+    "win_count": 395,
+    "rank": 65957,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
