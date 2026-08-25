@@ -814,5 +814,21 @@
     "win_count": 48,
     "rank": 17451,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd10005f218ad8e5f8ffba647e3dcc974dc23549f",
+    "trader_name": "All-TimeHighs",
+    "tag": "Overall",
+    "overall_gain": 5374.879684149043,
+    "active_positions": 37,
+    "win_amount": 11162.123096215011,
+    "loss_amount": -5787.243412065968,
+    "win_rate": 0.6885245901639344,
+    "total_current_value": 293.081135005,
+    "total_positions": 61,
+    "event_ct": 61,
+    "win_count": 42,
+    "rank": 17452,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
