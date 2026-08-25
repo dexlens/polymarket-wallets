@@ -622,5 +622,21 @@
     "win_count": 5,
     "rank": 17339,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07731ddf103f8be7af82f84bc12a128361eb2cda",
+    "trader_name": "Florianstream",
+    "tag": "Overall",
+    "overall_gain": 5415.909985280058,
+    "active_positions": 8,
+    "win_amount": 5423.1950977933775,
+    "loss_amount": -7.285112513319001,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 35.827003166000004,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 17340,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
