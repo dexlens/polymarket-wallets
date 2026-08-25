@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 73398,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6955519bcfcb31858a0913f6a6985038cca4541b",
+    "trader_name": "NFGJJTR",
+    "tag": "Overall",
+    "overall_gain": 737.3707076538518,
+    "active_positions": 4,
+    "win_amount": 2007.235994437604,
+    "loss_amount": -1269.8652867837523,
+    "win_rate": 0.4583333333333333,
+    "total_current_value": 0.016652,
+    "total_positions": 26,
+    "event_ct": 24,
+    "win_count": 11,
+    "rank": 73399,
+    "trader_tags": ""
   }
 ]
