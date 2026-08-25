@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 6820,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8efa26aaf3ec04fe38d411ffa757da52618bf8c4",
+    "trader_name": "ET4",
+    "tag": "Overall",
+    "overall_gain": 15731.283239292077,
+    "active_positions": 5,
+    "win_amount": 26039.137321243084,
+    "loss_amount": -10307.854081951007,
+    "win_rate": 0.7210884353741497,
+    "total_current_value": 0.028031999999999998,
+    "total_positions": 158,
+    "event_ct": 147,
+    "win_count": 106,
+    "rank": 6821,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
