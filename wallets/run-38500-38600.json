@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 38575,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x816e5ba0d2a40370fa4ed6d4aa1c7c96508f2663",
+    "trader_name": "uosudo",
+    "tag": "Overall",
+    "overall_gain": 2081.87130422476,
+    "active_positions": 0,
+    "win_amount": 2681.683661407793,
+    "loss_amount": -599.8123571830331,
+    "win_rate": 0.7630979498861048,
+    "total_current_value": 0.7792589999999999,
+    "total_positions": 578,
+    "event_ct": 439,
+    "win_count": 335,
+    "rank": 38576,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
