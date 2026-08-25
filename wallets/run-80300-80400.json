@@ -142,5 +142,21 @@
     "win_count": 3,
     "rank": 80310,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x29c1d0afb37508680aeb3add41e0be73ba10e056",
+    "trader_name": "Qiqi",
+    "tag": "Overall",
+    "overall_gain": 625.544901238,
+    "active_positions": 0,
+    "win_amount": 625.544901238,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00156,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 80311,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
