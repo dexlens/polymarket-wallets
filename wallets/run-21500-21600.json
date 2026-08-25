@@ -494,5 +494,21 @@
     "win_count": 3,
     "rank": 21531,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf18391c64b1d3c494da8d383a20a25e29c4254cc",
+    "trader_name": "baddict",
+    "tag": "Overall",
+    "overall_gain": 4227.87925644,
+    "active_positions": 1,
+    "win_amount": 4227.87925644,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 4999.962848,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 21532,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
