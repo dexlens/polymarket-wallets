@@ -1566,5 +1566,21 @@
     "win_count": 45,
     "rank": 34299,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x285409a2ce9a614a0aa10ae74dd5f44d89b8b644",
+    "trader_name": "anexbl",
+    "tag": "Overall",
+    "overall_gain": 2396.5415,
+    "active_positions": 1,
+    "win_amount": 3407.9415,
+    "loss_amount": -1011.4000000000001,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 34300,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
