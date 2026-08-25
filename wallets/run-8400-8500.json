@@ -1262,5 +1262,21 @@
     "win_count": 5,
     "rank": 8479,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xc5e044c148591a881e7c77d16b890d5656dd3101",
+    "trader_name": "jhj43g",
+    "tag": "Overall",
+    "overall_gain": 12341.078233212835,
+    "active_positions": 6,
+    "win_amount": 13419.308232212834,
+    "loss_amount": -1078.229999,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 75.660694741,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 8480,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
