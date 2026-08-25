@@ -1374,5 +1374,21 @@
     "win_count": 12,
     "rank": 87887,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x91176db78ea5d0d1566ee028120137e1bfaececa",
+    "trader_name": "pellegatti",
+    "tag": "Overall",
+    "overall_gain": 514.3255420350124,
+    "active_positions": 2,
+    "win_amount": 41593.97118577662,
+    "loss_amount": -41079.64564374161,
+    "win_rate": 0.8217592592592593,
+    "total_current_value": 0.40735799999999994,
+    "total_positions": 897,
+    "event_ct": 864,
+    "win_count": 710,
+    "rank": 87888,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
