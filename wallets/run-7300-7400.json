@@ -942,5 +942,21 @@
     "win_count": 21,
     "rank": 7359,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf1e716b98bedcc29d279eaeae619745dcf58cdc7",
+    "trader_name": "liubinb",
+    "tag": "Overall",
+    "overall_gain": 14465.550497133745,
+    "active_positions": 64,
+    "win_amount": 17234.780844951416,
+    "loss_amount": -2769.230347817672,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 249.961929905,
+    "total_positions": 120,
+    "event_ct": 119,
+    "win_count": 56,
+    "rank": 7360,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
