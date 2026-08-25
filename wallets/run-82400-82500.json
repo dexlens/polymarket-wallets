@@ -1070,5 +1070,21 @@
     "win_count": 189,
     "rank": 82468,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84cd2133c9b424a52898c678b5080bc8cf25b2a1",
+    "trader_name": "Zeslus",
+    "tag": "Overall",
+    "overall_gain": 590.74,
+    "active_positions": 4,
+    "win_amount": 2254.5,
+    "loss_amount": -1663.76,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 82469,
+    "trader_tags": ""
   }
 ]
