@@ -526,5 +526,21 @@
     "win_count": 98,
     "rank": 59534,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0acd7df1cea834a75aefe76aaebfb598ff2eea40",
+    "trader_name": "goome",
+    "tag": "Overall",
+    "overall_gain": 1091.4031382600003,
+    "active_positions": 20,
+    "win_amount": 4358.716239,
+    "loss_amount": -3267.3131007400007,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 50,
+    "event_ct": 49,
+    "win_count": 28,
+    "rank": 59535,
+    "trader_tags": ""
   }
 ]
