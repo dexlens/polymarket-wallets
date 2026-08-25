@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 21250,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x0252bcd1a35b12243597d8483227b3ad297ae241",
+    "trader_name": "Penbra",
+    "tag": "Overall",
+    "overall_gain": 4296.5,
+    "active_positions": 1,
+    "win_amount": 4600.5,
+    "loss_amount": -304,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 21251,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
