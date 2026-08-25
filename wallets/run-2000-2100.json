@@ -1166,5 +1166,21 @@
     "win_count": 57,
     "rank": 2073,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x99eccf7c575974bdfa801f0ef262889191e121dd",
+    "trader_name": "xiaomei8",
+    "tag": "Overall",
+    "overall_gain": 57960.895578,
+    "active_positions": 0,
+    "win_amount": 148515.66685299997,
+    "loss_amount": -90554.771275,
+    "win_rate": 0.6881720430107527,
+    "total_current_value": 0,
+    "total_positions": 106,
+    "event_ct": 93,
+    "win_count": 64,
+    "rank": 2074,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
