@@ -430,5 +430,21 @@
     "win_count": 2,
     "rank": 65028,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x554fcf1e56b7bbca152c4903611a191013ef89b4",
+    "trader_name": "neculai",
+    "tag": "Overall",
+    "overall_gain": 944.931694829108,
+    "active_positions": 2,
+    "win_amount": 988.9689157932199,
+    "loss_amount": -44.037220964111995,
+    "win_rate": 0.782608695652174,
+    "total_current_value": 0.055212000000000004,
+    "total_positions": 35,
+    "event_ct": 23,
+    "win_count": 18,
+    "rank": 65029,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
