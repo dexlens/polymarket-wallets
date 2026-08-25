@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 32669,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e42355fedb464b546f8d966b63fb8d808bdea9b",
+    "trader_name": "davidd",
+    "tag": "Overall",
+    "overall_gain": 2534.162175996466,
+    "active_positions": 41,
+    "win_amount": 3640.5265204588077,
+    "loss_amount": -1106.3643444623422,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 20.068848000000003,
+    "total_positions": 114,
+    "event_ct": 69,
+    "win_count": 39,
+    "rank": 32670,
+    "trader_tags": "> 1 year old"
   }
 ]
