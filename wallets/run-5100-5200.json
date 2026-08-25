@@ -1390,5 +1390,21 @@
     "win_count": 19,
     "rank": 5187,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3fbded0c0a363b522cc8e6d868bfdec2a812c4e4",
+    "trader_name": "melancolie",
+    "tag": "Overall",
+    "overall_gain": 20864.889411127937,
+    "active_positions": 2,
+    "win_amount": 77160.56735205435,
+    "loss_amount": -56295.67794092638,
+    "win_rate": 0.5465116279069767,
+    "total_current_value": 313.739874815,
+    "total_positions": 896,
+    "event_ct": 688,
+    "win_count": 376,
+    "rank": 5188,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
