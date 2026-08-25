@@ -1582,5 +1582,21 @@
     "win_count": 15,
     "rank": 10299,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53abaa0952659af1fbcc5293c77b72e1138365aa",
+    "trader_name": "avooo",
+    "tag": "Overall",
+    "overall_gain": 10211.27980725228,
+    "active_positions": 29,
+    "win_amount": 283688.75375603454,
+    "loss_amount": -273477.4739487823,
+    "win_rate": 0.520968439256377,
+    "total_current_value": 18310.763572229007,
+    "total_positions": 4115,
+    "event_ct": 2313,
+    "win_count": 1205,
+    "rank": 10300,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
