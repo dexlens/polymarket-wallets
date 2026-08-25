@@ -1566,5 +1566,21 @@
     "win_count": 3,
     "rank": 85199,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x730e7643a7a66959ce94d03f6bd7842822753467",
+    "trader_name": "Bulliever",
+    "tag": "Overall",
+    "overall_gain": 549.4843510505951,
+    "active_positions": 2,
+    "win_amount": 625.7042328637301,
+    "loss_amount": -76.219881813135,
+    "win_rate": 0.75,
+    "total_current_value": 0.006741,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 85200,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
