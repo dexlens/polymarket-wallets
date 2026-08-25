@@ -494,5 +494,21 @@
     "win_count": 13,
     "rank": 6431,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x747200ad2175b54fb2595060a3d89bebe4ad645b",
+    "trader_name": "xaigri",
+    "tag": "Overall",
+    "overall_gain": 16661.965252426035,
+    "active_positions": 19,
+    "win_amount": 16802.71430653685,
+    "loss_amount": -140.749054110816,
+    "win_rate": 0.52,
+    "total_current_value": 29658.367256106998,
+    "total_positions": 81,
+    "event_ct": 25,
+    "win_count": 13,
+    "rank": 6432,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
