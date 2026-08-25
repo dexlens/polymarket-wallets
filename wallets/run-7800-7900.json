@@ -1182,5 +1182,21 @@
     "win_count": 32,
     "rank": 7874,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0ebdb75cefaedef8cee336438c044dfb8283cb20",
+    "trader_name": "toi",
+    "tag": "Overall",
+    "overall_gain": 13377.151740646672,
+    "active_positions": 6,
+    "win_amount": 17955.707619762572,
+    "loss_amount": -4578.555879115901,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 1736.766365,
+    "total_positions": 34,
+    "event_ct": 17,
+    "win_count": 8,
+    "rank": 7875,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
