@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 25098,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4c2a07d0b2f77d7b2cc30d9c7379fbf80ed265dc",
+    "trader_name": "cyfrav",
+    "tag": "Overall",
+    "overall_gain": 3521.139633273498,
+    "active_positions": 449,
+    "win_amount": 23408.393500445636,
+    "loss_amount": -19887.253867172138,
+    "win_rate": 0.5023584905660378,
+    "total_current_value": 2038.6742067439995,
+    "total_positions": 1244,
+    "event_ct": 424,
+    "win_count": 213,
+    "rank": 25099,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
