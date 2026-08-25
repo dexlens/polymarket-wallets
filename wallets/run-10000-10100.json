@@ -1134,5 +1134,21 @@
     "win_count": 17,
     "rank": 10071,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf98c21e24643807becf80f03e1c7ffc628d4bf06",
+    "trader_name": "lvcsh",
+    "tag": "Overall",
+    "overall_gain": 10417.190047025244,
+    "active_positions": 0,
+    "win_amount": 37403.071755,
+    "loss_amount": -26985.88170797476,
+    "win_rate": 0.5357142857142857,
+    "total_current_value": 0.0074765000000000005,
+    "total_positions": 86,
+    "event_ct": 84,
+    "win_count": 45,
+    "rank": 10072,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
