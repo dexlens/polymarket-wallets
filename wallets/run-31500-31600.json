@@ -46,5 +46,21 @@
     "win_count": 32,
     "rank": 31504,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x507d8a1586eaaeb937300e81bf3e66473d9a728d",
+    "trader_name": "DoLess",
+    "tag": "Overall",
+    "overall_gain": 2650.2740243288404,
+    "active_positions": 14,
+    "win_amount": 4551.6962583059085,
+    "loss_amount": -1901.422233977066,
+    "win_rate": 0.6385542168674698,
+    "total_current_value": 4266.636328907001,
+    "total_positions": 149,
+    "event_ct": 83,
+    "win_count": 53,
+    "rank": 31505,
+    "trader_tags": "> 1 year old"
   }
 ]
