@@ -1166,5 +1166,21 @@
     "win_count": 36,
     "rank": 5973,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4b39aba85fc3db96d92f592c1984af9320161a21",
+    "trader_name": "sxlybu",
+    "tag": "Overall",
+    "overall_gain": 17944.93123106201,
+    "active_positions": 7,
+    "win_amount": 17958.18123106201,
+    "loss_amount": -13.25,
+    "win_rate": 0.4,
+    "total_current_value": 68359.80615534201,
+    "total_positions": 23,
+    "event_ct": 20,
+    "win_count": 8,
+    "rank": 5974,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
