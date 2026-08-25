@@ -830,5 +830,21 @@
     "win_count": 4,
     "rank": 6152,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91fd9fb66b4f61d7de7e0d826221c4a0f8e01cde",
+    "trader_name": "Apple-Time",
+    "tag": "Overall",
+    "overall_gain": 17420.634385267847,
+    "active_positions": 11,
+    "win_amount": 1343715.949184923,
+    "loss_amount": -1326295.3147996555,
+    "win_rate": 0.4907539118065434,
+    "total_current_value": 42882.9608227525,
+    "total_positions": 1159,
+    "event_ct": 703,
+    "win_count": 345,
+    "rank": 6153,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
