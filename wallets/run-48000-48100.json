@@ -1294,5 +1294,21 @@
     "win_count": 5,
     "rank": 48082,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x405fc21386ef9c477de36b8b7035c140c2d74940",
+    "trader_name": "DamienW",
+    "tag": "Overall",
+    "overall_gain": 1568.9546231448855,
+    "active_positions": 66,
+    "win_amount": 3724.964338871105,
+    "loss_amount": -2156.0097157262194,
+    "win_rate": 0.8087774294670846,
+    "total_current_value": 2488.762282453,
+    "total_positions": 1634,
+    "event_ct": 638,
+    "win_count": 516,
+    "rank": 48083,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
