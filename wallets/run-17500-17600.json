@@ -238,5 +238,21 @@
     "win_count": 24,
     "rank": 17515,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x35db9629da86094dc5396b5ec6824996b362f0b9",
+    "trader_name": "ghczvb",
+    "tag": "Overall",
+    "overall_gain": 5353.555411444931,
+    "active_positions": 2,
+    "win_amount": 5510.833111444932,
+    "loss_amount": -157.2777,
+    "win_rate": 0.9629629629629629,
+    "total_current_value": 147.445931,
+    "total_positions": 28,
+    "event_ct": 27,
+    "win_count": 26,
+    "rank": 17516,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
