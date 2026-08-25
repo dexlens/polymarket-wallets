@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 52779,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58dd08b0d862627931b45369a8bfea7b8f876ff5",
+    "trader_name": "dreamin",
+    "tag": "Overall",
+    "overall_gain": 1356.8705891151556,
+    "active_positions": 7,
+    "win_amount": 4245.972487072291,
+    "loss_amount": -2889.1018979571363,
+    "win_rate": 0.44,
+    "total_current_value": 0.015873,
+    "total_positions": 28,
+    "event_ct": 25,
+    "win_count": 11,
+    "rank": 52780,
+    "trader_tags": "> 1 year old"
   }
 ]
