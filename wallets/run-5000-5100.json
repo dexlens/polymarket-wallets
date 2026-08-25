@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 5061,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x950611efd00848034a4b0610b89e690de780f081",
+    "trader_name": "Celvix",
+    "tag": "Overall",
+    "overall_gain": 21397.538881507273,
+    "active_positions": 5,
+    "win_amount": 22315.20787234013,
+    "loss_amount": -917.668990832856,
+    "win_rate": 0.8709677419354839,
+    "total_current_value": 0.000135,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 27,
+    "rank": 5062,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
