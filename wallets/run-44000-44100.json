@@ -862,5 +862,21 @@
     "win_count": 11,
     "rank": 44055,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x956ccfaa6f519b18b09e7eede25da1fe3239de39",
+    "trader_name": "kfrwx",
+    "tag": "Overall",
+    "overall_gain": 1763.3053993942003,
+    "active_positions": 4,
+    "win_amount": 3545.4925993942,
+    "loss_amount": -1782.1872,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 155.60473410000003,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 26,
+    "rank": 44056,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
