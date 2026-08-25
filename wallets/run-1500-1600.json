@@ -798,5 +798,21 @@
     "win_count": 7,
     "rank": 1550,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe42e0ad78e9ebb121314384484b983231db48d89",
+    "trader_name": "NANABANANA",
+    "tag": "Overall",
+    "overall_gain": 78194.30019000002,
+    "active_positions": 3,
+    "win_amount": 567616.756885,
+    "loss_amount": -489422.45669500006,
+    "win_rate": 0.48756218905472637,
+    "total_current_value": 25,
+    "total_positions": 376,
+    "event_ct": 201,
+    "win_count": 98,
+    "rank": 1551,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
