@@ -1262,5 +1262,21 @@
     "win_count": 56,
     "rank": 3379,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfc0cb8da7a6bfcb50bc3a99632d378316f0dcfc9",
+    "trader_name": "crappy",
+    "tag": "Overall",
+    "overall_gain": 33729.06737032324,
+    "active_positions": 20,
+    "win_amount": 155349.3283080346,
+    "loss_amount": -121620.26093771135,
+    "win_rate": 0.4672131147540984,
+    "total_current_value": 0.085175,
+    "total_positions": 186,
+    "event_ct": 122,
+    "win_count": 57,
+    "rank": 3380,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
