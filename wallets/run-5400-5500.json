@@ -1262,5 +1262,21 @@
     "win_count": 4,
     "rank": 5479,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf12b2fc482c02de57c9c43b3f35552ef168f41c4",
+    "trader_name": "WAYNEROZDOLSKI",
+    "tag": "Overall",
+    "overall_gain": 19727.143760989173,
+    "active_positions": 11,
+    "win_amount": 29714.181746989172,
+    "loss_amount": -9987.037986000003,
+    "win_rate": 0.34210526315789475,
+    "total_current_value": 0.005176,
+    "total_positions": 43,
+    "event_ct": 38,
+    "win_count": 13,
+    "rank": 5480,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
