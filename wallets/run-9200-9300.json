@@ -990,5 +990,21 @@
     "win_count": 12,
     "rank": 9262,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5e7cb75b1fad8a8b89d91bbd4b637525d1807b69",
+    "trader_name": "iyv777",
+    "tag": "Overall",
+    "overall_gain": 11323.848802512322,
+    "active_positions": 517,
+    "win_amount": 32950.681827351305,
+    "loss_amount": -21626.833024838976,
+    "win_rate": 0.15384615384615385,
+    "total_current_value": 12.958600999999998,
+    "total_positions": 716,
+    "event_ct": 624,
+    "win_count": 96,
+    "rank": 9263,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
