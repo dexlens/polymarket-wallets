@@ -702,5 +702,21 @@
     "win_count": 12,
     "rank": 44145,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x73c7c151cc37ada2e2259ce5a3863b581186ab60",
+    "trader_name": "JednickaBASE",
+    "tag": "Overall",
+    "overall_gain": 1758.052154839412,
+    "active_positions": 3,
+    "win_amount": 2190.051571,
+    "loss_amount": -431.999416160588,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 44146,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
