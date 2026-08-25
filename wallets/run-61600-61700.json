@@ -862,5 +862,21 @@
     "win_count": 1769,
     "rank": 61655,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x990bc5d27fec1ba80cb17cb5fb5107cfa5269534",
+    "trader_name": "mvung",
+    "tag": "Overall",
+    "overall_gain": 1030.554140085015,
+    "active_positions": 1,
+    "win_amount": 1615.840527833744,
+    "loss_amount": -585.2863877487289,
+    "win_rate": 0.5,
+    "total_current_value": 0.009966,
+    "total_positions": 32,
+    "event_ct": 26,
+    "win_count": 13,
+    "rank": 61656,
+    "trader_tags": "> 1 year old"
   }
 ]
