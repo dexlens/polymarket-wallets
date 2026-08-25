@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 80636,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18d168d13c552d6fae86cb8df6cb834fb7c0d042",
+    "trader_name": "Dess",
+    "tag": "Overall",
+    "overall_gain": 620.1185493138829,
+    "active_positions": 0,
+    "win_amount": 718.091741,
+    "loss_amount": -97.973191686117,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 80637,
+    "trader_tags": "> 1 year old"
   }
 ]
