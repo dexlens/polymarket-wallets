@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 42315,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6cb79f0c160ce128b48d2146fc33ce121a063f4b",
+    "trader_name": "irbson",
+    "tag": "Overall",
+    "overall_gain": 1859.64,
+    "active_positions": 0,
+    "win_amount": 1859.64,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 42316,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
