@@ -174,5 +174,21 @@
     "win_count": 192,
     "rank": 7011,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2c0daea598bfb29c090289c40c2cf57f64c0afe6",
+    "trader_name": "Pineapple93",
+    "tag": "Overall",
+    "overall_gain": 15241.935148123112,
+    "active_positions": 0,
+    "win_amount": 15965.01232983767,
+    "loss_amount": -723.0771817145569,
+    "win_rate": 0.25,
+    "total_current_value": 0.0027400000000000002,
+    "total_positions": 14,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 7012,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
