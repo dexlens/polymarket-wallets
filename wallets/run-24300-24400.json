@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 24392,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x148089d6e39764e514b35c5b321a1da88f646e8d",
+    "trader_name": "likeastone",
+    "tag": "Overall",
+    "overall_gain": 3647.4980998219235,
+    "active_positions": 240,
+    "win_amount": 26189.244458726724,
+    "loss_amount": -22541.746358904806,
+    "win_rate": 0.5348837209302325,
+    "total_current_value": 10597.848310529995,
+    "total_positions": 1029,
+    "event_ct": 215,
+    "win_count": 115,
+    "rank": 24393,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
