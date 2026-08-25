@@ -1534,5 +1534,21 @@
     "win_count": 10,
     "rank": 21296,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x638d398892acc887d160a362584cd51a8aa83e5b",
+    "trader_name": "relenting",
+    "tag": "Overall",
+    "overall_gain": 4284.880819923703,
+    "active_positions": 0,
+    "win_amount": 4545.610459523646,
+    "loss_amount": -260.729639599944,
+    "win_rate": 0.6875,
+    "total_current_value": 0.009686,
+    "total_positions": 26,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 21297,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
