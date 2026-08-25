@@ -366,5 +366,21 @@
     "win_count": 7,
     "rank": 64924,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x310188b28701d6492cf2b9b4341215ac2eeee57f",
+    "trader_name": "manuel9009",
+    "tag": "Overall",
+    "overall_gain": 947.7173726750759,
+    "active_positions": 31,
+    "win_amount": 1536.1091084576583,
+    "loss_amount": -588.391735782582,
+    "win_rate": 0.8048090523338048,
+    "total_current_value": 329.42952557,
+    "total_positions": 891,
+    "event_ct": 707,
+    "win_count": 569,
+    "rank": 64925,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
