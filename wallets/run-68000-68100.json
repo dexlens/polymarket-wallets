@@ -1470,5 +1470,21 @@
     "win_count": 58,
     "rank": 68093,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x330b4430e04bb0b332f5010cdb217bdadab0fc7c",
+    "trader_name": "madadona",
+    "tag": "Overall",
+    "overall_gain": 858.0632945099,
+    "active_positions": 0,
+    "win_amount": 858.0632945099,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00006000000000000001,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 68094,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
