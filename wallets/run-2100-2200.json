@@ -1102,5 +1102,21 @@
     "win_count": 279,
     "rank": 2169,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x125441fb96f0a849166417b371c3bcdea1fea764",
+    "trader_name": "autumnpers",
+    "tag": "Overall",
+    "overall_gain": 55415.78163500001,
+    "active_positions": 1,
+    "win_amount": 55808.151627000014,
+    "loss_amount": -392.369992,
+    "win_rate": 0.8,
+    "total_current_value": 8.128,
+    "total_positions": 34,
+    "event_ct": 25,
+    "win_count": 20,
+    "rank": 2170,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
