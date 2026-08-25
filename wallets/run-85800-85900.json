@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 85884,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2cd7bd585851c9c2a9d9a19d945c2c7707b5d6cf",
+    "trader_name": "pengadist",
+    "tag": "Overall",
+    "overall_gain": 540.62269104489,
+    "active_positions": 0,
+    "win_amount": 540.62269104489,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004703,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 85885,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
