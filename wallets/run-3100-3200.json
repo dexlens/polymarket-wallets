@@ -606,5 +606,21 @@
     "win_count": 7,
     "rank": 3138,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xae29f7ee41cf45cf0d468d32f5442ddff952d0c3",
+    "trader_name": "Sylendriel",
+    "tag": "Overall",
+    "overall_gain": 36441.065167431974,
+    "active_positions": 8,
+    "win_amount": 36493.98516697924,
+    "loss_amount": -52.919999547266,
+    "win_rate": 0.8928571428571429,
+    "total_current_value": 12.939801500000002,
+    "total_positions": 87,
+    "event_ct": 84,
+    "win_count": 75,
+    "rank": 3139,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
