@@ -622,5 +622,21 @@
     "win_count": 569,
     "rank": 16539,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28fd68cb72b022b4439f1265cd2d76b870da241f",
+    "trader_name": "mit1",
+    "tag": "Overall",
+    "overall_gain": 5761.048428463798,
+    "active_positions": 284,
+    "win_amount": 39515.53678531251,
+    "loss_amount": -33754.488356848735,
+    "win_rate": 0.3433048433048433,
+    "total_current_value": 0.033083,
+    "total_positions": 1518,
+    "event_ct": 1404,
+    "win_count": 482,
+    "rank": 16540,
+    "trader_tags": "1k+ Positions"
   }
 ]
