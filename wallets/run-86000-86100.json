@@ -462,5 +462,21 @@
     "win_count": 4,
     "rank": 86030,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf6a5e7257bca753aea9e1b593b87a2a54e7d1846",
+    "trader_name": "BTCSniper50",
+    "tag": "Overall",
+    "overall_gain": 538.7610389294973,
+    "active_positions": 16,
+    "win_amount": 6757.290066911451,
+    "loss_amount": -6218.529027981954,
+    "win_rate": 0.5723684210526315,
+    "total_current_value": 55.310051,
+    "total_positions": 636,
+    "event_ct": 456,
+    "win_count": 261,
+    "rank": 86031,
+    "trader_tags": "< 30 days old"
   }
 ]
