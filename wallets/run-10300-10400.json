@@ -1566,5 +1566,21 @@
     "win_count": 16,
     "rank": 10398,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe41bd6fd1db77307baf63d8c0b403ba9b23b256",
+    "trader_name": "qianli1",
+    "tag": "Overall",
+    "overall_gain": 10103,
+    "active_positions": 2,
+    "win_amount": 10216,
+    "loss_amount": -113,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 10399,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
