@@ -1118,5 +1118,21 @@
     "win_count": 3,
     "rank": 6570,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe7590338d435112c032e3ea51ff3d08a27a1e7ca",
+    "trader_name": "PetrGrepl",
+    "tag": "Overall",
+    "overall_gain": 16321.325618937102,
+    "active_positions": 12,
+    "win_amount": 18178.796559532355,
+    "loss_amount": -1857.470940595253,
+    "win_rate": 0.7258064516129032,
+    "total_current_value": 465.207865,
+    "total_positions": 119,
+    "event_ct": 62,
+    "win_count": 45,
+    "rank": 6571,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
