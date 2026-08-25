@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 177,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0xef54467264cbc7ae9659e6891d3be20f99afd1ee",
+    "trader_name": "Cavs2",
+    "tag": "Overall",
+    "overall_gain": 655773.7413547593,
+    "active_positions": 110,
+    "win_amount": 3776738.186950299,
+    "loss_amount": -3120964.4455955396,
+    "win_rate": 0.4977168949771689,
+    "total_current_value": 0.19850230199999996,
+    "total_positions": 277,
+    "event_ct": 219,
+    "win_count": 109,
+    "rank": 178,
+    "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
   }
 ]
