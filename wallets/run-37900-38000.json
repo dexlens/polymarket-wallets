@@ -1070,5 +1070,21 @@
     "win_count": 27,
     "rank": 37968,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9203972b255851286115ec9b72485836d19960da",
+    "trader_name": "pugus",
+    "tag": "Overall",
+    "overall_gain": 2120.7451062567447,
+    "active_positions": 0,
+    "win_amount": 2241.6779864589207,
+    "loss_amount": -120.932880202176,
+    "win_rate": 0.75,
+    "total_current_value": 0.014637,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 37969,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
