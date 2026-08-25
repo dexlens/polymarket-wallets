@@ -1582,5 +1582,21 @@
     "win_count": 109,
     "rank": 6599,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xff55beaf369387d7748a31213699a51f1ca8b877",
+    "trader_name": "sgafasef",
+    "tag": "Overall",
+    "overall_gain": 16249.103118195904,
+    "active_positions": 0,
+    "win_amount": 16249.103118195904,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000144,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6600,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
