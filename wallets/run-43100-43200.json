@@ -766,5 +766,21 @@
     "win_count": 20,
     "rank": 43149,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x93b914b14a2bb1c7c8a31ff4c11f5fb998df3aca",
+    "trader_name": "nodarrowat",
+    "tag": "Overall",
+    "overall_gain": 1812.115166,
+    "active_positions": 0,
+    "win_amount": 1812.115166,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 43150,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
