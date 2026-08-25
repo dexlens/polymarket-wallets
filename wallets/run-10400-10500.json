@@ -14,5 +14,21 @@
     "win_count": 21,
     "rank": 10401,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1c112dfba1fa40cd2f99da9b66723bf9a2cca9d5",
+    "trader_name": "solsticegod",
+    "tag": "Overall",
+    "overall_gain": 10100.869183422159,
+    "active_positions": 12,
+    "win_amount": 10195.866231442702,
+    "loss_amount": -94.997048020542,
+    "win_rate": 0.875,
+    "total_current_value": 27.246500404000003,
+    "total_positions": 67,
+    "event_ct": 48,
+    "win_count": 42,
+    "rank": 10402,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
