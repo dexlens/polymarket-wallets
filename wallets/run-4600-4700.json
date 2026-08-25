@@ -1198,5 +1198,21 @@
     "win_count": 24,
     "rank": 4675,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x046c6f24988e1a9f4cba5079eb70e6dcc2fb1f1d",
+    "trader_name": "GOGE2.0",
+    "tag": "Overall",
+    "overall_gain": 23339.875368349112,
+    "active_positions": 2,
+    "win_amount": 24052.286231349113,
+    "loss_amount": -712.4108629999998,
+    "win_rate": 0.8831168831168831,
+    "total_current_value": 10.000132,
+    "total_positions": 82,
+    "event_ct": 77,
+    "win_count": 68,
+    "rank": 4676,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
