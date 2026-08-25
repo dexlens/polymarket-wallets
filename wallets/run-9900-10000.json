@@ -1454,5 +1454,21 @@
     "win_count": 2,
     "rank": 9991,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "trader_name": "SnakeBall",
+    "tag": "Overall",
+    "overall_gain": 10490.933722864696,
+    "active_positions": 167,
+    "win_amount": 154069.59968330906,
+    "loss_amount": -143578.66596044437,
+    "win_rate": 0.44330601092896177,
+    "total_current_value": 4174.549137687,
+    "total_positions": 10072,
+    "event_ct": 2928,
+    "win_count": 1298,
+    "rank": 9992,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
