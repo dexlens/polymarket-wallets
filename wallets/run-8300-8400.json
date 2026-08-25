@@ -1374,5 +1374,21 @@
     "win_count": 34,
     "rank": 8386,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc153d8bc04ea6466e94faea565c2fd3b3a1fa179",
+    "trader_name": "LeagueofDraven",
+    "tag": "Overall",
+    "overall_gain": 12492.988607225863,
+    "active_positions": 3,
+    "win_amount": 14927.72974862966,
+    "loss_amount": -2434.7411414038,
+    "win_rate": 0.6071428571428571,
+    "total_current_value": 0.07082,
+    "total_positions": 72,
+    "event_ct": 28,
+    "win_count": 17,
+    "rank": 8387,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
