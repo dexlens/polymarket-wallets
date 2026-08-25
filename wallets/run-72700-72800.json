@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 72721,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x31f366da11f055b8df5948a9356c9ff51254184d",
+    "trader_name": "whadhao106",
+    "tag": "Overall",
+    "overall_gain": 750.0800782524169,
+    "active_positions": 0,
+    "win_amount": 9229.203283573896,
+    "loss_amount": -8479.123205321483,
+    "win_rate": 0.9549854791868344,
+    "total_current_value": 3.3149689999999996,
+    "total_positions": 6251,
+    "event_ct": 6198,
+    "win_count": 5919,
+    "rank": 72722,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
