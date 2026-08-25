@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 83822,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1b4a51fe125614e822b6c2626e058145c7f46e59",
+    "trader_name": "Osmanthus",
+    "tag": "Overall",
+    "overall_gain": 569.00864932264,
+    "active_positions": 504,
+    "win_amount": 10473.587618641692,
+    "loss_amount": -9904.578969319055,
+    "win_rate": 0.8276735935124176,
+    "total_current_value": 35.81296700000001,
+    "total_positions": 5922,
+    "event_ct": 5919,
+    "win_count": 4899,
+    "rank": 83823,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
