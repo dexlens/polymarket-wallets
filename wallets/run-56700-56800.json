@@ -510,5 +510,21 @@
     "win_count": 24,
     "rank": 56733,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ff5c0b95456216bc62a8d3eeb5feca74aa33dfd",
+    "trader_name": "Skynet",
+    "tag": "Overall",
+    "overall_gain": 1189.846359360689,
+    "active_positions": 1,
+    "win_amount": 1356.737547170256,
+    "loss_amount": -166.89118780956701,
+    "win_rate": 0.35294117647058826,
+    "total_current_value": 0.025568,
+    "total_positions": 24,
+    "event_ct": 17,
+    "win_count": 6,
+    "rank": 56734,
+    "trader_tags": "> 1 year old"
   }
 ]
