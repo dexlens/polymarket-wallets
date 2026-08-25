@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 47435,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x408da2c412d394175ddf991d8044fd7b6d0a2cfe",
+    "trader_name": "jygbiuhb",
+    "tag": "Overall",
+    "overall_gain": 1597.310943438797,
+    "active_positions": 36,
+    "win_amount": 2586.9571859999996,
+    "loss_amount": -989.6462425612028,
+    "win_rate": 0.7159090909090909,
+    "total_current_value": 66.9240441625,
+    "total_positions": 111,
+    "event_ct": 88,
+    "win_count": 63,
+    "rank": 47436,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
