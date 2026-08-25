@@ -1214,5 +1214,21 @@
     "win_count": 2,
     "rank": 56777,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x4013e9059aa893bd794956d815a2da328d5c4d70",
+    "trader_name": "PVMME",
+    "tag": "Overall",
+    "overall_gain": 1188.014849040051,
+    "active_positions": 2,
+    "win_amount": 3621.1864086355126,
+    "loss_amount": -2433.1715595954615,
+    "win_rate": 0.7079646017699115,
+    "total_current_value": 342.72368397900004,
+    "total_positions": 162,
+    "event_ct": 113,
+    "win_count": 80,
+    "rank": 56778,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
