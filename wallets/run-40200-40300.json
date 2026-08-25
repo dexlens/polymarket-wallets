@@ -846,5 +846,21 @@
     "win_count": 8,
     "rank": 40254,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41822df5a97cd02f458e26a21c03dd1dcd9f840b",
+    "trader_name": "longorshort",
+    "tag": "Overall",
+    "overall_gain": 1980.487273901957,
+    "active_positions": 6,
+    "win_amount": 2299.83022831518,
+    "loss_amount": -319.34295441322297,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0.16144738199999997,
+    "total_positions": 51,
+    "event_ct": 38,
+    "win_count": 32,
+    "rank": 40255,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
