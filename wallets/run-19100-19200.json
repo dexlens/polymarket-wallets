@@ -494,5 +494,21 @@
     "win_count": 25,
     "rank": 19131,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfba856844e5d00888baa70be81f3541ebb11500a",
+    "trader_name": "newitt",
+    "tag": "Overall",
+    "overall_gain": 4862.153501577003,
+    "active_positions": 3,
+    "win_amount": 23374.32063619144,
+    "loss_amount": -18512.167134614432,
+    "win_rate": 0.8557213930348259,
+    "total_current_value": 1.1127867649999996,
+    "total_positions": 336,
+    "event_ct": 201,
+    "win_count": 172,
+    "rank": 19132,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
