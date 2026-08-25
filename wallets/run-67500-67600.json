@@ -1342,5 +1342,21 @@
     "win_count": 3,
     "rank": 67585,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xf1d71be59ba766b21c2f3f1f746a1f0c2ce8ce25",
+    "trader_name": "dogedaddy",
+    "tag": "Overall",
+    "overall_gain": 872.852574789247,
+    "active_positions": 0,
+    "win_amount": 872.852574789247,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007549,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 67586,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
