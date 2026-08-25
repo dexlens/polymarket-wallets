@@ -526,5 +526,21 @@
     "win_count": 3,
     "rank": 8333,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10a68847fbab4df80d736603f49f63dea1646638",
+    "trader_name": "Cryptobet001",
+    "tag": "Overall",
+    "overall_gain": 12597.729514952596,
+    "active_positions": 10,
+    "win_amount": 13239.76272721642,
+    "loss_amount": -642.0332122638259,
+    "win_rate": 0.3125,
+    "total_current_value": 0.019684000000000004,
+    "total_positions": 28,
+    "event_ct": 16,
+    "win_count": 5,
+    "rank": 8334,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
