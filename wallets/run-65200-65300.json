@@ -1134,5 +1134,21 @@
     "win_count": 125,
     "rank": 65272,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xea6f1d57e66f62b9350299b3f87f8c66ec42dd06",
+    "trader_name": "Kabas",
+    "tag": "Overall",
+    "overall_gain": 937.0563725730495,
+    "active_positions": 62,
+    "win_amount": 42144.19244032958,
+    "loss_amount": -41207.13606775653,
+    "win_rate": 0.7337662337662337,
+    "total_current_value": 8.524381850000001,
+    "total_positions": 317,
+    "event_ct": 308,
+    "win_count": 226,
+    "rank": 65273,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
