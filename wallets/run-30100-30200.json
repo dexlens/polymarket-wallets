@@ -1246,5 +1246,21 @@
     "win_count": 9,
     "rank": 30179,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2dbd21d1ed4ec1f89c148f67ecd24e979c5343e6",
+    "trader_name": "ChrisCrawford",
+    "tag": "Overall",
+    "overall_gain": 2800.965,
+    "active_positions": 1,
+    "win_amount": 2821.32,
+    "loss_amount": -20.355,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 30180,
+    "trader_tags": ""
   }
 ]
