@@ -718,5 +718,21 @@
     "win_count": 5,
     "rank": 22745,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x34ed5b3a0f8ac5034baf6896bf03e6380041cfe3",
+    "trader_name": "sergizw",
+    "tag": "Overall",
+    "overall_gain": 3970.7831484859903,
+    "active_positions": 44,
+    "win_amount": 155751.6063244488,
+    "loss_amount": -151780.82317596278,
+    "win_rate": 0.8463687150837989,
+    "total_current_value": 882.03963562,
+    "total_positions": 389,
+    "event_ct": 358,
+    "win_count": 303,
+    "rank": 22746,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
