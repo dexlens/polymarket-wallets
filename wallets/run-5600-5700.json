@@ -1534,5 +1534,21 @@
     "win_count": 15,
     "rank": 5696,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x526d307e7d9d9af6798a63d8acf4ab5da563ebd8",
+    "trader_name": "masterful",
+    "tag": "Overall",
+    "overall_gain": 18931.619513726648,
+    "active_positions": 5,
+    "win_amount": 27152.367442000002,
+    "loss_amount": -8220.747928273355,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 5697,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
