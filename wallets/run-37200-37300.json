@@ -1486,5 +1486,21 @@
     "win_count": 13,
     "rank": 37294,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf61a910018461796059be19a32e143cbe8f84d92",
+    "trader_name": "duhs",
+    "tag": "Overall",
+    "overall_gain": 2167.9393241834196,
+    "active_positions": 1,
+    "win_amount": 3145.914549905775,
+    "loss_amount": -977.9752257223549,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0.009740425,
+    "total_positions": 15,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 37295,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
