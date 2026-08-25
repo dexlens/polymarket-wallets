@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 61142,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x81dfacc1ad5017b313bb1531a35756f76c13d751",
+    "trader_name": "maxthegreat",
+    "tag": "Overall",
+    "overall_gain": 1043.9660618940718,
+    "active_positions": 1,
+    "win_amount": 7312.205777005916,
+    "loss_amount": -6268.239715111844,
+    "win_rate": 0.8484848484848485,
+    "total_current_value": 0.15427000000000002,
+    "total_positions": 34,
+    "event_ct": 33,
+    "win_count": 28,
+    "rank": 61143,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
