@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 21133,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x809c0febc0550331f85f087707cf758674fc9878",
+    "trader_name": "vcmn",
+    "tag": "Overall",
+    "overall_gain": 4327.506840710481,
+    "active_positions": 3,
+    "win_amount": 4734.597953809644,
+    "loss_amount": -407.09111309916403,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 6181.821615499999,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 21134,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
