@@ -1070,5 +1070,21 @@
     "win_count": 25,
     "rank": 4267,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a9d6ac62b91b5161dc43858e77eead56db6d70b",
+    "trader_name": "KSK91",
+    "tag": "Overall",
+    "overall_gain": 26199.428448368544,
+    "active_positions": 2,
+    "win_amount": 31515.11087889076,
+    "loss_amount": -5315.682430522215,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 4742.837476549999,
+    "total_positions": 12,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 4268,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
