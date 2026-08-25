@@ -1486,5 +1486,21 @@
     "win_count": 82,
     "rank": 11693,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a17fbda7b318f3c1ae0429dc77fa20970f51bdf",
+    "trader_name": "Mrbd",
+    "tag": "Overall",
+    "overall_gain": 8878.90464234251,
+    "active_positions": 5,
+    "win_amount": 9571.578325158764,
+    "loss_amount": -692.6736828162559,
+    "win_rate": 0.6,
+    "total_current_value": 6.847371,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 11694,
+    "trader_tags": "> 1 year old"
   }
 ]
