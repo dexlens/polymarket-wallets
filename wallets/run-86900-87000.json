@@ -1374,5 +1374,21 @@
     "win_count": 7,
     "rank": 86987,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9117c246903c63c5d0e8972d26bc17b1f94e719c",
+    "trader_name": "liange",
+    "tag": "Overall",
+    "overall_gain": 525.695376725755,
+    "active_positions": 7,
+    "win_amount": 10749.664354963224,
+    "loss_amount": -10223.968978237468,
+    "win_rate": 0.9173553719008265,
+    "total_current_value": 89.88275700000001,
+    "total_positions": 1343,
+    "event_ct": 1331,
+    "win_count": 1221,
+    "rank": 86988,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
