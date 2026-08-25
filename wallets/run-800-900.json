@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 865,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x69ea0d77ef34f1acb03aaed901df7620fc4215cd",
+    "trader_name": "TylerTurden",
+    "tag": "Overall",
+    "overall_gain": 141818.8682881734,
+    "active_positions": 36,
+    "win_amount": 152334.66186012287,
+    "loss_amount": -10515.79357194941,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 183829.334548125,
+    "total_positions": 810,
+    "event_ct": 285,
+    "win_count": 255,
+    "rank": 866,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
   }
 ]
