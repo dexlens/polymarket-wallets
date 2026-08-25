@@ -1534,5 +1534,21 @@
     "win_count": 2,
     "rank": 78097,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18893578ae09dec6e3af0382374b133c3280cf40",
+    "trader_name": "Vector101",
+    "tag": "Overall",
+    "overall_gain": 662.3805295564292,
+    "active_positions": 1,
+    "win_amount": 1718.3579614350022,
+    "loss_amount": -1055.977431878573,
+    "win_rate": 0.25,
+    "total_current_value": 0.005543,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 78098,
+    "trader_tags": "> 1 year old"
   }
 ]
