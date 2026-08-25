@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 69199,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9939dc2b0ed4c9ea1b95e96d10b78db1d234c201",
+    "trader_name": "weindy",
+    "tag": "Overall",
+    "overall_gain": 829.127920853732,
+    "active_positions": 0,
+    "win_amount": 863.894122,
+    "loss_amount": -34.766201146268,
+    "win_rate": 0.375,
+    "total_current_value": 0.018732,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 69200,
+    "trader_tags": "> 1 year old"
   }
 ]
