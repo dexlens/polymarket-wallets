@@ -734,5 +734,21 @@
     "win_count": 10,
     "rank": 33947,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x59d7a43d0919cc9d800dbdbc545deefbfbd8ba8e",
+    "trader_name": "Abdoulay",
+    "tag": "Overall",
+    "overall_gain": 2427.9165984068113,
+    "active_positions": 13,
+    "win_amount": 2438.992988486811,
+    "loss_amount": -11.076390079999516,
+    "win_rate": 0.9927007299270073,
+    "total_current_value": 33128.693304430504,
+    "total_positions": 255,
+    "event_ct": 137,
+    "win_count": 136,
+    "rank": 33948,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
