@@ -1150,5 +1150,21 @@
     "win_count": 23,
     "rank": 28373,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91518d9d387519c0967ae2f723bf9cd597b27595",
+    "trader_name": "pookiewookie",
+    "tag": "Overall",
+    "overall_gain": 3018.0362523193344,
+    "active_positions": 0,
+    "win_amount": 12391.857718369352,
+    "loss_amount": -9373.821466050018,
+    "win_rate": 0.5625,
+    "total_current_value": 0.038549,
+    "total_positions": 33,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 28374,
+    "trader_tags": "> 1 year old"
   }
 ]
