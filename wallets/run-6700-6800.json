@@ -1294,5 +1294,21 @@
     "win_count": 2,
     "rank": 6781,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8ec80b94f2e8414ebb24de64ae95becd056a9c03",
+    "trader_name": "wilmerla",
+    "tag": "Overall",
+    "overall_gain": 15821.5,
+    "active_positions": 0,
+    "win_amount": 15887.5,
+    "loss_amount": -66,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 6782,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
