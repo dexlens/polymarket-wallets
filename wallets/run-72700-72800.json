@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 72757,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb098834bfb0ea0f83d7c27d16f131575542d1a63",
+    "trader_name": "RapidNode",
+    "tag": "Overall",
+    "overall_gain": 749.4276664106048,
+    "active_positions": 33,
+    "win_amount": 4314.28766,
+    "loss_amount": -3564.859993589395,
+    "win_rate": 0.5074626865671642,
+    "total_current_value": 0,
+    "total_positions": 67,
+    "event_ct": 67,
+    "win_count": 34,
+    "rank": 72758,
+    "trader_tags": "> 1 year old"
   }
 ]
