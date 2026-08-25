@@ -750,5 +750,21 @@
     "win_count": 8,
     "rank": 8947,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xcfe92f057bbd4fa339ce79c1feaf956d714f7c35",
+    "trader_name": "EnchantmentEstimator",
+    "tag": "Overall",
+    "overall_gain": 11708.5,
+    "active_positions": 0,
+    "win_amount": 11708.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 8948,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
