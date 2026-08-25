@@ -430,5 +430,21 @@
     "win_count": 26,
     "rank": 51028,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ae6f13672601606a95615432e0d11a10f18dd45",
+    "trader_name": "KIGNX",
+    "tag": "Overall",
+    "overall_gain": 1437.708366782205,
+    "active_positions": 28,
+    "win_amount": 5296.405050767901,
+    "loss_amount": -3858.6966839856955,
+    "win_rate": 0.5,
+    "total_current_value": 3121.8380034100005,
+    "total_positions": 51,
+    "event_ct": 36,
+    "win_count": 18,
+    "rank": 51029,
+    "trader_tags": ""
   }
 ]
