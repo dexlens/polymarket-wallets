@@ -462,5 +462,21 @@
     "win_count": 5,
     "rank": 19729,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1348ec428292601f76887608d63219b410ce3dc2",
+    "trader_name": "TianxingWu",
+    "tag": "Overall",
+    "overall_gain": 4699.793239972547,
+    "active_positions": 854,
+    "win_amount": 20389.65158167903,
+    "loss_amount": -15689.85834170649,
+    "win_rate": 0.5101409419044345,
+    "total_current_value": 12.121610999999996,
+    "total_positions": 3673,
+    "event_ct": 2909,
+    "win_count": 1484,
+    "rank": 19730,
+    "trader_tags": "1k+ Positions"
   }
 ]
