@@ -958,5 +958,21 @@
     "win_count": 8,
     "rank": 14860,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x678c7979914dc979fe31a78bedb1f9511a52080d",
+    "trader_name": "Mistthread",
+    "tag": "Overall",
+    "overall_gain": 6578.5,
+    "active_positions": 2,
+    "win_amount": 6688.5,
+    "loss_amount": -110,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 14861,
+    "trader_tags": ""
   }
 ]
