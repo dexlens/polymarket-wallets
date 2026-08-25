@@ -1086,5 +1086,21 @@
     "win_count": 5,
     "rank": 23268,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x30136fc570a02cb5e6f2bcd2086df7ef3cd8e276",
+    "trader_name": "bin168",
+    "tag": "Overall",
+    "overall_gain": 3864.7246927620004,
+    "active_positions": 0,
+    "win_amount": 4325.511720762,
+    "loss_amount": -460.78702799999996,
+    "win_rate": 0.7884615384615384,
+    "total_current_value": 0.001631,
+    "total_positions": 58,
+    "event_ct": 52,
+    "win_count": 41,
+    "rank": 23269,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
