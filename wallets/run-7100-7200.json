@@ -1422,5 +1422,21 @@
     "win_count": 4,
     "rank": 7189,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x96f91943667762bbce634653e01e1a4745611d08",
+    "trader_name": "PoppingChairmanMao",
+    "tag": "Overall",
+    "overall_gain": 14870.14982504931,
+    "active_positions": 9,
+    "win_amount": 15470.565389799749,
+    "loss_amount": -600.4155647504389,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 68402.61924421,
+    "total_positions": 15,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 7190,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
