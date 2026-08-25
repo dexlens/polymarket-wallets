@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 83251,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x908f9d14b7318377ff8b87057e1b45963cc25861",
+    "trader_name": "Tbolg",
+    "tag": "Overall",
+    "overall_gain": 578.3290539269359,
+    "active_positions": 2,
+    "win_amount": 693.328413396427,
+    "loss_amount": -114.999359469491,
+    "win_rate": 0.75,
+    "total_current_value": 1.1814209999999998,
+    "total_positions": 11,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 83252,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
