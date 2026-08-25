@@ -670,5 +670,21 @@
     "win_count": 3,
     "rank": 8142,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd46c9a40c0b43105c8c6f9141c87a1bcf74a5c51",
+    "trader_name": "skoda1011",
+    "tag": "Overall",
+    "overall_gain": 12921.80669119,
+    "active_positions": 0,
+    "win_amount": 13247,
+    "loss_amount": -325.19330880999996,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 8143,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
