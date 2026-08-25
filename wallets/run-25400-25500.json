@@ -1470,5 +1470,21 @@
     "win_count": 26,
     "rank": 25493,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ca40545cc055f930faff93a006df2407367644f",
+    "trader_name": "Vahana",
+    "tag": "Overall",
+    "overall_gain": 3460.7104891037234,
+    "active_positions": 0,
+    "win_amount": 3897.085314223723,
+    "loss_amount": -436.37482511999997,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.023703000000000002,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 25494,
+    "trader_tags": "> 1 year old"
   }
 ]
