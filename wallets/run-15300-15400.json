@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 15329,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x99681c66b33efcd7f60555472c3db90658f7d77e",
+    "trader_name": "StormSleep",
+    "tag": "Overall",
+    "overall_gain": 6318.08,
+    "active_positions": 3,
+    "win_amount": 6377.58,
+    "loss_amount": -59.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 15330,
+    "trader_tags": ""
   }
 ]
