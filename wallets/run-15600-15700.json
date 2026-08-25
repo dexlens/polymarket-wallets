@@ -750,5 +750,21 @@
     "win_count": 5,
     "rank": 15647,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8173a746ab0683459b47fd4d8f18f4c67c819c41",
+    "trader_name": "cdm",
+    "tag": "Overall",
+    "overall_gain": 6159.845890020551,
+    "active_positions": 5,
+    "win_amount": 7559.842699004,
+    "loss_amount": -1399.996808983448,
+    "win_rate": 0.375,
+    "total_current_value": 166.9805,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 15648,
+    "trader_tags": "> 1 year old"
   }
 ]
