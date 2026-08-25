@@ -1342,5 +1342,21 @@
     "win_count": 12,
     "rank": 77685,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4ff0b11123fac58d1713e83875127916270639c4",
+    "trader_name": "KeenEye",
+    "tag": "Overall",
+    "overall_gain": 669.5,
+    "active_positions": 1,
+    "win_amount": 2577,
+    "loss_amount": -1907.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 77686,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
