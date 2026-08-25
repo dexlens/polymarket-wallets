@@ -878,5 +878,21 @@
     "win_count": 567,
     "rank": 9955,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33db47152223a9b30a1891902402ad7e3485417a",
+    "trader_name": "calm.rabbit",
+    "tag": "Overall",
+    "overall_gain": 10531.72644694394,
+    "active_positions": 83,
+    "win_amount": 19231.26477806842,
+    "loss_amount": -8699.538331124486,
+    "win_rate": 0.6360294117647058,
+    "total_current_value": 8428.7729494885,
+    "total_positions": 648,
+    "event_ct": 272,
+    "win_count": 173,
+    "rank": 9956,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
