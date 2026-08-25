@@ -494,5 +494,21 @@
     "win_count": 5,
     "rank": 65932,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ffd3cab000b04574ec094a3b16310d321de7821",
+    "trader_name": "barabasKarabas",
+    "tag": "Overall",
+    "overall_gain": 918.0453272199262,
+    "active_positions": 31,
+    "win_amount": 25791.59424027125,
+    "loss_amount": -24873.548913051323,
+    "win_rate": 0.40948275862068967,
+    "total_current_value": 952.472017,
+    "total_positions": 3054,
+    "event_ct": 2320,
+    "win_count": 950,
+    "rank": 65933,
+    "trader_tags": "1k+ Positions"
   }
 ]
