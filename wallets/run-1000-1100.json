@@ -1390,5 +1390,21 @@
     "win_count": 47,
     "rank": 1087,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x48afe8fbde091ff3e616901dc92ef20862c289cc",
+    "trader_name": "heresjimmy",
+    "tag": "Overall",
+    "overall_gain": 111060.24081474944,
+    "active_positions": 158,
+    "win_amount": 135855.32429451955,
+    "loss_amount": -24795.08347977012,
+    "win_rate": 0.5276073619631901,
+    "total_current_value": 15298.8952939865,
+    "total_positions": 385,
+    "event_ct": 163,
+    "win_count": 86,
+    "rank": 1088,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
