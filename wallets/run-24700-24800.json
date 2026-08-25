@@ -590,5 +590,21 @@
     "win_count": 126,
     "rank": 24738,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xea69d36916c84abaad2f1a384975fdbaae597f7c",
+    "trader_name": "PixelCrossing",
+    "tag": "Overall",
+    "overall_gain": 3589.5599999999995,
+    "active_positions": 1,
+    "win_amount": 3607.7599999999998,
+    "loss_amount": -18.2,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 24739,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
