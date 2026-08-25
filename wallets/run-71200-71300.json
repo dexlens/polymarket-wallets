@@ -1342,5 +1342,21 @@
     "win_count": 5,
     "rank": 71285,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x912d069fe479719cd880455f7e1020c383c2437e",
+    "trader_name": "IKUNKUNKUN",
+    "tag": "Overall",
+    "overall_gain": 782.101838657372,
+    "active_positions": 26,
+    "win_amount": 1621.1235783355758,
+    "loss_amount": -839.021739678204,
+    "win_rate": 0.6375,
+    "total_current_value": 0.002393525,
+    "total_positions": 82,
+    "event_ct": 80,
+    "win_count": 51,
+    "rank": 71286,
+    "trader_tags": ""
   }
 ]
