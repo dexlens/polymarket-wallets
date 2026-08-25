@@ -894,5 +894,21 @@
     "win_count": 16,
     "rank": 43157,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3c55c14a041f95c161e0936e1e942c6e1a4a11d5",
+    "trader_name": "thdespair",
+    "tag": "Overall",
+    "overall_gain": 1811.8,
+    "active_positions": 1,
+    "win_amount": 1911.8,
+    "loss_amount": -100,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 43158,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
