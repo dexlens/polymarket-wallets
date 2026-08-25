@@ -174,5 +174,21 @@
     "win_count": 14,
     "rank": 62812,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x105d4de208af1c38ea2b16d5c88dff388609786a",
+    "trader_name": "countercharge",
+    "tag": "Overall",
+    "overall_gain": 1002.0972062619503,
+    "active_positions": 10,
+    "win_amount": 6333.206431,
+    "loss_amount": -5331.10922473805,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 24,
+    "win_count": 10,
+    "rank": 62813,
+    "trader_tags": ""
   }
 ]
