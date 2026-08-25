@@ -1022,5 +1022,21 @@
     "win_count": 5,
     "rank": 60365,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10e2e609731ac704e692949db8d85b2c77815bed",
+    "trader_name": "Mijiya",
+    "tag": "Overall",
+    "overall_gain": 1065.253966710729,
+    "active_positions": 26,
+    "win_amount": 12947.377214481117,
+    "loss_amount": -11882.123247770382,
+    "win_rate": 0.7008250108554059,
+    "total_current_value": 2.873949049999999,
+    "total_positions": 9745,
+    "event_ct": 6909,
+    "win_count": 4842,
+    "rank": 60366,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
