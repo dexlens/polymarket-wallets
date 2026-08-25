@@ -910,5 +910,21 @@
     "win_count": 21,
     "rank": 21957,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x657f9dc4a4db98a4accce9ed0c0bd374fef0cbe4",
+    "trader_name": "euxnch",
+    "tag": "Overall",
+    "overall_gain": 4129.558598801265,
+    "active_positions": 6,
+    "win_amount": 4507.77466739,
+    "loss_amount": -378.216068588734,
+    "win_rate": 0.8611111111111112,
+    "total_current_value": 197.934489,
+    "total_positions": 37,
+    "event_ct": 36,
+    "win_count": 31,
+    "rank": 21958,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
