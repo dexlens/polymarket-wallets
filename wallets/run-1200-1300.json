@@ -1214,5 +1214,21 @@
     "win_count": 2,
     "rank": 1276,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x080a53ccb5caf5949d2e67074e8629fe1f249da4",
+    "trader_name": "ExpressoMartini",
+    "tag": "Overall",
+    "overall_gain": 94636.1254355,
+    "active_positions": 0,
+    "win_amount": 1524950.125112,
+    "loss_amount": -1430313.9996765,
+    "win_rate": 0.48235475419941437,
+    "total_current_value": 0,
+    "total_positions": 12198,
+    "event_ct": 6489,
+    "win_count": 3130,
+    "rank": 1277,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
