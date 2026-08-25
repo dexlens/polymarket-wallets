@@ -430,5 +430,21 @@
     "win_count": 2737,
     "rank": 2827,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x30cecdf29f069563ea21b8ae94492e41e53a6b2b",
+    "trader_name": "ZXWP",
+    "tag": "Overall",
+    "overall_gain": 40970.298102588764,
+    "active_positions": 6422,
+    "win_amount": 41224.97656182898,
+    "loss_amount": -254.6784592402409,
+    "win_rate": 0.8063540090771558,
+    "total_current_value": 32736.30899402451,
+    "total_positions": 30658,
+    "event_ct": 1322,
+    "win_count": 1066,
+    "rank": 2828,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
