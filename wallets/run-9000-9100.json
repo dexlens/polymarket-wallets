@@ -62,5 +62,21 @@
     "win_count": 34,
     "rank": 9004,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83f221ef848088349a67b4ecc5e8186bf7629e22",
+    "trader_name": "LunaRss",
+    "tag": "Overall",
+    "overall_gain": 11645.3715,
+    "active_positions": 1,
+    "win_amount": 11646.17,
+    "loss_amount": -0.7985,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.3915,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 9005,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
