@@ -574,5 +574,21 @@
     "win_count": 2,
     "rank": 30337,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd179df5741623d36c931646d1778ccd7874774ad",
+    "trader_name": "22seraga",
+    "tag": "Overall",
+    "overall_gain": 2779.865437000816,
+    "active_positions": 6,
+    "win_amount": 16659.157253967256,
+    "loss_amount": -13879.291816966439,
+    "win_rate": 0.856687898089172,
+    "total_current_value": 14979.820597776998,
+    "total_positions": 649,
+    "event_ct": 314,
+    "win_count": 269,
+    "rank": 30338,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
