@@ -1182,5 +1182,21 @@
     "win_count": 2,
     "rank": 7774,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x3510262d264bef7c630ddd31ca75eb99ce172492",
+    "trader_name": "Yermak",
+    "tag": "Overall",
+    "overall_gain": 13579.846463290687,
+    "active_positions": 0,
+    "win_amount": 23828.24863603108,
+    "loss_amount": -10248.402172740385,
+    "win_rate": 0.7057142857142857,
+    "total_current_value": 0.213466,
+    "total_positions": 459,
+    "event_ct": 350,
+    "win_count": 247,
+    "rank": 7775,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
