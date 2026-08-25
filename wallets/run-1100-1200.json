@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 1148,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x832d13d39011acf2da1b8e56182b0961d02fd420",
+    "trader_name": "Momentumtrades",
+    "tag": "Overall",
+    "overall_gain": 106105.02731523491,
+    "active_positions": 56,
+    "win_amount": 606067.7815588749,
+    "loss_amount": -499962.7542436401,
+    "win_rate": 0.5508982035928144,
+    "total_current_value": 4833.709125,
+    "total_positions": 212,
+    "event_ct": 167,
+    "win_count": 92,
+    "rank": 1149,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Sports PnL > $100k"
   }
 ]
