@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 25880,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64b85cfb974b2e54c99c6edf970a1b2a6b58976c",
+    "trader_name": "fe10acash",
+    "tag": "Overall",
+    "overall_gain": 3393.137159035561,
+    "active_positions": 1,
+    "win_amount": 5578.975929889389,
+    "loss_amount": -2185.838770853827,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.012551999999999999,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 8,
+    "rank": 25881,
+    "trader_tags": ""
   }
 ]
