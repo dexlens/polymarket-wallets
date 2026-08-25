@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 25022,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33e397c31dc12c2fda66c35b0d9d4d6d526200da",
+    "trader_name": "popunk",
+    "tag": "Overall",
+    "overall_gain": 3533.515658917954,
+    "active_positions": 4,
+    "win_amount": 3565.545672947393,
+    "loss_amount": -32.030014029439,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0.27987445,
+    "total_positions": 30,
+    "event_ct": 13,
+    "win_count": 8,
+    "rank": 25023,
+    "trader_tags": ""
   }
 ]
