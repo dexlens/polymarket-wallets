@@ -398,5 +398,21 @@
     "win_count": 28,
     "rank": 4425,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7f599ebb5aeb312d1accd49375d5d7d6b0321176",
+    "trader_name": "jamexx",
+    "tag": "Overall",
+    "overall_gain": 25103.365000000016,
+    "active_positions": 8,
+    "win_amount": 125333.78500000002,
+    "loss_amount": -100230.42,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 15,
+    "win_count": 8,
+    "rank": 4426,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
