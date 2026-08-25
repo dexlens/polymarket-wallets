@@ -1086,5 +1086,21 @@
     "win_count": 130,
     "rank": 45169,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x387ce66597d0e8b402803d61859991e2ff189188",
+    "trader_name": "Ac91",
+    "tag": "Overall",
+    "overall_gain": 1705.3270275658865,
+    "active_positions": 3,
+    "win_amount": 6230.529320476379,
+    "loss_amount": -4525.202292910494,
+    "win_rate": 0.6703296703296703,
+    "total_current_value": 0.373547576,
+    "total_positions": 146,
+    "event_ct": 91,
+    "win_count": 61,
+    "rank": 45170,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
