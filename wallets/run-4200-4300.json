@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 4248,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14b9ca37e18f6596a185d2e472b12739f1de2724",
+    "trader_name": "cristinaka",
+    "tag": "Overall",
+    "overall_gain": 26290.323926,
+    "active_positions": 0,
+    "win_amount": 26318.553914000004,
+    "loss_amount": -28.229988000000002,
+    "win_rate": 0.72,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 25,
+    "win_count": 18,
+    "rank": 4249,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
