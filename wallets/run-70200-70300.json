@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 70235,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x275152bacc481e8fd2a7e673d45ae5ae5e573666",
+    "trader_name": "meagher",
+    "tag": "Overall",
+    "overall_gain": 805.170823840728,
+    "active_positions": 15,
+    "win_amount": 1008.999347488241,
+    "loss_amount": -203.828523647513,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 110.74327800000002,
+    "total_positions": 27,
+    "event_ct": 17,
+    "win_count": 11,
+    "rank": 70236,
+    "trader_tags": ""
   }
 ]
