@@ -382,5 +382,21 @@
     "win_count": 3,
     "rank": 47525,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8a12ef1caa5d01848bb2b87cce40a0d2d6171dd0",
+    "trader_name": "Ketiro",
+    "tag": "Overall",
+    "overall_gain": 1593.3414832394149,
+    "active_positions": 25,
+    "win_amount": 1650.8356530746848,
+    "loss_amount": -57.494169835269986,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 27.209972585999996,
+    "total_positions": 66,
+    "event_ct": 60,
+    "win_count": 44,
+    "rank": 47526,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
