@@ -1022,5 +1022,21 @@
     "win_count": 29,
     "rank": 1364,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x3da41cdddf329900a656bc18c415df7027e328d7",
+    "trader_name": "sjxsdfewg",
+    "tag": "Overall",
+    "overall_gain": 89091.49338324023,
+    "active_positions": 213,
+    "win_amount": 229315.8856174328,
+    "loss_amount": -140224.39223419252,
+    "win_rate": 0.6447058823529411,
+    "total_current_value": 5.3028989999999965,
+    "total_positions": 1204,
+    "event_ct": 425,
+    "win_count": 274,
+    "rank": 1365,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
