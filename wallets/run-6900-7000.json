@@ -1150,5 +1150,21 @@
     "win_count": 40,
     "rank": 6972,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x771d7c5ac82ca8776738e2560f6a6e50d34b440e",
+    "trader_name": "UnderwriterGCR",
+    "tag": "Overall",
+    "overall_gain": 15354.356362213417,
+    "active_positions": 34,
+    "win_amount": 25709.971112763484,
+    "loss_amount": -10355.614750550067,
+    "win_rate": 0.821917808219178,
+    "total_current_value": 63409.07022348451,
+    "total_positions": 380,
+    "event_ct": 219,
+    "win_count": 180,
+    "rank": 6973,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
