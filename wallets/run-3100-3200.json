@@ -1566,5 +1566,21 @@
     "win_count": 4,
     "rank": 3198,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f117e88f89f4b366d09cbb2e3056fa44754ddc4",
+    "trader_name": "Lazlo1",
+    "tag": "Overall",
+    "overall_gain": 35814.446690849196,
+    "active_positions": 31,
+    "win_amount": 52572.96233333074,
+    "loss_amount": -16758.515642481543,
+    "win_rate": 0.6805555555555556,
+    "total_current_value": 10565.112274287501,
+    "total_positions": 165,
+    "event_ct": 72,
+    "win_count": 49,
+    "rank": 3199,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
