@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 83773,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8d1483945e03a37035794165f14ab4ef4f6537d6",
+    "trader_name": "To81",
+    "tag": "Overall",
+    "overall_gain": 569.743031812407,
+    "active_positions": 4,
+    "win_amount": 742.232766450594,
+    "loss_amount": -172.489734638187,
+    "win_rate": 0.8,
+    "total_current_value": 0.008576,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 83774,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
