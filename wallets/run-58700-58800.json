@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 58779,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3a16131eea0b32d832ce7235099df1e28d66a0f8",
+    "trader_name": "Ha-jun",
+    "tag": "Overall",
+    "overall_gain": 1115.977688296028,
+    "active_positions": 7,
+    "win_amount": 1241.587688296028,
+    "loss_amount": -125.61,
+    "win_rate": 0.9814814814814815,
+    "total_current_value": 495.3306290000001,
+    "total_positions": 157,
+    "event_ct": 108,
+    "win_count": 106,
+    "rank": 58780,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
