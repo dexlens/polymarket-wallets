@@ -1374,5 +1374,21 @@
     "win_count": 362,
     "rank": 52087,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x1575613a59b02efa77950bd5cf81610b5b208e7d",
+    "trader_name": "PhilosophersFund",
+    "tag": "Overall",
+    "overall_gain": 1388.5,
+    "active_positions": 2,
+    "win_amount": 3868.5,
+    "loss_amount": -2480,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 52088,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
