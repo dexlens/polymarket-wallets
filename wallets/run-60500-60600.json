@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 60594,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2b02ff89e1d544b9fa06bd475d0e6e25fa1a40f9",
+    "trader_name": "SATOSJO11",
+    "tag": "Overall",
+    "overall_gain": 1058.8881349544172,
+    "active_positions": 54,
+    "win_amount": 1711.4237945207628,
+    "loss_amount": -652.535659566346,
+    "win_rate": 0.797979797979798,
+    "total_current_value": 2290.574390833,
+    "total_positions": 188,
+    "event_ct": 99,
+    "win_count": 79,
+    "rank": 60595,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
