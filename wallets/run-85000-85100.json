@@ -478,5 +478,21 @@
     "win_count": 42,
     "rank": 85031,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x8138c78704d43b0a3ca05fafaaa332270830a285",
+    "trader_name": "tiuo",
+    "tag": "Overall",
+    "overall_gain": 551.9643782049369,
+    "active_positions": 4,
+    "win_amount": 553.9703802049369,
+    "loss_amount": -2.006001999999999,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 29.005608425,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 85032,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
