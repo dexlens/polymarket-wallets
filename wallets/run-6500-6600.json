@@ -1374,5 +1374,21 @@
     "win_count": 5,
     "rank": 6586,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0178034c3b9df6d926e3e713046b08567ab73f7a",
+    "trader_name": "Ehpair",
+    "tag": "Overall",
+    "overall_gain": 16280.210939789333,
+    "active_positions": 1,
+    "win_amount": 29517.305276394214,
+    "loss_amount": -13237.094336604878,
+    "win_rate": 0.9065349544072948,
+    "total_current_value": 136.97463800000008,
+    "total_positions": 2117,
+    "event_ct": 1316,
+    "win_count": 1193,
+    "rank": 6587,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
