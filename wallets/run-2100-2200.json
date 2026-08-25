@@ -974,5 +974,21 @@
     "win_count": 27,
     "rank": 2161,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6640bd87f6e4b6e8d62457448bd1b3a4711a2202",
+    "trader_name": "Pompeius",
+    "tag": "Overall",
+    "overall_gain": 55706.068097580464,
+    "active_positions": 22,
+    "win_amount": 123355.40531528265,
+    "loss_amount": -67649.33721770221,
+    "win_rate": 0.7154471544715447,
+    "total_current_value": 99090.95553894549,
+    "total_positions": 407,
+    "event_ct": 246,
+    "win_count": 176,
+    "rank": 2162,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
