@@ -286,5 +286,21 @@
     "win_count": 1,
     "rank": 46119,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x736fb8ecf37278c1c666be2438c63472164cb5fb",
+    "trader_name": "HKLGLGL",
+    "tag": "Overall",
+    "overall_gain": 1660.925031786294,
+    "active_positions": 10,
+    "win_amount": 1842.4608030000002,
+    "loss_amount": -181.53577121370594,
+    "win_rate": 0.5,
+    "total_current_value": 0.005760841,
+    "total_positions": 31,
+    "event_ct": 30,
+    "win_count": 15,
+    "rank": 46120,
+    "trader_tags": ""
   }
 ]
