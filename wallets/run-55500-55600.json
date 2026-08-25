@@ -478,5 +478,21 @@
     "win_count": 7,
     "rank": 55531,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7bc192350037089f681d0246931d404764a332ea",
+    "trader_name": "grindin",
+    "tag": "Overall",
+    "overall_gain": 1237.117429425383,
+    "active_positions": 0,
+    "win_amount": 1462.341012,
+    "loss_amount": -225.223582574617,
+    "win_rate": 0.75,
+    "total_current_value": 0.005383,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 55532,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
