@@ -1070,5 +1070,21 @@
     "win_count": 3,
     "rank": 61968,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb3c3f864ea1e8592d41e7b474fb3e204a52d5034",
+    "trader_name": "MustDiscipline",
+    "tag": "Overall",
+    "overall_gain": 1022.8167524599548,
+    "active_positions": 149,
+    "win_amount": 31081.879041141863,
+    "loss_amount": -30059.062288681896,
+    "win_rate": 0.8274143302180685,
+    "total_current_value": 468.42519100000004,
+    "total_positions": 1667,
+    "event_ct": 1605,
+    "win_count": 1328,
+    "rank": 61969,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
