@@ -62,5 +62,21 @@
     "win_count": 3,
     "rank": 4004,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4206d3b0a425955d4eb291186fe09c8013aabb16",
+    "trader_name": "galeno1441",
+    "tag": "Overall",
+    "overall_gain": 28024.585300415863,
+    "active_positions": 7,
+    "win_amount": 28454.541101202503,
+    "loss_amount": -429.95580078664096,
+    "win_rate": 0.125,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 1,
+    "rank": 4005,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
