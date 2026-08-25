@@ -798,5 +798,21 @@
     "win_count": 7,
     "rank": 51251,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xa37bcc103d44012be3f4102cb760df22791b7e76",
+    "trader_name": "0xfx",
+    "tag": "Overall",
+    "overall_gain": 1426.3530250216236,
+    "active_positions": 7,
+    "win_amount": 5122.873488148175,
+    "loss_amount": -3696.520463126552,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 14274.5722154865,
+    "total_positions": 40,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 51252,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
