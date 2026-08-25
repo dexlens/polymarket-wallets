@@ -830,5 +830,21 @@
     "win_count": 40,
     "rank": 3652,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e6832e85873e558db819a76cacf56b019b0cefd",
+    "trader_name": "ageofandy",
+    "tag": "Overall",
+    "overall_gain": 31207.06551128053,
+    "active_positions": 3,
+    "win_amount": 38373.944712653334,
+    "loss_amount": -7166.879201372807,
+    "win_rate": 0.4,
+    "total_current_value": 0.008774,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 3653,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
