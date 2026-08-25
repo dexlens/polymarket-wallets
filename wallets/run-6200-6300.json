@@ -462,5 +462,21 @@
     "win_count": 38,
     "rank": 6229,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xea6dce1a2c3805309c6eb7e3cab157eda321cda7",
+    "trader_name": "andreibets",
+    "tag": "Overall",
+    "overall_gain": 17184.855618743513,
+    "active_positions": 2,
+    "win_amount": 17244.854863,
+    "loss_amount": -59.999244256487,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 6230,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
