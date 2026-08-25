@@ -926,5 +926,21 @@
     "win_count": 7,
     "rank": 40159,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa0089ba67837f23f7ff31047af22fc050ad8f4ac",
+    "trader_name": "Hagenbot",
+    "tag": "Overall",
+    "overall_gain": 1985.939361276544,
+    "active_positions": 1,
+    "win_amount": 2018.939361276544,
+    "loss_amount": -33,
+    "win_rate": 0.5,
+    "total_current_value": 0.007344,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 40160,
+    "trader_tags": ""
   }
 ]
