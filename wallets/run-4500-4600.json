@@ -1086,5 +1086,21 @@
     "win_count": 4,
     "rank": 4568,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xed44745e45a6bf424f941cb1835b9266e386a004",
+    "trader_name": "Mubadollar",
+    "tag": "Overall",
+    "overall_gain": 24130.451149639597,
+    "active_positions": 0,
+    "win_amount": 40890.612765505124,
+    "loss_amount": -16760.161615865527,
+    "win_rate": 0.38461538461538464,
+    "total_current_value": 0.008621,
+    "total_positions": 14,
+    "event_ct": 13,
+    "win_count": 5,
+    "rank": 4569,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
