@@ -1038,5 +1038,21 @@
     "win_count": 27,
     "rank": 64266,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x72f3a859d1f0ef0b61e32232073e22ec6796d2e2",
+    "trader_name": "3sa5",
+    "tag": "Overall",
+    "overall_gain": 966.1821318266578,
+    "active_positions": 7,
+    "win_amount": 7070.3094089999995,
+    "loss_amount": -6104.127277173343,
+    "win_rate": 0.8157894736842105,
+    "total_current_value": 0.003,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 31,
+    "rank": 64267,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
