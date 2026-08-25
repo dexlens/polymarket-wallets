@@ -942,5 +942,21 @@
     "win_count": 10,
     "rank": 2959,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x31b5d60d82ee8a14dc795a41a63953f0974c6128",
+    "trader_name": "GondorCallsForAid",
+    "tag": "Overall",
+    "overall_gain": 38797.66453726895,
+    "active_positions": 120,
+    "win_amount": 227672.06150313598,
+    "loss_amount": -188874.39696586697,
+    "win_rate": 0.8753447324875896,
+    "total_current_value": 9181.498796368503,
+    "total_positions": 3622,
+    "event_ct": 1813,
+    "win_count": 1587,
+    "rank": 2960,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
