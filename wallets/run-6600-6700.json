@@ -238,5 +238,21 @@
     "win_count": 22,
     "rank": 6615,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ed4a50cc733293df432318551c57179d086366a",
+    "trader_name": "WAVE",
+    "tag": "Overall",
+    "overall_gain": 16223.517407700878,
+    "active_positions": 2,
+    "win_amount": 24164.3284101386,
+    "loss_amount": -7940.811002437716,
+    "win_rate": 0.6086956521739131,
+    "total_current_value": 1973.3020028925,
+    "total_positions": 28,
+    "event_ct": 23,
+    "win_count": 14,
+    "rank": 6616,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
