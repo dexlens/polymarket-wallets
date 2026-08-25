@@ -670,5 +670,21 @@
     "win_count": 2,
     "rank": 43243,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcd14300fb857da4978eff6b27302cfb2dc6084b1",
+    "trader_name": "ovn",
+    "tag": "Overall",
+    "overall_gain": 1807.7843790000002,
+    "active_positions": 1,
+    "win_amount": 1975.3033790000002,
+    "loss_amount": -167.519,
+    "win_rate": 0.8518518518518519,
+    "total_current_value": 37,
+    "total_positions": 38,
+    "event_ct": 27,
+    "win_count": 23,
+    "rank": 43244,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
