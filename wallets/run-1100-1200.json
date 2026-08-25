@@ -558,5 +558,21 @@
     "win_count": 8,
     "rank": 1135,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa8c63f775ddbbe66b56614191747def3021444e8",
+    "trader_name": "Tenebrus7",
+    "tag": "Overall",
+    "overall_gain": 107596.86566806963,
+    "active_positions": 370,
+    "win_amount": 480224.7702228402,
+    "loss_amount": -372627.90455477027,
+    "win_rate": 0.7450076804915514,
+    "total_current_value": 231767.20543964155,
+    "total_positions": 4077,
+    "event_ct": 1953,
+    "win_count": 1455,
+    "rank": 1136,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
