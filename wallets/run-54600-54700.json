@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 54615,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x09b168024eb788a493c710d985c45e2b7cdb283c",
+    "trader_name": "qgx",
+    "tag": "Overall",
+    "overall_gain": 1275.742304,
+    "active_positions": 1,
+    "win_amount": 1680.462286,
+    "loss_amount": -404.719982,
+    "win_rate": 0.7741935483870968,
+    "total_current_value": 0,
+    "total_positions": 44,
+    "event_ct": 31,
+    "win_count": 24,
+    "rank": 54616,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
