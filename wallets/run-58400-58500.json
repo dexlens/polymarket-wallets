@@ -286,5 +286,21 @@
     "win_count": 14,
     "rank": 58419,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a3a45b01ac19d47a0d636cb504014ddc10510cc",
+    "trader_name": "llambre",
+    "tag": "Overall",
+    "overall_gain": 1128.2740865564228,
+    "active_positions": 456,
+    "win_amount": 6575.917062512552,
+    "loss_amount": -5447.642975956128,
+    "win_rate": 0.6143128562381254,
+    "total_current_value": 1232.495812,
+    "total_positions": 1861,
+    "event_ct": 1579,
+    "win_count": 970,
+    "rank": 58420,
+    "trader_tags": "1k+ Positions"
   }
 ]
