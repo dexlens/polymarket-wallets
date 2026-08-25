@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 66342,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xda236a473e9444441a6020f78205c70ff16539dc",
+    "trader_name": "hehuibing123",
+    "tag": "Overall",
+    "overall_gain": 906.5147552000001,
+    "active_positions": 2,
+    "win_amount": 1726.511736,
+    "loss_amount": -819.9969808,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 66343,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
