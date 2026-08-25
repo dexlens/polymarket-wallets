@@ -926,5 +926,21 @@
     "win_count": 90,
     "rank": 59259,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x259d67639ec17b6e705cee1efc1f098a3188bd50",
+    "trader_name": "MGHDNFD",
+    "tag": "Overall",
+    "overall_gain": 1100.16,
+    "active_positions": 0,
+    "win_amount": 1100.16,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 59260,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
