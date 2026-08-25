@@ -1454,5 +1454,21 @@
     "win_count": 29,
     "rank": 64392,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x717d2fec78c0909a0400abcf712b8dc23a885b34",
+    "trader_name": "furi",
+    "tag": "Overall",
+    "overall_gain": 962.23968600189,
+    "active_positions": 86,
+    "win_amount": 1421.0151275851838,
+    "loss_amount": -458.7754415832941,
+    "win_rate": 0.34545454545454546,
+    "total_current_value": 0,
+    "total_positions": 136,
+    "event_ct": 110,
+    "win_count": 38,
+    "rank": 64393,
+    "trader_tags": "> 1 year old"
   }
 ]
