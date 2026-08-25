@@ -222,5 +222,21 @@
     "win_count": 60,
     "rank": 10514,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5e14214a226ba7feb4c195dd3e5ecc2b1f5aba2b",
+    "trader_name": "wandanai",
+    "tag": "Overall",
+    "overall_gain": 10011.794590837895,
+    "active_positions": 50,
+    "win_amount": 10134.853458999996,
+    "loss_amount": -123.05886816210403,
+    "win_rate": 0.5238095238095238,
+    "total_current_value": 0,
+    "total_positions": 106,
+    "event_ct": 105,
+    "win_count": 55,
+    "rank": 10515,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
