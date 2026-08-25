@@ -1182,5 +1182,21 @@
     "win_count": 2,
     "rank": 67875,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x66663b39d49009214adb43ce2a36091ed581db92",
+    "trader_name": "HAOI",
+    "tag": "Overall",
+    "overall_gain": 864.0393680608006,
+    "active_positions": 4,
+    "win_amount": 885.3029991488004,
+    "loss_amount": -21.263631087999784,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 27549.939883786,
+    "total_positions": 12,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 67876,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
