@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 76563,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f577fe2c60ba55072c0642f1a101cb03ddf9fb9",
+    "trader_name": "justahonk",
+    "tag": "Overall",
+    "overall_gain": 689.1408879239319,
+    "active_positions": 0,
+    "win_amount": 892.248263256039,
+    "loss_amount": -203.10737533210698,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.015014,
+    "total_positions": 14,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 76564,
+    "trader_tags": "> 1 year old"
   }
 ]
