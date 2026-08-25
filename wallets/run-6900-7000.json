@@ -926,5 +926,21 @@
     "win_count": 42,
     "rank": 6958,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x83260e08c3342b55f0bf8077a8670e8af0051cbd",
+    "trader_name": "Zeynix",
+    "tag": "Overall",
+    "overall_gain": 15390.915792458263,
+    "active_positions": 2,
+    "win_amount": 16272.835791458263,
+    "loss_amount": -881.919999,
+    "win_rate": 0.8709677419354839,
+    "total_current_value": 0.031848999999999995,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 27,
+    "rank": 6959,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
