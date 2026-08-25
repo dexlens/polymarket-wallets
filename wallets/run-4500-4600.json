@@ -398,5 +398,21 @@
     "win_count": 240,
     "rank": 4525,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x311c2d24b5a75ce0071e72ee219e6f20185e4cee",
+    "trader_name": "lewi",
+    "tag": "Overall",
+    "overall_gain": 24322.335677910385,
+    "active_positions": 4,
+    "win_amount": 27002.776911164005,
+    "loss_amount": -2680.441233253619,
+    "win_rate": 0.25,
+    "total_current_value": 0.005625,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 4526,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
