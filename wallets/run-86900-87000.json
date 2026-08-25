@@ -30,5 +30,21 @@
     "win_count": 5,
     "rank": 86903,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x06838f8070ba5446c3748bd03114a05e68d18689",
+    "trader_name": "svooch",
+    "tag": "Overall",
+    "overall_gain": 526.7079865697119,
+    "active_positions": 19,
+    "win_amount": 1612.4592808781026,
+    "loss_amount": -1085.75129430839,
+    "win_rate": 0.6928571428571428,
+    "total_current_value": 0.277659,
+    "total_positions": 141,
+    "event_ct": 140,
+    "win_count": 97,
+    "rank": 86904,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
