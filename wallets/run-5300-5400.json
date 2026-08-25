@@ -46,5 +46,21 @@
     "win_count": 1,
     "rank": 5303,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x68005bec961325d2cb9e2f01b5917f594ea4dc45",
+    "trader_name": "obienostr",
+    "tag": "Overall",
+    "overall_gain": 20443.5,
+    "active_positions": 0,
+    "win_amount": 20443.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 5304,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
