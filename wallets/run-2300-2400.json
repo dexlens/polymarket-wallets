@@ -718,5 +718,21 @@
     "win_count": 10,
     "rank": 2345,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e3344dbddd20effe640397d509747ed93558166",
+    "trader_name": "zackeryid",
+    "tag": "Overall",
+    "overall_gain": 50453.324984,
+    "active_positions": 2,
+    "win_amount": 51403.724984,
+    "loss_amount": -950.4,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 2346,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
