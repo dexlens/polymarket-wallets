@@ -1374,5 +1374,21 @@
     "win_count": 5,
     "rank": 87287,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85eac7cb410a95f8d14cb2cca8bfe37f8dd2d554",
+    "trader_name": "yayou - 15192",
+    "tag": "Overall",
+    "overall_gain": 521.9639174889527,
+    "active_positions": 0,
+    "win_amount": 1149.261746,
+    "loss_amount": -627.2978285110474,
+    "win_rate": 0.6756756756756757,
+    "total_current_value": 1.0678838670602175e-11,
+    "total_positions": 44,
+    "event_ct": 37,
+    "win_count": 25,
+    "rank": 87288,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
