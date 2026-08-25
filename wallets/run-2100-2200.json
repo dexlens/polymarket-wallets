@@ -590,5 +590,21 @@
     "win_count": 50,
     "rank": 2137,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x19a15ee029467816eb96dc303d81ee4b2fe47698",
+    "trader_name": "7Horizon-X",
+    "tag": "Overall",
+    "overall_gain": 56413.84638357741,
+    "active_positions": 565,
+    "win_amount": 188277.5991564755,
+    "loss_amount": -131863.7527728981,
+    "win_rate": 0.5524072459556331,
+    "total_current_value": 1513.758191045,
+    "total_positions": 41211,
+    "event_ct": 20646,
+    "win_count": 11405,
+    "rank": 2138,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
