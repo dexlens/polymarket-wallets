@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 34783,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d5857bf5b62bafd49d977438d6e148d754b875e",
+    "trader_name": "Fumecenter",
+    "tag": "Overall",
+    "overall_gain": 2359.45,
+    "active_positions": 1,
+    "win_amount": 2359.45,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 34784,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
