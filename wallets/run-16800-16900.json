@@ -446,5 +446,21 @@
     "win_count": 4,
     "rank": 16828,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x24beca88fc66e9c98dfaf268c3c171ebbad5572f",
+    "trader_name": "Rosewoode",
+    "tag": "Overall",
+    "overall_gain": 5629.529796901553,
+    "active_positions": 4,
+    "win_amount": 5634.5297873648,
+    "loss_amount": -4.999990463246999,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 7.181685,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 16829,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
