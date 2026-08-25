@@ -1566,5 +1566,21 @@
     "win_count": 958,
     "rank": 2498,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x3b832691ee4136579f311e1f337a206b78e29318",
+    "trader_name": "dalitrader",
+    "tag": "Overall",
+    "overall_gain": 47034.37664121982,
+    "active_positions": 0,
+    "win_amount": 73730.57463619011,
+    "loss_amount": -26696.197994970284,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 0.071912155,
+    "total_positions": 69,
+    "event_ct": 31,
+    "win_count": 22,
+    "rank": 2499,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
