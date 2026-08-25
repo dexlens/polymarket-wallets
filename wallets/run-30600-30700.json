@@ -174,5 +174,21 @@
     "win_count": 10,
     "rank": 30612,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x38cec256cec4edbfc49c583fcd6763e7e0905431",
+    "trader_name": "aaroncooks",
+    "tag": "Overall",
+    "overall_gain": 2745.552889413652,
+    "active_positions": 159,
+    "win_amount": 33340.626481373816,
+    "loss_amount": -30595.073591960154,
+    "win_rate": 0.6841339155749636,
+    "total_current_value": 986.0164272384999,
+    "total_positions": 889,
+    "event_ct": 687,
+    "win_count": 470,
+    "rank": 30613,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
