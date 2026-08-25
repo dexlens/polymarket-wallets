@@ -1438,5 +1438,21 @@
     "win_count": 138,
     "rank": 78691,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x379ca57639dc998288e22bab9c85e40408a7c224",
+    "trader_name": "liq1uid",
+    "tag": "Overall",
+    "overall_gain": 652.4053288840319,
+    "active_positions": 3,
+    "win_amount": 763.9195715150289,
+    "loss_amount": -111.51424263099699,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 41.5593065055,
+    "total_positions": 16,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 78692,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
