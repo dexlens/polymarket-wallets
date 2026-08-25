@@ -1230,5 +1230,21 @@
     "win_count": 80,
     "rank": 56778,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5603cbc0a6bff41ff7e384c6b896e8797aee5296",
+    "trader_name": "Reclamation",
+    "tag": "Overall",
+    "overall_gain": 1187.9201325893291,
+    "active_positions": 5,
+    "win_amount": 1572.6176091561663,
+    "loss_amount": -384.69747656683705,
+    "win_rate": 0.5161290322580645,
+    "total_current_value": 40.614166000000004,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 16,
+    "rank": 56779,
+    "trader_tags": "> 1 year old"
   }
 ]
