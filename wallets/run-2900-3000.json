@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 2938,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc51ade49265b2e51c50488b63f0fddeaf37d417d",
+    "trader_name": "longlongbtc",
+    "tag": "Overall",
+    "overall_gain": 39125.16,
+    "active_positions": 5,
+    "win_amount": 70830.16,
+    "loss_amount": -31705,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 13,
+    "win_count": 8,
+    "rank": 2939,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
