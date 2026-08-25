@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 32449,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x05ba3f5d5a030ab0230f9b060909182405f1ca40",
+    "trader_name": "kiskacom",
+    "tag": "Overall",
+    "overall_gain": 2556.4128101088922,
+    "active_positions": 42,
+    "win_amount": 7594.437322157468,
+    "loss_amount": -5038.024512048578,
+    "win_rate": 0.6190476190476191,
+    "total_current_value": 8.474997999999998,
+    "total_positions": 107,
+    "event_ct": 105,
+    "win_count": 65,
+    "rank": 32450,
+    "trader_tags": ""
   }
 ]
