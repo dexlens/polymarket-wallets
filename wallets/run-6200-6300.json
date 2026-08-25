@@ -350,5 +350,21 @@
     "win_count": 28,
     "rank": 6222,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74326fd7414daeb4493ddb9656cf56c242dcd7d5",
+    "trader_name": "passerby-83",
+    "tag": "Overall",
+    "overall_gain": 17208.266773,
+    "active_positions": 9,
+    "win_amount": 30037.266773,
+    "loss_amount": -12829,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 6223,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
