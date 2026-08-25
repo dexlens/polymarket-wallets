@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 44099,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5cb8af308947020966ff8516e9b30c7ebc63507c",
+    "trader_name": "gw3ege",
+    "tag": "Overall",
+    "overall_gain": 1760.52,
+    "active_positions": 0,
+    "win_amount": 1760.52,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 44100,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
