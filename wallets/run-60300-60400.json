@@ -238,5 +238,21 @@
     "win_count": 4,
     "rank": 60316,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5191099f262c3dda6d0e31cd61eb629e054a4e5d",
+    "trader_name": "wrr2rsa",
+    "tag": "Overall",
+    "overall_gain": 1066.4408711874537,
+    "active_positions": 18,
+    "win_amount": 1066.4409146582877,
+    "loss_amount": -0.000043470833999519065,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 52.855354,
+    "total_positions": 23,
+    "event_ct": 14,
+    "win_count": 13,
+    "rank": 60317,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
