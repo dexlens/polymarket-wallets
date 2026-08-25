@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 2124,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38b0bbdb3b3b784030ca03866d6ee21a6e4a060c",
+    "trader_name": "Mognar",
+    "tag": "Overall",
+    "overall_gain": 56801.930918118276,
+    "active_positions": 240,
+    "win_amount": 255569.86505148505,
+    "loss_amount": -198767.9341333667,
+    "win_rate": 0.45867768595041325,
+    "total_current_value": 0.058751,
+    "total_positions": 378,
+    "event_ct": 242,
+    "win_count": 111,
+    "rank": 2125,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
