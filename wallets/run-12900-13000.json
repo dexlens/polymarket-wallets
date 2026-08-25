@@ -878,5 +878,21 @@
     "win_count": 3,
     "rank": 12955,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23053bcab763996e9e7044b6987789a0f4d18908",
+    "trader_name": "leathanob",
+    "tag": "Overall",
+    "overall_gain": 7782.3,
+    "active_positions": 1,
+    "win_amount": 11761.34,
+    "loss_amount": -3979.04,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 12956,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
