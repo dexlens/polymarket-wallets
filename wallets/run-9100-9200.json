@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 9143,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91afdca69d695cb89f086e6383a1e335af071b2d",
+    "trader_name": "polyed",
+    "tag": "Overall",
+    "overall_gain": 11466.941945999999,
+    "active_positions": 0,
+    "win_amount": 11877.051282,
+    "loss_amount": -410.109336,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 9144,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
