@@ -654,5 +654,21 @@
     "win_count": 80,
     "rank": 3141,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xc360b7771fe7c63139076a6f9e8c34b773badbb2",
+    "trader_name": "Doriath",
+    "tag": "Overall",
+    "overall_gain": 36403.22845798521,
+    "active_positions": 184,
+    "win_amount": 54188.01940018626,
+    "loss_amount": -17784.790942201063,
+    "win_rate": 0.7638888888888888,
+    "total_current_value": 84266.405673922,
+    "total_positions": 499,
+    "event_ct": 216,
+    "win_count": 165,
+    "rank": 3142,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
