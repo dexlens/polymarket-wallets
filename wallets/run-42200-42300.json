@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 42290,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf2c57ae855368c608aa897b9556c5c863ba342a0",
+    "trader_name": "Innocya",
+    "tag": "Overall",
+    "overall_gain": 1861.314598,
+    "active_positions": 1,
+    "win_amount": 2215.500598,
+    "loss_amount": -354.186,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 42291,
+    "trader_tags": ""
   }
 ]
