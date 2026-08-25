@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 41033,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00ce313cfbabd7e8f59792c6630319f52f008787",
+    "trader_name": "magninpw",
+    "tag": "Overall",
+    "overall_gain": 1933.2195626214832,
+    "active_positions": 19,
+    "win_amount": 4353.020881941946,
+    "loss_amount": -2419.8013193204615,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 12.0671035725,
+    "total_positions": 129,
+    "event_ct": 91,
+    "win_count": 70,
+    "rank": 41034,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
