@@ -1470,5 +1470,21 @@
     "win_count": 3,
     "rank": 87393,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x70cb3672eddd345cacbfbbcfbe406072c982502c",
+    "trader_name": "silentagain",
+    "tag": "Overall",
+    "overall_gain": 520.3953753155331,
+    "active_positions": 7,
+    "win_amount": 763.3214150000001,
+    "loss_amount": -242.92603968446699,
+    "win_rate": 0.7567567567567568,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 28,
+    "rank": 87394,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
