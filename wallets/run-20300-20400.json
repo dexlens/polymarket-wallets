@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 20314,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ddfa4d5b954379a03d19f87df36b9820b862c83",
+    "trader_name": "OkieDokiePeon",
+    "tag": "Overall",
+    "overall_gain": 4545.130314133531,
+    "active_positions": 176,
+    "win_amount": 34210.324221455514,
+    "loss_amount": -29665.19390732198,
+    "win_rate": 0.4569377990430622,
+    "total_current_value": 26015.198295015496,
+    "total_positions": 1519,
+    "event_ct": 418,
+    "win_count": 191,
+    "rank": 20315,
+    "trader_tags": "1k+ Positions"
   }
 ]
