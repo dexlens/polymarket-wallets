@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 68380,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x301c69f2049f1229d751fd92db27297864def253",
+    "trader_name": "wen555",
+    "tag": "Overall",
+    "overall_gain": 851.5395461887381,
+    "active_positions": 0,
+    "win_amount": 851.5395461887381,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.011973000000000001,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 68381,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
