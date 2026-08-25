@@ -878,5 +878,21 @@
     "win_count": 181,
     "rank": 10055,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xde4ef522b68fc59994355b076bbb87279c187c57",
+    "trader_name": "Deyvion",
+    "tag": "Overall",
+    "overall_gain": 10431.198707000003,
+    "active_positions": 4,
+    "win_amount": 12625.853326,
+    "loss_amount": -2194.654619,
+    "win_rate": 0.7948717948717948,
+    "total_current_value": 0.001,
+    "total_positions": 41,
+    "event_ct": 39,
+    "win_count": 31,
+    "rank": 10056,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
