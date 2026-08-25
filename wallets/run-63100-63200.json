@@ -382,5 +382,21 @@
     "win_count": 3,
     "rank": 63125,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a63860262ac79d68f354968004a667fba019203",
+    "trader_name": "guagua11",
+    "tag": "Overall",
+    "overall_gain": 997.5613427731042,
+    "active_positions": 2,
+    "win_amount": 1089.8540930000001,
+    "loss_amount": -92.292750226896,
+    "win_rate": 0.25,
+    "total_current_value": 0.009104,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 63126,
+    "trader_tags": "> 1 year old"
   }
 ]
