@@ -1246,5 +1246,21 @@
     "win_count": 3,
     "rank": 26779,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37c5e98d8bd5da498aeba785e91ca46cf6e551dc",
+    "trader_name": "HadrianFord",
+    "tag": "Overall",
+    "overall_gain": 3241.08849,
+    "active_positions": 1,
+    "win_amount": 3321.27449,
+    "loss_amount": -80.186,
+    "win_rate": 0.7,
+    "total_current_value": 25,
+    "total_positions": 28,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 26780,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
