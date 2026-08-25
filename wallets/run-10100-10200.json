@@ -1454,5 +1454,21 @@
     "win_count": 3,
     "rank": 10191,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe8c964006c7cb6f19cc09b564dfa4a61cb850c0c",
+    "trader_name": "Kitchaa",
+    "tag": "Overall",
+    "overall_gain": 10310.536486110124,
+    "active_positions": 150,
+    "win_amount": 33698.59973200001,
+    "loss_amount": -23388.063245889876,
+    "win_rate": 0.43703703703703706,
+    "total_current_value": 0,
+    "total_positions": 283,
+    "event_ct": 270,
+    "win_count": 118,
+    "rank": 10192,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
