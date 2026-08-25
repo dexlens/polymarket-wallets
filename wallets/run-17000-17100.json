@@ -1406,5 +1406,21 @@
     "win_count": 5,
     "rank": 17088,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54949d936aedd7732f895d20c78581e56df1faac",
+    "trader_name": "Quirinus",
+    "tag": "Overall",
+    "overall_gain": 5512.419544989368,
+    "active_positions": 32,
+    "win_amount": 22112.11030654406,
+    "loss_amount": -16599.690761554688,
+    "win_rate": 0.5416666666666666,
+    "total_current_value": 16663.4309182295,
+    "total_positions": 53,
+    "event_ct": 48,
+    "win_count": 26,
+    "rank": 17089,
+    "trader_tags": "> 1 year old"
   }
 ]
