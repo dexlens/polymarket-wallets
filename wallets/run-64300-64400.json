@@ -1438,5 +1438,21 @@
     "win_count": 11,
     "rank": 64391,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1dc0bd4cf247d222f7464b305fc60201ee76d726",
+    "trader_name": "Foxxyyy",
+    "tag": "Overall",
+    "overall_gain": 962.2539445951297,
+    "active_positions": 4,
+    "win_amount": 2106.15835965865,
+    "loss_amount": -1143.90441506352,
+    "win_rate": 0.90625,
+    "total_current_value": 2721.6999453175,
+    "total_positions": 36,
+    "event_ct": 32,
+    "win_count": 29,
+    "rank": 64392,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
