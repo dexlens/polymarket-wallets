@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 8453,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b88161f737e26b60bc86a3adf9089aaf1285d08",
+    "trader_name": "Ajwritescrypt0",
+    "tag": "Overall",
+    "overall_gain": 12384.1633646925,
+    "active_positions": 4,
+    "win_amount": 908699.6984506401,
+    "loss_amount": -896315.5350859474,
+    "win_rate": 0.5579710144927537,
+    "total_current_value": 1663.0282530999998,
+    "total_positions": 364,
+    "event_ct": 276,
+    "win_count": 154,
+    "rank": 8454,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
