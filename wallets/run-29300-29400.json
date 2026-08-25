@@ -1214,5 +1214,21 @@
     "win_count": 11,
     "rank": 29377,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51a8f0c1f48c4f965e204cf43b1aa819da596449",
+    "trader_name": "Skylag",
+    "tag": "Overall",
+    "overall_gain": 2898.52,
+    "active_positions": 1,
+    "win_amount": 2901.945,
+    "loss_amount": -3.425,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 29378,
+    "trader_tags": ""
   }
 ]
