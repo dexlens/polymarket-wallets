@@ -398,5 +398,21 @@
     "win_count": 130,
     "rank": 64126,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa8aa73e96c6a360d2996813baabf8cab7f0ddd0e",
+    "trader_name": "testwallet4",
+    "tag": "Overall",
+    "overall_gain": 970.5354649074012,
+    "active_positions": 10,
+    "win_amount": 4269.44232149937,
+    "loss_amount": -3298.9068565919697,
+    "win_rate": 0.9277456647398844,
+    "total_current_value": 24235.991426000008,
+    "total_positions": 573,
+    "event_ct": 346,
+    "win_count": 321,
+    "rank": 64127,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
