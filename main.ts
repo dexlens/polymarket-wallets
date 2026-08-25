@@ -26,6 +26,12 @@ const runEnd = parseInt(end);
 const runName = `run-${runStart}-${runEnd}`;
 
 const thisrunsfilename = `wallets/${runName}.json`;
+
+// check if the run already exists
+if (await Deno.stat(thisrunsfilename)) {
+  console.log(`Run ${runName} already exists`);
+  Deno.exit(0);
+}
 // create the file
 await Deno.writeTextFile(thisrunsfilename, JSON.stringify([], null, 2));
 let thisrunsdata = [];
@@ -59,7 +65,7 @@ for (const wallet of realdata.slice(runStart, runEnd)) {
   const indexdata = JSON.parse(await Deno.readTextFile(indexfilename));
   indexdata.wallets++;
   await Deno.writeTextFile(indexfilename, JSON.stringify(indexdata, null, 2));
-  console.log(`Finished ${wallet.trader_name}:${wallet.trader}`);
+  // console.log(`Finished ${wallet.trader_name}:${wallet.trader}`);
 }
 
 // read the index.json now
