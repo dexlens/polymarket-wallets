@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 66290,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ac6cc12c9695dd5cb7b7804e00354ca9dae89c4",
+    "trader_name": "goodcobra",
+    "tag": "Overall",
+    "overall_gain": 908.0574760083325,
+    "active_positions": 0,
+    "win_amount": 1765.566049,
+    "loss_amount": -857.508572991667,
+    "win_rate": 0.6,
+    "total_current_value": 0.051283,
+    "total_positions": 33,
+    "event_ct": 30,
+    "win_count": 18,
+    "rank": 66291,
+    "trader_tags": "> 1 year old"
   }
 ]
