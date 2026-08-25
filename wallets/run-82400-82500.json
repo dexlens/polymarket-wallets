@@ -1326,5 +1326,21 @@
     "win_count": 52,
     "rank": 82484,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5d17f984afaaf844e79d7ad21b07d4da9e508849",
+    "trader_name": "vnchdue",
+    "tag": "Overall",
+    "overall_gain": 590.4696560380559,
+    "active_positions": 7,
+    "win_amount": 963.1077259999998,
+    "loss_amount": -372.6380699619441,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 1641.9059580060002,
+    "total_positions": 23,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 82485,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
