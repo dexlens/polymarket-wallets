@@ -734,5 +734,21 @@
     "win_count": 584,
     "rank": 6446,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a714d9e00a1d0c50d12763944d7c01613585cbf",
+    "trader_name": "HedgeToBTC",
+    "tag": "Overall",
+    "overall_gain": 16605.39718392417,
+    "active_positions": 0,
+    "win_amount": 20217.48313957417,
+    "loss_amount": -3612.08595565,
+    "win_rate": 0.8,
+    "total_current_value": 0.019731000000000002,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 6447,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
