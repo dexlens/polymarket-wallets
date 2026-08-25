@@ -126,5 +126,21 @@
     "win_count": 3,
     "rank": 6908,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xba939900635bfeeac75c8269ee0082aa01c22740",
+    "trader_name": "AndersonLccas",
+    "tag": "Overall",
+    "overall_gain": 15522.715026033628,
+    "active_positions": 4,
+    "win_amount": 29693.824435185255,
+    "loss_amount": -14171.109409151628,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 3.615640895,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 6909,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
