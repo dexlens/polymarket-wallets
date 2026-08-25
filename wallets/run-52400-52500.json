@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 52465,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x837d47d1c1cb0d01f5041821fe03b7aa2e4f8a0d",
+    "trader_name": "KJHs",
+    "tag": "Overall",
+    "overall_gain": 1370.6959920580377,
+    "active_positions": 6,
+    "win_amount": 3048.3830657053436,
+    "loss_amount": -1677.6870736473063,
+    "win_rate": 0.4642857142857143,
+    "total_current_value": 4.512768466000001,
+    "total_positions": 31,
+    "event_ct": 28,
+    "win_count": 13,
+    "rank": 52466,
+    "trader_tags": ""
   }
 ]
