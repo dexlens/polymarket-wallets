@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 33041,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02b444b10b5ef0705c6854f476379a5cbba8645e",
+    "trader_name": "BelindaEveline",
+    "tag": "Overall",
+    "overall_gain": 2500,
+    "active_positions": 1,
+    "win_amount": 3500,
+    "loss_amount": -1000,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 33042,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
