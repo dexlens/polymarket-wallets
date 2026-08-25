@@ -1070,5 +1070,21 @@
     "win_count": 10,
     "rank": 24468,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3dbaa4ba25e5c13a3cc01d78cbd5b58bc974b75b",
+    "trader_name": "Roger10",
+    "tag": "Overall",
+    "overall_gain": 3633.2671801819997,
+    "active_positions": 3,
+    "win_amount": 4965.14622699,
+    "loss_amount": -1331.8790468079999,
+    "win_rate": 0.75,
+    "total_current_value": 9909.436336,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 24469,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
