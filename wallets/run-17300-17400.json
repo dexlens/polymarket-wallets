@@ -910,5 +910,21 @@
     "win_count": 4,
     "rank": 17357,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2231527bd31d35bc790a2062b1f6976b256d2fff",
+    "trader_name": "Quimbdy2",
+    "tag": "Overall",
+    "overall_gain": 5412.5,
+    "active_positions": 1,
+    "win_amount": 5674.5,
+    "loss_amount": -262,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 17358,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
