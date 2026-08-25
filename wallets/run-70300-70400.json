@@ -1582,5 +1582,21 @@
     "win_count": 2,
     "rank": 70400,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdffe0c3942fd19e849828c5642881fa40e569b64",
+    "trader_name": "zzxs",
+    "tag": "Overall",
+    "overall_gain": 801.5999626400002,
+    "active_positions": 4,
+    "win_amount": 937.9152740000002,
+    "loss_amount": -136.31531136,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 70401,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
