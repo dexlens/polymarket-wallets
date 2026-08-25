@@ -1230,5 +1230,21 @@
     "win_count": 10,
     "rank": 35578,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x77e78de84169f03993c08c090998bf76532437ae",
+    "trader_name": "liniste",
+    "tag": "Overall",
+    "overall_gain": 2295.16720813857,
+    "active_positions": 1,
+    "win_amount": 2295.16720813857,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00857,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 35579,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
