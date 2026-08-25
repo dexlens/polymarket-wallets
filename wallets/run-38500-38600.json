@@ -654,5 +654,21 @@
     "win_count": 12,
     "rank": 38542,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x41cbd59e3cf01bcc82a5fc31f8263a663696aef2",
+    "trader_name": "born-under-the-sun",
+    "tag": "Overall",
+    "overall_gain": 2083.8233110000006,
+    "active_positions": 2,
+    "win_amount": 3543.8005950000006,
+    "loss_amount": -1459.977284,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 38543,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
