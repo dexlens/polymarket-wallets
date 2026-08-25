@@ -942,5 +942,21 @@
     "win_count": 115,
     "rank": 85060,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x15f917bf381613b5b65302fceee97bd09c06a799",
+    "trader_name": "asdppq",
+    "tag": "Overall",
+    "overall_gain": 551.55616903109,
+    "active_positions": 1,
+    "win_amount": 551.5564658140901,
+    "loss_amount": -0.00029678299999999963,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 276.87128828,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 14,
+    "rank": 85061,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
