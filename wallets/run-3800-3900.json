@@ -1182,5 +1182,21 @@
     "win_count": 9,
     "rank": 3874,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07aaacd10c12b117a63caf9f8451ab74f6a7b605",
+    "trader_name": "jvaispas",
+    "tag": "Overall",
+    "overall_gain": 29254.616952296456,
+    "active_positions": 3,
+    "win_amount": 29325.816687000002,
+    "loss_amount": -71.19973470354499,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 18,
+    "rank": 3875,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
