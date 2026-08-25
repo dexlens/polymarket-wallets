@@ -78,5 +78,21 @@
     "win_count": 56,
     "rank": 27906,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbad8db5b9e99c93162d9dbc111219672baef1e7a",
+    "trader_name": "starc",
+    "tag": "Overall",
+    "overall_gain": 3079.774061968855,
+    "active_positions": 33,
+    "win_amount": 7995.938922752603,
+    "loss_amount": -4916.16486078375,
+    "win_rate": 0.5090579710144928,
+    "total_current_value": 97.71818199999998,
+    "total_positions": 555,
+    "event_ct": 552,
+    "win_count": 281,
+    "rank": 27907,
+    "trader_tags": "< 30 days old"
   }
 ]
