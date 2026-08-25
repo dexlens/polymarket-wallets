@@ -878,5 +878,21 @@
     "win_count": 111,
     "rank": 6855,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x858ecf077986c777ffa0ff274f33bb8df17d1c3b",
+    "trader_name": "MassoDil",
+    "tag": "Overall",
+    "overall_gain": 15634.75277964117,
+    "active_positions": 28,
+    "win_amount": 29217.2449852075,
+    "loss_amount": -13582.492205566332,
+    "win_rate": 0.6415094339622641,
+    "total_current_value": 6921.338973999999,
+    "total_positions": 311,
+    "event_ct": 53,
+    "win_count": 34,
+    "rank": 6856,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
