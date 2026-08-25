@@ -414,5 +414,21 @@
     "win_count": 36,
     "rank": 4826,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c09fed884937c43fc65e26460f613cc4f2cc9b4",
+    "trader_name": "MexicoTaco",
+    "tag": "Overall",
+    "overall_gain": 22531.520850552173,
+    "active_positions": 25,
+    "win_amount": 267653.62145983864,
+    "loss_amount": -245122.10060928643,
+    "win_rate": 0.53125,
+    "total_current_value": 8.5102440035,
+    "total_positions": 378,
+    "event_ct": 224,
+    "win_count": 119,
+    "rank": 4827,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
