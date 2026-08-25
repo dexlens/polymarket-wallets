@@ -1118,5 +1118,21 @@
     "win_count": 2,
     "rank": 82271,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x319537be8793e5942ab09300a3e37cea244540e0",
+    "trader_name": "TrumpDegen",
+    "tag": "Overall",
+    "overall_gain": 594.1015620846767,
+    "active_positions": 4,
+    "win_amount": 1175.190307740026,
+    "loss_amount": -581.0887456553492,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.012295,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 82272,
+    "trader_tags": ""
   }
 ]
