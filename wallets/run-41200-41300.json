@@ -1246,5 +1246,21 @@
     "win_count": 39,
     "rank": 41279,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9c2c5365f4d00cf0024ba433d1f7ffeec5a43770",
+    "trader_name": "mistds",
+    "tag": "Overall",
+    "overall_gain": 1918.0950000000005,
+    "active_positions": 4,
+    "win_amount": 3106.0699999999997,
+    "loss_amount": -1187.9749999999997,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 1091.585,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 41280,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
