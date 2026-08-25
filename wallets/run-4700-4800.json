@@ -1054,5 +1054,21 @@
     "win_count": 652,
     "rank": 4766,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03d10f586739900ca68f5fd9f3dbec809ea9f55d",
+    "trader_name": "dewgtyu",
+    "tag": "Overall",
+    "overall_gain": 22830.757549198064,
+    "active_positions": 0,
+    "win_amount": 22959.826549198064,
+    "loss_amount": -129.069,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.000066,
+    "total_positions": 42,
+    "event_ct": 33,
+    "win_count": 22,
+    "rank": 4767,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
