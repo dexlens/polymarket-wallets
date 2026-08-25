@@ -1166,5 +1166,21 @@
     "win_count": 28,
     "rank": 88774,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x03cc434d9c36d2b3cdb371617beadfb51ed2ac55",
+    "trader_name": "FockItImOnOne",
+    "tag": "Overall",
+    "overall_gain": 504.41758805842,
+    "active_positions": 6,
+    "win_amount": 1066.4613381301142,
+    "loss_amount": -562.043750071694,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 1.64143,
+    "total_positions": 17,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 88775,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
