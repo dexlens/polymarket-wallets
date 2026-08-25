@@ -654,5 +654,21 @@
     "win_count": 197,
     "rank": 71842,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8b32206aa55b892c80d2246186bcf4b36f5b83fb",
+    "trader_name": "never-say-never",
+    "tag": "Overall",
+    "overall_gain": 770.2872276739863,
+    "active_positions": 2,
+    "win_amount": 770.2872276739863,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.034749,
+    "total_positions": 4,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 71843,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
