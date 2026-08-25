@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 66184,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf39408dd359520b7020a36ef5315970d6a6492d5",
+    "trader_name": "Pusko",
+    "tag": "Overall",
+    "overall_gain": 910.586731501387,
+    "active_positions": 0,
+    "win_amount": 910.586731501387,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.051491,
+    "total_positions": 25,
+    "event_ct": 9,
+    "win_count": 9,
+    "rank": 66185,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
