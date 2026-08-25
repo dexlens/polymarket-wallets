@@ -126,5 +126,21 @@
     "win_count": 3,
     "rank": 89409,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7386fc79c6862c12caa80a5b3c5da2d1f54a3ea4",
+    "trader_name": "acheng",
+    "tag": "Overall",
+    "overall_gain": 496.900600607736,
+    "active_positions": 1,
+    "win_amount": 655.69608994,
+    "loss_amount": -158.79548933226403,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.897877,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 89410,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
