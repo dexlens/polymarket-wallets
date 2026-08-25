@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 71273,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e74be9a8ee994d2559bf5e7700ad9079a1993bc",
+    "trader_name": "ComandanteKevin",
+    "tag": "Overall",
+    "overall_gain": 782.3446011487115,
+    "active_positions": 11,
+    "win_amount": 3205.032372311946,
+    "loss_amount": -2422.687771163235,
+    "win_rate": 0.6439393939393939,
+    "total_current_value": 0.004926,
+    "total_positions": 181,
+    "event_ct": 132,
+    "win_count": 85,
+    "rank": 71274,
+    "trader_tags": "> 1 year old"
   }
 ]
