@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 70426,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28a1213c82458cc631feae3548db3a1b5ca3f44e",
+    "trader_name": "FTA",
+    "tag": "Overall",
+    "overall_gain": 800.8452474581779,
+    "active_positions": 1,
+    "win_amount": 1310.104931,
+    "loss_amount": -509.259683541822,
+    "win_rate": 0.5151515151515151,
+    "total_current_value": 0,
+    "total_positions": 41,
+    "event_ct": 33,
+    "win_count": 17,
+    "rank": 70427,
+    "trader_tags": "> 1 year old"
   }
 ]
