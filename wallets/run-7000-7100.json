@@ -318,5 +318,21 @@
     "win_count": 28,
     "rank": 7020,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xda0e2780c213cfa12c4c1c76c26a36b9f3cadd27",
+    "trader_name": "BlockBullion",
+    "tag": "Overall",
+    "overall_gain": 15229.528883581668,
+    "active_positions": 1,
+    "win_amount": 17426.504765581667,
+    "loss_amount": -2196.975882,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 4.583666,
+    "total_positions": 21,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 7021,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
