@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 60755,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b7b6d4dad3b1db1473a27c28e8707876022d204",
+    "trader_name": "ZenZest",
+    "tag": "Overall",
+    "overall_gain": 1054.3697240000001,
+    "active_positions": 1,
+    "win_amount": 1059.159724,
+    "loss_amount": -4.79,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 81.162,
+    "total_positions": 24,
+    "event_ct": 22,
+    "win_count": 20,
+    "rank": 60756,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
