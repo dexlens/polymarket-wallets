@@ -158,5 +158,21 @@
     "win_count": 3,
     "rank": 29211,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x89e7f3d56a79372c3ff99c1ae9efb4e5437bb4ad",
+    "trader_name": "Prismchannel",
+    "tag": "Overall",
+    "overall_gain": 2920.44,
+    "active_positions": 1,
+    "win_amount": 2920.44,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 29212,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
