@@ -222,5 +222,21 @@
     "win_count": 34,
     "rank": 23014,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x92360cab25f7215664f6e57b87142a015d0e8533",
+    "trader_name": "sinatra",
+    "tag": "Overall",
+    "overall_gain": 3915.72670139574,
+    "active_positions": 0,
+    "win_amount": 3915.72670139574,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0005870000000000001,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 23015,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
