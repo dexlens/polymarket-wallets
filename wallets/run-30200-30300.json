@@ -1358,5 +1358,21 @@
     "win_count": 8,
     "rank": 30286,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x72632fd1eb03c73f7121f3ee9a07875562359d1f",
+    "trader_name": "hryubak",
+    "tag": "Overall",
+    "overall_gain": 2786.31779,
+    "active_positions": 0,
+    "win_amount": 2818.191077,
+    "loss_amount": -31.873287,
+    "win_rate": 0.7727272727272727,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 22,
+    "win_count": 17,
+    "rank": 30287,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
