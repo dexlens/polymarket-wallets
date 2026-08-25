@@ -974,5 +974,21 @@
     "win_count": 8,
     "rank": 4261,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x38cc1d1f95d12039324809d8bb6ca6da6cbef88e",
+    "trader_name": "NoonienSoong",
+    "tag": "Overall",
+    "overall_gain": 26218.295177999997,
+    "active_positions": 3,
+    "win_amount": 35179.29332,
+    "loss_amount": -8960.998142000002,
+    "win_rate": 0.9439480097481722,
+    "total_current_value": 2021.92853,
+    "total_positions": 2336,
+    "event_ct": 1231,
+    "win_count": 1162,
+    "rank": 4262,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
