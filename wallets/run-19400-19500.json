@@ -1150,5 +1150,21 @@
     "win_count": 91,
     "rank": 19472,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xca3819a5c10e7cd8bfbbf7ced59a4002a795720f",
+    "trader_name": "100kSon",
+    "tag": "Overall",
+    "overall_gain": 4769.797766338467,
+    "active_positions": 31,
+    "win_amount": 124249.41046064453,
+    "loss_amount": -119479.61269430602,
+    "win_rate": 0.5796434732604946,
+    "total_current_value": 2555.9121780000005,
+    "total_positions": 2098,
+    "event_ct": 1739,
+    "win_count": 1008,
+    "rank": 19473,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
