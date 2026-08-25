@@ -734,5 +734,21 @@
     "win_count": 12,
     "rank": 23747,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x479535d635320cba63d8e8352d438661abfc2ae4",
+    "trader_name": "chudlasjakson",
+    "tag": "Overall",
+    "overall_gain": 3771.0390358759387,
+    "active_positions": 0,
+    "win_amount": 3771.068246035352,
+    "loss_amount": -0.029210159413,
+    "win_rate": 0.8,
+    "total_current_value": 0.0006630000000000001,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 23748,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
