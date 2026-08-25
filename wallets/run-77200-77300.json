@@ -814,5 +814,21 @@
     "win_count": 8,
     "rank": 77252,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x24cf9279edfe64d5169d791204066a2186819156",
+    "trader_name": "lerele",
+    "tag": "Overall",
+    "overall_gain": 677.350164539709,
+    "active_positions": 21,
+    "win_amount": 2490.694457958748,
+    "loss_amount": -1813.3442934190393,
+    "win_rate": 0.7125,
+    "total_current_value": 0.107452,
+    "total_positions": 84,
+    "event_ct": 80,
+    "win_count": 57,
+    "rank": 77253,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
