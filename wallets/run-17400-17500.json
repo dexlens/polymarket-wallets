@@ -318,5 +318,21 @@
     "win_count": 6,
     "rank": 17420,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd3022e74780d4461f47f007c28d6fcfff15cc345",
+    "trader_name": "dssff",
+    "tag": "Overall",
+    "overall_gain": 5385.47345956,
+    "active_positions": 1,
+    "win_amount": 7281.434699,
+    "loss_amount": -1895.9612394400003,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 17421,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
