@@ -510,5 +510,21 @@
     "win_count": 42,
     "rank": 80333,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c60bcc82300cedd7668d5507859de43b16ec24c",
+    "trader_name": "briancohen",
+    "tag": "Overall",
+    "overall_gain": 625.2242933848969,
+    "active_positions": 5,
+    "win_amount": 934.5472488477831,
+    "loss_amount": -309.322955462886,
+    "win_rate": 0.5,
+    "total_current_value": 0.016964,
+    "total_positions": 21,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 80334,
+    "trader_tags": "> 1 year old"
   }
 ]
