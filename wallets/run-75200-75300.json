@@ -446,5 +446,21 @@
     "win_count": 5,
     "rank": 75229,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x077009c56c0687d44b194320209f7e20035a9a9a",
+    "trader_name": "Umbrella1",
+    "tag": "Overall",
+    "overall_gain": 711.2271999999999,
+    "active_positions": 5,
+    "win_amount": 1420.46,
+    "loss_amount": -709.2328,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 75230,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
