@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 67700,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb2c4101fc998b55a463008fb467ad29b76fd5822",
+    "trader_name": "nagibato4",
+    "tag": "Overall",
+    "overall_gain": 869.578154777995,
+    "active_positions": 2,
+    "win_amount": 879.4291209483821,
+    "loss_amount": -9.850966170387,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 0.038417999999999994,
+    "total_positions": 35,
+    "event_ct": 15,
+    "win_count": 13,
+    "rank": 67701,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
