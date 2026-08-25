@@ -430,5 +430,21 @@
     "win_count": 11,
     "rank": 22127,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4312b37ca142edd9215c808f5135c8ada946ac88",
+    "trader_name": "dippie-kr",
+    "tag": "Overall",
+    "overall_gain": 4093.4598180000003,
+    "active_positions": 0,
+    "win_amount": 4093.4598180000003,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 22128,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
