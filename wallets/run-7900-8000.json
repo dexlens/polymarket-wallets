@@ -1278,5 +1278,21 @@
     "win_count": 3,
     "rank": 7980,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x279cedaaf37076b575b3dad3e47e8c626dc053cf",
+    "trader_name": "Orvethq",
+    "tag": "Overall",
+    "overall_gain": 13158.628291865525,
+    "active_positions": 3,
+    "win_amount": 14114.458246865524,
+    "loss_amount": -955.8299549999999,
+    "win_rate": 0.8518518518518519,
+    "total_current_value": 0.0090184885,
+    "total_positions": 30,
+    "event_ct": 27,
+    "win_count": 23,
+    "rank": 7981,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
