@@ -542,5 +542,21 @@
     "win_count": 4,
     "rank": 25835,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25fac9575dff871baf33a0b3f13e69a5d4b8a364",
+    "trader_name": "fsnnz",
+    "tag": "Overall",
+    "overall_gain": 3400.5,
+    "active_positions": 3,
+    "win_amount": 3945.5,
+    "loss_amount": -545,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 25836,
+    "trader_tags": ""
   }
 ]
