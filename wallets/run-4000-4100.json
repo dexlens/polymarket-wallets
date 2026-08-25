@@ -1358,5 +1358,21 @@
     "win_count": 8,
     "rank": 4085,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b69beea35d20e687db2f7752c5dde36d1d90cde",
+    "trader_name": "Mr.Eggplant",
+    "tag": "Overall",
+    "overall_gain": 27435.64730618173,
+    "active_positions": 107,
+    "win_amount": 47166.21348438256,
+    "loss_amount": -19730.566178200836,
+    "win_rate": 0.665871121718377,
+    "total_current_value": 28377.387786652,
+    "total_positions": 802,
+    "event_ct": 419,
+    "win_count": 279,
+    "rank": 4086,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
