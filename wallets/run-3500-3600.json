@@ -846,5 +846,21 @@
     "win_count": 27,
     "rank": 3553,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf80b2f00f05dad55a80ccc756934ae7531f7fa00",
+    "trader_name": "luggl",
+    "tag": "Overall",
+    "overall_gain": 32062.06174352162,
+    "active_positions": 225,
+    "win_amount": 110432.20329293591,
+    "loss_amount": -78370.14154941433,
+    "win_rate": 0.5593952483801296,
+    "total_current_value": 0.08444200000000002,
+    "total_positions": 905,
+    "event_ct": 463,
+    "win_count": 259,
+    "rank": 3554,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
