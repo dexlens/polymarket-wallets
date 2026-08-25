@@ -286,5 +286,21 @@
     "win_count": 7,
     "rank": 21518,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb1c65e411fccf40b5de5537cf2e7344e105f6a00",
+    "trader_name": "SerendipityScript",
+    "tag": "Overall",
+    "overall_gain": 4231,
+    "active_positions": 3,
+    "win_amount": 4822.5,
+    "loss_amount": -591.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 21519,
+    "trader_tags": ""
   }
 ]
