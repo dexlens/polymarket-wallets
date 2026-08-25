@@ -1246,5 +1246,21 @@
     "win_count": 76,
     "rank": 5278,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x96d73eb50b9c9bfd55994f11c8d1a158299c9f01",
+    "trader_name": "tremaynet",
+    "tag": "Overall",
+    "overall_gain": 20538.5,
+    "active_positions": 0,
+    "win_amount": 22125,
+    "loss_amount": -1586.5,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 5279,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
