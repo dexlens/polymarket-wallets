@@ -654,5 +654,21 @@
     "win_count": 6,
     "rank": 1341,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x471abf0558dcd381dcea2fdf54390760c9a30328",
+    "trader_name": "Gustav4",
+    "tag": "Overall",
+    "overall_gain": 90343.19066798009,
+    "active_positions": 7,
+    "win_amount": 120963.41139503417,
+    "loss_amount": -30620.220727054082,
+    "win_rate": 0.748792270531401,
+    "total_current_value": 38425.604848267,
+    "total_positions": 1122,
+    "event_ct": 207,
+    "win_count": 155,
+    "rank": 1342,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
