@@ -158,5 +158,21 @@
     "win_count": 79,
     "rank": 4310,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6550c02337bf562d9611fd881cace840a5cf3bc5",
+    "trader_name": "oracleseer",
+    "tag": "Overall",
+    "overall_gain": 25832.867129821305,
+    "active_positions": 5392,
+    "win_amount": 666462.4516901253,
+    "loss_amount": -640629.5845603043,
+    "win_rate": 0.535178685386088,
+    "total_current_value": 278.344190373,
+    "total_positions": 12555,
+    "event_ct": 12536,
+    "win_count": 6709,
+    "rank": 4311,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
