@@ -286,5 +286,21 @@
     "win_count": 1,
     "rank": 34819,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ee9b46812b0be4a599add7829eb34e4d290f3eb",
+    "trader_name": "kdfa",
+    "tag": "Overall",
+    "overall_gain": 2356.30683,
+    "active_positions": 1,
+    "win_amount": 2356.30683,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 42.23,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 34820,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
