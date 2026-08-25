@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 3983,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x32ae10936946808df2471b55a142dd35c3f17ece",
+    "trader_name": "Veplus",
+    "tag": "Overall",
+    "overall_gain": 28196.540355047604,
+    "active_positions": 0,
+    "win_amount": 33094.14207390935,
+    "loss_amount": -4897.601718861749,
+    "win_rate": 0.52,
+    "total_current_value": 0.099985,
+    "total_positions": 54,
+    "event_ct": 50,
+    "win_count": 26,
+    "rank": 3984,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
