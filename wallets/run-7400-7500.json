@@ -510,5 +510,21 @@
     "win_count": 74,
     "rank": 7432,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d99eea061e314aa829dc7e63e5b910f6d2cded3",
+    "trader_name": "FalconForesight",
+    "tag": "Overall",
+    "overall_gain": 14292.5,
+    "active_positions": 3,
+    "win_amount": 14868.5,
+    "loss_amount": -576,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 7433,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
