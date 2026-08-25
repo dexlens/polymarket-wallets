@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 88838,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd89c5fe63448b9330feef179e32950bdc29f2d1f",
+    "trader_name": "kobbie",
+    "tag": "Overall",
+    "overall_gain": 503.640366389709,
+    "active_positions": 3,
+    "win_amount": 713.636611097302,
+    "loss_amount": -209.996244707593,
+    "win_rate": 0.7,
+    "total_current_value": 97.416309225,
+    "total_positions": 17,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 88839,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
