@@ -542,5 +542,21 @@
     "win_count": 35,
     "rank": 8934,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc1d32fd154c831c589bd8446a34a89f9bc3edd9c",
+    "trader_name": "Shadrik",
+    "tag": "Overall",
+    "overall_gain": 11727.957968157607,
+    "active_positions": 0,
+    "win_amount": 12843.737522154774,
+    "loss_amount": -1115.7795539971669,
+    "win_rate": 0.9024390243902439,
+    "total_current_value": 0.012102000500000003,
+    "total_positions": 49,
+    "event_ct": 41,
+    "win_count": 37,
+    "rank": 8935,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
