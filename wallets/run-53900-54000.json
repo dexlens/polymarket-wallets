@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 53949,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64e9929abdb8c883ee74a9380a5d51ebd99f9c73",
+    "trader_name": "rangerover",
+    "tag": "Overall",
+    "overall_gain": 1305.1241909157181,
+    "active_positions": 9,
+    "win_amount": 1857.9166009157182,
+    "loss_amount": -552.79241,
+    "win_rate": 0.45,
+    "total_current_value": 0.005815695,
+    "total_positions": 25,
+    "event_ct": 20,
+    "win_count": 9,
+    "rank": 53950,
+    "trader_tags": "> 1 year old"
   }
 ]
