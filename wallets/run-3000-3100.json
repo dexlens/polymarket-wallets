@@ -334,5 +334,21 @@
     "win_count": 2,
     "rank": 3021,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1537ed4d534ec88634af690b9b03145dbcaec480",
+    "trader_name": "Armenia",
+    "tag": "Overall",
+    "overall_gain": 37974.30272857259,
+    "active_positions": 119,
+    "win_amount": 65555.88971842235,
+    "loss_amount": -27581.58698984977,
+    "win_rate": 0.8251121076233184,
+    "total_current_value": 12575.240136211502,
+    "total_positions": 649,
+    "event_ct": 223,
+    "win_count": 184,
+    "rank": 3022,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
