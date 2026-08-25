@@ -494,5 +494,21 @@
     "win_count": 81,
     "rank": 1731,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x209c21d489b3154458937072e2fd37a0bb87d319",
+    "trader_name": "Tenable-Dome",
+    "tag": "Overall",
+    "overall_gain": 71297.9740746517,
+    "active_positions": 0,
+    "win_amount": 225208.70416341868,
+    "loss_amount": -153910.73008876698,
+    "win_rate": 0.5091210613598673,
+    "total_current_value": 0.5647080000000001,
+    "total_positions": 1268,
+    "event_ct": 603,
+    "win_count": 307,
+    "rank": 1732,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
