@@ -1294,5 +1294,21 @@
     "win_count": 54,
     "rank": 18581,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ed7831e01d5332ccc5fafbad3706af4a9084741",
+    "trader_name": "Leopoldsky",
+    "tag": "Overall",
+    "overall_gain": 5000.885004328913,
+    "active_positions": 6,
+    "win_amount": 5005.898925580261,
+    "loss_amount": -5.013921251348001,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 14.443909645000002,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 18582,
+    "trader_tags": ""
   }
 ]
