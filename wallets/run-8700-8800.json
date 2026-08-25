@@ -526,5 +526,21 @@
     "win_count": 10,
     "rank": 8733,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c08f27559956e9c4fa008c65f79017fe548eba9",
+    "trader_name": "Fatalist",
+    "tag": "Overall",
+    "overall_gain": 12005.244991115109,
+    "active_positions": 11,
+    "win_amount": 22070.47790784328,
+    "loss_amount": -10065.232916728173,
+    "win_rate": 0.6779661016949152,
+    "total_current_value": 2204.546342814,
+    "total_positions": 426,
+    "event_ct": 177,
+    "win_count": 120,
+    "rank": 8734,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
