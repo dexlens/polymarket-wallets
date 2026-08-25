@@ -366,5 +366,21 @@
     "win_count": 6,
     "rank": 4723,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84096a912382c6cffcfaf235b4c7fa1161efd5cd",
+    "trader_name": "vertyy",
+    "tag": "Overall",
+    "overall_gain": 23039.455269187616,
+    "active_positions": 21,
+    "win_amount": 23084.56323808159,
+    "loss_amount": -45.107968893971005,
+    "win_rate": 0.8363636363636363,
+    "total_current_value": 37.32859708949999,
+    "total_positions": 77,
+    "event_ct": 55,
+    "win_count": 46,
+    "rank": 4724,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
