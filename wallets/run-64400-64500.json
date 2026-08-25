@@ -286,5 +286,21 @@
     "win_count": 9,
     "rank": 64419,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ba65ab064eae2ce0116a255d1c388b8ccab01c8",
+    "trader_name": "intels",
+    "tag": "Overall",
+    "overall_gain": 961.3182412089902,
+    "active_positions": 29,
+    "win_amount": 3539.1186325431463,
+    "loss_amount": -2577.800391334156,
+    "win_rate": 0.4594594594594595,
+    "total_current_value": 0.14671999999999996,
+    "total_positions": 92,
+    "event_ct": 74,
+    "win_count": 34,
+    "rank": 64420,
+    "trader_tags": "> 1 year old"
   }
 ]
