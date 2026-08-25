@@ -974,5 +974,21 @@
     "win_count": 4,
     "rank": 22161,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2c72ee494643f5f2aac538ae9d0a5ca20466a5c0",
+    "trader_name": "Bloomfieldz",
+    "tag": "Overall",
+    "overall_gain": 4087.459814480262,
+    "active_positions": 4,
+    "win_amount": 4092.459804943509,
+    "loss_amount": -4.999990463246999,
+    "win_rate": 0.8,
+    "total_current_value": 9.131865646000001,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 22162,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
