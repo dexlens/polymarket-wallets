@@ -1422,5 +1422,21 @@
     "win_count": 9,
     "rank": 26590,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbf9e52193be98d831354e0fa1b083c3d4a2a28d5",
+    "trader_name": "Poryty",
+    "tag": "Overall",
+    "overall_gain": 3271.566926308736,
+    "active_positions": 0,
+    "win_amount": 3271.566926308736,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003776,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 26591,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
