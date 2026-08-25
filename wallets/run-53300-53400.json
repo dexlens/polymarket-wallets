@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 53385,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90d0448d2963fe6ebcf11697fdb30b2b4267e7b5",
+    "trader_name": "Pi3.14",
+    "tag": "Overall",
+    "overall_gain": 1329.9416086124656,
+    "active_positions": 12,
+    "win_amount": 5096.960561654348,
+    "loss_amount": -3767.0189530418834,
+    "win_rate": 0.5126050420168067,
+    "total_current_value": 9.419288,
+    "total_positions": 244,
+    "event_ct": 238,
+    "win_count": 122,
+    "rank": 53386,
+    "trader_tags": ""
   }
 ]
