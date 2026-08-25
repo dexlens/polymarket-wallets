@@ -62,5 +62,21 @@
     "win_count": 1,
     "rank": 12904,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d64dc76cfb30f5c668284886a9bfc505a9901fa",
+    "trader_name": "IShowFinance",
+    "tag": "Overall",
+    "overall_gain": 7812.894374140778,
+    "active_positions": 0,
+    "win_amount": 116821.00949779672,
+    "loss_amount": -109008.11512365603,
+    "win_rate": 0.4090909090909091,
+    "total_current_value": 0.027108,
+    "total_positions": 1197,
+    "event_ct": 1188,
+    "win_count": 486,
+    "rank": 12905,
+    "trader_tags": "1k+ Positions"
   }
 ]
