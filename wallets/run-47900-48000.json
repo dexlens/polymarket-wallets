@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 47991,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28b340ecf1a193607e177312849bfc2f79a730c8",
+    "trader_name": "Numberone11",
+    "tag": "Overall",
+    "overall_gain": 1573.0957968548341,
+    "active_positions": 0,
+    "win_amount": 3255.709576683293,
+    "loss_amount": -1682.613779828459,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 0.2035204755,
+    "total_positions": 34,
+    "event_ct": 29,
+    "win_count": 26,
+    "rank": 47992,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
