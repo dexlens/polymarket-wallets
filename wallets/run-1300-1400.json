@@ -430,5 +430,21 @@
     "win_count": 7,
     "rank": 1327,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd863977ebd4c83f6bc39be0c30ee4ac994f8a129",
+    "trader_name": "TrumpPsyop",
+    "tag": "Overall",
+    "overall_gain": 91085.06064746805,
+    "active_positions": 0,
+    "win_amount": 95659.05745099213,
+    "loss_amount": -4573.996803524063,
+    "win_rate": 0.3,
+    "total_current_value": 0.011141999999999999,
+    "total_positions": 16,
+    "event_ct": 10,
+    "win_count": 3,
+    "rank": 1328,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
