@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 55698,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e946c8010ff33b19ca690cb0567cde7ae70cc62",
+    "trader_name": "Soslstice",
+    "tag": "Overall",
+    "overall_gain": 1230,
+    "active_positions": 1,
+    "win_amount": 1499,
+    "loss_amount": -269,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 55699,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
