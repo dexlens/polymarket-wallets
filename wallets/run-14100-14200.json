@@ -1262,5 +1262,21 @@
     "win_count": 2,
     "rank": 14179,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x12738320c25b9157301162e86c7a4dd76f09f9fc",
+    "trader_name": "YNETcJrx",
+    "tag": "Overall",
+    "overall_gain": 6951.9360370987215,
+    "active_positions": 11,
+    "win_amount": 18676.901037098723,
+    "loss_amount": -11724.965,
+    "win_rate": 0.7241379310344828,
+    "total_current_value": 3.098173,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 21,
+    "rank": 14180,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
