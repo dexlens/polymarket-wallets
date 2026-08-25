@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 8631,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23d030836922897e333d709bc6eba50bfe030d9b",
+    "trader_name": "Fada",
+    "tag": "Overall",
+    "overall_gain": 12136.844050106933,
+    "active_positions": 2,
+    "win_amount": 22925.651334212405,
+    "loss_amount": -10788.80728410547,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.037692,
+    "total_positions": 21,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 8632,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
