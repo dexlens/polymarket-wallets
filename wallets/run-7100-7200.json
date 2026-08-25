@@ -1486,5 +1486,21 @@
     "win_count": 49,
     "rank": 7193,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x50936370f48b7c7f87016ae8ec1462d0200a272c",
+    "trader_name": "samhain4ik",
+    "tag": "Overall",
+    "overall_gain": 14860.662555524594,
+    "active_positions": 2544,
+    "win_amount": 29624.295507448922,
+    "loss_amount": -14763.632951924319,
+    "win_rate": 0.31339285714285714,
+    "total_current_value": 62.555377374,
+    "total_positions": 3806,
+    "event_ct": 1120,
+    "win_count": 351,
+    "rank": 7194,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
