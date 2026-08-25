@@ -1230,5 +1230,21 @@
     "win_count": 10,
     "rank": 11177,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02ae288bd4f9b6fee695beb7e5f336a41f8e0e43",
+    "trader_name": "ESAE",
+    "tag": "Overall",
+    "overall_gain": 9395.695085418454,
+    "active_positions": 1,
+    "win_amount": 12000.034364916453,
+    "loss_amount": -2604.3392794979995,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 17.641834,
+    "total_positions": 30,
+    "event_ct": 23,
+    "win_count": 13,
+    "rank": 11178,
+    "trader_tags": "> 1 year old"
   }
 ]
