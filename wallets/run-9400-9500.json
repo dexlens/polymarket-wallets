@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 9479,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa3e5073e613f927f67be7f23134805493222da25",
+    "trader_name": "sendsomehelp",
+    "tag": "Overall",
+    "overall_gain": 11055.425008220733,
+    "active_positions": 1,
+    "win_amount": 11114.432604620733,
+    "loss_amount": -59.0075964,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 14.1621266,
+    "total_positions": 100,
+    "event_ct": 24,
+    "win_count": 22,
+    "rank": 9480,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
