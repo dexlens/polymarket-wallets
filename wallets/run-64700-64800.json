@@ -1374,5 +1374,21 @@
     "win_count": 3,
     "rank": 64787,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7f855dd2f62f46a6cb48620e1fc138f5ddf58693",
+    "trader_name": "MrVatana",
+    "tag": "Overall",
+    "overall_gain": 951.7935657696062,
+    "active_positions": 150,
+    "win_amount": 12606.093000050785,
+    "loss_amount": -11654.299434281182,
+    "win_rate": 0.33658536585365856,
+    "total_current_value": 1049.7376974739998,
+    "total_positions": 529,
+    "event_ct": 205,
+    "win_count": 69,
+    "rank": 64788,
+    "trader_tags": "> 1 year old"
   }
 ]
