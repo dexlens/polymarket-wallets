@@ -670,5 +670,21 @@
     "win_count": 7,
     "rank": 58443,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xc3221ca0423f4489c04e2adc96a4e20e40943f23",
+    "trader_name": "fly13",
+    "tag": "Overall",
+    "overall_gain": 1127.4742615834307,
+    "active_positions": 2,
+    "win_amount": 13618.60081071043,
+    "loss_amount": -12491.126549126999,
+    "win_rate": 0.782608695652174,
+    "total_current_value": 0.035725,
+    "total_positions": 27,
+    "event_ct": 23,
+    "win_count": 18,
+    "rank": 58444,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
