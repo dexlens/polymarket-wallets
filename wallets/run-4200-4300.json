@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 4214,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x524bc0719932851b9fe7755d527fd4af197249ac",
+    "trader_name": "gstrader",
+    "tag": "Overall",
+    "overall_gain": 26516.150806258647,
+    "active_positions": 21,
+    "win_amount": 66086.87119484293,
+    "loss_amount": -39570.72038858427,
+    "win_rate": 0.712,
+    "total_current_value": 7.097644959999998,
+    "total_positions": 330,
+    "event_ct": 250,
+    "win_count": 178,
+    "rank": 4215,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
