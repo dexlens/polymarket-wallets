@@ -174,5 +174,21 @@
     "win_count": 5,
     "rank": 4211,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9dcffb7dbcc0f671aae8b18b1431cbacf1f54a21",
+    "trader_name": "goldenvajra",
+    "tag": "Overall",
+    "overall_gain": 26523.337142335724,
+    "active_positions": 1,
+    "win_amount": 27009.427085335723,
+    "loss_amount": -486.089943,
+    "win_rate": 0.8,
+    "total_current_value": 54.227309000000005,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 4212,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
