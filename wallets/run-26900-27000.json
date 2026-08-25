@@ -830,5 +830,21 @@
     "win_count": 35,
     "rank": 26953,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbafa09f0f5c49f216013e71cb2ef8097275ab5a3",
+    "trader_name": "Kugen",
+    "tag": "Overall",
+    "overall_gain": 3214.06308186,
+    "active_positions": 1,
+    "win_amount": 5538.26915786,
+    "loss_amount": -2324.206076,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 18,
+    "win_count": 10,
+    "rank": 26954,
+    "trader_tags": "> 1 year old"
   }
 ]
