@@ -1502,5 +1502,21 @@
     "win_count": 5,
     "rank": 9994,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd40408daa6b53e9fcdca7846ca197f00f3096bb1",
+    "trader_name": "zoryskl",
+    "tag": "Overall",
+    "overall_gain": 10490.279048,
+    "active_positions": 0,
+    "win_amount": 10490.279048,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 9995,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
