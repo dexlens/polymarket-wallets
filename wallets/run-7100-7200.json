@@ -30,5 +30,21 @@
     "win_count": 10,
     "rank": 7102,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6608452251d7471db5efb0e3072028df365ab9b9",
+    "trader_name": "drdre26",
+    "tag": "Overall",
+    "overall_gain": 15042.010187640253,
+    "active_positions": 1,
+    "win_amount": 15872.333491080253,
+    "loss_amount": -830.32330344,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 2.655739,
+    "total_positions": 7,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 7103,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
