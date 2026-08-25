@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 35644,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x802de676b0054da89c8d35adc95eb7bc71913290",
+    "trader_name": "lilyd",
+    "tag": "Overall",
+    "overall_gain": 2290.5130822338647,
+    "active_positions": 2,
+    "win_amount": 2779.503759475371,
+    "loss_amount": -488.990677241506,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 21.510371,
+    "total_positions": 31,
+    "event_ct": 24,
+    "win_count": 16,
+    "rank": 35645,
+    "trader_tags": "> 1 year old"
   }
 ]
