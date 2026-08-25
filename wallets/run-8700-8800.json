@@ -1310,5 +1310,21 @@
     "win_count": 17,
     "rank": 8782,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27c921e58cb7325561aeba1a8f9832521d872278",
+    "trader_name": "0xdalai",
+    "tag": "Overall",
+    "overall_gain": 11935.767949483014,
+    "active_positions": 9,
+    "win_amount": 125949.3252876677,
+    "loss_amount": -114013.55733818463,
+    "win_rate": 0.4277456647398844,
+    "total_current_value": 3.397999,
+    "total_positions": 188,
+    "event_ct": 173,
+    "win_count": 74,
+    "rank": 8783,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
