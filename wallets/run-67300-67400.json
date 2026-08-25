@@ -222,5 +222,21 @@
     "win_count": 41,
     "rank": 67315,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ea2196aa5a030d0bf9c4dd35e23282b79ca0356",
+    "trader_name": "BNBAI",
+    "tag": "Overall",
+    "overall_gain": 880.241132108691,
+    "active_positions": 2,
+    "win_amount": 895.283807111127,
+    "loss_amount": -15.042675002436,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.021158,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 67316,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
