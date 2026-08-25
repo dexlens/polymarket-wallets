@@ -638,5 +638,21 @@
     "win_count": 5,
     "rank": 56841,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7fedefc5b538fde8222fff29a339d1eb94b8b6b1",
+    "trader_name": "trubaduro",
+    "tag": "Overall",
+    "overall_gain": 1185.344418486156,
+    "active_positions": 21,
+    "win_amount": 10852.585385984523,
+    "loss_amount": -9667.240967498366,
+    "win_rate": 0.8985148514851485,
+    "total_current_value": 2253.0422938099996,
+    "total_positions": 409,
+    "event_ct": 404,
+    "win_count": 363,
+    "rank": 56842,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
