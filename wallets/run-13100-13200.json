@@ -1102,5 +1102,21 @@
     "win_count": 5,
     "rank": 13169,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f817045c9064a4452cdf1357695a7fe97080a3b",
+    "trader_name": "IsohTav",
+    "tag": "Overall",
+    "overall_gain": 7619.737042163768,
+    "active_positions": 1,
+    "win_amount": 8260.824002511908,
+    "loss_amount": -641.0869603481401,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.7270349999999999,
+    "total_positions": 37,
+    "event_ct": 26,
+    "win_count": 18,
+    "rank": 13170,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
