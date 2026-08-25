@@ -1054,5 +1054,21 @@
     "win_count": 2,
     "rank": 49867,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a789ade39da057dace645161f8b5a23844f4d4e",
+    "trader_name": "Haku",
+    "tag": "Overall",
+    "overall_gain": 1489.520082898015,
+    "active_positions": 0,
+    "win_amount": 3867.882294104657,
+    "loss_amount": -2378.362211206642,
+    "win_rate": 0.31092436974789917,
+    "total_current_value": 0.035617,
+    "total_positions": 203,
+    "event_ct": 119,
+    "win_count": 37,
+    "rank": 49868,
+    "trader_tags": "> 1 year old"
   }
 ]
