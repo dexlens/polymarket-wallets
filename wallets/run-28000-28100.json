@@ -318,5 +318,21 @@
     "win_count": 21,
     "rank": 28021,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7f67b51cef7cb94f499653dadfb4bda9eaab5bba",
+    "trader_name": "goodygoody",
+    "tag": "Overall",
+    "overall_gain": 3062.8844911869264,
+    "active_positions": 5,
+    "win_amount": 6290.987416000001,
+    "loss_amount": -3228.102924813074,
+    "win_rate": 0.660377358490566,
+    "total_current_value": 3561.107922,
+    "total_positions": 78,
+    "event_ct": 53,
+    "win_count": 35,
+    "rank": 28022,
+    "trader_tags": "> 1 year old"
   }
 ]
