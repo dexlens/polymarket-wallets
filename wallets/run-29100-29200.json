@@ -1134,5 +1134,21 @@
     "win_count": 8,
     "rank": 29172,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3701d7f625eb46e91904988ce46299ede44bce16",
+    "trader_name": "novele",
+    "tag": "Overall",
+    "overall_gain": 2925.7584356303655,
+    "active_positions": 17,
+    "win_amount": 3793.9287950947123,
+    "loss_amount": -868.1703594643471,
+    "win_rate": 0.888421052631579,
+    "total_current_value": 219.6732036775,
+    "total_positions": 1030,
+    "event_ct": 475,
+    "win_count": 422,
+    "rank": 29173,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
