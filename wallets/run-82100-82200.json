@@ -942,5 +942,21 @@
     "win_count": 10,
     "rank": 82160,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcee5d514784f81538fe9d6f4c623663aeb958e91",
+    "trader_name": "kiora",
+    "tag": "Overall",
+    "overall_gain": 595.851617221025,
+    "active_positions": 1,
+    "win_amount": 595.851617221025,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.011825,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 82161,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
