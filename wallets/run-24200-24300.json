@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 24299,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f4c1613558eeda883cd4a19c6a7920927570d8c",
+    "trader_name": "louis8",
+    "tag": "Overall",
+    "overall_gain": 3667.486735702571,
+    "active_positions": 0,
+    "win_amount": 3697.263891342571,
+    "loss_amount": -29.777155639999997,
+    "win_rate": 0.8,
+    "total_current_value": 0.016087,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 24300,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
