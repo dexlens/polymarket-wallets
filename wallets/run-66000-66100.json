@@ -158,5 +158,21 @@
     "win_count": 3,
     "rank": 66011,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x642c673dd63f9de86715a9566c55671eb52821a7",
+    "trader_name": "koroveshka",
+    "tag": "Overall",
+    "overall_gain": 915.5919926058733,
+    "active_positions": 75,
+    "win_amount": 1723.2804533973767,
+    "loss_amount": -807.6884607915042,
+    "win_rate": 0.7938144329896907,
+    "total_current_value": 1128.7215197655003,
+    "total_positions": 983,
+    "event_ct": 194,
+    "win_count": 154,
+    "rank": 66012,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
