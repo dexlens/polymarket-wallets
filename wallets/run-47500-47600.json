@@ -142,5 +142,21 @@
     "win_count": 7,
     "rank": 47510,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6bbf4f35431a8c92d102c4599b030444ae70d298",
+    "trader_name": "TenderCharm",
+    "tag": "Overall",
+    "overall_gain": 1594.0388261200007,
+    "active_positions": 6,
+    "win_amount": 3534.8732249999994,
+    "loss_amount": -1940.83439888,
+    "win_rate": 0.7428571428571429,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 26,
+    "rank": 47511,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
