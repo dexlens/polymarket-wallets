@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 8181,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x167a09f5f6ffd5de58c6bda6fd3cdf16a6c5e952",
+    "trader_name": "4centvin",
+    "tag": "Overall",
+    "overall_gain": 12867.59440687345,
+    "active_positions": 10,
+    "win_amount": 23543.834532016357,
+    "loss_amount": -10676.240125142911,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.18822949999999994,
+    "total_positions": 212,
+    "event_ct": 78,
+    "win_count": 52,
+    "rank": 8182,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
