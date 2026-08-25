@@ -1310,5 +1310,21 @@
     "win_count": 16,
     "rank": 10182,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x410c934cea349d96999860f86141c7eb70b27d2f",
+    "trader_name": "ariokh",
+    "tag": "Overall",
+    "overall_gain": 10315.231073078836,
+    "active_positions": 2,
+    "win_amount": 15709.982834674363,
+    "loss_amount": -5394.751761595527,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.013029,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 10183,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
