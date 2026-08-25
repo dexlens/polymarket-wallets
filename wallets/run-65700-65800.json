@@ -126,5 +126,21 @@
     "win_count": 11,
     "rank": 65709,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x462a3d77de6bcba4f444e7630a8bfd5be949a45f",
+    "trader_name": "inlet",
+    "tag": "Overall",
+    "overall_gain": 924.6502377700821,
+    "active_positions": 0,
+    "win_amount": 924.6502377700821,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003026,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 65710,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
