@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 48815,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4acf269662145fc8869bcc498fbe24abb3bc49ec",
+    "trader_name": "stra-l-2",
+    "tag": "Overall",
+    "overall_gain": 1536.6279891666459,
+    "active_positions": 582,
+    "win_amount": 19109.645935566416,
+    "loss_amount": -17573.017946399774,
+    "win_rate": 0.059024482824065284,
+    "total_current_value": 1077.908610603,
+    "total_positions": 12176,
+    "event_ct": 10538,
+    "win_count": 622,
+    "rank": 48816,
+    "trader_tags": "1k+ Positions"
   }
 ]
