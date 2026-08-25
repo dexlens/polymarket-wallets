@@ -46,5 +46,21 @@
     "win_count": 6,
     "rank": 20603,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x31c74be0fedb3c2f8e2571e7339e62fb90f12868",
+    "trader_name": "btc1m1",
+    "tag": "Overall",
+    "overall_gain": 4468.457294740723,
+    "active_positions": 6,
+    "win_amount": 5058.835650310627,
+    "loss_amount": -590.378355569905,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.063862,
+    "total_positions": 22,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 20604,
+    "trader_tags": ""
   }
 ]
