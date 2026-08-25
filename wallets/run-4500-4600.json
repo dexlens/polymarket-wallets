@@ -798,5 +798,21 @@
     "win_count": 10,
     "rank": 4550,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3cc01d0bdf9387d755278f1c5cbe1c6987ebb8b2",
+    "trader_name": "ironcrest",
+    "tag": "Overall",
+    "overall_gain": 24209.81146239319,
+    "active_positions": 404,
+    "win_amount": 150570.05788239796,
+    "loss_amount": -126360.24642000471,
+    "win_rate": 0.4489795918367347,
+    "total_current_value": 0.015309999999999999,
+    "total_positions": 735,
+    "event_ct": 735,
+    "win_count": 330,
+    "rank": 4551,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
