@@ -366,5 +366,21 @@
     "win_count": 13,
     "rank": 29824,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9099360204e729deece0669e26caa94c522f8491",
+    "trader_name": "voenkommog",
+    "tag": "Overall",
+    "overall_gain": 2841.9067299238695,
+    "active_positions": 31,
+    "win_amount": 6590.097854196647,
+    "loss_amount": -3748.1911242727765,
+    "win_rate": 0.6435294117647059,
+    "total_current_value": 431.89041595550003,
+    "total_positions": 1790,
+    "event_ct": 850,
+    "win_count": 547,
+    "rank": 29825,
+    "trader_tags": "1k+ Positions"
   }
 ]
