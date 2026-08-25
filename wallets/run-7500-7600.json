@@ -526,5 +526,21 @@
     "win_count": 32,
     "rank": 7533,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x829ceeb214724e86b9f58384c3ee244ad28d6cf6",
+    "trader_name": "fleamarut1",
+    "tag": "Overall",
+    "overall_gain": 14077.14256173947,
+    "active_positions": 6,
+    "win_amount": 15017.124051470295,
+    "loss_amount": -939.981489730824,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 32.047662,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 7534,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
