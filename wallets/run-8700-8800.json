@@ -942,5 +942,21 @@
     "win_count": 67,
     "rank": 8759,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbac1f5943f137eea6ed4233c1e4965832095ce0e",
+    "trader_name": "F-00",
+    "tag": "Overall",
+    "overall_gain": 11969.883242372072,
+    "active_positions": 15,
+    "win_amount": 174355.26384789436,
+    "loss_amount": -162385.3806055223,
+    "win_rate": 0.4373297002724796,
+    "total_current_value": 7186.982953645997,
+    "total_positions": 1035,
+    "event_ct": 734,
+    "win_count": 321,
+    "rank": 8760,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
