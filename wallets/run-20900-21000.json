@@ -814,5 +814,21 @@
     "win_count": 19,
     "rank": 20951,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfc0dedc8e562dc7a35df8182c986ad60712e0b23",
+    "trader_name": "ccmmm",
+    "tag": "Overall",
+    "overall_gain": 4375.942598385118,
+    "active_positions": 1,
+    "win_amount": 4487.942230635117,
+    "loss_amount": -111.99963225,
+    "win_rate": 0.9696969696969697,
+    "total_current_value": 0.060394,
+    "total_positions": 40,
+    "event_ct": 33,
+    "win_count": 32,
+    "rank": 20952,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
