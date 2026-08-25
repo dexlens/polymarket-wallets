@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 26429,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd2f7447034e1f4feefd4e26c13a0772f6b17e70",
+    "trader_name": "SamS",
+    "tag": "Overall",
+    "overall_gain": 3301.107445264083,
+    "active_positions": 33,
+    "win_amount": 5924.1413649094675,
+    "loss_amount": -2623.033919645385,
+    "win_rate": 0.3076923076923077,
+    "total_current_value": 15947.873944531502,
+    "total_positions": 63,
+    "event_ct": 39,
+    "win_count": 12,
+    "rank": 26430,
+    "trader_tags": "> 1 year old"
   }
 ]
