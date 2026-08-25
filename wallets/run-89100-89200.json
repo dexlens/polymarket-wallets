@@ -1038,5 +1038,21 @@
     "win_count": 20,
     "rank": 89166,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x869ef5ec8f76554536f32f3d390a6d64eac7639a",
+    "trader_name": "narrowpen",
+    "tag": "Overall",
+    "overall_gain": 499.95765000000006,
+    "active_positions": 1,
+    "win_amount": 499.95765000000006,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 312.93525000000005,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 89167,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
