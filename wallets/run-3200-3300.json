@@ -1262,5 +1262,21 @@
     "win_count": 26,
     "rank": 3279,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f7719257c322b9104ec96150b7c53882435983b",
+    "trader_name": "RoyalChampion",
+    "tag": "Overall",
+    "overall_gain": 35008.07485733495,
+    "active_positions": 16,
+    "win_amount": 39760.074857334956,
+    "loss_amount": -4752,
+    "win_rate": 0.9666666666666667,
+    "total_current_value": 28.556168555,
+    "total_positions": 91,
+    "event_ct": 30,
+    "win_count": 29,
+    "rank": 3280,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
