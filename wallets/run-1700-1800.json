@@ -526,5 +526,21 @@
     "win_count": 3,
     "rank": 1733,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c57496c97dd151f54b2d727646aa796ced55b16",
+    "trader_name": "MillyFilly",
+    "tag": "Overall",
+    "overall_gain": 71139.5122101735,
+    "active_positions": 203,
+    "win_amount": 868926.4462589828,
+    "loss_amount": -797786.9340488088,
+    "win_rate": 0.5326440177252585,
+    "total_current_value": 20408.939364570004,
+    "total_positions": 5833,
+    "event_ct": 3385,
+    "win_count": 1803,
+    "rank": 1734,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
