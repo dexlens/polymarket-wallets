@@ -350,5 +350,21 @@
     "win_count": 8,
     "rank": 5922,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5e7b2508cd2c41326f7c69b006e482edca588767",
+    "trader_name": "andad",
+    "tag": "Overall",
+    "overall_gain": 18129.538750413023,
+    "active_positions": 7,
+    "win_amount": 19155.209451388215,
+    "loss_amount": -1025.670700975194,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 20804.5233507385,
+    "total_positions": 94,
+    "event_ct": 52,
+    "win_count": 44,
+    "rank": 5923,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
