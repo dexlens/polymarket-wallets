@@ -686,5 +686,21 @@
     "win_count": 4,
     "rank": 86044,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x32470c7509efd1d85a9e072a7674c66112159d26",
+    "trader_name": "TrussParlor",
+    "tag": "Overall",
+    "overall_gain": 538.6506900100002,
+    "active_positions": 130,
+    "win_amount": 7354.491089800001,
+    "loss_amount": -6815.840399789998,
+    "win_rate": 0.7912408759124088,
+    "total_current_value": 0,
+    "total_positions": 686,
+    "event_ct": 685,
+    "win_count": 542,
+    "rank": 86045,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
