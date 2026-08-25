@@ -78,5 +78,21 @@
     "win_count": 11,
     "rank": 33106,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x221c405156bf2a20807598e37d96a8d8c755cbc1",
+    "trader_name": "poly-77",
+    "tag": "Overall",
+    "overall_gain": 2495.791861,
+    "active_positions": 1,
+    "win_amount": 2560.291861,
+    "loss_amount": -64.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 33107,
+    "trader_tags": "> 1 year old"
   }
 ]
