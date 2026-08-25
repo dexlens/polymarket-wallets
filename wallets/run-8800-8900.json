@@ -1118,5 +1118,21 @@
     "win_count": 70,
     "rank": 8870,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f40bd79f70ca03c59d7318dfebe22e65b55eb64",
+    "trader_name": "Fuentes31",
+    "tag": "Overall",
+    "overall_gain": 11810.170628749336,
+    "active_positions": 29,
+    "win_amount": 178892.06353859935,
+    "loss_amount": -167081.89290985,
+    "win_rate": 0.5042553191489362,
+    "total_current_value": 20949.5499621275,
+    "total_positions": 896,
+    "event_ct": 470,
+    "win_count": 237,
+    "rank": 8871,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
