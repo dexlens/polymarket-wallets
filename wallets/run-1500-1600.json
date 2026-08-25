@@ -974,5 +974,21 @@
     "win_count": 54,
     "rank": 1561,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x330efa1eaebfc30b51686879a846885ed546bf6c",
+    "trader_name": "SilverKestrel",
+    "tag": "Overall",
+    "overall_gain": 77516.612993792,
+    "active_positions": 47,
+    "win_amount": 165612.1928459856,
+    "loss_amount": -88095.57985219367,
+    "win_rate": 0.5960409713430774,
+    "total_current_value": 0.000469,
+    "total_positions": 17344,
+    "event_ct": 8689,
+    "win_count": 5179,
+    "rank": 1562,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
