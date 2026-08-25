@@ -830,5 +830,21 @@
     "win_count": 22,
     "rank": 2352,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1b1eb91359604ecd73bb0d77d7c5b113d9d2b7a5",
+    "trader_name": "30go3",
+    "tag": "Overall",
+    "overall_gain": 50189.943357,
+    "active_positions": 1,
+    "win_amount": 52166.693357,
+    "loss_amount": -1976.75,
+    "win_rate": 0.8709677419354839,
+    "total_current_value": 0,
+    "total_positions": 38,
+    "event_ct": 31,
+    "win_count": 27,
+    "rank": 2353,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
