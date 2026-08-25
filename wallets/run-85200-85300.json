@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 85273,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0ede36e884ee983522979dafba85e6438a390fc7",
+    "trader_name": "kubica",
+    "tag": "Overall",
+    "overall_gain": 548.366709580425,
+    "active_positions": 0,
+    "win_amount": 548.366709580425,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 85274,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
