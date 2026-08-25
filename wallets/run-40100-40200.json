@@ -446,5 +446,21 @@
     "win_count": 65,
     "rank": 40129,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb59065dd9bcdf5a052068af7f5dd53ab2f1ccfd6",
+    "trader_name": "wxcbmc",
+    "tag": "Overall",
+    "overall_gain": 1987.3637599880262,
+    "active_positions": 2,
+    "win_amount": 2103.080049988026,
+    "loss_amount": -115.71629,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 139.930026,
+    "total_positions": 32,
+    "event_ct": 29,
+    "win_count": 26,
+    "rank": 40130,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
