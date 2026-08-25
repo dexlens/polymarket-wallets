@@ -1294,5 +1294,21 @@
     "win_count": 6,
     "rank": 31682,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e15e33b217c66d5041889d873f7d5cefa46deea",
+    "trader_name": "GMBARRON",
+    "tag": "Overall",
+    "overall_gain": 2632.5038310200916,
+    "active_positions": 6,
+    "win_amount": 4175.235654732193,
+    "loss_amount": -1542.7318237121028,
+    "win_rate": 0.4304635761589404,
+    "total_current_value": 0.3910206149999999,
+    "total_positions": 167,
+    "event_ct": 151,
+    "win_count": 65,
+    "rank": 31683,
+    "trader_tags": "> 1 year old"
   }
 ]
