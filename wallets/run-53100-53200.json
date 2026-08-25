@@ -1374,5 +1374,21 @@
     "win_count": 8,
     "rank": 53187,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x165e1db0c0573b24fa1417a2f2f1e7d44fd90af8",
+    "trader_name": "secretname40",
+    "tag": "Overall",
+    "overall_gain": 1338.3448035768379,
+    "active_positions": 5,
+    "win_amount": 1944.3067924068378,
+    "loss_amount": -605.96198883,
+    "win_rate": 0.8,
+    "total_current_value": 126.71524812300001,
+    "total_positions": 24,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 53188,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
