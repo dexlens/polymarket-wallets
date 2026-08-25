@@ -942,5 +942,21 @@
     "win_count": 2,
     "rank": 22759,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88e47ffe9395d49ae303bf2474fb44ce2bbe8f34",
+    "trader_name": "shordanu-barosanu",
+    "tag": "Overall",
+    "overall_gain": 3969.127729732945,
+    "active_positions": 11,
+    "win_amount": 4847.483394361998,
+    "loss_amount": -878.355664629053,
+    "win_rate": 0.21739130434782608,
+    "total_current_value": 110.191275744,
+    "total_positions": 69,
+    "event_ct": 23,
+    "win_count": 5,
+    "rank": 22760,
+    "trader_tags": "> 1 year old"
   }
 ]
