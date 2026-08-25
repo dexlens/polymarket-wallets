@@ -174,5 +174,21 @@
     "win_count": 2,
     "rank": 16411,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61820c34c15c05e434370033c27d42980260e9e7",
+    "trader_name": "BRANDONABBOTT",
+    "tag": "Overall",
+    "overall_gain": 5817.060419997783,
+    "active_positions": 30,
+    "win_amount": 19397.060419997782,
+    "loss_amount": -13580,
+    "win_rate": 0.5522388059701493,
+    "total_current_value": 0.005784,
+    "total_positions": 67,
+    "event_ct": 67,
+    "win_count": 37,
+    "rank": 16412,
+    "trader_tags": ""
   }
 ]
