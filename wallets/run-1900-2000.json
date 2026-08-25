@@ -1278,5 +1278,21 @@
     "win_count": 4,
     "rank": 1980,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a2be7a7e6e3b41dc2de00706b4c09660ca9af20",
+    "trader_name": "troim",
+    "tag": "Overall",
+    "overall_gain": 60970.56526360306,
+    "active_positions": 147,
+    "win_amount": 124776.6804431903,
+    "loss_amount": -63806.11517958726,
+    "win_rate": 0.4968944099378882,
+    "total_current_value": 64143.7537800485,
+    "total_positions": 307,
+    "event_ct": 161,
+    "win_count": 80,
+    "rank": 1981,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
