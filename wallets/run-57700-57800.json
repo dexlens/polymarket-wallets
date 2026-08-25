@@ -1022,5 +1022,21 @@
     "win_count": 5,
     "rank": 57765,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe2598e2b1021c01e89a6c0d74691993bfc5ad295",
+    "trader_name": "cataclysm",
+    "tag": "Overall",
+    "overall_gain": 1151.6481307703386,
+    "active_positions": 1,
+    "win_amount": 1155.1039668222759,
+    "loss_amount": -3.455836051937,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 69.71856400000001,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 20,
+    "rank": 57766,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
