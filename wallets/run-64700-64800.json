@@ -846,5 +846,21 @@
     "win_count": 7,
     "rank": 64754,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x465a6f04b46068f730f25f3b5322263b81ad88e5",
+    "trader_name": "gadfgs",
+    "tag": "Overall",
+    "overall_gain": 952.6283974586659,
+    "active_positions": 2,
+    "win_amount": 2208.868397458666,
+    "loss_amount": -1256.24,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 887.951145169,
+    "total_positions": 26,
+    "event_ct": 23,
+    "win_count": 16,
+    "rank": 64755,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
