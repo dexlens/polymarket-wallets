@@ -382,5 +382,21 @@
     "win_count": 5,
     "rank": 9924,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6552d06b0b88507c5e8ed9074af1d6ff908e4c7c",
+    "trader_name": "BlackIsraelite",
+    "tag": "Overall",
+    "overall_gain": 10569.313833937074,
+    "active_positions": 0,
+    "win_amount": 10569.313833937074,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007618,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9925,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
