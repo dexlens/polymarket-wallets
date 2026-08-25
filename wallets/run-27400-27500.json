@@ -270,5 +270,21 @@
     "win_count": 29,
     "rank": 27418,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x101a1ddb5b2b60377e73959954036081c1fb3a32",
+    "trader_name": "overtheboard",
+    "tag": "Overall",
+    "overall_gain": 3145.902084218947,
+    "active_positions": 1,
+    "win_amount": 4726.892019187135,
+    "loss_amount": -1580.989934968187,
+    "win_rate": 0.7,
+    "total_current_value": 0.048536,
+    "total_positions": 61,
+    "event_ct": 40,
+    "win_count": 28,
+    "rank": 27419,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
