@@ -334,5 +334,21 @@
     "win_count": 50,
     "rank": 2521,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x394290e470f28a6449020c2e6986628a508870cc",
+    "trader_name": "Nivara",
+    "tag": "Overall",
+    "overall_gain": 46604.60235216592,
+    "active_positions": 9,
+    "win_amount": 49769.65700019803,
+    "loss_amount": -3165.0546480321123,
+    "win_rate": 0.8307692307692308,
+    "total_current_value": 0.000066,
+    "total_positions": 69,
+    "event_ct": 65,
+    "win_count": 54,
+    "rank": 2522,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
