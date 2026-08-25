@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 29134,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd164ff47a6ef187d545756ad0ffa4abd6d80990",
+    "trader_name": "4deb",
+    "tag": "Overall",
+    "overall_gain": 2932.1334931247957,
+    "active_positions": 1,
+    "win_amount": 3105.1319479999997,
+    "loss_amount": -172.998454875204,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 29135,
+    "trader_tags": "> 1 year old"
   }
 ]
