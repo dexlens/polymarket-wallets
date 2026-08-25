@@ -1534,5 +1534,21 @@
     "win_count": 6,
     "rank": 3996,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2541cd1c485e1e15fd1e1f1f974adb16f3e24f1e",
+    "trader_name": "beastishngry",
+    "tag": "Overall",
+    "overall_gain": 28076.335641596277,
+    "active_positions": 27,
+    "win_amount": 71896.62145524069,
+    "loss_amount": -43820.2858136444,
+    "win_rate": 0.6436781609195402,
+    "total_current_value": 16.942284575,
+    "total_positions": 101,
+    "event_ct": 87,
+    "win_count": 56,
+    "rank": 3997,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
