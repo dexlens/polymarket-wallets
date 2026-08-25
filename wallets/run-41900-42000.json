@@ -494,5 +494,21 @@
     "win_count": 39,
     "rank": 41932,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9a0382d40710ad33818307a4c9213bc424b786dc",
+    "trader_name": "touxie",
+    "tag": "Overall",
+    "overall_gain": 1880.8183422472175,
+    "active_positions": 4,
+    "win_amount": 3597.263362794639,
+    "loss_amount": -1716.445020547421,
+    "win_rate": 0.78125,
+    "total_current_value": 1297.1630046795,
+    "total_positions": 64,
+    "event_ct": 32,
+    "win_count": 25,
+    "rank": 41933,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
