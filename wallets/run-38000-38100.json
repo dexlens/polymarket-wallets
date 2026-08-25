@@ -1486,5 +1486,21 @@
     "win_count": 15,
     "rank": 38094,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a5861035e17964c1870616f3a02222136e06536",
+    "trader_name": "ws441",
+    "tag": "Overall",
+    "overall_gain": 2112.922421772357,
+    "active_positions": 1,
+    "win_amount": 43791.480262312376,
+    "loss_amount": -41678.55784054001,
+    "win_rate": 0.7872454448017149,
+    "total_current_value": 15.117735,
+    "total_positions": 6638,
+    "event_ct": 3732,
+    "win_count": 2938,
+    "rank": 38095,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
