@@ -1582,5 +1582,21 @@
     "win_count": 42,
     "rank": 56600,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x23f1c477c5023856cdc67a222400ea4eb8b91e72",
+    "trader_name": "Brokepredictor",
+    "tag": "Overall",
+    "overall_gain": 1194.8831893323888,
+    "active_positions": 7,
+    "win_amount": 1889.708829758617,
+    "loss_amount": -694.825640426228,
+    "win_rate": 0.625,
+    "total_current_value": 2373.7626037845002,
+    "total_positions": 19,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 56601,
+    "trader_tags": ""
   }
 ]
