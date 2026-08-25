@@ -1230,5 +1230,21 @@
     "win_count": 12,
     "rank": 84578,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x26626155c648bc4a22cad17a60fad6f47411518f",
+    "trader_name": "crypto12",
+    "tag": "Overall",
+    "overall_gain": 558.068819766344,
+    "active_positions": 4,
+    "win_amount": 958.0685605147919,
+    "loss_amount": -399.999740748448,
+    "win_rate": 0.9565217391304348,
+    "total_current_value": 13.089656,
+    "total_positions": 27,
+    "event_ct": 23,
+    "win_count": 22,
+    "rank": 84579,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
