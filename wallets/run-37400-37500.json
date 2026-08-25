@@ -1518,5 +1518,21 @@
     "win_count": 80,
     "rank": 37496,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x47363330f2f00907454d368b4f9cf48daa2b13d8",
+    "trader_name": "A7zheyisheng",
+    "tag": "Overall",
+    "overall_gain": 2154.6630000000005,
+    "active_positions": 1,
+    "win_amount": 2159.2300000000005,
+    "loss_amount": -4.567,
+    "win_rate": 0.75,
+    "total_current_value": 19.950000000000003,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 37497,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
