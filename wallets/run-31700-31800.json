@@ -1454,5 +1454,21 @@
     "win_count": 4,
     "rank": 31792,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1da01cbf5aaa3ea999268ae91b38fbea6f9b2ea6",
+    "trader_name": "Vribi",
+    "tag": "Overall",
+    "overall_gain": 2621.086444436228,
+    "active_positions": 1,
+    "win_amount": 2622.086440436228,
+    "loss_amount": -0.999996,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 132.754254,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 31793,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
