@@ -1566,5 +1566,21 @@
     "win_count": 15,
     "rank": 78799,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf88ac4e48b1adafc3f2908545642297568bbc026",
+    "trader_name": "rew032",
+    "tag": "Overall",
+    "overall_gain": 650.9491329374112,
+    "active_positions": 10,
+    "win_amount": 3160.9398370095523,
+    "loss_amount": -2509.990704072141,
+    "win_rate": 0.6764705882352942,
+    "total_current_value": 0.057835,
+    "total_positions": 41,
+    "event_ct": 34,
+    "win_count": 23,
+    "rank": 78800,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
