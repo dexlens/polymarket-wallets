@@ -526,5 +526,21 @@
     "win_count": 3,
     "rank": 63934,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8270831400bd0c820ef0d38ccd7b5e2311259ca6",
+    "trader_name": "Money3",
+    "tag": "Overall",
+    "overall_gain": 975.706057296367,
+    "active_positions": 10,
+    "win_amount": 1686.6388890457379,
+    "loss_amount": -710.9328317493711,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 2097.273583199,
+    "total_positions": 157,
+    "event_ct": 99,
+    "win_count": 44,
+    "rank": 63935,
+    "trader_tags": ""
   }
 ]
