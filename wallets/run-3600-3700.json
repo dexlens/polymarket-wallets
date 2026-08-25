@@ -1006,5 +1006,21 @@
     "win_count": 13,
     "rank": 3663,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb77b6ef359f02192fb077227499f9f853d4870a5",
+    "trader_name": "IsraeliCowboy",
+    "tag": "Overall",
+    "overall_gain": 31117.942687391565,
+    "active_positions": 6,
+    "win_amount": 31865.312229089563,
+    "loss_amount": -747.369541698,
+    "win_rate": 0.9978595890410958,
+    "total_current_value": 42255.68341875,
+    "total_positions": 2361,
+    "event_ct": 2336,
+    "win_count": 2331,
+    "rank": 3664,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
