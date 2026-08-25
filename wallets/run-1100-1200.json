@@ -638,5 +638,21 @@
     "win_count": 111,
     "rank": 1140,
     "trader_tags": "Overall PnL > $100k; > 1 year old"
+  },
+  {
+    "trader": "0x50dea44f96beebc78725542bb3afd1ad1998c9b7",
+    "trader_name": "whataplaya",
+    "tag": "Overall",
+    "overall_gain": 106916.87759506509,
+    "active_positions": 0,
+    "win_amount": 106916.87759506509,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.029625000000000002,
+    "total_positions": 18,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 1141,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
