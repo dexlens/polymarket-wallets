@@ -190,5 +190,21 @@
     "win_count": 16,
     "rank": 65913,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x228964ba24ec1a3240ae93173b2ce9da49719f26",
+    "trader_name": "ShowEmItsMyTime",
+    "tag": "Overall",
+    "overall_gain": 918.3862807606521,
+    "active_positions": 2,
+    "win_amount": 1291.2314392625003,
+    "loss_amount": -372.84515850184806,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.137104,
+    "total_positions": 16,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 65914,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
