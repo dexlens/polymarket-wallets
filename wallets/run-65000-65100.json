@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 65084,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0cd7464d971d22316c06072c26699ad12dc8a7e5",
+    "trader_name": "zlLDnGikDeL",
+    "tag": "Overall",
+    "overall_gain": 943.031072,
+    "active_positions": 26,
+    "win_amount": 2960.6039719999994,
+    "loss_amount": -2017.5729,
+    "win_rate": 0.6376811594202898,
+    "total_current_value": 110.9445,
+    "total_positions": 69,
+    "event_ct": 69,
+    "win_count": 44,
+    "rank": 65085,
+    "trader_tags": ""
   }
 ]
