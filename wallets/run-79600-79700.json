@@ -606,5 +606,21 @@
     "win_count": 18,
     "rank": 79639,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa4da0b1dd4f6216532862e883d1191c92a8887db",
+    "trader_name": "trcomp",
+    "tag": "Overall",
+    "overall_gain": 636.5579423397629,
+    "active_positions": 8,
+    "win_amount": 786.5571004853059,
+    "loss_amount": -149.999158145543,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 79640,
+    "trader_tags": ""
   }
 ]
