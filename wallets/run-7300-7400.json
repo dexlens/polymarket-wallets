@@ -574,5 +574,21 @@
     "win_count": 225,
     "rank": 7336,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xef3b233aa69f12613f8e8668f55a9ec97948a338",
+    "trader_name": "Halveth",
+    "tag": "Overall",
+    "overall_gain": 14506.955062339368,
+    "active_positions": 5,
+    "win_amount": 15139.948299505313,
+    "loss_amount": -632.9932371659471,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.00036500000000000004,
+    "total_positions": 54,
+    "event_ct": 49,
+    "win_count": 42,
+    "rank": 7337,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
