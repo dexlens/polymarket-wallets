@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 31287,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d29f0dd61174cfd30877c1cf5f9aedfcd35f3b1",
+    "trader_name": "nDBvLapn1",
+    "tag": "Overall",
+    "overall_gain": 2670.931593433388,
+    "active_positions": 16,
+    "win_amount": 19063.931540429076,
+    "loss_amount": -16392.999946995686,
+    "win_rate": 0.5588235294117647,
+    "total_current_value": 8.116072999999998,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 19,
+    "rank": 31288,
+    "trader_tags": ""
   }
 ]
