@@ -398,5 +398,21 @@
     "win_count": 5,
     "rank": 27526,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x997b2c7e56c333c3623dec8886e621008601801e",
+    "trader_name": "LeeBong-James",
+    "tag": "Overall",
+    "overall_gain": 3130.1229519300136,
+    "active_positions": 4,
+    "win_amount": 280665.6768224039,
+    "loss_amount": -277535.55387047405,
+    "win_rate": 0.37906137184115524,
+    "total_current_value": 1883.21872375,
+    "total_positions": 720,
+    "event_ct": 554,
+    "win_count": 210,
+    "rank": 27527,
+    "trader_tags": "> 1 year old"
   }
 ]
