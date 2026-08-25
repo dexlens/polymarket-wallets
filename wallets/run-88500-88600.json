@@ -542,5 +542,21 @@
     "win_count": 2,
     "rank": 88535,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x0201026fc2e3ebe81092b8e6f9ec17f3c43efbff",
+    "trader_name": "Beosus",
+    "tag": "Overall",
+    "overall_gain": 507.08236850113093,
+    "active_positions": 26,
+    "win_amount": 544.7612856184662,
+    "loss_amount": -37.67891711733518,
+    "win_rate": 0.75,
+    "total_current_value": 11.275980999999998,
+    "total_positions": 88,
+    "event_ct": 84,
+    "win_count": 63,
+    "rank": 88536,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
