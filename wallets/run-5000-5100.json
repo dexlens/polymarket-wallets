@@ -542,5 +542,21 @@
     "win_count": 21,
     "rank": 5034,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x454c8364b06d56df31531b1fc5bc083f5c1ebd22",
+    "trader_name": "borja13",
+    "tag": "Overall",
+    "overall_gain": 21487.87000640153,
+    "active_positions": 133,
+    "win_amount": 24211.719261081234,
+    "loss_amount": -2723.8492546797097,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 3167.9881357634995,
+    "total_positions": 266,
+    "event_ct": 49,
+    "win_count": 35,
+    "rank": 5035,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
