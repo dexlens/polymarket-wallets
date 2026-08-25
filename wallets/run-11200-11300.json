@@ -942,5 +942,21 @@
     "win_count": 6,
     "rank": 11259,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7d654886518f95d02cac846565d7c2a5847ee614",
+    "trader_name": "Ashblad",
+    "tag": "Overall",
+    "overall_gain": 9313.755378380376,
+    "active_positions": 2,
+    "win_amount": 9323.755372,
+    "loss_amount": -9.999993619624,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 11260,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
