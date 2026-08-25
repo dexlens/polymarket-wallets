@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 39856,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x403032d0950f33a46cebea6709d02abc348f933c",
+    "trader_name": "WarnerOConnor",
+    "tag": "Overall",
+    "overall_gain": 2000.7592917477327,
+    "active_positions": 35,
+    "win_amount": 15251.205521992193,
+    "loss_amount": -13250.44623024446,
+    "win_rate": 0.648936170212766,
+    "total_current_value": 3.5589755949999997,
+    "total_positions": 98,
+    "event_ct": 94,
+    "win_count": 61,
+    "rank": 39857,
+    "trader_tags": ""
   }
 ]
