@@ -62,5 +62,21 @@
     "win_count": 9,
     "rank": 5104,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8fe87f8cfff3a80e95f98c645dbda5c0a4aefc24",
+    "trader_name": "CryptoBomzh",
+    "tag": "Overall",
+    "overall_gain": 21225.359728877946,
+    "active_positions": 3,
+    "win_amount": 38440.33482605455,
+    "loss_amount": -17214.97509717661,
+    "win_rate": 0.5,
+    "total_current_value": 134.559304,
+    "total_positions": 26,
+    "event_ct": 18,
+    "win_count": 9,
+    "rank": 5105,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
