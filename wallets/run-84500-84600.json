@@ -302,5 +302,21 @@
     "win_count": 3,
     "rank": 84520,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0d3e4cc28a40d9518caa1157ab252ca4a4065585",
+    "trader_name": "illket",
+    "tag": "Overall",
+    "overall_gain": 558.888480989036,
+    "active_positions": 0,
+    "win_amount": 565.400303,
+    "loss_amount": -6.511822010964,
+    "win_rate": 0.13333333333333333,
+    "total_current_value": 0.059726,
+    "total_positions": 23,
+    "event_ct": 15,
+    "win_count": 2,
+    "rank": 84521,
+    "trader_tags": "> 1 year old"
   }
 ]
