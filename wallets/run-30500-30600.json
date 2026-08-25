@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 30555,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdeb41f9b5b575b5aa230b63d82e8107bfa0fce98",
+    "trader_name": "Pp07",
+    "tag": "Overall",
+    "overall_gain": 2752.8235975883363,
+    "active_positions": 17,
+    "win_amount": 4804.634020610069,
+    "loss_amount": -2051.8104230217323,
+    "win_rate": 0.29411764705882354,
+    "total_current_value": 1.3719709999999998,
+    "total_positions": 39,
+    "event_ct": 34,
+    "win_count": 10,
+    "rank": 30556,
+    "trader_tags": "> 1 year old"
   }
 ]
