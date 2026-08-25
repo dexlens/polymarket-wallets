@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 69555,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x99641b46c77765fbaf244764b10856681644dedd",
+    "trader_name": "divorrint",
+    "tag": "Overall",
+    "overall_gain": 820.9486247930951,
+    "active_positions": 27,
+    "win_amount": 876.2007771138001,
+    "loss_amount": -55.252152320704994,
+    "win_rate": 0.8275862068965517,
+    "total_current_value": 293.8983232395,
+    "total_positions": 45,
+    "event_ct": 29,
+    "win_count": 24,
+    "rank": 69556,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
