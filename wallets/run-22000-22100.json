@@ -1582,5 +1582,21 @@
     "win_count": 4,
     "rank": 22099,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x892f26604f4ab33149f37b9840b577c65df66bd0",
+    "trader_name": "Sdaaga",
+    "tag": "Overall",
+    "overall_gain": 4099.5,
+    "active_positions": 1,
+    "win_amount": 4354.5,
+    "loss_amount": -255,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 22100,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
