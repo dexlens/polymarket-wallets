@@ -1294,5 +1294,21 @@
     "win_count": 2,
     "rank": 2881,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x738cde5983d74c7ff6fb63d622eb138fdd768f6e",
+    "trader_name": "huy-s-gori",
+    "tag": "Overall",
+    "overall_gain": 39928.47658038195,
+    "active_positions": 10,
+    "win_amount": 50462.476521,
+    "loss_amount": -10533.999940618049,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 15,
+    "rank": 2882,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
