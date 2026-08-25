@@ -638,5 +638,21 @@
     "win_count": 15,
     "rank": 6740,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x2b170250c74dfebdb4c8e8243e9f62f6789769d2",
+    "trader_name": "JudyKellogg",
+    "tag": "Overall",
+    "overall_gain": 15926.34476010838,
+    "active_positions": 43,
+    "win_amount": 39242.93818509754,
+    "loss_amount": -23316.59342498917,
+    "win_rate": 0.7,
+    "total_current_value": 19.073757087,
+    "total_positions": 91,
+    "event_ct": 90,
+    "win_count": 63,
+    "rank": 6741,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
