@@ -510,5 +510,21 @@
     "win_count": 10,
     "rank": 79633,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf93ed6fee70411e912453db79f13f2514c758693",
+    "trader_name": "mercutio",
+    "tag": "Overall",
+    "overall_gain": 636.603918,
+    "active_positions": 0,
+    "win_amount": 636.603918,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 79634,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
