@@ -814,5 +814,21 @@
     "win_count": 7,
     "rank": 80352,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2437bc02a145dc01c85c1fa23b9fd2e209bc3906",
+    "trader_name": "chillwinner",
+    "tag": "Overall",
+    "overall_gain": 624.8335172456729,
+    "active_positions": 2,
+    "win_amount": 793.1406315826679,
+    "loss_amount": -168.30711433699497,
+    "win_rate": 0.7105263157894737,
+    "total_current_value": 232.66211499999994,
+    "total_positions": 46,
+    "event_ct": 38,
+    "win_count": 27,
+    "rank": 80353,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
