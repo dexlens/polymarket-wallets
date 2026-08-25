@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 3951,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xeca0c0888e34df59589c67fbe53dc7f298b5e8f8",
+    "trader_name": "StarMaster",
+    "tag": "Overall",
+    "overall_gain": 28467.34407869251,
+    "active_positions": 122,
+    "win_amount": 61051.23442188895,
+    "loss_amount": -32583.890343196435,
+    "win_rate": 0.5395962732919255,
+    "total_current_value": 30831.373242348,
+    "total_positions": 2416,
+    "event_ct": 1288,
+    "win_count": 695,
+    "rank": 3952,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
