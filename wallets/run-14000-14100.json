@@ -1390,5 +1390,21 @@
     "win_count": 12,
     "rank": 14087,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e9851cf9c439811937fc19c0a144c8a9fd06345",
+    "trader_name": "BSS37",
+    "tag": "Overall",
+    "overall_gain": 7007.87033524641,
+    "active_positions": 1397,
+    "win_amount": 16192.542380393712,
+    "loss_amount": -9184.672045147297,
+    "win_rate": 0.4418526031102096,
+    "total_current_value": 4668.9593392165,
+    "total_positions": 11366,
+    "event_ct": 2958,
+    "win_count": 1307,
+    "rank": 14088,
+    "trader_tags": "1k+ Positions"
   }
 ]
