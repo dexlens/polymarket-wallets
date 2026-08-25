@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 14130,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6e23df4ddad95b3ca48c5913138c10b2316450b",
+    "trader_name": "xplWhale",
+    "tag": "Overall",
+    "overall_gain": 6990.141816861031,
+    "active_positions": 6,
+    "win_amount": 13192.888578,
+    "loss_amount": -6202.746761138969,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 24600.011580000002,
+    "total_positions": 10,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 14131,
+    "trader_tags": ""
   }
 ]
