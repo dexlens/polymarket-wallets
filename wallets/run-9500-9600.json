@@ -1390,5 +1390,21 @@
     "win_count": 14,
     "rank": 9587,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe7988131211017e22deb26c30b46c7b5af48b35a",
+    "trader_name": "pietrodare",
+    "tag": "Overall",
+    "overall_gain": 10922.5,
+    "active_positions": 0,
+    "win_amount": 10922.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9588,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
