@@ -750,5 +750,21 @@
     "win_count": 16,
     "rank": 4547,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x799435e6f356fe77446a783093db4560bf16c512",
+    "trader_name": "fatalityseal",
+    "tag": "Overall",
+    "overall_gain": 24219.49028688087,
+    "active_positions": 74,
+    "win_amount": 53611.505679833084,
+    "loss_amount": -29392.015392952217,
+    "win_rate": 0.6142857142857143,
+    "total_current_value": 20547.352072775004,
+    "total_positions": 1298,
+    "event_ct": 350,
+    "win_count": 215,
+    "rank": 4548,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
