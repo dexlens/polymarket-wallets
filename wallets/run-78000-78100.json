@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 78098,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x4103f3fa467bbb9c6a64595d4ecd3fd4f1b0a2c2",
+    "trader_name": "Terrodile",
+    "tag": "Overall",
+    "overall_gain": 662.334159,
+    "active_positions": 0,
+    "win_amount": 662.334159,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 78099,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
