@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 68884,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2971c9fa4729f7a5792d4632c54eac144c2e6295",
+    "trader_name": "Ero",
+    "tag": "Overall",
+    "overall_gain": 837.903058696884,
+    "active_positions": 7,
+    "win_amount": 968.644725598882,
+    "loss_amount": -130.741666901998,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 353.53608499999996,
+    "total_positions": 19,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 68885,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
