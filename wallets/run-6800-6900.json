@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 6837,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2dad8b63c3e7b240fc21b70f20a64ee91943a040",
+    "trader_name": "blowmywhistle",
+    "tag": "Overall",
+    "overall_gain": 15674.264634466257,
+    "active_positions": 20,
+    "win_amount": 73091.65696281522,
+    "loss_amount": -57417.392328348935,
+    "win_rate": 0.6957708049113234,
+    "total_current_value": 1.5687650000000002,
+    "total_positions": 852,
+    "event_ct": 733,
+    "win_count": 510,
+    "rank": 6838,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
