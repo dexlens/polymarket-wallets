@@ -1134,5 +1134,21 @@
     "win_count": 7,
     "rank": 76272,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00250b325e29213037ee9c3d24a287213f9d6ca8",
+    "trader_name": "dksol",
+    "tag": "Overall",
+    "overall_gain": 694.7430976259465,
+    "active_positions": 0,
+    "win_amount": 5505.372428280993,
+    "loss_amount": -4810.629330655045,
+    "win_rate": 0.5921052631578947,
+    "total_current_value": 0.15258822499999997,
+    "total_positions": 85,
+    "event_ct": 76,
+    "win_count": 45,
+    "rank": 76273,
+    "trader_tags": "> 1 year old"
   }
 ]
