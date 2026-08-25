@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 31325,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x684276b20f2efbb3a197bef791a725f84bfb3eb4",
+    "trader_name": "Weatherguy",
+    "tag": "Overall",
+    "overall_gain": 2668.1176619783455,
+    "active_positions": 42,
+    "win_amount": 12157.254023906506,
+    "loss_amount": -9489.136361928156,
+    "win_rate": 0.6690140845070423,
+    "total_current_value": 0.013225,
+    "total_positions": 259,
+    "event_ct": 142,
+    "win_count": 95,
+    "rank": 31326,
+    "trader_tags": ""
   }
 ]
