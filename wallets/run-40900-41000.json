@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 40935,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02e9bc655db7188b0d1734db1c9d765391599a18",
+    "trader_name": "sosislon",
+    "tag": "Overall",
+    "overall_gain": 1938.2211691983948,
+    "active_positions": 46,
+    "win_amount": 7077.501507515446,
+    "loss_amount": -5139.28033831705,
+    "win_rate": 0.4588235294117647,
+    "total_current_value": 0.00019600000000000002,
+    "total_positions": 87,
+    "event_ct": 85,
+    "win_count": 39,
+    "rank": 40936,
+    "trader_tags": ""
   }
 ]
