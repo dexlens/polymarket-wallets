@@ -638,5 +638,21 @@
     "win_count": 2,
     "rank": 80941,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd06c7f22fb695838ee1b38e8c62c812f5048267",
+    "trader_name": "petron",
+    "tag": "Overall",
+    "overall_gain": 615.233204,
+    "active_positions": 0,
+    "win_amount": 743.1830180000001,
+    "loss_amount": -127.949814,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 4,
+    "rank": 80942,
+    "trader_tags": "> 1 year old"
   }
 ]
