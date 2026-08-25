@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 68899,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf5062968f64a72260faefe7022f50311fb0cb7aa",
+    "trader_name": "quietdegen",
+    "tag": "Overall",
+    "overall_gain": 837.475966406344,
+    "active_positions": 3,
+    "win_amount": 5139.793986588243,
+    "loss_amount": -4302.318020181898,
+    "win_rate": 0.7416741674167416,
+    "total_current_value": 6.340210115,
+    "total_positions": 1154,
+    "event_ct": 1111,
+    "win_count": 824,
+    "rank": 68900,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
