@@ -1582,5 +1582,21 @@
     "win_count": 10,
     "rank": 20199,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28aab287315f01618c757346cee2b6755542a986",
+    "trader_name": "dbr24",
+    "tag": "Overall",
+    "overall_gain": 4574.764371439999,
+    "active_positions": 2,
+    "win_amount": 10726.300110440001,
+    "loss_amount": -6151.535739,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 0.005182,
+    "total_positions": 23,
+    "event_ct": 19,
+    "win_count": 10,
+    "rank": 20200,
+    "trader_tags": "> 1 year old"
   }
 ]
