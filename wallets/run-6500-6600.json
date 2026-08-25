@@ -510,5 +510,21 @@
     "win_count": 27,
     "rank": 6532,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1aba3c40acde42ce051c998abd1a9f064311c083",
+    "trader_name": "Askvaldo",
+    "tag": "Overall",
+    "overall_gain": 16408.931454906193,
+    "active_positions": 9,
+    "win_amount": 20029.181654072654,
+    "loss_amount": -3620.2501991664635,
+    "win_rate": 0.5757575757575758,
+    "total_current_value": 2367.998270491,
+    "total_positions": 695,
+    "event_ct": 264,
+    "win_count": 152,
+    "rank": 6533,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
