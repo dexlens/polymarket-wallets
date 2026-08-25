@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 39725,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b9f1d87e9b3e521d1139707a0cee88e73a5a27a",
+    "trader_name": "WorkHardButNoMoney",
+    "tag": "Overall",
+    "overall_gain": 2008.5761744915992,
+    "active_positions": 13,
+    "win_amount": 7493.11413106995,
+    "loss_amount": -5484.537956578349,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 8.778166895000002,
+    "total_positions": 70,
+    "event_ct": 56,
+    "win_count": 36,
+    "rank": 39726,
+    "trader_tags": "> 1 year old"
   }
 ]
