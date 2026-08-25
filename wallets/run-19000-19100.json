@@ -990,5 +990,21 @@
     "win_count": 154,
     "rank": 19062,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcfebd5995e887b11ed77c9ba8d5891ea75b9c3c2",
+    "trader_name": "stun",
+    "tag": "Overall",
+    "overall_gain": 4880.12316752835,
+    "active_positions": 2,
+    "win_amount": 28883.160196010536,
+    "loss_amount": -24003.037028482177,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.031608,
+    "total_positions": 83,
+    "event_ct": 75,
+    "win_count": 25,
+    "rank": 19063,
+    "trader_tags": ""
   }
 ]
