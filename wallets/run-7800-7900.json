@@ -702,5 +702,21 @@
     "win_count": 38,
     "rank": 7844,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6630c34aa5836d4610fb6303d0ee9d966cd42f4e",
+    "trader_name": "garlictrump",
+    "tag": "Overall",
+    "overall_gain": 13435.089942712795,
+    "active_positions": 22,
+    "win_amount": 19218.119438165442,
+    "loss_amount": -5783.0294954526435,
+    "win_rate": 0.8486238532110092,
+    "total_current_value": 25357.86188069,
+    "total_positions": 322,
+    "event_ct": 218,
+    "win_count": 185,
+    "rank": 7845,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
