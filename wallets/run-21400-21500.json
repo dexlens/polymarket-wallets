@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 21493,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d74f7b6ec5a2c4a76ee751cfc281bbc534cca72",
+    "trader_name": "Aldda2",
+    "tag": "Overall",
+    "overall_gain": 4238.209999999999,
+    "active_positions": 2,
+    "win_amount": 4728.209999999999,
+    "loss_amount": -490,
+    "win_rate": 0.875,
+    "total_current_value": 519,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 21494,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
