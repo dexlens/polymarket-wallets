@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 23983,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d280af5e69c02be334b858388998ae813d6aecf",
+    "trader_name": "tarbs",
+    "tag": "Overall",
+    "overall_gain": 3722.518279116656,
+    "active_positions": 0,
+    "win_amount": 3722.518279116656,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003448,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 23984,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
