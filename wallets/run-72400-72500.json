@@ -574,5 +574,21 @@
     "win_count": 2,
     "rank": 72437,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd30e141202d117a6e756af4083cc87258e4b1a5d",
+    "trader_name": "fedezARG",
+    "tag": "Overall",
+    "overall_gain": 756.680896271112,
+    "active_positions": 6,
+    "win_amount": 1460.9017586406874,
+    "loss_amount": -704.2208623695749,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 264.189952125,
+    "total_positions": 62,
+    "event_ct": 48,
+    "win_count": 32,
+    "rank": 72438,
+    "trader_tags": "> 1 year old"
   }
 ]
