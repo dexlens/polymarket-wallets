@@ -126,5 +126,21 @@
     "win_count": 7,
     "rank": 27609,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1137d9fa498aa6a5fe391e00b379db178774a873",
+    "trader_name": "Lunor",
+    "tag": "Overall",
+    "overall_gain": 3118.60229,
+    "active_positions": 2,
+    "win_amount": 3131.60229,
+    "loss_amount": -13,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 27610,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
