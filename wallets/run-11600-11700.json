@@ -1006,5 +1006,21 @@
     "win_count": 5,
     "rank": 11663,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd31e3a9cd5c234ab7640b4dc90d8eb5a7576c8c8",
+    "trader_name": "az12",
+    "tag": "Overall",
+    "overall_gain": 8913.905058238792,
+    "active_positions": 0,
+    "win_amount": 8913.905058238792,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000684,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 11664,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
