@@ -1550,5 +1550,21 @@
     "win_count": 6,
     "rank": 1597,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x716445fe00d0a78172b8be46d216e08d15159db6",
+    "trader_name": "bitmaster7",
+    "tag": "Overall",
+    "overall_gain": 76517.60918280618,
+    "active_positions": 1051,
+    "win_amount": 461594.4967618592,
+    "loss_amount": -385076.8875790531,
+    "win_rate": 0.5442169779853235,
+    "total_current_value": 18158.611833805997,
+    "total_positions": 95755,
+    "event_ct": 47968,
+    "win_count": 26105,
+    "rank": 1598,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
