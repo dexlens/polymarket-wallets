@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 38670,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3377ac3040abbecdb61ae48b44be537afe1181ba",
+    "trader_name": "bbsq",
+    "tag": "Overall",
+    "overall_gain": 2075.392751007666,
+    "active_positions": 0,
+    "win_amount": 2077.611543,
+    "loss_amount": -2.2187919923340003,
+    "win_rate": 0.6,
+    "total_current_value": 0.019166,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 38671,
+    "trader_tags": ""
   }
 ]
