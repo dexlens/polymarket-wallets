@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 65883,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc090213401cc44d78f982b7a0a56dfccca45ec1f",
+    "trader_name": "HopeTheyMisclick",
+    "tag": "Overall",
+    "overall_gain": 919.415,
+    "active_positions": 1,
+    "win_amount": 1113.5269999999998,
+    "loss_amount": -194.112,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 65884,
+    "trader_tags": ""
   }
 ]
