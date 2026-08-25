@@ -1166,5 +1166,21 @@
     "win_count": 8,
     "rank": 3073,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7e4f9fa031514e3ae4615123354f14ab32f1009",
+    "trader_name": "Ftor1",
+    "tag": "Overall",
+    "overall_gain": 37262.251812753384,
+    "active_positions": 0,
+    "win_amount": 41187.3448194389,
+    "loss_amount": -3925.093006685512,
+    "win_rate": 0.7540983606557377,
+    "total_current_value": 0.3171683765,
+    "total_positions": 85,
+    "event_ct": 61,
+    "win_count": 46,
+    "rank": 3074,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
