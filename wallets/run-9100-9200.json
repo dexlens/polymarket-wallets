@@ -302,5 +302,21 @@
     "win_count": 6,
     "rank": 9119,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x572491a5c65fb19922eebefa2c935e1fdf78873c",
+    "trader_name": "JfEWtGAP",
+    "tag": "Overall",
+    "overall_gain": 11494,
+    "active_positions": 9,
+    "win_amount": 23327.5,
+    "loss_amount": -11833.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 9120,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
