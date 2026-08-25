@@ -350,5 +350,21 @@
     "win_count": 21,
     "rank": 6922,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c86d935ab6f88419dc36904215d56511de815c0",
+    "trader_name": "FUUSOCIETY",
+    "tag": "Overall",
+    "overall_gain": 15485.374027382151,
+    "active_positions": 4,
+    "win_amount": 139801.68545399062,
+    "loss_amount": -124316.3114266085,
+    "win_rate": 0.5105386416861827,
+    "total_current_value": 7329.856207769999,
+    "total_positions": 1202,
+    "event_ct": 854,
+    "win_count": 436,
+    "rank": 6923,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
