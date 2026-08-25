@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 83719,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbe0d80348dc12c2d2fd2cb650a25fbce45d4a071",
+    "trader_name": "ravand",
+    "tag": "Overall",
+    "overall_gain": 570.6122200641311,
+    "active_positions": 2,
+    "win_amount": 674.6122200641311,
+    "loss_amount": -104,
+    "win_rate": 0.8,
+    "total_current_value": 2200.0101,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 83720,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
