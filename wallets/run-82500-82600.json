@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 82589,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9483b972b33518ae87ad2e48f0c9dd1dfb901656",
+    "trader_name": "mlkop",
+    "tag": "Overall",
+    "overall_gain": 588.8522966498134,
+    "active_positions": 63,
+    "win_amount": 2934.3006763199564,
+    "loss_amount": -2345.448379670143,
+    "win_rate": 0.680365296803653,
+    "total_current_value": 73.353977091,
+    "total_positions": 245,
+    "event_ct": 219,
+    "win_count": 149,
+    "rank": 82590,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
