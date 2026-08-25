@@ -1022,5 +1022,21 @@
     "win_count": 6,
     "rank": 44165,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x69bda652aa15939fcc6a1c2dae25383723229a4d",
+    "trader_name": "ceciliaschul",
+    "tag": "Overall",
+    "overall_gain": 1756.9,
+    "active_positions": 1,
+    "win_amount": 1912,
+    "loss_amount": -155.1,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 44166,
+    "trader_tags": "< 30 days old"
   }
 ]
