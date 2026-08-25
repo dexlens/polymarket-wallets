@@ -158,5 +158,21 @@
     "win_count": 9,
     "rank": 61911,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0b65dca9ff7339030249160fcfdd611e9f680b4f",
+    "trader_name": "sami5",
+    "tag": "Overall",
+    "overall_gain": 1024.5587031173031,
+    "active_positions": 2,
+    "win_amount": 1124.5587031163031,
+    "loss_amount": -99.999999999,
+    "win_rate": 0.9655172413793104,
+    "total_current_value": 0.07548247500000002,
+    "total_positions": 31,
+    "event_ct": 29,
+    "win_count": 28,
+    "rank": 61912,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
