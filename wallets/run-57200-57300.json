@@ -190,5 +190,21 @@
     "win_count": 7,
     "rank": 57213,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6592b073a355148c05c5f7cb2ab56b399ca75951",
+    "trader_name": "nuksmdv",
+    "tag": "Overall",
+    "overall_gain": 1171.051582480077,
+    "active_positions": 0,
+    "win_amount": 1211.051582480077,
+    "loss_amount": -40,
+    "win_rate": 0.75,
+    "total_current_value": 0.000077,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 57214,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
