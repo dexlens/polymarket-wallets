@@ -942,5 +942,21 @@
     "win_count": 43,
     "rank": 56760,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf96d61687547b3c063163af9a6842e58ead9dafd",
+    "trader_name": "FDGOD",
+    "tag": "Overall",
+    "overall_gain": 1188.7199640635536,
+    "active_positions": 1,
+    "win_amount": 6856.765034809049,
+    "loss_amount": -5668.045070745496,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 0.123994,
+    "total_positions": 53,
+    "event_ct": 46,
+    "win_count": 26,
+    "rank": 56761,
+    "trader_tags": "> 1 year old"
   }
 ]
