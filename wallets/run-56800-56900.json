@@ -1390,5 +1390,21 @@
     "win_count": 4,
     "rank": 56888,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x68c7c40003b5ca1c2408adcae544fa40abda6b80",
+    "trader_name": "tykuylt",
+    "tag": "Overall",
+    "overall_gain": 1183.355586,
+    "active_positions": 0,
+    "win_amount": 1183.355586,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 56889,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
