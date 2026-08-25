@@ -1422,5 +1422,21 @@
     "win_count": 2,
     "rank": 5589,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7c775d6837c0fbe6ec8d3ec64b7d634f2c298656",
+    "trader_name": "eradus",
+    "tag": "Overall",
+    "overall_gain": 19302.37810979447,
+    "active_positions": 6,
+    "win_amount": 23489.632078683102,
+    "loss_amount": -4187.253968888629,
+    "win_rate": 0.5625,
+    "total_current_value": 9176.541806635001,
+    "total_positions": 30,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 5590,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
