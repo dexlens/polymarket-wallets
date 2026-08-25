@@ -1518,5 +1518,21 @@
     "win_count": 2,
     "rank": 6795,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3a36a1e32eb4c0fb70e265a93d66fdb9223f454b",
+    "trader_name": "Caveman12",
+    "tag": "Overall",
+    "overall_gain": 15787.03121279706,
+    "active_positions": 0,
+    "win_amount": 40428.375217050394,
+    "loss_amount": -24641.344004253333,
+    "win_rate": 0.54375,
+    "total_current_value": 0.5305159999999999,
+    "total_positions": 315,
+    "event_ct": 160,
+    "win_count": 87,
+    "rank": 6796,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
