@@ -382,5 +382,21 @@
     "win_count": 11,
     "rank": 20524,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x363f835665cc74ee14e3c4cb4ee324fce55aba1e",
+    "trader_name": "TwitterYuanzhuolabs-01",
+    "tag": "Overall",
+    "overall_gain": 4488.411753771694,
+    "active_positions": 1612,
+    "win_amount": 93866.49044734112,
+    "loss_amount": -89378.07869356948,
+    "win_rate": 0.4924719408705174,
+    "total_current_value": 415.6209374649999,
+    "total_positions": 3963,
+    "event_ct": 3653,
+    "win_count": 1799,
+    "rank": 20525,
+    "trader_tags": "1k+ Positions"
   }
 ]
