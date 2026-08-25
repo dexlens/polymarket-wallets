@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 13228,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x99c228c56a02ac98b0f1083305a5b749b84be3ea",
+    "trader_name": "StaticBloom",
+    "tag": "Overall",
+    "overall_gain": 7584.5,
+    "active_positions": 1,
+    "win_amount": 7608.5,
+    "loss_amount": -24,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 13229,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
