@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 66589,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9672c872bb69efbebdc18b8cce2d8b854ae8856f",
+    "trader_name": "Giftfed112",
+    "tag": "Overall",
+    "overall_gain": 900.2161509999999,
+    "active_positions": 4,
+    "win_amount": 1418.2161509999999,
+    "loss_amount": -518,
+    "win_rate": 0.75,
+    "total_current_value": 8.0755,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 66590,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
