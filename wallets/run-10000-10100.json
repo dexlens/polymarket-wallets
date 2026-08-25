@@ -654,5 +654,21 @@
     "win_count": 2,
     "rank": 10041,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb059dcdb018e3a825cb9d0e6b64513ef84c3a79a",
+    "trader_name": "Zezizama",
+    "tag": "Overall",
+    "overall_gain": 10445.897894866272,
+    "active_positions": 0,
+    "win_amount": 27958.115427823454,
+    "loss_amount": -17512.21753295718,
+    "win_rate": 0.29411764705882354,
+    "total_current_value": 0.039026000000000005,
+    "total_positions": 25,
+    "event_ct": 17,
+    "win_count": 5,
+    "rank": 10042,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
