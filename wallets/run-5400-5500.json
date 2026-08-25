@@ -46,5 +46,21 @@
     "win_count": 10,
     "rank": 5403,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x44d682939eb6a4a1349fa50411531876a6089858",
+    "trader_name": "BobMcAdoo",
+    "tag": "Overall",
+    "overall_gain": 20033.70153074499,
+    "active_positions": 17,
+    "win_amount": 229274.887238945,
+    "loss_amount": -209241.18570819998,
+    "win_rate": 0.4956896551724138,
+    "total_current_value": 28679.967095285003,
+    "total_positions": 296,
+    "event_ct": 232,
+    "win_count": 115,
+    "rank": 5404,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
