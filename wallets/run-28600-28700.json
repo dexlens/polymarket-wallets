@@ -942,5 +942,21 @@
     "win_count": 25,
     "rank": 28660,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8dc827c7c6bb7649e819e556a8ea18e8fe49fa26",
+    "trader_name": "crane-walk",
+    "tag": "Overall",
+    "overall_gain": 2989.02612199706,
+    "active_positions": 18,
+    "win_amount": 7192.44433476,
+    "loss_amount": -4203.41821276294,
+    "win_rate": 0.6410256410256411,
+    "total_current_value": 137.99825883,
+    "total_positions": 48,
+    "event_ct": 39,
+    "win_count": 25,
+    "rank": 28661,
+    "trader_tags": ""
   }
 ]
