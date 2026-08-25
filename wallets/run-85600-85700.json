@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 85686,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63ae4e6f91ee5774019497adff7168bc163997c0",
+    "trader_name": "fsdkafk10",
+    "tag": "Overall",
+    "overall_gain": 543.0441022500002,
+    "active_positions": 2,
+    "win_amount": 1535.1372832499999,
+    "loss_amount": -992.0931809999998,
+    "win_rate": 0.4090909090909091,
+    "total_current_value": 2.8988249999999995,
+    "total_positions": 71,
+    "event_ct": 66,
+    "win_count": 27,
+    "rank": 85687,
+    "trader_tags": "< 30 days old"
   }
 ]
