@@ -1278,5 +1278,21 @@
     "win_count": 14,
     "rank": 41781,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9b450de5e673cac0eeb53c135d694768931bc113",
+    "trader_name": "hardar",
+    "tag": "Overall",
+    "overall_gain": 1889,
+    "active_positions": 1,
+    "win_amount": 1950,
+    "loss_amount": -61,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 41782,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
