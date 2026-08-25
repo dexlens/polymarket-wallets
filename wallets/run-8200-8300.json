@@ -1470,5 +1470,21 @@
     "win_count": 10,
     "rank": 8292,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0af037c59ede5b3b2a6625f23923057d8296d425",
+    "trader_name": "Protruder",
+    "tag": "Overall",
+    "overall_gain": 12677.907756679866,
+    "active_positions": 3,
+    "win_amount": 15053.965033879867,
+    "loss_amount": -2376.057277200001,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 366778.0260271225,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 8293,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
