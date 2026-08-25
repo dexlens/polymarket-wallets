@@ -1198,5 +1198,21 @@
     "win_count": 156,
     "rank": 975,
     "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x118ed6e1e562ec54f1fa6e7f0a2741fe0d32ea4b",
+    "trader_name": "SellLowBuyHigh",
+    "tag": "Overall",
+    "overall_gain": 124473.87338959324,
+    "active_positions": 1246,
+    "win_amount": 576559.3611266908,
+    "loss_amount": -452085.4877370976,
+    "win_rate": 0.49578530879064164,
+    "total_current_value": 0.275075,
+    "total_positions": 20982,
+    "event_ct": 11626,
+    "win_count": 5764,
+    "rank": 976,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
