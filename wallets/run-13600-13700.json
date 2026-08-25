@@ -110,5 +110,21 @@
     "win_count": 8,
     "rank": 13607,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe18a40ec7edd52d08629e4884d3099146cacfd87",
+    "trader_name": "tencents",
+    "tag": "Overall",
+    "overall_gain": 7290.89644329423,
+    "active_positions": 29,
+    "win_amount": 254365.01291812383,
+    "loss_amount": -247074.1164748296,
+    "win_rate": 0.4620141342756184,
+    "total_current_value": 2344.005124285,
+    "total_positions": 1451,
+    "event_ct": 1132,
+    "win_count": 523,
+    "rank": 13608,
+    "trader_tags": "1k+ Positions"
   }
 ]
