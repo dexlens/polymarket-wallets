@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 33035,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f75b6f6ba414165d076062b21b8e18ae76df4a3",
+    "trader_name": "ef24221",
+    "tag": "Overall",
+    "overall_gain": 2500.61,
+    "active_positions": 3,
+    "win_amount": 4802,
+    "loss_amount": -2301.39,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 15.4,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 33036,
+    "trader_tags": ""
   }
 ]
