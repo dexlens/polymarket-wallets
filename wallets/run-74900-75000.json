@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 74977,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x65bef2108f0d83904544f28d0fbe21e79aed563c",
+    "trader_name": "geeardee",
+    "tag": "Overall",
+    "overall_gain": 714.2132303757679,
+    "active_positions": 2,
+    "win_amount": 717.2132303757679,
+    "loss_amount": -3,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 2184.6948236685,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 74978,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
