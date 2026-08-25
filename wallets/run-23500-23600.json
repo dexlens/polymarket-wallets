@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 23569,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x96dd86f5cd9eb638defd1402ee5d2f9268f817fe",
+    "trader_name": "bwho",
+    "tag": "Overall",
+    "overall_gain": 3804.512786978339,
+    "active_positions": 3,
+    "win_amount": 7332.483996246009,
+    "loss_amount": -3527.9712092676687,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 2579.824751625,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 23570,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
