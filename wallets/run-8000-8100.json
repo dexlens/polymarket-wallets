@@ -158,5 +158,21 @@
     "win_count": 39,
     "rank": 8010,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b44cdccdc280e6d0be71782f0772a6bf4b2be1e",
+    "trader_name": "basedbasedmoma",
+    "tag": "Overall",
+    "overall_gain": 13110.062924166006,
+    "active_positions": 220,
+    "win_amount": 26059.639264750444,
+    "loss_amount": -12949.576340584419,
+    "win_rate": 0.6529562982005142,
+    "total_current_value": 24213.9641902355,
+    "total_positions": 1096,
+    "event_ct": 389,
+    "win_count": 254,
+    "rank": 8011,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
