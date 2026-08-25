@@ -814,5 +814,21 @@
     "win_count": 4,
     "rank": 5551,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xebd8886545a34ed30a8c69ce48256228afb1e9b1",
+    "trader_name": "Gurnix",
+    "tag": "Overall",
+    "overall_gain": 19470.410913906664,
+    "active_positions": 3,
+    "win_amount": 21139.349295,
+    "loss_amount": -1668.9383810933339,
+    "win_rate": 0.7878787878787878,
+    "total_current_value": 0.007948,
+    "total_positions": 36,
+    "event_ct": 33,
+    "win_count": 26,
+    "rank": 5552,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
