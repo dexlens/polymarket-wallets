@@ -1566,5 +1566,21 @@
     "win_count": 31,
     "rank": 48099,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1d206c09861567e6c9dd0c9bb7f25fb5163afa19",
+    "trader_name": "sstardusdt6",
+    "tag": "Overall",
+    "overall_gain": 1568.175,
+    "active_positions": 1,
+    "win_amount": 1568.175,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 18.725,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 48100,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
