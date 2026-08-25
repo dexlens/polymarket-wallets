@@ -1230,5 +1230,21 @@
     "win_count": 22,
     "rank": 2177,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9c2617462567859fcf5764e03b9a687ebca274bc",
+    "trader_name": "Spas12",
+    "tag": "Overall",
+    "overall_gain": 55263.461644107105,
+    "active_positions": 6,
+    "win_amount": 84144.35727472052,
+    "loss_amount": -28880.895630613417,
+    "win_rate": 0.9642857142857143,
+    "total_current_value": 499870.5548509655,
+    "total_positions": 64,
+    "event_ct": 56,
+    "win_count": 54,
+    "rank": 2178,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
