@@ -782,5 +782,21 @@
     "win_count": 255,
     "rank": 4849,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x31060e9b2c0703d6009154e38092d475b00cd672",
+    "trader_name": "ocpna",
+    "tag": "Overall",
+    "overall_gain": 22432.46150428269,
+    "active_positions": 104,
+    "win_amount": 32534.26517567584,
+    "loss_amount": -10101.803671393141,
+    "win_rate": 0.5135135135135135,
+    "total_current_value": 15742.540581144502,
+    "total_positions": 285,
+    "event_ct": 148,
+    "win_count": 76,
+    "rank": 4850,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
