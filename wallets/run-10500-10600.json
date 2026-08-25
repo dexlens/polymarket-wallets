@@ -510,5 +510,21 @@
     "win_count": 12,
     "rank": 10532,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x286bb1b8fb643f252605565d9a1604c722b6c782",
+    "trader_name": "CCCC23",
+    "tag": "Overall",
+    "overall_gain": 10000.03653240653,
+    "active_positions": 8,
+    "win_amount": 17900.036532406528,
+    "loss_amount": -7900,
+    "win_rate": 0.631578947368421,
+    "total_current_value": 1.8265289999999998,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 12,
+    "rank": 10533,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
