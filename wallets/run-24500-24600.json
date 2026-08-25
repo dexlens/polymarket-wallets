@@ -622,5 +622,21 @@
     "win_count": 5,
     "rank": 24540,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbb367cb2a0b847d805947443342629ffcd909545",
+    "trader_name": "MnMk",
+    "tag": "Overall",
+    "overall_gain": 3620.771354055218,
+    "active_positions": 0,
+    "win_amount": 20443.077376613815,
+    "loss_amount": -16822.306022558587,
+    "win_rate": 0.6707946336429309,
+    "total_current_value": 1.2421269999999998,
+    "total_positions": 1492,
+    "event_ct": 969,
+    "win_count": 650,
+    "rank": 24541,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
