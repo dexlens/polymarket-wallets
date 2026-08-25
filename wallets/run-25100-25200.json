@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 25128,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4b0307109b9ec0b17c99ba3954a278b4d16371ba",
+    "trader_name": "sugeknight",
+    "tag": "Overall",
+    "overall_gain": 3516.214912081212,
+    "active_positions": 109,
+    "win_amount": 37474.82032646965,
+    "loss_amount": -33958.605414388425,
+    "win_rate": 0.4566929133858268,
+    "total_current_value": 156.55890100000002,
+    "total_positions": 468,
+    "event_ct": 381,
+    "win_count": 174,
+    "rank": 25129,
+    "trader_tags": ""
   }
 ]
