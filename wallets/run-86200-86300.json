@@ -782,5 +782,21 @@
     "win_count": 11,
     "rank": 86250,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x22904149f975bacf55fd00c1b69d37a4c4e703dd",
+    "trader_name": "abln",
+    "tag": "Overall",
+    "overall_gain": 535.872978703295,
+    "active_positions": 7,
+    "win_amount": 806.42130102894,
+    "loss_amount": -270.548322325645,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 778.3944092400001,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 86251,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
