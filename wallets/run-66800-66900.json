@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 66889,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f1fd4ab67c7a2e741db5c12fb83a9f814f809a0",
+    "trader_name": "JMNJI",
+    "tag": "Overall",
+    "overall_gain": 892.3122021581592,
+    "active_positions": 3,
+    "win_amount": 1840.167616118774,
+    "loss_amount": -947.8554139606149,
+    "win_rate": 0.5,
+    "total_current_value": 0.069174,
+    "total_positions": 38,
+    "event_ct": 28,
+    "win_count": 14,
+    "rank": 66890,
+    "trader_tags": "> 1 year old"
   }
 ]
