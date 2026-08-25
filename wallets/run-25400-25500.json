@@ -1374,5 +1374,21 @@
     "win_count": 4,
     "rank": 25487,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4eeb35a5378db435b1e9932e0d93ea15d57833a4",
+    "trader_name": "Tehys",
+    "tag": "Overall",
+    "overall_gain": 3461.5,
+    "active_positions": 1,
+    "win_amount": 4110,
+    "loss_amount": -648.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 25488,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
