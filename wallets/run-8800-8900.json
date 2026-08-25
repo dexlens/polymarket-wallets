@@ -526,5 +526,21 @@
     "win_count": 3085,
     "rank": 8833,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x051300d847059498c35894114dee1aa38ee36ee8",
+    "trader_name": "CROVitez",
+    "tag": "Overall",
+    "overall_gain": 11859.583155199143,
+    "active_positions": 5,
+    "win_amount": 26489.22214261921,
+    "loss_amount": -14629.638987420041,
+    "win_rate": 0.8214285714285714,
+    "total_current_value": 8.174580000000002,
+    "total_positions": 315,
+    "event_ct": 308,
+    "win_count": 253,
+    "rank": 8834,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
