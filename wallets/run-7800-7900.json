@@ -1262,5 +1262,21 @@
     "win_count": 7,
     "rank": 7879,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85a3a3aa2c555a0b82361f9d9f4a60dc3e1bdcdf",
+    "trader_name": "ClearThinker",
+    "tag": "Overall",
+    "overall_gain": 13366.279999999999,
+    "active_positions": 3,
+    "win_amount": 14164.279999999999,
+    "loss_amount": -798,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 7880,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
