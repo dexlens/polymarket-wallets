@@ -1518,5 +1518,21 @@
     "win_count": 19,
     "rank": 795,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51373c6b56e4a38bf97c301efbff840fc8451556",
+    "trader_name": "Ziigmund",
+    "tag": "Overall",
+    "overall_gain": 158185.95417860072,
+    "active_positions": 9917,
+    "win_amount": 1736083.5917774236,
+    "loss_amount": -1577897.6375988233,
+    "win_rate": 0.5024290313140182,
+    "total_current_value": 26400.90787039699,
+    "total_positions": 53764,
+    "event_ct": 17085,
+    "win_count": 8584,
+    "rank": 796,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions"
   }
 ]
