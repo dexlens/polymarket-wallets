@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 71084,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd5a80b133494fb032fee2f9c76b9d6e33eac4613",
+    "trader_name": "a4wtgawerh",
+    "tag": "Overall",
+    "overall_gain": 786.792504677371,
+    "active_positions": 6,
+    "win_amount": 1646.050872393087,
+    "loss_amount": -859.258367715716,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.000087,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 71085,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
