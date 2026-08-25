@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 7687,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x07ad59e1c277d82b166e98585cd5eb36d17d4c0c",
+    "trader_name": "lently(10)",
+    "tag": "Overall",
+    "overall_gain": 13764.647741539937,
+    "active_positions": 4,
+    "win_amount": 34153.925040447255,
+    "loss_amount": -20389.27729890732,
+    "win_rate": 0.5806451612903226,
+    "total_current_value": 0.09825700000000001,
+    "total_positions": 239,
+    "event_ct": 62,
+    "win_count": 36,
+    "rank": 7688,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
