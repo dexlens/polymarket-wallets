@@ -1534,5 +1534,21 @@
     "win_count": 3,
     "rank": 81497,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x66ae5173808ca52ee5d0451cdefbec87cb9f3b30",
+    "trader_name": "sanu002",
+    "tag": "Overall",
+    "overall_gain": 606.3843420000002,
+    "active_positions": 5,
+    "win_amount": 1008.6193420000001,
+    "loss_amount": -402.235,
+    "win_rate": 0.72,
+    "total_current_value": 145.274,
+    "total_positions": 27,
+    "event_ct": 25,
+    "win_count": 18,
+    "rank": 81498,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
