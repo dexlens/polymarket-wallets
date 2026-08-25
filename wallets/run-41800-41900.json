@@ -1422,5 +1422,21 @@
     "win_count": 2,
     "rank": 41890,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x340206d66925f1be53116cf1a4fc343dbc400240",
+    "trader_name": "fddsas",
+    "tag": "Overall",
+    "overall_gain": 1883.070799,
+    "active_positions": 0,
+    "win_amount": 1884.1468790000001,
+    "loss_amount": -1.0760800000000001,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 41891,
+    "trader_tags": "> 1 year old"
   }
 ]
