@@ -1038,5 +1038,21 @@
     "win_count": 60,
     "rank": 9965,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd656272933b0a9707c68cef0e80b7a9aea75d127",
+    "trader_name": "S0RA-INC",
+    "tag": "Overall",
+    "overall_gain": 10518.229574268187,
+    "active_positions": 1,
+    "win_amount": 21158.554063908185,
+    "loss_amount": -10640.324489640003,
+    "win_rate": 0.5166666666666667,
+    "total_current_value": 0.052507,
+    "total_positions": 73,
+    "event_ct": 60,
+    "win_count": 31,
+    "rank": 9966,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
