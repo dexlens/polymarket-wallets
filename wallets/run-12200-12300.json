@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 12282,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b1f39b4a2ef6da99df6fd11384f99eb78271e95",
+    "trader_name": "Rocky92",
+    "tag": "Overall",
+    "overall_gain": 8325.82265487291,
+    "active_positions": 0,
+    "win_amount": 34750.46487974649,
+    "loss_amount": -26424.642224873583,
+    "win_rate": 0.43435754189944137,
+    "total_current_value": 0.8065239940000001,
+    "total_positions": 1867,
+    "event_ct": 716,
+    "win_count": 311,
+    "rank": 12283,
+    "trader_tags": "1k+ Positions"
   }
 ]
