@@ -286,5 +286,21 @@
     "win_count": 14,
     "rank": 3818,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x61313791c42f09ea053acc9eea9aaa6e7300fd16",
+    "trader_name": "emreus",
+    "tag": "Overall",
+    "overall_gain": 29807.1929905953,
+    "active_positions": 14,
+    "win_amount": 35437.275402682775,
+    "loss_amount": -5630.08241208748,
+    "win_rate": 0.6,
+    "total_current_value": 89816.80418729999,
+    "total_positions": 23,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 3819,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
