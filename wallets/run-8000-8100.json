@@ -398,5 +398,21 @@
     "win_count": 14,
     "rank": 8025,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c5229caaf7ce481ad185d07ee9e3f8e2bdcd8cc",
+    "trader_name": "Shxd",
+    "tag": "Overall",
+    "overall_gain": 13073.567282406504,
+    "active_positions": 0,
+    "win_amount": 16524.58739219376,
+    "loss_amount": -3451.0201097872546,
+    "win_rate": 0.5,
+    "total_current_value": 0.040097,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 8026,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
