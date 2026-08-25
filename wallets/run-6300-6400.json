@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 6372,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe0c8cabe3bd6479855fa874f2e6f927b90004b6",
+    "trader_name": "Sofoklis",
+    "tag": "Overall",
+    "overall_gain": 16808.165433828588,
+    "active_positions": 24,
+    "win_amount": 30013.52586276092,
+    "loss_amount": -13205.360428932327,
+    "win_rate": 0.6385542168674698,
+    "total_current_value": 13528.9265144655,
+    "total_positions": 113,
+    "event_ct": 83,
+    "win_count": 53,
+    "rank": 6373,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
