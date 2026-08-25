@@ -46,5 +46,21 @@
     "win_count": 71,
     "rank": 84704,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c7bbf4689ff3f5c8934b6c2f2699a626532a227",
+    "trader_name": "AutoExtended",
+    "tag": "Overall",
+    "overall_gain": 556.2902856975098,
+    "active_positions": 4,
+    "win_amount": 8384.863367130147,
+    "loss_amount": -7828.573081432636,
+    "win_rate": 0.9177383592017738,
+    "total_current_value": 117.04115605999999,
+    "total_positions": 4622,
+    "event_ct": 4510,
+    "win_count": 4139,
+    "rank": 84705,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
