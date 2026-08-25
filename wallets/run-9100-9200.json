@@ -1374,5 +1374,21 @@
     "win_count": 7,
     "rank": 9186,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xade5ed6eb45c08fed15568019e48c5f784c3cc57",
+    "trader_name": "zzz0204",
+    "tag": "Overall",
+    "overall_gain": 11408.229597039,
+    "active_positions": 530,
+    "win_amount": 54819.052453000004,
+    "loss_amount": -43410.82285596099,
+    "win_rate": 0.8011090573012939,
+    "total_current_value": 0,
+    "total_positions": 2718,
+    "event_ct": 2705,
+    "win_count": 2167,
+    "rank": 9187,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
