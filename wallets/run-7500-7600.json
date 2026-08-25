@@ -1230,5 +1230,21 @@
     "win_count": 16,
     "rank": 7577,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4b20ac7d1355bd8722417c7f1119762ffc4c2106",
+    "trader_name": "tsao",
+    "tag": "Overall",
+    "overall_gain": 13998.008932261082,
+    "active_positions": 37,
+    "win_amount": 14305.97917081661,
+    "loss_amount": -307.9702385555271,
+    "win_rate": 0.5918367346938775,
+    "total_current_value": 35.74507348199999,
+    "total_positions": 51,
+    "event_ct": 49,
+    "win_count": 29,
+    "rank": 7578,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
