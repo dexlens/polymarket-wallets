@@ -1550,5 +1550,21 @@
     "win_count": 32,
     "rank": 36898,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03caad26e2c244ab609e4f329416547c1ee23bbe",
+    "trader_name": "DELORESUMFRESS",
+    "tag": "Overall",
+    "overall_gain": 2197.862261222149,
+    "active_positions": 57,
+    "win_amount": 14112.812261222149,
+    "loss_amount": -11914.95,
+    "win_rate": 0.5546875,
+    "total_current_value": 0.007149,
+    "total_positions": 128,
+    "event_ct": 128,
+    "win_count": 71,
+    "rank": 36899,
+    "trader_tags": ""
   }
 ]
