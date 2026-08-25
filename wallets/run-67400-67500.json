@@ -1518,5 +1518,21 @@
     "win_count": 123,
     "rank": 67496,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42c493ce5aeb145970fd923701d3bacbf380f18a",
+    "trader_name": "lazibet",
+    "tag": "Overall",
+    "overall_gain": 875.1526915490871,
+    "active_positions": 11,
+    "win_amount": 945.7046425372291,
+    "loss_amount": -70.55195098814201,
+    "win_rate": 0.25,
+    "total_current_value": 546.5170952700001,
+    "total_positions": 17,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 67497,
+    "trader_tags": ""
   }
 ]
