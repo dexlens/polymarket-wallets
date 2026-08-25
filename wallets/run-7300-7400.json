@@ -558,5 +558,21 @@
     "win_count": 10,
     "rank": 7335,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e6e2c3f06686f2607b86c90e35f536e81a1be00",
+    "trader_name": "cowgoesmooo",
+    "tag": "Overall",
+    "overall_gain": 14507.68553083999,
+    "active_positions": 1,
+    "win_amount": 1604147.4034964808,
+    "loss_amount": -1589639.7179656397,
+    "win_rate": 0.4849137931034483,
+    "total_current_value": 471.91740626,
+    "total_positions": 696,
+    "event_ct": 464,
+    "win_count": 225,
+    "rank": 7336,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
