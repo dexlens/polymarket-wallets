@@ -638,5 +638,21 @@
     "win_count": 9,
     "rank": 78841,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x95dda9afb7c83bf12bd43e84b835ffdfa189dd13",
+    "trader_name": "spendcg64",
+    "tag": "Overall",
+    "overall_gain": 650.2221900000001,
+    "active_positions": 0,
+    "win_amount": 761.38119,
+    "loss_amount": -111.15899999999999,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 5,
+    "rank": 78842,
+    "trader_tags": ""
   }
 ]
