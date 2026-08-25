@@ -702,5 +702,21 @@
     "win_count": 5,
     "rank": 71145,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2fb27bf48982040a654c71cf81548d21a960e495",
+    "trader_name": "Katewin",
+    "tag": "Overall",
+    "overall_gain": 785.2071206250621,
+    "active_positions": 151,
+    "win_amount": 5532.608114166239,
+    "loss_amount": -4747.400993541179,
+    "win_rate": 0.740340030911901,
+    "total_current_value": 1.8931640000000003,
+    "total_positions": 669,
+    "event_ct": 647,
+    "win_count": 479,
+    "rank": 71146,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
