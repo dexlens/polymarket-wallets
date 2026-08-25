@@ -238,5 +238,21 @@
     "win_count": 30,
     "rank": 4015,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x68fe61f3e8db264be65d7cc830acce13e660b25d",
+    "trader_name": "Articulatea",
+    "tag": "Overall",
+    "overall_gain": 27902.842865,
+    "active_positions": 1,
+    "win_amount": 28916.478865,
+    "loss_amount": -1013.636,
+    "win_rate": 0.6551724137931034,
+    "total_current_value": 0,
+    "total_positions": 36,
+    "event_ct": 29,
+    "win_count": 19,
+    "rank": 4016,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
