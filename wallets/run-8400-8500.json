@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 8492,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a556827813f7589f95c4e9037d16552a7fa1d25",
+    "trader_name": "VULT",
+    "tag": "Overall",
+    "overall_gain": 12331.17161914576,
+    "active_positions": 1,
+    "win_amount": 102457.39508639893,
+    "loss_amount": -90126.22346725315,
+    "win_rate": 0.532258064516129,
+    "total_current_value": 0.077463345,
+    "total_positions": 99,
+    "event_ct": 62,
+    "win_count": 33,
+    "rank": 8493,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
