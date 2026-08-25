@@ -142,5 +142,21 @@
     "win_count": 4,
     "rank": 50010,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfafd1e81255b47cc2900968dd4eb8c317bd4470b",
+    "trader_name": "bapre",
+    "tag": "Overall",
+    "overall_gain": 1483.847289751282,
+    "active_positions": 8,
+    "win_amount": 1510.8996150690948,
+    "loss_amount": -27.052325317813,
+    "win_rate": 0.8380952380952381,
+    "total_current_value": 11.307397429999998,
+    "total_positions": 109,
+    "event_ct": 105,
+    "win_count": 88,
+    "rank": 50011,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
