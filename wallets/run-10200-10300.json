@@ -1230,5 +1230,21 @@
     "win_count": 17,
     "rank": 10277,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x54c6b265fc983ea1a93ab6ae216bb5dd439eac7d",
+    "trader_name": "rizin",
+    "tag": "Overall",
+    "overall_gain": 10236.51577029602,
+    "active_positions": 2,
+    "win_amount": 15300,
+    "loss_amount": -5063.48422970398,
+    "win_rate": 0.2,
+    "total_current_value": 112.00695597499998,
+    "total_positions": 17,
+    "event_ct": 5,
+    "win_count": 1,
+    "rank": 10278,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
