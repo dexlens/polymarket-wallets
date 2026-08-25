@@ -670,5 +670,21 @@
     "win_count": 3,
     "rank": 2042,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe033e9d4a0e8b30c417f3f7abcb029bc695940a5",
+    "trader_name": "CDAP1",
+    "tag": "Overall",
+    "overall_gain": 59154.36029270848,
+    "active_positions": 19,
+    "win_amount": 63643.12710713846,
+    "loss_amount": -4488.766814429985,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 90242.510409974,
+    "total_positions": 26,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 2043,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
