@@ -158,5 +158,21 @@
     "win_count": 4,
     "rank": 8510,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1639194f3a002baea0099cfc18f88bce770fb984",
+    "trader_name": "G122",
+    "tag": "Overall",
+    "overall_gain": 12304.306281625128,
+    "active_positions": 0,
+    "win_amount": 36098.288078154226,
+    "loss_amount": -23793.9817965291,
+    "win_rate": 0.7547169811320755,
+    "total_current_value": 0.06678999999999999,
+    "total_positions": 70,
+    "event_ct": 53,
+    "win_count": 40,
+    "rank": 8511,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
