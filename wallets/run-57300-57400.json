@@ -46,5 +46,21 @@
     "win_count": 2,
     "rank": 57304,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ca0cfe4ed627cb4ebe0193e69de9823a007e59d",
+    "trader_name": "Forch",
+    "tag": "Overall",
+    "overall_gain": 1167.7445947622834,
+    "active_positions": 14,
+    "win_amount": 4763.437604887091,
+    "loss_amount": -3595.6930101248076,
+    "win_rate": 0.6095238095238096,
+    "total_current_value": 2536.3533656509994,
+    "total_positions": 685,
+    "event_ct": 315,
+    "win_count": 192,
+    "rank": 57305,
+    "trader_tags": "> 1 year old"
   }
 ]
