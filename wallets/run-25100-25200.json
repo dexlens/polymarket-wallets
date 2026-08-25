@@ -798,5 +798,21 @@
     "win_count": 3,
     "rank": 25151,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2bab2f1546048e04fe8b55fc5ee67a4fea72dac0",
+    "trader_name": "Greadt12",
+    "tag": "Overall",
+    "overall_gain": 3511.92,
+    "active_positions": 2,
+    "win_amount": 4141.5,
+    "loss_amount": -629.58,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 25152,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
