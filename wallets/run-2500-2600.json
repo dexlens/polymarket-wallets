@@ -1422,5 +1422,21 @@
     "win_count": 335,
     "rank": 2589,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xeee9c7196b5cbf3a77ce90259e93cf4218a06e94",
+    "trader_name": "plankton2",
+    "tag": "Overall",
+    "overall_gain": 44967.4811306285,
+    "active_positions": 14,
+    "win_amount": 56435.55639544075,
+    "loss_amount": -11468.075264812243,
+    "win_rate": 0.9152542372881356,
+    "total_current_value": 498.20665403500004,
+    "total_positions": 97,
+    "event_ct": 59,
+    "win_count": 54,
+    "rank": 2590,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
