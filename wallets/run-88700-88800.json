@@ -1278,5 +1278,21 @@
     "win_count": 1,
     "rank": 88781,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e754e8bf00b2e7a82b6f978546f851a0e1371f1",
+    "trader_name": "Adagia",
+    "tag": "Overall",
+    "overall_gain": 504.3342747849649,
+    "active_positions": 9,
+    "win_amount": 1270.7970457218926,
+    "loss_amount": -766.4627709369273,
+    "win_rate": 0.7735849056603774,
+    "total_current_value": 37.133095581,
+    "total_positions": 482,
+    "event_ct": 318,
+    "win_count": 246,
+    "rank": 88782,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
