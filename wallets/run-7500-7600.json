@@ -318,5 +318,21 @@
     "win_count": 4,
     "rank": 7520,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe498979d09b2230788cd2956b2a0e5fa77aca8ba",
+    "trader_name": "gmvf",
+    "tag": "Overall",
+    "overall_gain": 14101.12374,
+    "active_positions": 0,
+    "win_amount": 14156.143703000002,
+    "loss_amount": -55.019963000000004,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 7521,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
