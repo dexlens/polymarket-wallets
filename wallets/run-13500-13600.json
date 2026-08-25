@@ -494,5 +494,21 @@
     "win_count": 3,
     "rank": 13531,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5ea4fb1252b4af7ea16c30abb3e70b42bd49ac7e",
+    "trader_name": "PyaOTiQfj",
+    "tag": "Overall",
+    "overall_gain": 7343.467827051021,
+    "active_positions": 10,
+    "win_amount": 18918.72182705102,
+    "loss_amount": -11575.254,
+    "win_rate": 0.6785714285714286,
+    "total_current_value": 8.924214208999999,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 19,
+    "rank": 13532,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
