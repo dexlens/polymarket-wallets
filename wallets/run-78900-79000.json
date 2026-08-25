@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 78950,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14ddb990b7b5bff289462beceea233b2b8d313ee",
+    "trader_name": "vine0923",
+    "tag": "Overall",
+    "overall_gain": 648.4736963993919,
+    "active_positions": 2,
+    "win_amount": 3500.663282366931,
+    "loss_amount": -2852.189585967539,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 0.145589,
+    "total_positions": 333,
+    "event_ct": 170,
+    "win_count": 80,
+    "rank": 78951,
+    "trader_tags": "> 1 year old"
   }
 ]
