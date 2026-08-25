@@ -606,5 +606,21 @@
     "win_count": 8,
     "rank": 15938,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b7e85f33800450d5010d4fa04578fd682cab3b6",
+    "trader_name": "zeropnl",
+    "tag": "Overall",
+    "overall_gain": 6029.782578397031,
+    "active_positions": 2,
+    "win_amount": 6194.977866466467,
+    "loss_amount": -165.19528806943592,
+    "win_rate": 0.5,
+    "total_current_value": 2497.4814320000005,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 15939,
+    "trader_tags": ""
   }
 ]
