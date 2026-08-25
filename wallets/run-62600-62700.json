@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 62689,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17342b8f081d25c3019d066f57337e3cfe01b77a",
+    "trader_name": "xtvj",
+    "tag": "Overall",
+    "overall_gain": 1005.2210920990333,
+    "active_positions": 2,
+    "win_amount": 1257.7950560990332,
+    "loss_amount": -252.57396399999985,
+    "win_rate": 0.6538461538461539,
+    "total_current_value": 1955.5900330000002,
+    "total_positions": 39,
+    "event_ct": 26,
+    "win_count": 17,
+    "rank": 62690,
+    "trader_tags": "> 1 year old"
   }
 ]
