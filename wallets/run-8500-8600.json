@@ -270,5 +270,21 @@
     "win_count": 316,
     "rank": 8517,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x371edb77f5dc8951dd9d078c3285c6fcd2bcb4be",
+    "trader_name": "warking",
+    "tag": "Overall",
+    "overall_gain": 12294.578389186194,
+    "active_positions": 30,
+    "win_amount": 23036.686503494602,
+    "loss_amount": -10742.108114308408,
+    "win_rate": 0.45365853658536587,
+    "total_current_value": 11.5023555115,
+    "total_positions": 217,
+    "event_ct": 205,
+    "win_count": 93,
+    "rank": 8518,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
