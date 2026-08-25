@@ -702,5 +702,21 @@
     "win_count": 22,
     "rank": 61545,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x43fc5e0e4db72df237dfc9a0ab79b7214ace51c6",
+    "trader_name": "Sam.Young",
+    "tag": "Overall",
+    "overall_gain": 1033.724367990736,
+    "active_positions": 7,
+    "win_amount": 3824.499987610736,
+    "loss_amount": -2790.7756196200003,
+    "win_rate": 0.9736229635376261,
+    "total_current_value": 817.470948,
+    "total_positions": 2528,
+    "event_ct": 1289,
+    "win_count": 1255,
+    "rank": 61546,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
