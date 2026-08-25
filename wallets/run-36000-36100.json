@@ -958,5 +958,21 @@
     "win_count": 3,
     "rank": 36061,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93da91a8dcf81e0648c767f49e3833a0b2483ed2",
+    "trader_name": "maudcassincc",
+    "tag": "Overall",
+    "overall_gain": 2258.7552969999997,
+    "active_positions": 1,
+    "win_amount": 2258.7552969999997,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 2776.995,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 36062,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
