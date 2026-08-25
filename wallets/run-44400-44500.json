@@ -830,5 +830,21 @@
     "win_count": 12,
     "rank": 44453,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x967f0c13d22b608903604978b5d937dc2cddbcd0",
+    "trader_name": "Satoros",
+    "tag": "Overall",
+    "overall_gain": 1739.7259382937943,
+    "active_positions": 10,
+    "win_amount": 15397.239959638027,
+    "loss_amount": -13657.51402134423,
+    "win_rate": 0.6458333333333334,
+    "total_current_value": 620.4464005000001,
+    "total_positions": 56,
+    "event_ct": 48,
+    "win_count": 31,
+    "rank": 44454,
+    "trader_tags": "> 1 year old"
   }
 ]
