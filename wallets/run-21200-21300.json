@@ -1198,5 +1198,21 @@
     "win_count": 3,
     "rank": 21275,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x417932e0387b74c347831e7eb7ed9d7c962c0bbb",
+    "trader_name": "BY100 - 1991",
+    "tag": "Overall",
+    "overall_gain": 4289.933080784346,
+    "active_positions": 0,
+    "win_amount": 55765.29188024813,
+    "loss_amount": -51475.35879946379,
+    "win_rate": 0.632768361581921,
+    "total_current_value": 0,
+    "total_positions": 194,
+    "event_ct": 177,
+    "win_count": 112,
+    "rank": 21276,
+    "trader_tags": "> 1 year old"
   }
 ]
