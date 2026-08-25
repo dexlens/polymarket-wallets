@@ -734,5 +734,21 @@
     "win_count": 10,
     "rank": 5046,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xad9256e46c707e2df441b5f3db2fea8586d188e2",
+    "trader_name": "copyer",
+    "tag": "Overall",
+    "overall_gain": 21431.639700779346,
+    "active_positions": 1,
+    "win_amount": 46695.851551,
+    "loss_amount": -25264.21185022065,
+    "win_rate": 0.23529411764705882,
+    "total_current_value": 0.00736,
+    "total_positions": 26,
+    "event_ct": 17,
+    "win_count": 4,
+    "rank": 5047,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
