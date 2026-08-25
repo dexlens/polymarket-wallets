@@ -686,5 +686,21 @@
     "win_count": 5,
     "rank": 56944,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5fa03d397355aac67c263e7219cf435e129dc20f",
+    "trader_name": "moonthat",
+    "tag": "Overall",
+    "overall_gain": 1181.234640079177,
+    "active_positions": 0,
+    "win_amount": 1181.234640079177,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.08018600000000001,
+    "total_positions": 15,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 56945,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
