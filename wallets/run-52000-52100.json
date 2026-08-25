@@ -286,5 +286,21 @@
     "win_count": 1,
     "rank": 52019,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x106fe70d080f1a265738d935e7f10a1f7d4583d5",
+    "trader_name": "Hossa",
+    "tag": "Overall",
+    "overall_gain": 1391.590880988357,
+    "active_positions": 12,
+    "win_amount": 2091.9736336262795,
+    "loss_amount": -700.382752637923,
+    "win_rate": 0.48,
+    "total_current_value": 100.016671,
+    "total_positions": 92,
+    "event_ct": 50,
+    "win_count": 24,
+    "rank": 52020,
+    "trader_tags": "> 1 year old"
   }
 ]
