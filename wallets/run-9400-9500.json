@@ -1310,5 +1310,21 @@
     "win_count": 280,
     "rank": 9482,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x064ef5b9258726f9c63a41645a28b4a9605688db",
+    "trader_name": "vrvivyocbx",
+    "tag": "Overall",
+    "overall_gain": 11051.89267187335,
+    "active_positions": 3,
+    "win_amount": 11139.769306942115,
+    "loss_amount": -87.876635068764,
+    "win_rate": 0.56,
+    "total_current_value": 0.144697,
+    "total_positions": 49,
+    "event_ct": 25,
+    "win_count": 14,
+    "rank": 9483,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
