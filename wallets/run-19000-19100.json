@@ -942,5 +942,21 @@
     "win_count": 6,
     "rank": 19059,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x273dbcb143b7759c3ce2b6bac8a511ffa49fd0ed",
+    "trader_name": "hol-div",
+    "tag": "Overall",
+    "overall_gain": 4880.756336474331,
+    "active_positions": 7,
+    "win_amount": 8034.696887269847,
+    "loss_amount": -3153.940550795516,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 14874.0085142215,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 19060,
+    "trader_tags": ""
   }
 ]
