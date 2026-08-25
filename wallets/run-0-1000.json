@@ -3438,5 +3438,21 @@
     "win_count": 2,
     "rank": 215,
     "trader_tags": "Overall PnL > $100k"
+  },
+  {
+    "trader": "0x629bc4a1e53e1d475beb7ea3d388791e96dd995a",
+    "trader_name": "lava-lava",
+    "tag": "Overall",
+    "overall_gain": 563167.5865325104,
+    "active_positions": 259,
+    "win_amount": 1150876.8059364099,
+    "loss_amount": -587709.2194038995,
+    "win_rate": 0.6036036036036037,
+    "total_current_value": 249334.05613846643,
+    "total_positions": 1064,
+    "event_ct": 444,
+    "win_count": 268,
+    "rank": 216,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions; Politics PnL > $100k"
   }
 ]
