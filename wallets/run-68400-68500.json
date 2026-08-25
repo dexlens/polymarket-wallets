@@ -446,5 +446,21 @@
     "win_count": 286,
     "rank": 68429,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdcedd12c86bde2191bff2e54dca1ae7096d3adbe",
+    "trader_name": "Hazeflag",
+    "tag": "Overall",
+    "overall_gain": 850.3001000000002,
+    "active_positions": 4,
+    "win_amount": 2858.44,
+    "loss_amount": -2008.1399,
+    "win_rate": 0.2,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 1,
+    "rank": 68430,
+    "trader_tags": ""
   }
 ]
