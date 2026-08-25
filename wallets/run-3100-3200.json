@@ -1166,5 +1166,21 @@
     "win_count": 24,
     "rank": 3173,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97d25b738e2bb65619b4c8435aea9b513c09e372",
+    "trader_name": "xCrypton",
+    "tag": "Overall",
+    "overall_gain": 36109.58954810781,
+    "active_positions": 0,
+    "win_amount": 100269.71463517314,
+    "loss_amount": -64160.1250870653,
+    "win_rate": 0.7092198581560284,
+    "total_current_value": 0.65479,
+    "total_positions": 202,
+    "event_ct": 141,
+    "win_count": 100,
+    "rank": 3174,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
