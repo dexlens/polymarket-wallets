@@ -862,5 +862,21 @@
     "win_count": 12,
     "rank": 6454,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x539d01b1c4d860570a3ea35aaf87168a1f351e69",
+    "trader_name": "fitmk",
+    "tag": "Overall",
+    "overall_gain": 16574.949005505958,
+    "active_positions": 4,
+    "win_amount": 26484.128029545835,
+    "loss_amount": -9909.179024039879,
+    "win_rate": 0.5625,
+    "total_current_value": 42427.26282882999,
+    "total_positions": 17,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 6455,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
