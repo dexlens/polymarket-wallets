@@ -1422,5 +1422,21 @@
     "win_count": 30,
     "rank": 9389,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa1250faf1ffa6daed2e4dbf61c2b0304d6aafc55",
+    "trader_name": "oabdalla",
+    "tag": "Overall",
+    "overall_gain": 11159.658575748657,
+    "active_positions": 2,
+    "win_amount": 11159.658575748657,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 15195.742130754003,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 9390,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
