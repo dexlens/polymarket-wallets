@@ -494,5 +494,21 @@
     "win_count": 5,
     "rank": 39632,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b9a92bcab51652475067a8198593c890645a06b",
+    "trader_name": "BloodFallen",
+    "tag": "Overall",
+    "overall_gain": 2013.9595813123458,
+    "active_positions": 2,
+    "win_amount": 4948.120455181189,
+    "loss_amount": -2934.160873868843,
+    "win_rate": 0.5233644859813084,
+    "total_current_value": 38.47341260699999,
+    "total_positions": 734,
+    "event_ct": 321,
+    "win_count": 168,
+    "rank": 39633,
+    "trader_tags": "> 1 year old"
   }
 ]
