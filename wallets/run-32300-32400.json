@@ -174,5 +174,21 @@
     "win_count": 4,
     "rank": 32312,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7ed81ebb1285b39c715368153b52fad79fb8e9a8",
+    "trader_name": "Cordven",
+    "tag": "Overall",
+    "overall_gain": 2570.4399999999996,
+    "active_positions": 1,
+    "win_amount": 2570.4399999999996,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 32313,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
