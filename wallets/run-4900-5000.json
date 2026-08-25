@@ -910,5 +910,21 @@
     "win_count": 3660,
     "rank": 4957,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x7a8b62f5fc252293bf3f43b374ff879e1a4d9fd1",
+    "trader_name": "friedr",
+    "tag": "Overall",
+    "overall_gain": 21873.309815999997,
+    "active_positions": 1,
+    "win_amount": 21940.429814999996,
+    "loss_amount": -67.119999,
+    "win_rate": 0.7027027027027027,
+    "total_current_value": 2.992,
+    "total_positions": 46,
+    "event_ct": 37,
+    "win_count": 26,
+    "rank": 4958,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
