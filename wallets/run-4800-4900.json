@@ -94,5 +94,21 @@
     "win_count": 24,
     "rank": 4806,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8f546394702cf5f20bf8cfa963b876fa6d2a99d8",
+    "trader_name": "Trivena",
+    "tag": "Overall",
+    "overall_gain": 22625.82540180385,
+    "active_positions": 1,
+    "win_amount": 22911.375391985704,
+    "loss_amount": -285.54999018185697,
+    "win_rate": 0.9375,
+    "total_current_value": 0.000307,
+    "total_positions": 58,
+    "event_ct": 48,
+    "win_count": 45,
+    "rank": 4807,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
