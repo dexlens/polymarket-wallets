@@ -1406,5 +1406,21 @@
     "win_count": 8,
     "rank": 20988,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8301ba6b12c7872de2966375960ef12d628e3bdc",
+    "trader_name": "tiancs",
+    "tag": "Overall",
+    "overall_gain": 4366.844924268928,
+    "active_positions": 26761,
+    "win_amount": 18766.668253966687,
+    "loss_amount": -14399.823329697763,
+    "win_rate": 0.0337591768310307,
+    "total_current_value": 605.69094325,
+    "total_positions": 27630,
+    "event_ct": 17299,
+    "win_count": 584,
+    "rank": 20989,
+    "trader_tags": "1k+ Positions"
   }
 ]
