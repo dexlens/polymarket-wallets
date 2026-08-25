@@ -814,5 +814,21 @@
     "win_count": 401,
     "rank": 2151,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x31c82fd17dc00883606cb7e8b62a114c740ec481",
+    "trader_name": "Levinnn",
+    "tag": "Overall",
+    "overall_gain": 56111.26124606936,
+    "active_positions": 0,
+    "win_amount": 118286.11898791984,
+    "loss_amount": -62174.857741850465,
+    "win_rate": 0.5882352941176471,
+    "total_current_value": 0.156467,
+    "total_positions": 75,
+    "event_ct": 68,
+    "win_count": 40,
+    "rank": 2152,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
