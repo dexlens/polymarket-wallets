@@ -158,5 +158,21 @@
     "win_count": 2,
     "rank": 73311,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x153fa2607bd9b27fd695f7303ab64eacfb1bcb27",
+    "trader_name": "hellstaff",
+    "tag": "Overall",
+    "overall_gain": 738.87590650195,
+    "active_positions": 0,
+    "win_amount": 738.87590650195,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00195,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 73312,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
