@@ -190,5 +190,21 @@
     "win_count": 14,
     "rank": 3712,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d8768eb48356ab2781dcceb59a7d8b30f04edfc",
+    "trader_name": "Olveon",
+    "tag": "Overall",
+    "overall_gain": 30717.155880477476,
+    "active_positions": 3,
+    "win_amount": 31953.521662000003,
+    "loss_amount": -1236.365781522527,
+    "win_rate": 0.8378378378378378,
+    "total_current_value": 0,
+    "total_positions": 43,
+    "event_ct": 37,
+    "win_count": 31,
+    "rank": 3713,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
