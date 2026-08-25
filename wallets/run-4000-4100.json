@@ -334,5 +334,21 @@
     "win_count": 29,
     "rank": 4021,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x75e091ca3f8e5481c2166c82fba0669e3a65fe50",
+    "trader_name": "FordBronco",
+    "tag": "Overall",
+    "overall_gain": 27887.304162465887,
+    "active_positions": 2,
+    "win_amount": 73633.52442,
+    "loss_amount": -45746.22025753412,
+    "win_rate": 0.6015625,
+    "total_current_value": 0,
+    "total_positions": 217,
+    "event_ct": 128,
+    "win_count": 77,
+    "rank": 4022,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
