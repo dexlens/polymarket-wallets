@@ -542,5 +542,21 @@
     "win_count": 105,
     "rank": 13234,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x86c762f33b6322937eeded7c31ed1024dabde3d2",
+    "trader_name": "stepa",
+    "tag": "Overall",
+    "overall_gain": 7581.197949791099,
+    "active_positions": 0,
+    "win_amount": 8885.136153715099,
+    "loss_amount": -1303.938203924,
+    "win_rate": 0.6,
+    "total_current_value": 0.028284,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 13235,
+    "trader_tags": "> 1 year old"
   }
 ]
