@@ -94,5 +94,21 @@
     "win_count": 13,
     "rank": 19806,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07ee1c1794d2fa946fca61e6858bf6d8d68d6d5a",
+    "trader_name": "btc15m",
+    "tag": "Overall",
+    "overall_gain": 4676.6543232099,
+    "active_positions": 14,
+    "win_amount": 8305.0509631825,
+    "loss_amount": -3628.3966399725996,
+    "win_rate": 0.9546625450798557,
+    "total_current_value": 41.49828700000001,
+    "total_positions": 2082,
+    "event_ct": 1941,
+    "win_count": 1853,
+    "rank": 19807,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
