@@ -798,5 +798,21 @@
     "win_count": 39,
     "rank": 3150,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ac23ecacbf3dca0dfae6ee5183c5dcdfbce7b23",
+    "trader_name": "discobao",
+    "tag": "Overall",
+    "overall_gain": 36336.01499219803,
+    "active_positions": 10,
+    "win_amount": 41292.23607760771,
+    "loss_amount": -4956.221085409685,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 13.7330334925,
+    "total_positions": 80,
+    "event_ct": 26,
+    "win_count": 24,
+    "rank": 3151,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
