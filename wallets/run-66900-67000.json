@@ -158,5 +158,21 @@
     "win_count": 10,
     "rank": 66911,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4915e426c10f516c81ca60e0e9e20850b38ce650",
+    "trader_name": "billy-mk",
+    "tag": "Overall",
+    "overall_gain": 891.65363973,
+    "active_positions": 0,
+    "win_amount": 891.65363973,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0009660000000000001,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 66912,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
