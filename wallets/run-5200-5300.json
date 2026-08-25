@@ -702,5 +702,21 @@
     "win_count": 33,
     "rank": 5244,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f4aba236f9909a628aa0cfda09943dba8821b76",
+    "trader_name": "KingAlbertPark",
+    "tag": "Overall",
+    "overall_gain": 20688.582800540513,
+    "active_positions": 0,
+    "win_amount": 30739.582791540513,
+    "loss_amount": -10050.999991,
+    "win_rate": 0.875,
+    "total_current_value": 0.007511,
+    "total_positions": 118,
+    "event_ct": 24,
+    "win_count": 21,
+    "rank": 5245,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
