@@ -622,5 +622,21 @@
     "win_count": 16,
     "rank": 7839,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x71836e3fb551e09ab57789b48d3128507069c6c1",
+    "trader_name": "kyledavies",
+    "tag": "Overall",
+    "overall_gain": 13444.782797435328,
+    "active_positions": 0,
+    "win_amount": 13444.782797435328,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006723,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 7840,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
