@@ -1134,5 +1134,21 @@
     "win_count": 8,
     "rank": 61072,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x55f6be4764a91fcba5c8ccbe1fd99226c1d5d09d",
+    "trader_name": "vafad",
+    "tag": "Overall",
+    "overall_gain": 1045.730494,
+    "active_positions": 1,
+    "win_amount": 2544.230494,
+    "loss_amount": -1498.5,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 61073,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
