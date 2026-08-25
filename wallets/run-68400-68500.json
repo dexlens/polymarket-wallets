@@ -894,5 +894,21 @@
     "win_count": 122,
     "rank": 68457,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a8cda744a7fffb4b6f938c5a2bcbafb58248c69",
+    "trader_name": "hyperilliquid",
+    "tag": "Overall",
+    "overall_gain": 849.508511116125,
+    "active_positions": 0,
+    "win_amount": 1209.917228116125,
+    "loss_amount": -360.408717,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0.015199,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 68458,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
