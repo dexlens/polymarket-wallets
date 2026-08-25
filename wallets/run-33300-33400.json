@@ -1502,5 +1502,21 @@
     "win_count": 5,
     "rank": 33395,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73007f0380b982ea61c55e726872cad2e59daff0",
+    "trader_name": "ajsgd786",
+    "tag": "Overall",
+    "overall_gain": 2474.074548328683,
+    "active_positions": 5,
+    "win_amount": 3686.426412783551,
+    "loss_amount": -1212.351864454868,
+    "win_rate": 0.6585365853658537,
+    "total_current_value": 191.883203639,
+    "total_positions": 143,
+    "event_ct": 82,
+    "win_count": 54,
+    "rank": 33396,
+    "trader_tags": ""
   }
 ]
