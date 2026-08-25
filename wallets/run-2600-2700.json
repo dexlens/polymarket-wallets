@@ -894,5 +894,21 @@
     "win_count": 2,
     "rank": 2656,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x50f3e0745cb8bef421bdaa403b1b70f5d1d8cfbf",
+    "trader_name": "PainStreetCapital",
+    "tag": "Overall",
+    "overall_gain": 43864.089312030315,
+    "active_positions": 74,
+    "win_amount": 174328.8758620287,
+    "loss_amount": -130464.78654999837,
+    "win_rate": 0.5433965562450834,
+    "total_current_value": 17217.418013770002,
+    "total_positions": 22857,
+    "event_ct": 11441,
+    "win_count": 6217,
+    "rank": 2657,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
