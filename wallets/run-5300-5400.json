@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 5344,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcbd6021089ba593cc30ee76081bcd0803a945f73",
+    "trader_name": "MarkRobusto58",
+    "tag": "Overall",
+    "overall_gain": 20243.96426555385,
+    "active_positions": 82,
+    "win_amount": 29926.227480964393,
+    "loss_amount": -9682.263215410552,
+    "win_rate": 0.6233766233766234,
+    "total_current_value": 5048.619781,
+    "total_positions": 423,
+    "event_ct": 77,
+    "win_count": 48,
+    "rank": 5345,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
