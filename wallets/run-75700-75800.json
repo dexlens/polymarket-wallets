@@ -1262,5 +1262,21 @@
     "win_count": 3,
     "rank": 75780,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8de49e6df2109a2e1eaa2c5e0e6be97468a6e44e",
+    "trader_name": "Medina",
+    "tag": "Overall",
+    "overall_gain": 702.8444247477898,
+    "active_positions": 11,
+    "win_amount": 1861.0014119194918,
+    "loss_amount": -1158.156987171702,
+    "win_rate": 0.45,
+    "total_current_value": 1398.8616428449998,
+    "total_positions": 26,
+    "event_ct": 20,
+    "win_count": 9,
+    "rank": 75781,
+    "trader_tags": "> 1 year old"
   }
 ]
