@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 76990,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58b43d0f4c168fdc547de195c46f1eeef58fd342",
+    "trader_name": "funkerman",
+    "tag": "Overall",
+    "overall_gain": 682.076940534355,
+    "active_positions": 2,
+    "win_amount": 2232.41500995871,
+    "loss_amount": -1550.3380694243542,
+    "win_rate": 0.6509584664536742,
+    "total_current_value": 11.917845119999999,
+    "total_positions": 1299,
+    "event_ct": 1252,
+    "win_count": 815,
+    "rank": 76991,
+    "trader_tags": "1k+ Positions"
   }
 ]
