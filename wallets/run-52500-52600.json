@@ -926,5 +926,21 @@
     "win_count": 16,
     "rank": 52559,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5d1b574680ca0d168aa1e40680aed46474d7e450",
+    "trader_name": "jupiter134",
+    "tag": "Overall",
+    "overall_gain": 1366.5594832332022,
+    "active_positions": 2,
+    "win_amount": 1388.0694743625002,
+    "loss_amount": -21.509991129298,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 52560,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
