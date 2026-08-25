@@ -1358,5 +1358,21 @@
     "win_count": 5,
     "rank": 5185,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1864f4dbd81d879abed72141beced843f932f296",
+    "trader_name": "Nexial",
+    "tag": "Overall",
+    "overall_gain": 20868.46074413127,
+    "active_positions": 2,
+    "win_amount": 21186.832744131272,
+    "loss_amount": -318.372,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 0.000272,
+    "total_positions": 32,
+    "event_ct": 29,
+    "win_count": 26,
+    "rank": 5186,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
