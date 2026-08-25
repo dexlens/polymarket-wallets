@@ -1182,5 +1182,21 @@
     "win_count": 5,
     "rank": 3574,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c9233e5b93bdc9ddc202079a426bc4a6f2bebd9",
+    "trader_name": "VoidEclipse",
+    "tag": "Overall",
+    "overall_gain": 31825.98488622516,
+    "active_positions": 1,
+    "win_amount": 35538.342203952685,
+    "loss_amount": -3712.357317727522,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 42417.1646317175,
+    "total_positions": 28,
+    "event_ct": 17,
+    "win_count": 14,
+    "rank": 3575,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
