@@ -1502,5 +1502,21 @@
     "win_count": 11,
     "rank": 22894,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa11d04be6fe8dfebd4ff9021cf45115c0d6e72a8",
+    "trader_name": "ThanksTrump",
+    "tag": "Overall",
+    "overall_gain": 3939.790050880766,
+    "active_positions": 36,
+    "win_amount": 21819.497686789997,
+    "loss_amount": -17879.70763590924,
+    "win_rate": 0.5098039215686274,
+    "total_current_value": 1099.807299476,
+    "total_positions": 343,
+    "event_ct": 306,
+    "win_count": 156,
+    "rank": 22895,
+    "trader_tags": "< 30 days old"
   }
 ]
