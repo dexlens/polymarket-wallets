@@ -478,5 +478,21 @@
     "win_count": 5,
     "rank": 9230,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e3d284ad1011f7c841b0c60e50ab1b0fbe05233",
+    "trader_name": "Chunnybear",
+    "tag": "Overall",
+    "overall_gain": 11353.839918250686,
+    "active_positions": 1,
+    "win_amount": 16753.571252272708,
+    "loss_amount": -5399.731334022027,
+    "win_rate": 0.8484848484848485,
+    "total_current_value": 14.533933000000001,
+    "total_positions": 104,
+    "event_ct": 33,
+    "win_count": 28,
+    "rank": 9231,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
