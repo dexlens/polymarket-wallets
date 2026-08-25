@@ -110,5 +110,21 @@
     "win_count": 6,
     "rank": 4507,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe577ed7bd19e6403a9d7347970d6fe049015f024",
+    "trader_name": "shane1",
+    "tag": "Overall",
+    "overall_gain": 24416.59881177818,
+    "active_positions": 2,
+    "win_amount": 38142.66323386132,
+    "loss_amount": -13726.064422083142,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.26735038450000004,
+    "total_positions": 20,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 4508,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
