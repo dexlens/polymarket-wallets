@@ -974,5 +974,21 @@
     "win_count": 3,
     "rank": 40162,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18e32f819d7b10db79e9509fc6f983f3a02f08f2",
+    "trader_name": "hsdddx",
+    "tag": "Overall",
+    "overall_gain": 1985.8587757474018,
+    "active_positions": 11,
+    "win_amount": 2566.8418632158523,
+    "loss_amount": -580.983087468451,
+    "win_rate": 0.8787878787878788,
+    "total_current_value": 13.044274962000001,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 29,
+    "rank": 40163,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
