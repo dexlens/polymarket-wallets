@@ -110,5 +110,21 @@
     "win_count": 54,
     "rank": 5107,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x69ddcbd8237d53ed081dc586a184b27464931964",
+    "trader_name": "Poeloep",
+    "tag": "Overall",
+    "overall_gain": 21202.079442177495,
+    "active_positions": 102,
+    "win_amount": 66700.90796273308,
+    "loss_amount": -45498.82852055555,
+    "win_rate": 0.5785340314136126,
+    "total_current_value": 0.6848975254999999,
+    "total_positions": 443,
+    "event_ct": 382,
+    "win_count": 221,
+    "rank": 5108,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
