@@ -414,5 +414,21 @@
     "win_count": 29,
     "rank": 80027,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x64be692e677443ecf7953593d0569cc4df1378a8",
+    "trader_name": "toshito000",
+    "tag": "Overall",
+    "overall_gain": 630.2208451989841,
+    "active_positions": 1,
+    "win_amount": 630.2208451989841,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1400.20972143,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 80028,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
