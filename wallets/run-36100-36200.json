@@ -1070,5 +1070,21 @@
     "win_count": 8,
     "rank": 36168,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x861fcbba79bc1da44f77da7f9b94af984332f103",
+    "trader_name": "ChaosThleory",
+    "tag": "Overall",
+    "overall_gain": 2249.8677718244253,
+    "active_positions": 16,
+    "win_amount": 15000.867719155849,
+    "loss_amount": -12750.999947331424,
+    "win_rate": 0.7708333333333334,
+    "total_current_value": 5.111663,
+    "total_positions": 48,
+    "event_ct": 48,
+    "win_count": 37,
+    "rank": 36169,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
