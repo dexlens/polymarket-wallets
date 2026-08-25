@@ -366,5 +366,21 @@
     "win_count": 9,
     "rank": 20223,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4bbfdd0d844bc5e1c97e4049162578d6e7a8a331",
+    "trader_name": "HANK807",
+    "tag": "Overall",
+    "overall_gain": 4570.0355819999995,
+    "active_positions": 21,
+    "win_amount": 6342.635582,
+    "loss_amount": -1772.6,
+    "win_rate": 0.676923076923077,
+    "total_current_value": 0,
+    "total_positions": 65,
+    "event_ct": 65,
+    "win_count": 44,
+    "rank": 20224,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
