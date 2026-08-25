@@ -382,5 +382,21 @@
     "win_count": 10,
     "rank": 71425,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16915bf4ffa5d58978303f6cde1861b7f686f891",
+    "trader_name": "Maniaxj",
+    "tag": "Overall",
+    "overall_gain": 779.2805757440269,
+    "active_positions": 1,
+    "win_amount": 2704.8487852773505,
+    "loss_amount": -1925.5682095333232,
+    "win_rate": 0.7,
+    "total_current_value": 90.48596935,
+    "total_positions": 73,
+    "event_ct": 70,
+    "win_count": 49,
+    "rank": 71426,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
