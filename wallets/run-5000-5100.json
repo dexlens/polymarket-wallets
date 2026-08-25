@@ -1022,5 +1022,21 @@
     "win_count": 22,
     "rank": 5064,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ce4fce85485bb75d78efb198a2d2fab4a43fbd1",
+    "trader_name": "That.Black.Guy",
+    "tag": "Overall",
+    "overall_gain": 21387.569525766787,
+    "active_positions": 4,
+    "win_amount": 35215.6612431362,
+    "loss_amount": -13828.091717369409,
+    "win_rate": 0.5,
+    "total_current_value": 226175.33331081903,
+    "total_positions": 119,
+    "event_ct": 90,
+    "win_count": 45,
+    "rank": 5065,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
