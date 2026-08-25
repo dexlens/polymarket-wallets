@@ -1518,5 +1518,21 @@
     "win_count": 30,
     "rank": 2995,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x82a7183f93447d7a8ff5b4bd08eb0d74de266ed8",
+    "trader_name": "Dripx",
+    "tag": "Overall",
+    "overall_gain": 38328.375769567865,
+    "active_positions": 3,
+    "win_amount": 38351.310069567866,
+    "loss_amount": -22.934299999999993,
+    "win_rate": 0.9666666666666667,
+    "total_current_value": 187473.9232296095,
+    "total_positions": 38,
+    "event_ct": 30,
+    "win_count": 29,
+    "rank": 2996,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
