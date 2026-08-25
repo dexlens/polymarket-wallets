@@ -1086,5 +1086,21 @@
     "win_count": 3523,
     "rank": 5268,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x7cfb4bd76e18de87a8d950800d143b323dcdbaba",
+    "trader_name": "Sura",
+    "tag": "Overall",
+    "overall_gain": 20586.768598528255,
+    "active_positions": 1,
+    "win_amount": 20641.138020000002,
+    "loss_amount": -54.369421471746,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 5269,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
