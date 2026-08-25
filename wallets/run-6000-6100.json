@@ -1038,5 +1038,21 @@
     "win_count": 4,
     "rank": 6065,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3016cc996aa36610f8f89645d7ea2e4771075ce3",
+    "trader_name": "lominous",
+    "tag": "Overall",
+    "overall_gain": 17687.02436101302,
+    "active_positions": 3,
+    "win_amount": 17741.673293,
+    "loss_amount": -54.648931986975995,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 26,
+    "win_count": 14,
+    "rank": 6066,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
