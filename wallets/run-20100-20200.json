@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 20188,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a272bca8966041db611170d2464526c3eabf9fa",
+    "trader_name": "selfmaster",
+    "tag": "Overall",
+    "overall_gain": 4577.681952172579,
+    "active_positions": 482,
+    "win_amount": 38856.11403344258,
+    "loss_amount": -34278.432081269995,
+    "win_rate": 0.5217821782178218,
+    "total_current_value": 0.11724200000000001,
+    "total_positions": 1010,
+    "event_ct": 1010,
+    "win_count": 527,
+    "rank": 20189,
+    "trader_tags": "1k+ Positions"
   }
 ]
