@@ -1374,5 +1374,21 @@
     "win_count": 197,
     "rank": 29387,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7f78a224856bdec30a2ae56983ff5092413bd1dc",
+    "trader_name": "Passive-Cattle",
+    "tag": "Overall",
+    "overall_gain": 2896.99615003584,
+    "active_positions": 0,
+    "win_amount": 2896.99615003584,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.69968,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 29388,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
