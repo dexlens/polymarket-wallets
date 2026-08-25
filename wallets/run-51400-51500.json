@@ -350,5 +350,21 @@
     "win_count": 11,
     "rank": 51423,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x326561306aa31c91f80e65b764b1871581c50bc5",
+    "trader_name": "00SevenB",
+    "tag": "Overall",
+    "overall_gain": 1418.630149685395,
+    "active_positions": 2,
+    "win_amount": 1463.408237802323,
+    "loss_amount": -44.778088116928,
+    "win_rate": 0.9523809523809523,
+    "total_current_value": 7856.383537,
+    "total_positions": 25,
+    "event_ct": 21,
+    "win_count": 20,
+    "rank": 51424,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
