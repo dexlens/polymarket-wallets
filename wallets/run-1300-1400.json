@@ -1486,5 +1486,21 @@
     "win_count": 263,
     "rank": 1393,
     "trader_tags": "Overall PnL > $10k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x45d77f9e9a3215fa5aaf74888ba22348c340bc74",
+    "trader_name": "LUNA5",
+    "tag": "Overall",
+    "overall_gain": 87051.072944,
+    "active_positions": 4,
+    "win_amount": 96332.90603999999,
+    "loss_amount": -9281.833095999998,
+    "win_rate": 0.8375,
+    "total_current_value": 79.80000000000001,
+    "total_positions": 94,
+    "event_ct": 80,
+    "win_count": 67,
+    "rank": 1394,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
