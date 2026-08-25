@@ -862,5 +862,21 @@
     "win_count": 15,
     "rank": 65555,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x28b34115b7fcee21e48666388695d51b9dbcbc1a",
+    "trader_name": "KangBokSoon",
+    "tag": "Overall",
+    "overall_gain": 929.1256456923489,
+    "active_positions": 7,
+    "win_amount": 949.805940692349,
+    "loss_amount": -20.680294999999997,
+    "win_rate": 0.9622641509433962,
+    "total_current_value": 178.734398816,
+    "total_positions": 68,
+    "event_ct": 53,
+    "win_count": 51,
+    "rank": 65556,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
