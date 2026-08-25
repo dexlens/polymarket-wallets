@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 54894,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37c4550cde29bea9f4f21e9f49a930ff34e3b99a",
+    "trader_name": "Klausger",
+    "tag": "Overall",
+    "overall_gain": 1264.4605520809998,
+    "active_positions": 1,
+    "win_amount": 1264.4605520809998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 651.676913,
+    "total_positions": 122,
+    "event_ct": 51,
+    "win_count": 51,
+    "rank": 54895,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
