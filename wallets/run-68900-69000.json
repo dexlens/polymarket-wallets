@@ -1278,5 +1278,21 @@
     "win_count": 4,
     "rank": 68981,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x240f5d61bdd408362237fba7b7321aa92d875279",
+    "trader_name": "Plains2",
+    "tag": "Overall",
+    "overall_gain": 835.5,
+    "active_positions": 0,
+    "win_amount": 835.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 68982,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
