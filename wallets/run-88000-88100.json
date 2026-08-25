@@ -638,5 +638,21 @@
     "win_count": 126,
     "rank": 88041,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8f0b73a59745b98c2ec765449578d9b102ea28b0",
+    "trader_name": "jakewan",
+    "tag": "Overall",
+    "overall_gain": 512.502795224992,
+    "active_positions": 8,
+    "win_amount": 1145.891455443844,
+    "loss_amount": -633.3886602188519,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0.008951,
+    "total_positions": 37,
+    "event_ct": 34,
+    "win_count": 24,
+    "rank": 88042,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
