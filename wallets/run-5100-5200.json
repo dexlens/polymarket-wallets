@@ -510,5 +510,21 @@
     "win_count": 8,
     "rank": 5132,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x141c0e457c8bca38bb700ad38ac9636eb6e57154",
+    "trader_name": "nedeshevka",
+    "tag": "Overall",
+    "overall_gain": 21102.25465706465,
+    "active_positions": 0,
+    "win_amount": 82222.84984471864,
+    "loss_amount": -61120.595187654,
+    "win_rate": 0.5066666666666667,
+    "total_current_value": 0.5731559149999998,
+    "total_positions": 1051,
+    "event_ct": 600,
+    "win_count": 304,
+    "rank": 5133,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
