@@ -62,5 +62,21 @@
     "win_count": 21,
     "rank": 53005,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x4ca3307195dc93aaa29c811e73a1196027e4d3c8",
+    "trader_name": "bondoor",
+    "tag": "Overall",
+    "overall_gain": 1347.73549560331,
+    "active_positions": 8,
+    "win_amount": 3637.227119658951,
+    "loss_amount": -2289.4916240556413,
+    "win_rate": 0.8833333333333333,
+    "total_current_value": 10500.097023999999,
+    "total_positions": 62,
+    "event_ct": 60,
+    "win_count": 53,
+    "rank": 53006,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
