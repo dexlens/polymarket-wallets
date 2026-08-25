@@ -590,5 +590,21 @@
     "win_count": 5,
     "rank": 22137,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89d7ba6d44ade0f55eadb4786b6cb8739a783fab",
+    "trader_name": "TheFantasticFour",
+    "tag": "Overall",
+    "overall_gain": 4090.7683135983975,
+    "active_positions": 2,
+    "win_amount": 8504.333393306002,
+    "loss_amount": -4413.565079707604,
+    "win_rate": 0.7,
+    "total_current_value": 0.051149,
+    "total_positions": 27,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 22138,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
