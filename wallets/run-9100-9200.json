@@ -1326,5 +1326,21 @@
     "win_count": 411,
     "rank": 9183,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x7b68cc92ef950feb73fc86f270d1245e77ab3f98",
+    "trader_name": "orlandorer",
+    "tag": "Overall",
+    "overall_gain": 11412,
+    "active_positions": 0,
+    "win_amount": 11412,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9184,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
