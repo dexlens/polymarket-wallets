@@ -334,5 +334,21 @@
     "win_count": 3,
     "rank": 58022,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x11de24c11bb1875857559b8ece6ad8a3438c1408",
+    "trader_name": "GRGRAA",
+    "tag": "Overall",
+    "overall_gain": 1142.036865628047,
+    "active_positions": 2,
+    "win_amount": 1158.910952341937,
+    "loss_amount": -16.87408671389,
+    "win_rate": 0.8,
+    "total_current_value": 0.020997000000000002,
+    "total_positions": 17,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 58023,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
