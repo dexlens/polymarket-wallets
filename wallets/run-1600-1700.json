@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 1681,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb5832595061a9ac5487d0100e7f56e3a4462b0b3",
+    "trader_name": "LeArb",
+    "tag": "Overall",
+    "overall_gain": 73119.3186834728,
+    "active_positions": 90,
+    "win_amount": 224365.71511019956,
+    "loss_amount": -151246.39642672657,
+    "win_rate": 0.5983606557377049,
+    "total_current_value": 12653.034270076501,
+    "total_positions": 292,
+    "event_ct": 244,
+    "win_count": 146,
+    "rank": 1682,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
