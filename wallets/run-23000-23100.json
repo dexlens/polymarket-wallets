@@ -670,5 +670,21 @@
     "win_count": 2,
     "rank": 23042,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc0dc9f17882a73e27ddde09701428060b9fe42b7",
+    "trader_name": "xxeth",
+    "tag": "Overall",
+    "overall_gain": 3910.6790546276543,
+    "active_positions": 4,
+    "win_amount": 4207.297947703942,
+    "loss_amount": -296.61889307628803,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 9332.158886110996,
+    "total_positions": 44,
+    "event_ct": 30,
+    "win_count": 26,
+    "rank": 23043,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
