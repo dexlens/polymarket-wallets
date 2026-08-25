@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 59843,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7bd69dce12e0c5c089c910f9f2dedae13738c48",
+    "trader_name": "electionmaster",
+    "tag": "Overall",
+    "overall_gain": 1081.068783473022,
+    "active_positions": 1,
+    "win_amount": 7891.987612226892,
+    "loss_amount": -6810.91882875387,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0.025844,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 59844,
+    "trader_tags": ""
   }
 ]
