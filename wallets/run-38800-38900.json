@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 38869,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x535c23380a9bc0c9652ed6b3ae77d8f7cdf296ba",
+    "trader_name": "ponczyk",
+    "tag": "Overall",
+    "overall_gain": 2061.645604326948,
+    "active_positions": 0,
+    "win_amount": 2532.541626964113,
+    "loss_amount": -470.896022637165,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.07905257500000001,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 38870,
+    "trader_tags": "> 1 year old"
   }
 ]
