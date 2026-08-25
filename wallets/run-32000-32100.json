@@ -638,5 +638,21 @@
     "win_count": 7,
     "rank": 32041,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8188d3e265bcb8419c879bafdc69a23c216099e7",
+    "trader_name": "gl0bal",
+    "tag": "Overall",
+    "overall_gain": 2596.7145801848355,
+    "active_positions": 0,
+    "win_amount": 2765.849156662156,
+    "loss_amount": -169.134576477321,
+    "win_rate": 0.6818181818181818,
+    "total_current_value": 0.051446,
+    "total_positions": 28,
+    "event_ct": 22,
+    "win_count": 15,
+    "rank": 32042,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
