@@ -1470,5 +1470,21 @@
     "win_count": 8,
     "rank": 15292,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb5b0d516dd94c7bec3f7aa0e16a208bbb858f879",
+    "trader_name": "SnowHarp",
+    "tag": "Overall",
+    "overall_gain": 6342.026545390505,
+    "active_positions": 7,
+    "win_amount": 14064.483716093819,
+    "loss_amount": -7722.457170703312,
+    "win_rate": 0.46808510638297873,
+    "total_current_value": 379.2690918700001,
+    "total_positions": 154,
+    "event_ct": 141,
+    "win_count": 66,
+    "rank": 15293,
+    "trader_tags": "< 30 days old"
   }
 ]
