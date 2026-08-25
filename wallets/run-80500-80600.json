@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 80555,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef8dac612c303a359ac29b3be6825f859a6a41a5",
+    "trader_name": "AA80",
+    "tag": "Overall",
+    "overall_gain": 621.3214222786119,
+    "active_positions": 1,
+    "win_amount": 1061.963212780062,
+    "loss_amount": -440.64179050145003,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.049889,
+    "total_positions": 14,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 80556,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
