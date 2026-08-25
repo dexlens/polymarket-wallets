@@ -478,5 +478,21 @@
     "win_count": 9,
     "rank": 19430,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71fb3bf3b7d9a2c4cfdaeb59f12ef27093f5e92f",
+    "trader_name": "Lichentim",
+    "tag": "Overall",
+    "overall_gain": 4780.7,
+    "active_positions": 2,
+    "win_amount": 5046,
+    "loss_amount": -265.3,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 19431,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
