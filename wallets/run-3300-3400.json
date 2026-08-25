@@ -542,5 +542,21 @@
     "win_count": 50,
     "rank": 3334,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d3a67bc314c3c14289d38e510dd53e7da0f64b7",
+    "trader_name": "Julius-Caesar",
+    "tag": "Overall",
+    "overall_gain": 34308.65929551202,
+    "active_positions": 6,
+    "win_amount": 175243.5717283402,
+    "loss_amount": -140934.91243282813,
+    "win_rate": 0.5054151624548736,
+    "total_current_value": 8483.94090735,
+    "total_positions": 278,
+    "event_ct": 277,
+    "win_count": 140,
+    "rank": 3335,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
