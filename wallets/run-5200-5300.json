@@ -1278,5 +1278,21 @@
     "win_count": 36,
     "rank": 5280,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04b1e3aff4fed7a6868757761db7486ddb6cd224",
+    "trader_name": "JasonChenPapadopoulos",
+    "tag": "Overall",
+    "overall_gain": 20529.81076514558,
+    "active_positions": 7,
+    "win_amount": 52732.60396334216,
+    "loss_amount": -32202.793198196567,
+    "win_rate": 0.6,
+    "total_current_value": 3034.512540068999,
+    "total_positions": 445,
+    "event_ct": 255,
+    "win_count": 153,
+    "rank": 5281,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
