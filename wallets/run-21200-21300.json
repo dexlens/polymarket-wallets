@@ -1134,5 +1134,21 @@
     "win_count": 4,
     "rank": 21271,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x46acdbef308d99b2a1172fedf9cb2e2fb86714d1",
+    "trader_name": "ki6tr",
+    "tag": "Overall",
+    "overall_gain": 4291.4800000000005,
+    "active_positions": 0,
+    "win_amount": 4291.4800000000005,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 21272,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
