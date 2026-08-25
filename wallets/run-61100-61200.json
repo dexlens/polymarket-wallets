@@ -622,5 +622,21 @@
     "win_count": 18,
     "rank": 61140,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9ded29152209a43eae886ba7c22c461f485231ff",
+    "trader_name": "ZNEK",
+    "tag": "Overall",
+    "overall_gain": 1044.0286339999996,
+    "active_positions": 1,
+    "win_amount": 1206.430337,
+    "loss_amount": -162.40170300000048,
+    "win_rate": 0.6944444444444444,
+    "total_current_value": 1.20475,
+    "total_positions": 43,
+    "event_ct": 36,
+    "win_count": 25,
+    "rank": 61141,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
