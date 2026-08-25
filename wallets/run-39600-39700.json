@@ -334,5 +334,21 @@
     "win_count": 19,
     "rank": 39622,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb121bdd126ed7c0d34a9c538b812649f800add6e",
+    "trader_name": "12eada",
+    "tag": "Overall",
+    "overall_gain": 2014.432081936729,
+    "active_positions": 2,
+    "win_amount": 4050.119909,
+    "loss_amount": -2035.687827063271,
+    "win_rate": 0.8620689655172413,
+    "total_current_value": 0.000085,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 25,
+    "rank": 39623,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
