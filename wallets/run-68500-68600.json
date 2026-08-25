@@ -1470,5 +1470,21 @@
     "win_count": 34,
     "rank": 68593,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4cdddbf253107b8425942189705b217d01d27ca9",
+    "trader_name": "PanCakee",
+    "tag": "Overall",
+    "overall_gain": 845.637294192,
+    "active_positions": 0,
+    "win_amount": 845.637294192,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00675,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 68594,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
