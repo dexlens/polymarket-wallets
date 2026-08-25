@@ -126,5 +126,21 @@
     "win_count": 29,
     "rank": 43609,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0965c9e592cdb1addcaeace12138f5451c1cf8ca",
+    "trader_name": "Sentiment24",
+    "tag": "Overall",
+    "overall_gain": 1787.4117043687868,
+    "active_positions": 0,
+    "win_amount": 1787.4117043687868,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.019854999999999998,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 43610,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
