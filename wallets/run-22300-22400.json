@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 22389,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeef7f665e3eb03d98f1fcb6df875749dc5fc1d75",
+    "trader_name": "huojih",
+    "tag": "Overall",
+    "overall_gain": 4034.942981,
+    "active_positions": 6,
+    "win_amount": 6580.942981,
+    "loss_amount": -2546,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 1200,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 22390,
+    "trader_tags": ""
   }
 ]
