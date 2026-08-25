@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 3054,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0070b32fbd894ad5447c6629d2c64b9b02410414",
+    "trader_name": "Move50",
+    "tag": "Overall",
+    "overall_gain": 37521.55911905525,
+    "active_positions": 187,
+    "win_amount": 55354.97784818483,
+    "loss_amount": -17833.418729129604,
+    "win_rate": 0.5914634146341463,
+    "total_current_value": 78795.00715618298,
+    "total_positions": 1432,
+    "event_ct": 164,
+    "win_count": 97,
+    "rank": 3055,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
