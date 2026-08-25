@@ -1054,5 +1054,21 @@
     "win_count": 80,
     "rank": 6166,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c1c39e46bd509ead62d0ea11dd5baff5d07a1f8",
+    "trader_name": "Movian",
+    "tag": "Overall",
+    "overall_gain": 17368.643197774603,
+    "active_positions": 3,
+    "win_amount": 18588.60670039803,
+    "loss_amount": -1219.963502623429,
+    "win_rate": 0.7037037037037037,
+    "total_current_value": 0.00008300000000000001,
+    "total_positions": 28,
+    "event_ct": 27,
+    "win_count": 19,
+    "rank": 6167,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
