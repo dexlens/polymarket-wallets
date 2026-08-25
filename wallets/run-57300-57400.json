@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 57383,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86c5db8a0558c1f705f82acfb319f1c9e34aacb3",
+    "trader_name": "whiskas",
+    "tag": "Overall",
+    "overall_gain": 1164.2569441448525,
+    "active_positions": 2,
+    "win_amount": 1336.6091185890327,
+    "loss_amount": -172.35217444417998,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0.016215999999999998,
+    "total_positions": 28,
+    "event_ct": 26,
+    "win_count": 16,
+    "rank": 57384,
+    "trader_tags": "> 1 year old"
   }
 ]
