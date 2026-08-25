@@ -238,5 +238,21 @@
     "win_count": 1,
     "rank": 77116,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x588f148dd630954f1a042849dc531ace58a13eab",
+    "trader_name": "trump007d",
+    "tag": "Overall",
+    "overall_gain": 679.9098225036929,
+    "active_positions": 2,
+    "win_amount": 906.9084170521819,
+    "loss_amount": -226.998594548489,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0.021486712999999998,
+    "total_positions": 20,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 77117,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
