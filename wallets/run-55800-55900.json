@@ -1566,5 +1566,21 @@
     "win_count": 30,
     "rank": 55899,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x128ddfef37f12f97ef07addebb3f39ad3b80bea4",
+    "trader_name": "Lychee4me",
+    "tag": "Overall",
+    "overall_gain": 1222.267105124792,
+    "active_positions": 21,
+    "win_amount": 1995.7909980000002,
+    "loss_amount": -773.5238928752079,
+    "win_rate": 0.9552238805970149,
+    "total_current_value": 9095.504,
+    "total_positions": 686,
+    "event_ct": 469,
+    "win_count": 448,
+    "rank": 55900,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
