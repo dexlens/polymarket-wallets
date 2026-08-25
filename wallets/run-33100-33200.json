@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 33134,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xad9ebff15ee8adb3ff9d4ca1c64905d00d0ecc9e",
+    "trader_name": "Vefnus",
+    "tag": "Overall",
+    "overall_gain": 2494,
+    "active_positions": 2,
+    "win_amount": 3493.5,
+    "loss_amount": -999.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 33135,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
