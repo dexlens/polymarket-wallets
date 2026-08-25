@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 50551,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe0a82eae3135a67417885b50ce8ee74935f5a9d3",
+    "trader_name": "block6",
+    "tag": "Overall",
+    "overall_gain": 1459.9459607056333,
+    "active_positions": 72,
+    "win_amount": 2728.279363462849,
+    "loss_amount": -1268.333402757216,
+    "win_rate": 0.8347826086956521,
+    "total_current_value": 3434.4000118324993,
+    "total_positions": 229,
+    "event_ct": 115,
+    "win_count": 96,
+    "rank": 50552,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
