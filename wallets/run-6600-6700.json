@@ -670,5 +670,21 @@
     "win_count": 83,
     "rank": 6642,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6c439f2c136efab50b08cd8a52de3dfb070dfb9b",
+    "trader_name": "BlueBase",
+    "tag": "Overall",
+    "overall_gain": 16163.874388200686,
+    "active_positions": 65,
+    "win_amount": 37717.55312603181,
+    "loss_amount": -21553.678737831124,
+    "win_rate": 0.4647239263803681,
+    "total_current_value": 3336.8066043585004,
+    "total_positions": 1346,
+    "event_ct": 652,
+    "win_count": 303,
+    "rank": 6643,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
