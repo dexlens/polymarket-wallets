@@ -702,5 +702,21 @@
     "win_count": 7,
     "rank": 7344,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x001aa7e8fa104b784f8c5fb94a402377a1cc24b0",
+    "trader_name": "tule",
+    "tag": "Overall",
+    "overall_gain": 14488.36316088698,
+    "active_positions": 5,
+    "win_amount": 14689.53102238698,
+    "loss_amount": -201.1678615,
+    "win_rate": 0.75,
+    "total_current_value": 22.500809386,
+    "total_positions": 34,
+    "event_ct": 32,
+    "win_count": 24,
+    "rank": 7345,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
