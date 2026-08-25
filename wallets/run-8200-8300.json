@@ -718,5 +718,21 @@
     "win_count": 324,
     "rank": 8245,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x603ebf46ed96aa7be0532a46f2353e0b9e553128",
+    "trader_name": "lowl",
+    "tag": "Overall",
+    "overall_gain": 12761.660108057993,
+    "active_positions": 14,
+    "win_amount": 14508.112229821321,
+    "loss_amount": -1746.4521217633269,
+    "win_rate": 0.627906976744186,
+    "total_current_value": 105.029933,
+    "total_positions": 50,
+    "event_ct": 43,
+    "win_count": 27,
+    "rank": 8246,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
