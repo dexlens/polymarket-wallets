@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 22560,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88c47db15c7e8f9a4f3d6a3a44dd5967564cfbf0",
+    "trader_name": "ColdSummer2025",
+    "tag": "Overall",
+    "overall_gain": 4003.415544268162,
+    "active_positions": 18,
+    "win_amount": 29059.836930337686,
+    "loss_amount": -25056.421386069524,
+    "win_rate": 0.38981481481481484,
+    "total_current_value": 0.011651499999999999,
+    "total_positions": 1759,
+    "event_ct": 1080,
+    "win_count": 421,
+    "rank": 22561,
+    "trader_tags": "1k+ Positions"
   }
 ]
