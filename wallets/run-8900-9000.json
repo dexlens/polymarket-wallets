@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 8956,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11fb6a24fde69b6cd07316223798994765703561",
+    "trader_name": "Sarethra",
+    "tag": "Overall",
+    "overall_gain": 11700.700297198066,
+    "active_positions": 4,
+    "win_amount": 13417.653297198065,
+    "loss_amount": -1716.953,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 0.000066,
+    "total_positions": 40,
+    "event_ct": 39,
+    "win_count": 33,
+    "rank": 8957,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
