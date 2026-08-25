@@ -1374,5 +1374,21 @@
     "win_count": 8,
     "rank": 25287,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x881133d31662d9b569d51e1c3a3936d9adffd95e",
+    "trader_name": "BuyTheTop",
+    "tag": "Overall",
+    "overall_gain": 3492.0238171656406,
+    "active_positions": 4,
+    "win_amount": 7378.863783165641,
+    "loss_amount": -3886.839966,
+    "win_rate": 0.9577464788732394,
+    "total_current_value": 4.704891,
+    "total_positions": 163,
+    "event_ct": 71,
+    "win_count": 68,
+    "rank": 25288,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
