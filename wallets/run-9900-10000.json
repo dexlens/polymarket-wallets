@@ -1246,5 +1246,21 @@
     "win_count": 4,
     "rank": 9978,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0db95004d8f5f2a2e0ceb4422810e9e84bbbd97c",
+    "trader_name": "juniper",
+    "tag": "Overall",
+    "overall_gain": 10500.25518291881,
+    "active_positions": 12,
+    "win_amount": 24267.69844257906,
+    "loss_amount": -13767.44325966025,
+    "win_rate": 0.5732484076433121,
+    "total_current_value": 1640.1828378949995,
+    "total_positions": 447,
+    "event_ct": 314,
+    "win_count": 180,
+    "rank": 9979,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
