@@ -1310,5 +1310,21 @@
     "win_count": 16,
     "rank": 78483,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf5468be8e276933c822619240eb12c4c6ca9f7fa",
+    "trader_name": "PolymarketFruit",
+    "tag": "Overall",
+    "overall_gain": 656.2253706551107,
+    "active_positions": 1,
+    "win_amount": 4292.935760395835,
+    "loss_amount": -3636.710389740724,
+    "win_rate": 0.5416666666666666,
+    "total_current_value": 0.007689,
+    "total_positions": 35,
+    "event_ct": 24,
+    "win_count": 13,
+    "rank": 78484,
+    "trader_tags": "> 1 year old"
   }
 ]
