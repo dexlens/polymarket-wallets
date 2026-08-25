@@ -574,5 +574,21 @@
     "win_count": 23,
     "rank": 32837,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x338a3b5ecd517cd8c4a128d79dd2710873a9024e",
+    "trader_name": "Babarp",
+    "tag": "Overall",
+    "overall_gain": 2518.561916,
+    "active_positions": 0,
+    "win_amount": 2604.329417,
+    "loss_amount": -85.76750100000001,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 32838,
+    "trader_tags": "> 1 year old"
   }
 ]
