@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 7195,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x9189219973aeafbaf41144ad51a256e6c7637250",
+    "trader_name": "mlinw",
+    "tag": "Overall",
+    "overall_gain": 14856.94778222821,
+    "active_positions": 1,
+    "win_amount": 21554.969260862705,
+    "loss_amount": -6698.021478634494,
+    "win_rate": 0.8,
+    "total_current_value": 1044.143881025,
+    "total_positions": 69,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 7196,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
