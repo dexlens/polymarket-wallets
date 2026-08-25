@@ -270,5 +270,21 @@
     "win_count": 1,
     "rank": 58518,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x960cf649949730715a5c9447a2c06ac6b090e052",
+    "trader_name": "dumiz",
+    "tag": "Overall",
+    "overall_gain": 1124.977287438256,
+    "active_positions": 3,
+    "win_amount": 3026.0391666609285,
+    "loss_amount": -1901.0618792226733,
+    "win_rate": 0.5189873417721519,
+    "total_current_value": 0.049388999999999995,
+    "total_positions": 96,
+    "event_ct": 79,
+    "win_count": 41,
+    "rank": 58519,
+    "trader_tags": ""
   }
 ]
