@@ -462,5 +462,21 @@
     "win_count": 96,
     "rank": 2429,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x8f118d2cd9cba7d9ba9e8b0115c863587c0c4eac",
+    "trader_name": "Jolic",
+    "tag": "Overall",
+    "overall_gain": 48598.24075486732,
+    "active_positions": 12,
+    "win_amount": 51474.423603799994,
+    "loss_amount": -2876.182848932668,
+    "win_rate": 0.7538461538461538,
+    "total_current_value": 75854.337835472,
+    "total_positions": 91,
+    "event_ct": 65,
+    "win_count": 49,
+    "rank": 2430,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
