@@ -318,5 +318,21 @@
     "win_count": 3,
     "rank": 10320,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe2e701eef7c0c33fb3aee4a3544b7e33cc32fc15",
+    "trader_name": "Winfredo",
+    "tag": "Overall",
+    "overall_gain": 10179.348829347759,
+    "active_positions": 11,
+    "win_amount": 12970.131277837963,
+    "loss_amount": -2790.7824484902058,
+    "win_rate": 0.5935483870967742,
+    "total_current_value": 0.41959600000000014,
+    "total_positions": 242,
+    "event_ct": 155,
+    "win_count": 92,
+    "rank": 10321,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
