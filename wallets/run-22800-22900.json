@@ -1038,5 +1038,21 @@
     "win_count": 65,
     "rank": 22865,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb4b9c643d9e6e39db24a5de57eec9a4e2cbf137f",
+    "trader_name": "toobadwhi",
+    "tag": "Overall",
+    "overall_gain": 3946,
+    "active_positions": 2,
+    "win_amount": 13946,
+    "loss_amount": -10000,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 22866,
+    "trader_tags": "< 30 days old"
   }
 ]
