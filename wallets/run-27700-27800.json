@@ -414,5 +414,21 @@
     "win_count": 28,
     "rank": 27727,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7ec115ddd9f96a0e290cd7d550b2bc52d9ebd26c",
+    "trader_name": "ldplq",
+    "tag": "Overall",
+    "overall_gain": 3101,
+    "active_positions": 2,
+    "win_amount": 3942,
+    "loss_amount": -841,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 27728,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
