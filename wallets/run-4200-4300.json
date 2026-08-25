@@ -110,5 +110,21 @@
     "win_count": 1,
     "rank": 4207,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x6442721e9c33f1d7fbc4396ba27ec83d4b6d2af7",
+    "trader_name": "Eriandor",
+    "tag": "Overall",
+    "overall_gain": 26535.94611652728,
+    "active_positions": 12,
+    "win_amount": 27512.132273905172,
+    "loss_amount": -976.186157377893,
+    "win_rate": 0.8205128205128205,
+    "total_current_value": 17.673671,
+    "total_positions": 83,
+    "event_ct": 78,
+    "win_count": 64,
+    "rank": 4208,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
