@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 63893,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb8546cc140d3976f1622dfe0f00f31bcf803ba55",
+    "trader_name": "verdun0",
+    "tag": "Overall",
+    "overall_gain": 977.006865238651,
+    "active_positions": 1,
+    "win_amount": 1180.083454420587,
+    "loss_amount": -203.076589181936,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.0005870000000000001,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 63894,
+    "trader_tags": ""
   }
 ]
