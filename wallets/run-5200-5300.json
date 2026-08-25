@@ -878,5 +878,21 @@
     "win_count": 14,
     "rank": 5255,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e27b4fc18d61173110f6edb21e107bc34819890",
+    "trader_name": "kevin-airdrop",
+    "tag": "Overall",
+    "overall_gain": 20620.82266057175,
+    "active_positions": 194,
+    "win_amount": 51880.65441740167,
+    "loss_amount": -31259.831756829906,
+    "win_rate": 0.806390977443609,
+    "total_current_value": 68760.54608609504,
+    "total_positions": 1109,
+    "event_ct": 532,
+    "win_count": 429,
+    "rank": 5256,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
