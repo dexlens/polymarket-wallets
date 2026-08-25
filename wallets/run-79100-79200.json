@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 79169,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x2782df333b910b38230c58c2e52ef1f9148eda37",
+    "trader_name": "hn76",
+    "tag": "Overall",
+    "overall_gain": 644.3795193802749,
+    "active_positions": 0,
+    "win_amount": 651.210519380275,
+    "loss_amount": -6.8309999999999995,
+    "win_rate": 0.75,
+    "total_current_value": 0.005275,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 79170,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
