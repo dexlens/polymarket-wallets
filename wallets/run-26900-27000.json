@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 26935,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8cb157fded286653f24b33f6282db63222123a07",
+    "trader_name": "CAPNCOOK",
+    "tag": "Overall",
+    "overall_gain": 3216.304822703333,
+    "active_positions": 0,
+    "win_amount": 11022.545478,
+    "loss_amount": -7806.240655296669,
+    "win_rate": 0.4117647058823529,
+    "total_current_value": 0.009082,
+    "total_positions": 22,
+    "event_ct": 17,
+    "win_count": 7,
+    "rank": 26936,
+    "trader_tags": "> 1 year old"
   }
 ]
