@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 789,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x4b92a2d2fd3807981a5dddae7315122530a542e6",
+    "trader_name": "wisser",
+    "tag": "Overall",
+    "overall_gain": 160728.33798894135,
+    "active_positions": 217,
+    "win_amount": 249466.8067694406,
+    "loss_amount": -88738.46878049926,
+    "win_rate": 0.6648199445983379,
+    "total_current_value": 213.727719117,
+    "total_positions": 767,
+    "event_ct": 361,
+    "win_count": 240,
+    "rank": 790,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
