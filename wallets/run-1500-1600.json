@@ -302,5 +302,21 @@
     "win_count": 2057,
     "rank": 1519,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x52f8784a81d967a3afb74d2e1608503ff5e261b9",
+    "trader_name": "VortexLane",
+    "tag": "Overall",
+    "overall_gain": 79476.76260897574,
+    "active_positions": 1822,
+    "win_amount": 279505.19269245694,
+    "loss_amount": -200028.43008348127,
+    "win_rate": 0.5437268971515546,
+    "total_current_value": 6243.141553515,
+    "total_positions": 45947,
+    "event_ct": 22995,
+    "win_count": 12503,
+    "rank": 1520,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
