@@ -1470,5 +1470,21 @@
     "win_count": 4,
     "rank": 24493,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x070c8dcd81e3148b265c64159cdaefb5c4a1c883",
+    "trader_name": "jim99",
+    "tag": "Overall",
+    "overall_gain": 3629.097160347521,
+    "active_positions": 1799,
+    "win_amount": 11034.637707000002,
+    "loss_amount": -7405.540546652479,
+    "win_rate": 0.7691677756167469,
+    "total_current_value": 50,
+    "total_positions": 11003,
+    "event_ct": 9769,
+    "win_count": 7514,
+    "rank": 24494,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
