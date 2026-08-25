@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 84613,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb95d8d8aa5ec4c8799d91a13dc0632d90e80524c",
+    "trader_name": "pazgrenec",
+    "tag": "Overall",
+    "overall_gain": 557.603782400474,
+    "active_positions": 98,
+    "win_amount": 2025.1256819999999,
+    "loss_amount": -1467.521899599526,
+    "win_rate": 0.5871404399323181,
+    "total_current_value": 0,
+    "total_positions": 1058,
+    "event_ct": 591,
+    "win_count": 347,
+    "rank": 84614,
+    "trader_tags": "1k+ Positions"
   }
 ]
