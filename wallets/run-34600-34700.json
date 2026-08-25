@@ -750,5 +750,21 @@
     "win_count": 8,
     "rank": 34648,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x801cbbd07f04262bc6d0d979ad2462429a92e723",
+    "trader_name": "termina",
+    "tag": "Overall",
+    "overall_gain": 2369.23123197571,
+    "active_positions": 0,
+    "win_amount": 4102.293444999998,
+    "loss_amount": -1733.0622130242898,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0.005934,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 34649,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
