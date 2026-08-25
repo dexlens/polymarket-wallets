@@ -78,5 +78,21 @@
     "win_count": 5,
     "rank": 6805,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x903793863c59df190f63eefa42b6f3d1be10459c",
+    "trader_name": "Mara",
+    "tag": "Overall",
+    "overall_gain": 15766.55776738506,
+    "active_positions": 1,
+    "win_amount": 39527.52542636459,
+    "loss_amount": -23760.967658979516,
+    "win_rate": 0.9617224880382775,
+    "total_current_value": 1.2492360000000002,
+    "total_positions": 324,
+    "event_ct": 209,
+    "win_count": 201,
+    "rank": 6806,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
