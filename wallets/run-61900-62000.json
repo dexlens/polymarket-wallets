@@ -1566,5 +1566,21 @@
     "win_count": 14,
     "rank": 61999,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x55ae9fcbeaaa9d0294dcc0006079685f9e80195c",
+    "trader_name": "jon991",
+    "tag": "Overall",
+    "overall_gain": 1022.1184514052183,
+    "active_positions": 1884,
+    "win_amount": 8756.848821999998,
+    "loss_amount": -7734.730370594782,
+    "win_rate": 0.717289097844407,
+    "total_current_value": 55,
+    "total_positions": 13577,
+    "event_ct": 11273,
+    "win_count": 8086,
+    "rank": 62000,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
