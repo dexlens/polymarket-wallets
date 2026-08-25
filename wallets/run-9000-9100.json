@@ -1326,5 +1326,21 @@
     "win_count": 18,
     "rank": 9083,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x707046b80c2f27a081f4c41104f51ccdcd2e4327",
+    "trader_name": "rbnd",
+    "tag": "Overall",
+    "overall_gain": 11540.357544959652,
+    "active_positions": 2,
+    "win_amount": 13367.525663491906,
+    "loss_amount": -1827.1681185322504,
+    "win_rate": 0.6187050359712231,
+    "total_current_value": 20.115953905,
+    "total_positions": 142,
+    "event_ct": 139,
+    "win_count": 86,
+    "rank": 9084,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
