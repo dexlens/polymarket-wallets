@@ -318,5 +318,21 @@
     "win_count": 538,
     "rank": 16020,
     "trader_tags": "1k+ Positions"
+  },
+  {
+    "trader": "0x293458f3d42260aad276254a152fa8cfe5708a9b",
+    "trader_name": "gmxca",
+    "tag": "Overall",
+    "overall_gain": 5991.5,
+    "active_positions": 1,
+    "win_amount": 6293,
+    "loss_amount": -301.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 16021,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
