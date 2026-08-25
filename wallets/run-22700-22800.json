@@ -238,5 +238,21 @@
     "win_count": 5,
     "rank": 22715,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x96d9a64ff581ac2cee55f8900e9bc124ab9e7ecc",
+    "trader_name": "kaobian",
+    "tag": "Overall",
+    "overall_gain": 3978.434388118102,
+    "active_positions": 0,
+    "win_amount": 4027.832283190035,
+    "loss_amount": -49.397895071933,
+    "win_rate": 0.375,
+    "total_current_value": 0.011213024,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 22716,
+    "trader_tags": "> 1 year old"
   }
 ]
