@@ -1214,5 +1214,21 @@
     "win_count": 24,
     "rank": 2376,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f84cf93a42d154d737614d13999b6486957800b",
+    "trader_name": "EugeneNgAhSio",
+    "tag": "Overall",
+    "overall_gain": 49706.06224968058,
+    "active_positions": 1,
+    "win_amount": 49706.06224968058,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1.1945420619999998,
+    "total_positions": 101,
+    "event_ct": 41,
+    "win_count": 41,
+    "rank": 2377,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
