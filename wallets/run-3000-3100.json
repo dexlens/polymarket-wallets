@@ -1070,5 +1070,21 @@
     "win_count": 32,
     "rank": 3067,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6311fc91a571841a232f93f675782ae7d60ab41",
+    "trader_name": "LiberalClown",
+    "tag": "Overall",
+    "overall_gain": 37404.296478000004,
+    "active_positions": 0,
+    "win_amount": 37404.296478000004,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 3068,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
