@@ -574,5 +574,21 @@
     "win_count": 3,
     "rank": 9636,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe54d37c9c12e5fd3d684ff4d193ef1f44dabfdec",
+    "trader_name": "hobo69",
+    "tag": "Overall",
+    "overall_gain": 10868.990176326084,
+    "active_positions": 27,
+    "win_amount": 79733.06130090523,
+    "loss_amount": -68864.07112457915,
+    "win_rate": 0.7350199733688415,
+    "total_current_value": 31838.1034865575,
+    "total_positions": 2018,
+    "event_ct": 1502,
+    "win_count": 1104,
+    "rank": 9637,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
