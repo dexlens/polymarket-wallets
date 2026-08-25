@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 20677,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2dfdc814c895638d203a34680c012f71679ee902",
+    "trader_name": "betaa",
+    "tag": "Overall",
+    "overall_gain": 4448.524954296155,
+    "active_positions": 18,
+    "win_amount": 6954.784940999999,
+    "loss_amount": -2506.2599867038452,
+    "win_rate": 0.6170212765957447,
+    "total_current_value": 0,
+    "total_positions": 47,
+    "event_ct": 47,
+    "win_count": 29,
+    "rank": 20678,
+    "trader_tags": "> 1 year old"
   }
 ]
