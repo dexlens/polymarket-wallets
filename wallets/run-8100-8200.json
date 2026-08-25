@@ -318,5 +318,21 @@
     "win_count": 23,
     "rank": 8120,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x779d030648b90682d91c86dd1c502a26581ba23c",
+    "trader_name": "ROCHELLEBELL",
+    "tag": "Overall",
+    "overall_gain": 12953.597184000002,
+    "active_positions": 6,
+    "win_amount": 19435.597184000002,
+    "loss_amount": -6482,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 8121,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
