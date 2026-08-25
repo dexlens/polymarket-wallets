@@ -1054,5 +1054,21 @@
     "win_count": 41,
     "rank": 27467,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x80fa33c9b4e5dafd9b217d058e3574f383d7f52e",
+    "trader_name": "ieyxnx",
+    "tag": "Overall",
+    "overall_gain": 3138.8082220000006,
+    "active_positions": 2,
+    "win_amount": 3206.4738220000004,
+    "loss_amount": -67.6656,
+    "win_rate": 0.9583333333333334,
+    "total_current_value": 159.05,
+    "total_positions": 25,
+    "event_ct": 24,
+    "win_count": 23,
+    "rank": 27468,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
