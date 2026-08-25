@@ -1198,5 +1198,21 @@
     "win_count": 4,
     "rank": 62076,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa91965c189d71b2c39698fc9a497b0756a1c3af3",
+    "trader_name": "hedgefarbast",
+    "tag": "Overall",
+    "overall_gain": 1020.236994667056,
+    "active_positions": 2,
+    "win_amount": 1058.098766114416,
+    "loss_amount": -37.86177144736007,
+    "win_rate": 0.75,
+    "total_current_value": 2425.32181902,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 62077,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
