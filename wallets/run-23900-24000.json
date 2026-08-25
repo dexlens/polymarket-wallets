@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 23984,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18510d997eba5b8a0102bad7307e70e32bc4ae47",
+    "trader_name": "Spirit-LT",
+    "tag": "Overall",
+    "overall_gain": 3722.168851258077,
+    "active_positions": 67,
+    "win_amount": 7374.495691651623,
+    "loss_amount": -3652.3268403935463,
+    "win_rate": 0.2947976878612717,
+    "total_current_value": 385.65872114100006,
+    "total_positions": 308,
+    "event_ct": 173,
+    "win_count": 51,
+    "rank": 23985,
+    "trader_tags": ""
   }
 ]
