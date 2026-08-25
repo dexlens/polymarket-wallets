@@ -782,5 +782,21 @@
     "win_count": 1706,
     "rank": 27250,
     "trader_tags": "1k+ Positions"
+  },
+  {
+    "trader": "0x310f25a5f9d1fdf1f8eb5fb04f8317c8ff36e361",
+    "trader_name": "leveredHoneybadger",
+    "tag": "Overall",
+    "overall_gain": 3169.1430520192416,
+    "active_positions": 4,
+    "win_amount": 3304.826373019241,
+    "loss_amount": -135.683321,
+    "win_rate": 0.9428571428571428,
+    "total_current_value": 12013.294670712497,
+    "total_positions": 165,
+    "event_ct": 105,
+    "win_count": 99,
+    "rank": 27251,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
