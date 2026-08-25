@@ -1230,5 +1230,21 @@
     "win_count": 4,
     "rank": 56178,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x61c25b0360da750dfb44a4070e8a06874a437f16",
+    "trader_name": "compoundingelo",
+    "tag": "Overall",
+    "overall_gain": 1210.659097626064,
+    "active_positions": 0,
+    "win_amount": 1210.659097626064,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004195,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 56179,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
