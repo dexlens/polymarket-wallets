@@ -270,5 +270,21 @@
     "win_count": 3,
     "rank": 33018,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xffbc3633a51838f0ce176ba01f2ae8864b75b889",
+    "trader_name": "MikeMNM",
+    "tag": "Overall",
+    "overall_gain": 2501.9020563137374,
+    "active_positions": 13,
+    "win_amount": 7597.303004296919,
+    "loss_amount": -5095.400947983187,
+    "win_rate": 0.6563573883161512,
+    "total_current_value": 193.90435426500005,
+    "total_positions": 485,
+    "event_ct": 291,
+    "win_count": 191,
+    "rank": 33019,
+    "trader_tags": "> 1 year old"
   }
 ]
