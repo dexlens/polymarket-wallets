@@ -1342,5 +1342,21 @@
     "win_count": 11,
     "rank": 78385,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xa9c2bfb0714ef8e4792e00134fed3ef04aa2fbed",
+    "trader_name": "sigmundsx",
+    "tag": "Overall",
+    "overall_gain": 658.000015392,
+    "active_positions": 1,
+    "win_amount": 920.000015392,
+    "loss_amount": -262,
+    "win_rate": 0.75,
+    "total_current_value": 0.004674,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 78386,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
