@@ -574,5 +574,21 @@
     "win_count": 723,
     "rank": 436,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x75049bd489194be19c45c31ed311e556411c9c69",
+    "trader_name": "ro0k",
+    "tag": "Overall",
+    "overall_gain": 293872.19307184813,
+    "active_positions": 35,
+    "win_amount": 806975.417929021,
+    "loss_amount": -513103.22485717275,
+    "win_rate": 0.5208333333333334,
+    "total_current_value": 0.136969,
+    "total_positions": 225,
+    "event_ct": 96,
+    "win_count": 50,
+    "rank": 437,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
