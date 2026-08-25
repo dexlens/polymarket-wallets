@@ -510,5 +510,21 @@
     "win_count": 103,
     "rank": 4632,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x14774b671287348daa324e8404e5f608e3acbe50",
+    "trader_name": "twelvesuns",
+    "tag": "Overall",
+    "overall_gain": 23666.401664058154,
+    "active_positions": 3,
+    "win_amount": 93844.17936051404,
+    "loss_amount": -70177.77769645584,
+    "win_rate": 0.5261152208025106,
+    "total_current_value": 8.768861,
+    "total_positions": 6870,
+    "event_ct": 4461,
+    "win_count": 2347,
+    "rank": 4633,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
