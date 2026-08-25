@@ -1278,5 +1278,21 @@
     "win_count": 1,
     "rank": 46581,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaa3dd4c46dab771427b621ea8f52063802fe8966",
+    "trader_name": "Thiou",
+    "tag": "Overall",
+    "overall_gain": 1636.7330966432678,
+    "active_positions": 18,
+    "win_amount": 2727.480461688997,
+    "loss_amount": -1090.7473650457298,
+    "win_rate": 0.28,
+    "total_current_value": 0.730061813,
+    "total_positions": 245,
+    "event_ct": 175,
+    "win_count": 49,
+    "rank": 46582,
+    "trader_tags": "> 1 year old"
   }
 ]
