@@ -1246,5 +1246,21 @@
     "win_count": 10,
     "rank": 78979,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x32cff916c838127b08537eb7ddc0cfe62cd4ec5e",
+    "trader_name": "tomik",
+    "tag": "Overall",
+    "overall_gain": 647.88801135,
+    "active_positions": 2,
+    "win_amount": 656.1820413500001,
+    "loss_amount": -8.29403,
+    "win_rate": 0.9117647058823529,
+    "total_current_value": 505.69020625,
+    "total_positions": 97,
+    "event_ct": 34,
+    "win_count": 31,
+    "rank": 78980,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
