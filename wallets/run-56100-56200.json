@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 56136,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72a5b74112572e61b5f951ff93e5e93f41d85b93",
+    "trader_name": "superfam",
+    "tag": "Overall",
+    "overall_gain": 1212.1407049476422,
+    "active_positions": 11,
+    "win_amount": 1428.0146349712832,
+    "loss_amount": -215.87393002364098,
+    "win_rate": 0.5757575757575758,
+    "total_current_value": 1028.2962002770003,
+    "total_positions": 98,
+    "event_ct": 66,
+    "win_count": 38,
+    "rank": 56137,
+    "trader_tags": "> 1 year old"
   }
 ]
