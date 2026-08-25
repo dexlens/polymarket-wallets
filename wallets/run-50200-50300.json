@@ -1294,5 +1294,21 @@
     "win_count": 5,
     "rank": 50282,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x151932d0b12055e6a6a8c5f5f0cef65dad918dfb",
+    "trader_name": "ausTaiwan",
+    "tag": "Overall",
+    "overall_gain": 1471.9108584358494,
+    "active_positions": 4,
+    "win_amount": 8644.803722040102,
+    "loss_amount": -7172.892863604253,
+    "win_rate": 0.9570405727923628,
+    "total_current_value": 0.246929,
+    "total_positions": 1112,
+    "event_ct": 838,
+    "win_count": 802,
+    "rank": 50283,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
