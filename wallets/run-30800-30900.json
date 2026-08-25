@@ -1470,5 +1470,21 @@
     "win_count": 4,
     "rank": 30893,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1a3fc9745fa156d1983cbe396912b75765864b40",
+    "trader_name": "tempname619",
+    "tag": "Overall",
+    "overall_gain": 2712.7833974775094,
+    "active_positions": 2,
+    "win_amount": 13973.337465387482,
+    "loss_amount": -11260.554067909976,
+    "win_rate": 0.6944444444444444,
+    "total_current_value": 0.014518999999999999,
+    "total_positions": 113,
+    "event_ct": 108,
+    "win_count": 75,
+    "rank": 30894,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
