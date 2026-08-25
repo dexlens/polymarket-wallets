@@ -1326,5 +1326,21 @@
     "win_count": 110,
     "rank": 3483,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd3bae4c0e18556f88d1f683275d59821b097e793",
+    "trader_name": "topogrupo1",
+    "tag": "Overall",
+    "overall_gain": 32683.806636195673,
+    "active_positions": 1,
+    "win_amount": 40683.835394864574,
+    "loss_amount": -8000.028758668881,
+    "win_rate": 0.7512562814070352,
+    "total_current_value": 3.5865560000000003,
+    "total_positions": 1093,
+    "event_ct": 398,
+    "win_count": 299,
+    "rank": 3484,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
