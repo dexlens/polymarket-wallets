@@ -126,5 +126,21 @@
     "win_count": 2,
     "rank": 25209,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30a7df6c0b74e59f90bb0be1831f260c540602fa",
+    "trader_name": "PassiveStrike",
+    "tag": "Overall",
+    "overall_gain": 3502.8275608068084,
+    "active_positions": 43,
+    "win_amount": 15260.511401827887,
+    "loss_amount": -11757.683841021077,
+    "win_rate": 0.5071428571428571,
+    "total_current_value": 15061.520514593,
+    "total_positions": 372,
+    "event_ct": 140,
+    "win_count": 71,
+    "rank": 25210,
+    "trader_tags": ""
   }
 ]
