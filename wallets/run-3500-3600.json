@@ -782,5 +782,21 @@
     "win_count": 9,
     "rank": 3549,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa1abcfde4e8686c341beb5885608fe02d7352e0f",
+    "trader_name": "SophieDee",
+    "tag": "Overall",
+    "overall_gain": 32122.53400265631,
+    "active_positions": 3,
+    "win_amount": 42005.18155257804,
+    "loss_amount": -9882.647549921738,
+    "win_rate": 0.7608695652173914,
+    "total_current_value": 24.422548739999996,
+    "total_positions": 98,
+    "event_ct": 46,
+    "win_count": 35,
+    "rank": 3550,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
