@@ -1086,5 +1086,21 @@
     "win_count": 34,
     "rank": 7068,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf03044eb7a85a04e826adc893ded416e116812e2",
+    "trader_name": "Pfme57",
+    "tag": "Overall",
+    "overall_gain": 15104.555875267422,
+    "active_positions": 11,
+    "win_amount": 17365.836562004723,
+    "loss_amount": -2261.280686737302,
+    "win_rate": 0.7,
+    "total_current_value": 21441.9990009055,
+    "total_positions": 59,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 7069,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
