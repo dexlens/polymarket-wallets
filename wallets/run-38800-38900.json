@@ -926,5 +926,21 @@
     "win_count": 36,
     "rank": 38859,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2037bb7a0773499b3afc9b4a4c18ff8fb715473d",
+    "trader_name": "NovaB",
+    "tag": "Overall",
+    "overall_gain": 2062.297641337769,
+    "active_positions": 18,
+    "win_amount": 7286.583982553429,
+    "loss_amount": -5224.286341215658,
+    "win_rate": 0.9570063694267515,
+    "total_current_value": 29103.971982955998,
+    "total_positions": 3884,
+    "event_ct": 3768,
+    "win_count": 3606,
+    "rank": 38860,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
