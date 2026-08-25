@@ -1502,5 +1502,21 @@
     "win_count": 7,
     "rank": 2794,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa7b3dd59e49ee9754d58a9395efce1d37602246a",
+    "trader_name": "biggy",
+    "tag": "Overall",
+    "overall_gain": 41486.023221025236,
+    "active_positions": 26,
+    "win_amount": 94756.86177648569,
+    "loss_amount": -53270.83855546045,
+    "win_rate": 0.6413043478260869,
+    "total_current_value": 62902.59921684,
+    "total_positions": 234,
+    "event_ct": 184,
+    "win_count": 118,
+    "rank": 2795,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
