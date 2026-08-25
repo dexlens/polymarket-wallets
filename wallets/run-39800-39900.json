@@ -622,5 +622,21 @@
     "win_count": 7,
     "rank": 39840,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41996ac60c6acf392b0bc13d7685a8ed972f9092",
+    "trader_name": "cruelworld",
+    "tag": "Overall",
+    "overall_gain": 2002.223817283024,
+    "active_positions": 1,
+    "win_amount": 2302.863717091524,
+    "loss_amount": -300.6398998085,
+    "win_rate": 0.75,
+    "total_current_value": 0.016146,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 39841,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
