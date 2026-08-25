@@ -1422,5 +1422,21 @@
     "win_count": 9,
     "rank": 8289,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ace6b1016214876667444d2b3055065da996069",
+    "trader_name": "wastrel",
+    "tag": "Overall",
+    "overall_gain": 12685.483929017646,
+    "active_positions": 26,
+    "win_amount": 28257.028999408387,
+    "loss_amount": -15571.54507039074,
+    "win_rate": 0.4967741935483871,
+    "total_current_value": 12086.472742742499,
+    "total_positions": 224,
+    "event_ct": 155,
+    "win_count": 77,
+    "rank": 8290,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
