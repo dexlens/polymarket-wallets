@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 8525,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3fa5abfebfe47c5c82ce9c2daab5879e574f4f56",
+    "trader_name": "Nameren",
+    "tag": "Overall",
+    "overall_gain": 12287.265696586714,
+    "active_positions": 90,
+    "win_amount": 46436.450566960906,
+    "loss_amount": -34149.18487037416,
+    "win_rate": 0.6477272727272727,
+    "total_current_value": 4199.535288759,
+    "total_positions": 282,
+    "event_ct": 264,
+    "win_count": 171,
+    "rank": 8526,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
