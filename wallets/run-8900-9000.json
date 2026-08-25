@@ -1198,5 +1198,21 @@
     "win_count": 40,
     "rank": 8975,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe8f8fc19f13993dfcf25b8d2a7c5cf6b9cb1ade4",
+    "trader_name": "seek78",
+    "tag": "Overall",
+    "overall_gain": 11671.81548209339,
+    "active_positions": 6,
+    "win_amount": 12550.200479467823,
+    "loss_amount": -878.3849973744319,
+    "win_rate": 0.25,
+    "total_current_value": 0.028603,
+    "total_positions": 13,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 8976,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
