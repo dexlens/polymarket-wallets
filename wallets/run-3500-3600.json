@@ -414,5 +414,21 @@
     "win_count": 1,
     "rank": 3526,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf178222af08c15815d9ee6475924d4cd7a339323",
+    "trader_name": "Humazo",
+    "tag": "Overall",
+    "overall_gain": 32362.50076221445,
+    "active_positions": 175,
+    "win_amount": 234668.8739299144,
+    "loss_amount": -202306.37316769996,
+    "win_rate": 0.5238468574415261,
+    "total_current_value": 2.0501379999999996,
+    "total_positions": 15009,
+    "event_ct": 7653,
+    "win_count": 4009,
+    "rank": 3527,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
