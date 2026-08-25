@@ -494,5 +494,21 @@
     "win_count": 7,
     "rank": 78132,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5449662c8e43388a5632e902d3731985a5243932",
+    "trader_name": "mimangqi",
+    "tag": "Overall",
+    "overall_gain": 662.108619118119,
+    "active_positions": 1,
+    "win_amount": 715.859775876119,
+    "loss_amount": -53.751156758,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 24.341532,
+    "total_positions": 21,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 78133,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
