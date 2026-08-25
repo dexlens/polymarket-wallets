@@ -382,5 +382,21 @@
     "win_count": 198,
     "rank": 85225,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x63a8e62c30697db32b9840ce17d4ea85e0473457",
+    "trader_name": "aprf",
+    "tag": "Overall",
+    "overall_gain": 548.9897283106889,
+    "active_positions": 102,
+    "win_amount": 5716.661622956402,
+    "loss_amount": -5167.671894645712,
+    "win_rate": 0.7634635691657867,
+    "total_current_value": 137.80808199999996,
+    "total_positions": 978,
+    "event_ct": 947,
+    "win_count": 723,
+    "rank": 85226,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
