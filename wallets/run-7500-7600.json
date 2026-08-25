@@ -430,5 +430,21 @@
     "win_count": 74,
     "rank": 7527,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8566686d47faa8983ab378bbc73006438c35c626",
+    "trader_name": "seventee",
+    "tag": "Overall",
+    "overall_gain": 14093.187011819347,
+    "active_positions": 163,
+    "win_amount": 586080.2685532104,
+    "loss_amount": -571987.0815413911,
+    "win_rate": 0.8777777777777778,
+    "total_current_value": 52.72629169000001,
+    "total_positions": 1368,
+    "event_ct": 1260,
+    "win_count": 1106,
+    "rank": 7528,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
