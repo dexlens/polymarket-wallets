@@ -1502,5 +1502,21 @@
     "win_count": 58,
     "rank": 51395,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8fd7e16800f80c952de9afadc2c0dfb860907df3",
+    "trader_name": "Bentoxeth",
+    "tag": "Overall",
+    "overall_gain": 1420.142867606703,
+    "active_positions": 5,
+    "win_amount": 3920.14579779104,
+    "loss_amount": -2500.002930184337,
+    "win_rate": 0.2,
+    "total_current_value": 0.00544,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 1,
+    "rank": 51396,
+    "trader_tags": ""
   }
 ]
