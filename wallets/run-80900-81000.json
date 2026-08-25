@@ -1262,5 +1262,21 @@
     "win_count": 23,
     "rank": 80980,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xccad9a32fc39ff4ba03cc35900f4431d315e46ec",
+    "trader_name": "Batrak",
+    "tag": "Overall",
+    "overall_gain": 614.4761529827107,
+    "active_positions": 0,
+    "win_amount": 2880.925667142001,
+    "loss_amount": -2266.4495141592906,
+    "win_rate": 0.4748201438848921,
+    "total_current_value": 0.8024491789999999,
+    "total_positions": 652,
+    "event_ct": 556,
+    "win_count": 264,
+    "rank": 80981,
+    "trader_tags": "> 1 year old"
   }
 ]
