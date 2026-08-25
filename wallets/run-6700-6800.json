@@ -814,5 +814,21 @@
     "win_count": 14,
     "rank": 6751,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f5830d72a09b6bb1f19793fa8003ef4415e5ff2",
+    "trader_name": "Practicemakeperfect",
+    "tag": "Overall",
+    "overall_gain": 15896.057911287831,
+    "active_positions": 6,
+    "win_amount": 20907.112804668228,
+    "loss_amount": -5011.054893380396,
+    "win_rate": 0.6190476190476191,
+    "total_current_value": 87.641297,
+    "total_positions": 91,
+    "event_ct": 63,
+    "win_count": 39,
+    "rank": 6752,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
