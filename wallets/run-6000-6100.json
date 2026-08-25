@@ -558,5 +558,21 @@
     "win_count": 234,
     "rank": 6035,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x5b9adbadef6f41422af185e9b39fdd6c1a347da3",
+    "trader_name": "Pqtriot",
+    "tag": "Overall",
+    "overall_gain": 17776.676871819494,
+    "active_positions": 0,
+    "win_amount": 18838.793358268482,
+    "loss_amount": -1062.116486448991,
+    "win_rate": 0.17391304347826086,
+    "total_current_value": 0.031328,
+    "total_positions": 31,
+    "event_ct": 23,
+    "win_count": 4,
+    "rank": 6036,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
