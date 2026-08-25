@@ -478,5 +478,21 @@
     "win_count": 6,
     "rank": 24631,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93a0065167245c423c1b7a469f60315edc8374de",
+    "trader_name": "fedorovPVO",
+    "tag": "Overall",
+    "overall_gain": 3606.437612198965,
+    "active_positions": 50,
+    "win_amount": 4906.719587746908,
+    "loss_amount": -1300.281975547944,
+    "win_rate": 0.6379310344827587,
+    "total_current_value": 10269.627454415,
+    "total_positions": 81,
+    "event_ct": 58,
+    "win_count": 37,
+    "rank": 24632,
+    "trader_tags": ""
   }
 ]
