@@ -1422,5 +1422,21 @@
     "win_count": 4,
     "rank": 2489,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4be9adaae11ea33f9d704ecca46a5361ab331442",
+    "trader_name": "Homeless26",
+    "tag": "Overall",
+    "overall_gain": 47217.844305702594,
+    "active_positions": 44,
+    "win_amount": 60557.629481894015,
+    "loss_amount": -13339.785176191423,
+    "win_rate": 0.3269230769230769,
+    "total_current_value": 999.896932,
+    "total_positions": 62,
+    "event_ct": 52,
+    "win_count": 17,
+    "rank": 2490,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
