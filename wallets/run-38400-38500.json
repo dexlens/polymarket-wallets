@@ -1486,5 +1486,21 @@
     "win_count": 7,
     "rank": 38494,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9870d97e63dc34c02a10e849da3e0f0042179a72",
+    "trader_name": "jqtdo",
+    "tag": "Overall",
+    "overall_gain": 2086.6207280000003,
+    "active_positions": 1,
+    "win_amount": 2910.6600000000003,
+    "loss_amount": -824.039272,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 38495,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
