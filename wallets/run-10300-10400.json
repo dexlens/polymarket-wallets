@@ -622,5 +622,21 @@
     "win_count": 4,
     "rank": 10339,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x339f6f55b3c3c1fd6bf3273eb83d06bf99fc9f2c",
+    "trader_name": "clemadilemma",
+    "tag": "Overall",
+    "overall_gain": 10166.306867361789,
+    "active_positions": 34,
+    "win_amount": 13837.173214304548,
+    "loss_amount": -3670.86634694276,
+    "win_rate": 0.5,
+    "total_current_value": 0.12636599999999998,
+    "total_positions": 185,
+    "event_ct": 50,
+    "win_count": 25,
+    "rank": 10340,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
