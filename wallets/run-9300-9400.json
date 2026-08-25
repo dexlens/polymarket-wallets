@@ -110,5 +110,21 @@
     "win_count": 20,
     "rank": 9307,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3c02b4aee7f41917adbf21a4db4297fd9aeb5a6d",
+    "trader_name": "kletsabets",
+    "tag": "Overall",
+    "overall_gain": 11266.718447924613,
+    "active_positions": 617,
+    "win_amount": 44853.233990999994,
+    "loss_amount": -33586.51554307537,
+    "win_rate": 0.033894287745911356,
+    "total_current_value": 0,
+    "total_positions": 4361,
+    "event_ct": 4219,
+    "win_count": 143,
+    "rank": 9308,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
