@@ -1470,5 +1470,21 @@
     "win_count": 498,
     "rank": 1092,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x510904c9a58f5c5ad799a1b44947077564175e9c",
+    "trader_name": "Logan.",
+    "tag": "Overall",
+    "overall_gain": 110660.53271062077,
+    "active_positions": 211,
+    "win_amount": 292507.12734250055,
+    "loss_amount": -181846.59463187982,
+    "win_rate": 0.48951048951048953,
+    "total_current_value": 81350.02709716347,
+    "total_positions": 2070,
+    "event_ct": 715,
+    "win_count": 350,
+    "rank": 1093,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions"
   }
 ]
