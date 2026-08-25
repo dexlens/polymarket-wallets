@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 66169,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27f568eb839f0b61bbbe2d5191b5e2cec643baf1",
+    "trader_name": "barmanio",
+    "tag": "Overall",
+    "overall_gain": 911.1053810542651,
+    "active_positions": 13147,
+    "win_amount": 4133.562157679959,
+    "loss_amount": -3222.4567766256937,
+    "win_rate": 0.005847953216374269,
+    "total_current_value": 0.3446100000000001,
+    "total_positions": 13341,
+    "event_ct": 13338,
+    "win_count": 78,
+    "rank": 66170,
+    "trader_tags": "1k+ Positions"
   }
 ]
