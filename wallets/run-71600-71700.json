@@ -446,5 +446,21 @@
     "win_count": 5,
     "rank": 71629,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9d556d63b6f6f6beee6cd8816350be231f0a2ae8",
+    "trader_name": "bigboops",
+    "tag": "Overall",
+    "overall_gain": 774.9042113228805,
+    "active_positions": 6,
+    "win_amount": 2547.274458499825,
+    "loss_amount": -1772.3702471769438,
+    "win_rate": 0.7808695652173913,
+    "total_current_value": 1096.8175140000005,
+    "total_positions": 1343,
+    "event_ct": 575,
+    "win_count": 449,
+    "rank": 71630,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
