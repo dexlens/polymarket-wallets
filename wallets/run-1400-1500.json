@@ -1342,5 +1342,21 @@
     "win_count": 57,
     "rank": 1484,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa102b434ce441a3119e146f75ed6276ee1a836d9",
+    "trader_name": "tf2",
+    "tag": "Overall",
+    "overall_gain": 81348.40722609217,
+    "active_positions": 49,
+    "win_amount": 110107.12017893571,
+    "loss_amount": -28758.71295284356,
+    "win_rate": 0.726027397260274,
+    "total_current_value": 212557.28789,
+    "total_positions": 612,
+    "event_ct": 292,
+    "win_count": 212,
+    "rank": 1485,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
