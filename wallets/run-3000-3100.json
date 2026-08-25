@@ -1246,5 +1246,21 @@
     "win_count": 42,
     "rank": 3078,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3cafe19c407342bc7cea21424e861c37038c6d8a",
+    "trader_name": "FortunatelyFestive",
+    "tag": "Overall",
+    "overall_gain": 37174.34727649172,
+    "active_positions": 5,
+    "win_amount": 37510.67693412504,
+    "loss_amount": -336.32965763334005,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 136676.1034950775,
+    "total_positions": 98,
+    "event_ct": 95,
+    "win_count": 80,
+    "rank": 3079,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
