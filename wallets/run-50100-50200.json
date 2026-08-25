@@ -958,5 +958,21 @@
     "win_count": 13,
     "rank": 50161,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x92837fcef0be5ab1a8d17eb22724864ca54f518b",
+    "trader_name": "cyai",
+    "tag": "Overall",
+    "overall_gain": 1477.615,
+    "active_positions": 1,
+    "win_amount": 1477.615,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.165000000000001,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 50162,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
