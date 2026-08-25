@@ -558,5 +558,21 @@
     "win_count": 20,
     "rank": 6535,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4b78be3554cdd91ef7cc12463015b62b3f1ce679",
+    "trader_name": "Pravda",
+    "tag": "Overall",
+    "overall_gain": 16401.01213606261,
+    "active_positions": 3,
+    "win_amount": 23457.135213392583,
+    "loss_amount": -7056.123077329976,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 17.316351505000007,
+    "total_positions": 74,
+    "event_ct": 52,
+    "win_count": 32,
+    "rank": 6536,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
