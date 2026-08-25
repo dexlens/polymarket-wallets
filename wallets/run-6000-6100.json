@@ -110,5 +110,21 @@
     "win_count": 10,
     "rank": 6007,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x72dddf4f5ac51766f726b361c91b0945e16e3bc3",
+    "trader_name": "bernitasintrayf",
+    "tag": "Overall",
+    "overall_gain": 17857.502432000005,
+    "active_positions": 1,
+    "win_amount": 17873.632432000002,
+    "loss_amount": -16.130000000000003,
+    "win_rate": 0.875,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 6008,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
