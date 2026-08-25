@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 63742,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeed9d4af310f297d9540b8d4af660c8c5a027405",
+    "trader_name": "ris1",
+    "tag": "Overall",
+    "overall_gain": 981.193103839044,
+    "active_positions": 30,
+    "win_amount": 1242.634831897118,
+    "loss_amount": -261.4417280580741,
+    "win_rate": 0.63,
+    "total_current_value": 0.24294538800000004,
+    "total_positions": 172,
+    "event_ct": 100,
+    "win_count": 63,
+    "rank": 63743,
+    "trader_tags": "> 1 year old"
   }
 ]
