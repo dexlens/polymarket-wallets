@@ -894,5 +894,21 @@
     "win_count": 12,
     "rank": 67357,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08472995f0a58191674c4c1c1b15c31c86123480",
+    "trader_name": "mq9536",
+    "tag": "Overall",
+    "overall_gain": 878.8360590000002,
+    "active_positions": 0,
+    "win_amount": 8418.797834999998,
+    "loss_amount": -7539.961775999998,
+    "win_rate": 0.8778661675245671,
+    "total_current_value": 0,
+    "total_positions": 4277,
+    "event_ct": 4274,
+    "win_count": 3752,
+    "rank": 67358,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
