@@ -478,5 +478,21 @@
     "win_count": 3812,
     "rank": 430,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0xedc8b2023897dad9df5b2f47ce79b2cdf1b6cca9",
+    "trader_name": "XORP",
+    "tag": "Overall",
+    "overall_gain": 296689.6048370195,
+    "active_positions": 112,
+    "win_amount": 1349563.4977993942,
+    "loss_amount": -1052873.8929623747,
+    "win_rate": 0.51440329218107,
+    "total_current_value": 0.186574368,
+    "total_positions": 254,
+    "event_ct": 243,
+    "win_count": 125,
+    "rank": 431,
+    "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
   }
 ]
