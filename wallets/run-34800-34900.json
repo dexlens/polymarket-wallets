@@ -1006,5 +1006,21 @@
     "win_count": 2,
     "rank": 34864,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x206d17ccf0f941dd86c589c2b43af8fac3f1b96c",
+    "trader_name": "Ambataan",
+    "tag": "Overall",
+    "overall_gain": 2352.80228259,
+    "active_positions": 9,
+    "win_amount": 3326.982281,
+    "loss_amount": -974.17999841,
+    "win_rate": 0.6,
+    "total_current_value": 0.014721,
+    "total_positions": 29,
+    "event_ct": 25,
+    "win_count": 15,
+    "rank": 34865,
+    "trader_tags": ""
   }
 ]
