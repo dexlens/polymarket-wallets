@@ -766,5 +766,21 @@
     "win_count": 72,
     "rank": 5648,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6b0c1ced67fb4a20ef5b53ce2bad71a0a3ac7923",
+    "trader_name": "Naughtyboy",
+    "tag": "Overall",
+    "overall_gain": 19093.34849217,
+    "active_positions": 1,
+    "win_amount": 22848.267039,
+    "loss_amount": -3754.9185468299993,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0,
+    "total_positions": 24,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 5649,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
