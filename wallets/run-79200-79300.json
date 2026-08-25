@@ -446,5 +446,21 @@
     "win_count": 4,
     "rank": 79229,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd265ba55ea90dd341d183d00a7d09ac89c9034b0",
+    "trader_name": "Xinhua-News",
+    "tag": "Overall",
+    "overall_gain": 643.518830685831,
+    "active_positions": 2,
+    "win_amount": 1112.5350340328496,
+    "loss_amount": -469.016203347019,
+    "win_rate": 0.8564356435643564,
+    "total_current_value": 0.362209843,
+    "total_positions": 279,
+    "event_ct": 202,
+    "win_count": 173,
+    "rank": 79230,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
