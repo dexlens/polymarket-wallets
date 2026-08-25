@@ -494,5 +494,21 @@
     "win_count": 10,
     "rank": 50332,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x5e113bb23c610894b6cb69381b7fa230c536510b",
+    "trader_name": "fth",
+    "tag": "Overall",
+    "overall_gain": 1469.8435686807811,
+    "active_positions": 3,
+    "win_amount": 14862.33874459524,
+    "loss_amount": -13392.495175914459,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 1.345696,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 22,
+    "rank": 50333,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
