@@ -734,5 +734,21 @@
     "win_count": 9,
     "rank": 9846,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xab26a85cfc87f4288e75ea6eac00de76844699b0",
+    "trader_name": "JDAR",
+    "tag": "Overall",
+    "overall_gain": 10641.565595302953,
+    "active_positions": 5,
+    "win_amount": 14089.44466780656,
+    "loss_amount": -3447.8790725036065,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.007888,
+    "total_positions": 11,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 9847,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
