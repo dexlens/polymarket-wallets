@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 82251,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3269102f0297fa480830ee107378f43bbaa7d5b3",
+    "trader_name": "blizy",
+    "tag": "Overall",
+    "overall_gain": 594.485492,
+    "active_positions": 10,
+    "win_amount": 2904.4854920000002,
+    "loss_amount": -2310,
+    "win_rate": 0.55,
+    "total_current_value": 50,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 11,
+    "rank": 82252,
+    "trader_tags": ""
   }
 ]
