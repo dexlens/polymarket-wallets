@@ -1486,5 +1486,21 @@
     "win_count": 499,
     "rank": 1493,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x04fcc9402174209e8859070407059693011eb9b1",
+    "trader_name": "gings",
+    "tag": "Overall",
+    "overall_gain": 80957.17969662341,
+    "active_positions": 0,
+    "win_amount": 110822.30225384206,
+    "loss_amount": -29865.122557218652,
+    "win_rate": 0.8,
+    "total_current_value": 0.107506,
+    "total_positions": 56,
+    "event_ct": 40,
+    "win_count": 32,
+    "rank": 1494,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
