@@ -1582,5 +1582,21 @@
     "win_count": 8,
     "rank": 5499,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xfdc07e182e6f959256295567e450a8727272fa79",
+    "trader_name": "FedWillWin",
+    "tag": "Overall",
+    "overall_gain": 19653.026463035,
+    "active_positions": 0,
+    "win_amount": 19653.026463035,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0000049999999999999996,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 5500,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
