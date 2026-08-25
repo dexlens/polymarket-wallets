@@ -1102,5 +1102,21 @@
     "win_count": 9,
     "rank": 22069,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x329a125fc0104041f1537fdb1db1091d4cb18ff2",
+    "trader_name": "kmvbrws",
+    "tag": "Overall",
+    "overall_gain": 4105.840872000001,
+    "active_positions": 2,
+    "win_amount": 4156.008226000001,
+    "loss_amount": -50.167353999999996,
+    "win_rate": 0.9032258064516129,
+    "total_current_value": 221.694795,
+    "total_positions": 34,
+    "event_ct": 31,
+    "win_count": 28,
+    "rank": 22070,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
