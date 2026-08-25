@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 80068,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x09f1a0af9242af631ab46e91d72c685a8379240f",
+    "trader_name": "eux",
+    "tag": "Overall",
+    "overall_gain": 629.4750021822049,
+    "active_positions": 6,
+    "win_amount": 659.4748204541489,
+    "loss_amount": -29.999818271944,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 1.496003,
+    "total_positions": 19,
+    "event_ct": 18,
+    "win_count": 14,
+    "rank": 80069,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
