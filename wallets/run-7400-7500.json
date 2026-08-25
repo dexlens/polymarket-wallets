@@ -910,5 +910,21 @@
     "win_count": 6,
     "rank": 7457,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1869422e25f746be77df30a53855d85474b030c8",
+    "trader_name": "yelizelek",
+    "tag": "Overall",
+    "overall_gain": 14229.259999999998,
+    "active_positions": 10,
+    "win_amount": 31495.76,
+    "loss_amount": -17266.5,
+    "win_rate": 0.64,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 7458,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
