@@ -1182,5 +1182,21 @@
     "win_count": 4,
     "rank": 5774,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8750163b355eb4dee5e1a57d595cf840d854e96b",
+    "trader_name": "ElvenWisp",
+    "tag": "Overall",
+    "overall_gain": 18625.03852263798,
+    "active_positions": 2,
+    "win_amount": 18625.038522637995,
+    "loss_amount": -1.4551915228366852e-11,
+    "win_rate": 0.9696969696969697,
+    "total_current_value": 278131.01388844545,
+    "total_positions": 49,
+    "event_ct": 33,
+    "win_count": 32,
+    "rank": 5775,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
