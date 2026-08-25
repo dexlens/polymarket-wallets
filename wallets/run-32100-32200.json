@@ -654,5 +654,21 @@
     "win_count": 12,
     "rank": 32142,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25af52a8b44bfe158be649552737942dd2afbcaf",
+    "trader_name": "15coinprice",
+    "tag": "Overall",
+    "overall_gain": 2587.326942723746,
+    "active_positions": 93,
+    "win_amount": 5563.760680788376,
+    "loss_amount": -2976.43373806463,
+    "win_rate": 0.49221183800623053,
+    "total_current_value": 379.61376837999995,
+    "total_positions": 4323,
+    "event_ct": 642,
+    "win_count": 316,
+    "rank": 32143,
+    "trader_tags": "1k+ Positions"
   }
 ]
