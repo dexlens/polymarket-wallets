@@ -1566,5 +1566,21 @@
     "win_count": 7,
     "rank": 18398,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd29d0b50831e005759881d87b133ec40fcc623af",
+    "trader_name": "STRJKRSTKSR",
+    "tag": "Overall",
+    "overall_gain": 5045.966623526851,
+    "active_positions": 2,
+    "win_amount": 5056.586601983324,
+    "loss_amount": -10.619978456472,
+    "win_rate": 0.9696969696969697,
+    "total_current_value": 11.222323,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 32,
+    "rank": 18399,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
