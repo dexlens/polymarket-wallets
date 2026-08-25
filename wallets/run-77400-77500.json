@@ -1182,5 +1182,21 @@
     "win_count": 2,
     "rank": 77475,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x381185f601c6b23ed3e2ace2e8e4655688eb7c79",
+    "trader_name": "U82fix",
+    "tag": "Overall",
+    "overall_gain": 673.1473433213463,
+    "active_positions": 9,
+    "win_amount": 1069.8544800045001,
+    "loss_amount": -396.707136683154,
+    "win_rate": 0.75,
+    "total_current_value": 312.42680004449994,
+    "total_positions": 108,
+    "event_ct": 52,
+    "win_count": 39,
+    "rank": 77476,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
