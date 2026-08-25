@@ -1214,5 +1214,21 @@
     "win_count": 60,
     "rank": 4276,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ebff877641d6494d3a2a30f95ea7501cee6874d",
+    "trader_name": "Beynlor",
+    "tag": "Overall",
+    "overall_gain": 26140.010922999998,
+    "active_positions": 5,
+    "win_amount": 28008.984123,
+    "loss_amount": -1868.9732000000001,
+    "win_rate": 0.88,
+    "total_current_value": 12.38,
+    "total_positions": 54,
+    "event_ct": 50,
+    "win_count": 44,
+    "rank": 4277,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
