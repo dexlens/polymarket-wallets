@@ -542,5 +542,21 @@
     "win_count": 3,
     "rank": 5234,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x29fe83ed6476ad413d94b5b5500b6046f3c77334",
+    "trader_name": "garriso",
+    "tag": "Overall",
+    "overall_gain": 20732.919701,
+    "active_positions": 1,
+    "win_amount": 21214.440701,
+    "loss_amount": -481.521,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 5235,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
