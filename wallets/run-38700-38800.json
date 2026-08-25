@@ -478,5 +478,21 @@
     "win_count": 186,
     "rank": 38731,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5835a25ea6704ec930427dc978c53b2f4e8f3bee",
+    "trader_name": "EveningObserver",
+    "tag": "Overall",
+    "overall_gain": 2070.641064681985,
+    "active_positions": 6,
+    "win_amount": 2173.068223108705,
+    "loss_amount": -102.42715842672,
+    "win_rate": 0.5,
+    "total_current_value": 1033.154715443,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 38732,
+    "trader_tags": "< 30 days old"
   }
 ]
