@@ -574,5 +574,21 @@
     "win_count": 175,
     "rank": 1936,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0aada11f3c5a78aa568f1053ceaf6f08d702db06",
+    "trader_name": "andrey545",
+    "tag": "Overall",
+    "overall_gain": 62386.68307283008,
+    "active_positions": 0,
+    "win_amount": 62386.68307283008,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006768000000000001,
+    "total_positions": 9,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 1937,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
