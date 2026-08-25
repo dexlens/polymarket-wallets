@@ -318,5 +318,21 @@
     "win_count": 24,
     "rank": 47621,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x510e99c23f0afbf959d3f07fa4c1c64106e24e8e",
+    "trader_name": "AporiaArb",
+    "tag": "Overall",
+    "overall_gain": 1589.5,
+    "active_positions": 5,
+    "win_amount": 2348,
+    "loss_amount": -758.5,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 47622,
+    "trader_tags": ""
   }
 ]
