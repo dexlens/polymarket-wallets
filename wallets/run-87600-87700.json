@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 87657,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x71aa3cd9223ef011ee3a60fb884f3cd0e085a2dc",
+    "trader_name": "Abigail-tgbvcfdeyruj",
+    "tag": "Overall",
+    "overall_gain": 517,
+    "active_positions": 4,
+    "win_amount": 2099.5,
+    "loss_amount": -1582.5,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 87658,
+    "trader_tags": ""
   }
 ]
