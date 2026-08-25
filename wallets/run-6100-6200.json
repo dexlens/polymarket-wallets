@@ -974,5 +974,21 @@
     "win_count": 4,
     "rank": 6161,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x15cef98a5a31b98df4000294f34ed196708d8cfa",
+    "trader_name": "phyllisr",
+    "tag": "Overall",
+    "overall_gain": 17385.29,
+    "active_positions": 0,
+    "win_amount": 17385.29,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 6162,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
