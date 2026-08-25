@@ -318,5 +318,21 @@
     "win_count": 5,
     "rank": 34321,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80635356fc5704a44a018378366dcdae3b0fb886",
+    "trader_name": "FunTicketsSoldHere",
+    "tag": "Overall",
+    "overall_gain": 2395.392826907119,
+    "active_positions": 0,
+    "win_amount": 16136.143764315742,
+    "loss_amount": -13740.75093740862,
+    "win_rate": 0.5822784810126582,
+    "total_current_value": 0.4387054549999999,
+    "total_positions": 140,
+    "event_ct": 79,
+    "win_count": 46,
+    "rank": 34322,
+    "trader_tags": ""
   }
 ]
