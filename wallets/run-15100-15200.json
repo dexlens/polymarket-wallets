@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 15125,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d9c68622424e67e3151f50ef034a3893f2b8824",
+    "trader_name": "whalesticks",
+    "tag": "Overall",
+    "overall_gain": 6432.185999671736,
+    "active_positions": 2,
+    "win_amount": 16922.74293115,
+    "loss_amount": -10490.556931478264,
+    "win_rate": 0.9432624113475178,
+    "total_current_value": 498.689217,
+    "total_positions": 2885,
+    "event_ct": 2538,
+    "win_count": 2394,
+    "rank": 15126,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
