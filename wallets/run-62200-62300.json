@@ -366,5 +366,21 @@
     "win_count": 136,
     "rank": 62224,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74b8957930aafee2b1c779ad356dced913c3e10d",
+    "trader_name": "Mythix",
+    "tag": "Overall",
+    "overall_gain": 1016.0447300000001,
+    "active_positions": 3,
+    "win_amount": 2661.4247299999997,
+    "loss_amount": -1645.38,
+    "win_rate": 0.75,
+    "total_current_value": 14.91,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 62225,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
