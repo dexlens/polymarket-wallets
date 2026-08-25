@@ -702,5 +702,21 @@
     "win_count": 3456,
     "rank": 8044,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x73ed6321ad26932415940c53beb5b0ff2b86ff17",
+    "trader_name": "xiaohu12",
+    "tag": "Overall",
+    "overall_gain": 13049.557483487315,
+    "active_positions": 18,
+    "win_amount": 13915.530863257318,
+    "loss_amount": -865.9733797700001,
+    "win_rate": 0.41935483870967744,
+    "total_current_value": 0.016964,
+    "total_positions": 34,
+    "event_ct": 31,
+    "win_count": 13,
+    "rank": 8045,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
