@@ -190,5 +190,21 @@
     "win_count": 3,
     "rank": 37813,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x210c0f8ca9c8e8d0c5d555c18d3fb9b1ef1b2eda",
+    "trader_name": "risk.reward",
+    "tag": "Overall",
+    "overall_gain": 2132.1264046459505,
+    "active_positions": 33,
+    "win_amount": 3762.4883568761325,
+    "loss_amount": -1630.361952230183,
+    "win_rate": 0.6707818930041153,
+    "total_current_value": 294.6691225424999,
+    "total_positions": 938,
+    "event_ct": 486,
+    "win_count": 326,
+    "rank": 37814,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
