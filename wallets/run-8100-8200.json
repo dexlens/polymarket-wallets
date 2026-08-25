@@ -1534,5 +1534,21 @@
     "win_count": 560,
     "rank": 8196,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9df24bfc956d08cb819009d010a4059ccffe8ffb",
+    "trader_name": "Energy4you",
+    "tag": "Overall",
+    "overall_gain": 12842.786126907105,
+    "active_positions": 1,
+    "win_amount": 13050.085738769605,
+    "loss_amount": -207.2996118625,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.019963,
+    "total_positions": 7,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 8197,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
