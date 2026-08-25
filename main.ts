@@ -59,6 +59,7 @@ const wallets = indexdata.wallets;
 const readmefilename = `README.md`;
 const readmedata = await Deno.readTextFile(readmefilename);
 // find the {{ number of wallets }}
-const newreadmedata = readmedata.replace(/{{ number of wallets }}/, `${wallets}`);
+const numberFormatted = wallets.toLocaleString(); 
+const newreadmedata = readmedata.replace(/Wallets: \d+/, `Wallets: ${numberFormatted}`);
 console.log(newreadmedata);
 await Deno.writeTextFile(readmefilename, newreadmedata);
