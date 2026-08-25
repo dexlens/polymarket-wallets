@@ -542,5 +542,21 @@
     "win_count": 36,
     "rank": 2034,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1e1aed3928a9617e7c7ae674c4fa7aebbd9d7690",
+    "trader_name": "Bitgod",
+    "tag": "Overall",
+    "overall_gain": 59358.93527817763,
+    "active_positions": 630,
+    "win_amount": 60890.7790086979,
+    "loss_amount": -1531.843730520273,
+    "win_rate": 0.7781155015197568,
+    "total_current_value": 30824.652290908005,
+    "total_positions": 4420,
+    "event_ct": 329,
+    "win_count": 256,
+    "rank": 2035,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
