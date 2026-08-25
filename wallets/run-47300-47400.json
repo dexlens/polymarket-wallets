@@ -1310,5 +1310,21 @@
     "win_count": 12,
     "rank": 47383,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8190180fc2530a11a1a4f22e37c8fd7cf3c89332",
+    "trader_name": "trypto",
+    "tag": "Overall",
+    "overall_gain": 1599.1715654487136,
+    "active_positions": 4,
+    "win_amount": 1599.1715654487136,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 47384,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
