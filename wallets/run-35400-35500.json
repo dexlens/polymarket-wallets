@@ -1534,5 +1534,21 @@
     "win_count": 15,
     "rank": 35497,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x15d1f8ed6b9600010dd45c4f70ad265f5b19e85f",
+    "trader_name": "Varnex",
+    "tag": "Overall",
+    "overall_gain": 2301.5,
+    "active_positions": 1,
+    "win_amount": 2301.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 35498,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
