@@ -1582,5 +1582,21 @@
     "win_count": 19,
     "rank": 6699,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x359a63e711fd8cc7cc932245946757c3ad1e3638",
+    "trader_name": "freemop",
+    "tag": "Overall",
+    "overall_gain": 16012.61722741,
+    "active_positions": 0,
+    "win_amount": 16012.64990041,
+    "loss_amount": -0.032673,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0.015021,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 6700,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
