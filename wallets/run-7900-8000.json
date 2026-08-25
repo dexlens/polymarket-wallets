@@ -782,5 +782,21 @@
     "win_count": 229,
     "rank": 7949,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd293fa3b215b26be3d214d9447a8e37f4a0b752f",
+    "trader_name": "alphaniko",
+    "tag": "Overall",
+    "overall_gain": 13217.173035794796,
+    "active_positions": 0,
+    "win_amount": 13217.173035794796,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7950,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
