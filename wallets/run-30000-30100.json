@@ -222,5 +222,21 @@
     "win_count": 4,
     "rank": 30015,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa414959df07626055c5ab448280f5d26725b18fe",
+    "trader_name": "justamerchant",
+    "tag": "Overall",
+    "overall_gain": 2816.787609412882,
+    "active_positions": 2,
+    "win_amount": 9336.989717999999,
+    "loss_amount": -6520.202108587118,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 30016,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
