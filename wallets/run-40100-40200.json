@@ -366,5 +366,21 @@
     "win_count": 6,
     "rank": 40124,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17dea5a4fcc9056edc127bb6b0ac931c87accb7b",
+    "trader_name": "Mars9",
+    "tag": "Overall",
+    "overall_gain": 1987.5240453606398,
+    "active_positions": 12,
+    "win_amount": 39015.476272804604,
+    "loss_amount": -37027.95222744393,
+    "win_rate": 0.8431499460625674,
+    "total_current_value": 49.832667380000004,
+    "total_positions": 14211,
+    "event_ct": 13905,
+    "win_count": 11724,
+    "rank": 40125,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
