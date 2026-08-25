@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 38060,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x487728fc51eccc4eb28100234ce8771384047f00",
+    "trader_name": "ertxc",
+    "tag": "Overall",
+    "overall_gain": 2115.1704577699998,
+    "active_positions": 11,
+    "win_amount": 6531.674615,
+    "loss_amount": -4416.504157230001,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 180.01334,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 38061,
+    "trader_tags": ""
   }
 ]
