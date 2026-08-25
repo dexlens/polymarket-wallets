@@ -638,5 +638,21 @@
     "win_count": 5,
     "rank": 8440,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54e12c78dd1ec55e0ff753662daaf156f2b75263",
+    "trader_name": "hexinput",
+    "tag": "Overall",
+    "overall_gain": 12409.00080769787,
+    "active_positions": 2,
+    "win_amount": 13830.50761682039,
+    "loss_amount": -1421.5068091225191,
+    "win_rate": 0.5,
+    "total_current_value": 0.011245,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 8441,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
