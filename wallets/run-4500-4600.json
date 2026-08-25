@@ -1198,5 +1198,21 @@
     "win_count": 3,
     "rank": 4575,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4be5bfbdc705157e075d21ea1926594a03aac1b3",
+    "trader_name": "dsoperative",
+    "tag": "Overall",
+    "overall_gain": 24071.506372952383,
+    "active_positions": 157,
+    "win_amount": 39322.39362124467,
+    "loss_amount": -15250.887248292276,
+    "win_rate": 0.6617647058823529,
+    "total_current_value": 47021.8325212705,
+    "total_positions": 311,
+    "event_ct": 204,
+    "win_count": 135,
+    "rank": 4576,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
