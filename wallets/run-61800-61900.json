@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 61820,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58cef93d6b20486cf9dc832db253cf38ad38e04a",
+    "trader_name": "TrumpGonnaPump",
+    "tag": "Overall",
+    "overall_gain": 1026.6259799999998,
+    "active_positions": 0,
+    "win_amount": 1027.3822799999998,
+    "loss_amount": -0.756299999999996,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 61821,
+    "trader_tags": "> 1 year old"
   }
 ]
