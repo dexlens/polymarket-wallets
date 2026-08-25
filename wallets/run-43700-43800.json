@@ -654,5 +654,21 @@
     "win_count": 3,
     "rank": 43742,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x0a417d8a68c3b17e61f8e5c0a42eeaa1b75a492a",
+    "trader_name": "taincap",
+    "tag": "Overall",
+    "overall_gain": 1780.068273406651,
+    "active_positions": 5,
+    "win_amount": 7954.976836540001,
+    "loss_amount": -6174.908563133352,
+    "win_rate": 0.7894736842105263,
+    "total_current_value": 25548.69109,
+    "total_positions": 22,
+    "event_ct": 19,
+    "win_count": 15,
+    "rank": 43743,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
