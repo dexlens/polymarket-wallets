@@ -414,5 +414,21 @@
     "win_count": 5,
     "rank": 8826,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x413de1b9ea8847638372a21b6550fa7e9ba9df92",
+    "trader_name": "NK25",
+    "tag": "Overall",
+    "overall_gain": 11866.279956162507,
+    "active_positions": 1,
+    "win_amount": 11866.279956162507,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 60111.976377750005,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 8827,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
