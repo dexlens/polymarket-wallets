@@ -878,5 +878,21 @@
     "win_count": 5,
     "rank": 22255,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e4964235cb970b19ddbaf69dcf441d9a14963f2",
+    "trader_name": "FastCave682",
+    "tag": "Overall",
+    "overall_gain": 4063.485962346226,
+    "active_positions": 112,
+    "win_amount": 124156.88136692825,
+    "loss_amount": -120093.39540458196,
+    "win_rate": 0.4220363994097393,
+    "total_current_value": 7.993675393,
+    "total_positions": 3372,
+    "event_ct": 2033,
+    "win_count": 858,
+    "rank": 22256,
+    "trader_tags": "1k+ Positions"
   }
 ]
