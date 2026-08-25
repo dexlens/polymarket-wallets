@@ -174,5 +174,21 @@
     "win_count": 5,
     "rank": 29512,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e739a246938cf6b01de9deea60726ff5683e22b",
+    "trader_name": "Cristoforus",
+    "tag": "Overall",
+    "overall_gain": 2880.196616259534,
+    "active_positions": 2,
+    "win_amount": 2955.687641798352,
+    "loss_amount": -75.49102553881801,
+    "win_rate": 0.75,
+    "total_current_value": 0.007553000000000001,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 29513,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
