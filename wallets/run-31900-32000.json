@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 31950,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2b3d6ed918549e018c5e397482dc329ed0b72a02",
+    "trader_name": "zx02",
+    "tag": "Overall",
+    "overall_gain": 2604.50546,
+    "active_positions": 0,
+    "win_amount": 2622.00404,
+    "loss_amount": -17.49858,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 31951,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
