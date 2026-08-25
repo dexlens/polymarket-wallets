@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 13881,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3626435412a5c38943c98c89d547a0c52de619e2",
+    "trader_name": "Menu",
+    "tag": "Overall",
+    "overall_gain": 7110.870250749604,
+    "active_positions": 18,
+    "win_amount": 11038.316877383604,
+    "loss_amount": -3927.446626634,
+    "win_rate": 0.6521739130434783,
+    "total_current_value": 642.959736929,
+    "total_positions": 56,
+    "event_ct": 46,
+    "win_count": 30,
+    "rank": 13882,
+    "trader_tags": "> 1 year old"
   }
 ]
