@@ -734,5 +734,21 @@
     "win_count": 774,
     "rank": 65247,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c305caee340a8ef051766f0e6340412f38bf0b6",
+    "trader_name": "becon4ik",
+    "tag": "Overall",
+    "overall_gain": 937.8463989840002,
+    "active_positions": 1,
+    "win_amount": 1061.248394984,
+    "loss_amount": -123.401996,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.0089,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 65248,
+    "trader_tags": "> 1 year old"
   }
 ]
