@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 46280,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83b08b585125ccd6060ef31fd633c5a4a108687e",
+    "trader_name": "wpboot",
+    "tag": "Overall",
+    "overall_gain": 1652.9374000000003,
+    "active_positions": 43,
+    "win_amount": 4574.8935,
+    "loss_amount": -2921.9560999999994,
+    "win_rate": 0.5473684210526316,
+    "total_current_value": 0,
+    "total_positions": 95,
+    "event_ct": 95,
+    "win_count": 52,
+    "rank": 46281,
+    "trader_tags": ""
   }
 ]
