@@ -286,5 +286,21 @@
     "win_count": 70,
     "rank": 63919,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4b489dcd15265cdc0359e67598904680a04d38d0",
+    "trader_name": "steelstringsam",
+    "tag": "Overall",
+    "overall_gain": 976.2253200379171,
+    "active_positions": 0,
+    "win_amount": 976.2253200379171,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000021000000000000002,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 63920,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
