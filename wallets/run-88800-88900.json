@@ -830,5 +830,21 @@
     "win_count": 7,
     "rank": 88853,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3dddaa07eebb30dbc777cfab052cc0f9bac8722d",
+    "trader_name": "draker",
+    "tag": "Overall",
+    "overall_gain": 503.39993070569403,
+    "active_positions": 3,
+    "win_amount": 655.2224618570209,
+    "loss_amount": -151.82253115132704,
+    "win_rate": 0.8305785123966942,
+    "total_current_value": 422.8141819999998,
+    "total_positions": 413,
+    "event_ct": 242,
+    "win_count": 201,
+    "rank": 88854,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
