@@ -1486,5 +1486,21 @@
     "win_count": 7,
     "rank": 30794,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf0ceadc30a2c481c0bab8ad4cb188327def56d68",
+    "trader_name": "Zandaka",
+    "tag": "Overall",
+    "overall_gain": 2724.8732362262017,
+    "active_positions": 9,
+    "win_amount": 4818.453358686837,
+    "loss_amount": -2093.5801224606353,
+    "win_rate": 0.463768115942029,
+    "total_current_value": 256.695573384,
+    "total_positions": 74,
+    "event_ct": 69,
+    "win_count": 32,
+    "rank": 30795,
+    "trader_tags": "> 1 year old"
   }
 ]
