@@ -1022,5 +1022,21 @@
     "win_count": 13,
     "rank": 66365,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xde472eaa711b691f852e24b929ce63f5c8334e7f",
+    "trader_name": "paulkplayz",
+    "tag": "Overall",
+    "overall_gain": 906.0538718887209,
+    "active_positions": 15,
+    "win_amount": 1274.3767166159328,
+    "loss_amount": -368.32284472721193,
+    "win_rate": 0.5,
+    "total_current_value": 1007.288071616,
+    "total_positions": 21,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 66366,
+    "trader_tags": "< 30 days old"
   }
 ]
