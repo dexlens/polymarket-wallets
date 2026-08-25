@@ -542,5 +542,21 @@
     "win_count": 2,
     "rank": 38435,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d75500d153e8a00f645a2d943bda54b53b578b9",
+    "trader_name": "leftisright",
+    "tag": "Overall",
+    "overall_gain": 2090.075562828181,
+    "active_positions": 18,
+    "win_amount": 4570.011649101159,
+    "loss_amount": -2479.9360862729777,
+    "win_rate": 0.5658914728682171,
+    "total_current_value": 5171.585273498999,
+    "total_positions": 162,
+    "event_ct": 129,
+    "win_count": 73,
+    "rank": 38436,
+    "trader_tags": "> 1 year old"
   }
 ]
