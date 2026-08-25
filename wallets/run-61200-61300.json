@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 61214,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb666eabe9eb78ed01a80beac283572d4b6980dcb",
+    "trader_name": "juno.moon",
+    "tag": "Overall",
+    "overall_gain": 1042.1178778135989,
+    "active_positions": 17,
+    "win_amount": 3142.7731946011922,
+    "loss_amount": -2100.655316787593,
+    "win_rate": 0.5806451612903226,
+    "total_current_value": 36.406163,
+    "total_positions": 41,
+    "event_ct": 31,
+    "win_count": 18,
+    "rank": 61215,
+    "trader_tags": ""
   }
 ]
