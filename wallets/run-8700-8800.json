@@ -798,5 +798,21 @@
     "win_count": 20,
     "rank": 8750,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6dd9b2a9559fafebc3fa0bf860b56ca3a56fbfe8",
+    "trader_name": "nemace",
+    "tag": "Overall",
+    "overall_gain": 11975.484765201958,
+    "active_positions": 6,
+    "win_amount": 30385.25988484843,
+    "loss_amount": -18409.775119646478,
+    "win_rate": 0.5408163265306123,
+    "total_current_value": 3046.7460588199992,
+    "total_positions": 427,
+    "event_ct": 196,
+    "win_count": 106,
+    "rank": 8751,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
