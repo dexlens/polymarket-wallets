@@ -1486,5 +1486,21 @@
     "win_count": 8,
     "rank": 67094,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x88475728555b8d6a2a67f42163c52b4ba9b91d3c",
+    "trader_name": "Echounter",
+    "tag": "Overall",
+    "overall_gain": 886.5,
+    "active_positions": 1,
+    "win_amount": 1176,
+    "loss_amount": -289.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 67095,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
