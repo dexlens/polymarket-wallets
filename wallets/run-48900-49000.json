@@ -446,5 +446,21 @@
     "win_count": 2,
     "rank": 48929,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b1cdcfec73c9c849a7e1a9b4f4c697bd0585fe8",
+    "trader_name": "Rdl",
+    "tag": "Overall",
+    "overall_gain": 1531.4082586200977,
+    "active_positions": 0,
+    "win_amount": 3227.37597275816,
+    "loss_amount": -1695.967714138062,
+    "win_rate": 0.6724137931034483,
+    "total_current_value": 0.25094500000000003,
+    "total_positions": 236,
+    "event_ct": 116,
+    "win_count": 78,
+    "rank": 48930,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
