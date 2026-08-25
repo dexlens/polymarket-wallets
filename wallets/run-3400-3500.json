@@ -574,5 +574,21 @@
     "win_count": 2964,
     "rank": 3436,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x3e44cfbf234a9616c5f9edddd6bd6bd068854d4a",
+    "trader_name": "yellowtop1",
+    "tag": "Overall",
+    "overall_gain": 33172.369617,
+    "active_positions": 0,
+    "win_amount": 33172.369617,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 3437,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
