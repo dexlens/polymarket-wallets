@@ -142,5 +142,21 @@
     "win_count": 17,
     "rank": 8209,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x71abe97b83eaba3f06cb04fd4d9a03ee37d2f015",
+    "trader_name": "groth",
+    "tag": "Overall",
+    "overall_gain": 12824.819351080978,
+    "active_positions": 38,
+    "win_amount": 13850.135952375917,
+    "loss_amount": -1025.316601294937,
+    "win_rate": 0.6984126984126984,
+    "total_current_value": 16067.500036940999,
+    "total_positions": 128,
+    "event_ct": 63,
+    "win_count": 44,
+    "rank": 8210,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
