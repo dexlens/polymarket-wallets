@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 25260,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x607e2dcd504571fac32ba2c78cfa6756ec9d4011",
+    "trader_name": "io3",
+    "tag": "Overall",
+    "overall_gain": 3495.416406916243,
+    "active_positions": 30,
+    "win_amount": 5118.026987234414,
+    "loss_amount": -1622.6105803181692,
+    "win_rate": 0.4222222222222222,
+    "total_current_value": 8485.306094602502,
+    "total_positions": 46,
+    "event_ct": 45,
+    "win_count": 19,
+    "rank": 25261,
+    "trader_tags": "> 1 year old"
   }
 ]
