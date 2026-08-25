@@ -766,5 +766,21 @@
     "win_count": 20,
     "rank": 12348,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd02ec87d23a909bf21e8b6ef0cde7b948a9f5bad",
+    "trader_name": "nftholy",
+    "tag": "Overall",
+    "overall_gain": 8273.685410514228,
+    "active_positions": 2,
+    "win_amount": 9251.117718786229,
+    "loss_amount": -977.432308272,
+    "win_rate": 0.4,
+    "total_current_value": 0.013253000000000001,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 12349,
+    "trader_tags": ""
   }
 ]
