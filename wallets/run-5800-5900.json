@@ -1182,5 +1182,21 @@
     "win_count": 212,
     "rank": 5874,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdb449ddf8451cb84a06e6c68087715bfdf8048b9",
+    "trader_name": "gzta4",
+    "tag": "Overall",
+    "overall_gain": 18305.545578,
+    "active_positions": 0,
+    "win_amount": 20146.545578,
+    "loss_amount": -1841,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 18,
+    "win_count": 16,
+    "rank": 5875,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
