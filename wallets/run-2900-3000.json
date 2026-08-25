@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 2954,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b36273cb94302190cb8172fd32b073b9370e99b",
+    "trader_name": "tinklebell",
+    "tag": "Overall",
+    "overall_gain": 38893.13394507452,
+    "active_positions": 0,
+    "win_amount": 47264.108454128196,
+    "loss_amount": -8370.974509053684,
+    "win_rate": 0.9571428571428572,
+    "total_current_value": 0.045761,
+    "total_positions": 253,
+    "event_ct": 140,
+    "win_count": 134,
+    "rank": 2955,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
