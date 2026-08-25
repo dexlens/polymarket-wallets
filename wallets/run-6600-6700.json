@@ -1374,5 +1374,21 @@
     "win_count": 2,
     "rank": 6686,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x76eb367111408f548b532e9547c2035f8203c857",
+    "trader_name": "Xinanko",
+    "tag": "Overall",
+    "overall_gain": 16057.540859,
+    "active_positions": 0,
+    "win_amount": 16057.540859,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6687,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
