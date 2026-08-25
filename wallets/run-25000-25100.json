@@ -1054,5 +1054,21 @@
     "win_count": 28,
     "rank": 25067,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe30610ef84a66319c1bdd239c56ae31cfc3ab0ac",
+    "trader_name": "GUIREmethod",
+    "tag": "Overall",
+    "overall_gain": 3524.519146882222,
+    "active_positions": 2,
+    "win_amount": 3801.512952425222,
+    "loss_amount": -276.993805543,
+    "win_rate": 0.9941747572815534,
+    "total_current_value": 0.11731199999999999,
+    "total_positions": 851,
+    "event_ct": 515,
+    "win_count": 512,
+    "rank": 25068,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
