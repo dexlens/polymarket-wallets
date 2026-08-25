@@ -814,5 +814,21 @@
     "win_count": 9,
     "rank": 22651,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a8d3cc9164db8aae39c45cb39d3e68afcbfad4e",
+    "trader_name": "tessgl",
+    "tag": "Overall",
+    "overall_gain": 3992.3803220000004,
+    "active_positions": 0,
+    "win_amount": 4751.010303000001,
+    "loss_amount": -758.629981,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 36,
+    "event_ct": 24,
+    "win_count": 20,
+    "rank": 22652,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
