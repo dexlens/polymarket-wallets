@@ -1054,5 +1054,21 @@
     "win_count": 2,
     "rank": 60467,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6076ea6ad25be62dc062f8c2ec8509baa79e13df",
+    "trader_name": "army",
+    "tag": "Overall",
+    "overall_gain": 1062.57352750214,
+    "active_positions": 1,
+    "win_amount": 1164.4522615021401,
+    "loss_amount": -101.87873400000001,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 28.792139999999996,
+    "total_positions": 29,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 60468,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
