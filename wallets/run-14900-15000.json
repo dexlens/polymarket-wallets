@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 14925,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88f8693fce7f5098c465733f41f39ab301260e6d",
+    "trader_name": "1bed",
+    "tag": "Overall",
+    "overall_gain": 6540.246215663121,
+    "active_positions": 2,
+    "win_amount": 10556.034746274236,
+    "loss_amount": -4015.788530611114,
+    "win_rate": 0.4,
+    "total_current_value": 0.003635,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 6,
+    "rank": 14926,
+    "trader_tags": "> 1 year old"
   }
 ]
