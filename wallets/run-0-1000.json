@@ -5758,5 +5758,21 @@
     "win_count": 1,
     "rank": 360,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x5c3a1a602848565bb16165fcd460b00c3d43020b",
+    "trader_name": "CoryLahey",
+    "tag": "Overall",
+    "overall_gain": 353806.8233697361,
+    "active_positions": 212,
+    "win_amount": 1881118.8246968866,
+    "loss_amount": -1527312.0013271507,
+    "win_rate": 0.5653104925053534,
+    "total_current_value": 163988.53909230602,
+    "total_positions": 675,
+    "event_ct": 467,
+    "win_count": 264,
+    "rank": 361,
+    "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
   }
 ]
