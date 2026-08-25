@@ -862,5 +862,21 @@
     "win_count": 113,
     "rank": 2254,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf67f72df65797a85dc9fd44d57adfe5b7b4a31cf",
+    "trader_name": "SmallFishInWhaleStomach",
+    "tag": "Overall",
+    "overall_gain": 52891.97809456644,
+    "active_positions": 6,
+    "win_amount": 89759.33191008646,
+    "loss_amount": -36867.353815520044,
+    "win_rate": 0.855072463768116,
+    "total_current_value": 237866.18675019353,
+    "total_positions": 133,
+    "event_ct": 69,
+    "win_count": 59,
+    "rank": 2255,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
