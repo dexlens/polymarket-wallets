@@ -1278,5 +1278,21 @@
     "win_count": 11,
     "rank": 14580,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57d42e6887fe219365c8c2f862b0350c79a01b54",
+    "trader_name": "SDXdLGjcF",
+    "tag": "Overall",
+    "overall_gain": 6741.174267546222,
+    "active_positions": 10,
+    "win_amount": 17419.657178546222,
+    "loss_amount": -10678.482911,
+    "win_rate": 0.64,
+    "total_current_value": 6.107222,
+    "total_positions": 27,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 14581,
+    "trader_tags": ""
   }
 ]
