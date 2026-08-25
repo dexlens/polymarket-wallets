@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 62275,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb624ced0831cc9b1c53ed4d7e9a39d41931c0479",
+    "trader_name": "PPPPff",
+    "tag": "Overall",
+    "overall_gain": 1014.9545587800001,
+    "active_positions": 6,
+    "win_amount": 2367.012742,
+    "loss_amount": -1352.05818322,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 9,
+    "rank": 62276,
+    "trader_tags": "< 30 days old"
   }
 ]
