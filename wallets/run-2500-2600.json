@@ -1550,5 +1550,21 @@
     "win_count": 54,
     "rank": 2597,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5baa5124f97eea590b63fbc584c5a14f13a2d1b0",
+    "trader_name": "Elvianor",
+    "tag": "Overall",
+    "overall_gain": 44777.175948671415,
+    "active_positions": 2,
+    "win_amount": 46045.45680858412,
+    "loss_amount": -1268.2808599127009,
+    "win_rate": 0.8769230769230769,
+    "total_current_value": 0.00021,
+    "total_positions": 66,
+    "event_ct": 65,
+    "win_count": 57,
+    "rank": 2598,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
