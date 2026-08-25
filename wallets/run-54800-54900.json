@@ -430,5 +430,21 @@
     "win_count": 2,
     "rank": 54828,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x021ec85177bfeda24243e64fafca372c0ed61e56",
+    "trader_name": "Evelyt",
+    "tag": "Overall",
+    "overall_gain": 1266.6955327346661,
+    "active_positions": 4,
+    "win_amount": 1726.2260250000002,
+    "loss_amount": -459.5304922653339,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.005011,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 16,
+    "rank": 54829,
+    "trader_tags": "> 1 year old"
   }
 ]
