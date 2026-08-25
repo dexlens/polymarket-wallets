@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 59273,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2088b9f60cbd72846a460c1bd86e28e7234ff932",
+    "trader_name": "Skyeban",
+    "tag": "Overall",
+    "overall_gain": 1099.6942528917243,
+    "active_positions": 13,
+    "win_amount": 1373.968705146505,
+    "loss_amount": -274.274452254781,
+    "win_rate": 0.6756756756756757,
+    "total_current_value": 0.00016900000000000002,
+    "total_positions": 38,
+    "event_ct": 37,
+    "win_count": 25,
+    "rank": 59274,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
