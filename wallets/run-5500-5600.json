@@ -622,5 +622,21 @@
     "win_count": 31,
     "rank": 5539,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0d05b729b369f742a3b47b1312de4424ad396a81",
+    "trader_name": "HMRevenueandCustoms",
+    "tag": "Overall",
+    "overall_gain": 19514.54004084115,
+    "active_positions": 15,
+    "win_amount": 70492.12787051176,
+    "loss_amount": -50977.58782967062,
+    "win_rate": 0.312807881773399,
+    "total_current_value": 1603.9157153285,
+    "total_positions": 635,
+    "event_ct": 406,
+    "win_count": 127,
+    "rank": 5540,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
