@@ -446,5 +446,21 @@
     "win_count": 15,
     "rank": 19028,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xfd51f764a5fd523eda26b5b9c62f4d350c9e8526",
+    "trader_name": "Larkinwood",
+    "tag": "Overall",
+    "overall_gain": 4888.719785673015,
+    "active_positions": 2,
+    "win_amount": 4893.719776660179,
+    "loss_amount": -4.999990987164001,
+    "win_rate": 0.9,
+    "total_current_value": 5.01760455,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 19029,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
