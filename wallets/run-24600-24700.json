@@ -542,5 +542,21 @@
     "win_count": 10,
     "rank": 24635,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf2d40781ff39cdba3e4ebe624d22cf2d30432037",
+    "trader_name": "notyourbet",
+    "tag": "Overall",
+    "overall_gain": 3605.3096266910243,
+    "active_positions": 6,
+    "win_amount": 17343.375948444933,
+    "loss_amount": -13738.066321753911,
+    "win_rate": 0.5058823529411764,
+    "total_current_value": 42699.593692653994,
+    "total_positions": 109,
+    "event_ct": 85,
+    "win_count": 43,
+    "rank": 24636,
+    "trader_tags": ""
   }
 ]
