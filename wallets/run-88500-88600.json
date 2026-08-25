@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 88588,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf37b2a165acb46cb426847a8a5f396c25a97da7a",
+    "trader_name": "Hedged",
+    "tag": "Overall",
+    "overall_gain": 506.4410103745808,
+    "active_positions": 0,
+    "win_amount": 5904.669463767375,
+    "loss_amount": -5398.228453392795,
+    "win_rate": 0.6323529411764706,
+    "total_current_value": 0.37288599999999994,
+    "total_positions": 258,
+    "event_ct": 204,
+    "win_count": 129,
+    "rank": 88589,
+    "trader_tags": "> 1 year old"
   }
 ]
