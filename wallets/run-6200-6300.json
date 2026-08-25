@@ -862,5 +862,21 @@
     "win_count": 2,
     "rank": 6254,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x860377836e6758dd54f9f74099645341d5fc3359",
+    "trader_name": "Guinevereg",
+    "tag": "Overall",
+    "overall_gain": 17135,
+    "active_positions": 2,
+    "win_amount": 18373.5,
+    "loss_amount": -1238.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 6255,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
