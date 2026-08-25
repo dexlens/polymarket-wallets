@@ -878,5 +878,21 @@
     "win_count": 2,
     "rank": 79356,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5ad58c9c6e82b06e6cbe661b550a3161c9ab8919",
+    "trader_name": "Lacroiz",
+    "tag": "Overall",
+    "overall_gain": 641.259618773031,
+    "active_positions": 3,
+    "win_amount": 1087.561773152859,
+    "loss_amount": -446.302154379828,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.032496,
+    "total_positions": 17,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 79357,
+    "trader_tags": "< 30 days old"
   }
 ]
