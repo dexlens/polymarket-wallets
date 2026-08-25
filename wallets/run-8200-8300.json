@@ -750,5 +750,21 @@
     "win_count": 2,
     "rank": 8247,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbca8b97bdb5dbe33151074f04d0948238a6acf14",
+    "trader_name": "chickenpenguin",
+    "tag": "Overall",
+    "overall_gain": 12757.456234494592,
+    "active_positions": 22,
+    "win_amount": 62354.039194838784,
+    "loss_amount": -49596.58296034418,
+    "win_rate": 0.5985915492957746,
+    "total_current_value": 3.377824,
+    "total_positions": 333,
+    "event_ct": 142,
+    "win_count": 85,
+    "rank": 8248,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
