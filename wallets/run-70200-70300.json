@@ -334,5 +334,21 @@
     "win_count": 20,
     "rank": 70222,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x7f9278408672ff7c261c314937037221c757cc7d",
+    "trader_name": "sdhbgvksjd",
+    "tag": "Overall",
+    "overall_gain": 805.5400000000001,
+    "active_positions": 3,
+    "win_amount": 1816.5400000000002,
+    "loss_amount": -1011,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 70223,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
