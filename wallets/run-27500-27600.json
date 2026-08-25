@@ -14,5 +14,21 @@
     "win_count": 1,
     "rank": 27502,
     "trader_tags": "Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x142f92b952330c5084fb31ce3c39ecf52e4ed7b6",
+    "trader_name": "IntegerInquirer",
+    "tag": "Overall",
+    "overall_gain": 3133,
+    "active_positions": 1,
+    "win_amount": 3335.5,
+    "loss_amount": -202.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 27503,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
