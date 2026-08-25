@@ -366,5 +366,21 @@
     "win_count": 20,
     "rank": 5523,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3ca2069370c972d6434613241e7ca73ccbb0f813",
+    "trader_name": "AIYUA",
+    "tag": "Overall",
+    "overall_gain": 19560.409837936,
+    "active_positions": 6,
+    "win_amount": 20309.276458000004,
+    "loss_amount": -748.866620064002,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 20.5625405,
+    "total_positions": 36,
+    "event_ct": 31,
+    "win_count": 22,
+    "rank": 5524,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
