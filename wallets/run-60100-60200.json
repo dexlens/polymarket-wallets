@@ -318,5 +318,21 @@
     "win_count": 52,
     "rank": 60121,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x322427ebc93be08b0154366ee0c356dd64f8702c",
+    "trader_name": "wfe",
+    "tag": "Overall",
+    "overall_gain": 1072.576438,
+    "active_positions": 0,
+    "win_amount": 1072.576438,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 60122,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
