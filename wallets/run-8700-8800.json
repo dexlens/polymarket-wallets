@@ -974,5 +974,21 @@
     "win_count": 20,
     "rank": 8761,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x59ab91b132aad638d4ca68e8ba8990ca873ed634",
+    "trader_name": "azutwifbt",
+    "tag": "Overall",
+    "overall_gain": 11966.8,
+    "active_positions": 0,
+    "win_amount": 11966.8,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 8762,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
