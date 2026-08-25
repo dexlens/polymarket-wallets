@@ -1310,5 +1310,21 @@
     "win_count": 8,
     "rank": 65383,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0eeed0b0adf5fabd1831c8ba286964e243c15b68",
+    "trader_name": "Picador",
+    "tag": "Overall",
+    "overall_gain": 933.609192104656,
+    "active_positions": 10,
+    "win_amount": 1227.3929770301538,
+    "loss_amount": -293.78378492549797,
+    "win_rate": 0.8627450980392157,
+    "total_current_value": 6798.913719902,
+    "total_positions": 70,
+    "event_ct": 51,
+    "win_count": 44,
+    "rank": 65384,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
