@@ -638,5 +638,21 @@
     "win_count": 12,
     "rank": 14240,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41addef58334b482d3f45150797c517bf4fff013",
+    "trader_name": "zqmva",
+    "tag": "Overall",
+    "overall_gain": 6920.262496,
+    "active_positions": 0,
+    "win_amount": 7127.242496000001,
+    "loss_amount": -206.98,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 14241,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
