@@ -1118,5 +1118,21 @@
     "win_count": 20,
     "rank": 21370,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe6cab4838ba2a52e6159295ecea8b441666f2b3e",
+    "trader_name": "ddddwerca",
+    "tag": "Overall",
+    "overall_gain": 4265.733372687093,
+    "active_positions": 2,
+    "win_amount": 4745.7316040000005,
+    "loss_amount": -479.998231312907,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 21371,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
