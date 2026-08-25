@@ -798,5 +798,21 @@
     "win_count": 11,
     "rank": 2450,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdc9986ee952b74bc5bd36ef03dff16b02b2dede8",
+    "trader_name": "Zephiron",
+    "tag": "Overall",
+    "overall_gain": 48000.80260538154,
+    "active_positions": 4,
+    "win_amount": 49491.81257212409,
+    "loss_amount": -1491.0099667425432,
+    "win_rate": 0.90625,
+    "total_current_value": 89.77515600000001,
+    "total_positions": 67,
+    "event_ct": 64,
+    "win_count": 58,
+    "rank": 2451,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
