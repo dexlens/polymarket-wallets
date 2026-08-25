@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 67935,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0260efb5cd2ad2bf672cf44241d667f18da172e3",
+    "trader_name": "IdanTheEntropyTrader12",
+    "tag": "Overall",
+    "overall_gain": 862.1614697450011,
+    "active_positions": 0,
+    "win_amount": 1089.647993857535,
+    "loss_amount": -227.486524112534,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.007535,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 67936,
+    "trader_tags": ""
   }
 ]
