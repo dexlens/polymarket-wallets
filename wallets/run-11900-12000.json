@@ -1086,5 +1086,21 @@
     "win_count": 4,
     "rank": 11968,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3a85c525f54e58d162c4a0b73730ea194d7b10e3",
+    "trader_name": "samccc1",
+    "tag": "Overall",
+    "overall_gain": 8628.40656960398,
+    "active_positions": 48,
+    "win_amount": 63105.84005761981,
+    "loss_amount": -54477.43348801582,
+    "win_rate": 0.7448316597755463,
+    "total_current_value": 81.727432,
+    "total_positions": 2219,
+    "event_ct": 1693,
+    "win_count": 1261,
+    "rank": 11969,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
