@@ -142,5 +142,21 @@
     "win_count": 11,
     "rank": 10509,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xe1baed8fce509b1e9c0b97425984b544dc4889ae",
+    "trader_name": "grexor",
+    "tag": "Overall",
+    "overall_gain": 10016.742753480088,
+    "active_positions": 0,
+    "win_amount": 10775.662473181848,
+    "loss_amount": -758.91971970176,
+    "win_rate": 0.5,
+    "total_current_value": 0.005445,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 10510,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
