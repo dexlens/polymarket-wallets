@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 14353,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8066931a714a1845df87ea5d8648d9f8f4d0031a",
+    "trader_name": "rare3",
+    "tag": "Overall",
+    "overall_gain": 6852.531864820977,
+    "active_positions": 1,
+    "win_amount": 8044.196424179577,
+    "loss_amount": -1191.6645593586002,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 5537.7147383865,
+    "total_positions": 29,
+    "event_ct": 22,
+    "win_count": 16,
+    "rank": 14354,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
