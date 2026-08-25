@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 86063,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x600c9f52d911d097d8dda27ce800d094e4ff8bd4",
+    "trader_name": "WeatherKing",
+    "tag": "Overall",
+    "overall_gain": 538.4738404708231,
+    "active_positions": 14,
+    "win_amount": 886.3230574183167,
+    "loss_amount": -347.84921694749397,
+    "win_rate": 0.8593155893536122,
+    "total_current_value": 62.389911676000004,
+    "total_positions": 573,
+    "event_ct": 263,
+    "win_count": 226,
+    "rank": 86064,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
