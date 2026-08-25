@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 33913,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x636d97e2a2be34f6a16ccd0bdc81099cbbb48ea7",
+    "trader_name": "kksz",
+    "tag": "Overall",
+    "overall_gain": 2431.5473439999996,
+    "active_positions": 0,
+    "win_amount": 2438.026344,
+    "loss_amount": -6.479,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 33914,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
