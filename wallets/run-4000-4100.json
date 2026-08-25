@@ -558,5 +558,21 @@
     "win_count": 7,
     "rank": 4035,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x803208887a554300023eba7cab427ff05a63cdad",
+    "trader_name": "bunjaujai",
+    "tag": "Overall",
+    "overall_gain": 27796.556161319324,
+    "active_positions": 1,
+    "win_amount": 29286.976450000002,
+    "loss_amount": -1490.420288680678,
+    "win_rate": 0.2,
+    "total_current_value": 0.0000049999999999999996,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 3,
+    "rank": 4036,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
