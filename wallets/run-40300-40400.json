@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 40400,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x09390abfa42da81db86320b6e2672226a4478137",
+    "trader_name": "02-lucky-moon",
+    "tag": "Overall",
+    "overall_gain": 1971.221536844927,
+    "active_positions": 1,
+    "win_amount": 3663.24171660361,
+    "loss_amount": -1692.0201797586822,
+    "win_rate": 0.5909090909090909,
+    "total_current_value": 282.222556774,
+    "total_positions": 129,
+    "event_ct": 66,
+    "win_count": 39,
+    "rank": 40401,
+    "trader_tags": "> 1 year old"
   }
 ]
