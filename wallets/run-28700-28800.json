@@ -318,5 +318,21 @@
     "win_count": 5,
     "rank": 28721,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4986ef934cbda4420b22d58708ff74cb465b8bc9",
+    "trader_name": "lettuce",
+    "tag": "Overall",
+    "overall_gain": 2983.483320195266,
+    "active_positions": 744,
+    "win_amount": 8790.404089891601,
+    "loss_amount": -5806.920769696337,
+    "win_rate": 0.7163461538461539,
+    "total_current_value": 5790.440927,
+    "total_positions": 3596,
+    "event_ct": 416,
+    "win_count": 298,
+    "rank": 28722,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
