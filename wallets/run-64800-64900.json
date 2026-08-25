@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 64898,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ad82a7c99797941e67c8c66301af6d57ccd4a4f",
+    "trader_name": "FireScribe",
+    "tag": "Overall",
+    "overall_gain": 948.44,
+    "active_positions": 1,
+    "win_amount": 1015,
+    "loss_amount": -66.56,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 64899,
+    "trader_tags": ""
   }
 ]
