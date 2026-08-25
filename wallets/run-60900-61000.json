@@ -910,5 +910,21 @@
     "win_count": 6,
     "rank": 60958,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xff9c01004999f636c8998e76f31307babbecabd0",
+    "trader_name": "CutWastefulGovernmentSpending",
+    "tag": "Overall",
+    "overall_gain": 1048.931352658917,
+    "active_positions": 0,
+    "win_amount": 1363.288735252917,
+    "loss_amount": -314.357382594,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.010944,
+    "total_positions": 21,
+    "event_ct": 14,
+    "win_count": 8,
+    "rank": 60959,
+    "trader_tags": "> 1 year old"
   }
 ]
