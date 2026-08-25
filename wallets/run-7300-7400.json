@@ -478,5 +478,21 @@
     "win_count": 595,
     "rank": 7330,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x8c35e9c6dbe3c7cb762f1b431de52fd0cf9288e6",
+    "trader_name": "miltonopt",
+    "tag": "Overall",
+    "overall_gain": 14517.5,
+    "active_positions": 0,
+    "win_amount": 17677,
+    "loss_amount": -3159.5,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 7331,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
