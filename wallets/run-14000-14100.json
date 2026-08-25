@@ -462,5 +462,21 @@
     "win_count": 3,
     "rank": 14029,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x536880cc5b57761bb1379691b43e659162bf9dd4",
+    "trader_name": "MountainGoat",
+    "tag": "Overall",
+    "overall_gain": 7035.229325710789,
+    "active_positions": 1,
+    "win_amount": 18606.139019710787,
+    "loss_amount": -11570.909693999998,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 0.014168,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 8,
+    "rank": 14030,
+    "trader_tags": "> 1 year old"
   }
 ]
