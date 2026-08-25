@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 9274,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3a8ba694507cdf1ada5b43664d9c24918414f69d",
+    "trader_name": "Quinloris",
+    "tag": "Overall",
+    "overall_gain": 11308.203398560054,
+    "active_positions": 4,
+    "win_amount": 11416.243393560053,
+    "loss_amount": -108.03999500000003,
+    "win_rate": 0.9148936170212766,
+    "total_current_value": 0.000255,
+    "total_positions": 53,
+    "event_ct": 47,
+    "win_count": 43,
+    "rank": 9275,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
