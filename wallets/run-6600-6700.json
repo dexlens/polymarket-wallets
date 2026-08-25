@@ -638,5 +638,21 @@
     "win_count": 119,
     "rank": 6640,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x39edb5fdbb2e2c9e67785ff1798218fcf14fb852",
+    "trader_name": "elyseconse",
+    "tag": "Overall",
+    "overall_gain": 16166,
+    "active_positions": 1,
+    "win_amount": 16225,
+    "loss_amount": -59,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 6641,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
