@@ -206,5 +206,21 @@
     "win_count": 4,
     "rank": 10413,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x837f2f8db1d10e985a52f714263c96bdcfb686b7",
+    "trader_name": "1mDream",
+    "tag": "Overall",
+    "overall_gain": 10095.523053570509,
+    "active_positions": 7,
+    "win_amount": 10095.523053570509,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 12228.3755363245,
+    "total_positions": 15,
+    "event_ct": 8,
+    "win_count": 8,
+    "rank": 10414,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
