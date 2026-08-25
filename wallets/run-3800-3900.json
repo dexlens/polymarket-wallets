@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 3853,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
+    "trader_name": "Arbguy",
+    "tag": "Overall",
+    "overall_gain": 29441.02914264386,
+    "active_positions": 33,
+    "win_amount": 2162143.695417618,
+    "loss_amount": -2132702.6662749737,
+    "win_rate": 0.4811643835616438,
+    "total_current_value": 241477.05493562054,
+    "total_positions": 900,
+    "event_ct": 584,
+    "win_count": 281,
+    "rank": 3854,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Politics PnL > $100k"
   }
 ]
