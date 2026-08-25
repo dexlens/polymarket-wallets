@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 26769,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3375bfaa5ac51486e5b27588ae5f6e9caabc727b",
+    "trader_name": "NictateNode",
+    "tag": "Overall",
+    "overall_gain": 3242.5,
+    "active_positions": 2,
+    "win_amount": 4000.5,
+    "loss_amount": -758,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 26770,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
