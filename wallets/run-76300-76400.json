@@ -414,5 +414,21 @@
     "win_count": 219,
     "rank": 76327,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0dc4ee2d77fb8b4e246c5c59a8f615c198e71ee7",
+    "trader_name": "tl84",
+    "tag": "Overall",
+    "overall_gain": 693.791627692142,
+    "active_positions": 0,
+    "win_amount": 693.914728,
+    "loss_amount": -0.12310030785800001,
+    "win_rate": 0.75,
+    "total_current_value": 0.000142,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 76328,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
