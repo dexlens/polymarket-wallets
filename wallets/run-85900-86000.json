@@ -1470,5 +1470,21 @@
     "win_count": 16,
     "rank": 85993,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdade6abce8edf28ddce0f8381f6a444ca27f8e37",
+    "trader_name": "RoadtoHanna",
+    "tag": "Overall",
+    "overall_gain": 539.2593998923801,
+    "active_positions": 4,
+    "win_amount": 2333.514878652379,
+    "loss_amount": -1794.2554787599997,
+    "win_rate": 0.4883720930232558,
+    "total_current_value": 165.77932300000003,
+    "total_positions": 156,
+    "event_ct": 129,
+    "win_count": 63,
+    "rank": 85994,
+    "trader_tags": "< 30 days old"
   }
 ]
