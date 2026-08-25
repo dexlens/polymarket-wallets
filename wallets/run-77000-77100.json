@@ -862,5 +862,21 @@
     "win_count": 16,
     "rank": 77055,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7d7331199c399c16e0691dd0e82c7cfa0ddb90d4",
+    "trader_name": "brainrotking",
+    "tag": "Overall",
+    "overall_gain": 681.1207088156509,
+    "active_positions": 0,
+    "win_amount": 681.1207088156509,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005651,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 77056,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
