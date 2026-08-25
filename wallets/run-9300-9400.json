@@ -382,5 +382,21 @@
     "win_count": 7,
     "rank": 9324,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x42ca1f301b18b7332d881da69ace808b7f7ea355",
+    "trader_name": "based-department-project-manager",
+    "tag": "Overall",
+    "overall_gain": 11237.900498626354,
+    "active_positions": 0,
+    "win_amount": 11237.900498626354,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000022000000000000003,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 9325,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
