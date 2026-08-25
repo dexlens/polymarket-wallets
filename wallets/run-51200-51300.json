@@ -878,5 +878,21 @@
     "win_count": 25,
     "rank": 51256,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4c8cafa15bd0ab56b8f42ca60c907dd4416b5f3d",
+    "trader_name": "failedgenius",
+    "tag": "Overall",
+    "overall_gain": 1426.02270955,
+    "active_positions": 32,
+    "win_amount": 1988.740142,
+    "loss_amount": -562.71743245,
+    "win_rate": 0.9602169981916817,
+    "total_current_value": 0,
+    "total_positions": 636,
+    "event_ct": 553,
+    "win_count": 531,
+    "rank": 51257,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
