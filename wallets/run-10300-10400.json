@@ -878,5 +878,21 @@
     "win_count": 8,
     "rank": 10355,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x530cbea3e6c5ae98a1ea05e4b73edb473f98fb1b",
+    "trader_name": "GooseEgg",
+    "tag": "Overall",
+    "overall_gain": 10149.20433986535,
+    "active_positions": 3,
+    "win_amount": 41322.549608233785,
+    "loss_amount": -31173.34526836844,
+    "win_rate": 0.8927680798004988,
+    "total_current_value": 0.30191,
+    "total_positions": 476,
+    "event_ct": 401,
+    "win_count": 358,
+    "rank": 10356,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
