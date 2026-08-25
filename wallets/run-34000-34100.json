@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 34059,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ad9a358187fe0b362d2f3ba2970e354314390de",
+    "trader_name": "bobD",
+    "tag": "Overall",
+    "overall_gain": 2419.102930680694,
+    "active_positions": 2,
+    "win_amount": 2932.097007590882,
+    "loss_amount": -512.9940769101879,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.005977,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 34060,
+    "trader_tags": "> 1 year old"
   }
 ]
