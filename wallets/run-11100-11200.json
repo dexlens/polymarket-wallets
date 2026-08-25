@@ -30,5 +30,21 @@
     "win_count": 5,
     "rank": 11102,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f0a9345f184441f620f50dadd69eeed31ddac0b",
+    "trader_name": "dig - 5020",
+    "tag": "Overall",
+    "overall_gain": 9480.425437558595,
+    "active_positions": 3,
+    "win_amount": 17120.865142911724,
+    "loss_amount": -7640.439705353129,
+    "win_rate": 0.6571428571428571,
+    "total_current_value": 0.010561954971071074,
+    "total_positions": 67,
+    "event_ct": 35,
+    "win_count": 23,
+    "rank": 11103,
+    "trader_tags": "> 1 year old"
   }
 ]
