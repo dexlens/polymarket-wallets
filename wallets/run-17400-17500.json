@@ -734,5 +734,21 @@
     "win_count": 3,
     "rank": 17446,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a5147d7af926edc3054c2e4cfe9becd36c14ef6",
+    "trader_name": "ethmaker1",
+    "tag": "Overall",
+    "overall_gain": 5376.564210872432,
+    "active_positions": 235,
+    "win_amount": 97947.71149945688,
+    "loss_amount": -92571.14728858444,
+    "win_rate": 0.526009582477755,
+    "total_current_value": 1338.0877146799999,
+    "total_positions": 11071,
+    "event_ct": 5844,
+    "win_count": 3074,
+    "rank": 17447,
+    "trader_tags": "1k+ Positions"
   }
 ]
