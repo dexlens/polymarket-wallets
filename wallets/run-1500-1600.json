@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 1553,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1355fbfd5f3c3d8da9d8227964fc185f63686591",
+    "trader_name": "O.G.Degen",
+    "tag": "Overall",
+    "overall_gain": 77957.58858076416,
+    "active_positions": 557,
+    "win_amount": 135130.76490415938,
+    "loss_amount": -57173.17632339518,
+    "win_rate": 0.4215686274509804,
+    "total_current_value": 0.153617,
+    "total_positions": 697,
+    "event_ct": 102,
+    "win_count": 43,
+    "rank": 1554,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
