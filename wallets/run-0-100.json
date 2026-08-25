@@ -846,5 +846,21 @@
     "win_count": 15,
     "rank": 53,
     "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x212954857f5efc138748c33d032a93bf95974222",
+    "trader_name": "3bpatgs",
+    "tag": "Overall",
+    "overall_gain": 1687144.7178740043,
+    "active_positions": 6,
+    "win_amount": 7848478.520382745,
+    "loss_amount": -6161333.802508738,
+    "win_rate": 0.5522709475332811,
+    "total_current_value": 248.35809698000003,
+    "total_positions": 16574,
+    "event_ct": 5108,
+    "win_count": 2821,
+    "rank": 54,
+    "trader_tags": "Overall PnL > $1m; 1k+ Positions; Sports PnL > $100k"
   }
 ]
