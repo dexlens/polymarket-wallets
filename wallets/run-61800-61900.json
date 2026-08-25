@@ -1406,5 +1406,21 @@
     "win_count": 5,
     "rank": 61889,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ab735da86ed6a8e9d8372ceb3d6c7e5adbde03f",
+    "trader_name": "Oriny",
+    "tag": "Overall",
+    "overall_gain": 1025,
+    "active_positions": 0,
+    "win_amount": 1025,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 61890,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
