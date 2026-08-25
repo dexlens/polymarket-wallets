@@ -462,5 +462,21 @@
     "win_count": 2,
     "rank": 4329,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x36a708485c603a477804ec74122475647629f03b",
+    "trader_name": "SRD1",
+    "tag": "Overall",
+    "overall_gain": 25694.438507370847,
+    "active_positions": 187,
+    "win_amount": 80101.61663220884,
+    "loss_amount": -54407.17812483797,
+    "win_rate": 0.5453053652968036,
+    "total_current_value": 11590.748120200002,
+    "total_positions": 27384,
+    "event_ct": 14016,
+    "win_count": 7643,
+    "rank": 4330,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
