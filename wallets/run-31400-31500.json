@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 31449,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2054d0e9d7600ee7801f98aefcbd3ce2d97fbdba",
+    "trader_name": "sMaia",
+    "tag": "Overall",
+    "overall_gain": 2655.5,
+    "active_positions": 3,
+    "win_amount": 3720,
+    "loss_amount": -1064.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 31450,
+    "trader_tags": ""
   }
 ]
