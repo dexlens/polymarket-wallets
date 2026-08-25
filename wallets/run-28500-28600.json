@@ -158,5 +158,21 @@
     "win_count": 1,
     "rank": 28511,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c8ec68de94b7459b52cb3d6b397426b36f064ce",
+    "trader_name": "dannyaccu",
+    "tag": "Overall",
+    "overall_gain": 3000.8915909999996,
+    "active_positions": 1,
+    "win_amount": 3124.0929909999995,
+    "loss_amount": -123.20139999999999,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 28512,
+    "trader_tags": "> 1 year old"
   }
 ]
