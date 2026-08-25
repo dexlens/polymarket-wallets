@@ -1358,5 +1358,21 @@
     "win_count": 11,
     "rank": 31386,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6818f826551ac6fe534dba1db079e80f4db9d162",
+    "trader_name": "Oldivia",
+    "tag": "Overall",
+    "overall_gain": 2662.62517,
+    "active_positions": 1,
+    "win_amount": 3814.62517,
+    "loss_amount": -1152,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 31387,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
