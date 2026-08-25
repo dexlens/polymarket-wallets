@@ -782,5 +782,21 @@
     "win_count": 20,
     "rank": 10249,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa67cb49d2073fef1ed5f06c4200a2caff0b80d2c",
+    "trader_name": "pika888",
+    "tag": "Overall",
+    "overall_gain": 10263.171698999997,
+    "active_positions": 0,
+    "win_amount": 92146.62393200002,
+    "loss_amount": -81883.45223299999,
+    "win_rate": 0.5551020408163265,
+    "total_current_value": 0,
+    "total_positions": 2450,
+    "event_ct": 2450,
+    "win_count": 1360,
+    "rank": 10250,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
