@@ -1118,5 +1118,21 @@
     "win_count": 2,
     "rank": 17270,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67fee7692550aa0468a419c795e5c4bbd612fea5",
+    "trader_name": "Victor007",
+    "tag": "Overall",
+    "overall_gain": 5445.620589638238,
+    "active_positions": 11,
+    "win_amount": 11458.143333007018,
+    "loss_amount": -6012.52274336878,
+    "win_rate": 0.36,
+    "total_current_value": 2.110511,
+    "total_positions": 27,
+    "event_ct": 25,
+    "win_count": 9,
+    "rank": 17271,
+    "trader_tags": "> 1 year old"
   }
 ]
