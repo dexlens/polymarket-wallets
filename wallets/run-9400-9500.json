@@ -1438,5 +1438,21 @@
     "win_count": 11,
     "rank": 9490,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6cbbbbb5d5f20f387b143089b85258c77361334c",
+    "trader_name": "Magicmaker",
+    "tag": "Overall",
+    "overall_gain": 11039.733204433254,
+    "active_positions": 2,
+    "win_amount": 12739.399075829971,
+    "loss_amount": -1699.66587139672,
+    "win_rate": 0.8076923076923077,
+    "total_current_value": 1.368585,
+    "total_positions": 108,
+    "event_ct": 26,
+    "win_count": 21,
+    "rank": 9491,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
