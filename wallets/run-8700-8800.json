@@ -334,5 +334,21 @@
     "win_count": 6,
     "rank": 8721,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8e52216607ebb117b498b689bcdc6d778cd32320",
+    "trader_name": "entropy-py",
+    "tag": "Overall",
+    "overall_gain": 12026.896429515358,
+    "active_positions": 59,
+    "win_amount": 25719.210757300374,
+    "loss_amount": -13692.314327785012,
+    "win_rate": 0.857910906298003,
+    "total_current_value": 2157.905527271,
+    "total_positions": 5037,
+    "event_ct": 2604,
+    "win_count": 2234,
+    "rank": 8722,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
