@@ -654,5 +654,21 @@
     "win_count": 17,
     "rank": 8341,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x665b7118996fbad859e3bfbe584a8b06f503f81e",
+    "trader_name": "oddify",
+    "tag": "Overall",
+    "overall_gain": 12581.783903552063,
+    "active_positions": 3625,
+    "win_amount": 381312.94151499995,
+    "loss_amount": -368731.1576114479,
+    "win_rate": 0.5462731365682841,
+    "total_current_value": 8.16,
+    "total_positions": 7996,
+    "event_ct": 7996,
+    "win_count": 4368,
+    "rank": 8342,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
