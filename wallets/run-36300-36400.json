@@ -382,5 +382,21 @@
     "win_count": 4,
     "rank": 36325,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9f4a8ffabcc3d0e3cb67acfebd6c232ed5dc259b",
+    "trader_name": "RutheGuy",
+    "tag": "Overall",
+    "overall_gain": 2237.765,
+    "active_positions": 2,
+    "win_amount": 2238.29,
+    "loss_amount": -0.5249999999999986,
+    "win_rate": 0.8,
+    "total_current_value": 16.275000000000002,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 36326,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
