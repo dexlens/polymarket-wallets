@@ -830,5 +830,21 @@
     "win_count": 90,
     "rank": 53953,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4c9dbd51931dd8843e6e3d9fc60357279bc93e29",
+    "trader_name": "Xcommas",
+    "tag": "Overall",
+    "overall_gain": 1304.9272457077518,
+    "active_positions": 1,
+    "win_amount": 18598.406863089156,
+    "loss_amount": -17293.479617381407,
+    "win_rate": 0.553508150248051,
+    "total_current_value": 62.03432471,
+    "total_positions": 1784,
+    "event_ct": 1411,
+    "win_count": 781,
+    "rank": 53954,
+    "trader_tags": "1k+ Positions"
   }
 ]
