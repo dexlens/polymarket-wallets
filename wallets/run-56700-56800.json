@@ -1086,5 +1086,21 @@
     "win_count": 3,
     "rank": 56769,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb5e69b6f790acd3b49a2b9a5c052480575f28852",
+    "trader_name": "GeorgeBOT",
+    "tag": "Overall",
+    "overall_gain": 1188.463840695208,
+    "active_positions": 10,
+    "win_amount": 5468.012389863091,
+    "loss_amount": -4279.548549167884,
+    "win_rate": 0.5909090909090909,
+    "total_current_value": 0.083074984,
+    "total_positions": 47,
+    "event_ct": 44,
+    "win_count": 26,
+    "rank": 56770,
+    "trader_tags": ""
   }
 ]
