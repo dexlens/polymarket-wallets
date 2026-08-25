@@ -1246,5 +1246,21 @@
     "win_count": 785,
     "rank": 1278,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xef51ebb7ed5c84e5049fc76e1ae4db3b5799c0d3",
+    "trader_name": "StakePilot",
+    "tag": "Overall",
+    "overall_gain": 94542.92751459988,
+    "active_positions": 22,
+    "win_amount": 99254.57720140144,
+    "loss_amount": -4711.649686801506,
+    "win_rate": 0.8243243243243243,
+    "total_current_value": 3.812182999999999,
+    "total_positions": 264,
+    "event_ct": 148,
+    "win_count": 122,
+    "rank": 1279,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
