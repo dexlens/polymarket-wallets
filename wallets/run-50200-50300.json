@@ -1502,5 +1502,21 @@
     "win_count": 8,
     "rank": 50295,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc531521b8f10e67c1fc81fb611726eb18efab753",
+    "trader_name": "Alpha24",
+    "tag": "Overall",
+    "overall_gain": 1471.371225712723,
+    "active_positions": 0,
+    "win_amount": 1471.371225712723,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003071,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 50296,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
