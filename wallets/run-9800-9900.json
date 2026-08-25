@@ -702,5 +702,21 @@
     "win_count": 60,
     "rank": 9844,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7bfdb99ba0d292680faec303e380474016dee025",
+    "trader_name": "Flipp",
+    "tag": "Overall",
+    "overall_gain": 10641.995845127767,
+    "active_positions": 1,
+    "win_amount": 13455.770510357055,
+    "loss_amount": -2813.7746652292835,
+    "win_rate": 0.7413793103448276,
+    "total_current_value": 0.176479,
+    "total_positions": 70,
+    "event_ct": 58,
+    "win_count": 43,
+    "rank": 9845,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
