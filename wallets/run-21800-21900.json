@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 21846,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf2864e394d7e0c7b5356a41ca489f6722c1b678c",
+    "trader_name": "JustMME",
+    "tag": "Overall",
+    "overall_gain": 4158.808289095614,
+    "active_positions": 1,
+    "win_amount": 13773.206988095615,
+    "loss_amount": -9614.398699,
+    "win_rate": 0.9832572298325722,
+    "total_current_value": 5125.5558630000005,
+    "total_positions": 683,
+    "event_ct": 657,
+    "win_count": 646,
+    "rank": 21847,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
