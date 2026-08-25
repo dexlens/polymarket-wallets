@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 2495,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6eef76188c7068719ac881460b7431e1ae137a2",
+    "trader_name": "PX5300",
+    "tag": "Overall",
+    "overall_gain": 47143.408612128434,
+    "active_positions": 6422,
+    "win_amount": 57344.830765836545,
+    "loss_amount": -10201.422153708121,
+    "win_rate": 0.6909547738693468,
+    "total_current_value": 4831.5356634499985,
+    "total_positions": 24703,
+    "event_ct": 4378,
+    "win_count": 3025,
+    "rank": 2496,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
