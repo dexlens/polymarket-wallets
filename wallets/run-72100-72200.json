@@ -942,5 +942,21 @@
     "win_count": 17,
     "rank": 72160,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8da7d730f04e72cfa4d1bb970178954b823034af",
+    "trader_name": "lipei",
+    "tag": "Overall",
+    "overall_gain": 762.878718131123,
+    "active_positions": 14,
+    "win_amount": 1376.2504766926647,
+    "loss_amount": -613.371758561542,
+    "win_rate": 0.6046511627906976,
+    "total_current_value": 506.61993361000003,
+    "total_positions": 53,
+    "event_ct": 43,
+    "win_count": 26,
+    "rank": 72161,
+    "trader_tags": ""
   }
 ]
