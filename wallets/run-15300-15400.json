@@ -1470,5 +1470,21 @@
     "win_count": 106,
     "rank": 15392,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x90fca02d192392282e11843ec8c66026d56aa97e",
+    "trader_name": "GHJERT",
+    "tag": "Overall",
+    "overall_gain": 6291.093959,
+    "active_positions": 0,
+    "win_amount": 6320.193959,
+    "loss_amount": -29.1,
+    "win_rate": 0.8125,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 16,
+    "win_count": 13,
+    "rank": 15393,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
