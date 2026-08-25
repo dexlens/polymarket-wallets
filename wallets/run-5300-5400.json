@@ -750,5 +750,21 @@
     "win_count": 352,
     "rank": 5347,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x224aecad0f45469b7d36e36be3326f3163e7d4bf",
+    "trader_name": "OneLife",
+    "tag": "Overall",
+    "overall_gain": 20227.272752413963,
+    "active_positions": 0,
+    "win_amount": 28210.948688520613,
+    "loss_amount": -7983.675936106654,
+    "win_rate": 0.8059701492537313,
+    "total_current_value": 0.1797766875,
+    "total_positions": 70,
+    "event_ct": 67,
+    "win_count": 54,
+    "rank": 5348,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
