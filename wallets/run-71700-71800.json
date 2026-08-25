@@ -286,5 +286,21 @@
     "win_count": 4,
     "rank": 71719,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x22ebb90e24b8414596d542d8a57dbb43612a59d6",
+    "trader_name": "zgojo",
+    "tag": "Overall",
+    "overall_gain": 772.937593067702,
+    "active_positions": 0,
+    "win_amount": 5041.098832225831,
+    "loss_amount": -4268.1612391581275,
+    "win_rate": 0.8648648648648649,
+    "total_current_value": 0.1371841215,
+    "total_positions": 92,
+    "event_ct": 74,
+    "win_count": 64,
+    "rank": 71720,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
