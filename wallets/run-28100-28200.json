@@ -542,5 +542,21 @@
     "win_count": 15,
     "rank": 28135,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x283604e5767654ccf746366044ecfc9373d0a0cd",
+    "trader_name": "Stoop",
+    "tag": "Overall",
+    "overall_gain": 3048.1755332711864,
+    "active_positions": 6,
+    "win_amount": 12611.618747733088,
+    "loss_amount": -9563.443214461902,
+    "win_rate": 0.6711590296495957,
+    "total_current_value": 0.14696900000000002,
+    "total_positions": 515,
+    "event_ct": 371,
+    "win_count": 249,
+    "rank": 28136,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
