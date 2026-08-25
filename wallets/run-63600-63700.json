@@ -558,5 +558,21 @@
     "win_count": 2,
     "rank": 63636,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x774372624385bed83b790657ef2e5bbc2a608671",
+    "trader_name": "CuiHua",
+    "tag": "Overall",
+    "overall_gain": 984.5047622460368,
+    "active_positions": 3,
+    "win_amount": 992.9287323260371,
+    "loss_amount": -8.423970080000345,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 2294.812513,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 63637,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
