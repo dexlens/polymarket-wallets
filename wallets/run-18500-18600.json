@@ -270,5 +270,21 @@
     "win_count": 16,
     "rank": 18517,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29a271bbe0467538520eaa71881f214a21f6a0b1",
+    "trader_name": "not-tosheg",
+    "tag": "Overall",
+    "overall_gain": 5015.620767437806,
+    "active_positions": 0,
+    "win_amount": 5015.620767437806,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006639,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 18518,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
