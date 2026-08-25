@@ -878,5 +878,21 @@
     "win_count": 11,
     "rank": 18755,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70833fae3bec68f0256807ec1dcc586692a349f9",
+    "trader_name": "hetlock",
+    "tag": "Overall",
+    "overall_gain": 4964.268795181813,
+    "active_positions": 63,
+    "win_amount": 5616.310287023323,
+    "loss_amount": -652.041491841509,
+    "win_rate": 0.7288135593220338,
+    "total_current_value": 8598.4520018675,
+    "total_positions": 109,
+    "event_ct": 59,
+    "win_count": 43,
+    "rank": 18756,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
