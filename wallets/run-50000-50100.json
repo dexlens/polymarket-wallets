@@ -1566,5 +1566,21 @@
     "win_count": 9,
     "rank": 50099,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x41db5b5cbfc69d2b8b0a7a666887d5a4d43e3689",
+    "trader_name": "MiloCowper",
+    "tag": "Overall",
+    "overall_gain": 1480,
+    "active_positions": 1,
+    "win_amount": 2220,
+    "loss_amount": -740,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 50100,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
