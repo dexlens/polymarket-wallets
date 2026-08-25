@@ -46,5 +46,21 @@
     "win_count": 2,
     "rank": 69704,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ccafea5444e9b645b67fb86e5f07c37eeb194ed",
+    "trader_name": "Capsule1",
+    "tag": "Overall",
+    "overall_gain": 817.5050561505739,
+    "active_positions": 34,
+    "win_amount": 2361.627944331457,
+    "loss_amount": -1544.122888180883,
+    "win_rate": 0.53125,
+    "total_current_value": 147.55866172,
+    "total_positions": 82,
+    "event_ct": 64,
+    "win_count": 34,
+    "rank": 69705,
+    "trader_tags": ""
   }
 ]
