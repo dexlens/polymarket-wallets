@@ -478,5 +478,21 @@
     "win_count": 3,
     "rank": 8930,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xefa1f615226ba472eadfa703a9259ecc7b347e5b",
+    "trader_name": "luoye",
+    "tag": "Overall",
+    "overall_gain": 11731.025507731269,
+    "active_positions": 9,
+    "win_amount": 11934.13089373127,
+    "loss_amount": -203.105386,
+    "win_rate": 0.9444444444444444,
+    "total_current_value": 17.534827,
+    "total_positions": 96,
+    "event_ct": 54,
+    "win_count": 51,
+    "rank": 8931,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
