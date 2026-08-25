@@ -1518,5 +1518,21 @@
     "win_count": 6,
     "rank": 17595,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e88a89ce8ab6649c57958d5db329a98864a48fd",
+    "trader_name": "Ksardas",
+    "tag": "Overall",
+    "overall_gain": 5324.957629985319,
+    "active_positions": 4,
+    "win_amount": 5324.957629985319,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 11461.8367402775,
+    "total_positions": 19,
+    "event_ct": 16,
+    "win_count": 16,
+    "rank": 17596,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
