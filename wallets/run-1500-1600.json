@@ -606,5 +606,21 @@
     "win_count": 8,
     "rank": 1538,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5bde889dc26b097b5eaa2f1f027e01712ebccbb7",
+    "trader_name": "delta99core",
+    "tag": "Overall",
+    "overall_gain": 78597.01154609815,
+    "active_positions": 1094,
+    "win_amount": 310080.05533841706,
+    "loss_amount": -231483.0437923189,
+    "win_rate": 0.536673327160193,
+    "total_current_value": 1571.7251333499999,
+    "total_positions": 40953,
+    "event_ct": 20519,
+    "win_count": 11012,
+    "rank": 1539,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
