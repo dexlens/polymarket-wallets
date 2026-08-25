@@ -1326,5 +1326,21 @@
     "win_count": 6,
     "rank": 19583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x671151cf9a33e2e558e15feb73c0ad2d66e37d95",
+    "trader_name": "KunoGreiner",
+    "tag": "Overall",
+    "overall_gain": 4737.952258978647,
+    "active_positions": 3,
+    "win_amount": 12508.681542312306,
+    "loss_amount": -7770.7292833336605,
+    "win_rate": 0.654639175257732,
+    "total_current_value": 0.33740897549999993,
+    "total_positions": 569,
+    "event_ct": 388,
+    "win_count": 254,
+    "rank": 19584,
+    "trader_tags": "> 1 year old"
   }
 ]
