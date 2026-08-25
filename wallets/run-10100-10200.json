@@ -14,5 +14,21 @@
     "win_count": 505,
     "rank": 10101,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x8219714278062573573ece04037c615feb3aeea8",
+    "trader_name": "Mignon",
+    "tag": "Overall",
+    "overall_gain": 10393.910770951008,
+    "active_positions": 13,
+    "win_amount": 18078.962228928478,
+    "loss_amount": -7685.051457977471,
+    "win_rate": 0.8441558441558441,
+    "total_current_value": 31222.080326955005,
+    "total_positions": 392,
+    "event_ct": 154,
+    "win_count": 130,
+    "rank": 10102,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
