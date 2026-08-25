@@ -1406,5 +1406,21 @@
     "win_count": 13,
     "rank": 10488,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6274662fcbd03ef79e6ad7ae9811af695d35352c",
+    "trader_name": "rex0x",
+    "tag": "Overall",
+    "overall_gain": 10029.987724999999,
+    "active_positions": 2,
+    "win_amount": 10405.187725,
+    "loss_amount": -375.20000000000005,
+    "win_rate": 0.8,
+    "total_current_value": 1629.8,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 10489,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
