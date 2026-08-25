@@ -174,5 +174,21 @@
     "win_count": 29,
     "rank": 3011,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x584eee598b341109592b985c1a253ab044fa090f",
+    "trader_name": "1-800-LIQUIDITY",
+    "tag": "Overall",
+    "overall_gain": 38122.012236159586,
+    "active_positions": 6,
+    "win_amount": 59409.41718962856,
+    "loss_amount": -21287.404953469002,
+    "win_rate": 0.5981308411214953,
+    "total_current_value": 11913.433805114499,
+    "total_positions": 1441,
+    "event_ct": 321,
+    "win_count": 192,
+    "rank": 3012,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
