@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 52480,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8bdfce827457e9e692c4b580d33f56b67aefd34f",
+    "trader_name": "Galaxycb",
+    "tag": "Overall",
+    "overall_gain": 1370.3400000000001,
+    "active_positions": 2,
+    "win_amount": 2769.84,
+    "loss_amount": -1399.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 52481,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
