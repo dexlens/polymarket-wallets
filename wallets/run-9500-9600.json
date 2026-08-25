@@ -478,5 +478,21 @@
     "win_count": 15,
     "rank": 9530,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x22d33cd798450c3e6e3b971e58f8a26a8710c969",
+    "trader_name": "WillFS",
+    "tag": "Overall",
+    "overall_gain": 10993.638444514114,
+    "active_positions": 27,
+    "win_amount": 13345.874955243135,
+    "loss_amount": -2352.2365107290193,
+    "win_rate": 0.7288135593220338,
+    "total_current_value": 1757.68612283,
+    "total_positions": 77,
+    "event_ct": 59,
+    "win_count": 43,
+    "rank": 9531,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
