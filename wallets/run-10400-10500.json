@@ -638,5 +638,21 @@
     "win_count": 34,
     "rank": 10440,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb6bcc1f64269cbf97ed3d54d72271a2a0efdfe8e",
+    "trader_name": "giantmoon",
+    "tag": "Overall",
+    "overall_gain": 10072.32036729075,
+    "active_positions": 5,
+    "win_amount": 95164.62534921804,
+    "loss_amount": -85092.30498192727,
+    "win_rate": 0.489922940130409,
+    "total_current_value": 203.864302075,
+    "total_positions": 6048,
+    "event_ct": 3374,
+    "win_count": 1653,
+    "rank": 10441,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
