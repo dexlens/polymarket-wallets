@@ -1534,5 +1534,21 @@
     "win_count": 36,
     "rank": 6296,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd70f3b2a629b46d1857dcec408ee4c9fa78a64d4",
+    "trader_name": "appgogogo",
+    "tag": "Overall",
+    "overall_gain": 16998.8013,
+    "active_positions": 3,
+    "win_amount": 17003.5313,
+    "loss_amount": -4.73,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 5.08125,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 6297,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
