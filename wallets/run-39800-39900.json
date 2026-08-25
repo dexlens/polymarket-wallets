@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 39893,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2dc0263f3860d167c82a5abc6d285b2dde034168",
+    "trader_name": "hfghg27",
+    "tag": "Overall",
+    "overall_gain": 2000.043946868493,
+    "active_positions": 7,
+    "win_amount": 3500.043946868493,
+    "loss_amount": -1500,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 1.022493,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 16,
+    "rank": 39894,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
