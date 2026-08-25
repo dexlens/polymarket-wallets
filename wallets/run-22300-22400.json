@@ -1406,5 +1406,21 @@
     "win_count": 81,
     "rank": 22388,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x90c6db5d84f3b0c7dc04b7c812705ab2734519e1",
+    "trader_name": "Karinhodi",
+    "tag": "Overall",
+    "overall_gain": 4035.0423951745006,
+    "active_positions": 2,
+    "win_amount": 4035.0423951745006,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00009400000000000001,
+    "total_positions": 6,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 22389,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
