@@ -1134,5 +1134,21 @@
     "win_count": 27,
     "rank": 6671,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89512cb032171e288c9b9a4080e6079def3543ef",
+    "trader_name": "MrYoon",
+    "tag": "Overall",
+    "overall_gain": 16093.572751547264,
+    "active_positions": 7,
+    "win_amount": 43112.634839687635,
+    "loss_amount": -27019.062088140367,
+    "win_rate": 0.2631578947368421,
+    "total_current_value": 457.92832599999997,
+    "total_positions": 27,
+    "event_ct": 19,
+    "win_count": 5,
+    "rank": 6672,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
