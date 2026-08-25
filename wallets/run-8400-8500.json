@@ -174,5 +174,21 @@
     "win_count": 93,
     "rank": 8411,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d393a9bf88fe689ae616e6c04a36609e51cb8c6",
+    "trader_name": "yiopoloer",
+    "tag": "Overall",
+    "overall_gain": 12453.101498389593,
+    "active_positions": 1,
+    "win_amount": 16117.603294694662,
+    "loss_amount": -3664.5017963050686,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.084155,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 8412,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
