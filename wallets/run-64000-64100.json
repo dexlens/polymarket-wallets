@@ -782,5 +782,21 @@
     "win_count": 2,
     "rank": 64050,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6dba8c05c58a037441be8162a830ea01fdb1beee",
+    "trader_name": "IvanJz4",
+    "tag": "Overall",
+    "overall_gain": 972.6872878481089,
+    "active_positions": 2,
+    "win_amount": 1022.6870958481089,
+    "loss_amount": -49.999808,
+    "win_rate": 0.75,
+    "total_current_value": 762.704234955,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 64051,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
