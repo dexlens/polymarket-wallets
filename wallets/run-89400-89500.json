@@ -1262,5 +1262,21 @@
     "win_count": 21,
     "rank": 89480,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1520a4a50bb1a25b2fd85c3b078aa2f37ea397a3",
+    "trader_name": "Epiblanco",
+    "tag": "Overall",
+    "overall_gain": 495.841873082314,
+    "active_positions": 13,
+    "win_amount": 797.58581417334,
+    "loss_amount": -301.74394109102604,
+    "win_rate": 0.37037037037037035,
+    "total_current_value": 67.918654519,
+    "total_positions": 30,
+    "event_ct": 27,
+    "win_count": 10,
+    "rank": 89481,
+    "trader_tags": ""
   }
 ]
