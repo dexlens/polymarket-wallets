@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 13653,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x116306c2ff623808782307b98adac1d0251ea377",
+    "trader_name": "LopezHenry",
+    "tag": "Overall",
+    "overall_gain": 7254.665244803146,
+    "active_positions": 1,
+    "win_amount": 7317.487599723146,
+    "loss_amount": -62.82235492,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.017413,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 13654,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
