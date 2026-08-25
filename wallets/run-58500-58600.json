@@ -126,5 +126,21 @@
     "win_count": 16,
     "rank": 58509,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x87d69df4d9440e26e553a8aae0b6a8ca4cf6ecd0",
+    "trader_name": "KAx4UTtinC",
+    "tag": "Overall",
+    "overall_gain": 1125.199,
+    "active_positions": 0,
+    "win_amount": 1220.8426000000002,
+    "loss_amount": -95.64359999999999,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 58510,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
