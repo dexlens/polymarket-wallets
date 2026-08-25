@@ -670,5 +670,21 @@
     "win_count": 10,
     "rank": 86743,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbcc00f27b93256d4609095befc4d2e34adf38126",
+    "trader_name": "wong2",
+    "tag": "Overall",
+    "overall_gain": 528.9474150291028,
+    "active_positions": 1,
+    "win_amount": 1308.4036333195118,
+    "loss_amount": -779.456218290409,
+    "win_rate": 0.4782608695652174,
+    "total_current_value": 0.014771122000000001,
+    "total_positions": 39,
+    "event_ct": 23,
+    "win_count": 11,
+    "rank": 86744,
+    "trader_tags": ""
   }
 ]
