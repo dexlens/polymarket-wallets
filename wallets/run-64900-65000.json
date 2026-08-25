@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 65000,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84bd165a399e6e3fe6ba6b3d7d659c8591c0f07a",
+    "trader_name": "Dusktyk7",
+    "tag": "Overall",
+    "overall_gain": 945.4459999999999,
+    "active_positions": 4,
+    "win_amount": 2304.126,
+    "loss_amount": -1358.68,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 65001,
+    "trader_tags": ""
   }
 ]
