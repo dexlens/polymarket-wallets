@@ -350,5 +350,21 @@
     "win_count": 19,
     "rank": 12422,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08ec01051d8f8d298b2cd81b65fa5669b8ebc20b",
+    "trader_name": "dyn1",
+    "tag": "Overall",
+    "overall_gain": 8192.103351759184,
+    "active_positions": 2,
+    "win_amount": 63049.90366675917,
+    "loss_amount": -54857.80031499998,
+    "win_rate": 0.6030440148087207,
+    "total_current_value": 130.952860125,
+    "total_positions": 8223,
+    "event_ct": 4862,
+    "win_count": 2932,
+    "rank": 12423,
+    "trader_tags": "1k+ Positions"
   }
 ]
