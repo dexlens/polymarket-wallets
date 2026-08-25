@@ -414,5 +414,21 @@
     "win_count": 1,
     "rank": 6326,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49ee0c320c2a63f1de874aac834ff76d9a697afe",
+    "trader_name": "ggsas",
+    "tag": "Overall",
+    "overall_gain": 16930.687797,
+    "active_positions": 4,
+    "win_amount": 27318.687797,
+    "loss_amount": -10388,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 6327,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
