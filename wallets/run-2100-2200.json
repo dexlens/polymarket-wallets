@@ -878,5 +878,21 @@
     "win_count": 27,
     "rank": 2155,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa8b97b862b95c8c6efcf22cfd6e3bf29558be991",
+    "trader_name": "hikki",
+    "tag": "Overall",
+    "overall_gain": 56028.34480299999,
+    "active_positions": 0,
+    "win_amount": 75442.501172,
+    "loss_amount": -19414.156368999997,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 2156,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
