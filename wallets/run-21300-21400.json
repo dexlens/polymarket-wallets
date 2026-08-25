@@ -894,5 +894,21 @@
     "win_count": 3,
     "rank": 21356,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9846dcc7593c39db00ee91232ecb5aef455bca9e",
+    "trader_name": "ShayTheGrey",
+    "tag": "Overall",
+    "overall_gain": 4268.729976977187,
+    "active_positions": 31,
+    "win_amount": 5945.368553243638,
+    "loss_amount": -1676.6385762664515,
+    "win_rate": 0.6949152542372882,
+    "total_current_value": 3290.7386391710006,
+    "total_positions": 126,
+    "event_ct": 59,
+    "win_count": 41,
+    "rank": 21357,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
