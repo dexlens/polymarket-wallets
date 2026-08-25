@@ -958,5 +958,21 @@
     "win_count": 30,
     "rank": 88861,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3060de0ddf87c262e4b28b89cf3ecdddcb0544ca",
+    "trader_name": "fdgwreg4GFG3R",
+    "tag": "Overall",
+    "overall_gain": 503.276326,
+    "active_positions": 0,
+    "win_amount": 503.276326,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 88862,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
