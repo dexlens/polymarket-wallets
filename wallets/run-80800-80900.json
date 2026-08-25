@@ -1086,5 +1086,21 @@
     "win_count": 380,
     "rank": 80869,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x767a53d1181ecb950c57c84a9d91ab415307b74a",
+    "trader_name": "iopuill",
+    "tag": "Overall",
+    "overall_gain": 616.502281541092,
+    "active_positions": 2,
+    "win_amount": 670.721617571818,
+    "loss_amount": -54.219336030726005,
+    "win_rate": 0.35,
+    "total_current_value": 0.004068968,
+    "total_positions": 23,
+    "event_ct": 20,
+    "win_count": 7,
+    "rank": 80870,
+    "trader_tags": ""
   }
 ]
