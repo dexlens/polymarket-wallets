@@ -606,5 +606,21 @@
     "win_count": 8,
     "rank": 23038,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18838927f0e7c689b08c8eec1525be43153085f3",
+    "trader_name": "Optimu",
+    "tag": "Overall",
+    "overall_gain": 3911.17057724,
+    "active_positions": 1,
+    "win_amount": 4026.23052224,
+    "loss_amount": -115.05994499999997,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 23039,
+    "trader_tags": ""
   }
 ]
