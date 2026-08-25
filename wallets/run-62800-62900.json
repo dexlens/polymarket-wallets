@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 62877,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x950d581d7f207860cc3bb438b936af6585dc48a7",
+    "trader_name": "gamblingtrillionaire",
+    "tag": "Overall",
+    "overall_gain": 1000.8749235601672,
+    "active_positions": 4,
+    "win_amount": 2434.873250099138,
+    "loss_amount": -1433.998326538971,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.005348,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 62878,
+    "trader_tags": ""
   }
 ]
