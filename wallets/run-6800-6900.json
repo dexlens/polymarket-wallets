@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 6834,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x256b71da1e5bb9dbaf813e2af27b5bf649a7e0d3",
+    "trader_name": "elmadridz",
+    "tag": "Overall",
+    "overall_gain": 15681.961577543974,
+    "active_positions": 20,
+    "win_amount": 26597.600316451168,
+    "loss_amount": -10915.638738907192,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.289191,
+    "total_positions": 148,
+    "event_ct": 44,
+    "win_count": 16,
+    "rank": 6835,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
