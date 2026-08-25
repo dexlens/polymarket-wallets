@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 22625,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9352b91312d0dc6db8c9d21c30c4a3b3db9e6db9",
+    "trader_name": "Owie",
+    "tag": "Overall",
+    "overall_gain": 3995.947433930293,
+    "active_positions": 9,
+    "win_amount": 5911.865527328343,
+    "loss_amount": -1915.9180933980501,
+    "win_rate": 0.631578947368421,
+    "total_current_value": 16189.723154858499,
+    "total_positions": 24,
+    "event_ct": 19,
+    "win_count": 12,
+    "rank": 22626,
+    "trader_tags": "> 1 year old"
   }
 ]
