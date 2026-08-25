@@ -350,5 +350,21 @@
     "win_count": 37,
     "rank": 70723,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x035b4f11ad6618cd82cadc62712e7f755ac9c964",
+    "trader_name": "KAKATY",
+    "tag": "Overall",
+    "overall_gain": 794.3676732353531,
+    "active_positions": 4,
+    "win_amount": 840.0775736124631,
+    "loss_amount": -45.709900377109996,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 10.927203205,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 70724,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
