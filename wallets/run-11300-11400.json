@@ -1102,5 +1102,21 @@
     "win_count": 16,
     "rank": 11369,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa1760b2647f083a325d91f2dfe3727a444ba4167",
+    "trader_name": "Jorvain",
+    "tag": "Overall",
+    "overall_gain": 9203.711629759888,
+    "active_positions": 7,
+    "win_amount": 12610.045448299998,
+    "loss_amount": -3406.33381854011,
+    "win_rate": 0.8,
+    "total_current_value": 18.960357600000002,
+    "total_positions": 53,
+    "event_ct": 50,
+    "win_count": 40,
+    "rank": 11370,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
