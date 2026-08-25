@@ -1358,5 +1358,21 @@
     "win_count": 25,
     "rank": 8285,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd1cbb6ac7bb0232398c221e84112d89db85d85ee",
+    "trader_name": "BT1234",
+    "tag": "Overall",
+    "overall_gain": 12693.184814599546,
+    "active_positions": 16,
+    "win_amount": 15374.7138609079,
+    "loss_amount": -2681.529046308354,
+    "win_rate": 0.5625,
+    "total_current_value": 0.005489,
+    "total_positions": 42,
+    "event_ct": 32,
+    "win_count": 18,
+    "rank": 8286,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
