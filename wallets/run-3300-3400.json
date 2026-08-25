@@ -190,5 +190,21 @@
     "win_count": 9,
     "rank": 3312,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x4dd5d031e22a6b10a6ddef3360931ee47d82b038",
+    "trader_name": "winhtutaung",
+    "tag": "Overall",
+    "overall_gain": 34550.48078257478,
+    "active_positions": 5,
+    "win_amount": 39106.55261577398,
+    "loss_amount": -4556.071833199204,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 10.851250851,
+    "total_positions": 94,
+    "event_ct": 33,
+    "win_count": 30,
+    "rank": 3313,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
