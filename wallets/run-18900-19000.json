@@ -1278,5 +1278,21 @@
     "win_count": 8,
     "rank": 18980,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80dce03593d666c83c3364b5ddfa9a4e0aca7fc5",
+    "trader_name": "beatatimedkeeper",
+    "tag": "Overall",
+    "overall_gain": 4900,
+    "active_positions": 2,
+    "win_amount": 5443.5,
+    "loss_amount": -543.5,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 18981,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
