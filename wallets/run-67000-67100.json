@@ -414,5 +414,21 @@
     "win_count": 5,
     "rank": 67027,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0xaf7f5e72cdc4b7a77b602c48e457a3573b168a2d",
+    "trader_name": "arbitragewin",
+    "tag": "Overall",
+    "overall_gain": 888.3999575516339,
+    "active_positions": 12,
+    "win_amount": 1629.0151605647188,
+    "loss_amount": -740.615203013085,
+    "win_rate": 0.8723404255319149,
+    "total_current_value": 1466.020939,
+    "total_positions": 68,
+    "event_ct": 47,
+    "win_count": 41,
+    "rank": 67028,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
