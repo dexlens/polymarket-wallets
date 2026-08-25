@@ -366,5 +366,21 @@
     "win_count": 14,
     "rank": 86924,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11fa842093b95c6d74a0f48292f07a7d70b7548b",
+    "trader_name": "gabrilas",
+    "tag": "Overall",
+    "overall_gain": 526.4412302169287,
+    "active_positions": 296,
+    "win_amount": 10683.871749732638,
+    "loss_amount": -10157.43051951571,
+    "win_rate": 0.5840998685939554,
+    "total_current_value": 46.40190424,
+    "total_positions": 1764,
+    "event_ct": 1522,
+    "win_count": 889,
+    "rank": 86925,
+    "trader_tags": "1k+ Positions"
   }
 ]
