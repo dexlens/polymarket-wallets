@@ -734,5 +734,21 @@
     "win_count": 26,
     "rank": 62047,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x849816b404a9a08fbaa1ecbbb008e1b9c9900e94",
+    "trader_name": "Red05",
+    "tag": "Overall",
+    "overall_gain": 1020.8282744050331,
+    "active_positions": 28,
+    "win_amount": 2515.986171454526,
+    "loss_amount": -1495.1578970494932,
+    "win_rate": 0.4117647058823529,
+    "total_current_value": 100.086524,
+    "total_positions": 131,
+    "event_ct": 102,
+    "win_count": 42,
+    "rank": 62048,
+    "trader_tags": ""
   }
 ]
