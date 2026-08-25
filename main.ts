@@ -1,7 +1,17 @@
 // get the passed file from the command line
 const passed_file = Deno.args[0];
+const start = Deno.args[1];
+const end = Deno.args[2];
 if (!passed_file) {
   console.error("No file passed");
+  Deno.exit(1);
+}
+if (!start) {
+  console.error("No start passed");
+  Deno.exit(1);
+}
+if (!end) {
+  console.error("No end passed");
   Deno.exit(1);
 }
 const d1 = await Deno.readTextFile(`data/data/${passed_file}`);
@@ -11,8 +21,8 @@ const realdata = data.data;
 /**
  * The RUN thingie
  */
-const runStart = 0;
-const runEnd = 3;
+const runStart = parseInt(start);
+const runEnd = parseInt(end);
 const runName = `run-${runStart}-${runEnd}`;
 
 const thisrunsfilename = `wallets/${runName}.json`;
