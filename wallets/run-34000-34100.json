@@ -126,5 +126,21 @@
     "win_count": 12,
     "rank": 34009,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf047e69691abd1e4299b8161b5647d42b1f103fc",
+    "trader_name": "davton",
+    "tag": "Overall",
+    "overall_gain": 2424.075728209031,
+    "active_positions": 4,
+    "win_amount": 3360.711184,
+    "loss_amount": -936.6354557909691,
+    "win_rate": 0.7241379310344828,
+    "total_current_value": 0,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 21,
+    "rank": 34010,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
