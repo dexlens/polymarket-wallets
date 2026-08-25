@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 4150,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x155e7d92af9e23897a25685b37114a52279ccb08",
+    "trader_name": "MALAYSIABOLEH",
+    "tag": "Overall",
+    "overall_gain": 26892.794334943963,
+    "active_positions": 9,
+    "win_amount": 31862.27184294344,
+    "loss_amount": -4969.477507999479,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 11.300444040499999,
+    "total_positions": 96,
+    "event_ct": 29,
+    "win_count": 26,
+    "rank": 4151,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
