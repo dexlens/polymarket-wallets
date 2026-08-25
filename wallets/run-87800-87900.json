@@ -926,5 +926,21 @@
     "win_count": 34,
     "rank": 87859,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x12b3dbd5970dea65425770578327751420af7ed2",
+    "trader_name": "shangpingrui",
+    "tag": "Overall",
+    "overall_gain": 514.664646298942,
+    "active_positions": 1,
+    "win_amount": 514.664646298942,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00846,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 87860,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
