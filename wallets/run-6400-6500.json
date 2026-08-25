@@ -798,5 +798,21 @@
     "win_count": 3,
     "rank": 6450,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f582f4555d62bb19b9694b557a123bd96b2bc49",
+    "trader_name": "ZXC6245",
+    "tag": "Overall",
+    "overall_gain": 16586.884233720404,
+    "active_positions": 23,
+    "win_amount": 19002.23528013022,
+    "loss_amount": -2415.351046409812,
+    "win_rate": 0.21348314606741572,
+    "total_current_value": 92.556467732,
+    "total_positions": 174,
+    "event_ct": 89,
+    "win_count": 19,
+    "rank": 6451,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
