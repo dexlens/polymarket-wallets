@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 53425,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x727e819c79ac4eb555518cccdfd424d2d4cf8b9d",
+    "trader_name": "solder",
+    "tag": "Overall",
+    "overall_gain": 1327.7178706104196,
+    "active_positions": 38,
+    "win_amount": 1862.2143233204356,
+    "loss_amount": -534.496452710016,
+    "win_rate": 0.7617866004962779,
+    "total_current_value": 278.160836842,
+    "total_positions": 805,
+    "event_ct": 403,
+    "win_count": 307,
+    "rank": 53426,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
