@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 75947,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3644050e43f4350fa0af361e88bd0cbed3abdd79",
+    "trader_name": "Mmgp",
+    "tag": "Overall",
+    "overall_gain": 699.9983126809651,
+    "active_positions": 3,
+    "win_amount": 699.9983126809651,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3698.124715,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 75948,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
