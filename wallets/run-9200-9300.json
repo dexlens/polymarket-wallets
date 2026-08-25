@@ -1214,5 +1214,21 @@
     "win_count": 5,
     "rank": 9276,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a8d965018456ed6edc10e7d210e0b9246d9d788",
+    "trader_name": "jsip",
+    "tag": "Overall",
+    "overall_gain": 11305.861031,
+    "active_positions": 0,
+    "win_amount": 12814.471031,
+    "loss_amount": -1508.6100000000001,
+    "win_rate": 0.6538461538461539,
+    "total_current_value": 0,
+    "total_positions": 40,
+    "event_ct": 26,
+    "win_count": 17,
+    "rank": 9277,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
