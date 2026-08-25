@@ -446,5 +446,21 @@
     "win_count": 4,
     "rank": 27429,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8d0930676d559cc8fb7d8af0c555791c1820143f",
+    "trader_name": "sun1993",
+    "tag": "Overall",
+    "overall_gain": 3144.0977545212927,
+    "active_positions": 16,
+    "win_amount": 3285.652578892169,
+    "loss_amount": -141.55482437087593,
+    "win_rate": 0.9270833333333334,
+    "total_current_value": 42189.9974591325,
+    "total_positions": 210,
+    "event_ct": 96,
+    "win_count": 89,
+    "rank": 27430,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
