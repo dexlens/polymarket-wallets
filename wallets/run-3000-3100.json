@@ -526,5 +526,21 @@
     "win_count": 6,
     "rank": 3033,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6ef0b22fbb8d89cd96aa4710b4ea6aba24f8f55d",
+    "trader_name": "tbn",
+    "tag": "Overall",
+    "overall_gain": 37771.56664494491,
+    "active_positions": 0,
+    "win_amount": 38193.27271687425,
+    "loss_amount": -421.70607192933306,
+    "win_rate": 0.5,
+    "total_current_value": 0.020036,
+    "total_positions": 19,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 3034,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
