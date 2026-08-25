@@ -926,5 +926,21 @@
     "win_count": 206,
     "rank": 1158,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x843a6da3886cf889435cf0920659a00a68db8070",
+    "trader_name": "FrancisSP8",
+    "tag": "Overall",
+    "overall_gain": 105181.44445616374,
+    "active_positions": 52,
+    "win_amount": 145396.88505624246,
+    "loss_amount": -40215.44060007873,
+    "win_rate": 0.8238532110091743,
+    "total_current_value": 21619.0306264845,
+    "total_positions": 1511,
+    "event_ct": 545,
+    "win_count": 449,
+    "rank": 1159,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
