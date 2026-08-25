@@ -606,5 +606,21 @@
     "win_count": 5,
     "rank": 18038,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1dffe3dc827d9b9aefdd14954f797022cd06b486",
+    "trader_name": "hanah.brooks",
+    "tag": "Overall",
+    "overall_gain": 5167.133797731377,
+    "active_positions": 1,
+    "win_amount": 9670.78843347151,
+    "loss_amount": -4503.654635740134,
+    "win_rate": 0.6388888888888888,
+    "total_current_value": 0.039848999999999996,
+    "total_positions": 38,
+    "event_ct": 36,
+    "win_count": 23,
+    "rank": 18039,
+    "trader_tags": "> 1 year old"
   }
 ]
