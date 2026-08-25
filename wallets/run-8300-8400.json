@@ -126,5 +126,21 @@
     "win_count": 3,
     "rank": 8308,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdc4362bf023184b15affa392ea6e55a6e9b0ce91",
+    "trader_name": "kqwes",
+    "tag": "Overall",
+    "overall_gain": 12645.967566339712,
+    "active_positions": 45,
+    "win_amount": 84865.89408158667,
+    "loss_amount": -72219.92651524693,
+    "win_rate": 0.3483568075117371,
+    "total_current_value": 115.61632100000003,
+    "total_positions": 2525,
+    "event_ct": 2130,
+    "win_count": 742,
+    "rank": 8309,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
