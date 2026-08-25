@@ -158,5 +158,21 @@
     "win_count": 3,
     "rank": 27511,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88fff2e05929bdf8c111d8c4a26055ef289c6cbb",
+    "trader_name": "VigesimalVote",
+    "tag": "Overall",
+    "overall_gain": 3132,
+    "active_positions": 2,
+    "win_amount": 3821.5,
+    "loss_amount": -689.5,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 27512,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
