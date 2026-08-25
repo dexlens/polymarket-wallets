@@ -1022,5 +1022,21 @@
     "win_count": 561,
     "rank": 7964,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97d15d5d1abf9cc6503d7a44f66a046092017d7d",
+    "trader_name": "Chanchu",
+    "tag": "Overall",
+    "overall_gain": 13190.019655311442,
+    "active_positions": 52,
+    "win_amount": 31541.605329740592,
+    "loss_amount": -18351.58567442914,
+    "win_rate": 0.5947712418300654,
+    "total_current_value": 798.53877012,
+    "total_positions": 193,
+    "event_ct": 153,
+    "win_count": 91,
+    "rank": 7965,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
