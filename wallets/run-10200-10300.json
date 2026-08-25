@@ -894,5 +894,21 @@
     "win_count": 2,
     "rank": 10256,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x34a9da29a22927bbb5e334734797a804451e60b1",
+    "trader_name": "Janderson",
+    "tag": "Overall",
+    "overall_gain": 10256.596769919292,
+    "active_positions": 2,
+    "win_amount": 10930.345403117211,
+    "loss_amount": -673.7486331979201,
+    "win_rate": 0.6,
+    "total_current_value": 0.00399,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 10257,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
