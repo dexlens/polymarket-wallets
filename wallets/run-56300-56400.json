@@ -62,5 +62,21 @@
     "win_count": 29,
     "rank": 56305,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3899e770175fda7896ce1b2ebab9598cac22e2cd",
+    "trader_name": "reukl",
+    "tag": "Overall",
+    "overall_gain": 1204.680512732679,
+    "active_positions": 17,
+    "win_amount": 1866.172414592679,
+    "loss_amount": -661.49190186,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 183.006597,
+    "total_positions": 44,
+    "event_ct": 33,
+    "win_count": 21,
+    "rank": 56306,
+    "trader_tags": "< 30 days old"
   }
 ]
