@@ -1182,5 +1182,21 @@
     "win_count": 2,
     "rank": 10174,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcc430094ef36eafdee7a6e6ec9c98efcedea7c45",
+    "trader_name": "Fafnirscales",
+    "tag": "Overall",
+    "overall_gain": 10323.247481827804,
+    "active_positions": 1,
+    "win_amount": 13323.24109818908,
+    "loss_amount": -2999.993616361278,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 0.00008300000000000001,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 14,
+    "rank": 10175,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
