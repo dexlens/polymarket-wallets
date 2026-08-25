@@ -670,5 +670,21 @@
     "win_count": 3,
     "rank": 10142,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2577c59314e3efd45f9dd31067ea329d5a4ea5ec",
+    "trader_name": "FrostyFox",
+    "tag": "Overall",
+    "overall_gain": 10358.616851375713,
+    "active_positions": 1,
+    "win_amount": 10358.616851375713,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 11138.285713,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 10143,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
