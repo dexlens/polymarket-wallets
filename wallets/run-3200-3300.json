@@ -318,5 +318,21 @@
     "win_count": 21,
     "rank": 3220,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x57ee70867b4e387de9de34fd62bc685aa02a8112",
+    "trader_name": "ikik111",
+    "tag": "Overall",
+    "overall_gain": 35640.26571389892,
+    "active_positions": 24,
+    "win_amount": 71793.53185701894,
+    "loss_amount": -36153.26614312,
+    "win_rate": 0.39811320754716983,
+    "total_current_value": 244.09968174749997,
+    "total_positions": 3203,
+    "event_ct": 1060,
+    "win_count": 422,
+    "rank": 3221,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
