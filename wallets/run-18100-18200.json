@@ -1022,5 +1022,21 @@
     "win_count": 28,
     "rank": 18164,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x90d90a8419b3bb357ea19d56538e361313ada16c",
+    "trader_name": "warrenbluffe",
+    "tag": "Overall",
+    "overall_gain": 5125.672061174642,
+    "active_positions": 0,
+    "win_amount": 5125.672061174642,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000026000000000000002,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 18165,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
