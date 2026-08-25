@@ -542,5 +542,21 @@
     "win_count": 132,
     "rank": 7234,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36d67bf8e53b05a15a6e95717f08036983cb3eee",
+    "trader_name": "juicyfruityyy",
+    "tag": "Overall",
+    "overall_gain": 14764.452905266226,
+    "active_positions": 4,
+    "win_amount": 27076.541812036317,
+    "loss_amount": -12312.088906770092,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.014586,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 5,
+    "rank": 7235,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
