@@ -1262,5 +1262,21 @@
     "win_count": 17,
     "rank": 1479,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2ca792f6c6d58796c5a04b9adc7fb23a18484dcb",
+    "trader_name": "JDDance",
+    "tag": "Overall",
+    "overall_gain": 81494.651031,
+    "active_positions": 0,
+    "win_amount": 142645.27519299998,
+    "loss_amount": -61150.624162,
+    "win_rate": 0.8023255813953488,
+    "total_current_value": 0,
+    "total_positions": 94,
+    "event_ct": 86,
+    "win_count": 69,
+    "rank": 1480,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
