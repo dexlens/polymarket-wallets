@@ -1454,5 +1454,21 @@
     "win_count": 10,
     "rank": 22591,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xff00f3336e1ea5043071448d3a6e8c815f582186",
+    "trader_name": "oujhgt",
+    "tag": "Overall",
+    "overall_gain": 3999.8600000000006,
+    "active_positions": 4,
+    "win_amount": 7002.06,
+    "loss_amount": -3002.2,
+    "win_rate": 0.7,
+    "total_current_value": 5,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 22592,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
