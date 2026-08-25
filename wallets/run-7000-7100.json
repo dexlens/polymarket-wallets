@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 7093,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x8c5b68b3814fffb5fadeea649e2400b28efba790",
+    "trader_name": "hwimoney",
+    "tag": "Overall",
+    "overall_gain": 15060.597501153161,
+    "active_positions": 6,
+    "win_amount": 40746.0134824255,
+    "loss_amount": -25685.415981272363,
+    "win_rate": 0.8706395348837209,
+    "total_current_value": 2765.202188204501,
+    "total_positions": 907,
+    "event_ct": 688,
+    "win_count": 599,
+    "rank": 7094,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
