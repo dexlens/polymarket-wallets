@@ -542,5 +542,21 @@
     "win_count": 128,
     "rank": 44635,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x39e616a7fb8279f6a690ced4f99321f1cd87d92f",
+    "trader_name": "bochassos",
+    "tag": "Overall",
+    "overall_gain": 1730.32,
+    "active_positions": 5,
+    "win_amount": 3753.8899999999994,
+    "loss_amount": -2023.57,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 15,
+    "rank": 44636,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
