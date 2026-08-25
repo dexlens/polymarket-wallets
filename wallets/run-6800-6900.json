@@ -942,5 +942,21 @@
     "win_count": 3,
     "rank": 6859,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1973177faa69b94b4afab818e612a7c05b3c01a9",
+    "trader_name": "fmaduro",
+    "tag": "Overall",
+    "overall_gain": 15630.659653,
+    "active_positions": 0,
+    "win_amount": 15630.659653,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6860,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
