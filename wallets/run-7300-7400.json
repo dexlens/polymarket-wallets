@@ -638,5 +638,21 @@
     "win_count": 40,
     "rank": 7340,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0826cfc430f6ea95f61513e734f62c6a8b9f465c",
+    "trader_name": "HanBanDoo",
+    "tag": "Overall",
+    "overall_gain": 14498.367922999998,
+    "active_positions": 0,
+    "win_amount": 20497.125694,
+    "loss_amount": -5998.757771,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 7341,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
