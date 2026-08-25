@@ -526,5 +526,21 @@
     "win_count": 19,
     "rank": 12433,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d7d3bda36e2dee4c1eb8985f39900770b4985ac",
+    "trader_name": "Nock2",
+    "tag": "Overall",
+    "overall_gain": 8178.408554,
+    "active_positions": 0,
+    "win_amount": 8178.408554,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 12434,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
