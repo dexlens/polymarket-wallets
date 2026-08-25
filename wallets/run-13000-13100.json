@@ -318,5 +318,21 @@
     "win_count": 34,
     "rank": 13020,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x9b585fde853cd7e8b11a57ab1c5367068ea6c9c8",
+    "trader_name": "anFoid",
+    "tag": "Overall",
+    "overall_gain": 7724.663983364836,
+    "active_positions": 146,
+    "win_amount": 7724.663983364836,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3285.3263538925003,
+    "total_positions": 256,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 13021,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
