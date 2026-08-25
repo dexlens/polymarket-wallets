@@ -462,5 +462,21 @@
     "win_count": 655,
     "rank": 83130,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2dbf52e93d70b7025c1c2c8b38258158a0c04ddd",
+    "trader_name": "Okaybets",
+    "tag": "Overall",
+    "overall_gain": 580.449774323884,
+    "active_positions": 42,
+    "win_amount": 2661.5909941375508,
+    "loss_amount": -2081.1412198136672,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.09667799999999999,
+    "total_positions": 86,
+    "event_ct": 77,
+    "win_count": 28,
+    "rank": 83131,
+    "trader_tags": ""
   }
 ]
