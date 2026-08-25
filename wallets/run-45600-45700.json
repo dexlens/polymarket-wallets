@@ -1134,5 +1134,21 @@
     "win_count": 10,
     "rank": 45672,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x6f8dace0968c6f54a6a99ca3adeac437fb82fff9",
+    "trader_name": "cleegd",
+    "tag": "Overall",
+    "overall_gain": 1682.465,
+    "active_positions": 1,
+    "win_amount": 1685.2299999999998,
+    "loss_amount": -2.7650000000000006,
+    "win_rate": 0.75,
+    "total_current_value": 35.945,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 45673,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
