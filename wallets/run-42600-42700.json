@@ -942,5 +942,21 @@
     "win_count": 12,
     "rank": 42660,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xaeca60820bbc7ec16b6bb7aa9dc8abaa49d19cc8",
+    "trader_name": "tonictrades",
+    "tag": "Overall",
+    "overall_gain": 1838.9700803944543,
+    "active_positions": 24,
+    "win_amount": 12253.836777731765,
+    "loss_amount": -10414.86669733731,
+    "win_rate": 0.7265625,
+    "total_current_value": 138.58861499999998,
+    "total_positions": 167,
+    "event_ct": 128,
+    "win_count": 93,
+    "rank": 42661,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
