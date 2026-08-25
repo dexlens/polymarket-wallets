@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 23125,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1bb80c0a8a7d2637b7787141e08f91371481a606",
+    "trader_name": "NOOSAWA",
+    "tag": "Overall",
+    "overall_gain": 3893.4105800000007,
+    "active_positions": 32,
+    "win_amount": 16198.11058,
+    "loss_amount": -12304.7,
+    "win_rate": 0.5675675675675675,
+    "total_current_value": 0,
+    "total_positions": 74,
+    "event_ct": 74,
+    "win_count": 42,
+    "rank": 23126,
+    "trader_tags": ""
   }
 ]
