@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 22338,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd2c6b479111780892a016ce78bce394d9213536b",
+    "trader_name": "GYUKGIJ",
+    "tag": "Overall",
+    "overall_gain": 4044.913152009558,
+    "active_positions": 7,
+    "win_amount": 8089.423152009558,
+    "loss_amount": -4044.5099999999998,
+    "win_rate": 0.8918918918918919,
+    "total_current_value": 17.627558,
+    "total_positions": 38,
+    "event_ct": 37,
+    "win_count": 33,
+    "rank": 22339,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
