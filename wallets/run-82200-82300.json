@@ -766,5 +766,21 @@
     "win_count": 31,
     "rank": 82249,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x527112f08e52e04c1c4f4c47ac20b40043975415",
+    "trader_name": "faTidal",
+    "tag": "Overall",
+    "overall_gain": 594.5,
+    "active_positions": 4,
+    "win_amount": 1782.5,
+    "loss_amount": -1188,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 82250,
+    "trader_tags": ""
   }
 ]
