@@ -30,5 +30,21 @@
     "win_count": 12,
     "rank": 15402,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7bd9019211677f5db6e221d6a6da030ebcd0bd75",
+    "trader_name": "fElon",
+    "tag": "Overall",
+    "overall_gain": 6287.120945368948,
+    "active_positions": 17,
+    "win_amount": 20585.613504461224,
+    "loss_amount": -14298.492559092276,
+    "win_rate": 0.8775510204081632,
+    "total_current_value": 6059.943223274502,
+    "total_positions": 432,
+    "event_ct": 147,
+    "win_count": 129,
+    "rank": 15403,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
