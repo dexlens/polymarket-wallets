@@ -782,5 +782,21 @@
     "win_count": 52,
     "rank": 749,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x1cc16713196d456f86fa9c7387dd326a7f73b8df",
+    "trader_name": "Wickier",
+    "tag": "Overall",
+    "overall_gain": 170921.7340923846,
+    "active_positions": 32,
+    "win_amount": 567733.6464635802,
+    "loss_amount": -396811.91237119545,
+    "win_rate": 0.6411889596602972,
+    "total_current_value": 133124.89442339953,
+    "total_positions": 1014,
+    "event_ct": 471,
+    "win_count": 302,
+    "rank": 750,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions"
   }
 ]
