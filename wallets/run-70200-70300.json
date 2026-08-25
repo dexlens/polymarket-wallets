@@ -1582,5 +1582,21 @@
     "win_count": 225,
     "rank": 70300,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x790ee9505a3e044635471a08483f6d76b492dd7c",
+    "trader_name": "garret",
+    "tag": "Overall",
+    "overall_gain": 803.5412139999997,
+    "active_positions": 1,
+    "win_amount": 1179.6612139999997,
+    "loss_amount": -376.12,
+    "win_rate": 0.6,
+    "total_current_value": 3.143,
+    "total_positions": 34,
+    "event_ct": 25,
+    "win_count": 15,
+    "rank": 70301,
+    "trader_tags": "> 1 year old"
   }
 ]
