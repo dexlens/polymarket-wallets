@@ -814,5 +814,21 @@
     "win_count": 8,
     "rank": 9451,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa5c146167fd6a5b6b477b4227049bca16581fab8",
+    "trader_name": "Mylo9",
+    "tag": "Overall",
+    "overall_gain": 11093.553920927558,
+    "active_positions": 1,
+    "win_amount": 11093.88083,
+    "loss_amount": -0.32690907244100004,
+    "win_rate": 0.5,
+    "total_current_value": 0.44303026849999994,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 9452,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
