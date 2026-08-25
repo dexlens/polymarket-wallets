@@ -1262,5 +1262,21 @@
     "win_count": 5,
     "rank": 4779,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c7e21cdcdaa7dbc4d6f8590b1d6a38ae6d770dd",
+    "trader_name": "Xyronith",
+    "tag": "Overall",
+    "overall_gain": 22769.2692371292,
+    "active_positions": 2,
+    "win_amount": 24062.2574371292,
+    "loss_amount": -1292.9882,
+    "win_rate": 0.9347826086956522,
+    "total_current_value": 0.00024500000000000005,
+    "total_positions": 51,
+    "event_ct": 46,
+    "win_count": 43,
+    "rank": 4780,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
