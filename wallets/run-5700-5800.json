@@ -1294,5 +1294,21 @@
     "win_count": 25,
     "rank": 5781,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x70184e87d0afc1c2bf51583f2f3f8b7c7fcaa7ea",
+    "trader_name": "Nurell",
+    "tag": "Overall",
+    "overall_gain": 18618.17639753772,
+    "active_positions": 5,
+    "win_amount": 20812.33420353772,
+    "loss_amount": -2194.157806,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 84.625713,
+    "total_positions": 40,
+    "event_ct": 38,
+    "win_count": 34,
+    "rank": 5782,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
