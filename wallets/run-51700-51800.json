@@ -1438,5 +1438,21 @@
     "win_count": 14,
     "rank": 51791,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x61f27c05aa26ce8843998444ceffcc3ab24b0b7d",
+    "trader_name": "TPnNTMOT",
+    "tag": "Overall",
+    "overall_gain": 1401.2411105911297,
+    "active_positions": 14,
+    "win_amount": 16290.241110591129,
+    "loss_amount": -14889,
+    "win_rate": 0.6764705882352942,
+    "total_current_value": 3.0142800000000003,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 23,
+    "rank": 51792,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
