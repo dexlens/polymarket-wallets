@@ -190,5 +190,21 @@
     "win_count": 9,
     "rank": 33513,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe5e6b2079ace15d1e99eb40eec0276b70cbdb297",
+    "trader_name": "Castra",
+    "tag": "Overall",
+    "overall_gain": 2465.0064195500004,
+    "active_positions": 0,
+    "win_amount": 2495.0096728300005,
+    "loss_amount": -30.00325328,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.01560584,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 33514,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
