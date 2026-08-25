@@ -1134,5 +1134,21 @@
     "win_count": 12,
     "rank": 64172,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x31b95751ec78604567bcc78654c5d5959ff2b194",
+    "trader_name": "brainchan",
+    "tag": "Overall",
+    "overall_gain": 969.2459265696492,
+    "active_positions": 116,
+    "win_amount": 4533.613546115583,
+    "loss_amount": -3564.3676195459348,
+    "win_rate": 0.7785714285714286,
+    "total_current_value": 106.41856299999999,
+    "total_positions": 630,
+    "event_ct": 560,
+    "win_count": 436,
+    "rank": 64173,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
