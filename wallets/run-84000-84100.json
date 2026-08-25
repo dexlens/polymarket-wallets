@@ -1182,5 +1182,21 @@
     "win_count": 108,
     "rank": 84075,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71645196d4a4856ebfd8e57d5582c209a6f8827f",
+    "trader_name": "highgrav",
+    "tag": "Overall",
+    "overall_gain": 565.3243312104588,
+    "active_positions": 1,
+    "win_amount": 565.3243312104588,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 84076,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
