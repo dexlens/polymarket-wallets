@@ -926,5 +926,21 @@
     "win_count": 26,
     "rank": 1558,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd8f8c13644ea84d62e1ec88c5d1215e436eb0f11",
+    "trader_name": "automatedAItradingbot",
+    "tag": "Overall",
+    "overall_gain": 77744.58156455048,
+    "active_positions": 87,
+    "win_amount": 99493.05620464277,
+    "loss_amount": -21748.474640092278,
+    "win_rate": 0.3702359346642468,
+    "total_current_value": 2023.6337650039998,
+    "total_positions": 3358,
+    "event_ct": 1102,
+    "win_count": 408,
+    "rank": 1559,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
