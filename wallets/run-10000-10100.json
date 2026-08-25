@@ -254,5 +254,21 @@
     "win_count": 33,
     "rank": 10016,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb232a4ad843df6a47c2bb3f06c93012ee5edb555",
+    "trader_name": "Jahgic08",
+    "tag": "Overall",
+    "overall_gain": 10467.359759452223,
+    "active_positions": 1,
+    "win_amount": 10478.141468738693,
+    "loss_amount": -10.78170928647,
+    "win_rate": 0.75,
+    "total_current_value": 0.0021669899999999997,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 10017,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
