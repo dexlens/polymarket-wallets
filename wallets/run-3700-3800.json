@@ -302,5 +302,21 @@
     "win_count": 10,
     "rank": 3719,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x75bd4409cfd0346a055138f69f959b770cdf0288",
+    "trader_name": "IgorKioshe",
+    "tag": "Overall",
+    "overall_gain": 30672.173371648005,
+    "active_positions": 13,
+    "win_amount": 48654.20780341681,
+    "loss_amount": -17982.03443176879,
+    "win_rate": 0.6548672566371682,
+    "total_current_value": 14.950129999999998,
+    "total_positions": 917,
+    "event_ct": 565,
+    "win_count": 370,
+    "rank": 3720,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
