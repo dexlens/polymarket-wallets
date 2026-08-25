@@ -1230,5 +1230,21 @@
     "win_count": 6,
     "rank": 37378,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2aa776a19397046e449cc03f49b9d5ec4ae51e1e",
+    "trader_name": "Digges",
+    "tag": "Overall",
+    "overall_gain": 2162.5,
+    "active_positions": 1,
+    "win_amount": 2490,
+    "loss_amount": -327.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 37379,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
