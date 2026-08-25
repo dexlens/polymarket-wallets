@@ -910,5 +910,21 @@
     "win_count": 3,
     "rank": 9357,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5e5fef86cf08d101d593d2af1f3cbb7076efb874",
+    "trader_name": "cjcmqnyslf",
+    "tag": "Overall",
+    "overall_gain": 11199.84286689721,
+    "active_positions": 2,
+    "win_amount": 11270.112013999998,
+    "loss_amount": -70.26914710278899,
+    "win_rate": 0.4117647058823529,
+    "total_current_value": 0.09583900000000001,
+    "total_positions": 43,
+    "event_ct": 17,
+    "win_count": 7,
+    "rank": 9358,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
