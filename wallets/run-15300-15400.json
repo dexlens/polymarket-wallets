@@ -206,5 +206,21 @@
     "win_count": 7,
     "rank": 15313,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3105ab19119d10a0d310a68acf2cb9e0ffa81493",
+    "trader_name": "sxcfff",
+    "tag": "Overall",
+    "overall_gain": 6325.358139545088,
+    "active_positions": 3,
+    "win_amount": 7203.236510809337,
+    "loss_amount": -877.878371264249,
+    "win_rate": 0.65,
+    "total_current_value": 109.58592499999999,
+    "total_positions": 29,
+    "event_ct": 20,
+    "win_count": 13,
+    "rank": 15314,
+    "trader_tags": "> 1 year old"
   }
 ]
