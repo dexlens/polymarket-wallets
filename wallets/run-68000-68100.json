@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 68048,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbb17ff773e39940c221a882a93a4c9f8a0925775",
+    "trader_name": "hsjvaldb",
+    "tag": "Overall",
+    "overall_gain": 859.3005157276464,
+    "active_positions": 13,
+    "win_amount": 948.2942557276464,
+    "loss_amount": -88.99374,
+    "win_rate": 0.4,
+    "total_current_value": 0.007646,
+    "total_positions": 21,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 68049,
+    "trader_tags": ""
   }
 ]
