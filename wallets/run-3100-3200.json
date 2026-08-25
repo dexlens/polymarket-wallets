@@ -14,5 +14,21 @@
     "win_count": 22,
     "rank": 3101,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4478d7bd8a295691ac84f60a5ec2b47e122102a4",
+    "trader_name": "Warren-Buffett",
+    "tag": "Overall",
+    "overall_gain": 36888.59762370116,
+    "active_positions": 55,
+    "win_amount": 65900.87332592833,
+    "loss_amount": -29012.275702227176,
+    "win_rate": 0.6238244514106583,
+    "total_current_value": 31606.363215601006,
+    "total_positions": 814,
+    "event_ct": 319,
+    "win_count": 199,
+    "rank": 3102,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
