@@ -1278,5 +1278,21 @@
     "win_count": 2,
     "rank": 4380,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a7aaf83341b52df34e8ffef52aa295538d6df1b",
+    "trader_name": "Perypery",
+    "tag": "Overall",
+    "overall_gain": 25357.451658539198,
+    "active_positions": 215,
+    "win_amount": 71091.37621636436,
+    "loss_amount": -45733.92455782518,
+    "win_rate": 0.5230263157894737,
+    "total_current_value": 17304.7641317875,
+    "total_positions": 3589,
+    "event_ct": 2128,
+    "win_count": 1113,
+    "rank": 4381,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
