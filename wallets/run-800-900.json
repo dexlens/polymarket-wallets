@@ -350,5 +350,21 @@
     "win_count": 9,
     "rank": 822,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x8379b0550ae0f303564f492fb82b11f285a7ed71",
+    "trader_name": "Seasensez",
+    "tag": "Overall",
+    "overall_gain": 152156.89236308998,
+    "active_positions": 4,
+    "win_amount": 192176.85752499997,
+    "loss_amount": -40019.965161910004,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 11596.079,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 823,
+    "trader_tags": "Overall PnL > $100k; < 30 days old; Sports PnL > $100k"
   }
 ]
