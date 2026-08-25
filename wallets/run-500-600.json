@@ -830,5 +830,21 @@
     "win_count": 192,
     "rank": 552,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x2326812917a7bfecb485bb768007c910ea31ab0e",
+    "trader_name": "upp",
+    "tag": "Overall",
+    "overall_gain": 231896.6032747282,
+    "active_positions": 37,
+    "win_amount": 363969.772098062,
+    "loss_amount": -132073.1688233337,
+    "win_rate": 0.8387096774193549,
+    "total_current_value": 0.5485749999999999,
+    "total_positions": 261,
+    "event_ct": 124,
+    "win_count": 104,
+    "rank": 553,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
