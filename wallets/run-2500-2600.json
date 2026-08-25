@@ -190,5 +190,21 @@
     "win_count": 72,
     "rank": 2512,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x9977760c6bd6f824cac834d1a36ee99478d63020",
+    "trader_name": "meropi",
+    "tag": "Overall",
+    "overall_gain": 46807.94468281919,
+    "active_positions": 34,
+    "win_amount": 59620.33634680571,
+    "loss_amount": -12812.391663986544,
+    "win_rate": 0.8955732122587968,
+    "total_current_value": 13196.415422384003,
+    "total_positions": 3571,
+    "event_ct": 881,
+    "win_count": 789,
+    "rank": 2513,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
