@@ -382,5 +382,21 @@
     "win_count": 4,
     "rank": 53525,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28162c647b30061c5fffbd9de58f1fa01ef7c473",
+    "trader_name": "cicci",
+    "tag": "Overall",
+    "overall_gain": 1323.005796123346,
+    "active_positions": 1,
+    "win_amount": 1640.919185095036,
+    "loss_amount": -317.91338897169,
+    "win_rate": 0.8055555555555556,
+    "total_current_value": 3.2249569735000017,
+    "total_positions": 255,
+    "event_ct": 36,
+    "win_count": 29,
+    "rank": 53526,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
