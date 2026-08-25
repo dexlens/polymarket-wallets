@@ -1182,5 +1182,21 @@
     "win_count": 37,
     "rank": 4374,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5c3eeb78315a7c758e40f28ec1705aa08860bb4f",
+    "trader_name": "Dinosaurfossils",
+    "tag": "Overall",
+    "overall_gain": 25387.406754895546,
+    "active_positions": 1,
+    "win_amount": 27525.375401030517,
+    "loss_amount": -2137.9686461349756,
+    "win_rate": 0.5,
+    "total_current_value": 0.05848600000000001,
+    "total_positions": 22,
+    "event_ct": 16,
+    "win_count": 8,
+    "rank": 4375,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
