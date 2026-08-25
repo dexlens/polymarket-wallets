@@ -686,5 +686,21 @@
     "win_count": 17700,
     "rank": 44244,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x4bcb517598e4d05765242d6980e11eb61563b06f",
+    "trader_name": "kast",
+    "tag": "Overall",
+    "overall_gain": 1751.5199567903999,
+    "active_positions": 0,
+    "win_amount": 1751.5199567903999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00736,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 44245,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
