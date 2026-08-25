@@ -686,5 +686,21 @@
     "win_count": 118,
     "rank": 4243,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x31122ac82dbc392a53c9d0a8b8f15322f0c509a8",
+    "trader_name": "unsc",
+    "tag": "Overall",
+    "overall_gain": 26340.44308036972,
+    "active_positions": 1,
+    "win_amount": 40417.629141009726,
+    "loss_amount": -14077.18606064,
+    "win_rate": 0.7575757575757576,
+    "total_current_value": 0.000025,
+    "total_positions": 43,
+    "event_ct": 33,
+    "win_count": 25,
+    "rank": 4244,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
