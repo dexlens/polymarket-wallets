@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 85524,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x47459f23092f3be7b31267b473de003a2a83f476",
+    "trader_name": "AltAaron",
+    "tag": "Overall",
+    "overall_gain": 544.845390339124,
+    "active_positions": 384,
+    "win_amount": 2586.6686769999997,
+    "loss_amount": -2041.823286660875,
+    "win_rate": 0.9351911860012961,
+    "total_current_value": 0,
+    "total_positions": 6255,
+    "event_ct": 6172,
+    "win_count": 5772,
+    "rank": 85525,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
