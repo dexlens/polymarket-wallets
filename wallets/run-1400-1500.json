@@ -1534,5 +1534,21 @@
     "win_count": 84,
     "rank": 1496,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6480542954b70a674a74bd1a6015dec362dc8dc5",
+    "trader_name": "tripping",
+    "tag": "Overall",
+    "overall_gain": 80818.03574892956,
+    "active_positions": 10,
+    "win_amount": 100414.6787088475,
+    "loss_amount": -19596.642959917925,
+    "win_rate": 0.5619596541786743,
+    "total_current_value": 5834.207982155501,
+    "total_positions": 656,
+    "event_ct": 347,
+    "win_count": 195,
+    "rank": 1497,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
