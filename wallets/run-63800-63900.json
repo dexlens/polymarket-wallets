@@ -350,5 +350,21 @@
     "win_count": 5,
     "rank": 63823,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa44a885916f57c8cb9788434c16096dc9901304c",
+    "trader_name": "Automata",
+    "tag": "Overall",
+    "overall_gain": 978.7444840499998,
+    "active_positions": 17,
+    "win_amount": 6008.04887204,
+    "loss_amount": -5029.30438799,
+    "win_rate": 0.8877721943048577,
+    "total_current_value": 0.06237500000000001,
+    "total_positions": 598,
+    "event_ct": 597,
+    "win_count": 530,
+    "rank": 63824,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
