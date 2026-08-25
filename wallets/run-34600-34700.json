@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 34674,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x61a522ff931ba9759058af4fad5870d156c840da",
+    "trader_name": "infinf",
+    "tag": "Overall",
+    "overall_gain": 2367.177571,
+    "active_positions": 1,
+    "win_amount": 4963.386244,
+    "loss_amount": -2596.208673,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 34675,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
