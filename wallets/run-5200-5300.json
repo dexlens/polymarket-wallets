@@ -1006,5 +1006,21 @@
     "win_count": 27,
     "rank": 5263,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x49ae18c82dab9fd3a2bb84d0a96c3ded503ff3ba",
+    "trader_name": "T123",
+    "tag": "Overall",
+    "overall_gain": 20595.65052921772,
+    "active_positions": 11,
+    "win_amount": 30897.02229779899,
+    "loss_amount": -10301.371768581273,
+    "win_rate": 0.754863813229572,
+    "total_current_value": 27045.70833185299,
+    "total_positions": 327,
+    "event_ct": 257,
+    "win_count": 194,
+    "rank": 5264,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
