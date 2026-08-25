@@ -1422,5 +1422,21 @@
     "win_count": 10,
     "rank": 26990,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8b32d57e2a6c257c2431a7b416d598dc2ff6618e",
+    "trader_name": "acup",
+    "tag": "Overall",
+    "overall_gain": 3209.29448,
+    "active_positions": 1,
+    "win_amount": 3209.29448,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 19.08,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 26991,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
