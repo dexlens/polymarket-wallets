@@ -494,5 +494,21 @@
     "win_count": 31,
     "rank": 17631,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6def185aff485a74124d08d838dd80697ab87096",
+    "trader_name": "Kuezed",
+    "tag": "Overall",
+    "overall_gain": 5311.720372974903,
+    "active_positions": 10,
+    "win_amount": 6330.512421333585,
+    "loss_amount": -1018.792048358685,
+    "win_rate": 0.17142857142857143,
+    "total_current_value": 67.609313746,
+    "total_positions": 181,
+    "event_ct": 70,
+    "win_count": 12,
+    "rank": 17632,
+    "trader_tags": "> 1 year old"
   }
 ]
