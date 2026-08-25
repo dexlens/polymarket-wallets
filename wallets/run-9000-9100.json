@@ -398,5 +398,21 @@
     "win_count": 12,
     "rank": 9025,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x328de8ccbeceeffce881741a1b0d94d0f1fdd451",
+    "trader_name": "Yethrin",
+    "tag": "Overall",
+    "overall_gain": 11613.476086001334,
+    "active_positions": 1,
+    "win_amount": 12374.917992001334,
+    "loss_amount": -761.441906,
+    "win_rate": 0.9210526315789473,
+    "total_current_value": 0.002333,
+    "total_positions": 41,
+    "event_ct": 38,
+    "win_count": 35,
+    "rank": 9026,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
