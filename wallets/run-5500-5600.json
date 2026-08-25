@@ -718,5 +718,21 @@
     "win_count": 21,
     "rank": 5545,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x855ffe8b8b629cd737a6b138f72bf6e61d89cfb0",
+    "trader_name": "Gman375",
+    "tag": "Overall",
+    "overall_gain": 19492.071452377226,
+    "active_positions": 19,
+    "win_amount": 26808.61692800039,
+    "loss_amount": -7316.545475623161,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.012406,
+    "total_positions": 88,
+    "event_ct": 42,
+    "win_count": 18,
+    "rank": 5546,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
