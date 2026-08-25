@@ -1390,5 +1390,21 @@
     "win_count": 240,
     "rank": 32988,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x03afe3d14fc9e4bf32498c093d43bc33f13a6298",
+    "trader_name": "IronWaypoint",
+    "tag": "Overall",
+    "overall_gain": 2505.6900000000005,
+    "active_positions": 1,
+    "win_amount": 2505.6900000000005,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 32989,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
