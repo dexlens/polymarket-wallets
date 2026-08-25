@@ -590,5 +590,21 @@
     "win_count": 8,
     "rank": 49338,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1803b067bb796d2e6985ad3fc9e2626f6f4b8385",
+    "trader_name": "carrytrader10",
+    "tag": "Overall",
+    "overall_gain": 1511.979708,
+    "active_positions": 0,
+    "win_amount": 1511.979708,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 49339,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
