@@ -1118,5 +1118,21 @@
     "win_count": 137,
     "rank": 7670,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x96eede0725893db233c7f66f731808572c75bd76",
+    "trader_name": "Eduglower",
+    "tag": "Overall",
+    "overall_gain": 13788.38649069065,
+    "active_positions": 8,
+    "win_amount": 13788.38649069065,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 16616.987422852,
+    "total_positions": 13,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7671,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
