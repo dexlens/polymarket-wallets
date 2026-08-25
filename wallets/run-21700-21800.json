@@ -814,5 +814,21 @@
     "win_count": 5,
     "rank": 21751,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x66cb99b7d30aa60a69ab307c11b15121d1732ad8",
+    "trader_name": "uihum",
+    "tag": "Overall",
+    "overall_gain": 4179.451003016251,
+    "active_positions": 3,
+    "win_amount": 5242.513219929411,
+    "loss_amount": -1063.0622169131602,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 175.50358300000002,
+    "total_positions": 44,
+    "event_ct": 42,
+    "win_count": 38,
+    "rank": 21752,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
