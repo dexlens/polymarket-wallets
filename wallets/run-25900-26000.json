@@ -894,5 +894,21 @@
     "win_count": 7,
     "rank": 25957,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x149d66d1699c54b591ea9424f0e7f4b97f37e290",
+    "trader_name": "nahas",
+    "tag": "Overall",
+    "overall_gain": 3379.568758,
+    "active_positions": 2,
+    "win_amount": 3928.4389810000002,
+    "loss_amount": -548.870223,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.065,
+    "total_positions": 14,
+    "event_ct": 11,
+    "win_count": 4,
+    "rank": 25958,
+    "trader_tags": "> 1 year old"
   }
 ]
