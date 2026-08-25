@@ -462,5 +462,21 @@
     "win_count": 18,
     "rank": 23930,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1aadb1e5c5fa808c17e4f6c198b9f1c21c778e75",
+    "trader_name": "Benthos",
+    "tag": "Overall",
+    "overall_gain": 3731.5,
+    "active_positions": 1,
+    "win_amount": 4200,
+    "loss_amount": -468.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 23931,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
