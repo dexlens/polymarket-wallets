@@ -830,5 +830,21 @@
     "win_count": 99,
     "rank": 1152,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5792bdaa99c199ef461ca95abf46b70f2f5dd1d6",
+    "trader_name": "jadexxade",
+    "tag": "Overall",
+    "overall_gain": 105806.042822,
+    "active_positions": 7,
+    "win_amount": 159228.462822,
+    "loss_amount": -53422.42,
+    "win_rate": 0.6111111111111112,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 18,
+    "win_count": 11,
+    "rank": 1153,
+    "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
   }
 ]
