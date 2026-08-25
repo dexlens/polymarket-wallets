@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 6676,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x48dc492b8938bfe2fc3df704d23fb6bd2899152b",
+    "trader_name": "icetorch",
+    "tag": "Overall",
+    "overall_gain": 16078.641435450281,
+    "active_positions": 64,
+    "win_amount": 16371.492434488482,
+    "loss_amount": -292.85099903819986,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 24.57099746,
+    "total_positions": 133,
+    "event_ct": 133,
+    "win_count": 76,
+    "rank": 6677,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
