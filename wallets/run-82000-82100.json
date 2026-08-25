@@ -46,5 +46,21 @@
     "win_count": 100,
     "rank": 82004,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x64d06b6371cef0ad17b8d6daf4d77071d89e21fa",
+    "trader_name": "htrs",
+    "tag": "Overall",
+    "overall_gain": 598.2118316583719,
+    "active_positions": 6,
+    "win_amount": 631.9494642263139,
+    "loss_amount": -33.737632567942,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 20.823455,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 26,
+    "rank": 82005,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
