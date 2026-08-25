@@ -1566,5 +1566,21 @@
     "win_count": 11,
     "rank": 83299,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdb54cf0793616d4c784c3374775988341428f008",
+    "trader_name": "gwenni",
+    "tag": "Overall",
+    "overall_gain": 577.34528509896,
+    "active_positions": 8,
+    "win_amount": 629.3452159682149,
+    "loss_amount": -51.999930869255,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 1173.480818856,
+    "total_positions": 23,
+    "event_ct": 21,
+    "win_count": 19,
+    "rank": 83300,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
