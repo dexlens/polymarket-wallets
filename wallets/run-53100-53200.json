@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 53121,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6a9e1fe86460d59d37eafa44af90b9857e3c6685",
+    "trader_name": "Monicaafdf",
+    "tag": "Overall",
+    "overall_gain": 1341.68,
+    "active_positions": 0,
+    "win_amount": 1347,
+    "loss_amount": -5.32,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 53122,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
