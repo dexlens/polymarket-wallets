@@ -990,5 +990,21 @@
     "win_count": 61,
     "rank": 2462,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4f315c1f2fcfbcbccc31fa28ae086babf309efa3",
+    "trader_name": "DFV2",
+    "tag": "Overall",
+    "overall_gain": 47651.951941761836,
+    "active_positions": 19,
+    "win_amount": 49394.966292340556,
+    "loss_amount": -1743.0143505787207,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 229904.422535695,
+    "total_positions": 43,
+    "event_ct": 17,
+    "win_count": 15,
+    "rank": 2463,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
