@@ -1502,5 +1502,21 @@
     "win_count": 1179,
     "rank": 1194,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x3afeab8b5763c0ef5b9df5b34b529d5774f12c78",
+    "trader_name": "jianing888",
+    "tag": "Overall",
+    "overall_gain": 101871.48490887789,
+    "active_positions": 46,
+    "win_amount": 123853.525362,
+    "loss_amount": -21982.040453122074,
+    "win_rate": 0.7397003745318352,
+    "total_current_value": 0,
+    "total_positions": 578,
+    "event_ct": 534,
+    "win_count": 395,
+    "rank": 1195,
+    "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%; Crypto PnL > $100k"
   }
 ]
