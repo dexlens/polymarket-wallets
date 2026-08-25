@@ -878,5 +878,21 @@
     "win_count": 57,
     "rank": 4155,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x506bfed4b42c7e1747be5354e172281bf1993f70",
+    "trader_name": "Martinbolafo",
+    "tag": "Overall",
+    "overall_gain": 26841.960257801,
+    "active_positions": 48,
+    "win_amount": 38648.53754905021,
+    "loss_amount": -11806.577291249205,
+    "win_rate": 0.7049180327868853,
+    "total_current_value": 5527.521892000001,
+    "total_positions": 300,
+    "event_ct": 61,
+    "win_count": 43,
+    "rank": 4156,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
