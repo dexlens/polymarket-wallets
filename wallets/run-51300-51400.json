@@ -590,5 +590,21 @@
     "win_count": 15,
     "rank": 51338,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x60c45cd4fdcd683d2e81d03f8879a65139eec3f9",
+    "trader_name": "65yyui",
+    "tag": "Overall",
+    "overall_gain": 1422.495898452621,
+    "active_positions": 1,
+    "win_amount": 1423.4958816859562,
+    "loss_amount": -0.9999832333349998,
+    "win_rate": 0.75,
+    "total_current_value": 0.005956,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 51339,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
