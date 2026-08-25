@@ -462,5 +462,21 @@
     "win_count": 2,
     "rank": 78930,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e50438b2423fc725fc2e6bd557cd8b76b8698f0",
+    "trader_name": "aurora1",
+    "tag": "Overall",
+    "overall_gain": 648.7642664944581,
+    "active_positions": 82,
+    "win_amount": 1549.522188323572,
+    "loss_amount": -900.7579218291141,
+    "win_rate": 0.6338028169014085,
+    "total_current_value": 87.97508382000001,
+    "total_positions": 258,
+    "event_ct": 71,
+    "win_count": 45,
+    "rank": 78931,
+    "trader_tags": ""
   }
 ]
