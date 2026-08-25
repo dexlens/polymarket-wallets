@@ -542,5 +542,21 @@
     "win_count": 6,
     "rank": 64235,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf07283afca44dd0902fa860c58b693586c2cda7e",
+    "trader_name": "greffatestyg",
+    "tag": "Overall",
+    "overall_gain": 967.1909999999999,
+    "active_positions": 2,
+    "win_amount": 969.4159999999999,
+    "loss_amount": -2.2249999999999943,
+    "win_rate": 0.8,
+    "total_current_value": 39.605000000000004,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 64236,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
