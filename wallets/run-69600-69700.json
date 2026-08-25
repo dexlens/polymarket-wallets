@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 69695,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40d1d581db4e2090fcb9ae1b4aba196bcaf7776e",
+    "trader_name": "cryptohaveneth",
+    "tag": "Overall",
+    "overall_gain": 817.7756348136351,
+    "active_positions": 3,
+    "win_amount": 1483.7731070000002,
+    "loss_amount": -665.997472186365,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 500,
+    "total_positions": 15,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 69696,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
