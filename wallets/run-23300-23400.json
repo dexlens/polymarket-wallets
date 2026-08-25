@@ -1438,5 +1438,21 @@
     "win_count": 6,
     "rank": 23390,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a9b76ac00e6cdf6eddf7fa257053a1942fd5948",
+    "trader_name": "AUSTIsN",
+    "tag": "Overall",
+    "overall_gain": 3840.5,
+    "active_positions": 2,
+    "win_amount": 4856,
+    "loss_amount": -1015.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 23391,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
