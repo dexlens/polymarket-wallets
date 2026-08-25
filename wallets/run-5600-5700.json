@@ -1502,5 +1502,21 @@
     "win_count": 51,
     "rank": 5694,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x39343431eb7fc70aee76b0a8c09c0f1208808352",
+    "trader_name": "minigumi",
+    "tag": "Overall",
+    "overall_gain": 18950.840162216646,
+    "active_positions": 10,
+    "win_amount": 39412.56319886664,
+    "loss_amount": -20461.723036650004,
+    "win_rate": 0.532608695652174,
+    "total_current_value": 7210.496992,
+    "total_positions": 176,
+    "event_ct": 92,
+    "win_count": 49,
+    "rank": 5695,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
