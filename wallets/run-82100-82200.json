@@ -606,5 +606,21 @@
     "win_count": 9,
     "rank": 82139,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03a04f7e5becae78c0916467049c4be66d88fdbb",
+    "trader_name": "HoneyPebble",
+    "tag": "Overall",
+    "overall_gain": 596.1811190799999,
+    "active_positions": 7,
+    "win_amount": 2981.95911908,
+    "loss_amount": -2385.7780000000002,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0.01,
+    "total_positions": 25,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 82140,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
