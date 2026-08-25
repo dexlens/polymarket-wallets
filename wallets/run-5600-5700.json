@@ -126,5 +126,21 @@
     "win_count": 4,
     "rank": 5608,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f66796b45581868376365aef54b51eb84184c8d",
+    "trader_name": "Maskache2",
+    "tag": "Overall",
+    "overall_gain": 19219.163538284025,
+    "active_positions": 687,
+    "win_amount": 55698.947715053866,
+    "loss_amount": -36479.78417676983,
+    "win_rate": 0.3063583815028902,
+    "total_current_value": 11356.111556031003,
+    "total_positions": 1216,
+    "event_ct": 346,
+    "win_count": 106,
+    "rank": 5609,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
