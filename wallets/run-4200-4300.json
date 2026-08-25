@@ -878,5 +878,21 @@
     "win_count": 2,
     "rank": 4255,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdf55c5b5c2ed29026a54235b5568d862d8bdeb6a",
+    "trader_name": "Xendros",
+    "tag": "Overall",
+    "overall_gain": 26243.710161,
+    "active_positions": 1,
+    "win_amount": 28730.236661,
+    "loss_amount": -2486.5265000000004,
+    "win_rate": 0.9387755102040817,
+    "total_current_value": 0,
+    "total_positions": 51,
+    "event_ct": 49,
+    "win_count": 46,
+    "rank": 4256,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
