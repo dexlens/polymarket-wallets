@@ -334,5 +334,21 @@
     "win_count": 13,
     "rank": 4321,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4124b6446a35ab3a23e9737e9f32c038c0278af2",
+    "trader_name": "PROValueBetting",
+    "tag": "Overall",
+    "overall_gain": 25754.420314777777,
+    "active_positions": 171,
+    "win_amount": 200378.80097953443,
+    "loss_amount": -174624.38066475673,
+    "win_rate": 0.3686635944700461,
+    "total_current_value": 21614.769583206504,
+    "total_positions": 270,
+    "event_ct": 217,
+    "win_count": 80,
+    "rank": 4322,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
