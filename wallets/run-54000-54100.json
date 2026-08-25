@@ -14,5 +14,21 @@
     "win_count": 10,
     "rank": 54002,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7fa39f3676802c87fd45cbfef09c00bcdfcfbb15",
+    "trader_name": "ApeNowAnalyzeLater",
+    "tag": "Overall",
+    "overall_gain": 1302.880331641504,
+    "active_positions": 19,
+    "win_amount": 3136.6787455921176,
+    "loss_amount": -1833.7984139506125,
+    "win_rate": 0.7377777777777778,
+    "total_current_value": 100.448962,
+    "total_positions": 320,
+    "event_ct": 225,
+    "win_count": 166,
+    "rank": 54003,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
