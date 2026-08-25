@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 88765,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0269adfa7298eca6a9c5d9ae69b80cc693464cc9",
+    "trader_name": "jojonakos",
+    "tag": "Overall",
+    "overall_gain": 504.5443547425919,
+    "active_positions": 15,
+    "win_amount": 628.161406670267,
+    "loss_amount": -123.617051927675,
+    "win_rate": 0.7012987012987013,
+    "total_current_value": 23.553447259,
+    "total_positions": 196,
+    "event_ct": 77,
+    "win_count": 54,
+    "rank": 88766,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
