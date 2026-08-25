@@ -446,5 +446,21 @@
     "win_count": 73,
     "rank": 4528,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf0b6a8ebfa3a626337cc45e8eed30eaafb182fef",
+    "trader_name": "retordedgremlin125",
+    "tag": "Overall",
+    "overall_gain": 24311.952271242044,
+    "active_positions": 3,
+    "win_amount": 46313.85381824281,
+    "loss_amount": -22001.901547000765,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 25411.016947594002,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 4529,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
