@@ -1566,5 +1566,21 @@
     "win_count": 6,
     "rank": 8698,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5895f0d9efd4128760ce6adcee1d6c86593baaba",
+    "trader_name": "djlancer",
+    "tag": "Overall",
+    "overall_gain": 12057.746200000001,
+    "active_positions": 2,
+    "win_amount": 15281.575,
+    "loss_amount": -3223.8288000000002,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 8699,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
