@@ -686,5 +686,21 @@
     "win_count": 14,
     "rank": 6343,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d382a1a7bb93731176a2bb11e786ea701835f8b",
+    "trader_name": "Tazven",
+    "tag": "Overall",
+    "overall_gain": 16879.881830662416,
+    "active_positions": 4,
+    "win_amount": 17199.841814,
+    "loss_amount": -319.959983337581,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 18,
+    "rank": 6344,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
