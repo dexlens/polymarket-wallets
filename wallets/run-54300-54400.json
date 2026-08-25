@@ -1214,5 +1214,21 @@
     "win_count": 29,
     "rank": 54377,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04686fc28cf43b1a889f145c72a57eb2377b296d",
+    "trader_name": "alphaa",
+    "tag": "Overall",
+    "overall_gain": 1286.9240720554003,
+    "active_positions": 3,
+    "win_amount": 1793.0113540554003,
+    "loss_amount": -506.08728199999996,
+    "win_rate": 0.6,
+    "total_current_value": 322.84364001,
+    "total_positions": 20,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 54378,
+    "trader_tags": "> 1 year old"
   }
 ]
