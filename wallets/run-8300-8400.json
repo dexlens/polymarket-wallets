@@ -334,5 +334,21 @@
     "win_count": 26,
     "rank": 8321,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f9fd3cdd442c431a5fc73c85540c0d1ca362a51",
+    "trader_name": "Elguz",
+    "tag": "Overall",
+    "overall_gain": 12621.725405944422,
+    "active_positions": 36,
+    "win_amount": 18358.383213787107,
+    "loss_amount": -5736.657807842681,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 197.039869765,
+    "total_positions": 110,
+    "event_ct": 90,
+    "win_count": 65,
+    "rank": 8322,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
