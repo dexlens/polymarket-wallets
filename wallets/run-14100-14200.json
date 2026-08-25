@@ -702,5 +702,21 @@
     "win_count": 11,
     "rank": 14144,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x85a8c19bc7f75c4f79111986c48c6b90d7e1974c",
+    "trader_name": "Quylith",
+    "tag": "Overall",
+    "overall_gain": 6980.654350999999,
+    "active_positions": 5,
+    "win_amount": 11024.935351000006,
+    "loss_amount": -4044.281,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 7,
+    "total_positions": 29,
+    "event_ct": 28,
+    "win_count": 24,
+    "rank": 14145,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
