@@ -1022,5 +1022,21 @@
     "win_count": 13,
     "rank": 4664,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x86ead84ed3d01d37b52bec6a55a906eac8ec72e7",
+    "trader_name": "InstaImpulse22",
+    "tag": "Overall",
+    "overall_gain": 23438.509003999996,
+    "active_positions": 0,
+    "win_amount": 23597.399004,
+    "loss_amount": -158.89,
+    "win_rate": 0.4838709677419355,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 15,
+    "rank": 4665,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
