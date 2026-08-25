@@ -510,5 +510,21 @@
     "win_count": 11,
     "rank": 39533,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc0b6558e2adec50bf56ec2b3afaec56b42a5f3ed",
+    "trader_name": "Skeflix",
+    "tag": "Overall",
+    "overall_gain": 2019.0889999999997,
+    "active_positions": 1,
+    "win_amount": 2021.1539999999998,
+    "loss_amount": -2.0649999999999977,
+    "win_rate": 0.75,
+    "total_current_value": 26.845000000000002,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 39534,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
