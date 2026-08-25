@@ -1214,5 +1214,21 @@
     "win_count": 13,
     "rank": 2776,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a79bb71bdaeb634d990d939a73b7a512148a442",
+    "trader_name": "leechan16888",
+    "tag": "Overall",
+    "overall_gain": 41714.136153039864,
+    "active_positions": 10,
+    "win_amount": 122725.4265928734,
+    "loss_amount": -81011.29043983354,
+    "win_rate": 0.6136363636363636,
+    "total_current_value": 0.34123499999999996,
+    "total_positions": 93,
+    "event_ct": 88,
+    "win_count": 54,
+    "rank": 2777,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
