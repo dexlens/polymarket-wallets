@@ -798,5 +798,21 @@
     "win_count": 3,
     "rank": 7450,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1031db1ad6526d02c62fb5b39928b65d1015f65f",
+    "trader_name": "Orysen",
+    "tag": "Overall",
+    "overall_gain": 14244.874300490192,
+    "active_positions": 1,
+    "win_amount": 20772.98630049019,
+    "loss_amount": -6528.112000000001,
+    "win_rate": 0.8837209302325582,
+    "total_current_value": 8.000503,
+    "total_positions": 45,
+    "event_ct": 43,
+    "win_count": 38,
+    "rank": 7451,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
