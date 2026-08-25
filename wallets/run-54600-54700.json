@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 54660,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4e1af85a352611a270fe2212f06d91d5c9abf458",
+    "trader_name": "guille.eth",
+    "tag": "Overall",
+    "overall_gain": 1273.631804218895,
+    "active_positions": 1,
+    "win_amount": 1323.630492,
+    "loss_amount": -49.998687781105005,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 54661,
+    "trader_tags": "> 1 year old"
   }
 ]
