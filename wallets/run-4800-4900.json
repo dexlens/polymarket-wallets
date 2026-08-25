@@ -1198,5 +1198,21 @@
     "win_count": 16,
     "rank": 4875,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb758b193f68d37653014fdcb6aa05909c367103e",
+    "trader_name": "Shin-Ei",
+    "tag": "Overall",
+    "overall_gain": 22319.431216053392,
+    "active_positions": 5,
+    "win_amount": 41547.523753053385,
+    "loss_amount": -19228.092537,
+    "win_rate": 0.8222222222222222,
+    "total_current_value": 8.258421134999999,
+    "total_positions": 119,
+    "event_ct": 45,
+    "win_count": 37,
+    "rank": 4876,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
