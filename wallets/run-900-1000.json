@@ -574,5 +574,21 @@
     "win_count": 31,
     "rank": 936,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x8633c1c6844c5928b284a71e211584739474a08d",
+    "trader_name": "Pondermint",
+    "tag": "Overall",
+    "overall_gain": 131234.5574572067,
+    "active_positions": 0,
+    "win_amount": 238232.0512969369,
+    "loss_amount": -106997.49383973017,
+    "win_rate": 0.5057471264367817,
+    "total_current_value": 0.067085,
+    "total_positions": 159,
+    "event_ct": 87,
+    "win_count": 44,
+    "rank": 937,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
   }
 ]
