@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 6234,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcde8fac23570a631e15804b6c1fba61577238b09",
+    "trader_name": "noeldietrich",
+    "tag": "Overall",
+    "overall_gain": 17183.364229999996,
+    "active_positions": 2,
+    "win_amount": 26939.621229999997,
+    "loss_amount": -9756.257,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 23.493,
+    "total_positions": 61,
+    "event_ct": 38,
+    "win_count": 26,
+    "rank": 6235,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
