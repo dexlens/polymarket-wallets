@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 79965,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f571da8400a68296d135b8804b5866d4524e8b4",
+    "trader_name": "redflaged",
+    "tag": "Overall",
+    "overall_gain": 631.1703473582693,
+    "active_positions": 3,
+    "win_amount": 1444.0319680449354,
+    "loss_amount": -812.8616206866659,
+    "win_rate": 0.83,
+    "total_current_value": 162.40726699999996,
+    "total_positions": 546,
+    "event_ct": 300,
+    "win_count": 249,
+    "rank": 79966,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
