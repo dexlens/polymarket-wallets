@@ -638,5 +638,21 @@
     "win_count": 8,
     "rank": 38241,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8bdc3eac03fcc9ce4bfb29b26c0ceb9466754686",
+    "trader_name": "HarperWren",
+    "tag": "Overall",
+    "overall_gain": 2102.8853679999997,
+    "active_positions": 5,
+    "win_amount": 6378.885367999999,
+    "loss_amount": -4276,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 14.024,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 24,
+    "rank": 38242,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
