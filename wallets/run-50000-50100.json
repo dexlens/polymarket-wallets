@@ -1086,5 +1086,21 @@
     "win_count": 2,
     "rank": 50069,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x262df103af7d60e772337b1497361892fda3d395",
+    "trader_name": "Hydrochoerus",
+    "tag": "Overall",
+    "overall_gain": 1481.59,
+    "active_positions": 0,
+    "win_amount": 1481.59,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 50070,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
