@@ -1214,5 +1214,21 @@
     "win_count": 36,
     "rank": 49777,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x20e0a5e361c56d5b965715a80eae336bfb1f13eb",
+    "trader_name": "Soulwedge",
+    "tag": "Overall",
+    "overall_gain": 1493.23,
+    "active_positions": 1,
+    "win_amount": 1493.23,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 49778,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
