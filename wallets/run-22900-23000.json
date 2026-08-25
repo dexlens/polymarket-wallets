@@ -718,5 +718,21 @@
     "win_count": 5,
     "rank": 22945,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14d70a08aaba3cb696a6e1431e50bbedc7f7db87",
+    "trader_name": "Chayzon",
+    "tag": "Overall",
+    "overall_gain": 3928.6801089071073,
+    "active_positions": 8,
+    "win_amount": 9389.63360914059,
+    "loss_amount": -5460.953500233484,
+    "win_rate": 0.6615384615384615,
+    "total_current_value": 6957.1373197625,
+    "total_positions": 74,
+    "event_ct": 65,
+    "win_count": 43,
+    "rank": 22946,
+    "trader_tags": ""
   }
 ]
