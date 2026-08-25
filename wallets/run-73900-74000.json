@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 73983,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8ac3f007f1204e528778938d5286569f5182eda2",
+    "trader_name": "CookieAnn2",
+    "tag": "Overall",
+    "overall_gain": 728.704489597896,
+    "active_positions": 1,
+    "win_amount": 1722.832681257938,
+    "loss_amount": -994.1281916600419,
+    "win_rate": 0.7,
+    "total_current_value": 0.18691258999999996,
+    "total_positions": 152,
+    "event_ct": 100,
+    "win_count": 70,
+    "rank": 73984,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
