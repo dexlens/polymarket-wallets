@@ -142,5 +142,21 @@
     "win_count": 7,
     "rank": 6809,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x6d3e04917f6e41778e4a10aa3487dcff851cffff",
+    "trader_name": "SACASASAS",
+    "tag": "Overall",
+    "overall_gain": 15756.185332494068,
+    "active_positions": 6,
+    "win_amount": 17744.286990298,
+    "loss_amount": -1988.101657803935,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 74.999978,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 6810,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
