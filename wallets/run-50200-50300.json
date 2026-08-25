@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 50296,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e4b4a3c24099947bde3c5d791c5a80799e9a8bd",
+    "trader_name": "dusterr",
+    "tag": "Overall",
+    "overall_gain": 1471.2721270003458,
+    "active_positions": 0,
+    "win_amount": 3611.74118,
+    "loss_amount": -2140.4690529996537,
+    "win_rate": 0.6875,
+    "total_current_value": 0.004346,
+    "total_positions": 17,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 50297,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
