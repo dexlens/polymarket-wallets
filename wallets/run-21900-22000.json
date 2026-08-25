@@ -270,5 +270,21 @@
     "win_count": 33,
     "rank": 21917,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32b01311fe2ed9d556f28ae3a754d8a198af0b70",
+    "trader_name": "mivier",
+    "tag": "Overall",
+    "overall_gain": 4139.10526132,
+    "active_positions": 9,
+    "win_amount": 12272.691597000001,
+    "loss_amount": -8133.58633568,
+    "win_rate": 0.6,
+    "total_current_value": 100,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 12,
+    "rank": 21918,
+    "trader_tags": "< 30 days old"
   }
 ]
