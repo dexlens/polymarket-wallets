@@ -158,5 +158,21 @@
     "win_count": 2500,
     "rank": 5610,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x8505c0be555a94dc85dc86d73108f20d87e8a181",
+    "trader_name": "siennamitch",
+    "tag": "Overall",
+    "overall_gain": 19211.96,
+    "active_positions": 0,
+    "win_amount": 19211.96,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 5611,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
