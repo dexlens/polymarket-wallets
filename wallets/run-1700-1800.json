@@ -1278,5 +1278,21 @@
     "win_count": 315,
     "rank": 1780,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x69788e136500902559a2fb21883ab9baacbd08d8",
+    "trader_name": "TruongMyLan",
+    "tag": "Overall",
+    "overall_gain": 68771.61803493266,
+    "active_positions": 220,
+    "win_amount": 211176.93842022808,
+    "loss_amount": -142405.32038529555,
+    "win_rate": 0.5344129554655871,
+    "total_current_value": 30554.590754179986,
+    "total_positions": 1085,
+    "event_ct": 494,
+    "win_count": 264,
+    "rank": 1781,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
