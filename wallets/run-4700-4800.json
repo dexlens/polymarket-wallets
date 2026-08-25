@@ -1470,5 +1470,21 @@
     "win_count": 79,
     "rank": 4792,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8187961c5c2b67cbc841f1925e30b1f27bef37ac",
+    "trader_name": "Eliotc",
+    "tag": "Overall",
+    "overall_gain": 22710.237325,
+    "active_positions": 0,
+    "win_amount": 22805.550324999997,
+    "loss_amount": -95.313,
+    "win_rate": 0.7352941176470589,
+    "total_current_value": 0,
+    "total_positions": 42,
+    "event_ct": 34,
+    "win_count": 25,
+    "rank": 4793,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
