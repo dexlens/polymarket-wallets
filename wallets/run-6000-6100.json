@@ -254,5 +254,21 @@
     "win_count": 43,
     "rank": 6016,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8988e1d0ae0d26447d5564f00d5d9d85d1305dd5",
+    "trader_name": "Strenik",
+    "tag": "Overall",
+    "overall_gain": 17822.020751776072,
+    "active_positions": 4,
+    "win_amount": 18442.51705177607,
+    "loss_amount": -620.4963,
+    "win_rate": 0.90625,
+    "total_current_value": 5.01171,
+    "total_positions": 34,
+    "event_ct": 32,
+    "win_count": 29,
+    "rank": 6017,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
