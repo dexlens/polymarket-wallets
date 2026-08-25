@@ -846,5 +846,21 @@
     "win_count": 15,
     "rank": 4753,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52ca1838d17efbc06a4dbc49754da8bff28b1d63",
+    "trader_name": "rvn017",
+    "tag": "Overall",
+    "overall_gain": 22901.055113766342,
+    "active_positions": 14,
+    "win_amount": 67502.97975156827,
+    "loss_amount": -44601.92463780192,
+    "win_rate": 0.6784565916398714,
+    "total_current_value": 81.97666050850002,
+    "total_positions": 348,
+    "event_ct": 311,
+    "win_count": 211,
+    "rank": 4754,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
