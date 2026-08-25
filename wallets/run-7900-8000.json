@@ -638,5 +638,21 @@
     "win_count": 6,
     "rank": 7940,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x300c6e168c84ebc380a18e6ba4b1bd5bcbea7708",
+    "trader_name": "YeahLivingston",
+    "tag": "Overall",
+    "overall_gain": 13241.212126869908,
+    "active_positions": 326,
+    "win_amount": 137530.65236055746,
+    "loss_amount": -124289.44023368754,
+    "win_rate": 0.4449838187702265,
+    "total_current_value": 6.5303576,
+    "total_positions": 674,
+    "event_ct": 618,
+    "win_count": 275,
+    "rank": 7941,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
