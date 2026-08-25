@@ -1534,5 +1534,21 @@
     "win_count": 32,
     "rank": 2096,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5f8c6eae41843219491a0bc8430d3e6f47458d47",
+    "trader_name": "LOKI2",
+    "tag": "Overall",
+    "overall_gain": 57307.179445005124,
+    "active_positions": 0,
+    "win_amount": 64669.27750548022,
+    "loss_amount": -7362.098060475095,
+    "win_rate": 0.5,
+    "total_current_value": 0.014117000000000001,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 2097,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
