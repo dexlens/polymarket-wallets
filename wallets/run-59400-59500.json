@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 59480,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f4a013f769fd06973781ac4002875ddf62058c2",
+    "trader_name": "lqTerminal",
+    "tag": "Overall",
+    "overall_gain": 1092.691007979153,
+    "active_positions": 0,
+    "win_amount": 1092.691007979153,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008732,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 59481,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
