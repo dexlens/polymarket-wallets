@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 51399,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5ed88428db41d980f97bf586dd3c6dd9f10bffc7",
+    "trader_name": "Shavador",
+    "tag": "Overall",
+    "overall_gain": 1419.9710104932224,
+    "active_positions": 40,
+    "win_amount": 7426.832931288584,
+    "loss_amount": -6006.861920795364,
+    "win_rate": 0.7636363636363637,
+    "total_current_value": 309.523068,
+    "total_positions": 63,
+    "event_ct": 55,
+    "win_count": 42,
+    "rank": 51400,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
