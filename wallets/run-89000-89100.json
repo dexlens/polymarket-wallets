@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 89034,
     "trader_tags": "67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x9397eaeb0939d602891a2a8caa72657773a4ceb4",
+    "trader_name": "Mr.Mackey",
+    "tag": "Overall",
+    "overall_gain": 501.29189869713423,
+    "active_positions": 1,
+    "win_amount": 2392.18921411832,
+    "loss_amount": -1890.897315421186,
+    "win_rate": 0.8157894736842105,
+    "total_current_value": 10.22202,
+    "total_positions": 55,
+    "event_ct": 38,
+    "win_count": 31,
+    "rank": 89035,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
