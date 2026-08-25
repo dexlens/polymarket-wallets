@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 44242,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9eea998b641be2b4e6e36fa5ba63cd7585ce2625",
+    "trader_name": "JeffreyGuan",
+    "tag": "Overall",
+    "overall_gain": 1751.6021738290167,
+    "active_positions": 5,
+    "win_amount": 8796.8168009472,
+    "loss_amount": -7045.2146271181855,
+    "win_rate": 0.6477272727272727,
+    "total_current_value": 36.966370051000006,
+    "total_positions": 232,
+    "event_ct": 176,
+    "win_count": 114,
+    "rank": 44243,
+    "trader_tags": "> 1 year old"
   }
 ]
