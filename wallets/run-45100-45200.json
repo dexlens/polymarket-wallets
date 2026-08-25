@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 45192,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7de5c8387f72f2f593438c33264c0fc526d6cf05",
+    "trader_name": "BobEvans",
+    "tag": "Overall",
+    "overall_gain": 1704.2324284768845,
+    "active_positions": 3,
+    "win_amount": 12604.604323520221,
+    "loss_amount": -10900.371895043336,
+    "win_rate": 0.6071428571428571,
+    "total_current_value": 0.051127,
+    "total_positions": 35,
+    "event_ct": 28,
+    "win_count": 17,
+    "rank": 45193,
+    "trader_tags": "> 1 year old"
   }
 ]
