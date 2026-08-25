@@ -350,5 +350,21 @@
     "win_count": 5,
     "rank": 14822,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ee0c5105c874b6e188e65940561707a5d68589b",
+    "trader_name": "idunno.tao",
+    "tag": "Overall",
+    "overall_gain": 6602.277169015746,
+    "active_positions": 0,
+    "win_amount": 11845.370378,
+    "loss_amount": -5243.093208984254,
+    "win_rate": 0.09090909090909091,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 11,
+    "win_count": 1,
+    "rank": 14823,
+    "trader_tags": "> 1 year old"
   }
 ]
