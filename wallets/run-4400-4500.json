@@ -1278,5 +1278,21 @@
     "win_count": 101,
     "rank": 4480,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbace19b995b39ecafb2b6cf21234fffa11f76a61",
+    "trader_name": "thaen1",
+    "tag": "Overall",
+    "overall_gain": 24663.700608498464,
+    "active_positions": 407,
+    "win_amount": 141439.69370774372,
+    "loss_amount": -116775.9930992453,
+    "win_rate": 0.5326421513040661,
+    "total_current_value": 4083.511423,
+    "total_positions": 11931,
+    "event_ct": 6173,
+    "win_count": 3288,
+    "rank": 4481,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
