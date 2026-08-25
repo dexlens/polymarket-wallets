@@ -1486,5 +1486,21 @@
     "win_count": 11,
     "rank": 4493,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97dff7da141527c16635cd3d292f70eb80e42d35",
+    "trader_name": "ghst",
+    "tag": "Overall",
+    "overall_gain": 24538.99943057134,
+    "active_positions": 0,
+    "win_amount": 33974.35991773052,
+    "loss_amount": -9435.360487159176,
+    "win_rate": 0.3793103448275862,
+    "total_current_value": 0.015471,
+    "total_positions": 52,
+    "event_ct": 29,
+    "win_count": 11,
+    "rank": 4494,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
