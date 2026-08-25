@@ -878,5 +878,21 @@
     "win_count": 14,
     "rank": 45956,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x18c06d879425c96258a6e073f0f27c5629b38b10",
+    "trader_name": "Mistmesh",
+    "tag": "Overall",
+    "overall_gain": 1668.5,
+    "active_positions": 2,
+    "win_amount": 1761,
+    "loss_amount": -92.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 45957,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
