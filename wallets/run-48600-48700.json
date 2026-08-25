@@ -1214,5 +1214,21 @@
     "win_count": 10,
     "rank": 48677,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbe47dd78d4cdb9e698e77ecc3acd2c2a81ce909f",
+    "trader_name": "poply",
+    "tag": "Overall",
+    "overall_gain": 1542.285927,
+    "active_positions": 0,
+    "win_amount": 1542.285927,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 48678,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
