@@ -750,5 +750,21 @@
     "win_count": 15,
     "rank": 25848,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5bef81ac2039e11ae7495e107f20fafc10feffaf",
+    "trader_name": "Coronamark",
+    "tag": "Overall",
+    "overall_gain": 3398.5,
+    "active_positions": 1,
+    "win_amount": 3963,
+    "loss_amount": -564.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 25849,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
