@@ -1534,5 +1534,21 @@
     "win_count": 27,
     "rank": 7896,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x638f7aaef4218c9d1a92db1d17d00b490972fb41",
+    "trader_name": "Azren",
+    "tag": "Overall",
+    "overall_gain": 13327.412100761767,
+    "active_positions": 3,
+    "win_amount": 15505.582801130178,
+    "loss_amount": -2178.1707003684105,
+    "win_rate": 0.8627450980392157,
+    "total_current_value": 0.0051565000000000005,
+    "total_positions": 55,
+    "event_ct": 51,
+    "win_count": 44,
+    "rank": 7897,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
