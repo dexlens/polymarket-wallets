@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 6225,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x704386c938c299503bb3f8850707c98556b21e91",
+    "trader_name": "adgfaga",
+    "tag": "Overall",
+    "overall_gain": 17193.308496,
+    "active_positions": 0,
+    "win_amount": 17193.308496,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6226,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
