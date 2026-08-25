@@ -1150,5 +1150,21 @@
     "win_count": 3,
     "rank": 7972,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7818687f1c2cda416877ab68d18d2c9c25f9d185",
+    "trader_name": "Zaratustra",
+    "tag": "Overall",
+    "overall_gain": 13171.020302478482,
+    "active_positions": 47,
+    "win_amount": 34680.25009457506,
+    "loss_amount": -21509.229792096587,
+    "win_rate": 0.6237623762376238,
+    "total_current_value": 201741.95416355948,
+    "total_positions": 272,
+    "event_ct": 202,
+    "win_count": 126,
+    "rank": 7973,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
