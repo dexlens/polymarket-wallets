@@ -638,5 +638,21 @@
     "win_count": 250,
     "rank": 75341,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x976b099ae995a3c1893dd83c2278d1fc81dfcf45",
+    "trader_name": "mastercardnz",
+    "tag": "Overall",
+    "overall_gain": 709.2285104546619,
+    "active_positions": 30,
+    "win_amount": 1711.2430008868307,
+    "loss_amount": -1002.0144904321689,
+    "win_rate": 0.7027027027027027,
+    "total_current_value": 34.296913,
+    "total_positions": 79,
+    "event_ct": 74,
+    "win_count": 52,
+    "rank": 75342,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
