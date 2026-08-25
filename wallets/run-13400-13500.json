@@ -622,5 +622,21 @@
     "win_count": 20,
     "rank": 13439,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04849ea1c5dca8f6cae51a163734e5bec43cbe3f",
+    "trader_name": "beautifulsoup",
+    "tag": "Overall",
+    "overall_gain": 7402.219343999998,
+    "active_positions": 0,
+    "win_amount": 39956.54392100001,
+    "loss_amount": -32554.324576999996,
+    "win_rate": 0.5832342449464922,
+    "total_current_value": 0,
+    "total_positions": 2077,
+    "event_ct": 1682,
+    "win_count": 981,
+    "rank": 13440,
+    "trader_tags": "1k+ Positions"
   }
 ]
