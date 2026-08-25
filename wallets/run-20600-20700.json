@@ -1582,5 +1582,21 @@
     "win_count": 9,
     "rank": 20699,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13d278cac89c41b703497b1780dda44d96aab252",
+    "trader_name": "djmbvaw",
+    "tag": "Overall",
+    "overall_gain": 4439.675543843855,
+    "active_positions": 3,
+    "win_amount": 5243.7913438438545,
+    "loss_amount": -804.1158,
+    "win_rate": 0.9375,
+    "total_current_value": 188.560022,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 30,
+    "rank": 20700,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
