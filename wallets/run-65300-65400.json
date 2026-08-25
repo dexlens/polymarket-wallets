@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 65350,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1aba4dd4afd35a7c75d3fe4736e8c36ba2fed0d2",
+    "trader_name": "northern-alliance-2",
+    "tag": "Overall",
+    "overall_gain": 934.701774755768,
+    "active_positions": 3,
+    "win_amount": 1040.2001,
+    "loss_amount": -105.498325244232,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 65351,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
