@@ -990,5 +990,21 @@
     "win_count": 2,
     "rank": 88963,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x109c3d2c2dca9b75f2dbb3a663bd17554a0306e1",
+    "trader_name": "mat45",
+    "tag": "Overall",
+    "overall_gain": 502.0692774216491,
+    "active_positions": 37,
+    "win_amount": 1414.1259681885037,
+    "loss_amount": -912.0566907668549,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 94,
+    "event_ct": 75,
+    "win_count": 50,
+    "rank": 88964,
+    "trader_tags": ""
   }
 ]
