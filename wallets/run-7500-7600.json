@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 7547,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdce9bdddc823d6dcf73fe354c85e937dbd59d940",
+    "trader_name": "gambladdict",
+    "tag": "Overall",
+    "overall_gain": 14054.402575396109,
+    "active_positions": 2,
+    "win_amount": 20172.660584329322,
+    "loss_amount": -6118.258008933212,
+    "win_rate": 0.6,
+    "total_current_value": 0.06680200000000001,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 7548,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
