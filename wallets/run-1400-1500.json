@@ -430,5 +430,21 @@
     "win_count": 10,
     "rank": 1427,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e2391418438e76a76b6699474abf803cceb9b18",
+    "trader_name": "MarcoGPT",
+    "tag": "Overall",
+    "overall_gain": 84948.8322791088,
+    "active_positions": 0,
+    "win_amount": 84948.8322791088,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.032628000000000004,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 1428,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
