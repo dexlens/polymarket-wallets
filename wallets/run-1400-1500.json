@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 1421,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2172b183e74a16408ea07bdce020039e7e6c40ee",
+    "trader_name": "mndge4",
+    "tag": "Overall",
+    "overall_gain": 85140,
+    "active_positions": 0,
+    "win_amount": 85140,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 1422,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
