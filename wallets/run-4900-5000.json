@@ -654,5 +654,21 @@
     "win_count": 41,
     "rank": 4941,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe531024d14f1bb12413c066c07090c3089f5faa5",
+    "trader_name": "Yoreva",
+    "tag": "Overall",
+    "overall_gain": 21921.731605100005,
+    "active_positions": 3,
+    "win_amount": 23351.457605100004,
+    "loss_amount": -1429.726,
+    "win_rate": 0.8,
+    "total_current_value": 0.0001,
+    "total_positions": 33,
+    "event_ct": 30,
+    "win_count": 24,
+    "rank": 4942,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
