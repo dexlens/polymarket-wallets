@@ -1358,5 +1358,21 @@
     "win_count": 6,
     "rank": 20085,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xaee155cfcdbea58f38ae6dea1475a0198f443cea",
+    "trader_name": "OutcomeUnclear",
+    "tag": "Overall",
+    "overall_gain": 4603.973214568947,
+    "active_positions": 7,
+    "win_amount": 7090.446858086865,
+    "loss_amount": -2486.473643517916,
+    "win_rate": 0.68,
+    "total_current_value": 5707.688360948,
+    "total_positions": 118,
+    "event_ct": 75,
+    "win_count": 51,
+    "rank": 20086,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
