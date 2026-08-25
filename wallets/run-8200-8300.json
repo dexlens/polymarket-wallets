@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 8238,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xc2b29d95057c11242ad3130d86f112ddf2d0fa27",
+    "trader_name": "usogui",
+    "tag": "Overall",
+    "overall_gain": 12775.733924922675,
+    "active_positions": 1,
+    "win_amount": 19688.6832637502,
+    "loss_amount": -6912.9493388275305,
+    "win_rate": 0.8717948717948718,
+    "total_current_value": 0.34048987,
+    "total_positions": 64,
+    "event_ct": 39,
+    "win_count": 34,
+    "rank": 8239,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
