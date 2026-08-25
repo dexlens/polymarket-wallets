@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 1099,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x25869d34ca274c24da62b7d62e3c2f692d1df071",
+    "trader_name": "Anemoi",
+    "tag": "Overall",
+    "overall_gain": 110370.20990290947,
+    "active_positions": 32,
+    "win_amount": 220289.62035764602,
+    "loss_amount": -109919.4104547365,
+    "win_rate": 0.7347767253044655,
+    "total_current_value": 2214.1046456275008,
+    "total_positions": 1541,
+    "event_ct": 739,
+    "win_count": 543,
+    "rank": 1100,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions; Sports PnL > $100k"
   }
 ]
