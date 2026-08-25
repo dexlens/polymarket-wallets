@@ -718,5 +718,21 @@
     "win_count": 4,
     "rank": 70946,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x25fd3571dcb7b9af993e308ae0f81b49387be685",
+    "trader_name": "CSTr1",
+    "tag": "Overall",
+    "overall_gain": 789.4977089445008,
+    "active_positions": 7,
+    "win_amount": 1039.2069289445005,
+    "loss_amount": -249.70922,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 7563.448261000001,
+    "total_positions": 30,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 70947,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
