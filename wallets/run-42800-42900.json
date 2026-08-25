@@ -1230,5 +1230,21 @@
     "win_count": 4,
     "rank": 42878,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5d881c19d722b33bdc0a6ae86b1aacd51d654dd4",
+    "trader_name": "poone",
+    "tag": "Overall",
+    "overall_gain": 1826.169174713577,
+    "active_positions": 16,
+    "win_amount": 3288.3500379817856,
+    "loss_amount": -1462.180863268209,
+    "win_rate": 0.7727272727272727,
+    "total_current_value": 314.29692724750004,
+    "total_positions": 67,
+    "event_ct": 66,
+    "win_count": 51,
+    "rank": 42879,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
