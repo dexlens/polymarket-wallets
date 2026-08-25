@@ -110,5 +110,21 @@
     "win_count": 6,
     "rank": 56608,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9bbf59d353ac0aa00d87961bd3393b24d3c5a7d1",
+    "trader_name": "TheKimjim",
+    "tag": "Overall",
+    "overall_gain": 1194.588593723963,
+    "active_positions": 6,
+    "win_amount": 1211.646293723963,
+    "loss_amount": -17.057699999999997,
+    "win_rate": 0.9565217391304348,
+    "total_current_value": 151.8221401825,
+    "total_positions": 62,
+    "event_ct": 46,
+    "win_count": 44,
+    "rank": 56609,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
