@@ -1534,5 +1534,21 @@
     "win_count": 5,
     "rank": 68497,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3bd9673dbf3e4c670c07af726ba35f71be931e9c",
+    "trader_name": "kryptodroid1",
+    "tag": "Overall",
+    "overall_gain": 848.3193784558856,
+    "active_positions": 0,
+    "win_amount": 940.4167203882669,
+    "loss_amount": -92.097341932381,
+    "win_rate": 0.6836734693877551,
+    "total_current_value": 0.009548999183708443,
+    "total_positions": 98,
+    "event_ct": 98,
+    "win_count": 67,
+    "rank": 68498,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
