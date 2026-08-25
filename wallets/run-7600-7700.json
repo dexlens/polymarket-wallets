@@ -142,5 +142,21 @@
     "win_count": 89,
     "rank": 7609,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x554263e1623955fdd7cac7a3d7671c9ee84d4c26",
+    "trader_name": "ushofasd",
+    "tag": "Overall",
+    "overall_gain": 13912.987551251774,
+    "active_positions": 4,
+    "win_amount": 15302.277525000001,
+    "loss_amount": -1389.2899737482287,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 7610,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
