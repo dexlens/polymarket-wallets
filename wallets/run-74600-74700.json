@@ -1134,5 +1134,21 @@
     "win_count": 7,
     "rank": 74672,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2080df3bc15a35e732d9f6cea3bd61fafc01c38c",
+    "trader_name": "FAFASS",
+    "tag": "Overall",
+    "overall_gain": 718.7821534779638,
+    "active_positions": 0,
+    "win_amount": 718.7821534779638,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.013964,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 11,
+    "rank": 74673,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
