@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 57391,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x79c890d4d83cf908c41785830dfdb43596ea7126",
+    "trader_name": "heartbeatr",
+    "tag": "Overall",
+    "overall_gain": 1164,
+    "active_positions": 0,
+    "win_amount": 1164,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 57392,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
