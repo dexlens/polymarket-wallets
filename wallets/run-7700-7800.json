@@ -958,5 +958,21 @@
     "win_count": 52,
     "rank": 7760,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c980dbb742719d57b9f43f1f2860a6e830729fc",
+    "trader_name": "ningchaoxian2",
+    "tag": "Overall",
+    "overall_gain": 13603.976677219045,
+    "active_positions": 5,
+    "win_amount": 17185.52660249783,
+    "loss_amount": -3581.549925278783,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 43167.38211283101,
+    "total_positions": 14,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 7761,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
