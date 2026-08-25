@@ -958,5 +958,21 @@
     "win_count": 75,
     "rank": 1760,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xefe5d4ce26f00fb4b2154cf6139979509d506f6b",
+    "trader_name": "TwoHundredPerMarket",
+    "tag": "Overall",
+    "overall_gain": 69781.33372204,
+    "active_positions": 22,
+    "win_amount": 72536.848503,
+    "loss_amount": -2755.5147809600003,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 2387.36621,
+    "total_positions": 30,
+    "event_ct": 27,
+    "win_count": 12,
+    "rank": 1761,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
