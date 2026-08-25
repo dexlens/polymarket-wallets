@@ -654,5 +654,21 @@
     "win_count": 13,
     "rank": 20041,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04dcbd9b805b220a9b2d27e4d9e649ed07902387",
+    "trader_name": "thursdays",
+    "tag": "Overall",
+    "overall_gain": 4614.219790463382,
+    "active_positions": 258,
+    "win_amount": 86367.39383811412,
+    "loss_amount": -81753.17404765075,
+    "win_rate": 0.52329360780065,
+    "total_current_value": 26330.381210803997,
+    "total_positions": 2501,
+    "event_ct": 923,
+    "win_count": 483,
+    "rank": 20042,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
