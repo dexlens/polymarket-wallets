@@ -654,5 +654,21 @@
     "win_count": 75,
     "rank": 52042,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x27e03ae10c1dc9cfc644a4eaa8d6e17d589c746e",
+    "trader_name": "follymarket",
+    "tag": "Overall",
+    "overall_gain": 1390.321740722761,
+    "active_positions": 9,
+    "win_amount": 1399.1101271462069,
+    "loss_amount": -8.788386423446001,
+    "win_rate": 0.8,
+    "total_current_value": 41.8346054085,
+    "total_positions": 36,
+    "event_ct": 35,
+    "win_count": 28,
+    "rank": 52043,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
