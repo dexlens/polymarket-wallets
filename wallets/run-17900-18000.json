@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 17946,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4a4a3d722c7a38a5b8b0192c41381affbd0be24d",
+    "trader_name": "QQai11",
+    "tag": "Overall",
+    "overall_gain": 5200.699954384387,
+    "active_positions": 2,
+    "win_amount": 5200.699954384387,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 16.215311000000003,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 17947,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
