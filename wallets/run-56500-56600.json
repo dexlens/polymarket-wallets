@@ -334,5 +334,21 @@
     "win_count": 2,
     "rank": 56522,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f6083c1f034d76fc51f887d40d6ef44a05f92de",
+    "trader_name": "Tanrot",
+    "tag": "Overall",
+    "overall_gain": 1197.5241036430878,
+    "active_positions": 1,
+    "win_amount": 1751.252659643088,
+    "loss_amount": -553.728556,
+    "win_rate": 0.375,
+    "total_current_value": 0.004284,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 6,
+    "rank": 56523,
+    "trader_tags": "> 1 year old"
   }
 ]
