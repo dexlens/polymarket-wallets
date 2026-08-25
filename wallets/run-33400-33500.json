@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 33455,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6de83fa5a3904a76641918922074a3c540bef246",
+    "trader_name": "uuw",
+    "tag": "Overall",
+    "overall_gain": 2468.95433,
+    "active_positions": 0,
+    "win_amount": 2478.0125,
+    "loss_amount": -9.05817,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 33456,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
