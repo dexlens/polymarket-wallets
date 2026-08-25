@@ -9,3 +9,9 @@ do
   end=$((i+100))
   deno run --allow-all main.ts data-0-300_000/data-0-300_000.json $start $end
 done
+
+# after done, push to github
+git add index.json
+git add README.md
+git commit -m "update index.json and README.md"
+git push
