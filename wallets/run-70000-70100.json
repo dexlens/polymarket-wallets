@@ -254,5 +254,21 @@
     "win_count": 3,
     "rank": 70017,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6485dcd0c9eabf8b6abe496c6ba357e85f57bcc2",
+    "trader_name": "kovinisdantis",
+    "tag": "Overall",
+    "overall_gain": 810.2481268372769,
+    "active_positions": 2,
+    "win_amount": 810.3581248372768,
+    "loss_amount": -0.109998,
+    "win_rate": 0.8095238095238095,
+    "total_current_value": 3.3244770000000003,
+    "total_positions": 49,
+    "event_ct": 42,
+    "win_count": 34,
+    "rank": 70018,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
