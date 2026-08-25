@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 4222,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x712fb78dbc400b8da1979c93e555eeae00e565cf",
+    "trader_name": "strideralt",
+    "tag": "Overall",
+    "overall_gain": 26458.014310859005,
+    "active_positions": 23,
+    "win_amount": 29826.641784624957,
+    "loss_amount": -3368.627473765948,
+    "win_rate": 0.5185185185185185,
+    "total_current_value": 4952.569683185,
+    "total_positions": 69,
+    "event_ct": 27,
+    "win_count": 14,
+    "rank": 4223,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
