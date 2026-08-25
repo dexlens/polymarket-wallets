@@ -542,5 +542,21 @@
     "win_count": 91,
     "rank": 13634,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x76fe3932e1c89541a09f7ebd3b517a29dbdc3e5f",
+    "trader_name": "IAmBread",
+    "tag": "Overall",
+    "overall_gain": 7271.439415175378,
+    "active_positions": 27,
+    "win_amount": 32754.508804977104,
+    "loss_amount": -25483.069389801734,
+    "win_rate": 0.7532467532467533,
+    "total_current_value": 8.47697,
+    "total_positions": 82,
+    "event_ct": 77,
+    "win_count": 58,
+    "rank": 13635,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
