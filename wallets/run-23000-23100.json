@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 23047,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc829e4bb10868dc8fc3520505b433c372bd1cad3",
+    "trader_name": "Inari",
+    "tag": "Overall",
+    "overall_gain": 3909.8075624578205,
+    "active_positions": 9,
+    "win_amount": 14772.964433424857,
+    "loss_amount": -10863.15687096704,
+    "win_rate": 0.34686346863468637,
+    "total_current_value": 51.150783557000004,
+    "total_positions": 334,
+    "event_ct": 271,
+    "win_count": 94,
+    "rank": 23048,
+    "trader_tags": ""
   }
 ]
