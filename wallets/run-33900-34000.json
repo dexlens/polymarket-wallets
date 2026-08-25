@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 33986,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe2c4a912f39cd786536f0f365e6db8b14964425a",
+    "trader_name": "HelloGambler",
+    "tag": "Overall",
+    "overall_gain": 2425.683768556031,
+    "active_positions": 29,
+    "win_amount": 8688.130413617495,
+    "loss_amount": -6262.446645061463,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 47.101614999999995,
+    "total_positions": 240,
+    "event_ct": 221,
+    "win_count": 153,
+    "rank": 33987,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
