@@ -1326,5 +1326,21 @@
     "win_count": 154,
     "rank": 16383,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08c95f70b0565ee01fbb30705b61aa641616a2ef",
+    "trader_name": "ourdemocracy",
+    "tag": "Overall",
+    "overall_gain": 5827.515800431506,
+    "active_positions": 24,
+    "win_amount": 8967.564950577678,
+    "loss_amount": -3140.0491501461734,
+    "win_rate": 0.84,
+    "total_current_value": 17245.4698323535,
+    "total_positions": 314,
+    "event_ct": 175,
+    "win_count": 147,
+    "rank": 16384,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
