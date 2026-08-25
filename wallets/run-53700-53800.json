@@ -734,5 +734,21 @@
     "win_count": 20,
     "rank": 53747,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42540d1d6e90e007cc273b97e8c03d09abae892b",
+    "trader_name": "NaturalBornWinner",
+    "tag": "Overall",
+    "overall_gain": 1313.6810598730765,
+    "active_positions": 9,
+    "win_amount": 3420.363652332995,
+    "loss_amount": -2106.682592459919,
+    "win_rate": 0.6185567010309279,
+    "total_current_value": 26.339187,
+    "total_positions": 103,
+    "event_ct": 97,
+    "win_count": 60,
+    "rank": 53748,
+    "trader_tags": ""
   }
 ]
