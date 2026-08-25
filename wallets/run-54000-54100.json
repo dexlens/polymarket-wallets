@@ -1134,5 +1134,21 @@
     "win_count": 2,
     "rank": 54072,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53533afa24f4e4ac826c769042cc29bd25c32e3a",
+    "trader_name": "Hazenet",
+    "tag": "Overall",
+    "overall_gain": 1299.950288,
+    "active_positions": 2,
+    "win_amount": 1619.450288,
+    "loss_amount": -319.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 54073,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
