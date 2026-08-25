@@ -1390,5 +1390,21 @@
     "win_count": 6,
     "rank": 45388,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x626666eb53a10a3153ea92337a90ffcd01fc623a",
+    "trader_name": "Natsume",
+    "tag": "Overall",
+    "overall_gain": 1695.107648628984,
+    "active_positions": 0,
+    "win_amount": 8392.448661,
+    "loss_amount": -6697.3410123710155,
+    "win_rate": 0.8,
+    "total_current_value": 0.013551,
+    "total_positions": 14,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 45389,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
