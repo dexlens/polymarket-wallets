@@ -366,5 +366,21 @@
     "win_count": 52,
     "rank": 6123,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x09f84a6c2283cdf1310a5887883894674465d8c6",
+    "trader_name": "circusenles",
+    "tag": "Overall",
+    "overall_gain": 17499.5,
+    "active_positions": 10,
+    "win_amount": 36761,
+    "loss_amount": -19261.5,
+    "win_rate": 0.6296296296296297,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 17,
+    "rank": 6124,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
