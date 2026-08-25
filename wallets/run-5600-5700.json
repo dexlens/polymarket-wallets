@@ -1566,5 +1566,21 @@
     "win_count": 5,
     "rank": 5698,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe155bd5f660e0d2b9af6be74aa0d36dbeb480b5",
+    "trader_name": "TurboSpotTRex",
+    "tag": "Overall",
+    "overall_gain": 18929.289035749895,
+    "active_positions": 9,
+    "win_amount": 22308.440077867366,
+    "loss_amount": -3379.1510421174653,
+    "win_rate": 0.9638783269961977,
+    "total_current_value": 5985.874914,
+    "total_positions": 898,
+    "event_ct": 526,
+    "win_count": 507,
+    "rank": 5699,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
