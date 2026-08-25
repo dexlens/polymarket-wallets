@@ -1438,5 +1438,21 @@
     "win_count": 42,
     "rank": 34891,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1491ef69d0c381a91413b5f18f6078bcb550223b",
+    "trader_name": "TheChosenOnei",
+    "tag": "Overall",
+    "overall_gain": 2350.102123477558,
+    "active_positions": 22,
+    "win_amount": 13950.102123477558,
+    "loss_amount": -11600,
+    "win_rate": 0.6451612903225806,
+    "total_current_value": 11.101808000000002,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 20,
+    "rank": 34892,
+    "trader_tags": ""
   }
 ]
