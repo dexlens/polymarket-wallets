@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 13543,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x19a877b33f8c5daa235802f5f88bc6cc12158c31",
+    "trader_name": "Leeks",
+    "tag": "Overall",
+    "overall_gain": 7334.7536788726065,
+    "active_positions": 3,
+    "win_amount": 64386.96181055,
+    "loss_amount": -57052.2081316774,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.015713,
+    "total_positions": 41,
+    "event_ct": 24,
+    "win_count": 16,
+    "rank": 13544,
+    "trader_tags": ""
   }
 ]
