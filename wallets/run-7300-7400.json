@@ -1422,5 +1422,21 @@
     "win_count": 7,
     "rank": 7389,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x54a1a8d11d771b2fc770494b01ee52230c4fe8bb",
+    "trader_name": "Itheran",
+    "tag": "Overall",
+    "overall_gain": 14401.48857889132,
+    "active_positions": 1,
+    "win_amount": 14953.746571891323,
+    "loss_amount": -552.257993,
+    "win_rate": 0.9375,
+    "total_current_value": 0.00032300000000000004,
+    "total_positions": 55,
+    "event_ct": 48,
+    "win_count": 45,
+    "rank": 7390,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
