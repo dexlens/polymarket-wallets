@@ -734,5 +734,21 @@
     "win_count": 4,
     "rank": 31447,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x346d697cfa1aac989039760996b5af30b866aa71",
+    "trader_name": "okno-windows",
+    "tag": "Overall",
+    "overall_gain": 2655.9199999999996,
+    "active_positions": 0,
+    "win_amount": 4239.96,
+    "loss_amount": -1584.04,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 31448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
