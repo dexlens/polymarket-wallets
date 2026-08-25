@@ -846,5 +846,21 @@
     "win_count": 10,
     "rank": 4153,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xc43ee69fb0e163d8646455c7d671ef48b7fbe76d",
+    "trader_name": "Gdragony",
+    "tag": "Overall",
+    "overall_gain": 26854.115864,
+    "active_positions": 0,
+    "win_amount": 26854.115864,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 4154,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
