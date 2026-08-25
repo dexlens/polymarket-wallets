@@ -462,5 +462,21 @@
     "win_count": 3,
     "rank": 9329,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xefa89c6a4fee427f40b2ad7aebfea0c76c5bc82b",
+    "trader_name": "claystar",
+    "tag": "Overall",
+    "overall_gain": 11231.843766664271,
+    "active_positions": 6,
+    "win_amount": 31327.229400406453,
+    "loss_amount": -20095.38563374218,
+    "win_rate": 0.4576271186440678,
+    "total_current_value": 4644.133939768001,
+    "total_positions": 214,
+    "event_ct": 118,
+    "win_count": 54,
+    "rank": 9330,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
