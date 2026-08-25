@@ -910,5 +910,21 @@
     "win_count": 1,
     "rank": 67458,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x47674a529b47236b0a30ca5dfc446b834e086daf",
+    "trader_name": "mercurys",
+    "tag": "Overall",
+    "overall_gain": 875.991458638661,
+    "active_positions": 1,
+    "win_amount": 900.559376753009,
+    "loss_amount": -24.567918114348,
+    "win_rate": 0.75,
+    "total_current_value": 2079.956737,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 67459,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
