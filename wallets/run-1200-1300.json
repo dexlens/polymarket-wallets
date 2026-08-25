@@ -1022,5 +1022,21 @@
     "win_count": 9346,
     "rank": 1264,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x1584cb3b5a84944bd0db072c43d67189397071b6",
+    "trader_name": "flow-trader-at-optiver",
+    "tag": "Overall",
+    "overall_gain": 96064.43800348828,
+    "active_positions": 10274,
+    "win_amount": 141466.81826554766,
+    "loss_amount": -45402.380262059334,
+    "win_rate": 0.6454989532449407,
+    "total_current_value": 94619.82471405399,
+    "total_positions": 16893,
+    "event_ct": 1433,
+    "win_count": 925,
+    "rank": 1265,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
