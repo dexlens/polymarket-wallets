@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 19230,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd0ac09ae7b7caef7924f3f71c6f5d053e4b116d3",
+    "trader_name": "54TJT",
+    "tag": "Overall",
+    "overall_gain": 4832.471,
+    "active_positions": 7,
+    "win_amount": 9230.561,
+    "loss_amount": -4398.090000000001,
+    "win_rate": 0.5909090909090909,
+    "total_current_value": 64,
+    "total_positions": 23,
+    "event_ct": 22,
+    "win_count": 13,
+    "rank": 19231,
+    "trader_tags": "> 1 year old"
   }
 ]
