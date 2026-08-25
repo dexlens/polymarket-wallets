@@ -638,5 +638,21 @@
     "win_count": 3,
     "rank": 10040,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13987516de039e19120fa448a968c0401c1b2832",
+    "trader_name": "sledrider",
+    "tag": "Overall",
+    "overall_gain": 10447.240000000002,
+    "active_positions": 0,
+    "win_amount": 10447.240000000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 10041,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
