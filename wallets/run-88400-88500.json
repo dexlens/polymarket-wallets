@@ -1582,5 +1582,21 @@
     "win_count": 9,
     "rank": 88500,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x787579e1236592609a62abc9db5c5a45dfbb4ed7",
+    "trader_name": "gatekeeper1",
+    "tag": "Overall",
+    "overall_gain": 507.386629,
+    "active_positions": 0,
+    "win_amount": 507.386629,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 88501,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
