@@ -734,5 +734,21 @@
     "win_count": 12,
     "rank": 7346,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8f13db915cca106e6330e8a39996c0a875d8daae",
+    "trader_name": "rocky42019",
+    "tag": "Overall",
+    "overall_gain": 14487.961891235402,
+    "active_positions": 267,
+    "win_amount": 143432.79012116115,
+    "loss_amount": -128944.82822992573,
+    "win_rate": 0.4236842105263158,
+    "total_current_value": 12769.388788338001,
+    "total_positions": 5210,
+    "event_ct": 1520,
+    "win_count": 644,
+    "rank": 7347,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
