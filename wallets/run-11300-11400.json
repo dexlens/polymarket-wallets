@@ -174,5 +174,21 @@
     "win_count": 6,
     "rank": 11311,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x244afcd66623528705f44f7a58998db2b05d623a",
+    "trader_name": "kunggmc",
+    "tag": "Overall",
+    "overall_gain": 9251.091139779403,
+    "active_positions": 10,
+    "win_amount": 11047.03734109865,
+    "loss_amount": -1795.9462013192472,
+    "win_rate": 0.5128205128205128,
+    "total_current_value": 0.025426999999999998,
+    "total_positions": 43,
+    "event_ct": 39,
+    "win_count": 20,
+    "rank": 11312,
+    "trader_tags": "> 1 year old"
   }
 ]
