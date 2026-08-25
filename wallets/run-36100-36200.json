@@ -350,5 +350,21 @@
     "win_count": 8,
     "rank": 36123,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c81a50a4673dcbdddc8ad82159e9c147066ddcb",
+    "trader_name": "Tabix",
+    "tag": "Overall",
+    "overall_gain": 2252.7549830268,
+    "active_positions": 0,
+    "win_amount": 4750.633817026799,
+    "loss_amount": -2497.878834,
+    "win_rate": 0.9,
+    "total_current_value": 0.031576,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 36124,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
