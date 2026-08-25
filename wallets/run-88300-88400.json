@@ -1182,5 +1182,21 @@
     "win_count": 36,
     "rank": 88375,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x62e128f31c3e5a64a1829a272066edc54fd14e25",
+    "trader_name": "gameonnow",
+    "tag": "Overall",
+    "overall_gain": 508.65093761214086,
+    "active_positions": 32,
+    "win_amount": 982.0537531058411,
+    "loss_amount": -473.40281549369996,
+    "win_rate": 0.9178082191780822,
+    "total_current_value": 3006.3265810000003,
+    "total_positions": 416,
+    "event_ct": 146,
+    "win_count": 134,
+    "rank": 88376,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
