@@ -126,5 +126,21 @@
     "win_count": 25,
     "rank": 3408,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x253bca5b0c6d71eaf4d80ba172bd76fc0ca80ae7",
+    "trader_name": "Broc21",
+    "tag": "Overall",
+    "overall_gain": 33443.495344816394,
+    "active_positions": 2,
+    "win_amount": 44793.659216479966,
+    "loss_amount": -11350.163871663572,
+    "win_rate": 0.3448275862068966,
+    "total_current_value": 0.5185350000000001,
+    "total_positions": 84,
+    "event_ct": 29,
+    "win_count": 10,
+    "rank": 3409,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
