@@ -526,5 +526,21 @@
     "win_count": 5,
     "rank": 37334,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1c766abbc620a7005b97f5a4ac793a37299cd2f5",
+    "trader_name": "bjkbvg",
+    "tag": "Overall",
+    "overall_gain": 2164.9723089579243,
+    "active_positions": 1,
+    "win_amount": 3442.437150612086,
+    "loss_amount": -1277.4648416541622,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 0.07445371249999999,
+    "total_positions": 48,
+    "event_ct": 36,
+    "win_count": 33,
+    "rank": 37335,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
