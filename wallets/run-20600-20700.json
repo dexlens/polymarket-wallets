@@ -574,5 +574,21 @@
     "win_count": 5,
     "rank": 20636,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a4ca29cd4d64ff83942ad6123f8c8bb9ea19b1a",
+    "trader_name": "berws",
+    "tag": "Overall",
+    "overall_gain": 4460.37529,
+    "active_positions": 2,
+    "win_amount": 7741.270236,
+    "loss_amount": -3280.8949459999994,
+    "win_rate": 0.35,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 20,
+    "win_count": 7,
+    "rank": 20637,
+    "trader_tags": ""
   }
 ]
