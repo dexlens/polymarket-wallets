@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 79215,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0785f6835a9d10ee39e2604af43df2b7f0ab22f3",
+    "trader_name": "curious.ninja1",
+    "tag": "Overall",
+    "overall_gain": 643.7266490495483,
+    "active_positions": 7,
+    "win_amount": 6592.9821041463665,
+    "loss_amount": -5949.255455096818,
+    "win_rate": 0.4,
+    "total_current_value": 7283.656407875,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 79216,
+    "trader_tags": "> 1 year old"
   }
 ]
