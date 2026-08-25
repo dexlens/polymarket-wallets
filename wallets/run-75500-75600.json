@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 75595,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ddde895710077825ce214879d725a2b57a814c6",
+    "trader_name": "BiggestRetar-d",
+    "tag": "Overall",
+    "overall_gain": 705.8107157199623,
+    "active_positions": 2,
+    "win_amount": 15332.193158941185,
+    "loss_amount": -14626.382443221226,
+    "win_rate": 0.4312297734627832,
+    "total_current_value": 1.7731029999999999,
+    "total_positions": 2651,
+    "event_ct": 2472,
+    "win_count": 1066,
+    "rank": 75596,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
