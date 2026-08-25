@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 10383,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b8d0a3bd365c7532412d7f6faa25dfbd9c85092",
+    "trader_name": "koitsu",
+    "tag": "Overall",
+    "overall_gain": 10121.099726349128,
+    "active_positions": 2,
+    "win_amount": 14281.792740840963,
+    "loss_amount": -4160.693014491834,
+    "win_rate": 0.625,
+    "total_current_value": 104.67360548999999,
+    "total_positions": 18,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 10384,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
