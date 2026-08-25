@@ -1454,5 +1454,21 @@
     "win_count": 17,
     "rank": 33592,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6022ffa351e836c8db430844dde9f086d9e6c202",
+    "trader_name": "OverUnder",
+    "tag": "Overall",
+    "overall_gain": 2458.850627803332,
+    "active_positions": 0,
+    "win_amount": 2458.850627803332,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003332,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 33593,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
