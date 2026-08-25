@@ -1214,5 +1214,21 @@
     "win_count": 24,
     "rank": 5676,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27aa1f15d1687ab1189a659e0f8b5b9b96a3b07e",
+    "trader_name": "RykerKamp",
+    "tag": "Overall",
+    "overall_gain": 19016.80936574637,
+    "active_positions": 1,
+    "win_amount": 95392.69087282574,
+    "loss_amount": -76375.88150707934,
+    "win_rate": 0.34375,
+    "total_current_value": 0.021159999999999998,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 11,
+    "rank": 5677,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
