@@ -862,5 +862,21 @@
     "win_count": 76,
     "rank": 13454,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8380ce7c7146f3891648d6e293aa7bbb63069455",
+    "trader_name": "Demokryt",
+    "tag": "Overall",
+    "overall_gain": 7393.609405027512,
+    "active_positions": 0,
+    "win_amount": 7393.609405027512,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.01703,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 13455,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
