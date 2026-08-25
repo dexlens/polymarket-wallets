@@ -1502,5 +1502,21 @@
     "win_count": 25,
     "rank": 20794,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2cde9f0f2995bc83b6feecd730e8ef1e593712fa",
+    "trader_name": "SqPeg",
+    "tag": "Overall",
+    "overall_gain": 4416.504838028236,
+    "active_positions": 2,
+    "win_amount": 7833.292840234273,
+    "loss_amount": -3416.788002206038,
+    "win_rate": 0.6071428571428571,
+    "total_current_value": 10.051302999999999,
+    "total_positions": 42,
+    "event_ct": 28,
+    "win_count": 17,
+    "rank": 20795,
+    "trader_tags": ""
   }
 ]
