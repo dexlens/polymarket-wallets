@@ -1166,5 +1166,21 @@
     "win_count": 2,
     "rank": 54074,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0163e438b5ea27a45f52db10b521df8953349aa0",
+    "trader_name": "jomag",
+    "tag": "Overall",
+    "overall_gain": 1299.9086932349273,
+    "active_positions": 12,
+    "win_amount": 5456.117729752989,
+    "loss_amount": -4156.209036518063,
+    "win_rate": 0.5537757437070938,
+    "total_current_value": 468.0076586199999,
+    "total_positions": 485,
+    "event_ct": 437,
+    "win_count": 242,
+    "rank": 54075,
+    "trader_tags": "> 1 year old"
   }
 ]
