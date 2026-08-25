@@ -382,5 +382,21 @@
     "win_count": 4,
     "rank": 10824,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x781fb7733b4ddb7375c26003f0ddeb475ce46763",
+    "trader_name": "Zayac",
+    "tag": "Overall",
+    "overall_gain": 9776.133434579246,
+    "active_positions": 6,
+    "win_amount": 14233.077923561314,
+    "loss_amount": -4456.944488982072,
+    "win_rate": 0.4380165289256198,
+    "total_current_value": 0.044562,
+    "total_positions": 193,
+    "event_ct": 121,
+    "win_count": 53,
+    "rank": 10825,
+    "trader_tags": "> 1 year old"
   }
 ]
