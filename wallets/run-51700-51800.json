@@ -350,5 +350,21 @@
     "win_count": 5,
     "rank": 51723,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17c928fadb6b41f8f9ffe7c4fad67cde487b7ab4",
+    "trader_name": "DegenLlama",
+    "tag": "Overall",
+    "overall_gain": 1404.4404972492812,
+    "active_positions": 2,
+    "win_amount": 1404.4404972492812,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.013465,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 51724,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
