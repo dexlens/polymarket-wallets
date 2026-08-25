@@ -206,5 +206,21 @@
     "win_count": 15,
     "rank": 10013,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xc3e45193d37ec34b82129adfc46abff7bb415bf6",
+    "trader_name": "worldclassdegen",
+    "tag": "Overall",
+    "overall_gain": 10470.71860252149,
+    "active_positions": 27,
+    "win_amount": 114615.98053102309,
+    "loss_amount": -104145.2619285016,
+    "win_rate": 0.6323529411764706,
+    "total_current_value": 28191.909624744003,
+    "total_positions": 354,
+    "event_ct": 272,
+    "win_count": 172,
+    "rank": 10014,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
