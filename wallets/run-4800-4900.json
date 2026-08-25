@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 4854,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xef02161edfb4056bd5fa18a5e91a3a8d97775ebd",
+    "trader_name": "btcbuddah",
+    "tag": "Overall",
+    "overall_gain": 22403.584413327822,
+    "active_positions": 17,
+    "win_amount": 51532.34300765039,
+    "loss_amount": -29128.758594322564,
+    "win_rate": 0.48,
+    "total_current_value": 62727.7936789205,
+    "total_positions": 33,
+    "event_ct": 25,
+    "win_count": 12,
+    "rank": 4855,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
