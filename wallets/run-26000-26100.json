@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 26022,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x27621b5b6f3f94233d9b433e19687174e5f57b23",
+    "trader_name": "ynq3td",
+    "tag": "Overall",
+    "overall_gain": 3367.84,
+    "active_positions": 1,
+    "win_amount": 3372.34,
+    "loss_amount": -4.5,
+    "win_rate": 0.8,
+    "total_current_value": 25.5,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 26023,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
