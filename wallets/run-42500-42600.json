@@ -494,5 +494,21 @@
     "win_count": 5,
     "rank": 42532,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe740dfdf5ff0728b43f4e3d02835e55dd12f5bba",
+    "trader_name": "Lulumo",
+    "tag": "Overall",
+    "overall_gain": 1846.48819625704,
+    "active_positions": 1,
+    "win_amount": 1847.0124345187842,
+    "loss_amount": -0.5242382617439993,
+    "win_rate": 0.8,
+    "total_current_value": 9.555751703,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 42533,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
