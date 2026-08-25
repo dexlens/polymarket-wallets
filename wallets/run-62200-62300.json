@@ -382,5 +382,21 @@
     "win_count": 3,
     "rank": 62225,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c8cd4b0ffc1cd08466f41f751c742d17d5b9a8a",
+    "trader_name": "4GV85",
+    "tag": "Overall",
+    "overall_gain": 1016.0201849938819,
+    "active_positions": 1,
+    "win_amount": 1016.0201849938819,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.155882,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 26,
+    "rank": 62226,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
