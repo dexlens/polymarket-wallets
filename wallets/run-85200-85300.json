@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 85297,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x896cad380f1b5fa73c1dbd2146d58b17c34a3639",
+    "trader_name": "JDH11",
+    "tag": "Overall",
+    "overall_gain": 547.898258228887,
+    "active_positions": 1,
+    "win_amount": 572.898119,
+    "loss_amount": -24.999860771113,
+    "win_rate": 0.875,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 85298,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
