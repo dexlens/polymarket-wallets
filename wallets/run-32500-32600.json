@@ -430,5 +430,21 @@
     "win_count": 11,
     "rank": 32528,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x570682bc1bec706be358cf50db31855e620444ac",
+    "trader_name": "Cryptowzrd",
+    "tag": "Overall",
+    "overall_gain": 2548.848296136345,
+    "active_positions": 1,
+    "win_amount": 4823.772464000342,
+    "loss_amount": -2274.924167863999,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.708613,
+    "total_positions": 280,
+    "event_ct": 253,
+    "win_count": 92,
+    "rank": 32529,
+    "trader_tags": "> 1 year old"
   }
 ]
