@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 50992,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4976e50c8ee909bde5dfed8d3a9f83cdf8fed25c",
+    "trader_name": "Alpha-Seeker",
+    "tag": "Overall",
+    "overall_gain": 1439.9703685106106,
+    "active_positions": 5,
+    "win_amount": 24462.447515897948,
+    "loss_amount": -23022.477147387333,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 1905.2614963600001,
+    "total_positions": 14,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 50993,
+    "trader_tags": ""
   }
 ]
