@@ -1390,5 +1390,21 @@
     "win_count": 5,
     "rank": 31688,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33677e32ddb0da5f26becc7e3b72ee7a0120906e",
+    "trader_name": "eshago",
+    "tag": "Overall",
+    "overall_gain": 2631.9656645834784,
+    "active_positions": 1,
+    "win_amount": 2780.1656645834782,
+    "loss_amount": -148.2,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 31689,
+    "trader_tags": ""
   }
 ]
