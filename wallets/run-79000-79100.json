@@ -1278,5 +1278,21 @@
     "win_count": 1,
     "rank": 79081,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x298a2a048aa3da4bc3fc6bfd9d56fe7b2b30e635",
+    "trader_name": "streamsfdg",
+    "tag": "Overall",
+    "overall_gain": 645.812913,
+    "active_positions": 8,
+    "win_amount": 653.0784469999999,
+    "loss_amount": -7.265534,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 41,
+    "total_positions": 35,
+    "event_ct": 24,
+    "win_count": 20,
+    "rank": 79082,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
