@@ -366,5 +366,21 @@
     "win_count": 2,
     "rank": 54424,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x41cbd4eab406767a1034a93a600f51a4e592b72f",
+    "trader_name": "luckynumber",
+    "tag": "Overall",
+    "overall_gain": 1284.6231829600188,
+    "active_positions": 1,
+    "win_amount": 1292.8594529600189,
+    "loss_amount": -8.23627,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 264.59347099999997,
+    "total_positions": 23,
+    "event_ct": 15,
+    "win_count": 14,
+    "rank": 54425,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
