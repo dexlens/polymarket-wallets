@@ -1374,5 +1374,21 @@
     "win_count": 17,
     "rank": 66787,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x31e9693d784a868ec23ab17165cce7ca379cba43",
+    "trader_name": "teucgn",
+    "tag": "Overall",
+    "overall_gain": 894.8702541750049,
+    "active_positions": 2,
+    "win_amount": 1155.6610741750048,
+    "loss_amount": -260.79082000000005,
+    "win_rate": 0.9354838709677419,
+    "total_current_value": 139.64000499999997,
+    "total_positions": 33,
+    "event_ct": 31,
+    "win_count": 29,
+    "rank": 66788,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
