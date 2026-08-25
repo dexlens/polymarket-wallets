@@ -1006,5 +1006,21 @@
     "win_count": 19,
     "rank": 41564,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03f3d2d64d76b872b3e543f141cd67af1b107ff9",
+    "trader_name": "Fique",
+    "tag": "Overall",
+    "overall_gain": 1901.3200000000002,
+    "active_positions": 0,
+    "win_amount": 1901.3200000000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 41565,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
