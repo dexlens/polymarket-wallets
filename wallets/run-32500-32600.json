@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 32556,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f091cadefbd1a991e90b87fac95d96f1b010105",
+    "trader_name": "Starlyght",
+    "tag": "Overall",
+    "overall_gain": 2545.5,
+    "active_positions": 3,
+    "win_amount": 3207,
+    "loss_amount": -661.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 32557,
+    "trader_tags": ""
   }
 ]
