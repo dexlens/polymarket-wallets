@@ -1342,5 +1342,21 @@
     "win_count": 42,
     "rank": 82985,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe117212da49d2c1e3530f8fcf3b40b5b08d6139b",
+    "trader_name": "realVio",
+    "tag": "Overall",
+    "overall_gain": 582.35382275294,
+    "active_positions": 1,
+    "win_amount": 582.35382275294,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 882.35294,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 82986,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
