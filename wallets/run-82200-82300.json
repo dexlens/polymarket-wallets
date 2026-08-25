@@ -702,5 +702,21 @@
     "win_count": 5,
     "rank": 82245,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6a690b1e9e3f99f02511180c8491880c4357623b",
+    "trader_name": "lokosmo",
+    "tag": "Overall",
+    "overall_gain": 594.5704390554049,
+    "active_positions": 5,
+    "win_amount": 1266.0421119999999,
+    "loss_amount": -671.4716729445951,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 15,
+    "rank": 82246,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
