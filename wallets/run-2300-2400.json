@@ -1118,5 +1118,21 @@
     "win_count": 4,
     "rank": 2370,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x908aad3bfbd70410e73f1db6a3e46c2a917cad16",
+    "trader_name": "eurus",
+    "tag": "Overall",
+    "overall_gain": 49832.990648753395,
+    "active_positions": 6561,
+    "win_amount": 914336.66071346,
+    "loss_amount": -864503.6700647068,
+    "win_rate": 0.580524106347793,
+    "total_current_value": 5732.634410999999,
+    "total_positions": 33005,
+    "event_ct": 15722,
+    "win_count": 9127,
+    "rank": 2371,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
