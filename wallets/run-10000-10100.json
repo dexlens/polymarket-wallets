@@ -1230,5 +1230,21 @@
     "win_count": 28,
     "rank": 10077,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xff892b08b13e27d64c3bbdb13a5d3b85c97d3177",
+    "trader_name": "realA",
+    "tag": "Overall",
+    "overall_gain": 10413.896016126922,
+    "active_positions": 17,
+    "win_amount": 10439.607589036801,
+    "loss_amount": -25.711572909879,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 42.348188,
+    "total_positions": 20,
+    "event_ct": 12,
+    "win_count": 5,
+    "rank": 10078,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
