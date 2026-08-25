@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 63019,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcd387bddb860d5d931c0d033a2b3103e2221cab7",
+    "trader_name": "hotlneblng",
+    "tag": "Overall",
+    "overall_gain": 998.9765091624671,
+    "active_positions": 6,
+    "win_amount": 1575.5207369739749,
+    "loss_amount": -576.544227811508,
+    "win_rate": 0.38461538461538464,
+    "total_current_value": 1722.221259,
+    "total_positions": 25,
+    "event_ct": 13,
+    "win_count": 5,
+    "rank": 63020,
+    "trader_tags": "> 1 year old"
   }
 ]
