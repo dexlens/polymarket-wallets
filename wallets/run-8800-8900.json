@@ -1470,5 +1470,21 @@
     "win_count": 15,
     "rank": 8892,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe58f1c1c7ee8efd3306ae5a4bcf482f807f175a4",
+    "trader_name": "Plainview",
+    "tag": "Overall",
+    "overall_gain": 11781.86645852894,
+    "active_positions": 2,
+    "win_amount": 20198.791960095317,
+    "loss_amount": -8416.925501566377,
+    "win_rate": 0.7241379310344828,
+    "total_current_value": 3195.7384850000003,
+    "total_positions": 36,
+    "event_ct": 29,
+    "win_count": 21,
+    "rank": 8893,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
