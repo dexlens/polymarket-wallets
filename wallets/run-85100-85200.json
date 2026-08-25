@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 85155,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b1469cbdb2c9d8060bec28fd7745e6963075ee6",
+    "trader_name": "Hyper23",
+    "tag": "Overall",
+    "overall_gain": 550.0110665550278,
+    "active_positions": 0,
+    "win_amount": 620.3814660359418,
+    "loss_amount": -70.370399480914,
+    "win_rate": 0.8148148148148148,
+    "total_current_value": 0.06402200000000001,
+    "total_positions": 49,
+    "event_ct": 27,
+    "win_count": 22,
+    "rank": 85156,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
