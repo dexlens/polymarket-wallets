@@ -1086,5 +1086,21 @@
     "win_count": 19,
     "rank": 36269,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x541bbb3f88538ee2a55b3aad634956924a47088f",
+    "trader_name": "gazp",
+    "tag": "Overall",
+    "overall_gain": 2242.062834949999,
+    "active_positions": 2,
+    "win_amount": 5919.862202949998,
+    "loss_amount": -3677.799368,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 8.876449,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 36270,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
