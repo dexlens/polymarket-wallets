@@ -430,5 +430,21 @@
     "win_count": 7,
     "rank": 5227,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeb8c39575f34a415961e99b897bdeb918bcb0943",
+    "trader_name": "wanxuan",
+    "tag": "Overall",
+    "overall_gain": 20740.714557000003,
+    "active_positions": 0,
+    "win_amount": 85755.37296,
+    "loss_amount": -65014.658403,
+    "win_rate": 0.4782608695652174,
+    "total_current_value": 0,
+    "total_positions": 48,
+    "event_ct": 46,
+    "win_count": 22,
+    "rank": 5228,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
