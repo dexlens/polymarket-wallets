@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 33649,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xec7e192ebc130284e3941329bb7b831b1184a915",
+    "trader_name": "harry-donohoe",
+    "tag": "Overall",
+    "overall_gain": 2453.020257676652,
+    "active_positions": 3,
+    "win_amount": 2455.748384529636,
+    "loss_amount": -2.728126852984,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 1.1389806045000004,
+    "total_positions": 49,
+    "event_ct": 15,
+    "win_count": 13,
+    "rank": 33650,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
