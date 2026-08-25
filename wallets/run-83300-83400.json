@@ -1470,5 +1470,21 @@
     "win_count": 3,
     "rank": 83393,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8badf539b39ee888ab80a4bed7001630fbdfe980",
+    "trader_name": "Andor53",
+    "tag": "Overall",
+    "overall_gain": 575.9625106902909,
+    "active_positions": 3,
+    "win_amount": 735.6493285870629,
+    "loss_amount": -159.68681789677203,
+    "win_rate": 0.49019607843137253,
+    "total_current_value": 0.016155000000000003,
+    "total_positions": 53,
+    "event_ct": 51,
+    "win_count": 25,
+    "rank": 83394,
+    "trader_tags": "> 1 year old"
   }
 ]
