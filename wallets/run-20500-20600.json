@@ -366,5 +366,21 @@
     "win_count": 8,
     "rank": 20523,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x50b9ca5f61e08045a98d86f1761522f154efc1da",
+    "trader_name": "sadgr",
+    "tag": "Overall",
+    "overall_gain": 4488.4748,
+    "active_positions": 7,
+    "win_amount": 4744.9748,
+    "loss_amount": -256.5,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 17.9,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 20524,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
