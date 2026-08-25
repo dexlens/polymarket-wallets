@@ -1326,5 +1326,21 @@
     "win_count": 85,
     "rank": 2383,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7b75e76b13a8d792bd4ce25d76a50be61ced3fd1",
+    "trader_name": "Xeny",
+    "tag": "Overall",
+    "overall_gain": 49554.00818479452,
+    "active_positions": 84,
+    "win_amount": 80323.8761996875,
+    "loss_amount": -30769.868014892996,
+    "win_rate": 0.6388349514563106,
+    "total_current_value": 38610.9832834,
+    "total_positions": 1409,
+    "event_ct": 515,
+    "win_count": 329,
+    "rank": 2384,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
