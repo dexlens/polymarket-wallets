@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 48234,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3a47a09dbad999a12bf05d3c8c9acb4e28512963",
+    "trader_name": "grasnt36",
+    "tag": "Overall",
+    "overall_gain": 1561.724,
+    "active_positions": 2,
+    "win_amount": 1563.524,
+    "loss_amount": -1.8000000000000007,
+    "win_rate": 0.75,
+    "total_current_value": 10.2,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 48235,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
