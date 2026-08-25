@@ -926,5 +926,21 @@
     "win_count": 15,
     "rank": 52959,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f65bed0b883ef78042e747ea90f40af6d469f65",
+    "trader_name": "hello-teemo",
+    "tag": "Overall",
+    "overall_gain": 1349.95986763834,
+    "active_positions": 19,
+    "win_amount": 1439.2111652577348,
+    "loss_amount": -89.251297619395,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.061387,
+    "total_positions": 79,
+    "event_ct": 66,
+    "win_count": 44,
+    "rank": 52960,
+    "trader_tags": ""
   }
 ]
