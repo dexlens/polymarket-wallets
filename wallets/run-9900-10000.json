@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 9949,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe9f89d7c58e74aeeb5cf2c7a1e50e89cfb74b3b8",
+    "trader_name": "Korel",
+    "tag": "Overall",
+    "overall_gain": 10537.491238465915,
+    "active_positions": 2,
+    "win_amount": 10537.491238465915,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 228.23143701,
+    "total_positions": 38,
+    "event_ct": 22,
+    "win_count": 22,
+    "rank": 9950,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
