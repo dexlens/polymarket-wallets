@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 88885,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa9327d4b50ad5c8f561d2958ed4a61d2445e3081",
+    "trader_name": "griel",
+    "tag": "Overall",
+    "overall_gain": 503.02155787298,
+    "active_positions": 1,
+    "win_amount": 503.02155787298,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.020014,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 88886,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
