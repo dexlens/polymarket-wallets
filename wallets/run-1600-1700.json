@@ -1230,5 +1230,21 @@
     "win_count": 4,
     "rank": 1677,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70a7b89e9171a6ea07ee680024d68f1a62e4b737",
+    "trader_name": "keytruda",
+    "tag": "Overall",
+    "overall_gain": 73272.65841633047,
+    "active_positions": 0,
+    "win_amount": 77448.58898011218,
+    "loss_amount": -4175.930563781707,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 0.062029,
+    "total_positions": 23,
+    "event_ct": 13,
+    "win_count": 6,
+    "rank": 1678,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
