@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 23081,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x58e74bcc0ccb023f67967b0ced49dc2972d452c5",
+    "trader_name": "Zfest",
+    "tag": "Overall",
+    "overall_gain": 3902,
+    "active_positions": 1,
+    "win_amount": 4223,
+    "loss_amount": -321,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 23082,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
