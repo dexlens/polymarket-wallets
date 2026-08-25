@@ -382,5 +382,21 @@
     "win_count": 36,
     "rank": 17224,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8e408effbd2cb0b915a07b91c4247afcc1a44d37",
+    "trader_name": "rayjwtui",
+    "tag": "Overall",
+    "overall_gain": 5462.910000000001,
+    "active_positions": 1,
+    "win_amount": 6744,
+    "loss_amount": -1281.09,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 17225,
+    "trader_tags": "> 1 year old"
   }
 ]
