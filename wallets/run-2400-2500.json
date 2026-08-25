@@ -926,5 +926,21 @@
     "win_count": 191,
     "rank": 2458,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73ed13e31875581dcb0fd90070cf583e873f7c0d",
+    "trader_name": "groovytunes",
+    "tag": "Overall",
+    "overall_gain": 47828.68233674116,
+    "active_positions": 1,
+    "win_amount": 48828.646786,
+    "loss_amount": -999.96444925883,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.005715,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 2459,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
