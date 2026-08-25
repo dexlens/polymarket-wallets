@@ -1038,5 +1038,21 @@
     "win_count": 2,
     "rank": 21165,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3fad551796a3762afa9f3c53c2d87b8c7daa246d",
+    "trader_name": "jrujerh",
+    "tag": "Overall",
+    "overall_gain": 4319.28,
+    "active_positions": 2,
+    "win_amount": 4324.889999999999,
+    "loss_amount": -5.61,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 21166,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
