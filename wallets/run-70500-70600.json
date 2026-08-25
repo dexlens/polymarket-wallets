@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 70532,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x666e513dd84bbedb59ccf378ffef502f0777ed00",
+    "trader_name": "mbdoaround",
+    "tag": "Overall",
+    "overall_gain": 798.5,
+    "active_positions": 2,
+    "win_amount": 900,
+    "loss_amount": -101.5,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 70533,
+    "trader_tags": ""
   }
 ]
