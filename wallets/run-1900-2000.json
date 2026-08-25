@@ -510,5 +510,21 @@
     "win_count": 61,
     "rank": 1932,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5dbea3ea1caed68d36703077c76bdd23d0fb41e9",
+    "trader_name": "goneee",
+    "tag": "Overall",
+    "overall_gain": 62486.865,
+    "active_positions": 10,
+    "win_amount": 86803.86499999999,
+    "loss_amount": -24317,
+    "win_rate": 0.5416666666666666,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 24,
+    "win_count": 13,
+    "rank": 1933,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
