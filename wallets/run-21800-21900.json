@@ -958,5 +958,21 @@
     "win_count": 6,
     "rank": 21860,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x126b6cd22b4dc64580baf7222f0f62c5071f298f",
+    "trader_name": "wodeming",
+    "tag": "Overall",
+    "overall_gain": 4154.343509779214,
+    "active_positions": 26,
+    "win_amount": 7751.127050793726,
+    "loss_amount": -3596.783541014513,
+    "win_rate": 0.5783132530120482,
+    "total_current_value": 0.039228000000000006,
+    "total_positions": 125,
+    "event_ct": 83,
+    "win_count": 48,
+    "rank": 21861,
+    "trader_tags": "< 30 days old"
   }
 ]
