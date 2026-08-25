@@ -222,5 +222,21 @@
     "win_count": 10,
     "rank": 10214,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xbb6fd332b37fc54d97643966ec606b3de1682653",
+    "trader_name": "qwwee22",
+    "tag": "Overall",
+    "overall_gain": 10290.506966022647,
+    "active_positions": 14,
+    "win_amount": 32331.938922703157,
+    "loss_amount": -22041.431956680513,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 2523.5294109300003,
+    "total_positions": 34,
+    "event_ct": 26,
+    "win_count": 14,
+    "rank": 10215,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
