@@ -1182,5 +1182,21 @@
     "win_count": 10,
     "rank": 33475,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24f8c1ff9274d07e056082b46b3882f093410841",
+    "trader_name": "TarETF",
+    "tag": "Overall",
+    "overall_gain": 2467.670149884764,
+    "active_positions": 21,
+    "win_amount": 10859.200282350332,
+    "loss_amount": -8391.53013246557,
+    "win_rate": 0.4358974358974359,
+    "total_current_value": 0.12376136,
+    "total_positions": 62,
+    "event_ct": 39,
+    "win_count": 17,
+    "rank": 33476,
+    "trader_tags": "> 1 year old"
   }
 ]
