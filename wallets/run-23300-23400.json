@@ -750,5 +750,21 @@
     "win_count": 11,
     "rank": 23347,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86ffec0b398b189abc3e734e0f5d16d16cc8e663",
+    "trader_name": "0xselah",
+    "tag": "Overall",
+    "overall_gain": 3849.429158070799,
+    "active_positions": 309,
+    "win_amount": 33771.22314419292,
+    "loss_amount": -29921.79398612212,
+    "win_rate": 0.48484848484848486,
+    "total_current_value": 1021.9562309999998,
+    "total_positions": 650,
+    "event_ct": 594,
+    "win_count": 288,
+    "rank": 23348,
+    "trader_tags": "> 1 year old"
   }
 ]
