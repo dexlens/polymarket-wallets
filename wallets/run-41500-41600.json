@@ -1470,5 +1470,21 @@
     "win_count": 2,
     "rank": 41593,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x249ccf561ed2d093163e6c5b4b3ef6667be32783",
+    "trader_name": "ourbuddywasright",
+    "tag": "Overall",
+    "overall_gain": 1900.055909748687,
+    "active_positions": 20,
+    "win_amount": 35080.88735011526,
+    "loss_amount": -33180.83144036657,
+    "win_rate": 0.3956043956043956,
+    "total_current_value": 0.04927999999999999,
+    "total_positions": 125,
+    "event_ct": 91,
+    "win_count": 36,
+    "rank": 41594,
+    "trader_tags": "> 1 year old"
   }
 ]
