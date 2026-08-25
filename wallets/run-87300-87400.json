@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 87333,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d433bc3f21a7f340bbbeb649ebcd6275a2b920f",
+    "trader_name": "kuisaseo",
+    "tag": "Overall",
+    "overall_gain": 521.233399575575,
+    "active_positions": 12,
+    "win_amount": 1486.3087487796852,
+    "loss_amount": -965.07534920411,
+    "win_rate": 0.6,
+    "total_current_value": 751.089179131,
+    "total_positions": 25,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 87334,
+    "trader_tags": ""
   }
 ]
