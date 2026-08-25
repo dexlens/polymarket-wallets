@@ -350,5 +350,21 @@
     "win_count": 263,
     "rank": 3522,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x55629b4704e8e8eaa1e17e23830890757e722566",
+    "trader_name": "Efka",
+    "tag": "Overall",
+    "overall_gain": 32418.566261469645,
+    "active_positions": 0,
+    "win_amount": 32418.566261469645,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004205,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3523,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
