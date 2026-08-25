@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 73014,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30c746a82d483dcbdee791b48975cbce0e24a526",
+    "trader_name": "ogrb",
+    "tag": "Overall",
+    "overall_gain": 744.723024830184,
+    "active_positions": 3,
+    "win_amount": 1541.791899159735,
+    "loss_amount": -797.0688743295509,
+    "win_rate": 0.4,
+    "total_current_value": 0.006665,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 73015,
+    "trader_tags": ""
   }
 ]
