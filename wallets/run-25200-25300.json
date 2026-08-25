@@ -1438,5 +1438,21 @@
     "win_count": 10,
     "rank": 25291,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32d6cc1c94b19a2a0307065f4771a7646a0fede6",
+    "trader_name": "WardValentine",
+    "tag": "Overall",
+    "overall_gain": 3491.776874160281,
+    "active_positions": 51,
+    "win_amount": 17479.966874160276,
+    "loss_amount": -13988.19,
+    "win_rate": 0.6475409836065574,
+    "total_current_value": 9.1018875,
+    "total_positions": 125,
+    "event_ct": 122,
+    "win_count": 79,
+    "rank": 25292,
+    "trader_tags": ""
   }
 ]
