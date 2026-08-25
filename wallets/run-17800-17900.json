@@ -1422,5 +1422,21 @@
     "win_count": 170,
     "rank": 17889,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x937412d937c304f08abc3fefdbdf2fb92c5d1e73",
+    "trader_name": "Hecatessa",
+    "tag": "Overall",
+    "overall_gain": 5215.93808479459,
+    "active_positions": 3,
+    "win_amount": 5216.93808479059,
+    "loss_amount": -0.999999996,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 14.305591,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 17890,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
