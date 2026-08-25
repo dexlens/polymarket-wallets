@@ -350,5 +350,21 @@
     "win_count": 11,
     "rank": 3622,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2fadc932219a1244ecf34d7bfa15fe6dbb89f5c0",
+    "trader_name": "l3thar",
+    "tag": "Overall",
+    "overall_gain": 31436.61314552155,
+    "active_positions": 3,
+    "win_amount": 33908.16109336592,
+    "loss_amount": -2471.547947844367,
+    "win_rate": 0.42105263157894735,
+    "total_current_value": 27551.606482852,
+    "total_positions": 25,
+    "event_ct": 19,
+    "win_count": 8,
+    "rank": 3623,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
