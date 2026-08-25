@@ -206,5 +206,21 @@
     "win_count": 50,
     "rank": 26114,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x504a4914b6caf927cb31777126d9a7cfbd53e30f",
+    "trader_name": "ycomb",
+    "tag": "Overall",
+    "overall_gain": 3350.59203695834,
+    "active_positions": 0,
+    "win_amount": 3350.59203695834,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.345979,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 26115,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
