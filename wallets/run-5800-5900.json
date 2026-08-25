@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 5898,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x903d1f6b6d3b2364bba72f092e69a514f7bf1694",
+    "trader_name": "EtfInsider",
+    "tag": "Overall",
+    "overall_gain": 18221.67324315625,
+    "active_positions": 4,
+    "win_amount": 18221.873243156246,
+    "loss_amount": -0.2,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 44.78,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 5899,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
