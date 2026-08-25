@@ -126,5 +126,21 @@
     "win_count": 2,
     "rank": 51209,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a76503e937e19e66b0d2666807a0090f20221e6",
+    "trader_name": "guillemaral",
+    "tag": "Overall",
+    "overall_gain": 1428.5168099551236,
+    "active_positions": 0,
+    "win_amount": 1944.4789044992194,
+    "loss_amount": -515.962094544096,
+    "win_rate": 0.7586206896551724,
+    "total_current_value": 0.028319999999999998,
+    "total_positions": 32,
+    "event_ct": 29,
+    "win_count": 22,
+    "rank": 51210,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
