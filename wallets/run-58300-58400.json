@@ -1310,5 +1310,21 @@
     "win_count": 35,
     "rank": 58383,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2c394d98f68e8a0979203da9e6a749df2c99f277",
+    "trader_name": "charlie7",
+    "tag": "Overall",
+    "overall_gain": 1129.715260490025,
+    "active_positions": 0,
+    "win_amount": 1129.715260490025,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005522,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 58384,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
