@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 5397,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7f48b613c022ed3c5335c88ba6bc44a037216a49",
+    "trader_name": "MMQ213",
+    "tag": "Overall",
+    "overall_gain": 20063.699572228135,
+    "active_positions": 4,
+    "win_amount": 21403.220590636603,
+    "loss_amount": -1339.5210184084683,
+    "win_rate": 0.47368421052631576,
+    "total_current_value": 0.025987,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 9,
+    "rank": 5398,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
