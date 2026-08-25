@@ -830,5 +830,21 @@
     "win_count": 17,
     "rank": 15652,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x62051f2c40dd49dbfbbaeba8b0d4f85a23a87bbe",
+    "trader_name": "tryuan",
+    "tag": "Overall",
+    "overall_gain": 6156.446410213966,
+    "active_positions": 3,
+    "win_amount": 15053.130434824603,
+    "loss_amount": -8896.684024610637,
+    "win_rate": 0.8108108108108109,
+    "total_current_value": 35.024345,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 30,
+    "rank": 15653,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
