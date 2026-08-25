@@ -1358,5 +1358,21 @@
     "win_count": 72,
     "rank": 3285,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21c52a310ce110d58270e2d5a9676c217a5e3533",
+    "trader_name": "Rin2x",
+    "tag": "Overall",
+    "overall_gain": 34865.925162499196,
+    "active_positions": 40,
+    "win_amount": 99861.73484204285,
+    "loss_amount": -64995.809679543694,
+    "win_rate": 0.7931937172774869,
+    "total_current_value": 64044.277923129994,
+    "total_positions": 2532,
+    "event_ct": 1146,
+    "win_count": 909,
+    "rank": 3286,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
