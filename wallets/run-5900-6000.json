@@ -1566,5 +1566,21 @@
     "win_count": 42,
     "rank": 5998,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b7a89420ccb3692640cc0cb587f9d6f8691ef68",
+    "trader_name": "Lysoria",
+    "tag": "Overall",
+    "overall_gain": 17871.88015418578,
+    "active_positions": 9,
+    "win_amount": 24340.53770529208,
+    "loss_amount": -6468.657551106312,
+    "win_rate": 0.803030303030303,
+    "total_current_value": 5.175134,
+    "total_positions": 68,
+    "event_ct": 66,
+    "win_count": 53,
+    "rank": 5999,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
