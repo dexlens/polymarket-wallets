@@ -1022,5 +1022,21 @@
     "win_count": 15,
     "rank": 3264,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x34b16f87b09dfed7c6ee596b4816653fc387bc54",
+    "trader_name": "YK321",
+    "tag": "Overall",
+    "overall_gain": 35145.580713552576,
+    "active_positions": 5,
+    "win_amount": 65533.36215065587,
+    "loss_amount": -30387.7814371033,
+    "win_rate": 0.6091954022988506,
+    "total_current_value": 19513.066546197002,
+    "total_positions": 108,
+    "event_ct": 87,
+    "win_count": 53,
+    "rank": 3265,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
