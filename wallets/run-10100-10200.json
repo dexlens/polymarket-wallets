@@ -1278,5 +1278,21 @@
     "win_count": 3,
     "rank": 10180,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x82bbd689814ad868a2afdc54e0c7a201be634b3e",
+    "trader_name": "r3p23",
+    "tag": "Overall",
+    "overall_gain": 10316.723398999999,
+    "active_positions": 3,
+    "win_amount": 21742.563399000002,
+    "loss_amount": -11425.84,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 55,
+    "event_ct": 42,
+    "win_count": 28,
+    "rank": 10181,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
