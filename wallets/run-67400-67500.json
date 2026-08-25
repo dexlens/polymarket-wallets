@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 67459,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27a20e71b3ff155c1aa390f0d5a5510b8ef0dd48",
+    "trader_name": "Myth65",
+    "tag": "Overall",
+    "overall_gain": 875.9809629341186,
+    "active_positions": 20,
+    "win_amount": 10259.794605839621,
+    "loss_amount": -9383.813642905505,
+    "win_rate": 0.3953488372093023,
+    "total_current_value": 0.05416477999999999,
+    "total_positions": 72,
+    "event_ct": 43,
+    "win_count": 17,
+    "rank": 67460,
+    "trader_tags": ""
   }
 ]
