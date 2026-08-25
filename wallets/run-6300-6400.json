@@ -1342,5 +1342,21 @@
     "win_count": 2,
     "rank": 6384,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2008560409a6f3ed6df5bd3e738ccb8a89061dfe",
+    "trader_name": "gofman",
+    "tag": "Overall",
+    "overall_gain": 16787.922771,
+    "active_positions": 0,
+    "win_amount": 16787.922771,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6385,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
