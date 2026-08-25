@@ -94,5 +94,21 @@
     "win_count": 219,
     "rank": 7106,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x706ccabb8023add7fe4e773aaaab812eb2d6a94b",
+    "trader_name": "Amrosein",
+    "tag": "Overall",
+    "overall_gain": 15039.31748614311,
+    "active_positions": 10,
+    "win_amount": 22430.44014795551,
+    "loss_amount": -7391.122661812399,
+    "win_rate": 0.625,
+    "total_current_value": 43071.724018385,
+    "total_positions": 22,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 7107,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
