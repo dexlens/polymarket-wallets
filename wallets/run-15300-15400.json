@@ -238,5 +238,21 @@
     "win_count": 11,
     "rank": 15315,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0efd79dc9e932093b85b6bd5f981684168c91567",
+    "trader_name": "Sentinel28",
+    "tag": "Overall",
+    "overall_gain": 6323.758123498852,
+    "active_positions": 8,
+    "win_amount": 9951.09519407955,
+    "loss_amount": -3627.337070580701,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 8282.2081381985,
+    "total_positions": 37,
+    "event_ct": 15,
+    "win_count": 8,
+    "rank": 15316,
+    "trader_tags": ""
   }
 ]
