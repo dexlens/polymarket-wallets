@@ -62,5 +62,21 @@
     "win_count": 48,
     "rank": 10004,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x314033bc829bf9e661a1ff64a30eb64fd1346c7f",
+    "trader_name": "Midgarde",
+    "tag": "Overall",
+    "overall_gain": 10478.65837694027,
+    "active_positions": 4,
+    "win_amount": 10478.65837694027,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 211.85522326,
+    "total_positions": 31,
+    "event_ct": 17,
+    "win_count": 17,
+    "rank": 10005,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
