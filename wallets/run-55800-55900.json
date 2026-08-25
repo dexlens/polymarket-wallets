@@ -702,5 +702,21 @@
     "win_count": 155,
     "rank": 55845,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x198afd0ada969f284859a5a3d87fa653ca3046d6",
+    "trader_name": "payam.int",
+    "tag": "Overall",
+    "overall_gain": 1224.1428371287006,
+    "active_positions": 10,
+    "win_amount": 1283.7488640860017,
+    "loss_amount": -59.606026957301,
+    "win_rate": 0.52,
+    "total_current_value": 0.032692000000000006,
+    "total_positions": 41,
+    "event_ct": 25,
+    "win_count": 13,
+    "rank": 55846,
+    "trader_tags": ""
   }
 ]
