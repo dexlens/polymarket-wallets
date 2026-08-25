@@ -446,5 +446,21 @@
     "win_count": 32,
     "rank": 34129,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e338c865e83f2ba684b315e35f378398430e52a",
+    "trader_name": "qeurtd",
+    "tag": "Overall",
+    "overall_gain": 2411.633327874337,
+    "active_positions": 9,
+    "win_amount": 2972.2363175808446,
+    "loss_amount": -560.6029897065081,
+    "win_rate": 0.8048780487804879,
+    "total_current_value": 8.1398260685,
+    "total_positions": 83,
+    "event_ct": 82,
+    "win_count": 66,
+    "rank": 34130,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
