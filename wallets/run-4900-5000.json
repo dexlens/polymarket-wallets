@@ -1550,5 +1550,21 @@
     "win_count": 92,
     "rank": 4997,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xe8d78397160e13edc306a63b1d88c9c1f3dd1252",
+    "trader_name": "coinlaundry",
+    "tag": "Overall",
+    "overall_gain": 21666.300584277516,
+    "active_positions": 3,
+    "win_amount": 241733.53778615294,
+    "loss_amount": -220067.2372018754,
+    "win_rate": 0.86875,
+    "total_current_value": 29983.170010898997,
+    "total_positions": 169,
+    "event_ct": 160,
+    "win_count": 139,
+    "rank": 4998,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
