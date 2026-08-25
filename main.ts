@@ -51,8 +51,11 @@ for (const wallet of realdata.slice(runStart, runEnd)) {
   await Deno.writeTextFile(indexfilename, JSON.stringify(indexdata, null, 2));
 }
 
-// save the indexdata.wallets to the README.md
+// read the index.json now
+const indexdata = JSON.parse(await Deno.readTextFile(indexfilename));
+const wallets = indexdata.wallets;
+// save the wallets to the README.md
 const readmefilename = `README.md`;
 const readmedata = await Deno.readTextFile(readmefilename);
-const newreadmedata = readmedata.replace(/Wallets: \d+/, `Wallets: ${indexdata.wallets}`);
+const newreadmedata = readmedata.replace(/Wallets: \d+/, `Wallets: ${wallets}`);
 await Deno.writeTextFile(readmefilename, newreadmedata);
