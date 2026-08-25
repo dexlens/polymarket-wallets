@@ -350,5 +350,21 @@
     "win_count": 76,
     "rank": 4622,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7238e71bdde45fe1f240fa6c63ee232b40201396",
+    "trader_name": "cattalist",
+    "tag": "Overall",
+    "overall_gain": 23747.215341281964,
+    "active_positions": 3261,
+    "win_amount": 63069.51471868297,
+    "loss_amount": -39322.29937740103,
+    "win_rate": 0.1079913606911447,
+    "total_current_value": 0,
+    "total_positions": 3751,
+    "event_ct": 3241,
+    "win_count": 350,
+    "rank": 4623,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
