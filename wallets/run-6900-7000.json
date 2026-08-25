@@ -1358,5 +1358,21 @@
     "win_count": 5,
     "rank": 6985,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb315f2f1f6b43fc7e1c245e864fd130b100db839",
+    "trader_name": "Filvena",
+    "tag": "Overall",
+    "overall_gain": 15321.937900232831,
+    "active_positions": 3,
+    "win_amount": 18700.477900232832,
+    "loss_amount": -3378.5400000000004,
+    "win_rate": 0.8611111111111112,
+    "total_current_value": 83.7257315005,
+    "total_positions": 38,
+    "event_ct": 36,
+    "win_count": 31,
+    "rank": 6986,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
