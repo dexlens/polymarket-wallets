@@ -334,5 +334,21 @@
     "win_count": 47,
     "rank": 5621,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ecb34e1cb95b3c8d9d3e2905668d3eee03a7645",
+    "trader_name": "pengu2n",
+    "tag": "Overall",
+    "overall_gain": 19165.22662443266,
+    "active_positions": 64,
+    "win_amount": 197810.6855806696,
+    "loss_amount": -178645.458956237,
+    "win_rate": 0.5217987045341306,
+    "total_current_value": 4770.4709657680005,
+    "total_positions": 17432,
+    "event_ct": 8028,
+    "win_count": 4189,
+    "rank": 5622,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
