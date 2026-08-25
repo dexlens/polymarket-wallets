@@ -78,5 +78,21 @@
     "win_count": 2,
     "rank": 22305,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeffdccf91e529facffb6483e84a3eb04c3296dc1",
+    "trader_name": "sf3a",
+    "tag": "Overall",
+    "overall_gain": 4052.5457317429955,
+    "active_positions": 2,
+    "win_amount": 5067.870720876682,
+    "loss_amount": -1015.324989133686,
+    "win_rate": 0.9393939393939394,
+    "total_current_value": 0.006682,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 31,
+    "rank": 22306,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
