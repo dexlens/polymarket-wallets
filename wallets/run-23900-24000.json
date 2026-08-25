@@ -1566,5 +1566,21 @@
     "win_count": 13,
     "rank": 23999,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1a58d396149f565e556ff3d94564ecd61aa121b3",
+    "trader_name": "yerdhfcn",
+    "tag": "Overall",
+    "overall_gain": 3720.0055999999995,
+    "active_positions": 1,
+    "win_amount": 3720.0055999999995,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 197.02642500000002,
+    "total_positions": 29,
+    "event_ct": 27,
+    "win_count": 27,
+    "rank": 24000,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
