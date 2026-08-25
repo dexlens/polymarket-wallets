@@ -206,5 +206,21 @@
     "win_count": 5,
     "rank": 78714,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81ae34ffcb877af3c9dea441a467ac8382902481",
+    "trader_name": "zerojack",
+    "tag": "Overall",
+    "overall_gain": 652.015369914409,
+    "active_positions": 1,
+    "win_amount": 658.5530530000001,
+    "loss_amount": -6.537683085591,
+    "win_rate": 0.3076923076923077,
+    "total_current_value": 5.048928,
+    "total_positions": 24,
+    "event_ct": 13,
+    "win_count": 4,
+    "rank": 78715,
+    "trader_tags": "> 1 year old"
   }
 ]
