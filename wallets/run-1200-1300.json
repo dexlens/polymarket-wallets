@@ -926,5 +926,21 @@
     "win_count": 7,
     "rank": 1258,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5858196bbcb5059a7f67904deb06755dc2adfbbf",
+    "trader_name": "denjisan",
+    "tag": "Overall",
+    "overall_gain": 96288.71529528224,
+    "active_positions": 5,
+    "win_amount": 128210.43871608822,
+    "loss_amount": -31921.723420805985,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0.21902138999999995,
+    "total_positions": 213,
+    "event_ct": 90,
+    "win_count": 65,
+    "rank": 1259,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
