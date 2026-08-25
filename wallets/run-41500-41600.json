@@ -942,5 +942,21 @@
     "win_count": 5,
     "rank": 41560,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ee1549eba312f959650d180932a26519b253694",
+    "trader_name": "zerds",
+    "tag": "Overall",
+    "overall_gain": 1901.4102591269832,
+    "active_positions": 11,
+    "win_amount": 5575.458559246707,
+    "loss_amount": -3674.0483001197235,
+    "win_rate": 0.27586206896551724,
+    "total_current_value": 0.004707,
+    "total_positions": 32,
+    "event_ct": 29,
+    "win_count": 8,
+    "rank": 41561,
+    "trader_tags": "> 1 year old"
   }
 ]
