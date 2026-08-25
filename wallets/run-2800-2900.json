@@ -126,5 +126,21 @@
     "win_count": 10,
     "rank": 2808,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x098b949be2f229f524a0e49c736dd7c3ed0d1fa5",
+    "trader_name": "desp1cable",
+    "tag": "Overall",
+    "overall_gain": 41220.118120336454,
+    "active_positions": 7,
+    "win_amount": 192143.90764463306,
+    "loss_amount": -150923.78952429668,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 23118.929748947,
+    "total_positions": 212,
+    "event_ct": 165,
+    "win_count": 75,
+    "rank": 2809,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
