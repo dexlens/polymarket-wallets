@@ -462,5 +462,21 @@
     "win_count": 20,
     "rank": 15529,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x03893224693927861dca44a4342490971d193e49",
+    "trader_name": "agentA",
+    "tag": "Overall",
+    "overall_gain": 6222.424018475655,
+    "active_positions": 130,
+    "win_amount": 10811.607276145309,
+    "loss_amount": -4589.183257669651,
+    "win_rate": 0.43946188340807174,
+    "total_current_value": 0.118163,
+    "total_positions": 233,
+    "event_ct": 223,
+    "win_count": 98,
+    "rank": 15530,
+    "trader_tags": ""
   }
 ]
