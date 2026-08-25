@@ -782,5 +782,21 @@
     "win_count": 3,
     "rank": 21449,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x64c02d6b5e60666076111adc5889e71c650e4c42",
+    "trader_name": "limsuch",
+    "tag": "Overall",
+    "overall_gain": 4247.355682818762,
+    "active_positions": 4,
+    "win_amount": 4247.370697818762,
+    "loss_amount": -0.015014999999998224,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 215.769717,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 10,
+    "rank": 21450,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
