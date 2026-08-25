@@ -1374,5 +1374,21 @@
     "win_count": 58,
     "rank": 70487,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3d28873fc9eafd86ba6979dfb7ec47830218cd21",
+    "trader_name": "woahnow",
+    "tag": "Overall",
+    "overall_gain": 799.7329992597589,
+    "active_positions": 7,
+    "win_amount": 1110.2492534357502,
+    "loss_amount": -310.5162541759912,
+    "win_rate": 0.7352941176470589,
+    "total_current_value": 3305.698939757,
+    "total_positions": 52,
+    "event_ct": 34,
+    "win_count": 25,
+    "rank": 70488,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
