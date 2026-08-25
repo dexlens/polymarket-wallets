@@ -1022,5 +1022,21 @@
     "win_count": 10,
     "rank": 58465,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1b09b8d3c86c8e34145260e67bd830c962335e90",
+    "trader_name": "interpromote",
+    "tag": "Overall",
+    "overall_gain": 1126.6888997880637,
+    "active_positions": 0,
+    "win_amount": 1138.740192788064,
+    "loss_amount": -12.051293000000003,
+    "win_rate": 0.9615384615384616,
+    "total_current_value": 0.000329,
+    "total_positions": 34,
+    "event_ct": 26,
+    "win_count": 25,
+    "rank": 58466,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
