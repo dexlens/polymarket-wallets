@@ -462,5 +462,21 @@
     "win_count": 2,
     "rank": 8829,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x351076b8f89049f76894e8053d763b4c8da4cd72",
+    "trader_name": "sanskPM",
+    "tag": "Overall",
+    "overall_gain": 11864.195443902932,
+    "active_positions": 24,
+    "win_amount": 31926.076213,
+    "loss_amount": -20061.88076909707,
+    "win_rate": 0.5471698113207547,
+    "total_current_value": 10.060871,
+    "total_positions": 59,
+    "event_ct": 53,
+    "win_count": 29,
+    "rank": 8830,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
