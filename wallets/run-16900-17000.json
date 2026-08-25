@@ -958,5 +958,21 @@
     "win_count": 85,
     "rank": 16960,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x300adfb3cbff01f815cf837eb8994db3233d6108",
+    "trader_name": "shengwu",
+    "tag": "Overall",
+    "overall_gain": 5568.415264923749,
+    "active_positions": 0,
+    "win_amount": 5818.053654276896,
+    "loss_amount": -249.638389353147,
+    "win_rate": 0.2727272727272727,
+    "total_current_value": 0.023575759999999998,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 3,
+    "rank": 16961,
+    "trader_tags": "> 1 year old"
   }
 ]
