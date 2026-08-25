@@ -718,5 +718,21 @@
     "win_count": 143,
     "rank": 52246,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01bd6ad5c716227632e6aae6d34c89ea020286bd",
+    "trader_name": "Bleedin",
+    "tag": "Overall",
+    "overall_gain": 1381.225468825482,
+    "active_positions": 1,
+    "win_amount": 1846.15769,
+    "loss_amount": -464.93222117451796,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 52247,
+    "trader_tags": "> 1 year old"
   }
 ]
