@@ -1486,5 +1486,21 @@
     "win_count": 378,
     "rank": 3193,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc8573e8132400bfcbaddad51287660c97e969e70",
+    "trader_name": "palace",
+    "tag": "Overall",
+    "overall_gain": 35871.73496161438,
+    "active_positions": 2,
+    "win_amount": 59929.80620569261,
+    "loss_amount": -24058.07124407823,
+    "win_rate": 0.6857142857142857,
+    "total_current_value": 0.0372,
+    "total_positions": 48,
+    "event_ct": 35,
+    "win_count": 24,
+    "rank": 3194,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
