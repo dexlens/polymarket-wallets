@@ -1022,5 +1022,21 @@
     "win_count": 10,
     "rank": 59265,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11bf91c3af808cc2c49fd583f5f93287089d89cf",
+    "trader_name": "Mikebbonnie",
+    "tag": "Overall",
+    "overall_gain": 1100,
+    "active_positions": 2,
+    "win_amount": 3500,
+    "loss_amount": -2400,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 59266,
+    "trader_tags": ""
   }
 ]
