@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 61070,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbe3c36d8fa9a85f5e1564085bc6fbd14a222a835",
+    "trader_name": "F-812",
+    "tag": "Overall",
+    "overall_gain": 1045.7776145171774,
+    "active_positions": 6,
+    "win_amount": 161220.33440268182,
+    "loss_amount": -160174.55678816454,
+    "win_rate": 0.4636579572446556,
+    "total_current_value": 614.765912,
+    "total_positions": 2438,
+    "event_ct": 2105,
+    "win_count": 976,
+    "rank": 61071,
+    "trader_tags": "1k+ Positions"
   }
 ]
