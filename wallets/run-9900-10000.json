@@ -590,5 +590,21 @@
     "win_count": 17,
     "rank": 9937,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa35cd589adf3df988c84f1d17c50cd3dd4775bb2",
+    "trader_name": "nothingbutlove",
+    "tag": "Overall",
+    "overall_gain": 10554.168678378575,
+    "active_positions": 0,
+    "win_amount": 10783.32566916,
+    "loss_amount": -229.15699078142393,
+    "win_rate": 0.75,
+    "total_current_value": 0.047452,
+    "total_positions": 11,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 9938,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
