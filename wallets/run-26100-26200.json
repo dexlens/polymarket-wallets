@@ -958,5 +958,21 @@
     "win_count": 5,
     "rank": 26161,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f8f60cac479ea71597c7074e1ceb0ab34a06f62",
+    "trader_name": "LiquidLogic",
+    "tag": "Overall",
+    "overall_gain": 3343.5,
+    "active_positions": 5,
+    "win_amount": 4619,
+    "loss_amount": -1275.5,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 26162,
+    "trader_tags": ""
   }
 ]
