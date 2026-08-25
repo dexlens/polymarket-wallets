@@ -1070,5 +1070,21 @@
     "win_count": 38,
     "rank": 3967,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6d0186ee2a018bbb3cbb3ef49cbff8c783ab0ab1",
+    "trader_name": "BDD1",
+    "tag": "Overall",
+    "overall_gain": 28348.93665127378,
+    "active_positions": 14,
+    "win_amount": 312453.2679459556,
+    "loss_amount": -284104.33129468164,
+    "win_rate": 0.47794302999747923,
+    "total_current_value": 0.10104700000000001,
+    "total_positions": 5076,
+    "event_ct": 3967,
+    "win_count": 1896,
+    "rank": 3968,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
