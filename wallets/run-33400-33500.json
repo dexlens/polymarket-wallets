@@ -1070,5 +1070,21 @@
     "win_count": 7,
     "rank": 33468,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e365d3b928c228cfaae61ebf0624b8f28a2dbb5",
+    "trader_name": "monkey99",
+    "tag": "Overall",
+    "overall_gain": 2468.140157495735,
+    "active_positions": 51,
+    "win_amount": 2790.783457608513,
+    "loss_amount": -322.643300112778,
+    "win_rate": 0.28125,
+    "total_current_value": 120.016841219,
+    "total_positions": 60,
+    "event_ct": 32,
+    "win_count": 9,
+    "rank": 33469,
+    "trader_tags": "> 1 year old"
   }
 ]
