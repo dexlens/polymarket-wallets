@@ -1310,5 +1310,21 @@
     "win_count": 3,
     "rank": 86883,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3dad0f4ca42dca9b5defbab8fc26884e2479c169",
+    "trader_name": "dfhfghc",
+    "tag": "Overall",
+    "overall_gain": 526.9438848776912,
+    "active_positions": 6,
+    "win_amount": 539.145101020966,
+    "loss_amount": -12.201216143275001,
+    "win_rate": 0.6875,
+    "total_current_value": 45.391768885000005,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 86884,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
