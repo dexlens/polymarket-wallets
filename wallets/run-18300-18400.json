@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 18323,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ddf9f9ca79e1d434682259c71de25572a80b1b9",
+    "trader_name": "eudjgn",
+    "tag": "Overall",
+    "overall_gain": 5073.327980166057,
+    "active_positions": 2,
+    "win_amount": 5229.714680166058,
+    "loss_amount": -156.38670000000002,
+    "win_rate": 0.9615384615384616,
+    "total_current_value": 146.470057,
+    "total_positions": 27,
+    "event_ct": 26,
+    "win_count": 25,
+    "rank": 18324,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
