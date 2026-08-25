@@ -1182,5 +1182,21 @@
     "win_count": 3,
     "rank": 25275,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01c5815139cb09d51641b12cd212300c82643a81",
+    "trader_name": "tipobject",
+    "tag": "Overall",
+    "overall_gain": 3493.829440164111,
+    "active_positions": 0,
+    "win_amount": 6704.430362275736,
+    "loss_amount": -3210.6009221116233,
+    "win_rate": 0.6176470588235294,
+    "total_current_value": 0.020795,
+    "total_positions": 82,
+    "event_ct": 68,
+    "win_count": 42,
+    "rank": 25276,
+    "trader_tags": "> 1 year old"
   }
 ]
