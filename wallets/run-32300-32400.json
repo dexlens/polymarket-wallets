@@ -286,5 +286,21 @@
     "win_count": 16,
     "rank": 32319,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27423894f978430bbb5e98e1179aadf5a59c1f7a",
+    "trader_name": "sentineltrader",
+    "tag": "Overall",
+    "overall_gain": 2569.6481515390524,
+    "active_positions": 213,
+    "win_amount": 3869.9669152480396,
+    "loss_amount": -1300.3187637089864,
+    "win_rate": 0.8040201005025126,
+    "total_current_value": 0.19446819999999987,
+    "total_positions": 1101,
+    "event_ct": 398,
+    "win_count": 320,
+    "rank": 32320,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
