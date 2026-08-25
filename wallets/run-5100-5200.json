@@ -414,5 +414,21 @@
     "win_count": 2,
     "rank": 5126,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd8d139a018b22afadd347a9cc96bedbd1db5553e",
+    "trader_name": "chewchee",
+    "tag": "Overall",
+    "overall_gain": 21122.18167060858,
+    "active_positions": 2,
+    "win_amount": 40027.746655,
+    "loss_amount": -18905.56498439141,
+    "win_rate": 0.609375,
+    "total_current_value": 12114.841720304998,
+    "total_positions": 66,
+    "event_ct": 64,
+    "win_count": 39,
+    "rank": 5127,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
