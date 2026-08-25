@@ -238,5 +238,21 @@
     "win_count": 10,
     "rank": 4415,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x04916462a90fb009cefdca7f859b95b2aaaadbe0",
+    "trader_name": "OedipusRex",
+    "tag": "Overall",
+    "overall_gain": 25183.416172146026,
+    "active_positions": 0,
+    "win_amount": 29235.27850272188,
+    "loss_amount": -4051.86233057585,
+    "win_rate": 0.45,
+    "total_current_value": 0.039063,
+    "total_positions": 31,
+    "event_ct": 20,
+    "win_count": 9,
+    "rank": 4416,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
