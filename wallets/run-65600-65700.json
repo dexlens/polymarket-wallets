@@ -1486,5 +1486,21 @@
     "win_count": 15,
     "rank": 65694,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe036e1a4acd6fcf164aa65e2529151effc29447e",
+    "trader_name": "bradlyx",
+    "tag": "Overall",
+    "overall_gain": 925.0431638691526,
+    "active_positions": 5,
+    "win_amount": 11135.074822880122,
+    "loss_amount": -10210.031659010969,
+    "win_rate": 0.9548272807794509,
+    "total_current_value": 1182.71269905,
+    "total_positions": 1129,
+    "event_ct": 1129,
+    "win_count": 1078,
+    "rank": 65695,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
