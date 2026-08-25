@@ -1054,5 +1054,21 @@
     "win_count": 20,
     "rank": 52967,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8980e75197371ccf0028ff1c74afeb41366b5279",
+    "trader_name": "Redemption10",
+    "tag": "Overall",
+    "overall_gain": 1349.3185956341017,
+    "active_positions": 5,
+    "win_amount": 3791.7006327582835,
+    "loss_amount": -2442.382037124181,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 4.6737,
+    "total_positions": 173,
+    "event_ct": 170,
+    "win_count": 160,
+    "rank": 52968,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
