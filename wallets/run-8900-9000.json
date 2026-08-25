@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 8943,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02319ffcf7214a5ca8e972d409320c935ea545d0",
+    "trader_name": "mpoxmillionare",
+    "tag": "Overall",
+    "overall_gain": 11713.724786507715,
+    "active_positions": 155,
+    "win_amount": 13624.466977143593,
+    "loss_amount": -1910.7421906358813,
+    "win_rate": 0.48026315789473684,
+    "total_current_value": 1072.7318182395002,
+    "total_positions": 1007,
+    "event_ct": 456,
+    "win_count": 219,
+    "rank": 8944,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
