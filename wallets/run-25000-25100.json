@@ -366,5 +366,21 @@
     "win_count": 5,
     "rank": 25024,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27d397ef77da969a9d9224faa28362abb2620430",
+    "trader_name": "dyfj",
+    "tag": "Overall",
+    "overall_gain": 3533.46,
+    "active_positions": 2,
+    "win_amount": 5059.26,
+    "loss_amount": -1525.8,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 25025,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
