@@ -1262,5 +1262,21 @@
     "win_count": 6,
     "rank": 7679,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6170ae24c5bba7b9332766541d8bd41fcf38ecbb",
+    "trader_name": "marcus54",
+    "tag": "Overall",
+    "overall_gain": 13778.666476239072,
+    "active_positions": 0,
+    "win_amount": 13955.143476239073,
+    "loss_amount": -176.477,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0.00007300000000000001,
+    "total_positions": 21,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 7680,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
