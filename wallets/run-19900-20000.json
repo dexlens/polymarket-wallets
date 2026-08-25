@@ -1070,5 +1070,21 @@
     "win_count": 3,
     "rank": 19967,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb1d1d4bcfbeb5f6134a8b86c851ab21536ab6c2",
+    "trader_name": "Fx453",
+    "tag": "Overall",
+    "overall_gain": 4636.014955542888,
+    "active_positions": 1,
+    "win_amount": 14598.389273999997,
+    "loss_amount": -9962.37431845711,
+    "win_rate": 0.7813351498637602,
+    "total_current_value": 0,
+    "total_positions": 2886,
+    "event_ct": 1468,
+    "win_count": 1147,
+    "rank": 19968,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
