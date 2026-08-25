@@ -1086,5 +1086,21 @@
     "win_count": 4,
     "rank": 57969,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5d03aa8695276ed6f7d5ca10dc07d2a2d062369a",
+    "trader_name": "Bm26",
+    "tag": "Overall",
+    "overall_gain": 1143.87135234449,
+    "active_positions": 2,
+    "win_amount": 3260.47731657212,
+    "loss_amount": -2116.6059642276305,
+    "win_rate": 0.722707423580786,
+    "total_current_value": 73.55242099999995,
+    "total_positions": 1002,
+    "event_ct": 458,
+    "win_count": 331,
+    "rank": 57970,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
