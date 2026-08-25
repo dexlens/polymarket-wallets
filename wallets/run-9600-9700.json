@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 9619,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72f7683e5fe3bc5a719d7e33b00753e2906e9bf0",
+    "trader_name": "bbilibili",
+    "tag": "Overall",
+    "overall_gain": 10889.665,
+    "active_positions": 3,
+    "win_amount": 10893.9,
+    "loss_amount": -4.235,
+    "win_rate": 0.25,
+    "total_current_value": 1.185,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 9620,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
