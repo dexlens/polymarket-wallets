@@ -1022,5 +1022,21 @@
     "win_count": 4,
     "rank": 964,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x976d6c17577fd7de2ad10b02c6bcd1d3b3147de0",
+    "trader_name": "potnoodle",
+    "tag": "Overall",
+    "overall_gain": 126055.06197764572,
+    "active_positions": 1,
+    "win_amount": 133678.2023191696,
+    "loss_amount": -7623.140341523868,
+    "win_rate": 0.5,
+    "total_current_value": 0.007624,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 965,
+    "trader_tags": "Overall PnL > $100k; Politics PnL > $100k"
   }
 ]
