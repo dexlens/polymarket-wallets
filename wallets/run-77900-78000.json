@@ -206,5 +206,21 @@
     "win_count": 7,
     "rank": 77914,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1d091f88e4a8bbbd885e543dcee053158ee33eea",
+    "trader_name": "Smarthug",
+    "tag": "Overall",
+    "overall_gain": 665.342747909036,
+    "active_positions": 1,
+    "win_amount": 685.342525576815,
+    "loss_amount": -19.999777667778996,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.010567,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 77915,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
