@@ -942,5 +942,21 @@
     "win_count": 6,
     "rank": 12259,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9785f9a02b28769841901b9ebd50aadba0fe36d8",
+    "trader_name": "anndny",
+    "tag": "Overall",
+    "overall_gain": 8342.945082,
+    "active_positions": 0,
+    "win_amount": 8342.945082,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 12260,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
