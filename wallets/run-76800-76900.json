@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 76880,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc8f93a52f0156e80ef1f10600a8b39accadcc01d",
+    "trader_name": "shardbeam",
+    "tag": "Overall",
+    "overall_gain": 684.3530114999999,
+    "active_positions": 0,
+    "win_amount": 689.1093265,
+    "loss_amount": -4.756315000000001,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 0.007218,
+    "total_positions": 25,
+    "event_ct": 15,
+    "win_count": 13,
+    "rank": 76881,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
