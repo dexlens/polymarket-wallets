@@ -446,5 +446,21 @@
     "win_count": 2,
     "rank": 1228,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xa84edaf1a562eabb463dc6cf4c3e9c407a5edbeb",
+    "trader_name": "VOID-PEPPER",
+    "tag": "Overall",
+    "overall_gain": 99083.34081136835,
+    "active_positions": 1591,
+    "win_amount": 247776.76225481147,
+    "loss_amount": -148693.42144344313,
+    "win_rate": 0.6025344111863666,
+    "total_current_value": 4689.899030504999,
+    "total_positions": 43480,
+    "event_ct": 22885,
+    "win_count": 13789,
+    "rank": 1229,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
