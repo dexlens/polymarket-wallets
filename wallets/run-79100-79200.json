@@ -654,5 +654,21 @@
     "win_count": 3,
     "rank": 79142,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe63389f0f1882942bfa1b211027cb0f9a77bc0fe",
+    "trader_name": "Thanevor",
+    "tag": "Overall",
+    "overall_gain": 644.804997852236,
+    "active_positions": 9,
+    "win_amount": 2490.636497340309,
+    "loss_amount": -1845.831499488073,
+    "win_rate": 0.6341463414634146,
+    "total_current_value": 1017.9786842434999,
+    "total_positions": 355,
+    "event_ct": 246,
+    "win_count": 156,
+    "rank": 79143,
+    "trader_tags": "> 1 year old"
   }
 ]
