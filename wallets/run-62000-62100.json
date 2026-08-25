@@ -766,5 +766,21 @@
     "win_count": 23,
     "rank": 62049,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f1e36aeeb950ed368b3d46862befd919f19f049",
+    "trader_name": "bsrhbet5y2435",
+    "tag": "Overall",
+    "overall_gain": 1020.741808,
+    "active_positions": 1,
+    "win_amount": 1023.919808,
+    "loss_amount": -3.1779999999999995,
+    "win_rate": 0.5,
+    "total_current_value": 3.7625,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 62050,
+    "trader_tags": "< 30 days old"
   }
 ]
