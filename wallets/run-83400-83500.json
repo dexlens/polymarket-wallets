@@ -1422,5 +1422,21 @@
     "win_count": 7,
     "rank": 83490,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x633581422813154c8e22a85780b662192ac9d2a2",
+    "trader_name": "3ddou",
+    "tag": "Overall",
+    "overall_gain": 574.305564524145,
+    "active_positions": 0,
+    "win_amount": 724.5436689999999,
+    "loss_amount": -150.238104475855,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 83491,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
