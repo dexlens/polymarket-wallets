@@ -494,5 +494,21 @@
     "win_count": 5,
     "rank": 27432,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x931cc47f43ba3c81b7913247dfbb1e38c995250c",
+    "trader_name": "655bvg",
+    "tag": "Overall",
+    "overall_gain": 3143.8350738329086,
+    "active_positions": 10,
+    "win_amount": 5880.538633979834,
+    "loss_amount": -2736.703560146928,
+    "win_rate": 0.5365853658536586,
+    "total_current_value": 36.815154488000005,
+    "total_positions": 41,
+    "event_ct": 41,
+    "win_count": 22,
+    "rank": 27433,
+    "trader_tags": "> 1 year old"
   }
 ]
