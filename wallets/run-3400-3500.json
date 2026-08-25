@@ -494,5 +494,21 @@
     "win_count": 35,
     "rank": 3431,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfaa55858f098040003978c3615a086cdd0cd7cc9",
+    "trader_name": "Ecofarmer",
+    "tag": "Overall",
+    "overall_gain": 33236.435133500265,
+    "active_positions": 4,
+    "win_amount": 149821.42503077578,
+    "loss_amount": -116584.98989727549,
+    "win_rate": 0.5523465703971119,
+    "total_current_value": 861.79791175,
+    "total_positions": 352,
+    "event_ct": 277,
+    "win_count": 153,
+    "rank": 3432,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
