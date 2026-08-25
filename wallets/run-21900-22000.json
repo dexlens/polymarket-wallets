@@ -1166,5 +1166,21 @@
     "win_count": 33,
     "rank": 21973,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x167750753da3ab79b99a44baaa32585755eb1126",
+    "trader_name": "nhB",
+    "tag": "Overall",
+    "overall_gain": 4126.815052310979,
+    "active_positions": 5,
+    "win_amount": 9826.595566086648,
+    "loss_amount": -5699.7805137756695,
+    "win_rate": 0.8024408848207475,
+    "total_current_value": 2.9450081749999995,
+    "total_positions": 1971,
+    "event_ct": 1311,
+    "win_count": 1052,
+    "rank": 21974,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
