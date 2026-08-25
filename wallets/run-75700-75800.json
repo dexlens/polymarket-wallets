@@ -1550,5 +1550,21 @@
     "win_count": 3,
     "rank": 75798,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02b54a23f98f76db81dba9030730cfe9a8df07c9",
+    "trader_name": "feedingemall",
+    "tag": "Overall",
+    "overall_gain": 702.5,
+    "active_positions": 3,
+    "win_amount": 852.5,
+    "loss_amount": -150,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 75799,
+    "trader_tags": ""
   }
 ]
