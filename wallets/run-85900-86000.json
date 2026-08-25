@@ -782,5 +782,21 @@
     "win_count": 141,
     "rank": 85950,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x31d0d20900b9bf968e94be5472ea2acc63fdab1a",
+    "trader_name": "bet24soon",
+    "tag": "Overall",
+    "overall_gain": 539.832796990406,
+    "active_positions": 4,
+    "win_amount": 539.832796990406,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 24.912731,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 85951,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
