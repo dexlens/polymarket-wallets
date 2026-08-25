@@ -702,5 +702,21 @@
     "win_count": 4,
     "rank": 78745,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e258e355bc29d6bb93100439170a1c7a66a8c8d",
+    "trader_name": "MaxCapone",
+    "tag": "Overall",
+    "overall_gain": 651.447595112065,
+    "active_positions": 0,
+    "win_amount": 925.9072327295651,
+    "loss_amount": -274.4596376175,
+    "win_rate": 0.5,
+    "total_current_value": 0.006665,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 78746,
+    "trader_tags": "> 1 year old"
   }
 ]
