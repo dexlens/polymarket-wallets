@@ -702,5 +702,21 @@
     "win_count": 5,
     "rank": 18944,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2bd2e58cb948e97414731ecae1a9b6f33af72b28",
+    "trader_name": "greatwow",
+    "tag": "Overall",
+    "overall_gain": 4911.47337915677,
+    "active_positions": 313,
+    "win_amount": 8160.382050278503,
+    "loss_amount": -3248.908671121735,
+    "win_rate": 0.4700162074554295,
+    "total_current_value": 0.08260289599999998,
+    "total_positions": 693,
+    "event_ct": 617,
+    "win_count": 290,
+    "rank": 18945,
+    "trader_tags": ""
   }
 ]
