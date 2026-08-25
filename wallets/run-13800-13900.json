@@ -174,5 +174,21 @@
     "win_count": 1,
     "rank": 13811,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x82e0ba1879fbac8c1a6a8ee61c62634cd4ccbebc",
+    "trader_name": "Barbeta",
+    "tag": "Overall",
+    "overall_gain": 7148.062517621684,
+    "active_positions": 7,
+    "win_amount": 10461.313711,
+    "loss_amount": -3313.251193378316,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 13812,
+    "trader_tags": ""
   }
 ]
