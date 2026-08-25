@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 11464,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x307cb89da07f0b4f62ade36e2428d6ebfd1eaca6",
+    "trader_name": "SupermanFrank",
+    "tag": "Overall",
+    "overall_gain": 9109.281087793031,
+    "active_positions": 5,
+    "win_amount": 12686.193754161177,
+    "loss_amount": -3576.912666368145,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 109.19928200000001,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 11465,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
