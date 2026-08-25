@@ -1550,5 +1550,21 @@
     "win_count": 34,
     "rank": 34198,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5c29f43a3e5195014437f4e884add1fb03ac1ba5",
+    "trader_name": "glitch-darter",
+    "tag": "Overall",
+    "overall_gain": 2405.6337363808625,
+    "active_positions": 81,
+    "win_amount": 13605.150239,
+    "loss_amount": -11199.516502619137,
+    "win_rate": 0.8167420814479638,
+    "total_current_value": 114.3,
+    "total_positions": 443,
+    "event_ct": 442,
+    "win_count": 361,
+    "rank": 34199,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
