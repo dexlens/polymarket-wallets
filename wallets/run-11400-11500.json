@@ -830,5 +830,21 @@
     "win_count": 6,
     "rank": 11452,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xae4d51acd57b2a10f58da1f3b0043badb4fa254e",
+    "trader_name": "nektoofd",
+    "tag": "Overall",
+    "overall_gain": 9121.341815271755,
+    "active_positions": 22,
+    "win_amount": 11486.327822444462,
+    "loss_amount": -2364.986007172708,
+    "win_rate": 0.675,
+    "total_current_value": 0.038215,
+    "total_positions": 114,
+    "event_ct": 80,
+    "win_count": 54,
+    "rank": 11453,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
