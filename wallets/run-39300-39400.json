@@ -878,5 +878,21 @@
     "win_count": 9,
     "rank": 39356,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xbd3abc11431029391ad2d456043b80f0f852cea9",
+    "trader_name": "YINRT",
+    "tag": "Overall",
+    "overall_gain": 2028.5241769715424,
+    "active_positions": 3,
+    "win_amount": 5067.594176971542,
+    "loss_amount": -3039.07,
+    "win_rate": 0.90625,
+    "total_current_value": 0.001542,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 29,
+    "rank": 39357,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
