@@ -990,5 +990,21 @@
     "win_count": 15,
     "rank": 6762,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7e71847c057982d0ffed478b775e4a0e00384df",
+    "trader_name": "BlindPiglet",
+    "tag": "Overall",
+    "overall_gain": 15867.326889156091,
+    "active_positions": 20,
+    "win_amount": 26209.250989999993,
+    "loss_amount": -10341.92410084391,
+    "win_rate": 0.3888888888888889,
+    "total_current_value": 0.001223,
+    "total_positions": 43,
+    "event_ct": 36,
+    "win_count": 14,
+    "rank": 6763,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
