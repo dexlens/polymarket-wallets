@@ -414,5 +414,21 @@
     "win_count": 3,
     "rank": 77627,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1bb4048443c56e06ee480642e26d26cf7e93126d",
+    "trader_name": "testtoken1",
+    "tag": "Overall",
+    "overall_gain": 670.4910659999999,
+    "active_positions": 0,
+    "win_amount": 670.4910659999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 77628,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
