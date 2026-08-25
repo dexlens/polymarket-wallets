@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 65021,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18b9a74db808e0c77fc5ef9cd384fafe23a1a226",
+    "trader_name": "Just-Do-It",
+    "tag": "Overall",
+    "overall_gain": 945.009301875586,
+    "active_positions": 34,
+    "win_amount": 3142.977808725728,
+    "loss_amount": -2197.9685068501417,
+    "win_rate": 0.5268817204301075,
+    "total_current_value": 1956.1443896205003,
+    "total_positions": 193,
+    "event_ct": 93,
+    "win_count": 49,
+    "rank": 65022,
+    "trader_tags": ""
   }
 ]
