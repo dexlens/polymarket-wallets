@@ -862,5 +862,21 @@
     "win_count": 394,
     "rank": 2454,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01bec08d41d57408893f6c834971922d83b5ecc1",
+    "trader_name": "MoonbeamPrince",
+    "tag": "Overall",
+    "overall_gain": 47954.79002832,
+    "active_positions": 3,
+    "win_amount": 55463.672085,
+    "loss_amount": -7508.8820566800005,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 2455,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
