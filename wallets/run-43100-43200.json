@@ -1262,5 +1262,21 @@
     "win_count": 2,
     "rank": 43180,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x316433ec12eabb34a5a94faf50101ad36d618231",
+    "trader_name": "crypto55",
+    "tag": "Overall",
+    "overall_gain": 1810.832867,
+    "active_positions": 1,
+    "win_amount": 1851.322867,
+    "loss_amount": -40.49,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 43181,
+    "trader_tags": "> 1 year old"
   }
 ]
