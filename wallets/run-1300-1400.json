@@ -1054,5 +1054,21 @@
     "win_count": 2,
     "rank": 1366,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56efadc9defe5b7a21af751e0d026f2cf54136db",
+    "trader_name": "Neodbs",
+    "tag": "Overall",
+    "overall_gain": 88953.75,
+    "active_positions": 0,
+    "win_amount": 88953.75,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 1367,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
