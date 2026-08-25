@@ -1566,5 +1566,21 @@
     "win_count": 9,
     "rank": 47899,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x48739c2f17324a92a6c1cf7402b9655e28d1efdc",
+    "trader_name": "sunny168",
+    "tag": "Overall",
+    "overall_gain": 1577.0326200000004,
+    "active_positions": 0,
+    "win_amount": 1585.0326200000004,
+    "loss_amount": -8,
+    "win_rate": 0.9985358711566618,
+    "total_current_value": 0,
+    "total_positions": 744,
+    "event_ct": 683,
+    "win_count": 682,
+    "rank": 47900,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
