@@ -222,5 +222,21 @@
     "win_count": 3,
     "rank": 2814,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e0254bd74e592700ef62d70201b936038dbbfce",
+    "trader_name": "metsW",
+    "tag": "Overall",
+    "overall_gain": 41160.23910810382,
+    "active_positions": 139,
+    "win_amount": 58728.72059092214,
+    "loss_amount": -17568.481482818304,
+    "win_rate": 0.5530973451327433,
+    "total_current_value": 6600.793685000001,
+    "total_positions": 1031,
+    "event_ct": 226,
+    "win_count": 125,
+    "rank": 2815,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
