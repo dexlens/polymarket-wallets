@@ -590,5 +590,21 @@
     "win_count": 12,
     "rank": 20137,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x900e2ba4b715e8e5088899948355d74c796ff6bf",
+    "trader_name": "TheySeemeBuyingTheyHatin",
+    "tag": "Overall",
+    "overall_gain": 4590.297824891556,
+    "active_positions": 1,
+    "win_amount": 5364.304780891557,
+    "loss_amount": -774.006956,
+    "win_rate": 0.975609756097561,
+    "total_current_value": 654.136557,
+    "total_positions": 124,
+    "event_ct": 82,
+    "win_count": 80,
+    "rank": 20138,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
