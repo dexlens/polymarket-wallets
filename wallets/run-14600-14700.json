@@ -1182,5 +1182,21 @@
     "win_count": 3,
     "rank": 14674,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x819129ecbbebd2bfb718340364c700b2b7978a35",
+    "trader_name": "Kinnaj",
+    "tag": "Overall",
+    "overall_gain": 6691.186948177492,
+    "active_positions": 4,
+    "win_amount": 122219.46674495869,
+    "loss_amount": -115528.27979678125,
+    "win_rate": 0.5974683544303797,
+    "total_current_value": 21.009081439999996,
+    "total_positions": 1647,
+    "event_ct": 1185,
+    "win_count": 708,
+    "rank": 14675,
+    "trader_tags": "1k+ Positions"
   }
 ]
