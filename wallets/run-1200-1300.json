@@ -238,5 +238,21 @@
     "win_count": 11,
     "rank": 1215,
     "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x6df9df733c38913fc94b1acc5ae56b64cf64ff21",
+    "trader_name": "quartzling",
+    "tag": "Overall",
+    "overall_gain": 100240.15010206553,
+    "active_positions": 145,
+    "win_amount": 240168.96082699994,
+    "loss_amount": -139928.81072493448,
+    "win_rate": 0.5966984949020877,
+    "total_current_value": 0,
+    "total_positions": 11966,
+    "event_ct": 6179,
+    "win_count": 3687,
+    "rank": 1216,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
