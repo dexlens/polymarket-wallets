@@ -430,5 +430,21 @@
     "win_count": 2,
     "rank": 2027,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37e053beabee77acc15e641dfe8e395b2b2d024e",
+    "trader_name": "ChinesePro",
+    "tag": "Overall",
+    "overall_gain": 59561.21335921847,
+    "active_positions": 286,
+    "win_amount": 3689576.2323786193,
+    "loss_amount": -3630015.019019401,
+    "win_rate": 0.48504273504273504,
+    "total_current_value": 190.24763571999992,
+    "total_positions": 798,
+    "event_ct": 468,
+    "win_count": 227,
+    "rank": 2028,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
