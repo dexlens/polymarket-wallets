@@ -46,5 +46,21 @@
     "win_count": 128,
     "rank": 9103,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x35e2a316beb63a28dfc866c8cfef06ccb3892953",
+    "trader_name": "BondiBaddie",
+    "tag": "Overall",
+    "overall_gain": 11506.832557968592,
+    "active_positions": 187,
+    "win_amount": 75075.32359453625,
+    "loss_amount": -63568.491036567684,
+    "win_rate": 0.6231617647058824,
+    "total_current_value": 6.195326999999999,
+    "total_positions": 1472,
+    "event_ct": 1088,
+    "win_count": 678,
+    "rank": 9104,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
