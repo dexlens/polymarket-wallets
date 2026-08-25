@@ -158,5 +158,21 @@
     "win_count": 5976,
     "rank": 10410,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x4ebec643ac6e00d23db0df49a7763937462a5422",
+    "trader_name": "okgogo",
+    "tag": "Overall",
+    "overall_gain": 10095.881688761168,
+    "active_positions": 15996,
+    "win_amount": 50250.87509600001,
+    "loss_amount": -40154.99340723887,
+    "win_rate": 0.027129909365558914,
+    "total_current_value": 0,
+    "total_positions": 16994,
+    "event_ct": 16550,
+    "win_count": 449,
+    "rank": 10411,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
