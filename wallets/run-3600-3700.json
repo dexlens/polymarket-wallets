@@ -750,5 +750,21 @@
     "win_count": 111,
     "rank": 3647,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a1d02d6afd90517c504512d8325d032ad3a0704",
+    "trader_name": "NFTS",
+    "tag": "Overall",
+    "overall_gain": 31255.25498350778,
+    "active_positions": 18,
+    "win_amount": 37760.38691118778,
+    "loss_amount": -6505.131927679999,
+    "win_rate": 0.05386740331491713,
+    "total_current_value": 259948.0713444045,
+    "total_positions": 792,
+    "event_ct": 724,
+    "win_count": 39,
+    "rank": 3648,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
