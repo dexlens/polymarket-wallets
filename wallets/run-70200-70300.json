@@ -1278,5 +1278,21 @@
     "win_count": 3,
     "rank": 70281,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xced0799d20951a9cb849f5e23d5a59dcd903e569",
+    "trader_name": "Kolyybroker",
+    "tag": "Overall",
+    "overall_gain": 804.0795322463363,
+    "active_positions": 16,
+    "win_amount": 1904.767892680087,
+    "loss_amount": -1100.688360433751,
+    "win_rate": 0.48214285714285715,
+    "total_current_value": 0.06910856400000001,
+    "total_positions": 62,
+    "event_ct": 56,
+    "win_count": 27,
+    "rank": 70282,
+    "trader_tags": "> 1 year old"
   }
 ]
