@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 5860,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c4c03892f47d3166ee049a48a73d4743a17dd95",
+    "trader_name": "RobertoRubio",
+    "tag": "Overall",
+    "overall_gain": 18358.341881924865,
+    "active_positions": 13,
+    "win_amount": 34754.8247907275,
+    "loss_amount": -16396.482908802624,
+    "win_rate": 0.7916666666666666,
+    "total_current_value": 37985.11456032751,
+    "total_positions": 147,
+    "event_ct": 96,
+    "win_count": 76,
+    "rank": 5861,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
