@@ -686,5 +686,21 @@
     "win_count": 166,
     "rank": 7443,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0ef286b836e4efa2aa3403cfba1baa6c54d8e986",
+    "trader_name": "Lanze",
+    "tag": "Overall",
+    "overall_gain": 14263.542574614128,
+    "active_positions": 8,
+    "win_amount": 14909.322274614127,
+    "loss_amount": -645.7796999999999,
+    "win_rate": 0.8055555555555556,
+    "total_current_value": 0.000125,
+    "total_positions": 39,
+    "event_ct": 36,
+    "win_count": 29,
+    "rank": 7444,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
