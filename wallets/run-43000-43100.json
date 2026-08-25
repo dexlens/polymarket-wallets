@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 43020,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4555dd0bd0808257d92690946d3c83e602bb6403",
+    "trader_name": "cypherpunk",
+    "tag": "Overall",
+    "overall_gain": 1818.176312862144,
+    "active_positions": 0,
+    "win_amount": 1818.176312862144,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 43021,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
