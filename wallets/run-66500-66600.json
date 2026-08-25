@@ -990,5 +990,21 @@
     "win_count": 20,
     "rank": 66563,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4f059ab7e1a5d5b2007be66fa909ef0e4918c839",
+    "trader_name": "aerhgaehthsdz",
+    "tag": "Overall",
+    "overall_gain": 900.9612605677601,
+    "active_positions": 5,
+    "win_amount": 1283.205144941342,
+    "loss_amount": -382.243884373582,
+    "win_rate": 0.75,
+    "total_current_value": 5.0403206250000006,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 66564,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
