@@ -702,5 +702,21 @@
     "win_count": 4,
     "rank": 13144,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x064a11fc5830cb1741a543f5be48068e46f0245d",
+    "trader_name": "elysiian",
+    "tag": "Overall",
+    "overall_gain": 7637.5550554891415,
+    "active_positions": 10,
+    "win_amount": 45020.20076055253,
+    "loss_amount": -37382.645705063376,
+    "win_rate": 0.9594805194805195,
+    "total_current_value": 2852.7830480665,
+    "total_positions": 2008,
+    "event_ct": 1925,
+    "win_count": 1847,
+    "rank": 13145,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
