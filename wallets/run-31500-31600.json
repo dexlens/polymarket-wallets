@@ -718,5 +718,21 @@
     "win_count": 4,
     "rank": 31546,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbaa1d48d131c1fd81afe390dc3754321eb7f60f0",
+    "trader_name": "xiaomingmin",
+    "tag": "Overall",
+    "overall_gain": 2645.825852169188,
+    "active_positions": 199,
+    "win_amount": 17136.548143753713,
+    "loss_amount": -14490.722291584521,
+    "win_rate": 0.7133917396745932,
+    "total_current_value": 55.785090999999994,
+    "total_positions": 845,
+    "event_ct": 799,
+    "win_count": 570,
+    "rank": 31547,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
