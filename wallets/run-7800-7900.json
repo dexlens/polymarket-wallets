@@ -302,5 +302,21 @@
     "win_count": 242,
     "rank": 7819,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4cbc4fde63da195a9b8ba85a1c3c89bed1cee9ce",
+    "trader_name": "fgdfsd",
+    "tag": "Overall",
+    "overall_gain": 13479.813875064108,
+    "active_positions": 1,
+    "win_amount": 13487.773863,
+    "loss_amount": -7.959987935892,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 7820,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
