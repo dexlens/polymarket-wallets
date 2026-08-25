@@ -782,5 +782,21 @@
     "win_count": 8,
     "rank": 5549,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe8d68fd271ad704a55f9bb0e4fc6276ee9adc964",
+    "trader_name": "Little-big",
+    "tag": "Overall",
+    "overall_gain": 19480.02458619597,
+    "active_positions": 32286,
+    "win_amount": 154925.056346,
+    "loss_amount": -135445.0317598039,
+    "win_rate": 0.030192376202351264,
+    "total_current_value": 80.842191675,
+    "total_positions": 34711,
+    "event_ct": 33684,
+    "win_count": 1017,
+    "rank": 5550,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
