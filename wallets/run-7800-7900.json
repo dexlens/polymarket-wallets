@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 7813,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73bb531d8cfabcdd61f9e7bc08e8d2554bc69473",
+    "trader_name": "chivoexpiatorio",
+    "tag": "Overall",
+    "overall_gain": 13494.576099781276,
+    "active_positions": 36,
+    "win_amount": 36847.8929070817,
+    "loss_amount": -23353.316807300424,
+    "win_rate": 0.38235294117647056,
+    "total_current_value": 10203.981622296,
+    "total_positions": 85,
+    "event_ct": 68,
+    "win_count": 26,
+    "rank": 7814,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
