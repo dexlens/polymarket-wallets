@@ -414,5 +414,21 @@
     "win_count": 2,
     "rank": 9326,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a6a2c321023526986adb45338d7b44cd8d7a759",
+    "trader_name": "Pptrad",
+    "tag": "Overall",
+    "overall_gain": 11233.002143436885,
+    "active_positions": 4,
+    "win_amount": 11326.791560035459,
+    "loss_amount": -93.78941659857401,
+    "win_rate": 0.8837209302325582,
+    "total_current_value": 6.3202096,
+    "total_positions": 125,
+    "event_ct": 43,
+    "win_count": 38,
+    "rank": 9327,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
