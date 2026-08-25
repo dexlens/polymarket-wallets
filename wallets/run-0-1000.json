@@ -494,5 +494,21 @@
     "win_count": 240,
     "rank": 31,
     "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "trader_name": "primm",
+    "tag": "Overall",
+    "overall_gain": 2647847.599575942,
+    "active_positions": 273,
+    "win_amount": 8164945.175790346,
+    "loss_amount": -5517097.576214405,
+    "win_rate": 0.47160493827160493,
+    "total_current_value": 0,
+    "total_positions": 553,
+    "event_ct": 405,
+    "win_count": 191,
+    "rank": 32,
+    "trader_tags": "Overall PnL > $1m; Sports PnL > $100k"
   }
 ]
