@@ -414,5 +414,21 @@
     "win_count": 5,
     "rank": 6926,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc6d8c2a89e8bfa438692a61a946f6a7161887b80",
+    "trader_name": "Abis1",
+    "tag": "Overall",
+    "overall_gain": 15481.908765626515,
+    "active_positions": 61,
+    "win_amount": 22491.048909066423,
+    "loss_amount": -7009.140143439912,
+    "win_rate": 0.575,
+    "total_current_value": 0.077334,
+    "total_positions": 202,
+    "event_ct": 40,
+    "win_count": 23,
+    "rank": 6927,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
