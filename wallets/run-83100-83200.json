@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 83154,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89d1f56fac20aa7fbc9cdfef69064921c7d3b660",
+    "trader_name": "SunnySunday",
+    "tag": "Overall",
+    "overall_gain": 580.0790489718842,
+    "active_positions": 8,
+    "win_amount": 1336.869546568882,
+    "loss_amount": -756.790497596998,
+    "win_rate": 0.625,
+    "total_current_value": 6563.7903922615005,
+    "total_positions": 18,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 83155,
+    "trader_tags": ""
   }
 ]
