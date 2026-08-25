@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 8365,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x282f3c31fd496160d24fa20ec37c6f21cda22371",
+    "trader_name": "smolbetta",
+    "tag": "Overall",
+    "overall_gain": 12538.961223472,
+    "active_positions": 0,
+    "win_amount": 13228.575844471998,
+    "loss_amount": -689.6146210000002,
+    "win_rate": 0.456,
+    "total_current_value": 0.008,
+    "total_positions": 226,
+    "event_ct": 125,
+    "win_count": 57,
+    "rank": 8366,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
