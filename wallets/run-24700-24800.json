@@ -1422,5 +1422,21 @@
     "win_count": 4,
     "rank": 24790,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb683dbf9417d61adcf5bb69883cc9c433e5cfecd",
+    "trader_name": "WantToGamble",
+    "tag": "Overall",
+    "overall_gain": 3578.5151251760335,
+    "active_positions": 0,
+    "win_amount": 5760.362044036034,
+    "loss_amount": -2181.84691886,
+    "win_rate": 0.4117647058823529,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 17,
+    "win_count": 7,
+    "rank": 24791,
+    "trader_tags": "> 1 year old"
   }
 ]
