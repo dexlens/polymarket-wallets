@@ -686,5 +686,21 @@
     "win_count": 11,
     "rank": 2643,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x38c6fd3ae5db3217840f71541c949011b651e912",
+    "trader_name": "FloatyBoi",
+    "tag": "Overall",
+    "overall_gain": 44120.213205401735,
+    "active_positions": 2,
+    "win_amount": 120685.8974183629,
+    "loss_amount": -76565.68421296123,
+    "win_rate": 0.630105900151286,
+    "total_current_value": 9.123368999999995,
+    "total_positions": 3558,
+    "event_ct": 2644,
+    "win_count": 1666,
+    "rank": 2644,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
