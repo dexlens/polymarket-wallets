@@ -334,5 +334,21 @@
     "win_count": 55,
     "rank": 5421,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x65d973bf66f0377d5ea10680595100fe301d611d",
+    "trader_name": "selinacorrup",
+    "tag": "Overall",
+    "overall_gain": 19958.89,
+    "active_positions": 0,
+    "win_amount": 19958.89,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 5422,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
