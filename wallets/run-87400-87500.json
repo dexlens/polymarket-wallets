@@ -574,5 +574,21 @@
     "win_count": 2,
     "rank": 87437,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x98e87e34596d200b361639146f6907b3f0b0b3ed",
+    "trader_name": "dfgmfgj",
+    "tag": "Overall",
+    "overall_gain": 519.742303510369,
+    "active_positions": 5,
+    "win_amount": 527.4127942345539,
+    "loss_amount": -7.670490724184999,
+    "win_rate": 0.7,
+    "total_current_value": 20.661131904,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 87438,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
