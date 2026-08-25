@@ -830,5 +830,21 @@
     "win_count": 5,
     "rank": 75453,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x42b904c89e4512644c1e9f534168e46a9cffded7",
+    "trader_name": "ruteni",
+    "tag": "Overall",
+    "overall_gain": 707.4703091115299,
+    "active_positions": 7,
+    "win_amount": 4952.449744425265,
+    "loss_amount": -4244.979435313735,
+    "win_rate": 0.7076923076923077,
+    "total_current_value": 1159.1711901990002,
+    "total_positions": 139,
+    "event_ct": 65,
+    "win_count": 46,
+    "rank": 75454,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
