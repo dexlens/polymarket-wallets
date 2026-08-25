@@ -750,5 +750,21 @@
     "win_count": 10,
     "rank": 26048,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4ede9acf977b87e9e2d47c020dda817e10cada07",
+    "trader_name": "Brendajfgjfg",
+    "tag": "Overall",
+    "overall_gain": 3361.7500000000005,
+    "active_positions": 1,
+    "win_amount": 3737.6700000000005,
+    "loss_amount": -375.92,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 26049,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
