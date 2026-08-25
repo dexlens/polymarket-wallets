@@ -1118,5 +1118,21 @@
     "win_count": 4,
     "rank": 53571,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9dfc70b7819bef3c03913baed17d146db623f49d",
+    "trader_name": "0xAmbien",
+    "tag": "Overall",
+    "overall_gain": 1321.1576527873412,
+    "active_positions": 5,
+    "win_amount": 1634.3912923605328,
+    "loss_amount": -313.233639573192,
+    "win_rate": 0.4,
+    "total_current_value": 0.007953,
+    "total_positions": 47,
+    "event_ct": 30,
+    "win_count": 12,
+    "rank": 53572,
+    "trader_tags": ""
   }
 ]
