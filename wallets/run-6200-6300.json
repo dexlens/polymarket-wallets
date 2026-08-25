@@ -766,5 +766,21 @@
     "win_count": 4,
     "rank": 6248,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x044e852ad3399ea51e8e177b1292b68cbf259599",
+    "trader_name": "allenXboss66",
+    "tag": "Overall",
+    "overall_gain": 17150.338746198024,
+    "active_positions": 28,
+    "win_amount": 35037.587046198016,
+    "loss_amount": -17887.2483,
+    "win_rate": 0.5094339622641509,
+    "total_current_value": 13.030022,
+    "total_positions": 54,
+    "event_ct": 53,
+    "win_count": 27,
+    "rank": 6249,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
