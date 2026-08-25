@@ -510,5 +510,21 @@
     "win_count": 7,
     "rank": 21232,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd75780948f9fd2b6cfe6596692e499fe5c442725",
+    "trader_name": "Doosha",
+    "tag": "Overall",
+    "overall_gain": 4300.016126226235,
+    "active_positions": 4,
+    "win_amount": 4400.014777041183,
+    "loss_amount": -99.998650814948,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.00012600000000000003,
+    "total_positions": 13,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 21233,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
