@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 63851,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29eb4fd96c7020d5ecd505a007c5d7b62554f8d9",
+    "trader_name": "carestomp",
+    "tag": "Overall",
+    "overall_gain": 978,
+    "active_positions": 1,
+    "win_amount": 993,
+    "loss_amount": -15,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 63852,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
