@@ -446,5 +446,21 @@
     "win_count": 5,
     "rank": 38929,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f4f56a47181367550d09a3789d3536c7e849962",
+    "trader_name": "sarasea",
+    "tag": "Overall",
+    "overall_gain": 2058.2103140502936,
+    "active_positions": 3,
+    "win_amount": 2090.576360169922,
+    "loss_amount": -32.366046119627995,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 1493.1319829999998,
+    "total_positions": 45,
+    "event_ct": 29,
+    "win_count": 26,
+    "rank": 38930,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
