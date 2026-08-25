@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 73278,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x211c9271945fea1ee561aff9866d68e673f607cc",
+    "trader_name": "ethereum",
+    "tag": "Overall",
+    "overall_gain": 739.716805732394,
+    "active_positions": 11,
+    "win_amount": 781.79857718381,
+    "loss_amount": -42.081771451416,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 191.61202731,
+    "total_positions": 123,
+    "event_ct": 120,
+    "win_count": 110,
+    "rank": 73279,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
