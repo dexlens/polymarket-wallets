@@ -78,5 +78,21 @@
     "win_count": 1,
     "rank": 30306,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x209c2121071aec05c38a48357c954371fe0a8381",
+    "trader_name": "boboff",
+    "tag": "Overall",
+    "overall_gain": 2783.4715376681183,
+    "active_positions": 15,
+    "win_amount": 4158.735302867677,
+    "loss_amount": -1375.2637651995587,
+    "win_rate": 0.8070175438596491,
+    "total_current_value": 8582.883320515,
+    "total_positions": 121,
+    "event_ct": 57,
+    "win_count": 46,
+    "rank": 30307,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
