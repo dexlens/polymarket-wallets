@@ -1086,5 +1086,21 @@
     "win_count": 20,
     "rank": 7568,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4481732472a869fb9983afded0c877b1b38e59f9",
+    "trader_name": "Dioga",
+    "tag": "Overall",
+    "overall_gain": 14011.527138,
+    "active_positions": 0,
+    "win_amount": 14011.527138,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7569,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
