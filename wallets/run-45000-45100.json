@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 45021,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcc7ec3a40e7a2afe461e8100bb2ece96e82657e1",
+    "trader_name": "dol",
+    "tag": "Overall",
+    "overall_gain": 1712.5128273306761,
+    "active_positions": 1,
+    "win_amount": 1729.9111801712602,
+    "loss_amount": -17.398352840584,
+    "win_rate": 0.8055555555555556,
+    "total_current_value": 2207.237908159,
+    "total_positions": 41,
+    "event_ct": 36,
+    "win_count": 29,
+    "rank": 45022,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
