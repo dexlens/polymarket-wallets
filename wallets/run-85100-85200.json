@@ -734,5 +734,21 @@
     "win_count": 60,
     "rank": 85147,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x159de8cf9619dca46f0143e5ca3368fa5807c3cc",
+    "trader_name": "Eyeendedkenny",
+    "tag": "Overall",
+    "overall_gain": 550.122140125574,
+    "active_positions": 20,
+    "win_amount": 583.096100550585,
+    "loss_amount": -32.97396042501099,
+    "win_rate": 0.7358490566037735,
+    "total_current_value": 1650.2313759935,
+    "total_positions": 67,
+    "event_ct": 53,
+    "win_count": 39,
+    "rank": 85148,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
