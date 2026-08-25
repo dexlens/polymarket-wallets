@@ -430,5 +430,21 @@
     "win_count": 2,
     "rank": 69728,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4e6d93c3716b758993ceb695f783c546343c53e3",
+    "trader_name": "jerry002fa",
+    "tag": "Overall",
+    "overall_gain": 816.9664623840125,
+    "active_positions": 3,
+    "win_amount": 1585.9016332638416,
+    "loss_amount": -768.935170879829,
+    "win_rate": 0.8596491228070176,
+    "total_current_value": 6185.260328686,
+    "total_positions": 82,
+    "event_ct": 57,
+    "win_count": 49,
+    "rank": 69729,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
