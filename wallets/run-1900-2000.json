@@ -942,5 +942,21 @@
     "win_count": 25,
     "rank": 1959,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa81eefec9c08fa157d855f1ac5caf8feab1903dc",
+    "trader_name": "Snow-White",
+    "tag": "Overall",
+    "overall_gain": 61628.37825294482,
+    "active_positions": 344,
+    "win_amount": 219040.55879064737,
+    "loss_amount": -157412.1805377026,
+    "win_rate": 0.6170212765957447,
+    "total_current_value": 189060.4253744769,
+    "total_positions": 1227,
+    "event_ct": 329,
+    "win_count": 203,
+    "rank": 1960,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
