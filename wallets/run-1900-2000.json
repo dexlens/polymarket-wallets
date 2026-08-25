@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 1979,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3de18b0d551ed1d455b5724494eff3c73070563f",
+    "trader_name": "MONEYMONEYPLS",
+    "tag": "Overall",
+    "overall_gain": 61056.46355234297,
+    "active_positions": 1,
+    "win_amount": 61056.46355234297,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 106.382966,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 1980,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
