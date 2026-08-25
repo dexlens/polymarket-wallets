@@ -382,5 +382,21 @@
     "win_count": 19,
     "rank": 1824,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb6e9b13eff71f87342e8baeff56ae2afb3b53008",
+    "trader_name": "altsi",
+    "tag": "Overall",
+    "overall_gain": 66967.92314769185,
+    "active_positions": 2,
+    "win_amount": 313432.7643823511,
+    "loss_amount": -246464.8412346592,
+    "win_rate": 0.5600125845524618,
+    "total_current_value": 1155.46548412,
+    "total_positions": 11411,
+    "event_ct": 6357,
+    "win_count": 3560,
+    "rank": 1825,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
