@@ -94,5 +94,21 @@
     "win_count": 63,
     "rank": 48107,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x834965f34911dfda31d5b313b5def15e6348c99d",
+    "trader_name": "llh",
+    "tag": "Overall",
+    "overall_gain": 1567.81410413748,
+    "active_positions": 13,
+    "win_amount": 3267.6970211159687,
+    "loss_amount": -1699.8829169784892,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 407763.80807691294,
+    "total_positions": 59,
+    "event_ct": 39,
+    "win_count": 30,
+    "rank": 48108,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
