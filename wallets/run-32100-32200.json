@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 32113,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0d4fe7605c5bb25c939ca8b14985cec81fb1cded",
+    "trader_name": "qreq",
+    "tag": "Overall",
+    "overall_gain": 2589.6546593742164,
+    "active_positions": 3,
+    "win_amount": 3254.3156054857163,
+    "loss_amount": -664.6609461115,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.0005330685,
+    "total_positions": 15,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 32114,
+    "trader_tags": ""
   }
 ]
