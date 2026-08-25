@@ -750,5 +750,21 @@
     "win_count": 1833,
     "rank": 2147,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x79a1e4587a7144a882d62e94edc3c7ad93a55801",
+    "trader_name": "chambers",
+    "tag": "Overall",
+    "overall_gain": 56210.1681740926,
+    "active_positions": 0,
+    "win_amount": 158082.6798163224,
+    "loss_amount": -101872.51164222979,
+    "win_rate": 0.6820083682008368,
+    "total_current_value": 0.088618,
+    "total_positions": 618,
+    "event_ct": 239,
+    "win_count": 163,
+    "rank": 2148,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
