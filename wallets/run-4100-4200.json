@@ -1470,5 +1470,21 @@
     "win_count": 25,
     "rank": 4192,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x775cbd2591c2d98d93eec64ce6299e0e9fd8ef1a",
+    "trader_name": "sandrarice",
+    "tag": "Overall",
+    "overall_gain": 26602.18071,
+    "active_positions": 1,
+    "win_amount": 26604.473001,
+    "loss_amount": -2.2922909999999996,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 40,
+    "total_positions": 16,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 4193,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
