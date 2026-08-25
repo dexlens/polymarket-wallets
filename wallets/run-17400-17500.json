@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 17499,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72a4341f23069ddd265a4fad237e1252bbb99dc5",
+    "trader_name": "Hua151",
+    "tag": "Overall",
+    "overall_gain": 5360.485000000001,
+    "active_positions": 1,
+    "win_amount": 5365.485000000001,
+    "loss_amount": -5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 17500,
+    "trader_tags": ""
   }
 ]
