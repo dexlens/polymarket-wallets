@@ -702,5 +702,21 @@
     "win_count": 169,
     "rank": 14744,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x759597dd259934d44107cd65fa2c0f56f6758c70",
+    "trader_name": "vivienneface",
+    "tag": "Overall",
+    "overall_gain": 6653.410000000002,
+    "active_positions": 1,
+    "win_amount": 6653.410000000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 7236.945000000001,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 14745,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
