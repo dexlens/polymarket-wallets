@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 80373,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89d8eea9e34d623e3c8a1edf69e035d6f7f7d79e",
+    "trader_name": "TrumpL",
+    "tag": "Overall",
+    "overall_gain": 624.4245929184789,
+    "active_positions": 7,
+    "win_amount": 874.5890795191077,
+    "loss_amount": -250.16448660062903,
+    "win_rate": 0.7951807228915663,
+    "total_current_value": 0.018349999999999998,
+    "total_positions": 90,
+    "event_ct": 83,
+    "win_count": 66,
+    "rank": 80374,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
