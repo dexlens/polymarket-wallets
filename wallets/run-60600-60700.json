@@ -782,5 +782,21 @@
     "win_count": 85,
     "rank": 60650,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3415544e9f1be8966d49a20e665ca28f9a20afb7",
+    "trader_name": "ber5y35623q4",
+    "tag": "Overall",
+    "overall_gain": 1057.14,
+    "active_positions": 0,
+    "win_amount": 1057.14,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 60651,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
