@@ -286,5 +286,21 @@
     "win_count": 8,
     "rank": 40819,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7a09f3c5bba3a9ad4f4d77fc588cf8cb0285ce73",
+    "trader_name": "adibouisback",
+    "tag": "Overall",
+    "overall_gain": 1945.376426854184,
+    "active_positions": 0,
+    "win_amount": 1945.376426854184,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004229,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 40820,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
