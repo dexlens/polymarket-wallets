@@ -766,5 +766,21 @@
     "win_count": 8,
     "rank": 21948,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x26f3741741e77db35988c8c88fa6d5b307178e37",
+    "trader_name": "feifei334",
+    "tag": "Overall",
+    "overall_gain": 4131.264210316515,
+    "active_positions": 2,
+    "win_amount": 8731.815985000001,
+    "loss_amount": -4600.551774683485,
+    "win_rate": 0.948905109489051,
+    "total_current_value": 0,
+    "total_positions": 137,
+    "event_ct": 137,
+    "win_count": 130,
+    "rank": 21949,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
