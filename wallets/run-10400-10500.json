@@ -654,5 +654,21 @@
     "win_count": 1653,
     "rank": 10441,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xb24ecfea1ce3c27e45211044f04da8d6eaf8c0be",
+    "trader_name": "userol",
+    "tag": "Overall",
+    "overall_gain": 10068.595253846132,
+    "active_positions": 5,
+    "win_amount": 12971.028411631025,
+    "loss_amount": -2902.4331577848907,
+    "win_rate": 0.8582677165354331,
+    "total_current_value": 11173.576463991001,
+    "total_positions": 222,
+    "event_ct": 127,
+    "win_count": 109,
+    "rank": 10442,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
