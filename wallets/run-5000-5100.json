@@ -1390,5 +1390,21 @@
     "win_count": 7,
     "rank": 5087,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1cdd071bb612de6d66d0c882b676c663697de595",
+    "trader_name": "Lavincey",
+    "tag": "Overall",
+    "overall_gain": 21309.75899618608,
+    "active_positions": 9077,
+    "win_amount": 77366.0231358009,
+    "loss_amount": -56056.2641396148,
+    "win_rate": 0.4372179453145739,
+    "total_current_value": 16951.537272275993,
+    "total_positions": 26727,
+    "event_ct": 7534,
+    "win_count": 3294,
+    "rank": 5088,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
