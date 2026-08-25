@@ -1070,5 +1070,21 @@
     "win_count": 3,
     "rank": 68368,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e9e4cb0d20c6da87d2d68ec9157104f803eb513",
+    "trader_name": "ebisu",
+    "tag": "Overall",
+    "overall_gain": 851.7649535188292,
+    "active_positions": 13,
+    "win_amount": 2769.833288917267,
+    "loss_amount": -1918.0683353984382,
+    "win_rate": 0.75,
+    "total_current_value": 5384.776336627501,
+    "total_positions": 41,
+    "event_ct": 32,
+    "win_count": 24,
+    "rank": 68369,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
