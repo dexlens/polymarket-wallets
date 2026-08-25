@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 76314,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x83c6a75856129a4a64244903aa4b78ff661ddd9b",
+    "trader_name": "fsefa",
+    "tag": "Overall",
+    "overall_gain": 694.0293134198241,
+    "active_positions": 2,
+    "win_amount": 859.5234356781791,
+    "loss_amount": -165.49412225835502,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 1015.818179,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 76315,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
