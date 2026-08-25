@@ -158,5 +158,21 @@
     "win_count": 67,
     "rank": 10010,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa98daaaa52d051ecf572bd640d4abb29a981fe62",
+    "trader_name": "JIAJIA1",
+    "tag": "Overall",
+    "overall_gain": 10473.044562714715,
+    "active_positions": 10,
+    "win_amount": 14374.687939958583,
+    "loss_amount": -3901.643377243868,
+    "win_rate": 0.4838709677419355,
+    "total_current_value": 0.033662,
+    "total_positions": 52,
+    "event_ct": 31,
+    "win_count": 15,
+    "rank": 10011,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
