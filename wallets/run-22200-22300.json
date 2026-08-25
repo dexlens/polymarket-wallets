@@ -910,5 +910,21 @@
     "win_count": 81,
     "rank": 22257,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x298e45e57198441a69875f47925cd949d0d31240",
+    "trader_name": "rvty",
+    "tag": "Overall",
+    "overall_gain": 4063.158807,
+    "active_positions": 2,
+    "win_amount": 5078.158807000001,
+    "loss_amount": -1015,
+    "win_rate": 0.9714285714285714,
+    "total_current_value": 15.065,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 34,
+    "rank": 22258,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
