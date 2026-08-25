@@ -1134,5 +1134,21 @@
     "win_count": 21,
     "rank": 4571,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41816fc1ebdfeb33f6356f2655ab499253b3de86",
+    "trader_name": "BobInvestments",
+    "tag": "Overall",
+    "overall_gain": 24102.527058339416,
+    "active_positions": 18,
+    "win_amount": 38968.129937473925,
+    "loss_amount": -14865.602879134523,
+    "win_rate": 0.7478260869565218,
+    "total_current_value": 15584.122804903001,
+    "total_positions": 260,
+    "event_ct": 115,
+    "win_count": 86,
+    "rank": 4572,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
