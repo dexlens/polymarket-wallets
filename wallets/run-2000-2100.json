@@ -494,5 +494,21 @@
     "win_count": 117,
     "rank": 2031,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa0bca9bdd8540da95060ed1fafb78aa03835d428",
+    "trader_name": "Porx",
+    "tag": "Overall",
+    "overall_gain": 59418.662622134034,
+    "active_positions": 115,
+    "win_amount": 95756.62956206014,
+    "loss_amount": -36337.96693992606,
+    "win_rate": 0.6882629107981221,
+    "total_current_value": 22063.949474283007,
+    "total_positions": 2062,
+    "event_ct": 1065,
+    "win_count": 733,
+    "rank": 2032,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
