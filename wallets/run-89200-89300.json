@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 89267,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8017a7ab3812c352185907182c110167c7bb5288",
+    "trader_name": "nixale",
+    "tag": "Overall",
+    "overall_gain": 498.53942645291806,
+    "active_positions": 3,
+    "win_amount": 688.53444427604,
+    "loss_amount": -189.995017823122,
+    "win_rate": 0.6,
+    "total_current_value": 0.02818,
+    "total_positions": 10,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 89268,
+    "trader_tags": ""
   }
 ]
