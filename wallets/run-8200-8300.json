@@ -1294,5 +1294,21 @@
     "win_count": 21,
     "rank": 8281,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x883faa52837500c47ea037647102a853c8d2aad2",
+    "trader_name": "jabKJ",
+    "tag": "Overall",
+    "overall_gain": 12695.476427997644,
+    "active_positions": 1,
+    "win_amount": 41802.42046941299,
+    "loss_amount": -29106.944041415343,
+    "win_rate": 0.50625,
+    "total_current_value": 0.130384,
+    "total_positions": 167,
+    "event_ct": 160,
+    "win_count": 81,
+    "rank": 8282,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
