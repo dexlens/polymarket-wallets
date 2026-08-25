@@ -782,5 +782,21 @@
     "win_count": 2225,
     "rank": 7349,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x6ab434242be94f834de8d38ba2de0b4cbfdaa81b",
+    "trader_name": "STAYCALM",
+    "tag": "Overall",
+    "overall_gain": 14475.191114483121,
+    "active_positions": 33,
+    "win_amount": 33345.91759580918,
+    "loss_amount": -18870.72648132606,
+    "win_rate": 0.9581310679611651,
+    "total_current_value": 13.459680464999995,
+    "total_positions": 4793,
+    "event_ct": 3296,
+    "win_count": 3158,
+    "rank": 7350,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
