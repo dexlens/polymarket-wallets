@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 52692,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04dbc24c831dc704cf6a295a1f44a6c8fc65a2dc",
+    "trader_name": "pentagonworker",
+    "tag": "Overall",
+    "overall_gain": 1360.5494726030897,
+    "active_positions": 6,
+    "win_amount": 3884.7535815890324,
+    "loss_amount": -2524.204108985942,
+    "win_rate": 0.32,
+    "total_current_value": 0.082506479,
+    "total_positions": 45,
+    "event_ct": 25,
+    "win_count": 8,
+    "rank": 52693,
+    "trader_tags": ""
   }
 ]
