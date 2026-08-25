@@ -126,5 +126,21 @@
     "win_count": 238,
     "rank": 4408,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x08cf0b0fec3d42d9920bb0dfbc49fde635088cbc",
+    "trader_name": "HondaCivic2",
+    "tag": "Overall",
+    "overall_gain": 25233.32478113209,
+    "active_positions": 0,
+    "win_amount": 29224.976999864593,
+    "loss_amount": -3991.652218732507,
+    "win_rate": 0.7003610108303249,
+    "total_current_value": 0.5481356814999998,
+    "total_positions": 1607,
+    "event_ct": 554,
+    "win_count": 388,
+    "rank": 4409,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
