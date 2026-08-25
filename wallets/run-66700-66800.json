@@ -526,5 +526,21 @@
     "win_count": 2,
     "rank": 66734,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c185aa7ad3cb707475bfeb8e09c45f7fe783d3b",
+    "trader_name": "Valtieri",
+    "tag": "Overall",
+    "overall_gain": 896.162061062206,
+    "active_positions": 1,
+    "win_amount": 1548.3875640885271,
+    "loss_amount": -652.225503026321,
+    "win_rate": 0.4,
+    "total_current_value": 0.016483,
+    "total_positions": 11,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 66735,
+    "trader_tags": "> 1 year old"
   }
 ]
