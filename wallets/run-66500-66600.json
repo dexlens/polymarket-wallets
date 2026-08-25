@@ -1086,5 +1086,21 @@
     "win_count": 55,
     "rank": 66569,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7086fc5f2650740ec68367c0f2d08ea5acf798f4",
+    "trader_name": "0xdeus",
+    "tag": "Overall",
+    "overall_gain": 900.7909760647749,
+    "active_positions": 9,
+    "win_amount": 1177.847890207389,
+    "loss_amount": -277.056914142614,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.026289186,
+    "total_positions": 23,
+    "event_ct": 14,
+    "win_count": 8,
+    "rank": 66570,
+    "trader_tags": ""
   }
 ]
