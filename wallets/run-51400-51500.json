@@ -478,5 +478,21 @@
     "win_count": 10,
     "rank": 51431,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x126ad5e7dc610e84ae1fad04f86e75984d77a073",
+    "trader_name": "yuefeng",
+    "tag": "Overall",
+    "overall_gain": 1418.0993381681546,
+    "active_positions": 68,
+    "win_amount": 8274.830530055477,
+    "loss_amount": -6856.731191887325,
+    "win_rate": 0.8240418118466899,
+    "total_current_value": 19.27287352,
+    "total_positions": 649,
+    "event_ct": 574,
+    "win_count": 473,
+    "rank": 51432,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
