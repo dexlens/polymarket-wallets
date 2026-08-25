@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 81513,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72c416ff04d74d81975e43c96122d0584358294d",
+    "trader_name": "D1mbe4",
+    "tag": "Overall",
+    "overall_gain": 606.0916004767266,
+    "active_positions": 2,
+    "win_amount": 2677.920615,
+    "loss_amount": -2071.829014523273,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 4,
+    "rank": 81514,
+    "trader_tags": "> 1 year old"
   }
 ]
