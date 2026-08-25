@@ -862,5 +862,21 @@
     "win_count": 4,
     "rank": 65255,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4526d9b4e3f9c48b0482e283e0d1ab2326b54e5a",
+    "trader_name": "xiaoxiaohu",
+    "tag": "Overall",
+    "overall_gain": 937.6,
+    "active_positions": 0,
+    "win_amount": 940,
+    "loss_amount": -2.4,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 65256,
+    "trader_tags": "< 30 days old"
   }
 ]
