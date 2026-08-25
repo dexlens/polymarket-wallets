@@ -238,5 +238,21 @@
     "win_count": 5,
     "rank": 10715,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f9e15f39bbd5d163b0eacf0fbef647ced9e4f1a",
+    "trader_name": "MAGAlaska",
+    "tag": "Overall",
+    "overall_gain": 9890.088300161922,
+    "active_positions": 95,
+    "win_amount": 11086.8622075642,
+    "loss_amount": -1196.7739074022788,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 17707.6156096265,
+    "total_positions": 122,
+    "event_ct": 65,
+    "win_count": 50,
+    "rank": 10716,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
