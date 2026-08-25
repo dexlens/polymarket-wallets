@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 47540,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6319c22b4caa1563452baa155d8b1b084d003ba1",
+    "trader_name": "NeonRift",
+    "tag": "Overall",
+    "overall_gain": 1592.713425430445,
+    "active_positions": 2,
+    "win_amount": 5523.863967479284,
+    "loss_amount": -3931.150542048838,
+    "win_rate": 0.5961538461538461,
+    "total_current_value": 3256.5046150000003,
+    "total_positions": 69,
+    "event_ct": 52,
+    "win_count": 31,
+    "rank": 47541,
+    "trader_tags": "> 1 year old"
   }
 ]
