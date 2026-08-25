@@ -446,5 +446,21 @@
     "win_count": 5,
     "rank": 84029,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ff015bf1e504221048031bd2b0f56e41698440d",
+    "trader_name": "lukeco",
+    "tag": "Overall",
+    "overall_gain": 565.872164212062,
+    "active_positions": 2,
+    "win_amount": 618.9541746120619,
+    "loss_amount": -53.0820104,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 7,
+    "rank": 84030,
+    "trader_tags": "> 1 year old"
   }
 ]
