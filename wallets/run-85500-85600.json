@@ -254,5 +254,21 @@
     "win_count": 15,
     "rank": 85517,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2eaa507e09371beebec7d71de93de4d075f3c33e",
+    "trader_name": "Tenebroustgb",
+    "tag": "Overall",
+    "overall_gain": 544.98017813,
+    "active_positions": 1,
+    "win_amount": 1420.35,
+    "loss_amount": -875.3698218699999,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 85518,
+    "trader_tags": "< 30 days old"
   }
 ]
