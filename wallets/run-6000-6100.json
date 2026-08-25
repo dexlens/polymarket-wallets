@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 6090,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeb76811679346cff93cd52a8058a6a25d0fbc435",
+    "trader_name": "Lomyn",
+    "tag": "Overall",
+    "overall_gain": 17614.13035701373,
+    "active_positions": 4,
+    "win_amount": 17890.874751,
+    "loss_amount": -276.74439398626896,
+    "win_rate": 0.84375,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 32,
+    "win_count": 27,
+    "rank": 6091,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
