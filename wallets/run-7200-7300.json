@@ -302,5 +302,21 @@
     "win_count": 946,
     "rank": 7219,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x05f08b3cb1bc213ba5ce50013141c0a643372469",
+    "trader_name": "algfilt",
+    "tag": "Overall",
+    "overall_gain": 14793.33310314631,
+    "active_positions": 34,
+    "win_amount": 18070.845696689274,
+    "loss_amount": -3277.5125935429633,
+    "win_rate": 0.6578947368421053,
+    "total_current_value": 7475.7047381525,
+    "total_positions": 63,
+    "event_ct": 38,
+    "win_count": 25,
+    "rank": 7220,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
