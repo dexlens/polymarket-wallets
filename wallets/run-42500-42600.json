@@ -430,5 +430,21 @@
     "win_count": 3,
     "rank": 42528,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf8bfe9cb05f40929279711825a883f36631fa760",
+    "trader_name": "aspera",
+    "tag": "Overall",
+    "overall_gain": 1846.8840707403251,
+    "active_positions": 4,
+    "win_amount": 25426.31212625172,
+    "loss_amount": -23579.428055511395,
+    "win_rate": 0.2777777777777778,
+    "total_current_value": 0.018903,
+    "total_positions": 20,
+    "event_ct": 18,
+    "win_count": 5,
+    "rank": 42529,
+    "trader_tags": ""
   }
 ]
