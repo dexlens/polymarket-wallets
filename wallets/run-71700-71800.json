@@ -638,5 +638,21 @@
     "win_count": 15,
     "rank": 71741,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x458c5bfd9bff538f98216a67b156832e7486c504",
+    "trader_name": "88888stupidmoney",
+    "tag": "Overall",
+    "overall_gain": 772.5577221669531,
+    "active_positions": 357,
+    "win_amount": 4389.497108700052,
+    "loss_amount": -3616.9393865331,
+    "win_rate": 0.8128400435255713,
+    "total_current_value": 17766.510759628003,
+    "total_positions": 2932,
+    "event_ct": 919,
+    "win_count": 747,
+    "rank": 71742,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
