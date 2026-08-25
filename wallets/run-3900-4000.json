@@ -734,5 +734,21 @@
     "win_count": 41,
     "rank": 3946,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3248b2307727443af8e4a8fbd06c2ba8161893da",
+    "trader_name": "ht852",
+    "tag": "Overall",
+    "overall_gain": 28511.712763869702,
+    "active_positions": 11,
+    "win_amount": 80771.340255,
+    "loss_amount": -52259.6274911303,
+    "win_rate": 0.4090909090909091,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 22,
+    "win_count": 9,
+    "rank": 3947,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
