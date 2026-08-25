@@ -638,5 +638,21 @@
     "win_count": 121,
     "rank": 9540,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5285d64266a4371611259999e8639cff0d488976",
+    "trader_name": "ThatOtherGuy",
+    "tag": "Overall",
+    "overall_gain": 10976.046603847612,
+    "active_positions": 4,
+    "win_amount": 14768.603932416123,
+    "loss_amount": -3792.5573285685123,
+    "win_rate": 0.8043478260869565,
+    "total_current_value": 3103.3449274249997,
+    "total_positions": 57,
+    "event_ct": 46,
+    "win_count": 37,
+    "rank": 9541,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
