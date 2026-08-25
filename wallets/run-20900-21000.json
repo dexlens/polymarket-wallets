@@ -654,5 +654,21 @@
     "win_count": 4,
     "rank": 20941,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa1147172edd6ce4065e91bdcfa69d97e44016cff",
+    "trader_name": "PiperLee",
+    "tag": "Overall",
+    "overall_gain": 4378.214858249999,
+    "active_positions": 4,
+    "win_amount": 7650.606210999999,
+    "loss_amount": -3272.39135275,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 1.81863925,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 20942,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
