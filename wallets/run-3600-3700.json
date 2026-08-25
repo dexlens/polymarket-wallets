@@ -846,5 +846,21 @@
     "win_count": 2,
     "rank": 3653,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc613e6707bd115e5c04d303d944568232697662b",
+    "trader_name": "Evador",
+    "tag": "Overall",
+    "overall_gain": 31206.304040972915,
+    "active_positions": 3280,
+    "win_amount": 40192.705107934446,
+    "loss_amount": -8986.401066961518,
+    "win_rate": 0.619513418610484,
+    "total_current_value": 121.15087806899997,
+    "total_positions": 17335,
+    "event_ct": 3987,
+    "win_count": 2470,
+    "rank": 3654,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
