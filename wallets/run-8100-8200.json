@@ -94,5 +94,21 @@
     "win_count": 1,
     "rank": 8106,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67e65bd160df9306af70f0f4d211b2308e6686ed",
+    "trader_name": "SWISSHORSE",
+    "tag": "Overall",
+    "overall_gain": 12976.073889391791,
+    "active_positions": 1936,
+    "win_amount": 82003.88170931331,
+    "loss_amount": -69027.80781992155,
+    "win_rate": 0.5252173913043479,
+    "total_current_value": 38507.106527671014,
+    "total_positions": 5908,
+    "event_ct": 2300,
+    "win_count": 1208,
+    "rank": 8107,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
