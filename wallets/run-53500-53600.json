@@ -1342,5 +1342,21 @@
     "win_count": 78,
     "rank": 53585,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x06cd716d7df919ee0bd60a534545f4b53d2ad44e",
+    "trader_name": "SwiftAxe504",
+    "tag": "Overall",
+    "overall_gain": 1320.7926002398553,
+    "active_positions": 2,
+    "win_amount": 1320.7933517398553,
+    "loss_amount": -0.000751499999999794,
+    "win_rate": 0.9565217391304348,
+    "total_current_value": 3.9928616525000002,
+    "total_positions": 24,
+    "event_ct": 23,
+    "win_count": 22,
+    "rank": 53586,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
