@@ -750,5 +750,21 @@
     "win_count": 7,
     "rank": 15447,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6acd2951d273310d515ea43f4e2021d5c792d838",
+    "trader_name": "Singa",
+    "tag": "Overall",
+    "overall_gain": 6266.003922866999,
+    "active_positions": 3,
+    "win_amount": 9775.611882347,
+    "loss_amount": -3509.60795948,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 33.959967,
+    "total_positions": 27,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 15448,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
