@@ -270,5 +270,21 @@
     "win_count": 11,
     "rank": 77218,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x87af124d8a142ef1ef423c176032b975483304fc",
+    "trader_name": "phoenix-cluster",
+    "tag": "Overall",
+    "overall_gain": 677.8798950138641,
+    "active_positions": 9,
+    "win_amount": 1845.0119570707502,
+    "loss_amount": -1167.132062056886,
+    "win_rate": 0.24,
+    "total_current_value": 0.06558681250000001,
+    "total_positions": 41,
+    "event_ct": 25,
+    "win_count": 6,
+    "rank": 77219,
+    "trader_tags": ""
   }
 ]
