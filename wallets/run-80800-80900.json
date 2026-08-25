@@ -734,5 +734,21 @@
     "win_count": 16,
     "rank": 80847,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x269861bc71d024134bfd0e67c8cbf12c4ed72941",
+    "trader_name": "asasa1",
+    "tag": "Overall",
+    "overall_gain": 616.845633424285,
+    "active_positions": 220,
+    "win_amount": 1430.6554621454045,
+    "loss_amount": -813.8098287211193,
+    "win_rate": 0.6050482553823311,
+    "total_current_value": 30.790610102,
+    "total_positions": 1594,
+    "event_ct": 1347,
+    "win_count": 815,
+    "rank": 80848,
+    "trader_tags": "1k+ Positions"
   }
 ]
