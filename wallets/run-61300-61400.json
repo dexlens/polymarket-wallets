@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 61335,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc3c94abc1af476b6efd18979e2f2a09fa238c1fd",
+    "trader_name": "HobartBarney",
+    "tag": "Overall",
+    "overall_gain": 1039.0520408637728,
+    "active_positions": 12,
+    "win_amount": 1177.8114259999998,
+    "loss_amount": -138.7593851362269,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 1115.7315671835,
+    "total_positions": 30,
+    "event_ct": 18,
+    "win_count": 8,
+    "rank": 61336,
+    "trader_tags": ""
   }
 ]
