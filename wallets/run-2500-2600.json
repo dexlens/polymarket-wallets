@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 2565,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xec5d271addfd4d224e8974a45dd2183aef5add4e",
+    "trader_name": "TheSortingHat",
+    "tag": "Overall",
+    "overall_gain": 45523.85053283304,
+    "active_positions": 894,
+    "win_amount": 258553.63747502997,
+    "loss_amount": -213029.7869421969,
+    "win_rate": 0.5038040170419964,
+    "total_current_value": 0.06999999999999999,
+    "total_positions": 11795,
+    "event_ct": 6572,
+    "win_count": 3311,
+    "rank": 2566,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
