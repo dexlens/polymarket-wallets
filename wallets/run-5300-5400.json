@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 5323,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b8baa1a8591ca1582a498545ce7ea8555957293",
+    "trader_name": "hhhappy",
+    "tag": "Overall",
+    "overall_gain": 20360.607300999993,
+    "active_positions": 0,
+    "win_amount": 98549.59426299999,
+    "loss_amount": -78188.98696200001,
+    "win_rate": 0.5487880671224363,
+    "total_current_value": 0,
+    "total_positions": 1725,
+    "event_ct": 1609,
+    "win_count": 883,
+    "rank": 5324,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
