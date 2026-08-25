@@ -1022,5 +1022,21 @@
     "win_count": 13,
     "rank": 11264,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c170626e84a9d8d9da3599bdfbeace472ecd5a1",
+    "trader_name": "BarronsHood",
+    "tag": "Overall",
+    "overall_gain": 9308.3051259152,
+    "active_positions": 1,
+    "win_amount": 18497.072440190197,
+    "loss_amount": -9188.767314274999,
+    "win_rate": 0.5365853658536586,
+    "total_current_value": 0.0219515,
+    "total_positions": 47,
+    "event_ct": 41,
+    "win_count": 22,
+    "rank": 11265,
+    "trader_tags": "> 1 year old"
   }
 ]
