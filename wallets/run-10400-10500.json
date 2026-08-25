@@ -1438,5 +1438,21 @@
     "win_count": 104,
     "rank": 10490,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x08cabe7b7d2da5e89371d90e41cf4fe13469691e",
+    "trader_name": "WSBSJX5W",
+    "tag": "Overall",
+    "overall_gain": 10029.17325006966,
+    "active_positions": 11,
+    "win_amount": 22751.173250069656,
+    "loss_amount": -12722,
+    "win_rate": 0.7037037037037037,
+    "total_current_value": 4.03986,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 19,
+    "rank": 10491,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
