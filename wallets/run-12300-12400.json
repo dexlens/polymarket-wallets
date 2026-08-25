@@ -1022,5 +1022,21 @@
     "win_count": 10,
     "rank": 12364,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x25e21e9c4e469d26aaa5701948ff8923d060db79",
+    "trader_name": "ThanosTheMadTitan",
+    "tag": "Overall",
+    "overall_gain": 8258.950041608072,
+    "active_positions": 0,
+    "win_amount": 17582.66524255998,
+    "loss_amount": -9323.715200951909,
+    "win_rate": 0.8658536585365854,
+    "total_current_value": 0.21082800000000002,
+    "total_positions": 82,
+    "event_ct": 82,
+    "win_count": 71,
+    "rank": 12365,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
