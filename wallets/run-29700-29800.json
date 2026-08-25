@@ -574,5 +574,21 @@
     "win_count": 60,
     "rank": 29737,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2e47f58efa864fc1367f48de90554ad967d00c67",
+    "trader_name": "gfhfghdfsd",
+    "tag": "Overall",
+    "overall_gain": 2852.1704499245193,
+    "active_positions": 1,
+    "win_amount": 2860.050438,
+    "loss_amount": -7.879988075480999,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 29738,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
