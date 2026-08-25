@@ -206,5 +206,21 @@
     "win_count": 16,
     "rank": 9013,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9eb9133542965213982f3db49097f6cc4184cb5d",
+    "trader_name": "Stealcopper2gamble",
+    "tag": "Overall",
+    "overall_gain": 11630.947758464781,
+    "active_positions": 11,
+    "win_amount": 22719.943792887796,
+    "loss_amount": -11088.996034423019,
+    "win_rate": 0.43529411764705883,
+    "total_current_value": 14.65621,
+    "total_positions": 94,
+    "event_ct": 85,
+    "win_count": 37,
+    "rank": 9014,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
