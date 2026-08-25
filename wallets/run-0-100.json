@@ -78,5 +78,21 @@
     "win_count": 4,
     "rank": 5,
     "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trader_name": "RepTrump",
+    "tag": "Overall",
+    "overall_gain": 7532409.671579,
+    "active_positions": 0,
+    "win_amount": 7532409.671579,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 6,
+    "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election ; Politics PnL > $100k"
   }
 ]
