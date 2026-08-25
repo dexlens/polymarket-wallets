@@ -1406,5 +1406,21 @@
     "win_count": 7,
     "rank": 78489,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd9cb960c4539bd20912cd7c8dfaf0a84727cdabe",
+    "trader_name": "vfvd",
+    "tag": "Overall",
+    "overall_gain": 656.009650133562,
+    "active_positions": 1,
+    "win_amount": 657.192283133562,
+    "loss_amount": -1.182633,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 627.027062,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 78490,
+    "trader_tags": "> 1 year old"
   }
 ]
