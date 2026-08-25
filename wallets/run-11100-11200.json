@@ -942,5 +942,21 @@
     "win_count": 4,
     "rank": 11159,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc62e6c634ced897153c855e55fc295a40ae9b2b6",
+    "trader_name": "sempreio",
+    "tag": "Overall",
+    "overall_gain": 9419.812736799979,
+    "active_positions": 1,
+    "win_amount": 14246.697863172632,
+    "loss_amount": -4826.885126372656,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0.040511,
+    "total_positions": 61,
+    "event_ct": 42,
+    "win_count": 27,
+    "rank": 11160,
+    "trader_tags": "> 1 year old"
   }
 ]
