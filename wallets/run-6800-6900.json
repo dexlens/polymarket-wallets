@@ -286,5 +286,21 @@
     "win_count": 13,
     "rank": 6818,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcae703741cb19b91282df5dc830a626a6ab8a113",
+    "trader_name": "Zoldyck",
+    "tag": "Overall",
+    "overall_gain": 15736.555629000173,
+    "active_positions": 4,
+    "win_amount": 36785.474757270495,
+    "loss_amount": -21048.91912827032,
+    "win_rate": 0.664804469273743,
+    "total_current_value": 240.702876,
+    "total_positions": 200,
+    "event_ct": 179,
+    "win_count": 119,
+    "rank": 6819,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
