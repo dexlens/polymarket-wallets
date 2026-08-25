@@ -206,5 +206,21 @@
     "win_count": 4,
     "rank": 1313,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x77c812f7735ad07e3ce58fd466a0e1b4346bbc8c",
+    "trader_name": "dudukos",
+    "tag": "Overall",
+    "overall_gain": 92005.64331067816,
+    "active_positions": 568,
+    "win_amount": 132349.9152249164,
+    "loss_amount": -40344.27191423827,
+    "win_rate": 0.4340277777777778,
+    "total_current_value": 13223.321084399002,
+    "total_positions": 1117,
+    "event_ct": 288,
+    "win_count": 125,
+    "rank": 1314,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
