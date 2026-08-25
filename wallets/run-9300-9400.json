@@ -734,5 +734,21 @@
     "win_count": 35,
     "rank": 9346,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a23e55bb00987ea94bb051a5f933fc35e4197ee",
+    "trader_name": "ojwvtlfguez",
+    "tag": "Overall",
+    "overall_gain": 11212.072990473313,
+    "active_positions": 2,
+    "win_amount": 11277.009791107965,
+    "loss_amount": -64.936800634652,
+    "win_rate": 0.5357142857142857,
+    "total_current_value": 0.32920400000000005,
+    "total_positions": 54,
+    "event_ct": 28,
+    "win_count": 15,
+    "rank": 9347,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
