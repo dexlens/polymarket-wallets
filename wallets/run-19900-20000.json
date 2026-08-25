@@ -814,5 +814,21 @@
     "win_count": 5,
     "rank": 19951,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37f6bd73b93e23cdb1bc974c294d2398b3fafbfb",
+    "trader_name": "Alcyonec",
+    "tag": "Overall",
+    "overall_gain": 4639.450537249746,
+    "active_positions": 6,
+    "win_amount": 14346.437656383752,
+    "loss_amount": -9706.987119134006,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 15.942772,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 19952,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
