@@ -1486,5 +1486,21 @@
     "win_count": 3,
     "rank": 28994,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x53ded9d734fe864e4894bf12d4ad77e1f8e339a4",
+    "trader_name": "Daringdo",
+    "tag": "Overall",
+    "overall_gain": 2948.5,
+    "active_positions": 1,
+    "win_amount": 3219.5,
+    "loss_amount": -271,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 28995,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
