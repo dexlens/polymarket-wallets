@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 44440,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28714f62c2f28d6aec508b24437c7ab5f340b352",
+    "trader_name": "bncfh",
+    "tag": "Overall",
+    "overall_gain": 1740.6653489999997,
+    "active_positions": 2,
+    "win_amount": 2021.0442489999998,
+    "loss_amount": -280.37890000000004,
+    "win_rate": 0.972972972972973,
+    "total_current_value": 169.34,
+    "total_positions": 38,
+    "event_ct": 37,
+    "win_count": 36,
+    "rank": 44441,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
