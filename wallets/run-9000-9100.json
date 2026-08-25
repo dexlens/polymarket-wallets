@@ -446,5 +446,21 @@
     "win_count": 16,
     "rank": 9028,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a5681eaadab8ff042d43d5aec9f62cc9d2c6623",
+    "trader_name": "Maxpainstruggle",
+    "tag": "Overall",
+    "overall_gain": 11610.632402278492,
+    "active_positions": 1,
+    "win_amount": 11708.424305556582,
+    "loss_amount": -97.791903278091,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 0.0143818125,
+    "total_positions": 105,
+    "event_ct": 30,
+    "win_count": 28,
+    "rank": 9029,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
