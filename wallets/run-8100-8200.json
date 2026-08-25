@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 8152,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa13df329c1df1e109475589c592c449da342c7be",
+    "trader_name": "zhengmei",
+    "tag": "Overall",
+    "overall_gain": 12905.827763559599,
+    "active_positions": 71,
+    "win_amount": 50428.672457502944,
+    "loss_amount": -37522.844693943334,
+    "win_rate": 0.6299157303370787,
+    "total_current_value": 691.0041526874999,
+    "total_positions": 1498,
+    "event_ct": 1424,
+    "win_count": 897,
+    "rank": 8153,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
