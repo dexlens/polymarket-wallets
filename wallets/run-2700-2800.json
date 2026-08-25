@@ -206,5 +206,21 @@
     "win_count": 167,
     "rank": 2713,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xab985b22f99f9c3eb40519e091782f8ae3f0efd2",
+    "trader_name": "MBJB",
+    "tag": "Overall",
+    "overall_gain": 42868.563410037204,
+    "active_positions": 8,
+    "win_amount": 47836.563410037204,
+    "loss_amount": -4968,
+    "win_rate": 0.96875,
+    "total_current_value": 22.333522983,
+    "total_positions": 90,
+    "event_ct": 32,
+    "win_count": 31,
+    "rank": 2714,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
