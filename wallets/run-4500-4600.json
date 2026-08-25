@@ -1278,5 +1278,21 @@
     "win_count": 2,
     "rank": 4580,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xd1800c7faaf67c455ff2acc1dd39b0f274300c89",
+    "trader_name": "Xerria",
+    "tag": "Overall",
+    "overall_gain": 24022.636281178056,
+    "active_positions": 4,
+    "win_amount": 24745.180307178056,
+    "loss_amount": -722.544026,
+    "win_rate": 0.7674418604651163,
+    "total_current_value": 0.013163,
+    "total_positions": 44,
+    "event_ct": 43,
+    "win_count": 33,
+    "rank": 4581,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
