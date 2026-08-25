@@ -1566,5 +1566,21 @@
     "win_count": 38,
     "rank": 5598,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa9d6f9b3b6531be316dcc6d3e0302d0c088f8431",
+    "trader_name": "datafundv1",
+    "tag": "Overall",
+    "overall_gain": 19275.070943863328,
+    "active_positions": 0,
+    "win_amount": 19351.79064644924,
+    "loss_amount": -76.71970258591,
+    "win_rate": 0.8,
+    "total_current_value": 0.08126900000000001,
+    "total_positions": 15,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 5599,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
