@@ -46,5 +46,21 @@
     "win_count": 33,
     "rank": 2303,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9efd3eb7b39a3989ec262c7f9790cab9c33880f3",
+    "trader_name": "EtEatmyorder",
+    "tag": "Overall",
+    "overall_gain": 51565.20214694122,
+    "active_positions": 45,
+    "win_amount": 52106.462439653274,
+    "loss_amount": -541.260292712062,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 72.3848244605,
+    "total_positions": 120,
+    "event_ct": 39,
+    "win_count": 33,
+    "rank": 2304,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
