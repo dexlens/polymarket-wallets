@@ -1390,5 +1390,21 @@
     "win_count": 3,
     "rank": 11387,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xae185867eb159ee1119ae2b89210de46db8bc344",
+    "trader_name": "thechampionZ",
+    "tag": "Overall",
+    "overall_gain": 9189.946816198113,
+    "active_positions": 247,
+    "win_amount": 31120.588151559587,
+    "loss_amount": -21930.64133536147,
+    "win_rate": 0.4187192118226601,
+    "total_current_value": 143.29144200000005,
+    "total_positions": 471,
+    "event_ct": 406,
+    "win_count": 170,
+    "rank": 11388,
+    "trader_tags": "< 30 days old"
   }
 ]
