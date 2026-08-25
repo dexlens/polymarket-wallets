@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 73254,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44ab792b2ba0c5742f5ab5e8aa0ac088cca8e2b2",
+    "trader_name": "dashizi",
+    "tag": "Overall",
+    "overall_gain": 740.016940818621,
+    "active_positions": 0,
+    "win_amount": 746.2766292240321,
+    "loss_amount": -6.2596884054110005,
+    "win_rate": 0.6,
+    "total_current_value": 0.022621000000000002,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 73255,
+    "trader_tags": "> 1 year old"
   }
 ]
