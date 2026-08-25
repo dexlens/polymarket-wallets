@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 58570,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d72f548c2642c6bd556afd97351cfaf7116d559",
+    "trader_name": "nahsdw",
+    "tag": "Overall",
+    "overall_gain": 1122.7243571812648,
+    "active_positions": 2,
+    "win_amount": 1125.555331794099,
+    "loss_amount": -2.8309746128339994,
+    "win_rate": 0.875,
+    "total_current_value": 80.3651420905,
+    "total_positions": 18,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 58571,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
