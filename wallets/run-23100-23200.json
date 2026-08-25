@@ -510,5 +510,21 @@
     "win_count": 5,
     "rank": 23132,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14d564306598c7d79fe8812a80d7a656e61cbb74",
+    "trader_name": "Figgs",
+    "tag": "Overall",
+    "overall_gain": 3891.706200317709,
+    "active_positions": 0,
+    "win_amount": 3891.706200317709,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008197,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 23133,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
