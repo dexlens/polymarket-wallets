@@ -1006,5 +1006,21 @@
     "win_count": 361,
     "rank": 69564,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x924632ddc9b4a33466b73103d55ef98675642736",
+    "trader_name": "OracleZH",
+    "tag": "Overall",
+    "overall_gain": 820.7748112119467,
+    "active_positions": 6,
+    "win_amount": 3585.7471138920596,
+    "loss_amount": -2764.9723026801125,
+    "win_rate": 0.4117647058823529,
+    "total_current_value": 0.030147999999999998,
+    "total_positions": 26,
+    "event_ct": 17,
+    "win_count": 7,
+    "rank": 69565,
+    "trader_tags": "> 1 year old"
   }
 ]
