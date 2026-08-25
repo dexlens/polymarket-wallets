@@ -254,5 +254,21 @@
     "win_count": 9,
     "rank": 4416,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4959175440b8f38229b32f2f036057f6893ea6f5",
+    "trader_name": "Majas",
+    "tag": "Overall",
+    "overall_gain": 25172.96215589094,
+    "active_positions": 983,
+    "win_amount": 42871.4034399684,
+    "loss_amount": -17698.44128407746,
+    "win_rate": 0.6809024979854955,
+    "total_current_value": 10012.263606742496,
+    "total_positions": 13630,
+    "event_ct": 3723,
+    "win_count": 2535,
+    "rank": 4417,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
