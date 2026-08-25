@@ -830,5 +830,21 @@
     "win_count": 401,
     "rank": 3352,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5782614c8f2060de494252e927dcac820e54736b",
+    "trader_name": "SharpMariner",
+    "tag": "Overall",
+    "overall_gain": 34103.335008999995,
+    "active_positions": 0,
+    "win_amount": 34133.993772,
+    "loss_amount": -30.658763,
+    "win_rate": 0.78125,
+    "total_current_value": 0,
+    "total_positions": 46,
+    "event_ct": 32,
+    "win_count": 25,
+    "rank": 3353,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
