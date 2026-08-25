@@ -1550,5 +1550,21 @@
     "win_count": 8,
     "rank": 65098,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x35b9616ec8d88a514c6f886a048324ce5bf336b7",
+    "trader_name": "sammi001",
+    "tag": "Overall",
+    "overall_gain": 942.5037165227461,
+    "active_positions": 2,
+    "win_amount": 946.18357824488,
+    "loss_amount": -3.6798617221339995,
+    "win_rate": 0.75,
+    "total_current_value": 0.038808,
+    "total_positions": 18,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 65099,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
