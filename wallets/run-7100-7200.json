@@ -798,5 +798,21 @@
     "win_count": 16,
     "rank": 7150,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf61f23e54983a90c5a17f2c5c0bd712f127a3ce1",
+    "trader_name": "fomod",
+    "tag": "Overall",
+    "overall_gain": 14979.730073894505,
+    "active_positions": 606,
+    "win_amount": 60930.08233086824,
+    "loss_amount": -45950.35225697375,
+    "win_rate": 0.29780564263322884,
+    "total_current_value": 71.74805647600003,
+    "total_positions": 889,
+    "event_ct": 638,
+    "win_count": 190,
+    "rank": 7151,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
