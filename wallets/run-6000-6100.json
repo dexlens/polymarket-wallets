@@ -1102,5 +1102,21 @@
     "win_count": 8,
     "rank": 6069,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x54525ee78bd513b0bf75f94e560158f6fc35d448",
+    "trader_name": "DavidShekel",
+    "tag": "Overall",
+    "overall_gain": 17673.396352294036,
+    "active_positions": 1745,
+    "win_amount": 55536.07269295847,
+    "loss_amount": -37862.67634066444,
+    "win_rate": 0.6705202312138728,
+    "total_current_value": 3803.8851913655003,
+    "total_positions": 2591,
+    "event_ct": 173,
+    "win_count": 116,
+    "rank": 6070,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
