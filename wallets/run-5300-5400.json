@@ -1358,5 +1358,21 @@
     "win_count": 6,
     "rank": 5385,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd9df92d767beefa4114aab0550bcd1cd712f1ffc",
+    "trader_name": "Trach",
+    "tag": "Overall",
+    "overall_gain": 20102.576395748525,
+    "active_positions": 0,
+    "win_amount": 20102.576395748525,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 5386,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
