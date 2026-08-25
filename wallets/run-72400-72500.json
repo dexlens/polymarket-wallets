@@ -1310,5 +1310,21 @@
     "win_count": 61,
     "rank": 72483,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2be3ad48f1c88e10c85e64d93f3227b3419ff77c",
+    "trader_name": "Zeeker0",
+    "tag": "Overall",
+    "overall_gain": 755.4926841046931,
+    "active_positions": 3,
+    "win_amount": 879.5184806347713,
+    "loss_amount": -124.02579653007797,
+    "win_rate": 0.9022556390977443,
+    "total_current_value": 454.992432,
+    "total_positions": 262,
+    "event_ct": 133,
+    "win_count": 120,
+    "rank": 72484,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
