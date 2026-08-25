@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 65743,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x09de3ac050c1103064fb057fa0d5198c4380871d",
+    "trader_name": "clandestine",
+    "tag": "Overall",
+    "overall_gain": 923.5346428770308,
+    "active_positions": 3,
+    "win_amount": 1313.532822804556,
+    "loss_amount": -389.99817992752503,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 467.107228,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 65744,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
