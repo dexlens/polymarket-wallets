@@ -382,5 +382,21 @@
     "win_count": 6,
     "rank": 6824,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x15c542d32c885b195263447bb1ccd6dc32d3aaa2",
+    "trader_name": "farmimdrop",
+    "tag": "Overall",
+    "overall_gain": 15718.221683310969,
+    "active_positions": 0,
+    "win_amount": 15718.221683310969,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.010724,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6825,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
