@@ -1406,5 +1406,21 @@
     "win_count": 5,
     "rank": 56789,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x226c46681cff5103617ddc7df6bcf431f9deecdb",
+    "trader_name": "lkifa",
+    "tag": "Overall",
+    "overall_gain": 1187.6407244499999,
+    "active_positions": 13,
+    "win_amount": 1984.2464849800003,
+    "loss_amount": -796.6057605299999,
+    "win_rate": 0.6756756756756757,
+    "total_current_value": 499.916747,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 25,
+    "rank": 56790,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
