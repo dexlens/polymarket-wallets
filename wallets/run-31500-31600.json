@@ -302,5 +302,21 @@
     "win_count": 4,
     "rank": 31520,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x217b8a00190cea3594957fe2795ac9166bfd0dc0",
+    "trader_name": "mythictyrant",
+    "tag": "Overall",
+    "overall_gain": 2648.9843364243357,
+    "active_positions": 3,
+    "win_amount": 8639.380863625798,
+    "loss_amount": -5990.396527201463,
+    "win_rate": 0.8972602739726028,
+    "total_current_value": 107.336695,
+    "total_positions": 147,
+    "event_ct": 146,
+    "win_count": 131,
+    "rank": 31521,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
