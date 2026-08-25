@@ -414,5 +414,21 @@
     "win_count": 8,
     "rank": 45827,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x87e7f5b6d0ab55569d9e5e08e82f8b009af5b518",
+    "trader_name": "rcdsaf",
+    "tag": "Overall",
+    "overall_gain": 1675.0589729199999,
+    "active_positions": 0,
+    "win_amount": 1675.0589729199999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.01469061,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 45828,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
