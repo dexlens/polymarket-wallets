@@ -382,5 +382,21 @@
     "win_count": 81,
     "rank": 8524,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2839491a288173ce30a83a01ff76f1246740538c",
+    "trader_name": "TheEarlss",
+    "tag": "Overall",
+    "overall_gain": 12287.964445788455,
+    "active_positions": 1,
+    "win_amount": 12303.474433465031,
+    "loss_amount": -15.509987676576001,
+    "win_rate": 0.5,
+    "total_current_value": 0.012222,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 8525,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
