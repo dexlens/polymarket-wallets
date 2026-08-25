@@ -878,5 +878,21 @@
     "win_count": 4,
     "rank": 6155,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ac019ceec2ac9d4104095a318b8895256f41a25",
+    "trader_name": "icycle",
+    "tag": "Overall",
+    "overall_gain": 17413.220249008617,
+    "active_positions": 10,
+    "win_amount": 17975.777094595553,
+    "loss_amount": -562.556845586934,
+    "win_rate": 0.47619047619047616,
+    "total_current_value": 238.33919064999998,
+    "total_positions": 36,
+    "event_ct": 21,
+    "win_count": 10,
+    "rank": 6156,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
