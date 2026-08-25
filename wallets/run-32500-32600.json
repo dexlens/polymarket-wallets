@@ -670,5 +670,21 @@
     "win_count": 13,
     "rank": 32543,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x834f82b3dd7eddd106cc03661d2a15fc46ca98c0",
+    "trader_name": "Furian",
+    "tag": "Overall",
+    "overall_gain": 2547.21206034676,
+    "active_positions": 0,
+    "win_amount": 2547.21206034676,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004446,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 32544,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
