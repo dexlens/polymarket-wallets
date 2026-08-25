@@ -270,5 +270,21 @@
     "win_count": 5,
     "rank": 78818,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3be79397ee0271a492a4f02209ce7cf7a0cfcd84",
+    "trader_name": "Talitha1",
+    "tag": "Overall",
+    "overall_gain": 650.622468,
+    "active_positions": 4,
+    "win_amount": 1613.5040000000001,
+    "loss_amount": -962.8815319999999,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 18,
+    "win_count": 10,
+    "rank": 78819,
+    "trader_tags": ""
   }
 ]
