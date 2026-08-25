@@ -1070,5 +1070,21 @@
     "win_count": 5,
     "rank": 23267,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdc36828d69f6ba8c38af840d34119f650d78bde0",
+    "trader_name": "soag",
+    "tag": "Overall",
+    "overall_gain": 3864.871255095032,
+    "active_positions": 3,
+    "win_amount": 4505.583737151747,
+    "loss_amount": -640.712482056715,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.012783,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 23268,
+    "trader_tags": ""
   }
 ]
