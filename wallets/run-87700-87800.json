@@ -654,5 +654,21 @@
     "win_count": 7,
     "rank": 87742,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfd8753403b31a2e9ea85de108988a580877d6957",
+    "trader_name": "Dazaro",
+    "tag": "Overall",
+    "overall_gain": 515.898973736591,
+    "active_positions": 3,
+    "win_amount": 815.058973736591,
+    "loss_amount": -299.15999999999997,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 262.136404,
+    "total_positions": 40,
+    "event_ct": 22,
+    "win_count": 20,
+    "rank": 87743,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
