@@ -814,5 +814,21 @@
     "win_count": 39,
     "rank": 1151,
     "trader_tags": "Overall PnL > $100k"
+  },
+  {
+    "trader": "0x9c667a1d1c1337c6dca9d93241d386e4ed346b66",
+    "trader_name": "InfiniteCrypt0",
+    "tag": "Overall",
+    "overall_gain": 105854.1911789881,
+    "active_positions": 37,
+    "win_amount": 121885.09126449369,
+    "loss_amount": -16030.900085505626,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 5752.950919772999,
+    "total_positions": 612,
+    "event_ct": 143,
+    "win_count": 99,
+    "rank": 1152,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
