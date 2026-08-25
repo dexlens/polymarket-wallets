@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 8619,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13e53ab88dd960467f921c753b25481ebe21d5e9",
+    "trader_name": "wenzheng",
+    "tag": "Overall",
+    "overall_gain": 12154.933996612557,
+    "active_positions": 96,
+    "win_amount": 92811.89394251625,
+    "loss_amount": -80656.95994590363,
+    "win_rate": 0.5294871794871795,
+    "total_current_value": 1138.88478611,
+    "total_positions": 837,
+    "event_ct": 780,
+    "win_count": 413,
+    "rank": 8620,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
