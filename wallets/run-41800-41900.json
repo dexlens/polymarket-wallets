@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 41861,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfb1b671d939a8f0959d738801aca1610486dfe52",
+    "trader_name": "Pandore",
+    "tag": "Overall",
+    "overall_gain": 1884.3886302325104,
+    "active_positions": 13,
+    "win_amount": 7155.462599,
+    "loss_amount": -5271.0739687674895,
+    "win_rate": 0.5754716981132075,
+    "total_current_value": 0,
+    "total_positions": 127,
+    "event_ct": 106,
+    "win_count": 61,
+    "rank": 41862,
+    "trader_tags": "< 30 days old"
   }
 ]
