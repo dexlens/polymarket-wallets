@@ -526,5 +526,21 @@
     "win_count": 7,
     "rank": 1433,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4f62b4b1474412f3430c9ed9e55c354cddf52ce6",
+    "trader_name": "anllicopter",
+    "tag": "Overall",
+    "overall_gain": 84557.62872571193,
+    "active_positions": 49,
+    "win_amount": 144663.63361181144,
+    "loss_amount": -60106.00488609954,
+    "win_rate": 0.5161290322580645,
+    "total_current_value": 11361.4488150665,
+    "total_positions": 78,
+    "event_ct": 31,
+    "win_count": 16,
+    "rank": 1434,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
