@@ -750,5 +750,21 @@
     "win_count": 58,
     "rank": 46848,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d4954acd6c79249525d5fa5586a310328d4ddb2",
+    "trader_name": "Attedndant2",
+    "tag": "Overall",
+    "overall_gain": 1624,
+    "active_positions": 3,
+    "win_amount": 2446.5,
+    "loss_amount": -822.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 46849,
+    "trader_tags": ""
   }
 ]
