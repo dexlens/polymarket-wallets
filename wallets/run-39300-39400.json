@@ -1086,5 +1086,21 @@
     "win_count": 2201,
     "rank": 39369,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xf3f62f1bda4159aa4c6feee1eb7a97c5a6ff6f83",
+    "trader_name": "monolog",
+    "tag": "Overall",
+    "overall_gain": 2028.224407121724,
+    "active_positions": 20,
+    "win_amount": 2418.622892254602,
+    "loss_amount": -390.398485132878,
+    "win_rate": 0.75,
+    "total_current_value": 1376.913943,
+    "total_positions": 30,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 39370,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
