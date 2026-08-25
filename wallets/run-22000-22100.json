@@ -862,5 +862,21 @@
     "win_count": 4,
     "rank": 22054,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3d7d37ec6c24dc09f7bfd35e7848b744d34be93d",
+    "trader_name": "kailai168",
+    "tag": "Overall",
+    "overall_gain": 4109.496771205106,
+    "active_positions": 0,
+    "win_amount": 4132.439498205105,
+    "loss_amount": -22.942726999999998,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 0.026735,
+    "total_positions": 21,
+    "event_ct": 11,
+    "win_count": 10,
+    "rank": 22055,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
