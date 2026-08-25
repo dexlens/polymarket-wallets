@@ -574,5 +574,21 @@
     "win_count": 30,
     "rank": 3236,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdefe23b9f2631280df4b18e43beef527150e5432",
+    "trader_name": "Freakbob",
+    "tag": "Overall",
+    "overall_gain": 35427.07199155659,
+    "active_positions": 5,
+    "win_amount": 880402.9678672567,
+    "loss_amount": -844975.8958756996,
+    "win_rate": 0.6619047619047619,
+    "total_current_value": 0.098669,
+    "total_positions": 440,
+    "event_ct": 420,
+    "win_count": 278,
+    "rank": 3237,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
