@@ -1358,5 +1358,21 @@
     "win_count": 19,
     "rank": 8485,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc02d7c8bc948d91412253d9cabb696326d4292c1",
+    "trader_name": "Pakost",
+    "tag": "Overall",
+    "overall_gain": 12334.382729673547,
+    "active_positions": 19,
+    "win_amount": 14390.924755139431,
+    "loss_amount": -2056.5420254658857,
+    "win_rate": 0.6511627906976745,
+    "total_current_value": 0.510617,
+    "total_positions": 79,
+    "event_ct": 43,
+    "win_count": 28,
+    "rank": 8486,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
