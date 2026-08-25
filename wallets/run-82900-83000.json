@@ -1230,5 +1230,21 @@
     "win_count": 3,
     "rank": 82978,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x64bd49c12f355f324a5aa1ef31e87731f92e89fe",
+    "trader_name": "taobtc",
+    "tag": "Overall",
+    "overall_gain": 582.455666,
+    "active_positions": 0,
+    "win_amount": 582.455666,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 82979,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
