@@ -1022,5 +1022,21 @@
     "win_count": 171,
     "rank": 1664,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x31864feb9d25dee93728c6225ba891530967e9ca",
+    "trader_name": "johnbaster",
+    "tag": "Overall",
+    "overall_gain": 73699.15081051769,
+    "active_positions": 3,
+    "win_amount": 120358.65295570497,
+    "loss_amount": -46659.50214518717,
+    "win_rate": 0.6883720930232559,
+    "total_current_value": 2199.6581580040006,
+    "total_positions": 625,
+    "event_ct": 215,
+    "win_count": 148,
+    "rank": 1665,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
