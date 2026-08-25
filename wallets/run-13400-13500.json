@@ -1278,5 +1278,21 @@
     "win_count": 17,
     "rank": 13480,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x583e1ca6fa0b93201a771e09f223bfe4c8071d4b",
+    "trader_name": "PredictFolio",
+    "tag": "Overall",
+    "overall_gain": 7379.653216198096,
+    "active_positions": 2,
+    "win_amount": 7668.287756573336,
+    "loss_amount": -288.63454037524,
+    "win_rate": 0.9594594594594594,
+    "total_current_value": 33583.1526119665,
+    "total_positions": 83,
+    "event_ct": 74,
+    "win_count": 71,
+    "rank": 13481,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
