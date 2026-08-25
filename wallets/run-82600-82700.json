@@ -382,5 +382,21 @@
     "win_count": 3,
     "rank": 82625,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ab8edf46beb1bcc1698a06abc1cb389bb1f0ae8",
+    "trader_name": "jarviswashere",
+    "tag": "Overall",
+    "overall_gain": 588.4373208210291,
+    "active_positions": 0,
+    "win_amount": 3023.6452311626367,
+    "loss_amount": -2435.2079103416077,
+    "win_rate": 0.8964912280701754,
+    "total_current_value": 7.7338309999999995,
+    "total_positions": 3434,
+    "event_ct": 3420,
+    "win_count": 3066,
+    "rank": 82626,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
