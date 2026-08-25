@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 4756,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x224b16b3c67ad51f6302eab010a9e8f540a88927",
+    "trader_name": "hitaobicho",
+    "tag": "Overall",
+    "overall_gain": 22883.823986951083,
+    "active_positions": 135,
+    "win_amount": 167045.90084721436,
+    "loss_amount": -144162.0768602633,
+    "win_rate": 0.5324675324675324,
+    "total_current_value": 0.097185,
+    "total_positions": 420,
+    "event_ct": 231,
+    "win_count": 123,
+    "rank": 4757,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
