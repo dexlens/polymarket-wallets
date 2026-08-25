@@ -1550,5 +1550,21 @@
     "win_count": 22,
     "rank": 7597,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53561a137fdae973ac1183074fa3c2aec2ac8a62",
+    "trader_name": "celecula",
+    "tag": "Overall",
+    "overall_gain": 13947.577538223339,
+    "active_positions": 2,
+    "win_amount": 90470.815329,
+    "loss_amount": -76523.23779077668,
+    "win_rate": 0.5786820309686712,
+    "total_current_value": 1011.108847875,
+    "total_positions": 5449,
+    "event_ct": 2777,
+    "win_count": 1607,
+    "rank": 7598,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
