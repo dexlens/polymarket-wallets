@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 66765,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0ceb37e10fad7b2531246c63b8ca486f857620d4",
+    "trader_name": "schocior",
+    "tag": "Overall",
+    "overall_gain": 895.281364476038,
+    "active_positions": 0,
+    "win_amount": 895.281364476038,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007082,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 66766,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
