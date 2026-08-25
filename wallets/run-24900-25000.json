@@ -766,5 +766,21 @@
     "win_count": 50,
     "rank": 24949,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb2822580be41f1356c7241eeade7b68f8312160",
+    "trader_name": "Bleepo",
+    "tag": "Overall",
+    "overall_gain": 3550.4754996327597,
+    "active_positions": 11,
+    "win_amount": 8042.800599438188,
+    "loss_amount": -4492.325099805428,
+    "win_rate": 0.5370370370370371,
+    "total_current_value": 27.204679558999995,
+    "total_positions": 426,
+    "event_ct": 324,
+    "win_count": 174,
+    "rank": 24950,
+    "trader_tags": ""
   }
 ]
