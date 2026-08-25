@@ -414,5 +414,21 @@
     "win_count": 13,
     "rank": 23727,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b0cdd83f96ae05147a155e5e7f8a81997b5ef35",
+    "trader_name": "diamond8",
+    "tag": "Overall",
+    "overall_gain": 3774.680346980966,
+    "active_positions": 3,
+    "win_amount": 10774.795906598509,
+    "loss_amount": -7000.115559617541,
+    "win_rate": 0.24662668665667167,
+    "total_current_value": 8.425874,
+    "total_positions": 1561,
+    "event_ct": 1334,
+    "win_count": 329,
+    "rank": 23728,
+    "trader_tags": "1k+ Positions"
   }
 ]
