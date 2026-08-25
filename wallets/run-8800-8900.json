@@ -1438,5 +1438,21 @@
     "win_count": 15,
     "rank": 8890,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xc93e111a728ab899ddb31744b412c3fde4592db5",
+    "trader_name": "Molven",
+    "tag": "Overall",
+    "overall_gain": 11784.764527495054,
+    "active_positions": 2,
+    "win_amount": 12355.914527495053,
+    "loss_amount": -571.15,
+    "win_rate": 0.8787878787878788,
+    "total_current_value": 0.000055,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 29,
+    "rank": 8891,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
