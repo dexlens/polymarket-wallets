@@ -366,5 +366,21 @@
     "win_count": 2,
     "rank": 45224,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8d5c0356c4463547dfbf5231b91a3d438071ef1c",
+    "trader_name": "zPVBaneLV",
+    "tag": "Overall",
+    "overall_gain": 1703.2133300000005,
+    "active_positions": 12,
+    "win_amount": 12271.71333,
+    "loss_amount": -10568.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 12,
+    "rank": 45225,
+    "trader_tags": ""
   }
 ]
