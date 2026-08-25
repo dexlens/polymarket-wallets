@@ -78,5 +78,21 @@
     "win_count": 30,
     "rank": 3705,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x77178da13e95db6e15524a9ef5e820df17ac40c9",
+    "trader_name": "Flower",
+    "tag": "Overall",
+    "overall_gain": 30801.009553999997,
+    "active_positions": 0,
+    "win_amount": 31529.870588999995,
+    "loss_amount": -728.8610350000001,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 3706,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
