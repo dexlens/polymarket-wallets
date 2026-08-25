@@ -1486,5 +1486,21 @@
     "win_count": 388,
     "rank": 2893,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6a54bf345a05c7f4b0a966f9969cbf840198c062",
+    "trader_name": "liquidityp",
+    "tag": "Overall",
+    "overall_gain": 39716.96573573557,
+    "active_positions": 25,
+    "win_amount": 44981.8015261456,
+    "loss_amount": -5264.835790410039,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.071051,
+    "total_positions": 80,
+    "event_ct": 18,
+    "win_count": 10,
+    "rank": 2894,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
