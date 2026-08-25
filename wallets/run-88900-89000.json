@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 88999,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x337988c085b8450f5996853765efa78886e6c283",
+    "trader_name": "VeryKbedi",
+    "tag": "Overall",
+    "overall_gain": 501.6152072905386,
+    "active_positions": 5,
+    "win_amount": 4198.041240853313,
+    "loss_amount": -3696.426033562774,
+    "win_rate": 0.425531914893617,
+    "total_current_value": 87.5896643745,
+    "total_positions": 116,
+    "event_ct": 94,
+    "win_count": 40,
+    "rank": 89000,
+    "trader_tags": "> 1 year old"
   }
 ]
