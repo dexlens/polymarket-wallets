@@ -46,5 +46,21 @@
     "win_count": 4,
     "rank": 64104,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a03fcc53b0bfb41d31db94429a006ac77d5b226",
+    "trader_name": "CrowdOracle",
+    "tag": "Overall",
+    "overall_gain": 971.1048088074223,
+    "active_positions": 47,
+    "win_amount": 10960.482432970235,
+    "loss_amount": -9989.377624162811,
+    "win_rate": 0.45081967213114754,
+    "total_current_value": 0.09920399999999999,
+    "total_positions": 130,
+    "event_ct": 122,
+    "win_count": 55,
+    "rank": 64105,
+    "trader_tags": ""
   }
 ]
