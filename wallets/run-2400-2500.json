@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 2422,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfa0be712f974eb9933427c2202d1ae2561571001",
+    "trader_name": "Ryanbignose",
+    "tag": "Overall",
+    "overall_gain": 48786.671647,
+    "active_positions": 0,
+    "win_amount": 106604.71676999997,
+    "loss_amount": -57818.045123,
+    "win_rate": 0.6433898305084745,
+    "total_current_value": 0.18,
+    "total_positions": 1566,
+    "event_ct": 1475,
+    "win_count": 949,
+    "rank": 2423,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
