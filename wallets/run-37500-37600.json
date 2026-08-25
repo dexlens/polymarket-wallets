@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 37547,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe7847ab99077d497cc857a3dd7affb7c70f277ea",
+    "trader_name": "LuckyStar",
+    "tag": "Overall",
+    "overall_gain": 2151.784812102684,
+    "active_positions": 0,
+    "win_amount": 2467.0724481026846,
+    "loss_amount": -315.287636,
+    "win_rate": 0.9,
+    "total_current_value": 0.03514199999999999,
+    "total_positions": 23,
+    "event_ct": 20,
+    "win_count": 18,
+    "rank": 37548,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
