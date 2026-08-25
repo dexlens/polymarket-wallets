@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 2272,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21c24a79a0c2f07b2ed34e30d42dffa3d0b66749",
+    "trader_name": "ArbitrageFund",
+    "tag": "Overall",
+    "overall_gain": 52418.89754243042,
+    "active_positions": 2593,
+    "win_amount": 913640.5426618912,
+    "loss_amount": -861221.6451194603,
+    "win_rate": 0.46549760874516055,
+    "total_current_value": 7413.83893134,
+    "total_positions": 10294,
+    "event_ct": 4391,
+    "win_count": 2044,
+    "rank": 2273,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
