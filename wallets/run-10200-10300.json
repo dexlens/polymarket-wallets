@@ -654,5 +654,21 @@
     "win_count": 11,
     "rank": 10241,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x96b248550e00c9dbc833a5b12ccae20c9382c23b",
+    "trader_name": "Gwendolynq",
+    "tag": "Overall",
+    "overall_gain": 10266.113529,
+    "active_positions": 0,
+    "win_amount": 10429.565529,
+    "loss_amount": -163.452,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 27,
+    "win_count": 18,
+    "rank": 10242,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
