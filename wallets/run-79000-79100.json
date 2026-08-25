@@ -1406,5 +1406,21 @@
     "win_count": 133,
     "rank": 79089,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16a099df5dfe6cba05dfbe245af14006df277292",
+    "trader_name": "200West",
+    "tag": "Overall",
+    "overall_gain": 645.660250919851,
+    "active_positions": 3,
+    "win_amount": 692.660250919851,
+    "loss_amount": -47,
+    "win_rate": 0.5,
+    "total_current_value": 1191.092969,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 79090,
+    "trader_tags": "> 1 year old"
   }
 ]
