@@ -1038,5 +1038,21 @@
     "win_count": 24,
     "rank": 22265,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3155d6baa97cf78f8f2f6d350f15d0a77cffe8b9",
+    "trader_name": "Nimbustrace",
+    "tag": "Overall",
+    "overall_gain": 4061.58,
+    "active_positions": 0,
+    "win_amount": 4061.58,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 22266,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
