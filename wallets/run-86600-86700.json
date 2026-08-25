@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 86654,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d1d3cf8a8d47fbced920b49238a841e81fc34e1",
+    "trader_name": "gigantoir",
+    "tag": "Overall",
+    "overall_gain": 530.1854630533079,
+    "active_positions": 1,
+    "win_amount": 2788.0923807409417,
+    "loss_amount": -2257.906917687634,
+    "win_rate": 0.4375,
+    "total_current_value": 67.65301839999998,
+    "total_positions": 52,
+    "event_ct": 32,
+    "win_count": 14,
+    "rank": 86655,
+    "trader_tags": "> 1 year old"
   }
 ]
