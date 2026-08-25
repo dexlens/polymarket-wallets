@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 66344,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd62c31c14f88aaa13cbd588ab34fc919fff6ad0f",
+    "trader_name": "cebrenetrading",
+    "tag": "Overall",
+    "overall_gain": 906.5060484637011,
+    "active_positions": 0,
+    "win_amount": 978.879532413701,
+    "loss_amount": -72.37348395000001,
+    "win_rate": 0.6875,
+    "total_current_value": 0.067291,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 66345,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
