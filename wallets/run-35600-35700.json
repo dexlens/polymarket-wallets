@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 35684,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x649e9daba8e5cebaf48e7ebdc708766129a22ec9",
+    "trader_name": "sumdmitr",
+    "tag": "Overall",
+    "overall_gain": 2287,
+    "active_positions": 1,
+    "win_amount": 2676.5,
+    "loss_amount": -389.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 35685,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
