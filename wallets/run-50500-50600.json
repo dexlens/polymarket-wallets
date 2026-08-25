@@ -814,5 +814,21 @@
     "win_count": 96,
     "rank": 50552,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55b603ef2a02f8f2f2e57cfe59a62065c1652e95",
+    "trader_name": "bus404 - 18856",
+    "tag": "Overall",
+    "overall_gain": 1459.945601115639,
+    "active_positions": 0,
+    "win_amount": 2179.6398710130916,
+    "loss_amount": -719.6942698974524,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.000003010208939656456,
+    "total_positions": 19,
+    "event_ct": 18,
+    "win_count": 10,
+    "rank": 50553,
+    "trader_tags": "> 1 year old"
   }
 ]
