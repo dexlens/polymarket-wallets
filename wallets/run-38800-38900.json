@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 38845,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b174c7c31c56cd371a550146013a0e51fad284f",
+    "trader_name": "FortuMe",
+    "tag": "Overall",
+    "overall_gain": 2063.354033,
+    "active_positions": 1,
+    "win_amount": 2137.575201,
+    "loss_amount": -74.22116799999999,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 38846,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
