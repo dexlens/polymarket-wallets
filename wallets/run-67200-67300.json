@@ -62,5 +62,21 @@
     "win_count": 4,
     "rank": 67205,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xee62551702ed59c223cbcada3626ff63716abc6a",
+    "trader_name": "andrewbet",
+    "tag": "Overall",
+    "overall_gain": 883.3947519140816,
+    "active_positions": 3,
+    "win_amount": 4738.956758226251,
+    "loss_amount": -3855.5620063121696,
+    "win_rate": 0.5483870967741935,
+    "total_current_value": 0.07711799999999999,
+    "total_positions": 89,
+    "event_ct": 62,
+    "win_count": 34,
+    "rank": 67206,
+    "trader_tags": "< 30 days old"
   }
 ]
