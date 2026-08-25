@@ -430,5 +430,21 @@
     "win_count": 5,
     "rank": 34428,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14f0af3d0cd8e5d4b90a69113bbd83121fb78e4b",
+    "trader_name": "Bertha5",
+    "tag": "Overall",
+    "overall_gain": 2386.46,
+    "active_positions": 2,
+    "win_amount": 3295.46,
+    "loss_amount": -909,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 34429,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
