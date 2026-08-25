@@ -510,5 +510,21 @@
     "win_count": 13,
     "rank": 6432,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x500f1ec92aa1d5ffd34fb7d39776672c5a5094bf",
+    "trader_name": "EsportsEnjoyer",
+    "tag": "Overall",
+    "overall_gain": 16656.72109816195,
+    "active_positions": 27,
+    "win_amount": 316118.4876792841,
+    "loss_amount": -299461.7665811221,
+    "win_rate": 0.5871559633027523,
+    "total_current_value": 0.44938099999999986,
+    "total_positions": 296,
+    "event_ct": 218,
+    "win_count": 128,
+    "rank": 6433,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
