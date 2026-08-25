@@ -1454,5 +1454,21 @@
     "win_count": 277,
     "rank": 13591,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x50d3774cbd111b9a40ec98e49ea8ceca894baf3e",
+    "trader_name": "slowly1",
+    "tag": "Overall",
+    "overall_gain": 7299.222410779999,
+    "active_positions": 10,
+    "win_amount": 12041.085995000001,
+    "loss_amount": -4741.86358422,
+    "win_rate": 0.7352941176470589,
+    "total_current_value": 130,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 25,
+    "rank": 13592,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
