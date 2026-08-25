@@ -766,5 +766,21 @@
     "win_count": 84,
     "rank": 1848,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x557bed924a1bb6f62842c5742d1dc789b8d480d4",
+    "trader_name": "SynthDataDotCo",
+    "tag": "Overall",
+    "overall_gain": 65963.19413,
+    "active_positions": 0,
+    "win_amount": 361541.8726059999,
+    "loss_amount": -295578.678476,
+    "win_rate": 0.5031302876480541,
+    "total_current_value": 0,
+    "total_positions": 23573,
+    "event_ct": 11820,
+    "win_count": 5947,
+    "rank": 1849,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
