@@ -590,5 +590,21 @@
     "win_count": 5,
     "rank": 85938,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00c61d144c47325976e4e03ac0b761937af6c32d",
+    "trader_name": "malygos",
+    "tag": "Overall",
+    "overall_gain": 539.959241867709,
+    "active_positions": 0,
+    "win_amount": 751.2046648552359,
+    "loss_amount": -211.24542298752698,
+    "win_rate": 0.65,
+    "total_current_value": 0.14639300000000002,
+    "total_positions": 30,
+    "event_ct": 20,
+    "win_count": 13,
+    "rank": 85939,
+    "trader_tags": "> 1 year old"
   }
 ]
