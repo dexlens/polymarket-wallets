@@ -302,5 +302,21 @@
     "win_count": 5,
     "rank": 15519,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5766614726ae281b03c673af5344b43f7590dd3c",
+    "trader_name": "pokerdominator",
+    "tag": "Overall",
+    "overall_gain": 6228.579618043617,
+    "active_positions": 11,
+    "win_amount": 7203.1027820436175,
+    "loss_amount": -974.5231640000001,
+    "win_rate": 0.5576923076923077,
+    "total_current_value": 11857.899329650001,
+    "total_positions": 68,
+    "event_ct": 52,
+    "win_count": 29,
+    "rank": 15520,
+    "trader_tags": ""
   }
 ]
