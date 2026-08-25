@@ -46,5 +46,21 @@
     "win_count": 10,
     "rank": 77104,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32797889c4bedc57f094427032d2f356e2b61d5c",
+    "trader_name": "Avngrd-v2",
+    "tag": "Overall",
+    "overall_gain": 680.0520891786541,
+    "active_positions": 32,
+    "win_amount": 8466.686987887806,
+    "loss_amount": -7786.634898709152,
+    "win_rate": 0.9292490118577075,
+    "total_current_value": 1524.6655737000003,
+    "total_positions": 2532,
+    "event_ct": 2530,
+    "win_count": 2351,
+    "rank": 77105,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
