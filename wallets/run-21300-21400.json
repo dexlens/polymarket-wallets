@@ -958,5 +958,21 @@
     "win_count": 6,
     "rank": 21360,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaa9a16cf35cf3e5f0c5912c7cb23ead11f8ade87",
+    "trader_name": "PDMan",
+    "tag": "Overall",
+    "overall_gain": 4268.411446832732,
+    "active_positions": 2,
+    "win_amount": 8582.203407389703,
+    "loss_amount": -4313.791960556972,
+    "win_rate": 0.37254901960784315,
+    "total_current_value": 0.139574,
+    "total_positions": 69,
+    "event_ct": 51,
+    "win_count": 19,
+    "rank": 21361,
+    "trader_tags": ""
   }
 ]
