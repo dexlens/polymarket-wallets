@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 30568,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55021f4cf0a3eae049a9c5f0ed40db0ac825d440",
+    "trader_name": "lpiere",
+    "tag": "Overall",
+    "overall_gain": 2750.7393013413207,
+    "active_positions": 9,
+    "win_amount": 7864.645964575127,
+    "loss_amount": -5113.906663233807,
+    "win_rate": 0.5972222222222222,
+    "total_current_value": 2069.1424661805,
+    "total_positions": 264,
+    "event_ct": 144,
+    "win_count": 86,
+    "rank": 30569,
+    "trader_tags": ""
   }
 ]
