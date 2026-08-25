@@ -1342,5 +1342,21 @@
     "win_count": 10,
     "rank": 50885,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5cd51da1e96229a4d7e8fb33f5ffbd65ee305bd0",
+    "trader_name": "amoshalvor",
+    "tag": "Overall",
+    "overall_gain": 1445.0149999999999,
+    "active_positions": 1,
+    "win_amount": 1445.0149999999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 16.585,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 50886,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
