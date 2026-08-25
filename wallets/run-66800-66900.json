@@ -1486,5 +1486,21 @@
     "win_count": 3,
     "rank": 66894,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x770b0acacd4a8856cb8340cb2d67e119b17be274",
+    "trader_name": "Freelist",
+    "tag": "Overall",
+    "overall_gain": 892.222326675319,
+    "active_positions": 202,
+    "win_amount": 13890.509899860483,
+    "loss_amount": -12998.287573185164,
+    "win_rate": 0.6328125,
+    "total_current_value": 8610.254805606,
+    "total_positions": 973,
+    "event_ct": 128,
+    "win_count": 81,
+    "rank": 66895,
+    "trader_tags": ""
   }
 ]
