@@ -1118,5 +1118,21 @@
     "win_count": 7,
     "rank": 5070,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x535ec2dccf77489cc0d1453f088344a2995fccd9",
+    "trader_name": "Ricpb",
+    "tag": "Overall",
+    "overall_gain": 21366.081624027116,
+    "active_positions": 6,
+    "win_amount": 27991.341051293115,
+    "loss_amount": -6625.259427265993,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 1281.5678023985001,
+    "total_positions": 99,
+    "event_ct": 52,
+    "win_count": 32,
+    "rank": 5071,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
