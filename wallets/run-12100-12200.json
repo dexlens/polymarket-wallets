@@ -542,5 +542,21 @@
     "win_count": 10,
     "rank": 12134,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc091e508990090861a6cff1734b641cf2bd4e7d0",
+    "trader_name": "Arkgetsu",
+    "tag": "Overall",
+    "overall_gain": 8461.283325362943,
+    "active_positions": 8,
+    "win_amount": 8938.404733751942,
+    "loss_amount": -477.121408389,
+    "win_rate": 0.8723404255319149,
+    "total_current_value": 7251.107518406,
+    "total_positions": 72,
+    "event_ct": 47,
+    "win_count": 41,
+    "rank": 12135,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
