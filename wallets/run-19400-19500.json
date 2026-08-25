@@ -926,5 +926,21 @@
     "win_count": 14,
     "rank": 19458,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1d9ebeb169e379df61a84bcedb70baba7b07641d",
+    "trader_name": "dasdasdf",
+    "tag": "Overall",
+    "overall_gain": 4772.955152834382,
+    "active_positions": 0,
+    "win_amount": 5772.954714834383,
+    "loss_amount": -999.999562,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.007895,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 19459,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
