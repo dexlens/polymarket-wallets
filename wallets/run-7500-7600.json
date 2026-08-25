@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 7554,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf09c5aa62f04ffa83e6b7f30b764896c1a61383d",
+    "trader_name": "Robotanist",
+    "tag": "Overall",
+    "overall_gain": 14040.789141598152,
+    "active_positions": 2,
+    "win_amount": 20457.622341492985,
+    "loss_amount": -6416.833199894832,
+    "win_rate": 0.6571428571428571,
+    "total_current_value": 0.09138899999999998,
+    "total_positions": 41,
+    "event_ct": 35,
+    "win_count": 23,
+    "rank": 7555,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
