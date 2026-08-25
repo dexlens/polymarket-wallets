@@ -1230,5 +1230,21 @@
     "win_count": 10,
     "rank": 8377,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x98b572db6a5c35bba24962f1da002d5a658ab6be",
+    "trader_name": "asaa011",
+    "tag": "Overall",
+    "overall_gain": 12518.221167694692,
+    "active_positions": 3,
+    "win_amount": 17780.705377929793,
+    "loss_amount": -5262.484210235101,
+    "win_rate": 0.625,
+    "total_current_value": 0.009792,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 8378,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
