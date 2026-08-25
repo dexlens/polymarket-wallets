@@ -238,5 +238,21 @@
     "win_count": 9,
     "rank": 26116,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x50c340b9aef4cdc59fedfdb38061b027aa0734d7",
+    "trader_name": "xdavyon",
+    "tag": "Overall",
+    "overall_gain": 3350.3258078614012,
+    "active_positions": 16,
+    "win_amount": 19129.70325169633,
+    "loss_amount": -15779.377443834925,
+    "win_rate": 0.7215189873417721,
+    "total_current_value": 0.35736300000000004,
+    "total_positions": 114,
+    "event_ct": 79,
+    "win_count": 57,
+    "rank": 26117,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
