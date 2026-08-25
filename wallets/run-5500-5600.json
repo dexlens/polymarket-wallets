@@ -558,5 +558,21 @@
     "win_count": 449,
     "rank": 5535,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x61ee455e5da4a8ca06588a728a5548ce758c932c",
+    "trader_name": "patbon",
+    "tag": "Overall",
+    "overall_gain": 19519.228749609043,
+    "active_positions": 9,
+    "win_amount": 30126.232625783574,
+    "loss_amount": -10607.003876174529,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 42807.591313663994,
+    "total_positions": 25,
+    "event_ct": 13,
+    "win_count": 6,
+    "rank": 5536,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
