@@ -510,5 +510,21 @@
     "win_count": 17,
     "rank": 7132,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0b6bf432a70764c1d8e03acdd73e81019882a221",
+    "trader_name": "Vpost",
+    "tag": "Overall",
+    "overall_gain": 15002.954032569998,
+    "active_positions": 0,
+    "win_amount": 15003.466571999998,
+    "loss_amount": -0.51253943,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 7133,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
