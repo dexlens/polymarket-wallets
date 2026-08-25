@@ -718,5 +718,21 @@
     "win_count": 3047,
     "rank": 3545,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x09aedca3605e725655e314a29b28910e0ec555bc",
+    "trader_name": "ekomOkyant",
+    "tag": "Overall",
+    "overall_gain": 32134.699447887797,
+    "active_positions": 146,
+    "win_amount": 317667.0821342695,
+    "loss_amount": -285532.38268638175,
+    "win_rate": 0.5709661817775958,
+    "total_current_value": 2467.0404690000005,
+    "total_positions": 103755,
+    "event_ct": 53758,
+    "win_count": 30694,
+    "rank": 3546,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
