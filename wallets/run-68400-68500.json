@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 68499,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4383dcd136484f50198a5caa31e3141eeafd3d32",
+    "trader_name": "fdaedf",
+    "tag": "Overall",
+    "overall_gain": 848.2925347932669,
+    "active_positions": 9,
+    "win_amount": 1386.523488465849,
+    "loss_amount": -538.2309536725819,
+    "win_rate": 0.5,
+    "total_current_value": 86.1525189705,
+    "total_positions": 59,
+    "event_ct": 38,
+    "win_count": 19,
+    "rank": 68500,
+    "trader_tags": ""
   }
 ]
