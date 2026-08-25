@@ -1070,5 +1070,21 @@
     "win_count": 4,
     "rank": 67768,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9bc50622ea5c238c8642fdcd15252d63da62b86f",
+    "trader_name": "FOX42",
+    "tag": "Overall",
+    "overall_gain": 867.4864,
+    "active_positions": 0,
+    "win_amount": 867.4864,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 67769,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
