@@ -1006,5 +1006,21 @@
     "win_count": 16,
     "rank": 13163,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9bf6a9c33553ace7af0fe38ec78e847a6fec26bb",
+    "trader_name": "Drexen",
+    "tag": "Overall",
+    "overall_gain": 7623.602539031536,
+    "active_positions": 3,
+    "win_amount": 10942.312435244135,
+    "loss_amount": -3318.709896212594,
+    "win_rate": 0.8958333333333334,
+    "total_current_value": 5.000132000000001,
+    "total_positions": 52,
+    "event_ct": 48,
+    "win_count": 43,
+    "rank": 13164,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
