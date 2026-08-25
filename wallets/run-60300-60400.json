@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 60313,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9e98755ef10f168ed213b92f6d7a109335a3ee81",
+    "trader_name": "ludikmaximus",
+    "tag": "Overall",
+    "overall_gain": 1066.50956778,
+    "active_positions": 3,
+    "win_amount": 1313.48436778,
+    "loss_amount": -246.9748,
+    "win_rate": 0.8,
+    "total_current_value": 0.08838900000000001,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 60314,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
