@@ -510,5 +510,21 @@
     "win_count": 22,
     "rank": 50333,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xba419c490d31257776ec5a8ae5701838b8eecf51",
+    "trader_name": "badsolution",
+    "tag": "Overall",
+    "overall_gain": 1469.75150254312,
+    "active_positions": 1,
+    "win_amount": 4079.7724785431196,
+    "loss_amount": -2610.020976,
+    "win_rate": 0.9310344827586207,
+    "total_current_value": 5.437936,
+    "total_positions": 30,
+    "event_ct": 29,
+    "win_count": 27,
+    "rank": 50334,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
