@@ -366,5 +366,21 @@
     "win_count": 1184,
     "rank": 1823,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x18ba998b01068c28418b7116ae86c6df1764de51",
+    "trader_name": "cleanwalls",
+    "tag": "Overall",
+    "overall_gain": 66972.65822787728,
+    "active_positions": 0,
+    "win_amount": 82898.46870944976,
+    "loss_amount": -15925.810481572471,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 0.033435,
+    "total_positions": 33,
+    "event_ct": 21,
+    "win_count": 19,
+    "rank": 1824,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
