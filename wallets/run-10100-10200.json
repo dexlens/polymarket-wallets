@@ -654,5 +654,21 @@
     "win_count": 26,
     "rank": 10141,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1fc10762805ae28fd4df7be2a87fba7208710bff",
+    "trader_name": "nolanaperia",
+    "tag": "Overall",
+    "overall_gain": 10359,
+    "active_positions": 0,
+    "win_amount": 10359,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 10142,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
