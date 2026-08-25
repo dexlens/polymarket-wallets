@@ -846,5 +846,21 @@
     "win_count": 13,
     "rank": 8053,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf8bfee91dcc785f5c0f431a7f6ee70981782b969",
+    "trader_name": "sot",
+    "tag": "Overall",
+    "overall_gain": 13040.44759262553,
+    "active_positions": 1,
+    "win_amount": 35747.16631223522,
+    "loss_amount": -22706.718719609693,
+    "win_rate": 0.5,
+    "total_current_value": 0.037481,
+    "total_positions": 14,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 8054,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
