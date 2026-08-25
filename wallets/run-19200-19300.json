@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 19270,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x63d3fd1fb8f97d01596969e0316022a6126c752f",
+    "trader_name": "0xLT",
+    "tag": "Overall",
+    "overall_gain": 4819.2645525219,
+    "active_positions": 24,
+    "win_amount": 23705.044686257886,
+    "loss_amount": -18885.780133735974,
+    "win_rate": 0.8331913443516783,
+    "total_current_value": 3439.972522548999,
+    "total_positions": 6670,
+    "event_ct": 5869,
+    "win_count": 4890,
+    "rank": 19271,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
