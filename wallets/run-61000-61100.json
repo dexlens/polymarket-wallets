@@ -814,5 +814,21 @@
     "win_count": 5,
     "rank": 61052,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4481f300b79f8bcaa876f4f14b36741bac9e155d",
+    "trader_name": "mmoi",
+    "tag": "Overall",
+    "overall_gain": 1046.2957099999992,
+    "active_positions": 0,
+    "win_amount": 52561.639313999985,
+    "loss_amount": -51515.34360400002,
+    "win_rate": 0.9124539425202652,
+    "total_current_value": 0,
+    "total_positions": 6787,
+    "event_ct": 6785,
+    "win_count": 6191,
+    "rank": 61053,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
