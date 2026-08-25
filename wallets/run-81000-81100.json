@@ -238,5 +238,21 @@
     "win_count": 2,
     "rank": 81016,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xed6744cb0b89a10ed93f72b2afd715880c22c92d",
+    "trader_name": "stasvinokur",
+    "tag": "Overall",
+    "overall_gain": 613.9014646691501,
+    "active_positions": 1,
+    "win_amount": 4883.915249780833,
+    "loss_amount": -4270.013785111685,
+    "win_rate": 0.6674626865671642,
+    "total_current_value": 0.6951277499999999,
+    "total_positions": 1678,
+    "event_ct": 1675,
+    "win_count": 1118,
+    "rank": 81017,
+    "trader_tags": "1k+ Positions"
   }
 ]
