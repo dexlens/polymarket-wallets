@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 43825,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x419dabfead6a740b3cdaf0dfe7f56206608e7817",
+    "trader_name": "batwoman",
+    "tag": "Overall",
+    "overall_gain": 1775.8695369471009,
+    "active_positions": 30,
+    "win_amount": 10772.119869827917,
+    "loss_amount": -8996.250332880812,
+    "win_rate": 0.5473684210526316,
+    "total_current_value": 0.14242899999999997,
+    "total_positions": 112,
+    "event_ct": 95,
+    "win_count": 52,
+    "rank": 43826,
+    "trader_tags": ""
   }
 ]
