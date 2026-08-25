@@ -878,5 +878,21 @@
     "win_count": 3,
     "rank": 33156,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x26801357c19b9aabbc47c05f7203cb053b697fb0",
+    "trader_name": "NIEMI",
+    "tag": "Overall",
+    "overall_gain": 2492.3860922839995,
+    "active_positions": 0,
+    "win_amount": 4030.754871284,
+    "loss_amount": -1538.368779,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.057223,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 33157,
+    "trader_tags": "> 1 year old"
   }
 ]
