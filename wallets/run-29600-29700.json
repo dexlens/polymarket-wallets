@@ -734,5 +734,21 @@
     "win_count": 4,
     "rank": 29647,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3ae25901c1621e25a59879ff955e3b59edbe98b0",
+    "trader_name": "831ll",
+    "tag": "Overall",
+    "overall_gain": 2861.914522771971,
+    "active_positions": 3,
+    "win_amount": 3292.834522771971,
+    "loss_amount": -430.92,
+    "win_rate": 0.75,
+    "total_current_value": 0.012465,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 29648,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
