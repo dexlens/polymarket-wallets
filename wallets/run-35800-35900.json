@@ -430,5 +430,21 @@
     "win_count": 59,
     "rank": 35828,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24f423cc303ef9f44d33103d8cb089b4f9370f4a",
+    "trader_name": "texmo",
+    "tag": "Overall",
+    "overall_gain": 2274.3751265384676,
+    "active_positions": 5,
+    "win_amount": 4194.8715077301495,
+    "loss_amount": -1920.4963811916814,
+    "win_rate": 0.3027027027027027,
+    "total_current_value": 464.8455476529999,
+    "total_positions": 222,
+    "event_ct": 185,
+    "win_count": 56,
+    "rank": 35829,
+    "trader_tags": ""
   }
 ]
