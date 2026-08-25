@@ -750,5 +750,21 @@
     "win_count": 9,
     "rank": 4747,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8da42eb2e2c1eba87794e4c30bc689513b90f3d1",
+    "trader_name": "fawev523",
+    "tag": "Overall",
+    "overall_gain": 22925.815360882316,
+    "active_positions": 86,
+    "win_amount": 40014.371313595926,
+    "loss_amount": -17088.555952713607,
+    "win_rate": 0.6131782945736434,
+    "total_current_value": 405.533891,
+    "total_positions": 2475,
+    "event_ct": 1290,
+    "win_count": 791,
+    "rank": 4748,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
