@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 83943,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf4dce3b9748211334ece503a1212f3e84b1ad394",
+    "trader_name": "cliched.carpool.8h",
+    "tag": "Overall",
+    "overall_gain": 567.183314,
+    "active_positions": 1,
+    "win_amount": 11601.395724000002,
+    "loss_amount": -11034.212409999995,
+    "win_rate": 0.503968253968254,
+    "total_current_value": 7.199999999999999,
+    "total_positions": 603,
+    "event_ct": 504,
+    "win_count": 254,
+    "rank": 83944,
+    "trader_tags": ""
   }
 ]
