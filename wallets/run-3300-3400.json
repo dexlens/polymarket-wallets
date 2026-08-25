@@ -1038,5 +1038,21 @@
     "win_count": 44,
     "rank": 3365,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9d13b5d9f261502657c2865ebaadc42bf8ce4458",
+    "trader_name": "Sohael",
+    "tag": "Overall",
+    "overall_gain": 33941.334836677335,
+    "active_positions": 6,
+    "win_amount": 37591.36678326248,
+    "loss_amount": -3650.031946585136,
+    "win_rate": 0.9310344827586207,
+    "total_current_value": 11.580656223,
+    "total_positions": 81,
+    "event_ct": 29,
+    "win_count": 27,
+    "rank": 3366,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
