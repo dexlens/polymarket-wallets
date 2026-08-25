@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 1121,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x32658d61f095d603fa7f8ea57799d392131334c3",
+    "trader_name": "TateIsAManlet",
+    "tag": "Overall",
+    "overall_gain": 108896.60690428184,
+    "active_positions": 169,
+    "win_amount": 176284.5620500787,
+    "loss_amount": -67387.95514579682,
+    "win_rate": 0.4296675191815857,
+    "total_current_value": 115259.32997560501,
+    "total_positions": 425,
+    "event_ct": 391,
+    "win_count": 168,
+    "rank": 1122,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
