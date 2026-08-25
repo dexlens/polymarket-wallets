@@ -942,5 +942,21 @@
     "win_count": 8,
     "rank": 28160,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x00bb1e99ea870710cd676f03a5381580e900bc4c",
+    "trader_name": "AidenTaylor",
+    "tag": "Overall",
+    "overall_gain": 3045.07589131055,
+    "active_positions": 1,
+    "win_amount": 6800.0621037762685,
+    "loss_amount": -3754.9862124657184,
+    "win_rate": 0.875,
+    "total_current_value": 0.00012800000000000002,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 28161,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
