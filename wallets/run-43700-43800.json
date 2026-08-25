@@ -1102,5 +1102,21 @@
     "win_count": 8,
     "rank": 43770,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2d6c03d2cbc34b4aab3f8397b5459549b4c8ff19",
+    "trader_name": "PSB1",
+    "tag": "Overall",
+    "overall_gain": 1778.4909047321423,
+    "active_positions": 2,
+    "win_amount": 22055.031035732147,
+    "loss_amount": -20276.540130999994,
+    "win_rate": 0.8902698863636364,
+    "total_current_value": 86.59027419,
+    "total_positions": 8452,
+    "event_ct": 8448,
+    "win_count": 7521,
+    "rank": 43771,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
