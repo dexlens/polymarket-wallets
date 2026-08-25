@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 22350,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x21ca71dc68ef1496fef364d3bd9a73905dd9450a",
+    "trader_name": "LLLivesky",
+    "tag": "Overall",
+    "overall_gain": 4041.4696683642574,
+    "active_positions": 8,
+    "win_amount": 12404.822607739692,
+    "loss_amount": -8363.352939375436,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 1601.083398,
+    "total_positions": 247,
+    "event_ct": 38,
+    "win_count": 26,
+    "rank": 22351,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
