@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 59769,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x012901ff20a0ba0b1d44a8d5e2defda15450e3c9",
+    "trader_name": "Ioannjr",
+    "tag": "Overall",
+    "overall_gain": 1083.4581735766512,
+    "active_positions": 9,
+    "win_amount": 4475.786245615594,
+    "loss_amount": -3392.3280720389425,
+    "win_rate": 0.4507042253521127,
+    "total_current_value": 600.68805182,
+    "total_positions": 75,
+    "event_ct": 71,
+    "win_count": 32,
+    "rank": 59770,
+    "trader_tags": "< 30 days old"
   }
 ]
