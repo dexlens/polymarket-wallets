@@ -1390,5 +1390,21 @@
     "win_count": 8,
     "rank": 47588,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1559577664dbcf2369a8498af34de56412de9fd4",
+    "trader_name": "bobonel",
+    "tag": "Overall",
+    "overall_gain": 1590.9002950573731,
+    "active_positions": 0,
+    "win_amount": 1590.9002950573731,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009779,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 47589,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
