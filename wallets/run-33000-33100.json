@@ -414,5 +414,21 @@
     "win_count": 5,
     "rank": 33027,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3a94cd3eec7287f989f2a84063ef06a075cf8518",
+    "trader_name": "A7199",
+    "tag": "Overall",
+    "overall_gain": 2501.24451957,
+    "active_positions": 4,
+    "win_amount": 2503.787099,
+    "loss_amount": -2.54257943,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 19.773933906000003,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 33028,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
