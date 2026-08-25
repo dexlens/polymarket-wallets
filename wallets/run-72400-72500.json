@@ -1214,5 +1214,21 @@
     "win_count": 8,
     "rank": 72477,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2dfc38db5c3c9b47de9214e3dcc1b96b31ef20a2",
+    "trader_name": "jukerbot",
+    "tag": "Overall",
+    "overall_gain": 755.602296657855,
+    "active_positions": 77,
+    "win_amount": 1133.2907527348934,
+    "loss_amount": -377.688456077038,
+    "win_rate": 0.9307228915662651,
+    "total_current_value": 2553.4834350149995,
+    "total_positions": 654,
+    "event_ct": 332,
+    "win_count": 309,
+    "rank": 72478,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
