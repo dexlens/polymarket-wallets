@@ -478,5 +478,21 @@
     "win_count": 6,
     "rank": 61131,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e5a3dd3798d4272e25ad65a1ca3c77b00d3a1ca",
+    "trader_name": "FortificationX",
+    "tag": "Overall",
+    "overall_gain": 1044.2483884007302,
+    "active_positions": 2,
+    "win_amount": 1144.248142,
+    "loss_amount": -99.99975359927,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 1590,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 61132,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
