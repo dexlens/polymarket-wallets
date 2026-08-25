@@ -46,5 +46,21 @@
     "win_count": 2,
     "rank": 44304,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x488494d6e90219f2d1e34e252b5a776e95695d7e",
+    "trader_name": "LeeQ",
+    "tag": "Overall",
+    "overall_gain": 1748.2156792777077,
+    "active_positions": 1,
+    "win_amount": 6260.862838909347,
+    "loss_amount": -4512.64715963164,
+    "win_rate": 0.5,
+    "total_current_value": 0.008251,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 44305,
+    "trader_tags": "> 1 year old"
   }
 ]
