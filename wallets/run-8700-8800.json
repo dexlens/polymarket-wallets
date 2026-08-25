@@ -1406,5 +1406,21 @@
     "win_count": 78,
     "rank": 8788,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1602856ef17c9b838b2f2b941b9c628cd5eecbf7",
+    "trader_name": "takemymoney",
+    "tag": "Overall",
+    "overall_gain": 11918.276021043455,
+    "active_positions": 3,
+    "win_amount": 15508.733683104698,
+    "loss_amount": -3590.457662061244,
+    "win_rate": 0.8198924731182796,
+    "total_current_value": 51252.3618835485,
+    "total_positions": 672,
+    "event_ct": 372,
+    "win_count": 305,
+    "rank": 8789,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
