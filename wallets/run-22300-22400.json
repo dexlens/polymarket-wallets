@@ -478,5 +478,21 @@
     "win_count": 2,
     "rank": 22330,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7d9656e676735a4094bed8a99cddd1479c595073",
+    "trader_name": "STJRTSJRST",
+    "tag": "Overall",
+    "overall_gain": 4046.91911,
+    "active_positions": 1,
+    "win_amount": 4046.91911,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.49,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 30,
+    "rank": 22331,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
