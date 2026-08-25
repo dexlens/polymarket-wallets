@@ -1246,5 +1246,21 @@
     "win_count": 5,
     "rank": 67279,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6d55ca72256bbbd200da95be87d78faba04504b8",
+    "trader_name": "understatement",
+    "tag": "Overall",
+    "overall_gain": 881.2985284170791,
+    "active_positions": 19,
+    "win_amount": 1298.4878384370386,
+    "loss_amount": -417.18931001996003,
+    "win_rate": 0.7258064516129032,
+    "total_current_value": 2427.0377376734996,
+    "total_positions": 89,
+    "event_ct": 62,
+    "win_count": 45,
+    "rank": 67280,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
