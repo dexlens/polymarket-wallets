@@ -798,5 +798,21 @@
     "win_count": 30,
     "rank": 19950,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9a26e1d2b4ad278fb5cef0b22b473f16a1a5c856",
+    "trader_name": "Floyid2",
+    "tag": "Overall",
+    "overall_gain": 4639.5,
+    "active_positions": 0,
+    "win_amount": 4639.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 19951,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
