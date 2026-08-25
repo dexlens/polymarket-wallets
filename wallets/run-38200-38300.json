@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 38297,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd2a2ed94f21daf7994f5996b6d02174327c1004a",
+    "trader_name": "laowuyihao",
+    "tag": "Overall",
+    "overall_gain": 2099.6477303305946,
+    "active_positions": 14,
+    "win_amount": 27589.9760047106,
+    "loss_amount": -25490.32827438,
+    "win_rate": 0.5205897305541434,
+    "total_current_value": 289.32526081,
+    "total_positions": 3095,
+    "event_ct": 1967,
+    "win_count": 1024,
+    "rank": 38298,
+    "trader_tags": "1k+ Positions"
   }
 ]
