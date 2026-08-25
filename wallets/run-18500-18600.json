@@ -574,5 +574,21 @@
     "win_count": 5,
     "rank": 18536,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x09a805fb5adcc63007cce8a81f3aca4bca37a3ea",
+    "trader_name": "soyazian",
+    "tag": "Overall",
+    "overall_gain": 5011.497271517765,
+    "active_positions": 39,
+    "win_amount": 34482.56899071592,
+    "loss_amount": -29471.071719198164,
+    "win_rate": 0.570884871550904,
+    "total_current_value": 170.10378399999993,
+    "total_positions": 1198,
+    "event_ct": 1051,
+    "win_count": 600,
+    "rank": 18537,
+    "trader_tags": "1k+ Positions"
   }
 ]
