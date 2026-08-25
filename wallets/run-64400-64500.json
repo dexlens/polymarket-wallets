@@ -1454,5 +1454,21 @@
     "win_count": 7,
     "rank": 64492,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7f49b5959c3e882a1db22d24cd031b48d2f67568",
+    "trader_name": "roqsh",
+    "tag": "Overall",
+    "overall_gain": 959.505207256665,
+    "active_positions": 0,
+    "win_amount": 959.505207256665,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006665,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 64493,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
