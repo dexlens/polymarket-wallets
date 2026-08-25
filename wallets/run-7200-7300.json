@@ -910,5 +910,21 @@
     "win_count": 56,
     "rank": 7257,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x17792fb9f1d740a48b30a15af76725c86dc94822",
+    "trader_name": "NotOver",
+    "tag": "Overall",
+    "overall_gain": 14726.767766011679,
+    "active_positions": 39,
+    "win_amount": 28058.31752969561,
+    "loss_amount": -13331.54976368394,
+    "win_rate": 0.85625,
+    "total_current_value": 197086.240507074,
+    "total_positions": 287,
+    "event_ct": 160,
+    "win_count": 137,
+    "rank": 7258,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
