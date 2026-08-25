@@ -46,5 +46,21 @@
     "win_count": 9,
     "rank": 16503,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf43e3ba641cc2a172b816ff3a53ab662e4099c72",
+    "trader_name": "venture",
+    "tag": "Overall",
+    "overall_gain": 5775.227385112214,
+    "active_positions": 46,
+    "win_amount": 7140.14729537994,
+    "loss_amount": -1364.9199102677271,
+    "win_rate": 0.1875,
+    "total_current_value": 0.017028,
+    "total_positions": 54,
+    "event_ct": 32,
+    "win_count": 6,
+    "rank": 16504,
+    "trader_tags": "> 1 year old"
   }
 ]
