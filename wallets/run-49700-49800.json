@@ -1182,5 +1182,21 @@
     "win_count": 37,
     "rank": 49775,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x49f703d0ec0ad7c611bbdca1499f741d8177f566",
+    "trader_name": "AreYouStillWatching",
+    "tag": "Overall",
+    "overall_gain": 1493.3267849481151,
+    "active_positions": 4,
+    "win_amount": 1974.4938426481153,
+    "loss_amount": -481.16705770000004,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 733.500191,
+    "total_positions": 74,
+    "event_ct": 48,
+    "win_count": 40,
+    "rank": 49776,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
