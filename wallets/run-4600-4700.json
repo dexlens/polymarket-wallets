@@ -1134,5 +1134,21 @@
     "win_count": 202,
     "rank": 4671,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdc151b0baaa8a61994ecfb84b9dc18e10c053635",
+    "trader_name": "gebran",
+    "tag": "Overall",
+    "overall_gain": 23412.179827127817,
+    "active_positions": 3,
+    "win_amount": 29638.310072882065,
+    "loss_amount": -6226.130245754246,
+    "win_rate": 0.4,
+    "total_current_value": 0.024018,
+    "total_positions": 44,
+    "event_ct": 20,
+    "win_count": 8,
+    "rank": 4672,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
