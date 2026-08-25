@@ -990,5 +990,21 @@
     "win_count": 52,
     "rank": 17762,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3123e448199cc7d7d53dd77e2082d8996d9c1fc9",
+    "trader_name": "jason.borowski",
+    "tag": "Overall",
+    "overall_gain": 5257.3284205235705,
+    "active_positions": 6,
+    "win_amount": 80487.3772838144,
+    "loss_amount": -75230.04886329082,
+    "win_rate": 0.5848621738729602,
+    "total_current_value": 158.25777455,
+    "total_positions": 15573,
+    "event_ct": 10847,
+    "win_count": 6344,
+    "rank": 17763,
+    "trader_tags": "1k+ Positions"
   }
 ]
