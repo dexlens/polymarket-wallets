@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 25115,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x21f8b27c3b666e11cf7c6fcf379116c8edd15f0e",
+    "trader_name": "cvy67u",
+    "tag": "Overall",
+    "overall_gain": 3518.2203718000005,
+    "active_positions": 2,
+    "win_amount": 3739.6257718,
+    "loss_amount": -221.40540000000001,
+    "win_rate": 0.967741935483871,
+    "total_current_value": 185.76227500000002,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 30,
+    "rank": 25116,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
