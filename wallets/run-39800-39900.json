@@ -1278,5 +1278,21 @@
     "win_count": 42,
     "rank": 39881,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0477bb1d6a56a6e82337cbeab2affdc49bd231a1",
+    "trader_name": "GrandtPrestidgewp",
+    "tag": "Overall",
+    "overall_gain": 2000.205278085721,
+    "active_positions": 28,
+    "win_amount": 7000.205278085719,
+    "loss_amount": -5000,
+    "win_rate": 0.8529411764705882,
+    "total_current_value": 24.1903195,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 29,
+    "rank": 39882,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
