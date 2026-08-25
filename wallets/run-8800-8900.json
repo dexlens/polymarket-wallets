@@ -158,5 +158,21 @@
     "win_count": 7,
     "rank": 8810,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf59cf20d2d5dd1c476cdb9ba82bbdc9d51d1ed0b",
+    "trader_name": "Aaxel7",
+    "tag": "Overall",
+    "overall_gain": 11892.880000000001,
+    "active_positions": 0,
+    "win_amount": 11892.880000000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 8811,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
