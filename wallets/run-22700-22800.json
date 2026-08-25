@@ -414,5 +414,21 @@
     "win_count": 3,
     "rank": 22726,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73c36078e961c661830faee9876c6b57397fcadf",
+    "trader_name": "KeystoneKeeperLFG",
+    "tag": "Overall",
+    "overall_gain": 3975.5,
+    "active_positions": 1,
+    "win_amount": 4199,
+    "loss_amount": -223.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 22727,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
