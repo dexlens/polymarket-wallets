@@ -350,5 +350,21 @@
     "win_count": 168,
     "rank": 1122,
     "trader_tags": "Overall PnL > $100k"
+  },
+  {
+    "trader": "0x9e5c74c0bf46f0bf3fcd1064d17e6201c67fd8e6",
+    "trader_name": "sportbet",
+    "tag": "Overall",
+    "overall_gain": 108888.81030132578,
+    "active_positions": 141,
+    "win_amount": 2212015.0975486673,
+    "loss_amount": -2103126.287247341,
+    "win_rate": 0.5417400493131385,
+    "total_current_value": 13344.259798492003,
+    "total_positions": 7369,
+    "event_ct": 2839,
+    "win_count": 1538,
+    "rank": 1123,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions; Sports PnL > $100k"
   }
 ]
