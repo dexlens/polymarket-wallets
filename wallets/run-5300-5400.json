@@ -14,5 +14,21 @@
     "win_count": 5,
     "rank": 5301,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x791bdb890a43fee8c94c1c5a4ca1264973c8a810",
+    "trader_name": "Brexenor",
+    "tag": "Overall",
+    "overall_gain": 20445.589327396094,
+    "active_positions": 4,
+    "win_amount": 22133.285322396092,
+    "loss_amount": -1687.6959950000003,
+    "win_rate": 0.8545454545454545,
+    "total_current_value": 0.00009900000000000001,
+    "total_positions": 59,
+    "event_ct": 55,
+    "win_count": 47,
+    "rank": 5302,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
