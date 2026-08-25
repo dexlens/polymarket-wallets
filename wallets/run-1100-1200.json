@@ -462,5 +462,21 @@
     "win_count": 50,
     "rank": 1129,
     "trader_tags": "Overall PnL > $100k; > 1 year old"
+  },
+  {
+    "trader": "0xeb6f0a13ea8c5a7a0514c25495adbe815c1025f0",
+    "trader_name": "sorcerer.00",
+    "tag": "Overall",
+    "overall_gain": 108215.49092398414,
+    "active_positions": 82,
+    "win_amount": 200178.31404813737,
+    "loss_amount": -91962.82312415334,
+    "win_rate": 0.7866354044548651,
+    "total_current_value": 29775.429425924995,
+    "total_positions": 1302,
+    "event_ct": 853,
+    "win_count": 671,
+    "rank": 1130,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
