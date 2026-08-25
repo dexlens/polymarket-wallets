@@ -1278,5 +1278,21 @@
     "win_count": 8,
     "rank": 8080,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3222a5954f7ad27e1c33b3eaf1c422ec7b247949",
+    "trader_name": "MATTHEWSEELEY",
+    "tag": "Overall",
+    "overall_gain": 13007.100421,
+    "active_positions": 6,
+    "win_amount": 19540.600421,
+    "loss_amount": -6533.5,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 8081,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
