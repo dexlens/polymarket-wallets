@@ -942,5 +942,21 @@
     "win_count": 6,
     "rank": 61360,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x63f0e337b7fe1731c9efc544e346daa2691edbb4",
+    "trader_name": "Babusk",
+    "tag": "Overall",
+    "overall_gain": 1038.342183364525,
+    "active_positions": 1,
+    "win_amount": 1038.342183364525,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 205.120979,
+    "total_positions": 31,
+    "event_ct": 12,
+    "win_count": 12,
+    "rank": 61361,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
