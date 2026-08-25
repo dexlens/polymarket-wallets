@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 51419,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf109c11eb14e3f775c7cdd19615dea3160671b75",
+    "trader_name": "EverestRunner17",
+    "tag": "Overall",
+    "overall_gain": 1418.9932082956739,
+    "active_positions": 1,
+    "win_amount": 3409.230122000001,
+    "loss_amount": -1990.236913704326,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 20,
+    "rank": 51420,
+    "trader_tags": "< 30 days old"
   }
 ]
