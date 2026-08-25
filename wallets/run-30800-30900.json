@@ -254,5 +254,21 @@
     "win_count": 15,
     "rank": 30817,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf18bdd55af9661bd13cb0bca22152057a55051b9",
+    "trader_name": "Degenesk",
+    "tag": "Overall",
+    "overall_gain": 2722.0210238861096,
+    "active_positions": 12,
+    "win_amount": 6283.650631762681,
+    "loss_amount": -3561.6296078765718,
+    "win_rate": 0.6231884057971014,
+    "total_current_value": 0.055511000000000005,
+    "total_positions": 71,
+    "event_ct": 69,
+    "win_count": 43,
+    "rank": 30818,
+    "trader_tags": ""
   }
 ]
