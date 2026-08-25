@@ -702,5 +702,21 @@
     "win_count": 4,
     "rank": 22044,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83e1d9169a78c47c42cc2dab5dc9c58e42532709",
+    "trader_name": "TDbet",
+    "tag": "Overall",
+    "overall_gain": 4112.611308876172,
+    "active_positions": 0,
+    "win_amount": 4112.611308876172,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004716,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 22045,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
