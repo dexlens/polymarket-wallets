@@ -894,5 +894,21 @@
     "win_count": 75,
     "rank": 78557,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x409ddb413de364072fded24e2fe2eb01c3cd7d86",
+    "trader_name": "Greenturtleshells",
+    "tag": "Overall",
+    "overall_gain": 654.760391,
+    "active_positions": 0,
+    "win_amount": 707.760391,
+    "loss_amount": -53,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 78558,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
