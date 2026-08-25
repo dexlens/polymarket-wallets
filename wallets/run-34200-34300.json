@@ -190,5 +190,21 @@
     "win_count": 71,
     "rank": 34213,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36298db833a1bc840687a48e5258affd07699d8d",
+    "trader_name": "PixelDegen",
+    "tag": "Overall",
+    "overall_gain": 2404.1379800109994,
+    "active_positions": 13,
+    "win_amount": 3320.730102,
+    "loss_amount": -916.592121989,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.001,
+    "total_positions": 51,
+    "event_ct": 49,
+    "win_count": 28,
+    "rank": 34214,
+    "trader_tags": "> 1 year old"
   }
 ]
