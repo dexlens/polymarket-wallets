@@ -382,5 +382,21 @@
     "win_count": 9,
     "rank": 82425,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1fabc402f777ee9ef670e558ee0a0b5a01c94ce9",
+    "trader_name": "roman17",
+    "tag": "Overall",
+    "overall_gain": 591.3890874598223,
+    "active_positions": 4,
+    "win_amount": 2964.748188,
+    "loss_amount": -2373.3591005401777,
+    "win_rate": 0.25,
+    "total_current_value": 0.009564,
+    "total_positions": 26,
+    "event_ct": 12,
+    "win_count": 3,
+    "rank": 82426,
+    "trader_tags": "> 1 year old"
   }
 ]
