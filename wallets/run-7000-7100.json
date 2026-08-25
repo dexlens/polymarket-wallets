@@ -1406,5 +1406,21 @@
     "win_count": 21,
     "rank": 7088,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xaf96d7eafb24437878baa524372ca361f780d7a5",
+    "trader_name": "Lexovan",
+    "tag": "Overall",
+    "overall_gain": 15063.607378227725,
+    "active_positions": 2,
+    "win_amount": 15350.318008303044,
+    "loss_amount": -286.71063007531797,
+    "win_rate": 0.8648648648648649,
+    "total_current_value": 0.009793346500000001,
+    "total_positions": 40,
+    "event_ct": 37,
+    "win_count": 32,
+    "rank": 7089,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
