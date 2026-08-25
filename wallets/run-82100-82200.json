@@ -1006,5 +1006,21 @@
     "win_count": 1,
     "rank": 82164,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49b15a2158998273447889b82e6c3e322a42fbab",
+    "trader_name": "C.J",
+    "tag": "Overall",
+    "overall_gain": 595.7967087688811,
+    "active_positions": 0,
+    "win_amount": 823.310567752081,
+    "loss_amount": -227.5138589832,
+    "win_rate": 0.8,
+    "total_current_value": 0.035619,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 82165,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
