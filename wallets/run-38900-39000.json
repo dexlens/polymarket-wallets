@@ -894,5 +894,21 @@
     "win_count": 21,
     "rank": 38957,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ee5288f672c113d3aca2ad20b0c292a3b765099",
+    "trader_name": "PhantomSpire",
+    "tag": "Overall",
+    "overall_gain": 2056.5,
+    "active_positions": 3,
+    "win_amount": 3124.5,
+    "loss_amount": -1068,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 38958,
+    "trader_tags": ""
   }
 ]
