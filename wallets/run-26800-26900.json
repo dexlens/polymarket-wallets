@@ -1134,5 +1134,21 @@
     "win_count": 5,
     "rank": 26872,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9996cdac1fbe324fb58743ca800db1aab870b713",
+    "trader_name": "pieceofcake",
+    "tag": "Overall",
+    "overall_gain": 3225.4424546373048,
+    "active_positions": 0,
+    "win_amount": 3332.8909862373043,
+    "loss_amount": -107.44853160000001,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 0.038356,
+    "total_positions": 19,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 26873,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
