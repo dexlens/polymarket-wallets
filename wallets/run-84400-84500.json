@@ -686,5 +686,21 @@
     "win_count": 7,
     "rank": 84444,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70d7481099e1dd934cd1904a546bc2257751ba11",
+    "trader_name": "NANAE",
+    "tag": "Overall",
+    "overall_gain": 559.9586139999999,
+    "active_positions": 1,
+    "win_amount": 564.9586139999999,
+    "loss_amount": -5,
+    "win_rate": 0.8,
+    "total_current_value": 72.77,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 84445,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
