@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 39423,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d3723d9c8db7e6cc6b1fca9a4517b72c8ceeecd",
+    "trader_name": "OraclePhaseShift",
+    "tag": "Overall",
+    "overall_gain": 2025.3562550000001,
+    "active_positions": 7,
+    "win_amount": 4882.656255,
+    "loss_amount": -2857.3,
+    "win_rate": 0.65,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 13,
+    "rank": 39424,
+    "trader_tags": ""
   }
 ]
