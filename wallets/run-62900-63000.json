@@ -1518,5 +1518,21 @@
     "win_count": 43,
     "rank": 62996,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x26fcddc073cf6457bb81557b285e50226ab614ef",
+    "trader_name": "elphone",
+    "tag": "Overall",
+    "overall_gain": 999.2565032193831,
+    "active_positions": 1,
+    "win_amount": 1140.0753181317652,
+    "loss_amount": -140.818814912382,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.0181642765,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 4,
+    "rank": 62997,
+    "trader_tags": "> 1 year old"
   }
 ]
