@@ -46,5 +46,21 @@
     "win_count": 23,
     "rank": 4003,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7fae008140d54f4c859394d95191d4fbeb6ab7c",
+    "trader_name": "sharpShooter",
+    "tag": "Overall",
+    "overall_gain": 28032.970904,
+    "active_positions": 0,
+    "win_amount": 28032.970904,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 4004,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
