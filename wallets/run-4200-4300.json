@@ -1182,5 +1182,21 @@
     "win_count": 5,
     "rank": 4274,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x52fdda3e1f0aa2f4a667afb0d6ad5343b4644132",
+    "trader_name": "goyslop1",
+    "tag": "Overall",
+    "overall_gain": 26143.547274,
+    "active_positions": 0,
+    "win_amount": 26143.547274,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 179,
+    "event_ct": 179,
+    "win_count": 179,
+    "rank": 4275,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
