@@ -782,5 +782,21 @@
     "win_count": 153,
     "rank": 59350,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93c31707d1d5c8885b492663a35da9863ea87240",
+    "trader_name": "Predilectos",
+    "tag": "Overall",
+    "overall_gain": 1097.3551273691226,
+    "active_positions": 19,
+    "win_amount": 13486.161692554133,
+    "loss_amount": -12388.806565185012,
+    "win_rate": 0.6362631288004422,
+    "total_current_value": 33.929102708,
+    "total_positions": 2344,
+    "event_ct": 1809,
+    "win_count": 1151,
+    "rank": 59351,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
