@@ -1166,5 +1166,21 @@
     "win_count": 113,
     "rank": 1773,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2e0cdd6a0884d56c2540eb1f4a14de9baafd54a7",
+    "trader_name": "haus-tier-mensch",
+    "tag": "Overall",
+    "overall_gain": 69106.32538953437,
+    "active_positions": 110,
+    "win_amount": 104435.08332551428,
+    "loss_amount": -35328.75793597992,
+    "win_rate": 0.638504753673293,
+    "total_current_value": 1607.5772225330004,
+    "total_positions": 9256,
+    "event_ct": 4628,
+    "win_count": 2955,
+    "rank": 1774,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
