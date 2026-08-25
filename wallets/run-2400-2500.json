@@ -1582,5 +1582,21 @@
     "win_count": 22,
     "rank": 2499,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23ff1d3def0773b0e22db2a2cc19b6844a49b3c1",
+    "trader_name": "limingethhh",
+    "tag": "Overall",
+    "overall_gain": 47013.875,
+    "active_positions": 1,
+    "win_amount": 53217.375,
+    "loss_amount": -6203.5,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 2500,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
