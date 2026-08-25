@@ -30,5 +30,21 @@
     "win_count": 110,
     "rank": 25603,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x22e8ed7479d0dc3296575b3f1dba01cbb568b9a1",
+    "trader_name": "kesd",
+    "tag": "Overall",
+    "overall_gain": 3441.3580853927065,
+    "active_positions": 1,
+    "win_amount": 3444.315578106827,
+    "loss_amount": -2.957492714121,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 364.31991600000003,
+    "total_positions": 15,
+    "event_ct": 14,
+    "win_count": 13,
+    "rank": 25604,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
