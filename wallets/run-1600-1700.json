@@ -926,5 +926,21 @@
     "win_count": 705,
     "rank": 1658,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x103b1c9610499e0eacb75728804b59d02d7f33d6",
+    "trader_name": "Zimbov",
+    "tag": "Overall",
+    "overall_gain": 73983.51769191645,
+    "active_positions": 14,
+    "win_amount": 74348.68003387048,
+    "loss_amount": -365.162341954,
+    "win_rate": 0.36666666666666664,
+    "total_current_value": 81.19239549999999,
+    "total_positions": 46,
+    "event_ct": 30,
+    "win_count": 11,
+    "rank": 1659,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
