@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 34740,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf50854a37f555b2e55be26f8f807bba8ea4af39f",
+    "trader_name": "efsev",
+    "tag": "Overall",
+    "overall_gain": 2362.461984,
+    "active_positions": 3,
+    "win_amount": 2395.871984,
+    "loss_amount": -33.41,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 34741,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
