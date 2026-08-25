@@ -1070,5 +1070,21 @@
     "win_count": 80,
     "rank": 74468,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6a9d065dc843b666bb7d01c15e97c026ba322a4",
+    "trader_name": "EthCitadel",
+    "tag": "Overall",
+    "overall_gain": 722.626806459639,
+    "active_positions": 3,
+    "win_amount": 922.6262167750531,
+    "loss_amount": -199.999410315414,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 229.885053,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 74469,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
