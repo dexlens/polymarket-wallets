@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 73457,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5154aa7f777491e56cd639a08034175e6cd2a301",
+    "trader_name": "Kacatta",
+    "tag": "Overall",
+    "overall_gain": 735.9942007630069,
+    "active_positions": 10,
+    "win_amount": 2217.04151070917,
+    "loss_amount": -1481.047309946163,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 0.07331900000000001,
+    "total_positions": 27,
+    "event_ct": 19,
+    "win_count": 10,
+    "rank": 73458,
+    "trader_tags": "> 1 year old"
   }
 ]
