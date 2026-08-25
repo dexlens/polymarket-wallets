@@ -126,5 +126,21 @@
     "win_count": 4,
     "rank": 5408,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1fd9eab54bb2bdd2b7877196b275cf26836004bc",
+    "trader_name": "SherryBurns",
+    "tag": "Overall",
+    "overall_gain": 20010.811109000002,
+    "active_positions": 5,
+    "win_amount": 25040.029509,
+    "loss_amount": -5029.2184,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 5409,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
