@@ -62,5 +62,21 @@
     "win_count": 6,
     "rank": 62105,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2b66c61aa0ce143db8183578f45555c980aba402",
+    "trader_name": "IBA",
+    "tag": "Overall",
+    "overall_gain": 1019.45746340842,
+    "active_positions": 0,
+    "win_amount": 1019.45746340842,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00842,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 62106,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
