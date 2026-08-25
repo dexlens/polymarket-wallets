@@ -1454,5 +1454,21 @@
     "win_count": 10,
     "rank": 67492,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x387d459f70e0dc75e9fc44e52a64c8a23d1dd7cf",
+    "trader_name": "paraUS",
+    "tag": "Overall",
+    "overall_gain": 875.2348709051108,
+    "active_positions": 4,
+    "win_amount": 1564.0389163935959,
+    "loss_amount": -688.804045488485,
+    "win_rate": 0.5625,
+    "total_current_value": 0.027841672,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 67493,
+    "trader_tags": ""
   }
 ]
