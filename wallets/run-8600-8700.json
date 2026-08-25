@@ -590,5 +590,21 @@
     "win_count": 8,
     "rank": 8637,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x47093b4ea23985fedebf5ac461e323b90f40f6c2",
+    "trader_name": "what-would-hayek-do",
+    "tag": "Overall",
+    "overall_gain": 12131.974445854688,
+    "active_positions": 26,
+    "win_amount": 214243.70963685482,
+    "loss_amount": -202111.735191,
+    "win_rate": 0.908745001934735,
+    "total_current_value": 1420.9860763765005,
+    "total_positions": 33821,
+    "event_ct": 31012,
+    "win_count": 28182,
+    "rank": 8638,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
