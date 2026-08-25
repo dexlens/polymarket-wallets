@@ -878,5 +878,21 @@
     "win_count": 15,
     "rank": 4055,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2a888e676a5acead348923b2289f533c2aad438a",
+    "trader_name": "funkybutchunky",
+    "tag": "Overall",
+    "overall_gain": 27640.02407323625,
+    "active_positions": 19,
+    "win_amount": 243176.20713810815,
+    "loss_amount": -215536.183064872,
+    "win_rate": 0.5506264281774486,
+    "total_current_value": 243.83719599999998,
+    "total_positions": 18236,
+    "event_ct": 12691,
+    "win_count": 6988,
+    "rank": 4056,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
