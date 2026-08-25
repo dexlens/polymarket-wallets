@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 51720,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x365fb1c8a91d34bd970964c367dba8e0d736bd52",
+    "trader_name": "dev65",
+    "tag": "Overall",
+    "overall_gain": 1404.5397609599997,
+    "active_positions": 1,
+    "win_amount": 1404.5397609599997,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3143.4937507199998,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 51721,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
