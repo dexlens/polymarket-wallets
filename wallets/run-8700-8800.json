@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 8748,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaab29ce85ffe220ef9e8c9167ffa466ff5fba999",
+    "trader_name": "wealldisagree",
+    "tag": "Overall",
+    "overall_gain": 11979.088457284672,
+    "active_positions": 2,
+    "win_amount": 19192.630927411796,
+    "loss_amount": -7213.542470127129,
+    "win_rate": 0.6619718309859155,
+    "total_current_value": 0.041065000000000004,
+    "total_positions": 91,
+    "event_ct": 71,
+    "win_count": 47,
+    "rank": 8749,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
