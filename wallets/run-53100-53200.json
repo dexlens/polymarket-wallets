@@ -1550,5 +1550,21 @@
     "win_count": 30,
     "rank": 53198,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9dab4638ac1d4f5666134d4cec8074c0c82f1bdf",
+    "trader_name": "yzhaobk",
+    "tag": "Overall",
+    "overall_gain": 1337.7718453590126,
+    "active_positions": 6318,
+    "win_amount": 3026.66879489225,
+    "loss_amount": -1688.8969495332374,
+    "win_rate": 0.5489443378119002,
+    "total_current_value": 1700.8217928819995,
+    "total_positions": 11644,
+    "event_ct": 521,
+    "win_count": 286,
+    "rank": 53199,
+    "trader_tags": "1k+ Positions"
   }
 ]
