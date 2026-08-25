@@ -126,5 +126,21 @@
     "win_count": 1,
     "rank": 58309,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa4a5e9900ecdb6525ac88f1c0961d30658477376",
+    "trader_name": "f8fq",
+    "tag": "Overall",
+    "overall_gain": 1131.875348196664,
+    "active_positions": 0,
+    "win_amount": 1340.9036410664921,
+    "loss_amount": -209.02829286982802,
+    "win_rate": 0.8986486486486487,
+    "total_current_value": 0.19246600000000003,
+    "total_positions": 155,
+    "event_ct": 148,
+    "win_count": 133,
+    "rank": 58310,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
