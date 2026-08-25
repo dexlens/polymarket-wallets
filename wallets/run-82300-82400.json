@@ -878,5 +878,21 @@
     "win_count": 3,
     "rank": 82356,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfff22953960ae529bc25cc79ed77693320f727ad",
+    "trader_name": "Harakuku",
+    "tag": "Overall",
+    "overall_gain": 592.6840459608118,
+    "active_positions": 3,
+    "win_amount": 2352.166059327339,
+    "loss_amount": -1759.4820133665269,
+    "win_rate": 0.53125,
+    "total_current_value": 0.052939999999999994,
+    "total_positions": 57,
+    "event_ct": 32,
+    "win_count": 17,
+    "rank": 82357,
+    "trader_tags": "> 1 year old"
   }
 ]
