@@ -238,5 +238,21 @@
     "win_count": 29,
     "rank": 42216,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2073a28d5241ae0f3456be6a9552a1c4b916d79d",
+    "trader_name": "W1spherQx",
+    "tag": "Overall",
+    "overall_gain": 1865.52,
+    "active_positions": 0,
+    "win_amount": 1865.52,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 42217,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
