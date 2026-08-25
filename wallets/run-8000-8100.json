@@ -1358,5 +1358,21 @@
     "win_count": 17,
     "rank": 8085,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa47b17e15c4960f361560554f20e73e9677ba496",
+    "trader_name": "pyridin",
+    "tag": "Overall",
+    "overall_gain": 13002.549325344367,
+    "active_positions": 7,
+    "win_amount": 21468.877890982876,
+    "loss_amount": -8466.328565638507,
+    "win_rate": 0.5416666666666666,
+    "total_current_value": 0.05974914,
+    "total_positions": 52,
+    "event_ct": 24,
+    "win_count": 13,
+    "rank": 8086,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
