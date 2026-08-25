@@ -1134,5 +1134,21 @@
     "win_count": 9,
     "rank": 6771,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3c6bf65680b4e999ff96884c11c41e43569b268a",
+    "trader_name": "dawangwang001",
+    "tag": "Overall",
+    "overall_gain": 15838.04197113157,
+    "active_positions": 97,
+    "win_amount": 92278.89540592201,
+    "loss_amount": -76440.85343479045,
+    "win_rate": 0.9650943396226415,
+    "total_current_value": 232.00068999999993,
+    "total_positions": 2121,
+    "event_ct": 2120,
+    "win_count": 2046,
+    "rank": 6772,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
