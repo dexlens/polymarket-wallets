@@ -622,5 +622,21 @@
     "win_count": 20,
     "rank": 14639,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x078878fbc666cbadb365c55aa5a7871bf0384c60",
+    "trader_name": "oasyd",
+    "tag": "Overall",
+    "overall_gain": 6713,
+    "active_positions": 0,
+    "win_amount": 6713,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 14640,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
