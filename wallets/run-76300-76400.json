@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 76345,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x356d492ba0fdc38eac8c86ff48f961d0404d2c0b",
+    "trader_name": "gbfgerg",
+    "tag": "Overall",
+    "overall_gain": 693.5346677313318,
+    "active_positions": 5,
+    "win_amount": 3733.9319384999994,
+    "loss_amount": -3040.397270768668,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 61.6576833375,
+    "total_positions": 50,
+    "event_ct": 27,
+    "win_count": 12,
+    "rank": 76346,
+    "trader_tags": ""
   }
 ]
