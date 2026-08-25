@@ -1278,5 +1278,21 @@
     "win_count": 13,
     "rank": 40481,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63e259a05bc35692bb8f94b3f97cb6b00643bfc2",
+    "trader_name": "20dollars",
+    "tag": "Overall",
+    "overall_gain": 1967,
+    "active_positions": 2,
+    "win_amount": 1987,
+    "loss_amount": -20,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 40482,
+    "trader_tags": ""
   }
 ]
