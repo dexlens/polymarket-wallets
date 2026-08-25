@@ -1118,5 +1118,21 @@
     "win_count": 21,
     "rank": 770,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x908faedb048302fa0d687ade60c6c01668c932a9",
+    "trader_name": "JoJo-RasenResearch",
+    "tag": "Overall",
+    "overall_gain": 166137.12003793113,
+    "active_positions": 2,
+    "win_amount": 177289.89447499998,
+    "loss_amount": -11152.77443706885,
+    "win_rate": 0.6,
+    "total_current_value": 0.00242,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 771,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
