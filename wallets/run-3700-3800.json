@@ -862,5 +862,21 @@
     "win_count": 2,
     "rank": 3754,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x641c917159e744d8d071d6bba78520e94a7a9a65",
+    "trader_name": "dylanfalco",
+    "tag": "Overall",
+    "overall_gain": 30380.23849916281,
+    "active_positions": 7,
+    "win_amount": 31595.192783200004,
+    "loss_amount": -1214.9542840371919,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 14888.85086,
+    "total_positions": 18,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 3755,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
