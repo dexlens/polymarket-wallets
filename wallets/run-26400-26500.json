@@ -270,5 +270,21 @@
     "win_count": 2,
     "rank": 26418,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1e119521ed31453d147beef52e1ef28b0a6c970d",
+    "trader_name": "JoyceJonah",
+    "tag": "Overall",
+    "overall_gain": 3302.747110738127,
+    "active_positions": 30,
+    "win_amount": 29604.747104126778,
+    "loss_amount": -26301.999993388643,
+    "win_rate": 0.7195121951219512,
+    "total_current_value": 7.423247999999999,
+    "total_positions": 87,
+    "event_ct": 82,
+    "win_count": 59,
+    "rank": 26419,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
