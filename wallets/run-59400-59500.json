@@ -174,5 +174,21 @@
     "win_count": 7,
     "rank": 59412,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c0fb6a33590f06b9eb283f787f59e4e7a4bae40",
+    "trader_name": "darec",
+    "tag": "Overall",
+    "overall_gain": 1095.275734589264,
+    "active_positions": 0,
+    "win_amount": 1654.250654743748,
+    "loss_amount": -558.9749201544839,
+    "win_rate": 0.75,
+    "total_current_value": 0.16428791499999998,
+    "total_positions": 48,
+    "event_ct": 44,
+    "win_count": 33,
+    "rank": 59413,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
