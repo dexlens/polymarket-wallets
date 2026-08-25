@@ -222,5 +222,21 @@
     "win_count": 189,
     "rank": 25615,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0020c82d6f04b14f8fe0661b4cd596c6ee470480",
+    "trader_name": "Stnk",
+    "tag": "Overall",
+    "overall_gain": 3440.079159910753,
+    "active_positions": 0,
+    "win_amount": 3440.079159910753,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0007530000000000001,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 25616,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
