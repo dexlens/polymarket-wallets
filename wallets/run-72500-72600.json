@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 72598,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83c16b5835a243de79cabff9899c84892ec5eec4",
+    "trader_name": "nicabi",
+    "tag": "Overall",
+    "overall_gain": 752.729674495114,
+    "active_positions": 16,
+    "win_amount": 1196.4107903920087,
+    "loss_amount": -443.681115896895,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 0.035506,
+    "total_positions": 31,
+    "event_ct": 18,
+    "win_count": 8,
+    "rank": 72599,
+    "trader_tags": ""
   }
 ]
