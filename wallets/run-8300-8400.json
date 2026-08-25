@@ -78,5 +78,21 @@
     "win_count": 52,
     "rank": 8305,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x272cb18f98c89bfc5629e65f4dc89aea5baa2c93",
+    "trader_name": "Jyral",
+    "tag": "Overall",
+    "overall_gain": 12652.007075999998,
+    "active_positions": 2,
+    "win_amount": 14843.307076,
+    "loss_amount": -2191.3,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 26,
+    "win_count": 22,
+    "rank": 8306,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
