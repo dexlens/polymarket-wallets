@@ -1006,5 +1006,21 @@
     "win_count": 12,
     "rank": 8663,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x00ed58e92ccdc399c39146874c2b2a0fd9af88b2",
+    "trader_name": "Ravenseye",
+    "tag": "Overall",
+    "overall_gain": 12092.66330287108,
+    "active_positions": 5,
+    "win_amount": 13685.060332943329,
+    "loss_amount": -1592.3970300722458,
+    "win_rate": 0.875,
+    "total_current_value": 20.212325624500004,
+    "total_positions": 17,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 8664,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
