@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 50626,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd68cb9f123bd30c72de90d2880bdf4f50fc4ecdf",
+    "trader_name": "etgfhsf",
+    "tag": "Overall",
+    "overall_gain": 1457.2201118751182,
+    "active_positions": 2,
+    "win_amount": 1643.6285118751182,
+    "loss_amount": -186.40840000000003,
+    "win_rate": 0.96875,
+    "total_current_value": 147.109118,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 31,
+    "rank": 50627,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
