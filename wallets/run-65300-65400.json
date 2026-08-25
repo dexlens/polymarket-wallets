@@ -1518,5 +1518,21 @@
     "win_count": 10,
     "rank": 65396,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa0d5d14604ac37149461debccb19592c6af4301b",
+    "trader_name": "ido28",
+    "tag": "Overall",
+    "overall_gain": 933.331055514077,
+    "active_positions": 2,
+    "win_amount": 956.331055514077,
+    "loss_amount": -23,
+    "win_rate": 0.9,
+    "total_current_value": 0.015695,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 65397,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
