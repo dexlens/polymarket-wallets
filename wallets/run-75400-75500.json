@@ -350,5 +350,21 @@
     "win_count": 77,
     "rank": 75423,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x670fb75113fc0e5251c177e37fa551142f6d3f29",
+    "trader_name": "otm2",
+    "tag": "Overall",
+    "overall_gain": 707.6879455035398,
+    "active_positions": 25,
+    "win_amount": 2796.6138599802066,
+    "loss_amount": -2088.925914476668,
+    "win_rate": 0.5878787878787879,
+    "total_current_value": 0,
+    "total_positions": 295,
+    "event_ct": 165,
+    "win_count": 97,
+    "rank": 75424,
+    "trader_tags": ""
   }
 ]
