@@ -670,5 +670,21 @@
     "win_count": 11,
     "rank": 83543,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x90c124d9846ad7244786ee606af4eb542ed28c42",
+    "trader_name": "guo2245",
+    "tag": "Overall",
+    "overall_gain": 573.359471882408,
+    "active_positions": 14,
+    "win_amount": 797.8806404683179,
+    "loss_amount": -224.52116858591,
+    "win_rate": 0.696969696969697,
+    "total_current_value": 201.662944727,
+    "total_positions": 35,
+    "event_ct": 33,
+    "win_count": 23,
+    "rank": 83544,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
