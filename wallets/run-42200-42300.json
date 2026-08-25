@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 42284,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7cba17e741cdbe6b524c676b74f45be8b00dc616",
+    "trader_name": "Zhuzhu2025",
+    "tag": "Overall",
+    "overall_gain": 1861.5159553861674,
+    "active_positions": 135,
+    "win_amount": 30027.8217346522,
+    "loss_amount": -28166.305779266026,
+    "win_rate": 0.7087378640776699,
+    "total_current_value": 460.859431967,
+    "total_positions": 751,
+    "event_ct": 515,
+    "win_count": 365,
+    "rank": 42285,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
