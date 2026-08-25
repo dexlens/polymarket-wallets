@@ -1022,5 +1022,21 @@
     "win_count": 4,
     "rank": 4164,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x164229b9d0587e50b94098f5840164282b565988",
+    "trader_name": "1mperator17",
+    "tag": "Overall",
+    "overall_gain": 26799.539207815782,
+    "active_positions": 81,
+    "win_amount": 1343255.9818259783,
+    "loss_amount": -1316456.4426181614,
+    "win_rate": 0.5933694181326117,
+    "total_current_value": 8.373988999999998,
+    "total_positions": 4395,
+    "event_ct": 2956,
+    "win_count": 1754,
+    "rank": 4165,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
