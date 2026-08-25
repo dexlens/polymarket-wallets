@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 19214,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80e46c11a71d46f31838261935b500d2fabac347",
+    "trader_name": "WWAS",
+    "tag": "Overall",
+    "overall_gain": 4837.425475539445,
+    "active_positions": 3,
+    "win_amount": 4839.45299830268,
+    "loss_amount": -2.027522763235,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 0.005239000000000001,
+    "total_positions": 16,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 19215,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
