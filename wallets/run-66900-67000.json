@@ -1582,5 +1582,21 @@
     "win_count": 16,
     "rank": 67000,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc862479721a17aa31ec7169b6ace391139b265af",
+    "trader_name": "korshun",
+    "tag": "Overall",
+    "overall_gain": 889.292414567197,
+    "active_positions": 47,
+    "win_amount": 6445.010844130242,
+    "loss_amount": -5555.718429563044,
+    "win_rate": 0.591304347826087,
+    "total_current_value": 0.000241,
+    "total_positions": 115,
+    "event_ct": 115,
+    "win_count": 68,
+    "rank": 67001,
+    "trader_tags": ""
   }
 ]
