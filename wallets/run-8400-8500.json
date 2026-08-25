@@ -1198,5 +1198,21 @@
     "win_count": 41,
     "rank": 8475,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe82e99f17119cf9ea481b3b20d90b21261fc1ce0",
+    "trader_name": "MAGA.MUSK",
+    "tag": "Overall",
+    "overall_gain": 12345.139459180002,
+    "active_positions": 1,
+    "win_amount": 21808.101746,
+    "loss_amount": -9462.962286819999,
+    "win_rate": 0.963276836158192,
+    "total_current_value": 0,
+    "total_positions": 497,
+    "event_ct": 354,
+    "win_count": 341,
+    "rank": 8476,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
