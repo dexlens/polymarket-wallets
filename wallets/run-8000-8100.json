@@ -878,5 +878,21 @@
     "win_count": 3,
     "rank": 8055,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8666e7d8453553fef2ea2331b49ab24d31a7d7c7",
+    "trader_name": "Tuku",
+    "tag": "Overall",
+    "overall_gain": 13035.323644994865,
+    "active_positions": 17,
+    "win_amount": 18723.21706332925,
+    "loss_amount": -5687.893418334388,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 15776.091721147497,
+    "total_positions": 404,
+    "event_ct": 162,
+    "win_count": 117,
+    "rank": 8056,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
