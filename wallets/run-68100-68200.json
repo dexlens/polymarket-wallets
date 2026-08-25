@@ -670,5 +670,21 @@
     "win_count": 8,
     "rank": 68143,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1eee7ee18b6055a3bff8ae6e24538fda7a719ee9",
+    "trader_name": "allfunds",
+    "tag": "Overall",
+    "overall_gain": 856.9498139159168,
+    "active_positions": 5,
+    "win_amount": 1090.028672864915,
+    "loss_amount": -233.078858948998,
+    "win_rate": 0.5,
+    "total_current_value": 0.029465,
+    "total_positions": 24,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 68144,
+    "trader_tags": "> 1 year old"
   }
 ]
