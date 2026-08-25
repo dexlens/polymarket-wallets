@@ -1342,5 +1342,21 @@
     "win_count": 2,
     "rank": 82085,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x704fe21576e27ba48826cf892d8a5dc7c0186229",
+    "trader_name": "dollsa",
+    "tag": "Overall",
+    "overall_gain": 597.0228286414301,
+    "active_positions": 1,
+    "win_amount": 2211.8697581,
+    "loss_amount": -1614.84692945857,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 82086,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
