@@ -718,5 +718,21 @@
     "win_count": 1,
     "rank": 50246,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0646ad6e9fc9b1403c1da15a502ef544fe45ad17",
+    "trader_name": "Lamrinus",
+    "tag": "Overall",
+    "overall_gain": 1473.49970207875,
+    "active_positions": 93,
+    "win_amount": 3238.514690821718,
+    "loss_amount": -1765.0149887429677,
+    "win_rate": 0.5159010600706714,
+    "total_current_value": 0.19194899999999998,
+    "total_positions": 307,
+    "event_ct": 283,
+    "win_count": 146,
+    "rank": 50247,
+    "trader_tags": ""
   }
 ]
