@@ -1422,5 +1422,21 @@
     "win_count": 7,
     "rank": 33090,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6deeeebac39ce765a734ca44947760deb62af4e6",
+    "trader_name": "caroline.name",
+    "tag": "Overall",
+    "overall_gain": 2496.7123607644826,
+    "active_positions": 4,
+    "win_amount": 4591.852283713775,
+    "loss_amount": -2095.139922949291,
+    "win_rate": 0.6319261213720316,
+    "total_current_value": 481.33806101550005,
+    "total_positions": 1785,
+    "event_ct": 758,
+    "win_count": 479,
+    "rank": 33091,
+    "trader_tags": "1k+ Positions"
   }
 ]
