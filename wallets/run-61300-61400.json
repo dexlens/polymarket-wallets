@@ -190,5 +190,21 @@
     "win_count": 7,
     "rank": 61313,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ccd5943012f40fcbbd338e6193ce5a5c9470953",
+    "trader_name": "PAUPAU",
+    "tag": "Overall",
+    "overall_gain": 1039.5801782326762,
+    "active_positions": 2,
+    "win_amount": 5087.177984,
+    "loss_amount": -4047.597805767324,
+    "win_rate": 0.6129032258064516,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 31,
+    "win_count": 19,
+    "rank": 61314,
+    "trader_tags": "> 1 year old"
   }
 ]
