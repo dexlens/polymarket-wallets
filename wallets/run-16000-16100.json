@@ -862,5 +862,21 @@
     "win_count": 7,
     "rank": 16054,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdb4ff955cdeaae49f117b878b3e4bbb566914ff6",
+    "trader_name": "Celestii",
+    "tag": "Overall",
+    "overall_gain": 5976.775925941409,
+    "active_positions": 29,
+    "win_amount": 26250.552182422336,
+    "loss_amount": -20273.776256480916,
+    "win_rate": 0.703125,
+    "total_current_value": 22.263367999999996,
+    "total_positions": 70,
+    "event_ct": 64,
+    "win_count": 45,
+    "rank": 16055,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
