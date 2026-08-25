@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 12297,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf02105d60083d7d74d7e0f9785d79e06137cdf56",
+    "trader_name": "MollyParkets",
+    "tag": "Overall",
+    "overall_gain": 8307.235706204983,
+    "active_positions": 73,
+    "win_amount": 52409.130354313354,
+    "loss_amount": -44101.894648108384,
+    "win_rate": 0.5958188153310104,
+    "total_current_value": 7945.526966826001,
+    "total_positions": 2060,
+    "event_ct": 1148,
+    "win_count": 684,
+    "rank": 12298,
+    "trader_tags": "1k+ Positions"
   }
 ]
