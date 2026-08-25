@@ -542,5 +542,21 @@
     "win_count": 6,
     "rank": 62135,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x773c28b96dac43ea671d840fd98f4f031eb6cc98",
+    "trader_name": "southfly",
+    "tag": "Overall",
+    "overall_gain": 1018.5938144337706,
+    "active_positions": 38,
+    "win_amount": 2320.018478608651,
+    "loss_amount": -1301.4246641748814,
+    "win_rate": 0.7614678899082569,
+    "total_current_value": 5495.503752468,
+    "total_positions": 151,
+    "event_ct": 109,
+    "win_count": 83,
+    "rank": 62136,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
