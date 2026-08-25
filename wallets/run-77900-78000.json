@@ -1534,5 +1534,21 @@
     "win_count": 3,
     "rank": 77997,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb0b2f700a1a867cac99b76807e38e018aded5de6",
+    "trader_name": "silver-disk",
+    "tag": "Overall",
+    "overall_gain": 664.0937960000001,
+    "active_positions": 1,
+    "win_amount": 664.0937960000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 60,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 77998,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
