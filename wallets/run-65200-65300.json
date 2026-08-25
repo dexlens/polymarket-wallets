@@ -1310,5 +1310,21 @@
     "win_count": 40,
     "rank": 65283,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2c000ed7cde167d951fe334659f1eef9f170ee8e",
+    "trader_name": "ihor",
+    "tag": "Overall",
+    "overall_gain": 936.715470074284,
+    "active_positions": 1,
+    "win_amount": 936.715470074284,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1185.714284,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 65284,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
