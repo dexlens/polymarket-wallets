@@ -798,5 +798,21 @@
     "win_count": 8,
     "rank": 62451,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x572b17b332bbf6a096ae069575e1fb73188444c6",
+    "trader_name": "SJSJRJSR",
+    "tag": "Overall",
+    "overall_gain": 1010.8132979977144,
+    "active_positions": 3,
+    "win_amount": 3032.8932979977144,
+    "loss_amount": -2022.08,
+    "win_rate": 0.9375,
+    "total_current_value": 10.437714,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 30,
+    "rank": 62452,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
