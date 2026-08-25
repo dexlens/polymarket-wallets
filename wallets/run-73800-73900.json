@@ -942,5 +942,21 @@
     "win_count": 4,
     "rank": 73860,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6ba5d23bc11858240ed0b54c9ef0082f0e426769",
+    "trader_name": "yellasio",
+    "tag": "Overall",
+    "overall_gain": 730.8193747234919,
+    "active_positions": 3,
+    "win_amount": 2955.769008412254,
+    "loss_amount": -2224.949633688762,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 21.960788895,
+    "total_positions": 64,
+    "event_ct": 55,
+    "win_count": 45,
+    "rank": 73861,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
