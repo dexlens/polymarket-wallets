@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 64457,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8007ad03470539b924f93d3d263981c39d05a8f4",
+    "trader_name": "OstapP",
+    "tag": "Overall",
+    "overall_gain": 960.3013399664728,
+    "active_positions": 20,
+    "win_amount": 4138.450861191462,
+    "loss_amount": -3178.1495212249893,
+    "win_rate": 0.5686274509803921,
+    "total_current_value": 1636.3952323,
+    "total_positions": 115,
+    "event_ct": 51,
+    "win_count": 29,
+    "rank": 64458,
+    "trader_tags": ""
   }
 ]
