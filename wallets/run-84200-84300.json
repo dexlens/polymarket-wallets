@@ -1006,5 +1006,21 @@
     "win_count": 12,
     "rank": 84264,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x158e8f1198224372ff94610b6a88de3f83661825",
+    "trader_name": "hfg43",
+    "tag": "Overall",
+    "overall_gain": 562.6473888800317,
+    "active_positions": 6,
+    "win_amount": 6163.610291,
+    "loss_amount": -5600.962902119968,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 23.977272083000003,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 5,
+    "rank": 84265,
+    "trader_tags": "> 1 year old"
   }
 ]
