@@ -1358,5 +1358,21 @@
     "win_count": 8,
     "rank": 87286,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x02c640ed9bd7743073c31a1c8e407876d0f9761f",
+    "trader_name": "ezzbets",
+    "tag": "Overall",
+    "overall_gain": 521.973486432104,
+    "active_positions": 1,
+    "win_amount": 521.973486432104,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1972.7303278799998,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 87287,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
