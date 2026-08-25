@@ -1582,5 +1582,21 @@
     "win_count": 7,
     "rank": 7399,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x94e558d3ed900b2df4c1067a1aa00eacb434a46c",
+    "trader_name": "maru-xan",
+    "tag": "Overall",
+    "overall_gain": 14373.774931514918,
+    "active_positions": 12,
+    "win_amount": 30173.51484471441,
+    "loss_amount": -15799.739913199493,
+    "win_rate": 0.9598214285714286,
+    "total_current_value": 0.139173,
+    "total_positions": 464,
+    "event_ct": 448,
+    "win_count": 430,
+    "rank": 7400,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
