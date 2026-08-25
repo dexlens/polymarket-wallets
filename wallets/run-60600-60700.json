@@ -1406,5 +1406,21 @@
     "win_count": 2,
     "rank": 60689,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf081d958e16626414d2a9bb84cb16a68aa979d40",
+    "trader_name": "gopfan-betmoar",
+    "tag": "Overall",
+    "overall_gain": 1056.236424415325,
+    "active_positions": 9,
+    "win_amount": 1793.5271237079999,
+    "loss_amount": -737.2906992926751,
+    "win_rate": 0.725,
+    "total_current_value": 0.00672,
+    "total_positions": 45,
+    "event_ct": 40,
+    "win_count": 29,
+    "rank": 60690,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
