@@ -366,5 +366,21 @@
     "win_count": 8,
     "rank": 29424,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd998f0e1fda23bbcf406757ec4c65f3e35d17806",
+    "trader_name": "cyberuser",
+    "tag": "Overall",
+    "overall_gain": 2892.902741345725,
+    "active_positions": 1,
+    "win_amount": 3092.9009476567553,
+    "loss_amount": -199.99820631103,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.006755,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 29425,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
