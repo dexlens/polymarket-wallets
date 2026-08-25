@@ -110,5 +110,21 @@
     "win_count": 50,
     "rank": 49708,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c7bc679e0328ad1df10fd48830fe3d05a035485",
+    "trader_name": "MaxShorter",
+    "tag": "Overall",
+    "overall_gain": 1496.1551132065397,
+    "active_positions": 21,
+    "win_amount": 16654.766987266245,
+    "loss_amount": -15158.611874059701,
+    "win_rate": 0.44776119402985076,
+    "total_current_value": 44795.828683626496,
+    "total_positions": 103,
+    "event_ct": 67,
+    "win_count": 30,
+    "rank": 49709,
+    "trader_tags": "> 1 year old"
   }
 ]
