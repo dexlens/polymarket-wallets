@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 74070,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6d2f4f71af78344a066dda67a22f637afc66ca17",
+    "trader_name": "Poseifdon",
+    "tag": "Overall",
+    "overall_gain": 727.5,
+    "active_positions": 4,
+    "win_amount": 2555,
+    "loss_amount": -1827.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 74071,
+    "trader_tags": ""
   }
 ]
