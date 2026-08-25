@@ -174,5 +174,21 @@
     "win_count": 44,
     "rank": 2011,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcb40223e66c95a535ce3be974c5f7c40b621a284",
+    "trader_name": "rokoo69",
+    "tag": "Overall",
+    "overall_gain": 60132.64021384358,
+    "active_positions": 1,
+    "win_amount": 93286.79887461844,
+    "loss_amount": -33154.15866077492,
+    "win_rate": 0.5095095095095095,
+    "total_current_value": 531.1383126210003,
+    "total_positions": 1814,
+    "event_ct": 999,
+    "win_count": 509,
+    "rank": 2012,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
