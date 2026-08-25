@@ -366,5 +366,21 @@
     "win_count": 2,
     "rank": 7423,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa9e0bf98db4151c31a7df2574e7953bb72bf7586",
+    "trader_name": "muga",
+    "tag": "Overall",
+    "overall_gain": 14315.172653852995,
+    "active_positions": 9,
+    "win_amount": 42662.490179438566,
+    "loss_amount": -28347.31752558558,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0.21133,
+    "total_positions": 46,
+    "event_ct": 22,
+    "win_count": 12,
+    "rank": 7424,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
