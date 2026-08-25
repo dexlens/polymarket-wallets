@@ -1422,5 +1422,21 @@
     "win_count": 7,
     "rank": 19189,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb6e1c24f57328fc4a27d9830b5181f3608f7a854",
+    "trader_name": "sds",
+    "tag": "Overall",
+    "overall_gain": 4847.005030000001,
+    "active_positions": 1,
+    "win_amount": 6213.711176000002,
+    "loss_amount": -1366.706146,
+    "win_rate": 0.8076923076923077,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 26,
+    "win_count": 21,
+    "rank": 19190,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
