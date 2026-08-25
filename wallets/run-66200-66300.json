@@ -702,5 +702,21 @@
     "win_count": 6,
     "rank": 66245,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9eb48be5d329b282b8a18473db7ca6eaeeec65a1",
+    "trader_name": "SirMartingale",
+    "tag": "Overall",
+    "overall_gain": 909.1524144064513,
+    "active_positions": 22,
+    "win_amount": 8348.791594000002,
+    "loss_amount": -7439.639179593551,
+    "win_rate": 0.4772319827895303,
+    "total_current_value": 1065.435791,
+    "total_positions": 5475,
+    "event_ct": 2789,
+    "win_count": 1331,
+    "rank": 66246,
+    "trader_tags": "1k+ Positions"
   }
 ]
