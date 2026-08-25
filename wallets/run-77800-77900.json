@@ -158,5 +158,21 @@
     "win_count": 1,
     "rank": 77811,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a084510766977c391f97fc283f02ca61639e1d3",
+    "trader_name": "PAPAKONG",
+    "tag": "Overall",
+    "overall_gain": 667.149514130513,
+    "active_positions": 1,
+    "win_amount": 681.149406218207,
+    "loss_amount": -13.999892087694,
+    "win_rate": 0.75,
+    "total_current_value": 0.0064885889999999995,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 77812,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
