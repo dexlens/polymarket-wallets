@@ -430,5 +430,21 @@
     "win_count": 5,
     "rank": 6227,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ef2fd54c7e5a6b0ec1b3b11e43d30dc75efb7f0",
+    "trader_name": "mlzm",
+    "tag": "Overall",
+    "overall_gain": 17186.858165999998,
+    "active_positions": 1,
+    "win_amount": 17360.178165999998,
+    "loss_amount": -173.32,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 6228,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
