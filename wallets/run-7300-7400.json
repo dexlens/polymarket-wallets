@@ -174,5 +174,21 @@
     "win_count": 21,
     "rank": 7311,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbb50fa724ac755197246d950008d6a0564ee7bfc",
+    "trader_name": "KARACAC",
+    "tag": "Overall",
+    "overall_gain": 14587.311843799964,
+    "active_positions": 838,
+    "win_amount": 43347.85763852905,
+    "loss_amount": -28760.545794729063,
+    "win_rate": 0.4654963680387409,
+    "total_current_value": 2020.8704915990006,
+    "total_positions": 4385,
+    "event_ct": 1652,
+    "win_count": 769,
+    "rank": 7312,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
