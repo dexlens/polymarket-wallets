@@ -590,5 +590,21 @@
     "win_count": 33,
     "rank": 20937,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29461a045f8c229cbb885731c4cff8cbf5d508c0",
+    "trader_name": "biying2",
+    "tag": "Overall",
+    "overall_gain": 4379.017406903424,
+    "active_positions": 486,
+    "win_amount": 56389.34712710894,
+    "loss_amount": -52010.329720205526,
+    "win_rate": 0.8754508145753016,
+    "total_current_value": 0.42096799999999984,
+    "total_positions": 17044,
+    "event_ct": 16082,
+    "win_count": 14079,
+    "rank": 20938,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
