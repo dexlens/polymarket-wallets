@@ -670,5 +670,21 @@
     "win_count": 36,
     "rank": 4742,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81919ccfb63c8eaceb51e286f295294431945c41",
+    "trader_name": "UrbanJelly",
+    "tag": "Overall",
+    "overall_gain": 22967.429720222706,
+    "active_positions": 1,
+    "win_amount": 23058.14204,
+    "loss_amount": -90.71231977729397,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.007516,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 4743,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
