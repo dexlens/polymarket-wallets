@@ -926,5 +926,21 @@
     "win_count": 216,
     "rank": 6158,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x83030d115c260689df4fa05feccccfd1c54ba3dd",
+    "trader_name": "trumpgonnawin",
+    "tag": "Overall",
+    "overall_gain": 17400.435384012446,
+    "active_positions": 0,
+    "win_amount": 17400.435384012446,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003156,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6159,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
