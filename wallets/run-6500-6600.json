@@ -926,5 +926,21 @@
     "win_count": 35,
     "rank": 6558,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58c028e7c41ba7ef2bde2142cd371cf491661c8e",
+    "trader_name": "residual",
+    "tag": "Overall",
+    "overall_gain": 16355.104744506978,
+    "active_positions": 11,
+    "win_amount": 41695.41100049505,
+    "loss_amount": -25340.30625598807,
+    "win_rate": 0.717948717948718,
+    "total_current_value": 2456.5426077665006,
+    "total_positions": 644,
+    "event_ct": 546,
+    "win_count": 392,
+    "rank": 6559,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
