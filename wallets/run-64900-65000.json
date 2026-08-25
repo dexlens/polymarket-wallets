@@ -126,5 +126,21 @@
     "win_count": 17,
     "rank": 64909,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2f4fd7aed8850a167bac2c725a1f82faf3da2d43",
+    "trader_name": "builder25",
+    "tag": "Overall",
+    "overall_gain": 948.2272882506201,
+    "active_positions": 0,
+    "win_amount": 1064.34555050906,
+    "loss_amount": -116.11826225844001,
+    "win_rate": 0.9,
+    "total_current_value": 0.061725,
+    "total_positions": 13,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 64910,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
