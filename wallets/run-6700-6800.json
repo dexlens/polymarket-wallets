@@ -622,5 +622,21 @@
     "win_count": 223,
     "rank": 6739,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x568ccac5afa099cfe092d16a8e0d5019264afbd0",
+    "trader_name": "amigoaparecieron",
+    "tag": "Overall",
+    "overall_gain": 15927.787580058284,
+    "active_positions": 4,
+    "win_amount": 26630.0855045533,
+    "loss_amount": -10702.29792449502,
+    "win_rate": 0.6521739130434783,
+    "total_current_value": 0.091584,
+    "total_positions": 26,
+    "event_ct": 23,
+    "win_count": 15,
+    "rank": 6740,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
