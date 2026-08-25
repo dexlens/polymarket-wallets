@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 23138,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1993f97f4bc269cf344231df4ba76fb10168ceb0",
+    "trader_name": "tjfgfk",
+    "tag": "Overall",
+    "overall_gain": 3890.523861,
+    "active_positions": 2,
+    "win_amount": 4065.3454610000003,
+    "loss_amount": -174.82160000000002,
+    "win_rate": 0.9722222222222222,
+    "total_current_value": 184.440075,
+    "total_positions": 39,
+    "event_ct": 36,
+    "win_count": 35,
+    "rank": 23139,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
