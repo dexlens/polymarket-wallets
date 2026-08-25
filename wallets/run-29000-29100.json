@@ -1166,5 +1166,21 @@
     "win_count": 7,
     "rank": 29074,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x871e0878ad5b674a34b18cf05442c43142e36566",
+    "trader_name": "Misprice",
+    "tag": "Overall",
+    "overall_gain": 2939.1218624986204,
+    "active_positions": 0,
+    "win_amount": 47253.983356975004,
+    "loss_amount": -44314.86149447638,
+    "win_rate": 0.6992,
+    "total_current_value": 0.34599044,
+    "total_positions": 964,
+    "event_ct": 625,
+    "win_count": 437,
+    "rank": 29075,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
