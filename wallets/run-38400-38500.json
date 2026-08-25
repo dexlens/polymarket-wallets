@@ -846,5 +846,21 @@
     "win_count": 2,
     "rank": 38454,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3661c06d8a1a83abb5d3c5b8f230c3518767e41b",
+    "trader_name": "mangtou",
+    "tag": "Overall",
+    "overall_gain": 2089.3278907221543,
+    "active_positions": 8,
+    "win_amount": 2572.3049136193813,
+    "loss_amount": -482.977022897227,
+    "win_rate": 0.9148936170212766,
+    "total_current_value": 6173.099908085,
+    "total_positions": 101,
+    "event_ct": 94,
+    "win_count": 86,
+    "rank": 38455,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
