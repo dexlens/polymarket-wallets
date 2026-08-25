@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 1297,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcef7546f9069ecd6a05f7c1ad04c92b0f851e7d7",
+    "trader_name": "ChineseMethod",
+    "tag": "Overall",
+    "overall_gain": 93073.48886633717,
+    "active_positions": 261,
+    "win_amount": 282245.9904625205,
+    "loss_amount": -189172.50159618334,
+    "win_rate": 0.5617021276595745,
+    "total_current_value": 1153.3268760000003,
+    "total_positions": 2706,
+    "event_ct": 1410,
+    "win_count": 792,
+    "rank": 1298,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
