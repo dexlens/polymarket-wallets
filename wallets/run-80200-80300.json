@@ -1086,5 +1086,21 @@
     "win_count": 20,
     "rank": 80269,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x447f2592c2ea6f708f5379fd5647b50cd5f301fa",
+    "trader_name": "Alexantenars1",
+    "tag": "Overall",
+    "overall_gain": 626.270676356,
+    "active_positions": 1,
+    "win_amount": 675.8866663560002,
+    "loss_amount": -49.615990000000004,
+    "win_rate": 0.984375,
+    "total_current_value": 1100.022727,
+    "total_positions": 282,
+    "event_ct": 192,
+    "win_count": 189,
+    "rank": 80270,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
