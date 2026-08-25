@@ -542,5 +542,21 @@
     "win_count": 4,
     "rank": 27235,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x45577ec4f2ebd6cbeba6d1064e97f2efbf39e295",
+    "trader_name": "Cassa",
+    "tag": "Overall",
+    "overall_gain": 3171.96059,
+    "active_positions": 0,
+    "win_amount": 3171.96059,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 27236,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
