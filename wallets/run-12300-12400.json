@@ -494,5 +494,21 @@
     "win_count": 10,
     "rank": 12331,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd0a7ec67c3ee86ff71e7553e0eb7ffbfb89a86c",
+    "trader_name": "jinjv",
+    "tag": "Overall",
+    "overall_gain": 8280.924543,
+    "active_positions": 0,
+    "win_amount": 8281.174439999999,
+    "loss_amount": -0.249897,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.00975,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 12332,
+    "trader_tags": "> 1 year old"
   }
 ]
