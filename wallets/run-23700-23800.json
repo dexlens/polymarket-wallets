@@ -846,5 +846,21 @@
     "win_count": 9,
     "rank": 23754,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ae9ce0d9c52c7fe556f745fafc3afd7c8b400b0",
+    "trader_name": "Zfden",
+    "tag": "Overall",
+    "overall_gain": 3769.5,
+    "active_positions": 2,
+    "win_amount": 4353,
+    "loss_amount": -583.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 23755,
+    "trader_tags": ""
   }
 ]
