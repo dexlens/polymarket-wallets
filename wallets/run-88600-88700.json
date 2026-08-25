@@ -110,5 +110,21 @@
     "win_count": 3,
     "rank": 88608,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ca9c4cd976fd95737a367309b3a9f832813b920",
+    "trader_name": "SP00NER",
+    "tag": "Overall",
+    "overall_gain": 506.10762180855284,
+    "active_positions": 3,
+    "win_amount": 6344.169336146923,
+    "loss_amount": -5838.061714338371,
+    "win_rate": 0.8583372039015328,
+    "total_current_value": 16.406107,
+    "total_positions": 2173,
+    "event_ct": 2153,
+    "win_count": 1848,
+    "rank": 88609,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
