@@ -142,5 +142,21 @@
     "win_count": 28,
     "rank": 11409,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe8caf70293d72accc6f3b38dacfdfa6ad9ea8448",
+    "trader_name": "pg13",
+    "tag": "Overall",
+    "overall_gain": 9163.318792340004,
+    "active_positions": 7,
+    "win_amount": 68360.73641532,
+    "loss_amount": -59197.41762298001,
+    "win_rate": 0.43478260869565216,
+    "total_current_value": 0.022156,
+    "total_positions": 29,
+    "event_ct": 23,
+    "win_count": 10,
+    "rank": 11410,
+    "trader_tags": ""
   }
 ]
