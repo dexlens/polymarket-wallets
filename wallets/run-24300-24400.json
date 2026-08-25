@@ -654,5 +654,21 @@
     "win_count": 6,
     "rank": 24342,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14bb1234c6452937e24695f3f89eb50584bf882b",
+    "trader_name": "Calibrator",
+    "tag": "Overall",
+    "overall_gain": 3657.287638542255,
+    "active_positions": 44,
+    "win_amount": 4514.44024568541,
+    "loss_amount": -857.1526071431551,
+    "win_rate": 0.532258064516129,
+    "total_current_value": 1127.8422816940001,
+    "total_positions": 400,
+    "event_ct": 62,
+    "win_count": 33,
+    "rank": 24343,
+    "trader_tags": "> 1 year old"
   }
 ]
