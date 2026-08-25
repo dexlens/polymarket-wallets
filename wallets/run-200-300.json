@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 274,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x6f2628a8ac6e3f7bd857657d5316c33822ced136",
+    "trader_name": "0x6f2628a8ac6e3f7bd857657d5316c33822ced13",
+    "tag": "Overall",
+    "overall_gain": 460968.2870712656,
+    "active_positions": 45,
+    "win_amount": 665519.3502787087,
+    "loss_amount": -204551.06320744293,
+    "win_rate": 0.6310679611650486,
+    "total_current_value": 0.010806,
+    "total_positions": 1461,
+    "event_ct": 103,
+    "win_count": 65,
+    "rank": 275,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
