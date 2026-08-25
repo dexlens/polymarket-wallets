@@ -1486,5 +1486,21 @@
     "win_count": 9,
     "rank": 66594,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x79cb3a3942f27fb37d4f5becf8924dec73822c09",
+    "trader_name": "Rizton",
+    "tag": "Overall",
+    "overall_gain": 900.0782367415031,
+    "active_positions": 0,
+    "win_amount": 1274.8907802155097,
+    "loss_amount": -374.81254347400704,
+    "win_rate": 0.7209302325581395,
+    "total_current_value": 0.040615,
+    "total_positions": 64,
+    "event_ct": 43,
+    "win_count": 31,
+    "rank": 66595,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
