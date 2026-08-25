@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 88935,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48503209aadb9486999d73571dfd4950f3d37937",
+    "trader_name": "HoganBlack",
+    "tag": "Overall",
+    "overall_gain": 502.5,
+    "active_positions": 8,
+    "win_amount": 1277,
+    "loss_amount": -774.5,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 9,
+    "rank": 88936,
+    "trader_tags": ""
   }
 ]
