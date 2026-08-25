@@ -1086,5 +1086,21 @@
     "win_count": 9,
     "rank": 1068,
     "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0xf32898291d309e3c5e499c85ddd03a13268c219c",
+    "trader_name": "Ktulhu",
+    "tag": "Overall",
+    "overall_gain": 112984.56287635975,
+    "active_positions": 8,
+    "win_amount": 137109.81827767094,
+    "loss_amount": -24125.255401311224,
+    "win_rate": 0.75,
+    "total_current_value": 221.87169500000005,
+    "total_positions": 20,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 1069,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Crypto PnL > $100k"
   }
 ]
