@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 3887,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc288dbd651dbcf41e7aac3b523b7e6edc5023480",
+    "trader_name": "dodged-a-bullet",
+    "tag": "Overall",
+    "overall_gain": 29113.516737025762,
+    "active_positions": 219,
+    "win_amount": 36431.49394661436,
+    "loss_amount": -7317.977209588594,
+    "win_rate": 0.4965034965034965,
+    "total_current_value": 22684.5005508935,
+    "total_positions": 1707,
+    "event_ct": 429,
+    "win_count": 213,
+    "rank": 3888,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
