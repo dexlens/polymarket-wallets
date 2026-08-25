@@ -766,5 +766,21 @@
     "win_count": 85,
     "rank": 8248,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8b2d2f07034d4eb6d8e0a046b67e7c24bd5eb288",
+    "trader_name": "slpmruvliy",
+    "tag": "Overall",
+    "overall_gain": 12755.52578419823,
+    "active_positions": 3,
+    "win_amount": 12858.16590300517,
+    "loss_amount": -102.64011880694099,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 0.06843,
+    "total_positions": 38,
+    "event_ct": 19,
+    "win_count": 10,
+    "rank": 8249,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
