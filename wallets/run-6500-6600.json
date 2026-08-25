@@ -718,5 +718,21 @@
     "win_count": 8,
     "rank": 6545,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdcf39975327f9536d06f9a47b554b89cdc93c7a4",
+    "trader_name": "GGold",
+    "tag": "Overall",
+    "overall_gain": 16386.596855115084,
+    "active_positions": 2,
+    "win_amount": 16386.596855115084,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 6546,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
