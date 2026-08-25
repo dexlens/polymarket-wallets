@@ -574,5 +574,21 @@
     "win_count": 12,
     "rank": 6736,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe9ce3189cc3fa8b767c2b9ebf2a564887cd19811",
+    "trader_name": "safubets",
+    "tag": "Overall",
+    "overall_gain": 15933.536741131968,
+    "active_positions": 19,
+    "win_amount": 28866.09266962125,
+    "loss_amount": -12932.555928489279,
+    "win_rate": 0.8913043478260869,
+    "total_current_value": 1388.77552417,
+    "total_positions": 202,
+    "event_ct": 92,
+    "win_count": 82,
+    "rank": 6737,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
