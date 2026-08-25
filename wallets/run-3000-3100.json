@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 3083,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ee7a8c5dddb414259cdea2708e3338c0bd335ab",
+    "trader_name": "OneMarket",
+    "tag": "Overall",
+    "overall_gain": 37118.9185152893,
+    "active_positions": 0,
+    "win_amount": 51855.767773,
+    "loss_amount": -14736.849257710706,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 3084,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
