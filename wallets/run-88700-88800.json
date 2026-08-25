@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 88725,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xc150ba2b0e340527c0e00e583ffe2a38fdfddba5",
+    "trader_name": "Ksamc",
+    "tag": "Overall",
+    "overall_gain": 504.922636845553,
+    "active_positions": 0,
+    "win_amount": 504.922636845553,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005553,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 88726,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
