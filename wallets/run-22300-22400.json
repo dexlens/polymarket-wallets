@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 22362,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8e0b81fc079ba259584abbbf37b8e76032cbfca7",
+    "trader_name": "luse",
+    "tag": "Overall",
+    "overall_gain": 4039.2602237349247,
+    "active_positions": 2,
+    "win_amount": 7436.639566745,
+    "loss_amount": -3397.379343010075,
+    "win_rate": 0.6,
+    "total_current_value": 0.001462245,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 22363,
+    "trader_tags": ""
   }
 ]
