@@ -206,5 +206,21 @@
     "win_count": 4,
     "rank": 16613,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1217b6fa5165bc3fb316f1b903dcf01ba4d76211",
+    "trader_name": "ScottDevin",
+    "tag": "Overall",
+    "overall_gain": 5729.433868532525,
+    "active_positions": 3,
+    "win_amount": 5732.076826224553,
+    "loss_amount": -2.6429576920280007,
+    "win_rate": 0.8,
+    "total_current_value": 7.421566728000001,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 16614,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
