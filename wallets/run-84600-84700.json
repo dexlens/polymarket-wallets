@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 84654,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x478d6ff8aacfb90ddba22b031a52530c1c61fbce",
+    "trader_name": "obzuzi",
+    "tag": "Overall",
+    "overall_gain": 557.1531157273652,
+    "active_positions": 10,
+    "win_amount": 1632.550846834949,
+    "loss_amount": -1075.3977311075837,
+    "win_rate": 0.65,
+    "total_current_value": 1315.1881139420002,
+    "total_positions": 24,
+    "event_ct": 20,
+    "win_count": 13,
+    "rank": 84655,
+    "trader_tags": ""
   }
 ]
