@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 1569,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x13ff290849c6fef06efde63dfe643e62767716a3",
+    "trader_name": "Canesclean",
+    "tag": "Overall",
+    "overall_gain": 77299.8002527996,
+    "active_positions": 6,
+    "win_amount": 151139.47926103298,
+    "loss_amount": -73839.67900823338,
+    "win_rate": 0.5254237288135594,
+    "total_current_value": 6.90152098,
+    "total_positions": 78,
+    "event_ct": 59,
+    "win_count": 31,
+    "rank": 1570,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
