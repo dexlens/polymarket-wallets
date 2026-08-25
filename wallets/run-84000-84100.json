@@ -542,5 +542,21 @@
     "win_count": 13,
     "rank": 84035,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9283c20bcebf223a800c1c8b20ba3cc347cccdcd",
+    "trader_name": "czvs",
+    "tag": "Overall",
+    "overall_gain": 565.7943158999999,
+    "active_positions": 0,
+    "win_amount": 1572.213702,
+    "loss_amount": -1006.4193860999999,
+    "win_rate": 0.9538690476190477,
+    "total_current_value": 0.5,
+    "total_positions": 673,
+    "event_ct": 672,
+    "win_count": 641,
+    "rank": 84036,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
