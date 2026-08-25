@@ -830,5 +830,21 @@
     "win_count": 1080,
     "rank": 7452,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x89ffd407e4df980032f4c6bb8939ea2f161bd5f9",
+    "trader_name": "Seandsf",
+    "tag": "Overall",
+    "overall_gain": 14242.085747099036,
+    "active_positions": 0,
+    "win_amount": 14243.835747099036,
+    "loss_amount": -1.75,
+    "win_rate": 0.9565217391304348,
+    "total_current_value": 0.000033,
+    "total_positions": 32,
+    "event_ct": 23,
+    "win_count": 22,
+    "rank": 7453,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
