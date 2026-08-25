@@ -1214,5 +1214,21 @@
     "win_count": 2,
     "rank": 66777,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf5909c69195b03a40dc512bd2b83fc64516f382d",
+    "trader_name": "bardalunmlb",
+    "tag": "Overall",
+    "overall_gain": 895.0223513394999,
+    "active_positions": 2,
+    "win_amount": 897.372358375,
+    "loss_amount": -2.3500070355,
+    "win_rate": 0.75,
+    "total_current_value": 680.3765285249999,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 66778,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
