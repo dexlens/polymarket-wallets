@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 33021,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7387e5bf151486600320d344d6d89c32f29010ad",
+    "trader_name": "ZitroviaUni",
+    "tag": "Overall",
+    "overall_gain": 2501.6264167531617,
+    "active_positions": 4,
+    "win_amount": 6348.556605071507,
+    "loss_amount": -3846.9301883183443,
+    "win_rate": 0.8769230769230769,
+    "total_current_value": 0.4126260000000001,
+    "total_positions": 90,
+    "event_ct": 65,
+    "win_count": 57,
+    "rank": 33022,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
