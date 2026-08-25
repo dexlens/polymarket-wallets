@@ -494,5 +494,21 @@
     "win_count": 4,
     "rank": 47132,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x65a5d7e828033d9a8e169687b8d9af2e7228e012",
+    "trader_name": "dhkcr2mdujmfa",
+    "tag": "Overall",
+    "overall_gain": 1610.5225,
+    "active_positions": 1,
+    "win_amount": 1610.5225,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.9845,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 47133,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
