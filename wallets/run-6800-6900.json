@@ -430,5 +430,21 @@
     "win_count": 15,
     "rank": 6827,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x33328f7f966dd1620cc7ef2674bebb48d48bffad",
+    "trader_name": "VSLengi",
+    "tag": "Overall",
+    "overall_gain": 15704.282505777663,
+    "active_positions": 1,
+    "win_amount": 16142.917421,
+    "loss_amount": -438.634915222336,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 97,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 6828,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
