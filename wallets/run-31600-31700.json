@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 31631,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ce8051ec6917602600470b281abcc0e54ae662e",
+    "trader_name": "1banana",
+    "tag": "Overall",
+    "overall_gain": 2637.1379095636858,
+    "active_positions": 12,
+    "win_amount": 12364.906728782593,
+    "loss_amount": -9727.76881921891,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.06871799999999999,
+    "total_positions": 47,
+    "event_ct": 27,
+    "win_count": 15,
+    "rank": 31632,
+    "trader_tags": ""
   }
 ]
