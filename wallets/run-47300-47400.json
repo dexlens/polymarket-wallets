@@ -990,5 +990,21 @@
     "win_count": 58,
     "rank": 47363,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x004937a7bd71cdca84d6f79365d4925b840a152c",
+    "trader_name": "GULLH1",
+    "tag": "Overall",
+    "overall_gain": 1600.1980429770001,
+    "active_positions": 7,
+    "win_amount": 1904.1407280000003,
+    "loss_amount": -303.94268502299997,
+    "win_rate": 0.44,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 11,
+    "rank": 47364,
+    "trader_tags": ""
   }
 ]
