@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 8873,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6b8d2aa9a015c1fff9c8e15743436c87d64679d",
+    "trader_name": "cooperkun",
+    "tag": "Overall",
+    "overall_gain": 11806.815018,
+    "active_positions": 0,
+    "win_amount": 11891.165018,
+    "loss_amount": -84.34999999999997,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 8874,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
