@@ -1214,5 +1214,21 @@
     "win_count": 6,
     "rank": 4176,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x79fa9f8809d9c186c1f289aef10a89dbf2878a55",
+    "trader_name": "Ontariotrucker",
+    "tag": "Overall",
+    "overall_gain": 26715.743109585306,
+    "active_positions": 2,
+    "win_amount": 34957.213692116675,
+    "loss_amount": -8241.47058253138,
+    "win_rate": 0.48936170212765956,
+    "total_current_value": 0.04963299999999999,
+    "total_positions": 77,
+    "event_ct": 47,
+    "win_count": 23,
+    "rank": 4177,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
