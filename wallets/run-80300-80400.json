@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 80387,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0c67c70528d255879c51930a38bef42ab2db094a",
+    "trader_name": "PM3BET",
+    "tag": "Overall",
+    "overall_gain": 624.1378960000001,
+    "active_positions": 2,
+    "win_amount": 1244.55775,
+    "loss_amount": -620.419854,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 80388,
+    "trader_tags": ""
   }
 ]
