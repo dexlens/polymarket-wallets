@@ -638,5 +638,37 @@
     "win_count": 6,
     "rank": 1740,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcfb183622c7922092bccef457ef801307de1ff1b",
+    "trader_name": "dontfwithme",
+    "tag": "Overall",
+    "overall_gain": 70745.41519143968,
+    "active_positions": 0,
+    "win_amount": 70751.41519143968,
+    "loss_amount": -6,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.013035000000000001,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 1741,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x3a46963534f815608c0ccb380430741dd8fc764b",
+    "trader_name": "sin-shalavi",
+    "tag": "Overall",
+    "overall_gain": 70706.7341218772,
+    "active_positions": 19,
+    "win_amount": 70793.73395699999,
+    "loss_amount": -86.99983512277402,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 0,
+    "total_positions": 36,
+    "event_ct": 36,
+    "win_count": 16,
+    "rank": 1742,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
