@@ -958,5 +958,21 @@
     "win_count": 14,
     "rank": 3060,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x98c78f5224c418afd06d0e2191cdc548e90d455c",
+    "trader_name": "IkanBilis",
+    "tag": "Overall",
+    "overall_gain": 37467.48856793655,
+    "active_positions": 4,
+    "win_amount": 40028.58379393655,
+    "loss_amount": -2561.095226,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 11.084059425,
+    "total_positions": 105,
+    "event_ct": 39,
+    "win_count": 36,
+    "rank": 3061,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
