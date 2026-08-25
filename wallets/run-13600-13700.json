@@ -286,5 +286,21 @@
     "win_count": 9,
     "rank": 13618,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x566c291e5291ee54cc76d3ab837351f2400f9e23",
+    "trader_name": "Raduci",
+    "tag": "Overall",
+    "overall_gain": 7280.835400217296,
+    "active_positions": 2,
+    "win_amount": 8190.913397904801,
+    "loss_amount": -910.077997687505,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.06777299999999999,
+    "total_positions": 65,
+    "event_ct": 24,
+    "win_count": 16,
+    "rank": 13619,
+    "trader_tags": "> 1 year old"
   }
 ]
