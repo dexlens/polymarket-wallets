@@ -302,5 +302,21 @@
     "win_count": 18,
     "rank": 6419,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3a6856a1a7a6f7ad13c2f6e30210f73fe8ed7b56",
+    "trader_name": "bluesinsoul",
+    "tag": "Overall",
+    "overall_gain": 16678.7833118868,
+    "active_positions": 2,
+    "win_amount": 29033.472159119337,
+    "loss_amount": -12354.68884723254,
+    "win_rate": 0.7166666666666667,
+    "total_current_value": 3052.48111958,
+    "total_positions": 62,
+    "event_ct": 60,
+    "win_count": 43,
+    "rank": 6420,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
