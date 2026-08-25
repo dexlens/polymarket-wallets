@@ -1582,5 +1582,21 @@
     "win_count": 37,
     "rank": 54300,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe85ffcec0566353c8a813c40340a9f0dac85f4b1",
+    "trader_name": "ethbasebit",
+    "tag": "Overall",
+    "overall_gain": 1291.0535295524335,
+    "active_positions": 3,
+    "win_amount": 1868.8860297833037,
+    "loss_amount": -577.8325002308701,
+    "win_rate": 0.75,
+    "total_current_value": 0.010603000000000001,
+    "total_positions": 83,
+    "event_ct": 80,
+    "win_count": 60,
+    "rank": 54301,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
