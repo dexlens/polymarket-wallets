@@ -478,5 +478,21 @@
     "win_count": 3,
     "rank": 4830,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5cf409f9a3eac846bc4dac81306a0566e3acbd68",
+    "trader_name": "Billjian001",
+    "tag": "Overall",
+    "overall_gain": 22503.348582296945,
+    "active_positions": 0,
+    "win_amount": 22503.348582296945,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.013613,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 4831,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
