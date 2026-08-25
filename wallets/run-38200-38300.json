@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 38251,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x26449c37555a2540018ef3fb830c19ab91a746ab",
+    "trader_name": "the-boss-1324",
+    "tag": "Overall",
+    "overall_gain": 2102.325924536679,
+    "active_positions": 18,
+    "win_amount": 2391.82819388992,
+    "loss_amount": -289.502269353242,
+    "win_rate": 0.391304347826087,
+    "total_current_value": 10,
+    "total_positions": 29,
+    "event_ct": 23,
+    "win_count": 9,
+    "rank": 38252,
+    "trader_tags": "> 1 year old"
   }
 ]
