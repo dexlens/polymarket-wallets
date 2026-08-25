@@ -1038,5 +1038,21 @@
     "win_count": 36,
     "rank": 9665,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7b40edabe084ab01edea268bee3560bce4139ebf",
+    "trader_name": "tocutcd",
+    "tag": "Overall",
+    "overall_gain": 10827.58035841171,
+    "active_positions": 8,
+    "win_amount": 12487.06561819335,
+    "loss_amount": -1659.4852597816407,
+    "win_rate": 0.35294117647058826,
+    "total_current_value": 0.032739,
+    "total_positions": 52,
+    "event_ct": 34,
+    "win_count": 12,
+    "rank": 9666,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
