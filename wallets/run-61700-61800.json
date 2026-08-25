@@ -686,5 +686,21 @@
     "win_count": 28,
     "rank": 61744,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ce13f77877f5666cd1117207a658adfae85508d",
+    "trader_name": "TristanAct",
+    "tag": "Overall",
+    "overall_gain": 1028.6423572958618,
+    "active_positions": 4,
+    "win_amount": 1037.0948629999998,
+    "loss_amount": -8.452505704138,
+    "win_rate": 0.13333333333333333,
+    "total_current_value": 9.035576239,
+    "total_positions": 41,
+    "event_ct": 30,
+    "win_count": 4,
+    "rank": 61745,
+    "trader_tags": ""
   }
 ]
