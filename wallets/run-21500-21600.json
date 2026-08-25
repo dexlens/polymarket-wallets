@@ -334,5 +334,21 @@
     "win_count": 9,
     "rank": 21521,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xed9b20f1848e9deb642b3656ca5a2fe94c3fd616",
+    "trader_name": "DQZ",
+    "tag": "Overall",
+    "overall_gain": 4230.679422931052,
+    "active_positions": 37,
+    "win_amount": 17654.795692653854,
+    "loss_amount": -13424.116269722796,
+    "win_rate": 0.8685897435897436,
+    "total_current_value": 3225.886054345,
+    "total_positions": 973,
+    "event_ct": 936,
+    "win_count": 813,
+    "rank": 21522,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
