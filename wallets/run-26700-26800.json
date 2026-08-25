@@ -366,5 +366,21 @@
     "win_count": 42,
     "rank": 26724,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x750ca59fafbf837d939eca4cd241601a489c2fe3",
+    "trader_name": "Zzdl",
+    "tag": "Overall",
+    "overall_gain": 3248.6265012549225,
+    "active_positions": 172,
+    "win_amount": 21008.531314693886,
+    "loss_amount": -17759.904813438974,
+    "win_rate": 0.7363636363636363,
+    "total_current_value": 46280.954193028505,
+    "total_positions": 848,
+    "event_ct": 440,
+    "win_count": 324,
+    "rank": 26725,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
