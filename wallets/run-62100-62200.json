@@ -942,5 +942,21 @@
     "win_count": 6,
     "rank": 62160,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa2d15a558750f00cb1e000551a0bbf845c143ce0",
+    "trader_name": "KingofBets",
+    "tag": "Overall",
+    "overall_gain": 1017.8788510501922,
+    "active_positions": 0,
+    "win_amount": 1017.8788510501922,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001137,
+    "total_positions": 4,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 62161,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
