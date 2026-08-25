@@ -958,5 +958,21 @@
     "win_count": 3,
     "rank": 40261,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38ba509525e773332b099bbf0ab731ca270192f7",
+    "trader_name": "ThreeFives",
+    "tag": "Overall",
+    "overall_gain": 1980.2349268130374,
+    "active_positions": 5,
+    "win_amount": 20900.069669759338,
+    "loss_amount": -18919.834742946296,
+    "win_rate": 0.4264705882352941,
+    "total_current_value": 0.119464,
+    "total_positions": 69,
+    "event_ct": 68,
+    "win_count": 29,
+    "rank": 40262,
+    "trader_tags": ""
   }
 ]
