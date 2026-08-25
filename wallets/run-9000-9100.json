@@ -1534,5 +1534,21 @@
     "win_count": 4,
     "rank": 9096,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd397212a8aec23b39509f973abc21cbf4de234f",
+    "trader_name": "cctzz",
+    "tag": "Overall",
+    "overall_gain": 11516.75429034,
+    "active_positions": 26,
+    "win_amount": 51433.541000000005,
+    "loss_amount": -39916.78670966,
+    "win_rate": 0.5344827586206896,
+    "total_current_value": 993.5029499999999,
+    "total_positions": 58,
+    "event_ct": 58,
+    "win_count": 31,
+    "rank": 9097,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
