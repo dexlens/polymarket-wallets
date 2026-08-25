@@ -606,5 +606,21 @@
     "win_count": 3,
     "rank": 61439,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x97cf807c2ab9dc9a5c0ce4e72ffc6de4e13b5ec8",
+    "trader_name": "Iceenvelope",
+    "tag": "Overall",
+    "overall_gain": 1035.97,
+    "active_positions": 1,
+    "win_amount": 1035.97,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 61440,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
