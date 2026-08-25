@@ -462,5 +462,21 @@
     "win_count": 27,
     "rank": 5129,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53501b3d13852aabc77db40b536e625a1098cbc2",
+    "trader_name": "MrFox",
+    "tag": "Overall",
+    "overall_gain": 21108.12531220211,
+    "active_positions": 0,
+    "win_amount": 25807.74364220211,
+    "loss_amount": -4699.61833,
+    "win_rate": 0.5571428571428572,
+    "total_current_value": 0.021397,
+    "total_positions": 101,
+    "event_ct": 70,
+    "win_count": 39,
+    "rank": 5130,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
