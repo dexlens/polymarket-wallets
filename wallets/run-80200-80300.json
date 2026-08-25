@@ -334,5 +334,21 @@
     "win_count": 11,
     "rank": 80222,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa9e795e0e4036b03537c1a80b8e51b0817d4ed80",
+    "trader_name": "qihong",
+    "tag": "Overall",
+    "overall_gain": 627.1211375555005,
+    "active_positions": 2,
+    "win_amount": 666.1211375555005,
+    "loss_amount": -39,
+    "win_rate": 0.875,
+    "total_current_value": 3244.008991312,
+    "total_positions": 15,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 80223,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
