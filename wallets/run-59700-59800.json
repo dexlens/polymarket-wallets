@@ -702,5 +702,21 @@
     "win_count": 5,
     "rank": 59745,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2f5e1705cee25ae20dbaa05e05ae741fbcabe567",
+    "trader_name": "sze34",
+    "tag": "Overall",
+    "overall_gain": 1084.3753575361739,
+    "active_positions": 15,
+    "win_amount": 1085.9421073303527,
+    "loss_amount": -1.5667497941790003,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 16.678983,
+    "total_positions": 18,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 59746,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
