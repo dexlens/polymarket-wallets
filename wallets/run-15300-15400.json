@@ -862,5 +862,21 @@
     "win_count": 118,
     "rank": 15354,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x914e244ae32c19982d96ab50b3b55e487d1feace",
+    "trader_name": "khami",
+    "tag": "Overall",
+    "overall_gain": 6307.3990674089055,
+    "active_positions": 2,
+    "win_amount": 6307.3990674089055,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 13005.418901000001,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 15355,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
