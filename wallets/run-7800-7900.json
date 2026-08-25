@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 7884,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x97989d94caa7bc213e693674be71ffc8491a922c",
+    "trader_name": "Drusilashore",
+    "tag": "Overall",
+    "overall_gain": 13341.477924533167,
+    "active_positions": 8,
+    "win_amount": 17651.141827316613,
+    "loss_amount": -4309.6639027834435,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 46.519868342500004,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 14,
+    "rank": 7885,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
