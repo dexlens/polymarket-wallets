@@ -158,5 +158,21 @@
     "win_count": 499,
     "rank": 8110,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4c4b5978e15f4ed287c938179cc05a4f98c35e0b",
+    "trader_name": "PEYTONSCARBORO",
+    "tag": "Overall",
+    "overall_gain": 12970.780882000001,
+    "active_positions": 12,
+    "win_amount": 19528.70087,
+    "loss_amount": -6557.919988000001,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 30,
+    "win_count": 18,
+    "rank": 8111,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
