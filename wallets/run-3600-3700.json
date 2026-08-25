@@ -1230,5 +1230,21 @@
     "win_count": 32,
     "rank": 3677,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c3928af89565c352afe8e2a1b25deed77a056dc",
+    "trader_name": "Dragontree",
+    "tag": "Overall",
+    "overall_gain": 30944.489642673158,
+    "active_positions": 206,
+    "win_amount": 83798.46607481083,
+    "loss_amount": -52853.976432137635,
+    "win_rate": 0.697274031563845,
+    "total_current_value": 77355.81593377399,
+    "total_positions": 2850,
+    "event_ct": 697,
+    "win_count": 486,
+    "rank": 3678,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
