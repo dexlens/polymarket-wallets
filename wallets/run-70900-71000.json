@@ -814,5 +814,21 @@
     "win_count": 15,
     "rank": 70952,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5930cc0d1243d26a88d85ff1e04f083b8d310a37",
+    "trader_name": "broach-02",
+    "tag": "Overall",
+    "overall_gain": 789.3413315640001,
+    "active_positions": 91,
+    "win_amount": 5448.965416214001,
+    "loss_amount": -4659.6240846499995,
+    "win_rate": 0.8055009823182712,
+    "total_current_value": 0.03489,
+    "total_positions": 511,
+    "event_ct": 509,
+    "win_count": 410,
+    "rank": 70953,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
