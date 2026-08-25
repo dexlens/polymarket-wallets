@@ -1054,5 +1054,21 @@
     "win_count": 4,
     "rank": 30267,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x60a74e594e669c48cda8360efcd1b546ee17c28f",
+    "trader_name": "rok1n",
+    "tag": "Overall",
+    "overall_gain": 2790.3367180218956,
+    "active_positions": 0,
+    "win_amount": 2790.3367180218956,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008511,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 30268,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
