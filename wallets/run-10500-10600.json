@@ -462,5 +462,21 @@
     "win_count": 27,
     "rank": 10529,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xee57b66f2a8273a1fd2dcc3d4ce266073ecd7c0d",
+    "trader_name": "sssxiaolin",
+    "tag": "Overall",
+    "overall_gain": 10000.43554,
+    "active_positions": 0,
+    "win_amount": 10003.64,
+    "loss_amount": -3.20446,
+    "win_rate": 0.75,
+    "total_current_value": 0.00875,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 10530,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
