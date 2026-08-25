@@ -702,5 +702,21 @@
     "win_count": 19,
     "rank": 8344,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1993c5bcecd8e20b922dafb64c44a8cfee180c02",
+    "trader_name": "Pypypy2223",
+    "tag": "Overall",
+    "overall_gain": 12574.968023431486,
+    "active_positions": 6,
+    "win_amount": 88109.28823955306,
+    "loss_amount": -75534.32021612157,
+    "win_rate": 0.38095238095238093,
+    "total_current_value": 0.050927,
+    "total_positions": 55,
+    "event_ct": 42,
+    "win_count": 16,
+    "rank": 8345,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
