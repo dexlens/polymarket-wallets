@@ -1150,5 +1150,21 @@
     "win_count": 121,
     "rank": 7172,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x69c9399ffcc5471a5420280144021b7345a77118",
+    "trader_name": "Tennis",
+    "tag": "Overall",
+    "overall_gain": 14935.736427635882,
+    "active_positions": 0,
+    "win_amount": 15317.284036424746,
+    "loss_amount": -381.547608788864,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.030669,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 7173,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
