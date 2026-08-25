@@ -382,5 +382,21 @@
     "win_count": 11,
     "rank": 18524,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x7cb207841c27d6d76d272e55209694c86e7bf12f",
+    "trader_name": "h.roark",
+    "tag": "Overall",
+    "overall_gain": 5013.251662144257,
+    "active_positions": 144,
+    "win_amount": 57678.00883241157,
+    "loss_amount": -52664.75717026733,
+    "win_rate": 0.6747252747252748,
+    "total_current_value": 0.110896,
+    "total_positions": 481,
+    "event_ct": 455,
+    "win_count": 307,
+    "rank": 18525,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
