@@ -334,5 +334,21 @@
     "win_count": 5,
     "rank": 9621,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x300702e9a343c86622bde61de735843183bfe551",
+    "trader_name": "VibeCheckVoyager",
+    "tag": "Overall",
+    "overall_gain": 10888,
+    "active_positions": 4,
+    "win_amount": 11873,
+    "loss_amount": -985,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 9622,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
