@@ -750,5 +750,21 @@
     "win_count": 15,
     "rank": 80748,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3e4b158faa432006ca6f1b1f4b2b13a0101cc447",
+    "trader_name": "Skillz1",
+    "tag": "Overall",
+    "overall_gain": 618.173392,
+    "active_positions": 0,
+    "win_amount": 618.173392,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 80749,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
