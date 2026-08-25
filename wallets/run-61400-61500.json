@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 61476,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e8df278c91da6b0d2e5ce4c62d134529b8db781",
+    "trader_name": "Clock",
+    "tag": "Overall",
+    "overall_gain": 1035.219463697105,
+    "active_positions": 4,
+    "win_amount": 1227.2692087025,
+    "loss_amount": -192.049745005395,
+    "win_rate": 0.8787878787878788,
+    "total_current_value": 4993.8429627815,
+    "total_positions": 43,
+    "event_ct": 33,
+    "win_count": 29,
+    "rank": 61477,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
