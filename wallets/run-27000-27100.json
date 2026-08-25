@@ -734,5 +734,21 @@
     "win_count": 5,
     "rank": 27047,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2bfc7fc638dad2fc41793ebdd6716e0e706849e8",
+    "trader_name": "mnnz150w",
+    "tag": "Overall",
+    "overall_gain": 3200.909505768251,
+    "active_positions": 0,
+    "win_amount": 3200.913353585251,
+    "loss_amount": -0.0038478170000000034,
+    "win_rate": 0.8,
+    "total_current_value": 0.156607,
+    "total_positions": 12,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 27048,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
