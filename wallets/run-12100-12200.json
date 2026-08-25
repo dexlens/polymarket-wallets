@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 12125,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x5665deb15ca8083dc95b33aaf495c8866484379b",
+    "trader_name": "JulianHart",
+    "tag": "Overall",
+    "overall_gain": 8469.392604170476,
+    "active_positions": 2,
+    "win_amount": 9549.100369920478,
+    "loss_amount": -1079.70776575,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 12.821117250000002,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 24,
+    "rank": 12126,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
