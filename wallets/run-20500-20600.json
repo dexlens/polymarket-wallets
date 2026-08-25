@@ -1278,5 +1278,21 @@
     "win_count": 5,
     "rank": 20580,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf1fcd15b9bf4a3b242a36c1ee38a9f04452d0de5",
+    "trader_name": "FGDS3",
+    "tag": "Overall",
+    "overall_gain": 4473.28735659635,
+    "active_positions": 12,
+    "win_amount": 4626.52999,
+    "loss_amount": -153.24263340365002,
+    "win_rate": 0.5,
+    "total_current_value": 2.1,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 14,
+    "rank": 20581,
+    "trader_tags": ""
   }
 ]
