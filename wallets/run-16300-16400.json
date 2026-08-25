@@ -894,5 +894,21 @@
     "win_count": 11,
     "rank": 16356,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x30149b64ab14abc1e9c725df173ad3786b113f81",
+    "trader_name": "London9",
+    "tag": "Overall",
+    "overall_gain": 5839.525775321729,
+    "active_positions": 11,
+    "win_amount": 28604.366669000006,
+    "loss_amount": -22764.840893678265,
+    "win_rate": 0.9464784795975405,
+    "total_current_value": 18.663522685,
+    "total_positions": 7352,
+    "event_ct": 7156,
+    "win_count": 6773,
+    "rank": 16357,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
