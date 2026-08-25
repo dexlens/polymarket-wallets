@@ -654,5 +654,21 @@
     "win_count": 939,
     "rank": 4041,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xbcf8489f9d7a10dd37fd85368f2beec76f115b23",
+    "trader_name": "Maduroag",
+    "tag": "Overall",
+    "overall_gain": 27764.78942374062,
+    "active_positions": 2,
+    "win_amount": 46575.563715919154,
+    "loss_amount": -18810.77429217853,
+    "win_rate": 0.9056603773584906,
+    "total_current_value": 10.768301999999998,
+    "total_positions": 118,
+    "event_ct": 53,
+    "win_count": 48,
+    "rank": 4042,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
