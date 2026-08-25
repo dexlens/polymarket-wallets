@@ -1470,5 +1470,21 @@
     "win_count": 32,
     "rank": 55593,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x279233a2f05430cbf19e5d2e029e9f47324ccd65",
+    "trader_name": "SkylineHaneul",
+    "tag": "Overall",
+    "overall_gain": 1234.35954,
+    "active_positions": 1,
+    "win_amount": 1444.48954,
+    "loss_amount": -210.13000000000002,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 55594,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
