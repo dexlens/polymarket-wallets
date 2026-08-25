@@ -366,5 +366,21 @@
     "win_count": 3,
     "rank": 15123,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x56beed112c5207ab7048aac9454c59f2a9c9600d",
+    "trader_name": "jiaozhou",
+    "tag": "Overall",
+    "overall_gain": 6433.226095208715,
+    "active_positions": 5,
+    "win_amount": 6744.993582783967,
+    "loss_amount": -311.76748757525206,
+    "win_rate": 0.696969696969697,
+    "total_current_value": 15.9526960205,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 23,
+    "rank": 15124,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
