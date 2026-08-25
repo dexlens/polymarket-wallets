@@ -702,5 +702,21 @@
     "win_count": 14,
     "rank": 53445,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf9a7271dd9f7fd56552bce240741570f1a09d725",
+    "trader_name": "bletchley",
+    "tag": "Overall",
+    "overall_gain": 1326.8849254282961,
+    "active_positions": 2,
+    "win_amount": 1826.8840474053152,
+    "loss_amount": -499.99912197701906,
+    "win_rate": 0.9,
+    "total_current_value": 11490.227001109999,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 53446,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
