@@ -1070,5 +1070,21 @@
     "win_count": 18,
     "rank": 15267,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x022a0fc677030b66f8607a37e4bdca25a7cf351d",
+    "trader_name": "klxx",
+    "tag": "Overall",
+    "overall_gain": 6351.852233692595,
+    "active_positions": 24,
+    "win_amount": 16737.36489734916,
+    "loss_amount": -10385.512663656566,
+    "win_rate": 0.6904761904761905,
+    "total_current_value": 146.598311,
+    "total_positions": 49,
+    "event_ct": 42,
+    "win_count": 29,
+    "rank": 15268,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
