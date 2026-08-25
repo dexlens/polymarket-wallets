@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 2834,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x83a2ff7cf356d1c90884b51c4ef3e20bf4dcb005",
+    "trader_name": "Freechrystia",
+    "tag": "Overall",
+    "overall_gain": 40709.360704962215,
+    "active_positions": 1,
+    "win_amount": 40817.19070253915,
+    "loss_amount": -107.82999757693199,
+    "win_rate": 0.95,
+    "total_current_value": 0.012629000000000001,
+    "total_positions": 99,
+    "event_ct": 40,
+    "win_count": 38,
+    "rank": 2835,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
