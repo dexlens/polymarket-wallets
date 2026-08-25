@@ -1470,5 +1470,21 @@
     "win_count": 13,
     "rank": 59993,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x63e78edb9fa20b241640e0de8cbe09fb48042a51",
+    "trader_name": "foursome",
+    "tag": "Overall",
+    "overall_gain": 1076.873078924,
+    "active_positions": 4,
+    "win_amount": 1665.977624,
+    "loss_amount": -589.104545076,
+    "win_rate": 0.85,
+    "total_current_value": 56.11,
+    "total_positions": 49,
+    "event_ct": 20,
+    "win_count": 17,
+    "rank": 59994,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
