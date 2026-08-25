@@ -446,5 +446,21 @@
     "win_count": 3,
     "rank": 2728,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe8a28be83ba295a9384f72f240d2cfa96bc23ce",
+    "trader_name": "MaxFomo",
+    "tag": "Overall",
+    "overall_gain": 42624.877573281345,
+    "active_positions": 14,
+    "win_amount": 116343.78614462978,
+    "loss_amount": -73718.90857134838,
+    "win_rate": 0.5641891891891891,
+    "total_current_value": 2532.6862807390003,
+    "total_positions": 1602,
+    "event_ct": 296,
+    "win_count": 167,
+    "rank": 2729,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
