@@ -1566,5 +1566,21 @@
     "win_count": 9,
     "rank": 63199,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x62d12c17c996e198eee9cf5c071128f0ca6ec018",
+    "trader_name": "rektp",
+    "tag": "Overall",
+    "overall_gain": 995.9738498320552,
+    "active_positions": 9,
+    "win_amount": 22401.242442807652,
+    "loss_amount": -21405.26859297559,
+    "win_rate": 0.6730158730158731,
+    "total_current_value": 2590.9548340000006,
+    "total_positions": 349,
+    "event_ct": 315,
+    "win_count": 212,
+    "rank": 63200,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
