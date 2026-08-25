@@ -670,5 +670,21 @@
     "win_count": 341,
     "rank": 5042,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x97926d1824be954185181759c560ad437eb10812",
+    "trader_name": "bobobaha",
+    "tag": "Overall",
+    "overall_gain": 21468.042127213663,
+    "active_positions": 0,
+    "win_amount": 32037.789670335354,
+    "loss_amount": -10569.747543121688,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 0.096041,
+    "total_positions": 66,
+    "event_ct": 52,
+    "win_count": 38,
+    "rank": 5043,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
