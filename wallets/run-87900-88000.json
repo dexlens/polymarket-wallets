@@ -174,5 +174,21 @@
     "win_count": 1,
     "rank": 87912,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x345829542d05f78a16f5c791e57586900c275ca8",
+    "trader_name": "fgb5rgt",
+    "tag": "Overall",
+    "overall_gain": 514,
+    "active_positions": 0,
+    "win_amount": 514,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 87913,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
