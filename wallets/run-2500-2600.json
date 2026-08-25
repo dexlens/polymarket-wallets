@@ -446,5 +446,21 @@
     "win_count": 90,
     "rank": 2528,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2e42ec345268380fe9cc01fe1f1ea46d49d3d792",
+    "trader_name": "BADGER",
+    "tag": "Overall",
+    "overall_gain": 46512.153952,
+    "active_positions": 0,
+    "win_amount": 46512.153952,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 2529,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
