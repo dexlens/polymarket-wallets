@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 7725,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe6df18d374dc315017f1b7a06a0a875767cbf7a7",
+    "trader_name": "Juanolo",
+    "tag": "Overall",
+    "overall_gain": 13667.677413132826,
+    "active_positions": 0,
+    "win_amount": 13804.471130801727,
+    "loss_amount": -136.793717668901,
+    "win_rate": 0.8076923076923077,
+    "total_current_value": 0.2219,
+    "total_positions": 214,
+    "event_ct": 78,
+    "win_count": 63,
+    "rank": 7726,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
