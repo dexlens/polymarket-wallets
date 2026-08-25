@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 31750,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcd9cd64d08499ac9f919155c22ae5f21c9867133",
+    "trader_name": "imafish",
+    "tag": "Overall",
+    "overall_gain": 2625.959978211065,
+    "active_positions": 194,
+    "win_amount": 9088.247938053386,
+    "loss_amount": -6462.287959842322,
+    "win_rate": 0.5405405405405406,
+    "total_current_value": 1730.8591719915,
+    "total_positions": 732,
+    "event_ct": 222,
+    "win_count": 120,
+    "rank": 31751,
+    "trader_tags": ""
   }
 ]
