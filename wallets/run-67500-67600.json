@@ -750,5 +750,21 @@
     "win_count": 4,
     "rank": 67548,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59e8499450dd9956899da7d299564c187b885a37",
+    "trader_name": "Robin-Hood-Bot",
+    "tag": "Overall",
+    "overall_gain": 873.7897119381606,
+    "active_positions": 113,
+    "win_amount": 5700.590346687121,
+    "loss_amount": -4826.800634748964,
+    "win_rate": 0.4396551724137931,
+    "total_current_value": 411.337123,
+    "total_positions": 580,
+    "event_ct": 580,
+    "win_count": 255,
+    "rank": 67549,
+    "trader_tags": "< 30 days old"
   }
 ]
