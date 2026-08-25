@@ -1054,5 +1054,21 @@
     "win_count": 3,
     "rank": 86867,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20d9493fa5dc02deccd1b822a25223de2abedeaf",
+    "trader_name": "uiskdow",
+    "tag": "Overall",
+    "overall_gain": 527.15345,
+    "active_positions": 1,
+    "win_amount": 541.54995,
+    "loss_amount": -14.396499999999996,
+    "win_rate": 0.25,
+    "total_current_value": 32.917500000000004,
+    "total_positions": 12,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 86868,
+    "trader_tags": "< 30 days old"
   }
 ]
