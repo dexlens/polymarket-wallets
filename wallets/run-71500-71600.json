@@ -1230,5 +1230,21 @@
     "win_count": 13,
     "rank": 71578,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x81b6f3049dbeaad2c40f91cb51a47cfdd9aaa445",
+    "trader_name": "Mascia9",
+    "tag": "Overall",
+    "overall_gain": 775.9571060000001,
+    "active_positions": 2,
+    "win_amount": 2000.9771060000003,
+    "loss_amount": -1225.02,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 71579,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
