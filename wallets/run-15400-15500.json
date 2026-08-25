@@ -1486,5 +1486,21 @@
     "win_count": 7,
     "rank": 15493,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5be9ea9c303a49fe5263a06dc6c07532cdc7051d",
+    "trader_name": "NeoSon",
+    "tag": "Overall",
+    "overall_gain": 6240.635491093091,
+    "active_positions": 1,
+    "win_amount": 11838.789916707428,
+    "loss_amount": -5598.154425614335,
+    "win_rate": 0.8,
+    "total_current_value": 0.038348,
+    "total_positions": 30,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 15494,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
