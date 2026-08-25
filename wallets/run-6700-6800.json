@@ -1278,5 +1278,21 @@
     "win_count": 25,
     "rank": 6780,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf795747062d73ba4ee8f0220c518a929b270d135",
+    "trader_name": "StanPiers",
+    "tag": "Overall",
+    "overall_gain": 15822,
+    "active_positions": 1,
+    "win_amount": 24822,
+    "loss_amount": -9000,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 6781,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
