@@ -478,5 +478,21 @@
     "win_count": 49,
     "rank": 2430,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2529c68db36ce8aa64c64affe620267744a3548a",
+    "trader_name": "Absing",
+    "tag": "Overall",
+    "overall_gain": 48581.73093481573,
+    "active_positions": 20,
+    "win_amount": 117399.82668205796,
+    "loss_amount": -68818.09574724223,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 1935.8721454090003,
+    "total_positions": 1881,
+    "event_ct": 372,
+    "win_count": 217,
+    "rank": 2431,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
