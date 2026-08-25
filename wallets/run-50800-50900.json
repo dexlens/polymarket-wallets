@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 50872,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ceeacd434b3789c473287b4aa028dbe5c40fb6a",
+    "trader_name": "kanbachi",
+    "tag": "Overall",
+    "overall_gain": 1445.524133468033,
+    "active_positions": 25,
+    "win_amount": 2355.442261075014,
+    "loss_amount": -909.9181276069813,
+    "win_rate": 0.36036036036036034,
+    "total_current_value": 12.3035946065,
+    "total_positions": 138,
+    "event_ct": 111,
+    "win_count": 40,
+    "rank": 50873,
+    "trader_tags": ""
   }
 ]
