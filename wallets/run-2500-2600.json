@@ -1390,5 +1390,21 @@
     "win_count": 32,
     "rank": 2587,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48b315469f19cae6c5c33e564f0382058edd9a19",
+    "trader_name": "pmuser",
+    "tag": "Overall",
+    "overall_gain": 44997.06708036685,
+    "active_positions": 0,
+    "win_amount": 80331.09796992109,
+    "loss_amount": -35334.030889554255,
+    "win_rate": 0.8970588235294118,
+    "total_current_value": 0.030166000000000002,
+    "total_positions": 354,
+    "event_ct": 272,
+    "win_count": 244,
+    "rank": 2588,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
