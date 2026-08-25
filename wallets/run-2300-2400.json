@@ -526,5 +526,21 @@
     "win_count": 21,
     "rank": 2333,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5f6aedef4812ce1ca8773949bdfdb00b480faba2",
+    "trader_name": "UniformAlpha",
+    "tag": "Overall",
+    "overall_gain": 50723.192026528974,
+    "active_positions": 241,
+    "win_amount": 125522.13287958314,
+    "loss_amount": -74798.94085305417,
+    "win_rate": 0.6244665718349929,
+    "total_current_value": 30.344465,
+    "total_positions": 13854,
+    "event_ct": 7030,
+    "win_count": 4390,
+    "rank": 2334,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
