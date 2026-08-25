@@ -526,5 +526,21 @@
     "win_count": 24,
     "rank": 24634,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x69a907e47a019918c8fe07ce35a2e15c6f97e082",
+    "trader_name": "makelook",
+    "tag": "Overall",
+    "overall_gain": 3605.793120505448,
+    "active_positions": 1,
+    "win_amount": 3605.793120505448,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 28.973498999999997,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 24635,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
