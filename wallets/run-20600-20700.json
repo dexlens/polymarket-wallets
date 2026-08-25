@@ -1150,5 +1150,21 @@
     "win_count": 7,
     "rank": 20672,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe977b6270e1d6740117b4a56cc7595e4c9e4700f",
+    "trader_name": "joyride",
+    "tag": "Overall",
+    "overall_gain": 4450.770747261366,
+    "active_positions": 20,
+    "win_amount": 5445.201499504574,
+    "loss_amount": -994.4307522432084,
+    "win_rate": 0.6914893617021277,
+    "total_current_value": 0.6519447475000001,
+    "total_positions": 328,
+    "event_ct": 282,
+    "win_count": 195,
+    "rank": 20673,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
