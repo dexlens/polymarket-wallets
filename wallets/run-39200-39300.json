@@ -734,5 +734,21 @@
     "win_count": 68,
     "rank": 39247,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x9c2b35f8dec37a4141199405219b231d3985ec52",
+    "trader_name": "CapFlow",
+    "tag": "Overall",
+    "overall_gain": 2034.641207533598,
+    "active_positions": 1,
+    "win_amount": 2117.876088305598,
+    "loss_amount": -83.234880772,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 618.7537242999999,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 12,
+    "rank": 39248,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
