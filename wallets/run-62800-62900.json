@@ -1006,5 +1006,21 @@
     "win_count": 1,
     "rank": 62864,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x036a9556351289342184d177ccf6d3d906cefcc7",
+    "trader_name": "AdamsDelainey",
+    "tag": "Overall",
+    "overall_gain": 1001.0959342417889,
+    "active_positions": 1,
+    "win_amount": 1016.4209999999999,
+    "loss_amount": -15.32506575821099,
+    "win_rate": 0.25,
+    "total_current_value": 252.929325,
+    "total_positions": 14,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 62865,
+    "trader_tags": "> 1 year old"
   }
 ]
