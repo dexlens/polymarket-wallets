@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 79621,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c0900f1b1795e6485936406befa71b69670db36",
+    "trader_name": "huujikoop",
+    "tag": "Overall",
+    "overall_gain": 636.903637857405,
+    "active_positions": 5,
+    "win_amount": 637.007911357405,
+    "loss_amount": -0.10427349999999999,
+    "win_rate": 0.8,
+    "total_current_value": 34.567590499999994,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 79622,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
