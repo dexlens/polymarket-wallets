@@ -814,5 +814,21 @@
     "win_count": 10,
     "rank": 70652,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x83a046a3893cbbff01494654fe8a67c11ef3165d",
+    "trader_name": "idris777",
+    "tag": "Overall",
+    "overall_gain": 795.8250965895877,
+    "active_positions": 0,
+    "win_amount": 79925.54932126074,
+    "loss_amount": -79129.72422467114,
+    "win_rate": 0.9770408163265306,
+    "total_current_value": 0.8994030000000003,
+    "total_positions": 409,
+    "event_ct": 392,
+    "win_count": 383,
+    "rank": 70653,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
