@@ -1054,5 +1054,21 @@
     "win_count": 5,
     "rank": 55667,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x785c2a45a670ccd0d320275dff288d76ee5f7652",
+    "trader_name": "Vegab",
+    "tag": "Overall",
+    "overall_gain": 1231.5,
+    "active_positions": 1,
+    "win_amount": 1802.5,
+    "loss_amount": -571,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 55668,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
