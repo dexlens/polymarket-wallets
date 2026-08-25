@@ -78,5 +78,21 @@
     "win_count": 2223,
     "rank": 5205,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x8274c8a0fbe386eb3b24c72031ff4fac7c9a335b",
+    "trader_name": "Ryndor",
+    "tag": "Overall",
+    "overall_gain": 20807.331383093282,
+    "active_positions": 4,
+    "win_amount": 21871.981130444194,
+    "loss_amount": -1064.649747350912,
+    "win_rate": 0.8863636363636364,
+    "total_current_value": 9.492187999999999,
+    "total_positions": 47,
+    "event_ct": 44,
+    "win_count": 39,
+    "rank": 5206,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
