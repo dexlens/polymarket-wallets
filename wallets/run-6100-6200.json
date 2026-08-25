@@ -686,5 +686,21 @@
     "win_count": 7,
     "rank": 6143,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x79c1d4e4ab909ed1022022cec60b9e959b7f497d",
+    "trader_name": "okakokak",
+    "tag": "Overall",
+    "overall_gain": 17442.65643438495,
+    "active_positions": 150,
+    "win_amount": 34431.59237331738,
+    "loss_amount": -16988.93593893242,
+    "win_rate": 0.5463917525773195,
+    "total_current_value": 1822.1814704794997,
+    "total_positions": 2901,
+    "event_ct": 1067,
+    "win_count": 583,
+    "rank": 6144,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
