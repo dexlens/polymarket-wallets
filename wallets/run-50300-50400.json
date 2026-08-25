@@ -894,5 +894,21 @@
     "win_count": 2,
     "rank": 50357,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8127ef48ee5a0a584ad3ffbe2e8bc295c8255130",
+    "trader_name": "Prox",
+    "tag": "Overall",
+    "overall_gain": 1468.6793369937309,
+    "active_positions": 2,
+    "win_amount": 1489.4792250733854,
+    "loss_amount": -20.799888079654004,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 1016.889365679,
+    "total_positions": 21,
+    "event_ct": 17,
+    "win_count": 15,
+    "rank": 50358,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
