@@ -1006,5 +1006,21 @@
     "win_count": 63,
     "rank": 4163,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x98279d9c4f0f63a46d69ff440d0a3e0ccae30687",
+    "trader_name": "daveullamard",
+    "tag": "Overall",
+    "overall_gain": 26804.2,
+    "active_positions": 1,
+    "win_amount": 26829.5,
+    "loss_amount": -25.3,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 4164,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
