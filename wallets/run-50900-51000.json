@@ -1422,5 +1422,21 @@
     "win_count": 6,
     "rank": 50990,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x26c2f177042def79420a664bcb96fd68e9b7e51c",
+    "trader_name": "HardyCollins",
+    "tag": "Overall",
+    "overall_gain": 1440,
+    "active_positions": 13,
+    "win_amount": 3750,
+    "loss_amount": -2310,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 13,
+    "rank": 50991,
+    "trader_tags": ""
   }
 ]
