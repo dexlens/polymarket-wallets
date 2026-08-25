@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 81840,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2dd46b56026c106a3d882771783a612bf2ea5a43",
+    "trader_name": "Patience0g",
+    "tag": "Overall",
+    "overall_gain": 600.3799999999999,
+    "active_positions": 3,
+    "win_amount": 2333.2200000000003,
+    "loss_amount": -1732.8400000000001,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 81841,
+    "trader_tags": ""
   }
 ]
