@@ -654,5 +654,21 @@
     "win_count": 17,
     "rank": 1241,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9ca119b8cd7bdb890aecf1ff3b0f6e3a45cc13b5",
+    "trader_name": "JoeBlack01",
+    "tag": "Overall",
+    "overall_gain": 97665.04546160693,
+    "active_positions": 64,
+    "win_amount": 211807.2284440246,
+    "loss_amount": -114142.18298241767,
+    "win_rate": 0.597051597051597,
+    "total_current_value": 124963.16823486901,
+    "total_positions": 744,
+    "event_ct": 407,
+    "win_count": 243,
+    "rank": 1242,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
