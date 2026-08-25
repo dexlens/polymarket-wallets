@@ -1006,5 +1006,21 @@
     "win_count": 4,
     "rank": 22163,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9a6bc546f84665a4f5a5068dfbc7bf992f3847e9",
+    "trader_name": "grandwin",
+    "tag": "Overall",
+    "overall_gain": 4086.805306,
+    "active_positions": 2,
+    "win_amount": 10515.69098,
+    "loss_amount": -6428.885674,
+    "win_rate": 0.5151515151515151,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 17,
+    "rank": 22164,
+    "trader_tags": "> 1 year old"
   }
 ]
