@@ -510,5 +510,21 @@
     "win_count": 8,
     "rank": 9732,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x05f470bde832da9dc2e8339e3095259433c47c4c",
+    "trader_name": "guodu",
+    "tag": "Overall",
+    "overall_gain": 10761.144012098892,
+    "active_positions": 7,
+    "win_amount": 11712.574191598895,
+    "loss_amount": -951.4301795,
+    "win_rate": 0.75,
+    "total_current_value": 30.50669028500001,
+    "total_positions": 39,
+    "event_ct": 36,
+    "win_count": 27,
+    "rank": 9733,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
