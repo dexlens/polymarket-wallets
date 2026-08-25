@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 7250,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x997ed1c8f9b5bc65007800a6fbec0ed197d69550",
+    "trader_name": "bqpr",
+    "tag": "Overall",
+    "overall_gain": 14741.863667,
+    "active_positions": 0,
+    "win_amount": 14989.272653,
+    "loss_amount": -247.408986,
+    "win_rate": 0.8260869565217391,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 23,
+    "win_count": 19,
+    "rank": 7251,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
