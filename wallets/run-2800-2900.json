@@ -782,5 +782,21 @@
     "win_count": 11,
     "rank": 2849,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ef0194e8cfd5617972665826f402836ac5f15a0",
+    "trader_name": "costunan",
+    "tag": "Overall",
+    "overall_gain": 40368.046407,
+    "active_positions": 0,
+    "win_amount": 355761.7223760002,
+    "loss_amount": -315393.675969,
+    "win_rate": 0.5698213103904699,
+    "total_current_value": 0,
+    "total_positions": 15720,
+    "event_ct": 9066,
+    "win_count": 5166,
+    "rank": 2850,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
