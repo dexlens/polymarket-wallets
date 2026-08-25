@@ -1406,5 +1406,21 @@
     "win_count": 3,
     "rank": 32189,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x93cdea2a2aab6540af3b97cba982f4c2d9c43872",
+    "trader_name": "mvkovu",
+    "tag": "Overall",
+    "overall_gain": 2582.5,
+    "active_positions": 2,
+    "win_amount": 3171,
+    "loss_amount": -588.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 32190,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
