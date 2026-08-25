@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 55554,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f5b0308144b290c1ef94d26fb48440f5ed46759",
+    "trader_name": "gb_mg",
+    "tag": "Overall",
+    "overall_gain": 1236.1546703765514,
+    "active_positions": 51,
+    "win_amount": 13150.954265292865,
+    "loss_amount": -11914.799594916312,
+    "win_rate": 0.47246376811594204,
+    "total_current_value": 592.1728599999999,
+    "total_positions": 485,
+    "event_ct": 345,
+    "win_count": 163,
+    "rank": 55555,
+    "trader_tags": "> 1 year old"
   }
 ]
