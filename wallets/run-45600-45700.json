@@ -1406,5 +1406,21 @@
     "win_count": 2,
     "rank": 45689,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80f2606ee71fd5cbb63f99a56bce79c45d933343",
+    "trader_name": "cassandra23",
+    "tag": "Overall",
+    "overall_gain": 1681.7165634075482,
+    "active_positions": 0,
+    "win_amount": 2465.436213486569,
+    "loss_amount": -783.7196500790211,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.00885,
+    "total_positions": 24,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 45690,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
