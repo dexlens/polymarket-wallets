@@ -1486,5 +1486,21 @@
     "win_count": 4,
     "rank": 11293,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf9fe29004c5a905c7b78bbb930ac57feea67366b",
+    "trader_name": "CanadianGoose",
+    "tag": "Overall",
+    "overall_gain": 9277.674635511163,
+    "active_positions": 22,
+    "win_amount": 1087169.7033830157,
+    "loss_amount": -1077892.0287475039,
+    "win_rate": 0.6173864894795127,
+    "total_current_value": 97782.96869899999,
+    "total_positions": 2186,
+    "event_ct": 1806,
+    "win_count": 1115,
+    "rank": 11294,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
