@@ -1054,5 +1054,21 @@
     "win_count": 14,
     "rank": 6066,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xf4165309a3b551ebb1a12edb0a0510bf62be6ec9",
+    "trader_name": "epps",
+    "tag": "Overall",
+    "overall_gain": 17682.789155192924,
+    "active_positions": 81,
+    "win_amount": 37113.60812760917,
+    "loss_amount": -19430.81897241627,
+    "win_rate": 0.5026642984014209,
+    "total_current_value": 695.5895657660004,
+    "total_positions": 3086,
+    "event_ct": 1126,
+    "win_count": 566,
+    "rank": 6067,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
