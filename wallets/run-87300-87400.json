@@ -750,5 +750,21 @@
     "win_count": 3,
     "rank": 87348,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x575f8b96115c1eb9750bb7a0a4bcff9f012ba5e3",
+    "trader_name": "Rowly",
+    "tag": "Overall",
+    "overall_gain": 521.052631,
+    "active_positions": 0,
+    "win_amount": 521.052631,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 87349,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
