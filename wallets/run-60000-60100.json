@@ -990,5 +990,21 @@
     "win_count": 2,
     "rank": 60063,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf7c8e1e79015033fe361c9150ecc67f323675aba",
+    "trader_name": "LassiNotLooted",
+    "tag": "Overall",
+    "overall_gain": 1074.4327118307078,
+    "active_positions": 2,
+    "win_amount": 10713.726559049159,
+    "loss_amount": -9639.293847218452,
+    "win_rate": 0.43661971830985913,
+    "total_current_value": 0.071764,
+    "total_positions": 232,
+    "event_ct": 71,
+    "win_count": 31,
+    "rank": 60064,
+    "trader_tags": ""
   }
 ]
