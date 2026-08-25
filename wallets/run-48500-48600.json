@@ -1534,5 +1534,21 @@
     "win_count": 2,
     "rank": 48597,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2418abbd15881aa1a95389e2cd15d2d4a02d3147",
+    "trader_name": "anfisa",
+    "tag": "Overall",
+    "overall_gain": 1545.793705837779,
+    "active_positions": 1,
+    "win_amount": 1812.843363837779,
+    "loss_amount": -267.049658,
+    "win_rate": 0.6,
+    "total_current_value": 0.013451,
+    "total_positions": 22,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 48598,
+    "trader_tags": "> 1 year old"
   }
 ]
