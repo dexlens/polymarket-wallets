@@ -910,5 +910,21 @@
     "win_count": 1,
     "rank": 83558,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16b4bab5d261e2fbb18fda3700d80368b19baf20",
+    "trader_name": "kjhsd",
+    "tag": "Overall",
+    "overall_gain": 573.1457350000001,
+    "active_positions": 47,
+    "win_amount": 1467.48534115,
+    "loss_amount": -894.3396061499998,
+    "win_rate": 0.6220472440944882,
+    "total_current_value": 0.008887,
+    "total_positions": 127,
+    "event_ct": 127,
+    "win_count": 79,
+    "rank": 83559,
+    "trader_tags": ""
   }
 ]
