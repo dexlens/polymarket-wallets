@@ -174,5 +174,21 @@
     "win_count": 12,
     "rank": 47612,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2b2753451fc31f7fb49ec1339e32a4f83b5d677e",
+    "trader_name": "Gladrate176",
+    "tag": "Overall",
+    "overall_gain": 1589.9273787535942,
+    "active_positions": 1,
+    "win_amount": 1589.9650370000002,
+    "loss_amount": -0.03765824640600002,
+    "win_rate": 0.95,
+    "total_current_value": 1.162338837,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 19,
+    "rank": 47613,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
