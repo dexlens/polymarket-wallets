@@ -270,5 +270,21 @@
     "win_count": 19,
     "rank": 65518,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x19f770dc215e0f5a5dffce1015305d896a96ff75",
+    "trader_name": "wrin",
+    "tag": "Overall",
+    "overall_gain": 930.0373803720531,
+    "active_positions": 457,
+    "win_amount": 1284.5954866990917,
+    "loss_amount": -354.5581063270391,
+    "win_rate": 0.7822485207100591,
+    "total_current_value": 216.23667301700002,
+    "total_positions": 6477,
+    "event_ct": 845,
+    "win_count": 661,
+    "rank": 65519,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
