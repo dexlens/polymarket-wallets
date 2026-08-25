@@ -62,5 +62,21 @@
     "win_count": 2,
     "rank": 12604,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcab185af2ca003d4046084e0ac18cb9148c74d00",
+    "trader_name": "chocolatebear",
+    "tag": "Overall",
+    "overall_gain": 8038.886185612095,
+    "active_positions": 35,
+    "win_amount": 54904.4241213051,
+    "loss_amount": -46865.537935693,
+    "win_rate": 0.6803966437833715,
+    "total_current_value": 8221.255477000002,
+    "total_positions": 1358,
+    "event_ct": 1311,
+    "win_count": 892,
+    "rank": 12605,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
