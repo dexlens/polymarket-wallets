@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 85673,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ae0b8902a42ea8c59ff99cd4312180b5cb38f73",
+    "trader_name": "progambler666",
+    "tag": "Overall",
+    "overall_gain": 543.2230635771515,
+    "active_positions": 102,
+    "win_amount": 2752.1726304943563,
+    "loss_amount": -2208.9495669172047,
+    "win_rate": 0.34415584415584416,
+    "total_current_value": 41.018416599999995,
+    "total_positions": 174,
+    "event_ct": 154,
+    "win_count": 53,
+    "rank": 85674,
+    "trader_tags": "< 30 days old"
   }
 ]
