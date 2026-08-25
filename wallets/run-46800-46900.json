@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 46852,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf8bb555de5fec0c3dce081fcbb993e02143d3395",
+    "trader_name": "asdfg",
+    "tag": "Overall",
+    "overall_gain": 1623.9347759463249,
+    "active_positions": 3,
+    "win_amount": 2438.055842368949,
+    "loss_amount": -814.121066422624,
+    "win_rate": 0.41935483870967744,
+    "total_current_value": 0.027781,
+    "total_positions": 41,
+    "event_ct": 31,
+    "win_count": 13,
+    "rank": 46853,
+    "trader_tags": "> 1 year old"
   }
 ]
