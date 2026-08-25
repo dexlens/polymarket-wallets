@@ -974,5 +974,21 @@
     "win_count": 25,
     "rank": 66462,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x449a260f7baffa96960f0e337fbd42713e5971e6",
+    "trader_name": "ShineBright",
+    "tag": "Overall",
+    "overall_gain": 903.6484663401293,
+    "active_positions": 59,
+    "win_amount": 11315.815387988523,
+    "loss_amount": -10412.166921648397,
+    "win_rate": 0.609375,
+    "total_current_value": 13.021989308999999,
+    "total_positions": 133,
+    "event_ct": 128,
+    "win_count": 78,
+    "rank": 66463,
+    "trader_tags": ""
   }
 ]
