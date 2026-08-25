@@ -1310,5 +1310,21 @@
     "win_count": 20,
     "rank": 36583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x719efcc2ad0f84d1ce8040eaf65dbad38b148a0e",
+    "trader_name": "kylebland",
+    "tag": "Overall",
+    "overall_gain": 2219.03,
+    "active_positions": 0,
+    "win_amount": 2219.03,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 36584,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
