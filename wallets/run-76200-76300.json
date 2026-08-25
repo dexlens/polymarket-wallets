@@ -974,5 +974,21 @@
     "win_count": 3,
     "rank": 76262,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbe8efc3989acdb41fccc33051ece08de64bdb973",
+    "trader_name": "arbitragor",
+    "tag": "Overall",
+    "overall_gain": 694.9127834155865,
+    "active_positions": 38,
+    "win_amount": 5502.530581500679,
+    "loss_amount": -4807.617798085091,
+    "win_rate": 0.46236559139784944,
+    "total_current_value": 0.162116,
+    "total_positions": 153,
+    "event_ct": 93,
+    "win_count": 43,
+    "rank": 76263,
+    "trader_tags": ""
   }
 ]
