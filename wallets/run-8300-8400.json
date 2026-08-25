@@ -1150,5 +1150,21 @@
     "win_count": 7,
     "rank": 8372,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5eff3b94372db8d46ccebb5b07eca7b961aaff09",
+    "trader_name": "Joejie",
+    "tag": "Overall",
+    "overall_gain": 12525.550699506908,
+    "active_positions": 1,
+    "win_amount": 12525.550699506908,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009492,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 8373,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
