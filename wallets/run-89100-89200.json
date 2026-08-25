@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 89157,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x883efcf3d14cd8657c6ad6e6436a4c389cb60d7c",
+    "trader_name": "CharlesFelton",
+    "tag": "Overall",
+    "overall_gain": 500,
+    "active_positions": 16,
+    "win_amount": 6044,
+    "loss_amount": -5544,
+    "win_rate": 0.5151515151515151,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 17,
+    "rank": 89158,
+    "trader_tags": ""
   }
 ]
