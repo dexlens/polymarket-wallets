@@ -142,5 +142,21 @@
     "win_count": 6,
     "rank": 3109,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x568251a921b5f76d17991310425e66dd450597af",
+    "trader_name": "lontou",
+    "tag": "Overall",
+    "overall_gain": 36800.736841898055,
+    "active_positions": 25,
+    "win_amount": 79944.42903962605,
+    "loss_amount": -43143.69219772799,
+    "win_rate": 0.7090909090909091,
+    "total_current_value": 32883.2978852845,
+    "total_positions": 280,
+    "event_ct": 165,
+    "win_count": 117,
+    "rank": 3110,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
