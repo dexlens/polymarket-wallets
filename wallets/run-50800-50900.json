@@ -542,5 +542,21 @@
     "win_count": 2,
     "rank": 50835,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8616f24233e80a6b60907e223a3b7af76dd2ae57",
+    "trader_name": "Vivo",
+    "tag": "Overall",
+    "overall_gain": 1447.217793410044,
+    "active_positions": 8,
+    "win_amount": 1630.4828268151941,
+    "loss_amount": -183.26503340515,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.019537,
+    "total_positions": 19,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 50836,
+    "trader_tags": "> 1 year old"
   }
 ]
