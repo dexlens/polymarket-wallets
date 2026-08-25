@@ -1326,5 +1326,21 @@
     "win_count": 70,
     "rank": 50084,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0e504ea2a1893260c3ca5bddd0bf94e978e591b6",
+    "trader_name": "hollis-error",
+    "tag": "Overall",
+    "overall_gain": 1480.6008619999998,
+    "active_positions": 5,
+    "win_amount": 1480.6008619999998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3290,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 50085,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
