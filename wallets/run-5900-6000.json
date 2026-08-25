@@ -1246,5 +1246,21 @@
     "win_count": 9,
     "rank": 5978,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f4200b4b870200051e062d0ec12fc8c8419a19f",
+    "trader_name": "qtnt",
+    "tag": "Overall",
+    "overall_gain": 17935.688122,
+    "active_positions": 0,
+    "win_amount": 18129.788122,
+    "loss_amount": -194.1,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0,
+    "total_positions": 24,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 5979,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
