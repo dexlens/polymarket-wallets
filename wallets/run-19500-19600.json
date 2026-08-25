@@ -814,5 +814,21 @@
     "win_count": 2,
     "rank": 19551,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x87e7548fcbae8c9270252877b3979714c1ddf4f6",
+    "trader_name": "ssbvq",
+    "tag": "Overall",
+    "overall_gain": 4748.049744,
+    "active_positions": 1,
+    "win_amount": 4748.595744,
+    "loss_amount": -0.5459999999999923,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 19552,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
