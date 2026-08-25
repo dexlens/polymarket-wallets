@@ -510,5 +510,21 @@
     "win_count": 3,
     "rank": 73333,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89a91e0e0f8ad1bb608476e456c767ac5fa6b8b0",
+    "trader_name": "Mysticorel",
+    "tag": "Overall",
+    "overall_gain": 738.445661410556,
+    "active_positions": 45,
+    "win_amount": 785.165457280195,
+    "loss_amount": -46.719795869639,
+    "win_rate": 0.4823529411764706,
+    "total_current_value": 2.0601949999999998,
+    "total_positions": 86,
+    "event_ct": 85,
+    "win_count": 41,
+    "rank": 73334,
+    "trader_tags": ""
   }
 ]
