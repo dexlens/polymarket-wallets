@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 60893,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b83bc405da28818f9d3cbffa17cecbde3414e6d",
+    "trader_name": "Beauforts",
+    "tag": "Overall",
+    "overall_gain": 1050.46866033992,
+    "active_positions": 11,
+    "win_amount": 1122.711576,
+    "loss_amount": -72.2429156600801,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 2011.2220962034999,
+    "total_positions": 24,
+    "event_ct": 13,
+    "win_count": 7,
+    "rank": 60894,
+    "trader_tags": ""
   }
 ]
