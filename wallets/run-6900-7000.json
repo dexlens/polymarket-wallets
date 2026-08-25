@@ -942,5 +942,21 @@
     "win_count": 27,
     "rank": 6959,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcfe6f0d5f3d688cc4fdd269856c5c893c3af3017",
+    "trader_name": "Frogshollow",
+    "tag": "Overall",
+    "overall_gain": 15386.841397770779,
+    "active_positions": 13,
+    "win_amount": 21366.716475312878,
+    "loss_amount": -5979.875077542099,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0.0194974555,
+    "total_positions": 26,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 6960,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
