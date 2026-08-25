@@ -1454,5 +1454,21 @@
     "win_count": 21,
     "rank": 4491,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24daa80e893914ccc6abdcdd47351dbf2f519561",
+    "trader_name": "ewr112",
+    "tag": "Overall",
+    "overall_gain": 24567.87858512519,
+    "active_positions": 2,
+    "win_amount": 113033.46459608425,
+    "loss_amount": -88465.58601095903,
+    "win_rate": 0.4581673306772908,
+    "total_current_value": 0.08545400000000002,
+    "total_positions": 436,
+    "event_ct": 251,
+    "win_count": 115,
+    "rank": 4492,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
