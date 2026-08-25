@@ -926,5 +926,21 @@
     "win_count": 154,
     "rank": 26359,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe6da4fee99a4f4c0ae3528a4af21bada15a5dc2c",
+    "trader_name": "xueshia",
+    "tag": "Overall",
+    "overall_gain": 3313.6430509670295,
+    "active_positions": 4,
+    "win_amount": 4360.316400967029,
+    "loss_amount": -1046.67335,
+    "win_rate": 0.7,
+    "total_current_value": 0.000049000000000000005,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 26360,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
