@@ -334,5 +334,21 @@
     "win_count": 2,
     "rank": 69522,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7602d94a180bae0c2d86980bd48119f2f5d2ed7f",
+    "trader_name": "onWade",
+    "tag": "Overall",
+    "overall_gain": 821.871724581134,
+    "active_positions": 1,
+    "win_amount": 836.755665,
+    "loss_amount": -14.883940418866,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 290.4275,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 69523,
+    "trader_tags": "> 1 year old; 67%+ Positions in US Election "
   }
 ]
