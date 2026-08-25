@@ -1246,5 +1246,21 @@
     "win_count": 5,
     "rank": 17478,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0f9327b91ce9461323aaea340288b5fc22b05c82",
+    "trader_name": "styling",
+    "tag": "Overall",
+    "overall_gain": 5366.473623171354,
+    "active_positions": 1,
+    "win_amount": 5715.9556800968585,
+    "loss_amount": -349.482056925504,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 22886.5399134045,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 17479,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
