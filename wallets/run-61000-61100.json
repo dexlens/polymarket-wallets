@@ -1262,5 +1262,21 @@
     "win_count": 16,
     "rank": 61080,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x65c85ea786a662c8b0f778a652c0ddd4fd1913c8",
+    "trader_name": "derpo",
+    "tag": "Overall",
+    "overall_gain": 1045.5,
+    "active_positions": 0,
+    "win_amount": 1045.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 61081,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
