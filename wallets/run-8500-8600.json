@@ -1566,5 +1566,21 @@
     "win_count": 21,
     "rank": 8598,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x891fdecc3bc43e13cdf56fcc63b2b439c3ab6317",
+    "trader_name": "rrxcorirgiu",
+    "tag": "Overall",
+    "overall_gain": 12190.640026399695,
+    "active_positions": 4,
+    "win_amount": 12262.776702061288,
+    "loss_amount": -72.136675661596,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.17145100000000002,
+    "total_positions": 35,
+    "event_ct": 22,
+    "win_count": 8,
+    "rank": 8599,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
