@@ -766,5 +766,21 @@
     "win_count": 15,
     "rank": 45149,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71d9132c366f1ab85c7451f276aadf4d7aa67a65",
+    "trader_name": "k3mp",
+    "tag": "Overall",
+    "overall_gain": 1706.535844703507,
+    "active_positions": 3,
+    "win_amount": 1836.5348696824599,
+    "loss_amount": -129.999024978953,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.001289,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 45150,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
