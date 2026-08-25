@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 37763,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ca4d6b043604c551a602c5a246e0739e606df91",
+    "trader_name": "Yellowstar",
+    "tag": "Overall",
+    "overall_gain": 2135.91,
+    "active_positions": 2,
+    "win_amount": 3150.91,
+    "loss_amount": -1015,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 37764,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
