@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 23186,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6049761986af66cd8e78997c940766bd69c7f14f",
+    "trader_name": "shcc",
+    "tag": "Overall",
+    "overall_gain": 3880.2525441000084,
+    "active_positions": 2,
+    "win_amount": 6771.33215610001,
+    "loss_amount": -2891.0796120000005,
+    "win_rate": 0.9213903743315508,
+    "total_current_value": 92743.08536000001,
+    "total_positions": 1999,
+    "event_ct": 1870,
+    "win_count": 1723,
+    "rank": 23187,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
