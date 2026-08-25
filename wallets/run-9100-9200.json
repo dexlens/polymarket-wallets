@@ -1246,5 +1246,21 @@
     "win_count": 375,
     "rank": 9178,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1918df3f2d898100f100bc84362b22d4f591e45c",
+    "trader_name": "bamboooo",
+    "tag": "Overall",
+    "overall_gain": 11420.465581650062,
+    "active_positions": 0,
+    "win_amount": 11420.465581650062,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000554,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 9179,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
