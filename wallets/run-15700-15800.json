@@ -766,5 +766,21 @@
     "win_count": 4,
     "rank": 15748,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc8a0a79c363c652c285183b06e2ad090b4a25cc4",
+    "trader_name": "linux.xx1",
+    "tag": "Overall",
+    "overall_gain": 6116.997859562931,
+    "active_positions": 41,
+    "win_amount": 9916.31587191166,
+    "loss_amount": -3799.318012348732,
+    "win_rate": 0.8368869936034116,
+    "total_current_value": 764.2475634500003,
+    "total_positions": 2002,
+    "event_ct": 938,
+    "win_count": 785,
+    "rank": 15749,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
