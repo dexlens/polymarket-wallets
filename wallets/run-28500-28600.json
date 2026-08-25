@@ -1502,5 +1502,21 @@
     "win_count": 8,
     "rank": 28595,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd802886831ae971941ba550331552797effcf912",
+    "trader_name": "bo-aofBt",
+    "tag": "Overall",
+    "overall_gain": 2995.772875706806,
+    "active_positions": 70,
+    "win_amount": 26961.171225404727,
+    "loss_amount": -23965.398349697916,
+    "win_rate": 0.512396694214876,
+    "total_current_value": 212.51780399999998,
+    "total_positions": 4610,
+    "event_ct": 4598,
+    "win_count": 2356,
+    "rank": 28596,
+    "trader_tags": "1k+ Positions"
   }
 ]
