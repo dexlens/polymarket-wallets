@@ -206,5 +206,21 @@
     "win_count": 495,
     "rank": 11613,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x89a3b18dbcae98f670e849abaf793a19061507f0",
+    "trader_name": "cdshberhgergdf",
+    "tag": "Overall",
+    "overall_gain": 8960.460000000001,
+    "active_positions": 1,
+    "win_amount": 8966.94,
+    "loss_amount": -6.4799999999999995,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 11,
+    "rank": 11614,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
