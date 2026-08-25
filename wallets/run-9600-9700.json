@@ -782,5 +782,21 @@
     "win_count": 5,
     "rank": 9649,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2000208421ab401e4616615af32a30a50952dffe",
+    "trader_name": "sujiashen",
+    "tag": "Overall",
+    "overall_gain": 10845.199912280581,
+    "active_positions": 2,
+    "win_amount": 10845.199912280581,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.106582,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 9,
+    "rank": 9650,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
