@@ -1422,5 +1422,21 @@
     "win_count": 16,
     "rank": 25290,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x12bc9f12e3aebd4033b7072c9545f9c56ca3d735",
+    "trader_name": "NVH01",
+    "tag": "Overall",
+    "overall_gain": 3491.793911190335,
+    "active_positions": 11,
+    "win_amount": 4579.110228657587,
+    "loss_amount": -1087.3163174672518,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 5773.786310562,
+    "total_positions": 23,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 25291,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
