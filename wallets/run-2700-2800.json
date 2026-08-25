@@ -718,5 +718,21 @@
     "win_count": 170,
     "rank": 2745,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x94c9b50bb1d5bd06ed5983cba568300d573c4a4d",
+    "trader_name": "haylief",
+    "tag": "Overall",
+    "overall_gain": 42161.632405000004,
+    "active_positions": 0,
+    "win_amount": 42288.692405,
+    "loss_amount": -127.06,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 23,
+    "win_count": 20,
+    "rank": 2746,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
