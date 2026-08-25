@@ -942,5 +942,21 @@
     "win_count": 5,
     "rank": 10459,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdeb32c706c9029b154eb3b0272395c131e7fa12e",
+    "trader_name": "SoniC",
+    "tag": "Overall",
+    "overall_gain": 10051.389480381957,
+    "active_positions": 3,
+    "win_amount": 13671.42469543172,
+    "loss_amount": -3620.035215049763,
+    "win_rate": 0.6,
+    "total_current_value": 0.01172,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 10460,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
