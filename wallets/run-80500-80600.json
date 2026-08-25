@@ -590,5 +590,21 @@
     "win_count": 887,
     "rank": 80538,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xe9c409e5ec838fd56fd1ded96dfb9e8739ca7ebf",
+    "trader_name": "heimd",
+    "tag": "Overall",
+    "overall_gain": 621.519926955013,
+    "active_positions": 4,
+    "win_amount": 974.118823210587,
+    "loss_amount": -352.598896255574,
+    "win_rate": 0.2,
+    "total_current_value": 147.40089643,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 1,
+    "rank": 80539,
+    "trader_tags": "< 30 days old"
   }
 ]
