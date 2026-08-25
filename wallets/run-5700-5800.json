@@ -878,5 +878,21 @@
     "win_count": 4,
     "rank": 5755,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfecb4ea0fe370705d0229aaf81c4300fa5ba19ba",
+    "trader_name": "OptionalityCrush",
+    "tag": "Overall",
+    "overall_gain": 18697.274515360335,
+    "active_positions": 12,
+    "win_amount": 323621.67499744694,
+    "loss_amount": -304924.4004820866,
+    "win_rate": 0.6635514018691588,
+    "total_current_value": 13738.424895234,
+    "total_positions": 609,
+    "event_ct": 535,
+    "win_count": 355,
+    "rank": 5756,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
