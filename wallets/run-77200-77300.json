@@ -1038,5 +1038,21 @@
     "win_count": 2,
     "rank": 77266,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xde7f7f05b7dd4cf29d72bf082df354307a903fc3",
+    "trader_name": "sburbolo",
+    "tag": "Overall",
+    "overall_gain": 677.0503187807499,
+    "active_positions": 35,
+    "win_amount": 6532.317503780749,
+    "loss_amount": -5855.267185,
+    "win_rate": 0.8381224344101375,
+    "total_current_value": 444.98749197999996,
+    "total_positions": 12425,
+    "event_ct": 11206,
+    "win_count": 9392,
+    "rank": 77267,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
