@@ -1342,5 +1342,21 @@
     "win_count": 4,
     "rank": 33785,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2014679ebf21903a61e85d4b5d83f38285b47289",
+    "trader_name": "two333",
+    "tag": "Overall",
+    "overall_gain": 2442.255345,
+    "active_positions": 1,
+    "win_amount": 2442.3066,
+    "loss_amount": -0.0512549999999834,
+    "win_rate": 0.8,
+    "total_current_value": 102.25372500000002,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 33786,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
