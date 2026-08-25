@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 71773,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x45b60b22904d7f93a1132419730f69dbb8de9c4d",
+    "trader_name": "Markudi",
+    "tag": "Overall",
+    "overall_gain": 771.9138126105742,
+    "active_positions": 15,
+    "win_amount": 2467.990765073654,
+    "loss_amount": -1696.0769524630798,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 26.525555999999998,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 15,
+    "rank": 71774,
+    "trader_tags": "> 1 year old"
   }
 ]
