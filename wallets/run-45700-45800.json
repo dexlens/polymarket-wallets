@@ -398,5 +398,21 @@
     "win_count": 12,
     "rank": 45726,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x45e1c92126e1f2d88a1f4ddee85837573282fefc",
+    "trader_name": "geo-trader",
+    "tag": "Overall",
+    "overall_gain": 1679.631655,
+    "active_positions": 0,
+    "win_amount": 1679.631655,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 45727,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
