@@ -1582,5 +1582,21 @@
     "win_count": 161,
     "rank": 7799,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x29b15e8557b2cb5b5ba1ec8b5cbba479ee26f737",
+    "trader_name": "Elenes",
+    "tag": "Overall",
+    "overall_gain": 13520.341748886833,
+    "active_positions": 3,
+    "win_amount": 54998.88743036948,
+    "loss_amount": -41478.54568148265,
+    "win_rate": 0.5330188679245284,
+    "total_current_value": 511.766679156,
+    "total_positions": 214,
+    "event_ct": 212,
+    "win_count": 113,
+    "rank": 7800,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
