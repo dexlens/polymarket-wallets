@@ -1470,5 +1470,21 @@
     "win_count": 20,
     "rank": 5392,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x156cba52efeb52e156809317b82f5b94e6607fb1",
+    "trader_name": "sophie",
+    "tag": "Overall",
+    "overall_gain": 20076.63086260515,
+    "active_positions": 5,
+    "win_amount": 71822.57193562202,
+    "loss_amount": -51745.94107301689,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.002674,
+    "total_positions": 11,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 5393,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 67%+ Positions in US Election "
   }
 ]
