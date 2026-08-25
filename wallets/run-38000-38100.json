@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 38029,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x728d9e78224b67578b3a2a590b2bd8e44c6af7e6",
+    "trader_name": "Barron.",
+    "tag": "Overall",
+    "overall_gain": 2117.140351899834,
+    "active_positions": 10,
+    "win_amount": 5495.666346285751,
+    "loss_amount": -3378.5259943859164,
+    "win_rate": 0.7721518987341772,
+    "total_current_value": 0.14461649,
+    "total_positions": 139,
+    "event_ct": 79,
+    "win_count": 61,
+    "rank": 38030,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
