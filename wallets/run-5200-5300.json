@@ -302,5 +302,21 @@
     "win_count": 3,
     "rank": 5219,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b8407699e832891203387d52c64d8f61ff2f487",
+    "trader_name": "lehmam",
+    "tag": "Overall",
+    "overall_gain": 20761.86204818385,
+    "active_positions": 293,
+    "win_amount": 89556.64575500002,
+    "loss_amount": -68794.78370681615,
+    "win_rate": 0.7629987908101572,
+    "total_current_value": 0,
+    "total_positions": 1807,
+    "event_ct": 1654,
+    "win_count": 1262,
+    "rank": 5220,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
