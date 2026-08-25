@@ -1246,5 +1246,21 @@
     "win_count": 28,
     "rank": 6478,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa172b4183a81b0531a95fa8e5d396d7a0f0c341a",
+    "trader_name": "ottispari",
+    "tag": "Overall",
+    "overall_gain": 16528.771453999994,
+    "active_positions": 1,
+    "win_amount": 16560.619443999996,
+    "loss_amount": -31.84799,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 6479,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
