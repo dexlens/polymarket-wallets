@@ -862,5 +862,21 @@
     "win_count": 28,
     "rank": 2054,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xca334ba9a3ad086f0fce66d2b073d1f6c5c7918c",
+    "trader_name": "fatpapi",
+    "tag": "Overall",
+    "overall_gain": 58704.99971144451,
+    "active_positions": 12,
+    "win_amount": 62600.91021468395,
+    "loss_amount": -3895.9105032394323,
+    "win_rate": 0.5967741935483871,
+    "total_current_value": 9075.487320933998,
+    "total_positions": 98,
+    "event_ct": 62,
+    "win_count": 37,
+    "rank": 2055,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
