@@ -606,5 +606,21 @@
     "win_count": 20,
     "rank": 38739,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8f772ef9f7630e11aed0cbdde952f181323e15d5",
+    "trader_name": "vdfhrt",
+    "tag": "Overall",
+    "overall_gain": 2070.13,
+    "active_positions": 5,
+    "win_amount": 3720.41,
+    "loss_amount": -1650.28,
+    "win_rate": 0.7,
+    "total_current_value": 46,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 38740,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
