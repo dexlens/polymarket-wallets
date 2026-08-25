@@ -718,5 +718,21 @@
     "win_count": 16,
     "rank": 74646,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe5d760dc7627248daf3a8c247ac8d6244c3987c5",
+    "trader_name": "benzene-bandit",
+    "tag": "Overall",
+    "overall_gain": 719.2684878799802,
+    "active_positions": 88,
+    "win_amount": 6348.369394999999,
+    "loss_amount": -5629.100907120019,
+    "win_rate": 0.8,
+    "total_current_value": 0.00651837,
+    "total_positions": 557,
+    "event_ct": 555,
+    "win_count": 444,
+    "rank": 74647,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
