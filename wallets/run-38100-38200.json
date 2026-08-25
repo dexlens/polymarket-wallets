@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 38199,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x1fea4066d9d8b199f806a28eab1803159d0f5685",
+    "trader_name": "BTCOG",
+    "tag": "Overall",
+    "overall_gain": 2105.980929753487,
+    "active_positions": 33,
+    "win_amount": 3702.793611351953,
+    "loss_amount": -1596.8126815984665,
+    "win_rate": 0.7052631578947368,
+    "total_current_value": 4478.946867840001,
+    "total_positions": 323,
+    "event_ct": 190,
+    "win_count": 134,
+    "rank": 38200,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
