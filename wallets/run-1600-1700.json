@@ -1134,5 +1134,21 @@
     "win_count": 76,
     "rank": 1671,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0700cb9b2504c30c55273c323f67faaa23a3267b",
+    "trader_name": "xores63838",
+    "tag": "Overall",
+    "overall_gain": 73488.8316062035,
+    "active_positions": 0,
+    "win_amount": 73586.3298872035,
+    "loss_amount": -97.498281,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.034768999999999994,
+    "total_positions": 15,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 1672,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
