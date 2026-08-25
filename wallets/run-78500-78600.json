@@ -734,5 +734,21 @@
     "win_count": 10,
     "rank": 78547,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc63b667fd39538d28174d7726f23a697ed821b72",
+    "trader_name": "JHBUV",
+    "tag": "Overall",
+    "overall_gain": 654.908165314933,
+    "active_positions": 19,
+    "win_amount": 1118.2540009999998,
+    "loss_amount": -463.3458356850671,
+    "win_rate": 0.5365853658536586,
+    "total_current_value": 106.035,
+    "total_positions": 42,
+    "event_ct": 41,
+    "win_count": 22,
+    "rank": 78548,
+    "trader_tags": ""
   }
 ]
