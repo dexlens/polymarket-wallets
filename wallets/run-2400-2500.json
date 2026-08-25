@@ -1278,5 +1278,21 @@
     "win_count": 2,
     "rank": 2480,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x55e2436d747835c7e40b0c6cf92f632bf1215fc9",
+    "trader_name": "Rhabarberbarbarbar",
+    "tag": "Overall",
+    "overall_gain": 47371.9822711276,
+    "active_positions": 64,
+    "win_amount": 66782.1889219776,
+    "loss_amount": -19410.20665085,
+    "win_rate": 0.8933333333333333,
+    "total_current_value": 136172.10757,
+    "total_positions": 227,
+    "event_ct": 75,
+    "win_count": 67,
+    "rank": 2481,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
