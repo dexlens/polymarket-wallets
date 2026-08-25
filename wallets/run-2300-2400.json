@@ -750,5 +750,21 @@
     "win_count": 12,
     "rank": 2347,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc9228fb6f7ea5da331a879e372b48db824452618",
+    "trader_name": "Wagienomics",
+    "tag": "Overall",
+    "overall_gain": 50360.419491466615,
+    "active_positions": 6,
+    "win_amount": 417585.0853785687,
+    "loss_amount": -367224.6658871022,
+    "win_rate": 0.5334063526834611,
+    "total_current_value": 3531.663450569999,
+    "total_positions": 2205,
+    "event_ct": 1826,
+    "win_count": 974,
+    "rank": 2348,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
