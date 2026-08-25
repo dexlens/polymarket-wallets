@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 55854,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d0dd222953ca23da8ae96d9c1c02210bcf00a33",
+    "trader_name": "Probeersel",
+    "tag": "Overall",
+    "overall_gain": 1223.823152,
+    "active_positions": 0,
+    "win_amount": 1372.412644,
+    "loss_amount": -148.589492,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 55855,
+    "trader_tags": "> 1 year old"
   }
 ]
