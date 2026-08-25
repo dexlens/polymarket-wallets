@@ -1422,5 +1422,21 @@
     "win_count": 2,
     "rank": 21489,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d64cd047f0474aec512ad94bd4090e138d4738e",
+    "trader_name": "camoha",
+    "tag": "Overall",
+    "overall_gain": 4238.65174929398,
+    "active_positions": 191,
+    "win_amount": 4800.662346643592,
+    "loss_amount": -562.010597349611,
+    "win_rate": 0.7538461538461538,
+    "total_current_value": 3.668309029500001,
+    "total_positions": 983,
+    "event_ct": 130,
+    "win_count": 98,
+    "rank": 21490,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
