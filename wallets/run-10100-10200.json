@@ -1358,5 +1358,21 @@
     "win_count": 15,
     "rank": 10185,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6e4fc968a43efacb000d4ee210ad3e1f57cd446c",
+    "trader_name": "eVanodec",
+    "tag": "Overall",
+    "overall_gain": 10313.871540624315,
+    "active_positions": 2,
+    "win_amount": 29188.944326289155,
+    "loss_amount": -18875.072785664834,
+    "win_rate": 0.5074626865671642,
+    "total_current_value": 0.013345000000000001,
+    "total_positions": 71,
+    "event_ct": 67,
+    "win_count": 34,
+    "rank": 10186,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
