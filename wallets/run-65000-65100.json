@@ -110,5 +110,21 @@
     "win_count": 8,
     "rank": 65008,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1f78240152ca0d9153c759a47e82eeaa1aa4c245",
+    "trader_name": "bsdbs",
+    "tag": "Overall",
+    "overall_gain": 945.2541483999998,
+    "active_positions": 2,
+    "win_amount": 2289.7941484000003,
+    "loss_amount": -1344.54,
+    "win_rate": 0.7666666666666667,
+    "total_current_value": 94.44064639999999,
+    "total_positions": 31,
+    "event_ct": 30,
+    "win_count": 23,
+    "rank": 65009,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
