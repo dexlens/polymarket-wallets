@@ -702,5 +702,21 @@
     "win_count": 180,
     "rank": 68445,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x12c4088a9ca6f6aa6033937be306bad1ad89c2cc",
+    "trader_name": "werewrfe",
+    "tag": "Overall",
+    "overall_gain": 849.891676072428,
+    "active_positions": 1,
+    "win_amount": 849.891676072428,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 5.19034586,
+    "total_positions": 29,
+    "event_ct": 26,
+    "win_count": 26,
+    "rank": 68446,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
