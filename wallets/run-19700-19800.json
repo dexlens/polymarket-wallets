@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 19799,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x899cb6ed3b50684bd188f7c17745479ed3aad868",
+    "trader_name": "wev",
+    "tag": "Overall",
+    "overall_gain": 4679.180191632132,
+    "active_positions": 75,
+    "win_amount": 6341.23761389635,
+    "loss_amount": -1662.0574222642156,
+    "win_rate": 0.48223350253807107,
+    "total_current_value": 133.67551300899999,
+    "total_positions": 371,
+    "event_ct": 197,
+    "win_count": 95,
+    "rank": 19800,
+    "trader_tags": "> 1 year old"
   }
 ]
