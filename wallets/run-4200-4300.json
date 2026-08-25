@@ -302,5 +302,21 @@
     "win_count": 20,
     "rank": 4219,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70befafc948a44c647d463d9b766dcfdc275d900",
+    "trader_name": "MamaKarena",
+    "tag": "Overall",
+    "overall_gain": 26480.81713215461,
+    "active_positions": 13,
+    "win_amount": 124089.3542972735,
+    "loss_amount": -97608.53716511877,
+    "win_rate": 0.5837464589235127,
+    "total_current_value": 364.96556292,
+    "total_positions": 9749,
+    "event_ct": 5648,
+    "win_count": 3297,
+    "rank": 4220,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
