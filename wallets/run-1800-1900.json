@@ -190,5 +190,21 @@
     "win_count": 13,
     "rank": 1812,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x9f2dde9fcb83190847a8da2287c3e6f43c8bc34d",
+    "trader_name": "Collabb2",
+    "tag": "Overall",
+    "overall_gain": 67299.93811399999,
+    "active_positions": 0,
+    "win_amount": 92317.29845,
+    "loss_amount": -25017.360336,
+    "win_rate": 0.6097560975609756,
+    "total_current_value": 0,
+    "total_positions": 43,
+    "event_ct": 41,
+    "win_count": 25,
+    "rank": 1813,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
