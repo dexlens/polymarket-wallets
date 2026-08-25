@@ -1326,5 +1326,21 @@
     "win_count": 9,
     "rank": 10483,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd0798aa174d0a4aeb00c5352053a76adee018db3",
+    "trader_name": "laotang222",
+    "tag": "Overall",
+    "overall_gain": 10033.646781288971,
+    "active_positions": 27,
+    "win_amount": 75829.63663481898,
+    "loss_amount": -65795.98985353002,
+    "win_rate": 0.5241239207719655,
+    "total_current_value": 1703.70625,
+    "total_positions": 2993,
+    "event_ct": 1969,
+    "win_count": 1032,
+    "rank": 10484,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
