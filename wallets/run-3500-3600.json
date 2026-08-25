@@ -526,5 +526,21 @@
     "win_count": 402,
     "rank": 3533,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x60d18d444868e6eddd3bb7238efdcda591190c8f",
+    "trader_name": "xart",
+    "tag": "Overall",
+    "overall_gain": 32293.142287037685,
+    "active_positions": 63,
+    "win_amount": 76383.03044369344,
+    "loss_amount": -44089.88815665574,
+    "win_rate": 0.5482954545454546,
+    "total_current_value": 16847.801402930003,
+    "total_positions": 644,
+    "event_ct": 352,
+    "win_count": 193,
+    "rank": 3534,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
