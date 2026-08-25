@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 3614,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xce7ad4bbb7c78bcdab9a6a40b58aa7e886049238",
+    "trader_name": "nik1ta",
+    "tag": "Overall",
+    "overall_gain": 31483.23724644113,
+    "active_positions": 0,
+    "win_amount": 33449.867858371756,
+    "loss_amount": -1966.630611930624,
+    "win_rate": 0.9,
+    "total_current_value": 0.071321,
+    "total_positions": 19,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 3615,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
