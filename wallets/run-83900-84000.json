@@ -750,5 +750,21 @@
     "win_count": 2,
     "rank": 83948,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x722fe62b34f553623e935953bee6859b168cc5cd",
+    "trader_name": "Key132",
+    "tag": "Overall",
+    "overall_gain": 567.0699999999999,
+    "active_positions": 0,
+    "win_amount": 567.0699999999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 83949,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
