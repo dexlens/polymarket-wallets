@@ -718,5 +718,21 @@
     "win_count": 1,
     "rank": 67246,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1840a9cf5ee37a6e82f912cb27e5b0f86bb1e9c5",
+    "trader_name": "MirageSora",
+    "tag": "Overall",
+    "overall_gain": 882.383939,
+    "active_positions": 1,
+    "win_amount": 1060.733939,
+    "loss_amount": -178.35,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 67247,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
