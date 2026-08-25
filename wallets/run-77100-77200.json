@@ -1294,5 +1294,21 @@
     "win_count": 58,
     "rank": 77182,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4d060740b89ac4ec8fe5e32ce5343db294d0b66c",
+    "trader_name": "cm149",
+    "tag": "Overall",
+    "overall_gain": 678.589157979809,
+    "active_positions": 0,
+    "win_amount": 678.63495,
+    "loss_amount": -0.045792020190999996,
+    "win_rate": 0.75,
+    "total_current_value": 0.001809,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 77183,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
