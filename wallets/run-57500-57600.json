@@ -670,5 +670,21 @@
     "win_count": 18,
     "rank": 57543,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x40a31e55b5a59f0bd2f14653ab167e3a790fd591",
+    "trader_name": "splash1031",
+    "tag": "Overall",
+    "overall_gain": 1158.640952598964,
+    "active_positions": 2,
+    "win_amount": 1358.640497373511,
+    "loss_amount": -199.999544774547,
+    "win_rate": 0.8,
+    "total_current_value": 1013.513511,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 57544,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
