@@ -110,5 +110,21 @@
     "win_count": 30,
     "rank": 607,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x19bcde88fb71b711e12cefc395f1d19abfa94834",
+    "trader_name": "motherbear",
+    "tag": "Overall",
+    "overall_gain": 213135.58002832107,
+    "active_positions": 15,
+    "win_amount": 517795.0810737447,
+    "loss_amount": -304659.5010454234,
+    "win_rate": 0.5150812064965197,
+    "total_current_value": 6427.301213999801,
+    "total_positions": 1135,
+    "event_ct": 431,
+    "win_count": 222,
+    "rank": 608,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions"
   }
 ]
