@@ -1022,5 +1022,21 @@
     "win_count": 7,
     "rank": 4264,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e04fe528bcfab08c348f98a05a80c8606a528a9",
+    "trader_name": "BAPEHUK",
+    "tag": "Overall",
+    "overall_gain": 26207.171790362147,
+    "active_positions": 4,
+    "win_amount": 102499.28546466211,
+    "loss_amount": -76292.11367430001,
+    "win_rate": 0.49783549783549785,
+    "total_current_value": 9427.455882203001,
+    "total_positions": 345,
+    "event_ct": 231,
+    "win_count": 115,
+    "rank": 4265,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
