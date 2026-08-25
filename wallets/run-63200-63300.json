@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 63283,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x2d040d60dc48e2ddb8645fe8b31eabc759925909",
+    "trader_name": "SDVYTRD",
+    "tag": "Overall",
+    "overall_gain": 993.7503113544428,
+    "active_positions": 3,
+    "win_amount": 2205.860007,
+    "loss_amount": -1212.109695645557,
+    "win_rate": 0.918918918918919,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 34,
+    "rank": 63284,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
