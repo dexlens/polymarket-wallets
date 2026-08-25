@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 73632,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x63e09ef9e41e13868919af69ab75f28ae72ff34e",
+    "trader_name": "SatorWn",
+    "tag": "Overall",
+    "overall_gain": 733.9902614900059,
+    "active_positions": 0,
+    "win_amount": 733.9902614900059,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.018424000000000003,
+    "total_positions": 6,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 73633,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
