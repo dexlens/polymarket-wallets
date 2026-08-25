@@ -478,5 +478,21 @@
     "win_count": 138,
     "rank": 21630,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x036c2db65b5a868472d4cca43199ade6719c9541",
+    "trader_name": "Airclock",
+    "tag": "Overall",
+    "overall_gain": 4203.639999999999,
+    "active_positions": 0,
+    "win_amount": 4203.639999999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 21631,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
