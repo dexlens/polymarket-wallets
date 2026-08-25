@@ -1166,5 +1166,21 @@
     "win_count": 8,
     "rank": 42874,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x90813a749e61961d4fe32fe4297859f8eb82fa07",
+    "trader_name": "peggiedol",
+    "tag": "Overall",
+    "overall_gain": 1826.39,
+    "active_positions": 1,
+    "win_amount": 1826.39,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 16.05,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 42875,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
