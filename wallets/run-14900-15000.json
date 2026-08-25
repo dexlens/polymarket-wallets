@@ -638,5 +638,21 @@
     "win_count": 2,
     "rank": 14940,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc1672b61f606f3963e1cbb2bb115fc878b98026e",
+    "trader_name": "Rainman.",
+    "tag": "Overall",
+    "overall_gain": 6534.462924352209,
+    "active_positions": 3,
+    "win_amount": 7893.441385423477,
+    "loss_amount": -1358.9784610712688,
+    "win_rate": 0.625,
+    "total_current_value": 0.06659000000000001,
+    "total_positions": 27,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 14941,
+    "trader_tags": ""
   }
 ]
