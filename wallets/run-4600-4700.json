@@ -606,5 +606,21 @@
     "win_count": 246,
     "rank": 4638,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0dedae6a02ea2ff8018ba5f277632919ed1c9025",
+    "trader_name": "jcharger",
+    "tag": "Overall",
+    "overall_gain": 23611.15062928332,
+    "active_positions": 15,
+    "win_amount": 33753.8883196749,
+    "loss_amount": -10142.737690391583,
+    "win_rate": 0.5942028985507246,
+    "total_current_value": 1540.8376038349995,
+    "total_positions": 1684,
+    "event_ct": 552,
+    "win_count": 328,
+    "rank": 4639,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
