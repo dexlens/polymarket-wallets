@@ -158,5 +158,21 @@
     "win_count": 7,
     "rank": 6010,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3603cb6998593af0fd9247a4514729443702ac36",
+    "trader_name": "STFEB",
+    "tag": "Overall",
+    "overall_gain": 17842.525398999995,
+    "active_positions": 0,
+    "win_amount": 67433.37426299999,
+    "loss_amount": -49590.848863999985,
+    "win_rate": 0.5517241379310345,
+    "total_current_value": 0,
+    "total_positions": 116,
+    "event_ct": 116,
+    "win_count": 64,
+    "rank": 6011,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
