@@ -78,5 +78,21 @@
     "win_count": 116,
     "rank": 2805,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4ed1490b0bebd9ccf7cb42862ea7df70ebc0fcfd",
+    "trader_name": "AngCh",
+    "tag": "Overall",
+    "overall_gain": 41242.751570666274,
+    "active_positions": 0,
+    "win_amount": 49689.74610497355,
+    "loss_amount": -8446.994534307272,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.03806725,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 8,
+    "rank": 2806,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
