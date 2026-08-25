@@ -1022,5 +1022,21 @@
     "win_count": 14,
     "rank": 8664,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8d0328e8aeaa03bb13796c0eb31210f7f216fabf",
+    "trader_name": "CarolusRex",
+    "tag": "Overall",
+    "overall_gain": 12092.306232529252,
+    "active_positions": 0,
+    "win_amount": 41410.60208506113,
+    "loss_amount": -29318.295852531868,
+    "win_rate": 0.5277777777777778,
+    "total_current_value": 0.10414599718645592,
+    "total_positions": 58,
+    "event_ct": 36,
+    "win_count": 19,
+    "rank": 8665,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
