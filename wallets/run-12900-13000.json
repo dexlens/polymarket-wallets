@@ -686,5 +686,21 @@
     "win_count": 20,
     "rank": 12943,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f6e67432db867a2882e2abe02abde3fe5125727",
+    "trader_name": "JustZen",
+    "tag": "Overall",
+    "overall_gain": 7788.229244260953,
+    "active_positions": 2,
+    "win_amount": 28055.567046192926,
+    "loss_amount": -20267.33780193198,
+    "win_rate": 0.6227544910179641,
+    "total_current_value": 47.21797899999999,
+    "total_positions": 407,
+    "event_ct": 167,
+    "win_count": 104,
+    "rank": 12944,
+    "trader_tags": "> 1 year old"
   }
 ]
