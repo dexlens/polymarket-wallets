@@ -958,5 +958,21 @@
     "win_count": 56,
     "rank": 7360,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8a2f53f19d6731d3a360d4d399d9ea64259efd3b",
+    "trader_name": "Morka",
+    "tag": "Overall",
+    "overall_gain": 14462.89960332343,
+    "active_positions": 5,
+    "win_amount": 15623.423607601233,
+    "loss_amount": -1160.5240042778062,
+    "win_rate": 0.7674418604651163,
+    "total_current_value": 8.02435,
+    "total_positions": 44,
+    "event_ct": 43,
+    "win_count": 33,
+    "rank": 7361,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
