@@ -446,5 +446,21 @@
     "win_count": 7,
     "rank": 80029,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e0cf7f079f567507cf1024ec0d3e69bf8d95359",
+    "trader_name": "nyk",
+    "tag": "Overall",
+    "overall_gain": 630.2073990090229,
+    "active_positions": 3,
+    "win_amount": 642.20737,
+    "loss_amount": -11.999970990977001,
+    "win_rate": 0.7666666666666667,
+    "total_current_value": 28.3,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 23,
+    "rank": 80030,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
