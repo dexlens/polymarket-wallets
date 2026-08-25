@@ -334,5 +334,21 @@
     "win_count": 60,
     "rank": 86622,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f8ea246fe3bd3fa3dfe46c99c61cb124e697501",
+    "trader_name": "akelo",
+    "tag": "Overall",
+    "overall_gain": 530.5101454822939,
+    "active_positions": 0,
+    "win_amount": 593.61459367563,
+    "loss_amount": -63.104448193336,
+    "win_rate": 0.38461538461538464,
+    "total_current_value": 0.032882,
+    "total_positions": 32,
+    "event_ct": 13,
+    "win_count": 5,
+    "rank": 86623,
+    "trader_tags": "> 1 year old"
   }
 ]
