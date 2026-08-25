@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 31615,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e9ee0dcd8d1dad04e2fd1f9095b16ba1e2c8529",
+    "trader_name": "HotandRich",
+    "tag": "Overall",
+    "overall_gain": 2639.199081967094,
+    "active_positions": 1,
+    "win_amount": 2991.535333198509,
+    "loss_amount": -352.336251231415,
+    "win_rate": 0.75,
+    "total_current_value": 0.007776,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 31616,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
