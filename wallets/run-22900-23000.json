@@ -590,5 +590,21 @@
     "win_count": 16,
     "rank": 22937,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f5481120bd40edeefedb9d23a291729bfb3ad73",
+    "trader_name": "Orbitpath",
+    "tag": "Overall",
+    "overall_gain": 3930.5,
+    "active_positions": 2,
+    "win_amount": 4123.5,
+    "loss_amount": -193,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 22938,
+    "trader_tags": ""
   }
 ]
