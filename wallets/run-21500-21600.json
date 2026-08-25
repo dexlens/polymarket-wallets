@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 21577,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2fb7165305700c93b67c4f1427275d59c4056ff7",
+    "trader_name": "TwoEazy",
+    "tag": "Overall",
+    "overall_gain": 4218.034607550789,
+    "active_positions": 0,
+    "win_amount": 5777.321558666332,
+    "loss_amount": -1559.2869511155432,
+    "win_rate": 0.625,
+    "total_current_value": 0.017074,
+    "total_positions": 13,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 21578,
+    "trader_tags": "> 1 year old"
   }
 ]
