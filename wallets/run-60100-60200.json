@@ -126,5 +126,21 @@
     "win_count": 7,
     "rank": 60109,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x184fd297c81512ba572fcceded35ca2e63692191",
+    "trader_name": "Skipiwow",
+    "tag": "Overall",
+    "overall_gain": 1073.0730860811882,
+    "active_positions": 35,
+    "win_amount": 4986.711508793655,
+    "loss_amount": -3913.6384227124677,
+    "win_rate": 0.7528089887640449,
+    "total_current_value": 553.410622,
+    "total_positions": 194,
+    "event_ct": 178,
+    "win_count": 134,
+    "rank": 60110,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
