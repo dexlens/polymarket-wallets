@@ -1070,5 +1070,21 @@
     "win_count": 6,
     "rank": 20167,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73d1893e0388325f47db0994127846eb8c7d3ff1",
+    "trader_name": "Gawvin",
+    "tag": "Overall",
+    "overall_gain": 4584.5,
+    "active_positions": 2,
+    "win_amount": 5018,
+    "loss_amount": -433.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 20168,
+    "trader_tags": ""
   }
 ]
