@@ -142,5 +142,21 @@
     "win_count": 5,
     "rank": 28610,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeccd894076b09937742476b9aa442a646f29d100",
+    "trader_name": "Jitobundle",
+    "tag": "Overall",
+    "overall_gain": 2994.2591516837406,
+    "active_positions": 29,
+    "win_amount": 40000.54246455229,
+    "loss_amount": -37006.283312868545,
+    "win_rate": 0.5248663101604278,
+    "total_current_value": 478.7434659279999,
+    "total_positions": 3868,
+    "event_ct": 3740,
+    "win_count": 1963,
+    "rank": 28611,
+    "trader_tags": "1k+ Positions"
   }
 ]
