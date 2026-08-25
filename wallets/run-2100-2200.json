@@ -1486,5 +1486,21 @@
     "win_count": 67,
     "rank": 2193,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb32849c949bcfad9b1dd5170749a84a6e2504df1",
+    "trader_name": "SoftK1",
+    "tag": "Overall",
+    "overall_gain": 54882.14116219181,
+    "active_positions": 21,
+    "win_amount": 103504.60127081168,
+    "loss_amount": -48622.46010861985,
+    "win_rate": 0.5588235294117647,
+    "total_current_value": 0.08564,
+    "total_positions": 52,
+    "event_ct": 34,
+    "win_count": 19,
+    "rank": 2194,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
