@@ -1486,5 +1486,21 @@
     "win_count": 171,
     "rank": 59494,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9cb5de7f1f13214230dd00dd151641cea1778d3e",
+    "trader_name": "youni1dk",
+    "tag": "Overall",
+    "overall_gain": 1092.2826602699997,
+    "active_positions": 2,
+    "win_amount": 1112.9999994999998,
+    "loss_amount": -20.71733923000012,
+    "win_rate": 0.125,
+    "total_current_value": 74.10182299000002,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 1,
+    "rank": 59495,
+    "trader_tags": "< 30 days old"
   }
 ]
