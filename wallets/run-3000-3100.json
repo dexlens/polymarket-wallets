@@ -1198,5 +1198,21 @@
     "win_count": 45,
     "rank": 3075,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x755c40b585d87899d2fd3ca7cae87e5c9b8e5950",
+    "trader_name": "hilbertss",
+    "tag": "Overall",
+    "overall_gain": 37242.561788914565,
+    "active_positions": 41,
+    "win_amount": 66117.97763282435,
+    "loss_amount": -28875.41584390976,
+    "win_rate": 0.6045304388862671,
+    "total_current_value": 0.073046,
+    "total_positions": 4146,
+    "event_ct": 2119,
+    "win_count": 1281,
+    "rank": 3076,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
