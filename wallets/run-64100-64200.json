@@ -910,5 +910,21 @@
     "win_count": 16,
     "rank": 64158,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbf58fdb93c1a47c84144c6208f264ca964466164",
+    "trader_name": "HANSANQ",
+    "tag": "Overall",
+    "overall_gain": 969.7233199999998,
+    "active_positions": 8,
+    "win_amount": 1028.333318,
+    "loss_amount": -58.609998000000004,
+    "win_rate": 0.6875,
+    "total_current_value": 43,
+    "total_positions": 17,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 64159,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
