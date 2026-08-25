@@ -942,5 +942,21 @@
     "win_count": 28,
     "rank": 35160,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x95ad9a53fe7fe299f96c265184896cf36ac2254e",
+    "trader_name": "Thanksgiving-Turkey",
+    "tag": "Overall",
+    "overall_gain": 2328.308043,
+    "active_positions": 0,
+    "win_amount": 2328.308043,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 29,
+    "event_ct": 8,
+    "win_count": 8,
+    "rank": 35161,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
