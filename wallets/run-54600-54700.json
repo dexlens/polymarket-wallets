@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 54631,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ea148a4c6ff6ea2ae4392f16a45ec51cdf25dcd",
+    "trader_name": "Usdd",
+    "tag": "Overall",
+    "overall_gain": 1275.0143752308547,
+    "active_positions": 3,
+    "win_amount": 5541.9193611496,
+    "loss_amount": -4266.904985918746,
+    "win_rate": 0.8245614035087719,
+    "total_current_value": 439.915321,
+    "total_positions": 72,
+    "event_ct": 57,
+    "win_count": 47,
+    "rank": 54632,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
