@@ -1150,5 +1150,21 @@
     "win_count": 9,
     "rank": 83273,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38dbf1a415b32591cdecca1e4e870636fa543090",
+    "trader_name": "everalon",
+    "tag": "Overall",
+    "overall_gain": 577.821242448974,
+    "active_positions": 9,
+    "win_amount": 1084.9189696781832,
+    "loss_amount": -507.097727229209,
+    "win_rate": 0.6338582677165354,
+    "total_current_value": 1.7574830000000001,
+    "total_positions": 256,
+    "event_ct": 254,
+    "win_count": 161,
+    "rank": 83274,
+    "trader_tags": "> 1 year old"
   }
 ]
