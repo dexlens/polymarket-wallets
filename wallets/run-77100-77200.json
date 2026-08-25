@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 77149,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x66c2327c06daae22ad8e30ed248db1aa2bb68273",
+    "trader_name": "52bnb",
+    "tag": "Overall",
+    "overall_gain": 679.195211,
+    "active_positions": 0,
+    "win_amount": 679.195211,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 77150,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
