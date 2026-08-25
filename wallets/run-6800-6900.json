@@ -126,5 +126,21 @@
     "win_count": 264,
     "rank": 6808,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1a2ea821cee7aa278681f96c55ebe89cc6694197",
+    "trader_name": "ysq261",
+    "tag": "Overall",
+    "overall_gain": 15757.362262000002,
+    "active_positions": 0,
+    "win_amount": 48792.599334000006,
+    "loss_amount": -33035.237072,
+    "win_rate": 0.22580645161290322,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 7,
+    "rank": 6809,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
