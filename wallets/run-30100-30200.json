@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 30162,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaf8b1d3e0a0962ed1ef3f790b22d07f75a93a5ba",
+    "trader_name": "needAhouse",
+    "tag": "Overall",
+    "overall_gain": 2802.491457973476,
+    "active_positions": 4,
+    "win_amount": 2807.436183133154,
+    "loss_amount": -4.944725159677944,
+    "win_rate": 0.75,
+    "total_current_value": 1914.325086777,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 30163,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
