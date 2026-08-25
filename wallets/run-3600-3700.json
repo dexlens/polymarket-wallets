@@ -1310,5 +1310,21 @@
     "win_count": 20,
     "rank": 3682,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xea342097eeda5e523a32fa1e00ff5a3d339e0a92",
+    "trader_name": "nba0001",
+    "tag": "Overall",
+    "overall_gain": 30929.705964448298,
+    "active_positions": 0,
+    "win_amount": 68623.8804286936,
+    "loss_amount": -37694.17446424532,
+    "win_rate": 0.37254901960784315,
+    "total_current_value": 0.508335,
+    "total_positions": 188,
+    "event_ct": 153,
+    "win_count": 57,
+    "rank": 3683,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
