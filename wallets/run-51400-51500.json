@@ -638,5 +638,21 @@
     "win_count": 31,
     "rank": 51441,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x465154b6c51007862a1b59028ece49d074bfd756",
+    "trader_name": "TeamSakana",
+    "tag": "Overall",
+    "overall_gain": 1417.615258013658,
+    "active_positions": 7,
+    "win_amount": 1871.7143037175867,
+    "loss_amount": -454.09904570392905,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 994.5108130055,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 51442,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
