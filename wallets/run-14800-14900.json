@@ -766,5 +766,21 @@
     "win_count": 12,
     "rank": 14848,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe6ac677209c7417ccd3461c86ae754444d27957d",
+    "trader_name": "Bouilduin",
+    "tag": "Overall",
+    "overall_gain": 6588.996110992941,
+    "active_positions": 2,
+    "win_amount": 32869.342957884044,
+    "loss_amount": -26280.34684689111,
+    "win_rate": 0.5738636363636364,
+    "total_current_value": 1950.0595160000003,
+    "total_positions": 198,
+    "event_ct": 176,
+    "win_count": 101,
+    "rank": 14849,
+    "trader_tags": "> 1 year old"
   }
 ]
