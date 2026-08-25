@@ -830,5 +830,21 @@
     "win_count": 6,
     "rank": 5952,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x46bcbaf94922970fbf7100d36e3ed3a72f702d14",
+    "trader_name": "hehedd",
+    "tag": "Overall",
+    "overall_gain": 17994.960130766183,
+    "active_positions": 2,
+    "win_amount": 73072.4311187662,
+    "loss_amount": -55077.470987999994,
+    "win_rate": 0.3484848484848485,
+    "total_current_value": 6.382477000000001,
+    "total_positions": 136,
+    "event_ct": 132,
+    "win_count": 46,
+    "rank": 5953,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
