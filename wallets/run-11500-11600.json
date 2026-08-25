@@ -494,5 +494,21 @@
     "win_count": 45,
     "rank": 11531,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5028d34cd2691f64255971410d595289a2a191c5",
+    "trader_name": "rocky42001",
+    "tag": "Overall",
+    "overall_gain": 9038.247388411619,
+    "active_positions": 278,
+    "win_amount": 100643.0065715275,
+    "loss_amount": -91604.7591831159,
+    "win_rate": 0.418200408997955,
+    "total_current_value": 11416.579008476,
+    "total_positions": 3739,
+    "event_ct": 978,
+    "win_count": 409,
+    "rank": 11532,
+    "trader_tags": "1k+ Positions"
   }
 ]
