@@ -46,5 +46,21 @@
     "win_count": 12,
     "rank": 14003,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x41c770ad5cb1fb64ff6cea1b6c192a0301502377",
+    "trader_name": "Cinderfallff",
+    "tag": "Overall",
+    "overall_gain": 7048.673475408822,
+    "active_positions": 4,
+    "win_amount": 8695.581337188052,
+    "loss_amount": -1646.907861779232,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 11.947018600000002,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 14004,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
