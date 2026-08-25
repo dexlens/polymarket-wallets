@@ -686,5 +686,21 @@
     "win_count": 7,
     "rank": 10043,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x274e75b55aa3d8ef63e0edf9c9d4846e061e648c",
+    "trader_name": "miiland",
+    "tag": "Overall",
+    "overall_gain": 10445.19224964929,
+    "active_positions": 8,
+    "win_amount": 11829.071734933637,
+    "loss_amount": -1383.879485284351,
+    "win_rate": 0.6049382716049383,
+    "total_current_value": 1464.7984606535,
+    "total_positions": 123,
+    "event_ct": 81,
+    "win_count": 49,
+    "rank": 10044,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
