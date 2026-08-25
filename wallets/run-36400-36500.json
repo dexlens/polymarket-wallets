@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 36440,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a11b39eebe2b5a4ba5dcad5a4d918ec7a70bb2e",
+    "trader_name": "coin98",
+    "tag": "Overall",
+    "overall_gain": 2229.15079999042,
+    "active_positions": 13,
+    "win_amount": 5223.670785,
+    "loss_amount": -2994.51998500958,
+    "win_rate": 0.6829268292682927,
+    "total_current_value": 0,
+    "total_positions": 41,
+    "event_ct": 41,
+    "win_count": 28,
+    "rank": 36441,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
