@@ -1390,5 +1390,21 @@
     "win_count": 128,
     "rank": 4987,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x2ad783c5ca1e4b3cb262077f33f21e9fef6750cf",
+    "trader_name": "giggyking",
+    "tag": "Overall",
+    "overall_gain": 21735.00594324732,
+    "active_positions": 14,
+    "win_amount": 21804.644933020907,
+    "loss_amount": -69.63898977359099,
+    "win_rate": 0.4649122807017544,
+    "total_current_value": 0.020905,
+    "total_positions": 118,
+    "event_ct": 114,
+    "win_count": 53,
+    "rank": 4988,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
