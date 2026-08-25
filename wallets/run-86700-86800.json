@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 86731,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd245304a12ba711de764a45cd0912aee5ad52318",
+    "trader_name": "qcp2",
+    "tag": "Overall",
+    "overall_gain": 529.0377874026443,
+    "active_positions": 75,
+    "win_amount": 678.6216295482021,
+    "loss_amount": -149.58384214555798,
+    "win_rate": 0.46551724137931033,
+    "total_current_value": 380.8106311045001,
+    "total_positions": 207,
+    "event_ct": 58,
+    "win_count": 27,
+    "rank": 86732,
+    "trader_tags": ""
   }
 ]
