@@ -1406,5 +1406,21 @@
     "win_count": 4,
     "rank": 81089,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x23ca200155c976a96607a3fa371d504a4482d4a2",
+    "trader_name": "LAU2402",
+    "tag": "Overall",
+    "overall_gain": 612.595254729006,
+    "active_positions": 0,
+    "win_amount": 2365.257527999999,
+    "loss_amount": -1752.6622732709934,
+    "win_rate": 0.8935030140656397,
+    "total_current_value": 0.32446600000000003,
+    "total_positions": 1517,
+    "event_ct": 1493,
+    "win_count": 1334,
+    "rank": 81090,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
