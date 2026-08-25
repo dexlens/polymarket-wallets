@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 79938,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfdae8747a3723f36981b98815d11a8f1ead90128",
+    "trader_name": "blockchain-institute",
+    "tag": "Overall",
+    "overall_gain": 631.581553955491,
+    "active_positions": 1,
+    "win_amount": 682.791428633053,
+    "loss_amount": -51.209874677562,
+    "win_rate": 0.5,
+    "total_current_value": 0.009053,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 79939,
+    "trader_tags": "> 1 year old"
   }
 ]
