@@ -318,5 +318,21 @@
     "win_count": 32,
     "rank": 23020,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x9fddcfa82241c20432b5b4c238afd1fe1a5d3608",
+    "trader_name": "Elphem",
+    "tag": "Overall",
+    "overall_gain": 3914.6841341788127,
+    "active_positions": 3,
+    "win_amount": 7487.789975857007,
+    "loss_amount": -3573.105841678196,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0.041655450000000004,
+    "total_positions": 76,
+    "event_ct": 68,
+    "win_count": 48,
+    "rank": 23021,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
