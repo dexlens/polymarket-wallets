@@ -1342,5 +1342,21 @@
     "win_count": 19,
     "rank": 5984,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5e4f5575ad601da4105da31f4e985ff9b723651b",
+    "trader_name": "Norexia",
+    "tag": "Overall",
+    "overall_gain": 17911.886266185622,
+    "active_positions": 5,
+    "win_amount": 18215.226212185622,
+    "loss_amount": -303.3399459999999,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 0.0081232275,
+    "total_positions": 36,
+    "event_ct": 34,
+    "win_count": 30,
+    "rank": 5985,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
