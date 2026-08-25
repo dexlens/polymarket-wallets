@@ -1374,5 +1374,21 @@
     "win_count": 3,
     "rank": 88087,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b24e413d2cef7fc90f3f165495bb2ade58fb121",
+    "trader_name": "rhgnfs",
+    "tag": "Overall",
+    "overall_gain": 511.952213998592,
+    "active_positions": 9,
+    "win_amount": 948.329747160905,
+    "loss_amount": -436.377533162313,
+    "win_rate": 0.5777777777777777,
+    "total_current_value": 65.121677191,
+    "total_positions": 87,
+    "event_ct": 45,
+    "win_count": 26,
+    "rank": 88088,
+    "trader_tags": ""
   }
 ]
