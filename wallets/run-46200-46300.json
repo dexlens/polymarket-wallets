@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 46273,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15d1d3eb1323d08e975a34bf6b5323c0d9f72ee3",
+    "trader_name": "BigDenergy",
+    "tag": "Overall",
+    "overall_gain": 1653.377915394253,
+    "active_positions": 1,
+    "win_amount": 1952.377530240922,
+    "loss_amount": -298.999614846669,
+    "win_rate": 0.9545454545454546,
+    "total_current_value": 0.042133,
+    "total_positions": 27,
+    "event_ct": 22,
+    "win_count": 21,
+    "rank": 46274,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
