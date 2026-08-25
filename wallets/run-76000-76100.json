@@ -494,5 +494,21 @@
     "win_count": 23,
     "rank": 76032,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdf33e5279b9e413bbc8979f7f03aa72498f790e7",
+    "trader_name": "Gelob",
+    "tag": "Overall",
+    "overall_gain": 698.3964944794961,
+    "active_positions": 8,
+    "win_amount": 783.3915804870541,
+    "loss_amount": -84.995086007558,
+    "win_rate": 0.375,
+    "total_current_value": 1553.575295813,
+    "total_positions": 20,
+    "event_ct": 16,
+    "win_count": 6,
+    "rank": 76033,
+    "trader_tags": ""
   }
 ]
