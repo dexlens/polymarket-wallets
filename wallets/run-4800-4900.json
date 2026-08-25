@@ -494,5 +494,21 @@
     "win_count": 4,
     "rank": 4831,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xebbba265a23a5c13d94051b4be1090101e024214",
+    "trader_name": "capnjack1497",
+    "tag": "Overall",
+    "overall_gain": 22499.76021477374,
+    "active_positions": 58,
+    "win_amount": 323216.6002694229,
+    "loss_amount": -300716.8400546491,
+    "win_rate": 0.3448275862068966,
+    "total_current_value": 40.458722585,
+    "total_positions": 89,
+    "event_ct": 87,
+    "win_count": 30,
+    "rank": 4832,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
