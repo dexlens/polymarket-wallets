@@ -446,5 +446,21 @@
     "win_count": 2,
     "rank": 3428,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe1300c283f38098b49d0ea8aecd107dd749f2f27",
+    "trader_name": "MrLucker",
+    "tag": "Overall",
+    "overall_gain": 33258.52179237711,
+    "active_positions": 490,
+    "win_amount": 49939.798365800896,
+    "loss_amount": -16681.276573423813,
+    "win_rate": 0.6272189349112426,
+    "total_current_value": 8000.166763153501,
+    "total_positions": 1771,
+    "event_ct": 169,
+    "win_count": 106,
+    "rank": 3429,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
