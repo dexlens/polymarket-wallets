@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 25341,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7cbefea2f57bf129ea3446d53397b9520747c4b7",
+    "trader_name": "VGR22",
+    "tag": "Overall",
+    "overall_gain": 3484.8747568475337,
+    "active_positions": 130,
+    "win_amount": 18590.076295842522,
+    "loss_amount": -15105.201538994992,
+    "win_rate": 0.6124031007751938,
+    "total_current_value": 17960.289513475505,
+    "total_positions": 502,
+    "event_ct": 258,
+    "win_count": 158,
+    "rank": 25342,
+    "trader_tags": "> 1 year old"
   }
 ]
