@@ -494,5 +494,21 @@
     "win_count": 5,
     "rank": 17831,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41edeea31b4fabffbd57bc6c83394adb77971da9",
+    "trader_name": "kikixin",
+    "tag": "Overall",
+    "overall_gain": 5236.491196036868,
+    "active_positions": 24,
+    "win_amount": 65063.360338737715,
+    "loss_amount": -59826.869142700874,
+    "win_rate": 0.5035496957403651,
+    "total_current_value": 1344.764581,
+    "total_positions": 3168,
+    "event_ct": 1972,
+    "win_count": 993,
+    "rank": 17832,
+    "trader_tags": "1k+ Positions"
   }
 ]
