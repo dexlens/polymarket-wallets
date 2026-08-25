@@ -542,5 +542,21 @@
     "win_count": 2,
     "rank": 22434,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0185f2e4dd9c3183eff6208e8fc2385c85760bd3",
+    "trader_name": "Breeze.",
+    "tag": "Overall",
+    "overall_gain": 4026.643204431259,
+    "active_positions": 11,
+    "win_amount": 8405.630328565081,
+    "loss_amount": -4378.9871241338205,
+    "win_rate": 0.5764705882352941,
+    "total_current_value": 118.36679500000001,
+    "total_positions": 118,
+    "event_ct": 85,
+    "win_count": 49,
+    "rank": 22435,
+    "trader_tags": ""
   }
 ]
