@@ -1118,5 +1118,21 @@
     "win_count": 31,
     "rank": 1570,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x511e5c7b146d861a66b29f8ba891e143306d1a69",
+    "trader_name": "luochen1",
+    "tag": "Overall",
+    "overall_gain": 77291.96039622318,
+    "active_positions": 29,
+    "win_amount": 129035.8268483433,
+    "loss_amount": -51743.86645212013,
+    "win_rate": 0.3488372093023256,
+    "total_current_value": 5.1335049999999995,
+    "total_positions": 43,
+    "event_ct": 43,
+    "win_count": 15,
+    "rank": 1571,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
