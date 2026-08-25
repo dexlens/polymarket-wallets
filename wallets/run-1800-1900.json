@@ -1262,5 +1262,21 @@
     "win_count": 61,
     "rank": 1879,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8166fcbb0515494f66b68a3cfb3fa888765a91ab",
+    "trader_name": "Moonspace",
+    "tag": "Overall",
+    "overall_gain": 64648.54727914622,
+    "active_positions": 1,
+    "win_amount": 65148.546335,
+    "loss_amount": -499.99905585377496,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 1880,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
