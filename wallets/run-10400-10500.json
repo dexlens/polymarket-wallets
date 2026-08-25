@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 10443,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x309fc484750bd229b29d996f8c8cd482ad559282",
+    "trader_name": "neekwilwin",
+    "tag": "Overall",
+    "overall_gain": 10068.302576038232,
+    "active_positions": 80,
+    "win_amount": 246234.27395673544,
+    "loss_amount": -236165.97138069727,
+    "win_rate": 0.5494505494505495,
+    "total_current_value": 0.22786899999999993,
+    "total_positions": 314,
+    "event_ct": 273,
+    "win_count": 150,
+    "rank": 10444,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
