@@ -862,5 +862,21 @@
     "win_count": 26,
     "rank": 5254,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcc95ec8fa77ebc1e39203f791ca2b6787431c932",
+    "trader_name": "scotopt",
+    "tag": "Overall",
+    "overall_gain": 20634.288476198068,
+    "active_positions": 0,
+    "win_amount": 20939.138468198067,
+    "loss_amount": -304.849992,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0.000066,
+    "total_positions": 33,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 5255,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
