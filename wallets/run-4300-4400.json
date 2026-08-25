@@ -1454,5 +1454,21 @@
     "win_count": 18,
     "rank": 4391,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6fbbd19e716f7454bdf483c41e6fa276a9e139da",
+    "trader_name": "paskyda",
+    "tag": "Overall",
+    "overall_gain": 25302.76257896773,
+    "active_positions": 121,
+    "win_amount": 56840.99346099717,
+    "loss_amount": -31538.23088202942,
+    "win_rate": 0.5871559633027523,
+    "total_current_value": 7501.6135110000005,
+    "total_positions": 391,
+    "event_ct": 327,
+    "win_count": 192,
+    "rank": 4392,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
