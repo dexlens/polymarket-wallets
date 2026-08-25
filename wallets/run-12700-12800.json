@@ -334,5 +334,21 @@
     "win_count": 211,
     "rank": 12721,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x38b7c57bc69e63e70585d858346889960a05fccd",
+    "trader_name": "Mijika",
+    "tag": "Overall",
+    "overall_gain": 7958.222119746531,
+    "active_positions": 4,
+    "win_amount": 28970.209458255413,
+    "loss_amount": -21011.987338508872,
+    "win_rate": 0.7638011535292502,
+    "total_current_value": 26.108009000000003,
+    "total_positions": 7439,
+    "event_ct": 7282,
+    "win_count": 5562,
+    "rank": 12722,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
