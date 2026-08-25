@@ -830,5 +830,21 @@
     "win_count": 7,
     "rank": 19852,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe6ebf81fa5ec0fbed0ba06917f39b7ecf4354f51",
+    "trader_name": "ShardSeeker",
+    "tag": "Overall",
+    "overall_gain": 4663.1,
+    "active_positions": 2,
+    "win_amount": 7399.5,
+    "loss_amount": -2736.4,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 19853,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
