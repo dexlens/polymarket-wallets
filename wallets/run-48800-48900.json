@@ -126,5 +126,21 @@
     "win_count": 24,
     "rank": 48809,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8d34ae87ee6e9a0460c0041445763cb549622dd4",
+    "trader_name": "rtjmrtj",
+    "tag": "Overall",
+    "overall_gain": 1536.9050731010907,
+    "active_positions": 3,
+    "win_amount": 50043.639572101085,
+    "loss_amount": -48506.73449900001,
+    "win_rate": 0.8485370051635112,
+    "total_current_value": 0.24810900000000008,
+    "total_positions": 1251,
+    "event_ct": 1162,
+    "win_count": 986,
+    "rank": 48810,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
