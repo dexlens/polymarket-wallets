@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 29426,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x39dcad6ddc175233875b8b0ccf2687ba1c58fc23",
+    "trader_name": "itsapastabowl",
+    "tag": "Overall",
+    "overall_gain": 2892.603499150002,
+    "active_positions": 5,
+    "win_amount": 19232.76848815,
+    "loss_amount": -16340.164989000003,
+    "win_rate": 0.5416058394160584,
+    "total_current_value": 714.9999999999999,
+    "total_positions": 1849,
+    "event_ct": 1370,
+    "win_count": 742,
+    "rank": 29427,
+    "trader_tags": "1k+ Positions"
   }
 ]
