@@ -1454,5 +1454,21 @@
     "win_count": 9,
     "rank": 5091,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xad287cbd7db82d684a5066515c7ee624df111601",
+    "trader_name": "LR1",
+    "tag": "Overall",
+    "overall_gain": 21290.699623122797,
+    "active_positions": 293,
+    "win_amount": 84187.07885674857,
+    "loss_amount": -62896.37923362577,
+    "win_rate": 0.6979591836734694,
+    "total_current_value": 27701.189607345503,
+    "total_positions": 1275,
+    "event_ct": 490,
+    "win_count": 342,
+    "rank": 5092,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
