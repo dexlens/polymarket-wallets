@@ -990,5 +990,21 @@
     "win_count": 8,
     "rank": 67663,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x913e2ca34d45dd6e1cbb2d4f7804561c2ee8a4be",
+    "trader_name": "bigcoin",
+    "tag": "Overall",
+    "overall_gain": 870.597862390432,
+    "active_positions": 0,
+    "win_amount": 870.597862390432,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 67664,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
