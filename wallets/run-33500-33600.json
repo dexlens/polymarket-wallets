@@ -142,5 +142,21 @@
     "win_count": 1,
     "rank": 33510,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7bbb9e8ba640e57029f101787a5388b3283f4a56",
+    "trader_name": "afyea",
+    "tag": "Overall",
+    "overall_gain": 2465.3185125008927,
+    "active_positions": 1,
+    "win_amount": 18327.02763332642,
+    "loss_amount": -15861.709120825524,
+    "win_rate": 0.3891625615763547,
+    "total_current_value": 1.6613117925000005,
+    "total_positions": 219,
+    "event_ct": 203,
+    "win_count": 79,
+    "rank": 33511,
+    "trader_tags": ""
   }
 ]
