@@ -654,5 +654,21 @@
     "win_count": 29,
     "rank": 3841,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc14cda025d9cd05d123aaaeef3b930d7eb9d8da0",
+    "trader_name": "kerchidi899",
+    "tag": "Overall",
+    "overall_gain": 29576.572067993882,
+    "active_positions": 11069,
+    "win_amount": 931282.3092839501,
+    "loss_amount": -901705.7372159563,
+    "win_rate": 0.5366635397123202,
+    "total_current_value": 22.542053999999993,
+    "total_positions": 26500,
+    "event_ct": 25584,
+    "win_count": 13730,
+    "rank": 3842,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
