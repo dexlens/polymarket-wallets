@@ -1134,5 +1134,21 @@
     "win_count": 5,
     "rank": 83472,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4e6a85f9f92d2dff76d2334b9215b22efd22e82c",
+    "trader_name": "c4b",
+    "tag": "Overall",
+    "overall_gain": 574.792992,
+    "active_positions": 0,
+    "win_amount": 574.792992,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 83473,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
