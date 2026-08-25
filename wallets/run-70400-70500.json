@@ -734,5 +734,21 @@
     "win_count": 9,
     "rank": 70447,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x4be2b6e51fda4cc03e78dde7d8d48ec1833ef23d",
+    "trader_name": "badao0",
+    "tag": "Overall",
+    "overall_gain": 800.4802940584134,
+    "active_positions": 18,
+    "win_amount": 1377.656862414448,
+    "loss_amount": -577.176568356035,
+    "win_rate": 0.7,
+    "total_current_value": 5960.285718675001,
+    "total_positions": 118,
+    "event_ct": 90,
+    "win_count": 63,
+    "rank": 70448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
