@@ -1342,5 +1342,21 @@
     "win_count": 18,
     "rank": 5684,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x832bce13fa76d504c2b747587c274c996b423ae1",
+    "trader_name": "EscapeVelocity",
+    "tag": "Overall",
+    "overall_gain": 18984.87013365179,
+    "active_positions": 27,
+    "win_amount": 58653.93112103847,
+    "loss_amount": -39669.06098738668,
+    "win_rate": 0.6115569823434992,
+    "total_current_value": 12251.273686583003,
+    "total_positions": 1075,
+    "event_ct": 623,
+    "win_count": 381,
+    "rank": 5685,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
