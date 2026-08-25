@@ -270,5 +270,21 @@
     "win_count": 1,
     "rank": 43718,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33da04801534d3960078bb8a06f26faa61412c3e",
+    "trader_name": "Dukes",
+    "tag": "Overall",
+    "overall_gain": 1781.4761123084675,
+    "active_positions": 158,
+    "win_amount": 12027.7344662694,
+    "loss_amount": -10246.25835396093,
+    "win_rate": 0.26548672566371684,
+    "total_current_value": 1.0094358179999996,
+    "total_positions": 821,
+    "event_ct": 565,
+    "win_count": 150,
+    "rank": 43719,
+    "trader_tags": "> 1 year old"
   }
 ]
