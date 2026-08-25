@@ -766,5 +766,21 @@
     "win_count": 4,
     "rank": 43049,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c91c0a09c33cb4da29ab32574deebb729869dc1",
+    "trader_name": "higherpeak",
+    "tag": "Overall",
+    "overall_gain": 1816.8405594277797,
+    "active_positions": 0,
+    "win_amount": 2906.4471416647057,
+    "loss_amount": -1089.606582236926,
+    "win_rate": 0.5161290322580645,
+    "total_current_value": 0.05049928,
+    "total_positions": 33,
+    "event_ct": 31,
+    "win_count": 16,
+    "rank": 43050,
+    "trader_tags": "> 1 year old"
   }
 ]
