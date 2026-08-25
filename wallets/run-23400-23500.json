@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 23450,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc9e3cd8f54e9fce3e81cb7cb29ad93cbf6fcd674",
+    "trader_name": "orlandpr",
+    "tag": "Overall",
+    "overall_gain": 3829.086,
+    "active_positions": 0,
+    "win_amount": 4602.086,
+    "loss_amount": -773,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 23451,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
