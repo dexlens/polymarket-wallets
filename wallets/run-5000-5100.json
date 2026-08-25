@@ -302,5 +302,21 @@
     "win_count": 19,
     "rank": 5019,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8bbaf394d7e5ca4f66d376427f445f9a9c349aff",
+    "trader_name": "Crepebunny",
+    "tag": "Overall",
+    "overall_gain": 21565.310057666087,
+    "active_positions": 0,
+    "win_amount": 21565.310057666087,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003479,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 5020,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
