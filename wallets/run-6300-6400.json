@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 6388,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23e3126fb7db7384fb353f46bb9529b41a2e3dff",
+    "trader_name": "ycycy",
+    "tag": "Overall",
+    "overall_gain": 16776.5374113247,
+    "active_positions": 4,
+    "win_amount": 17700.096041078035,
+    "loss_amount": -923.558629753335,
+    "win_rate": 0.75,
+    "total_current_value": 46.9217,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 6389,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
