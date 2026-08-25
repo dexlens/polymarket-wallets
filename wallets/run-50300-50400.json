@@ -1086,5 +1086,21 @@
     "win_count": 3,
     "rank": 50369,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc55c8d3f8fdd95958c2a2079104fd58e34791797",
+    "trader_name": "sigseg",
+    "tag": "Overall",
+    "overall_gain": 1468.1499260000005,
+    "active_positions": 0,
+    "win_amount": 9262.570283000001,
+    "loss_amount": -7794.420357,
+    "win_rate": 0.9530065689742294,
+    "total_current_value": 0.22,
+    "total_positions": 2031,
+    "event_ct": 1979,
+    "win_count": 1886,
+    "rank": 50370,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
