@@ -654,5 +654,21 @@
     "win_count": 23,
     "rank": 9841,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d1260087333ec7cb1d5cba92fc86c39ac3d7954",
+    "trader_name": "sassy34",
+    "tag": "Overall",
+    "overall_gain": 10644.85587620324,
+    "active_positions": 6,
+    "win_amount": 62173.40686895754,
+    "loss_amount": -51528.55099275432,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 1342.918284225,
+    "total_positions": 24,
+    "event_ct": 17,
+    "win_count": 8,
+    "rank": 9842,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
