@@ -654,5 +654,21 @@
     "win_count": 5,
     "rank": 27142,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a05e30ef2ae848927c7a724b93292bf8cd14c5a",
+    "trader_name": "jinxin999",
+    "tag": "Overall",
+    "overall_gain": 3186.8897851847987,
+    "active_positions": 12,
+    "win_amount": 17407.949069740218,
+    "loss_amount": -14221.059284555418,
+    "win_rate": 0.7912652536929994,
+    "total_current_value": 547.3703530000001,
+    "total_positions": 2623,
+    "event_ct": 1557,
+    "win_count": 1232,
+    "rank": 27143,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
