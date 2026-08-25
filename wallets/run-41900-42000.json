@@ -798,5 +798,21 @@
     "win_count": 29,
     "rank": 41951,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52fb7d07dfba2baf441fa41658186baf98fc6394",
+    "trader_name": "1BeaNataTime",
+    "tag": "Overall",
+    "overall_gain": 1880.0402370000022,
+    "active_positions": 2,
+    "win_amount": 1880.0402370000022,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 21120,
+    "total_positions": 1119,
+    "event_ct": 628,
+    "win_count": 628,
+    "rank": 41952,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
