@@ -990,5 +990,21 @@
     "win_count": 162,
     "rank": 37863,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x540e45b5e9d6f2124af364f463489cf4570f1d82",
+    "trader_name": "15mbtc",
+    "tag": "Overall",
+    "overall_gain": 2127.988244,
+    "active_positions": 0,
+    "win_amount": 3180.4872300000015,
+    "loss_amount": -1052.4989859999998,
+    "win_rate": 0.8506493506493507,
+    "total_current_value": 0,
+    "total_positions": 154,
+    "event_ct": 154,
+    "win_count": 131,
+    "rank": 37864,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
