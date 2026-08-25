@@ -638,5 +638,21 @@
     "win_count": 22,
     "rank": 4140,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x095fd7cc9ddf7110586d1bda3974eccc52155f24",
+    "trader_name": "PBot2",
+    "tag": "Overall",
+    "overall_gain": 26973.95702666159,
+    "active_positions": 4,
+    "win_amount": 534049.7418040338,
+    "loss_amount": -507075.78477737226,
+    "win_rate": 0.5254056614947293,
+    "total_current_value": 375.27875599000004,
+    "total_positions": 10652,
+    "event_ct": 8443,
+    "win_count": 4436,
+    "rank": 4141,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
