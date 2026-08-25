@@ -702,5 +702,21 @@
     "win_count": 2,
     "rank": 65345,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0xfc1a787f7cd6164053a70f7e518de5e5bf9e6698",
+    "trader_name": "RigorousHFT",
+    "tag": "Overall",
+    "overall_gain": 934.78195544,
+    "active_positions": 0,
+    "win_amount": 934.78195544,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.212568,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 65346,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
