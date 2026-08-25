@@ -590,5 +590,21 @@
     "win_count": 52,
     "rank": 10937,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0092afd3e5bbcf49914ef2cadf7ae781487797d5",
+    "trader_name": "otisfacere",
+    "tag": "Overall",
+    "overall_gain": 9647.19,
+    "active_positions": 1,
+    "win_amount": 13877.85,
+    "loss_amount": -4230.66,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 10938,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
