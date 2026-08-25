@@ -1374,5 +1374,21 @@
     "win_count": 101,
     "rank": 80187,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x329e93a1139597883f2320dcc8dd81c8434af871",
+    "trader_name": "Darisan",
+    "tag": "Overall",
+    "overall_gain": 627.5,
+    "active_positions": 2,
+    "win_amount": 1925,
+    "loss_amount": -1297.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 80188,
+    "trader_tags": ""
   }
 ]
