@@ -1470,5 +1470,21 @@
     "win_count": 176,
     "rank": 1492,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x9fa956e8c4d04aa38fe02c18b8158a29b9382491",
+    "trader_name": "tcp1",
+    "tag": "Overall",
+    "overall_gain": 80963.49043596198,
+    "active_positions": 0,
+    "win_amount": 146407.95002604637,
+    "loss_amount": -65444.4595900844,
+    "win_rate": 0.6405648267008985,
+    "total_current_value": 0.672795,
+    "total_positions": 2247,
+    "event_ct": 779,
+    "win_count": 499,
+    "rank": 1493,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
