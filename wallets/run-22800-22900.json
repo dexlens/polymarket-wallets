@@ -446,5 +446,21 @@
     "win_count": 3,
     "rank": 22828,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x702205c290737751bfec427240ae66757b05d8f9",
+    "trader_name": "VCX12522",
+    "tag": "Overall",
+    "overall_gain": 3953.57360867,
+    "active_positions": 5,
+    "win_amount": 7983.619531999999,
+    "loss_amount": -4030.0459233300003,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 22829,
+    "trader_tags": "< 30 days old"
   }
 ]
