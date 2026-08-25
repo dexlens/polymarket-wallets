@@ -1022,5 +1022,21 @@
     "win_count": 255,
     "rank": 7864,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x6624a9b7d43b5bd997aeab80d96221df48453f57",
+    "trader_name": "PaulFly",
+    "tag": "Overall",
+    "overall_gain": 13390.123013545559,
+    "active_positions": 2,
+    "win_amount": 25572.97867406188,
+    "loss_amount": -12182.855660516321,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.021964,
+    "total_positions": 6,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 7865,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
