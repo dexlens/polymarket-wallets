@@ -1310,5 +1310,21 @@
     "win_count": 3,
     "rank": 67283,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x5b348b0a9b3ab588b872ca564acb1a998c83be64",
+    "trader_name": "trafalgar",
+    "tag": "Overall",
+    "overall_gain": 881.2486056894052,
+    "active_positions": 23,
+    "win_amount": 2826.814504884514,
+    "loss_amount": -1945.565899195108,
+    "win_rate": 0.5338983050847458,
+    "total_current_value": 10605.446266004501,
+    "total_positions": 155,
+    "event_ct": 118,
+    "win_count": 63,
+    "rank": 67284,
+    "trader_tags": "> 1 year old"
   }
 ]
