@@ -606,5 +606,21 @@
     "win_count": 3,
     "rank": 62339,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f3127de87632c1247c646788559d815a743f039",
+    "trader_name": "Eliotds",
+    "tag": "Overall",
+    "overall_gain": 1013.8978475898332,
+    "active_positions": 0,
+    "win_amount": 1015.3536910000001,
+    "loss_amount": -1.455843410167,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.03673458450000001,
+    "total_positions": 11,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 62340,
+    "trader_tags": "< 30 days old"
   }
 ]
