@@ -638,5 +638,21 @@
     "win_count": 11,
     "rank": 13740,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8709689dfb6a74562bed1cc9eaeca2e44333930d",
+    "trader_name": "sir-betsalot",
+    "tag": "Overall",
+    "overall_gain": 7197.365069360366,
+    "active_positions": 8,
+    "win_amount": 101641.03305736037,
+    "loss_amount": -94443.66798799996,
+    "win_rate": 0.6253615127919911,
+    "total_current_value": 632.544168,
+    "total_positions": 17443,
+    "event_ct": 8990,
+    "win_count": 5622,
+    "rank": 13741,
+    "trader_tags": "1k+ Positions"
   }
 ]
