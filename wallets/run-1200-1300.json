@@ -206,5 +206,21 @@
     "win_count": 60,
     "rank": 1213,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4df332e27f9ee3224f52ce30e3ce15c1075e788f",
+    "trader_name": "SunlineTicker",
+    "tag": "Overall",
+    "overall_gain": 100311.96119889693,
+    "active_positions": 3187,
+    "win_amount": 809825.1760302417,
+    "loss_amount": -709513.2148313447,
+    "win_rate": 0.5614902736564458,
+    "total_current_value": 92043.19792463997,
+    "total_positions": 10365,
+    "event_ct": 3033,
+    "win_count": 1703,
+    "rank": 1214,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions; Sports PnL > $100k"
   }
 ]
