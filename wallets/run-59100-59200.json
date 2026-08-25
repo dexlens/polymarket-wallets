@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 59151,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x673ef521c5102c703e4ea09467197bf881aceb95",
+    "trader_name": "Honeybadger",
+    "tag": "Overall",
+    "overall_gain": 1103.7883316714592,
+    "active_positions": 12,
+    "win_amount": 2965.2170552688626,
+    "loss_amount": -1861.428723597404,
+    "win_rate": 0.391304347826087,
+    "total_current_value": 473.67316625499996,
+    "total_positions": 50,
+    "event_ct": 46,
+    "win_count": 18,
+    "rank": 59152,
+    "trader_tags": "> 1 year old"
   }
 ]
