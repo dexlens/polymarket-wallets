@@ -734,5 +734,21 @@
     "win_count": 6,
     "rank": 18446,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe58179724056424f6527e2ac94680c7472a4c1a4",
+    "trader_name": "vcuryr",
+    "tag": "Overall",
+    "overall_gain": 5034.9062607034975,
+    "active_positions": 4,
+    "win_amount": 5218.518471000001,
+    "loss_amount": -183.612210296504,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 187.778004,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 34,
+    "rank": 18447,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
