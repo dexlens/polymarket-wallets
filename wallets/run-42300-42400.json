@@ -174,5 +174,21 @@
     "win_count": 2,
     "rank": 42312,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x60e8afbce2bf3162301ce3c926186f88cef150c2",
+    "trader_name": "plwi",
+    "tag": "Overall",
+    "overall_gain": 1859.8134241891014,
+    "active_positions": 38,
+    "win_amount": 10926.130262449615,
+    "loss_amount": -9066.316838260516,
+    "win_rate": 0.6188811188811189,
+    "total_current_value": 215.10052717300002,
+    "total_positions": 344,
+    "event_ct": 286,
+    "win_count": 177,
+    "rank": 42313,
+    "trader_tags": "< 30 days old"
   }
 ]
