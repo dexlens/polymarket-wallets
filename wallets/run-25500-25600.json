@@ -286,5 +286,21 @@
     "win_count": 4,
     "rank": 25519,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3b1a8794e6b9a95128c557db83437ae15c63cad7",
+    "trader_name": "toolmaker",
+    "tag": "Overall",
+    "overall_gain": 3456.178325161385,
+    "active_positions": 0,
+    "win_amount": 3456.178325161385,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001007,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 25520,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
