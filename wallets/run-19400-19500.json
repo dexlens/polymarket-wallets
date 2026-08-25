@@ -558,5 +558,21 @@
     "win_count": 3,
     "rank": 19435,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x375951efa22a0c4c82b61bd68b882a1bd16d3911",
+    "trader_name": "Qwertie",
+    "tag": "Overall",
+    "overall_gain": 4779.221897248529,
+    "active_positions": 5,
+    "win_amount": 5071.228968291103,
+    "loss_amount": -292.00707104257305,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 353.93474347050005,
+    "total_positions": 58,
+    "event_ct": 45,
+    "win_count": 30,
+    "rank": 19436,
+    "trader_tags": "> 1 year old"
   }
 ]
