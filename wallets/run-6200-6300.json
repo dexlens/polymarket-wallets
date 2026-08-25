@@ -78,5 +78,21 @@
     "win_count": 8,
     "rank": 6205,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x725e9e8bbbdd9dcef4ec822fb8e562f088c88b51",
+    "trader_name": "MoraMarlong",
+    "tag": "Overall",
+    "overall_gain": 17263.37822740221,
+    "active_positions": 80,
+    "win_amount": 74178.98082714263,
+    "loss_amount": -56915.60259974042,
+    "win_rate": 0.765625,
+    "total_current_value": 52.147850874499994,
+    "total_positions": 134,
+    "event_ct": 128,
+    "win_count": 98,
+    "rank": 6206,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
