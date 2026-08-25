@@ -1566,5 +1566,21 @@
     "win_count": 12,
     "rank": 6098,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5aeee3aed8d17dd7ecd04bb96c0ad517f9d6cd72",
+    "trader_name": "melisarob",
+    "tag": "Overall",
+    "overall_gain": 17580.84,
+    "active_positions": 1,
+    "win_amount": 23419.68,
+    "loss_amount": -5838.84,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 6099,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
