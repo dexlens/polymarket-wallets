@@ -78,5 +78,21 @@
     "win_count": 97,
     "rank": 2305,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d3367fe95109c58a8b49c466b9ec382af0e256e",
+    "trader_name": "in.the.casino.crying",
+    "tag": "Overall",
+    "overall_gain": 51485.05129972875,
+    "active_positions": 4,
+    "win_amount": 178832.91225797078,
+    "loss_amount": -127347.86095824202,
+    "win_rate": 0.5398415657036346,
+    "total_current_value": 30.513455,
+    "total_positions": 7030,
+    "event_ct": 4292,
+    "win_count": 2317,
+    "rank": 2306,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
