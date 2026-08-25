@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 26377,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64b2d811e94227cd6e519ae6477a0f9949eb21a1",
+    "trader_name": "degenforever",
+    "tag": "Overall",
+    "overall_gain": 3311.370322282013,
+    "active_positions": 71,
+    "win_amount": 30357.518223629555,
+    "loss_amount": -27046.147901347544,
+    "win_rate": 0.2736842105263158,
+    "total_current_value": 67.33091999999999,
+    "total_positions": 124,
+    "event_ct": 95,
+    "win_count": 26,
+    "rank": 26378,
+    "trader_tags": "> 1 year old"
   }
 ]
