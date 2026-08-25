@@ -702,5 +702,21 @@
     "win_count": 3,
     "rank": 24345,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8bcb2241bd3368fb075d483b033faf4b7c5448ce",
+    "trader_name": "RektoratUI",
+    "tag": "Overall",
+    "overall_gain": 3656.829487688735,
+    "active_positions": 1039,
+    "win_amount": 4104.176337123426,
+    "loss_amount": -447.34684943469006,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 3805.6118616864997,
+    "total_positions": 1688,
+    "event_ct": 119,
+    "win_count": 98,
+    "rank": 24346,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
