@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 19195,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x384cb05012301ee6d63884d2cbdd9ad3d5ff2f59",
+    "trader_name": "Deerfieldx",
+    "tag": "Overall",
+    "overall_gain": 4843.702831916869,
+    "active_positions": 4,
+    "win_amount": 4843.814530630387,
+    "loss_amount": -0.11169871351699978,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 12.4737713985,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 10,
+    "rank": 19196,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
