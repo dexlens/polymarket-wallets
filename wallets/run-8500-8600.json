@@ -430,5 +430,21 @@
     "win_count": 2507,
     "rank": 8527,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x22b57908ba8b730b1242cce3781407090194bdca",
+    "trader_name": "isunou",
+    "tag": "Overall",
+    "overall_gain": 12284.544188541153,
+    "active_positions": 2,
+    "win_amount": 17523.205479251308,
+    "loss_amount": -5238.661290710151,
+    "win_rate": 0.8035714285714286,
+    "total_current_value": 863.7957252305,
+    "total_positions": 165,
+    "event_ct": 112,
+    "win_count": 90,
+    "rank": 8528,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
