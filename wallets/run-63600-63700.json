@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 63639,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb3320037f2a68ba9a79a8cc36f0f0e1dee4784dc",
+    "trader_name": "Frozen-Moment",
+    "tag": "Overall",
+    "overall_gain": 984.402668474173,
+    "active_positions": 48,
+    "win_amount": 1033.656222087034,
+    "loss_amount": -49.253553612861005,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 0.5715025465,
+    "total_positions": 92,
+    "event_ct": 91,
+    "win_count": 42,
+    "rank": 63640,
+    "trader_tags": "< 30 days old"
   }
 ]
