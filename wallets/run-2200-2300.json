@@ -238,5 +238,21 @@
     "win_count": 1,
     "rank": 2215,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x0c7c5204404e9d5402d258fedac59c7212bae4cb",
+    "trader_name": "3e-4",
+    "tag": "Overall",
+    "overall_gain": 54082.969584350976,
+    "active_positions": 687,
+    "win_amount": 347845.46835851396,
+    "loss_amount": -293762.49877416296,
+    "win_rate": 0.5272305909617613,
+    "total_current_value": 5490.896661999999,
+    "total_positions": 19004,
+    "event_ct": 10356,
+    "win_count": 5460,
+    "rank": 2216,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
