@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 22483,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd0fb76b1f9c1c9d542569281dd270fd4404a072",
+    "trader_name": "madhukarkotha",
+    "tag": "Overall",
+    "overall_gain": 4018.04279652907,
+    "active_positions": 151,
+    "win_amount": 11609.46873235118,
+    "loss_amount": -7591.425935822121,
+    "win_rate": 0.7978723404255319,
+    "total_current_value": 247.159809,
+    "total_positions": 1044,
+    "event_ct": 940,
+    "win_count": 750,
+    "rank": 22484,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
