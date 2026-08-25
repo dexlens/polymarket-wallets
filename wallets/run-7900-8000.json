@@ -494,5 +494,21 @@
     "win_count": 7,
     "rank": 7931,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xe611e5848aaf01dc47f337529bfd2e50a40e7130",
+    "trader_name": "xigt1",
+    "tag": "Overall",
+    "overall_gain": 13256.156326999999,
+    "active_positions": 1,
+    "win_amount": 16805.786228,
+    "loss_amount": -3549.6299010000002,
+    "win_rate": 0.6571428571428571,
+    "total_current_value": 0,
+    "total_positions": 42,
+    "event_ct": 35,
+    "win_count": 23,
+    "rank": 7932,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
