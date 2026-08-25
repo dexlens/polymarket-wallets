@@ -94,5 +94,21 @@
     "win_count": 40,
     "rank": 4006,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24d2f4ecb76a330890533842dbefdf82a3f192c5",
+    "trader_name": "Eddie.Felson",
+    "tag": "Overall",
+    "overall_gain": 27994.47670619585,
+    "active_positions": 1,
+    "win_amount": 38302.50308263962,
+    "loss_amount": -10308.026376443773,
+    "win_rate": 0.5239852398523985,
+    "total_current_value": 2276.421108745,
+    "total_positions": 413,
+    "event_ct": 271,
+    "win_count": 142,
+    "rank": 4007,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
