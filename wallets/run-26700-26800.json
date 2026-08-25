@@ -1454,5 +1454,21 @@
     "win_count": 4,
     "rank": 26792,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x657bbe664d7b565baf4a4d6aff19e4cac14e3992",
+    "trader_name": "doe.john",
+    "tag": "Overall",
+    "overall_gain": 3238.2250142830685,
+    "active_positions": 1,
+    "win_amount": 4230.892396219651,
+    "loss_amount": -992.6673819365824,
+    "win_rate": 0.8,
+    "total_current_value": 19934.053500785503,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 26793,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
