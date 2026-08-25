@@ -382,5 +382,21 @@
     "win_count": 5,
     "rank": 64225,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d5631d43e5dddcff5e562ebb7f7d465c3d59179",
+    "trader_name": "pankyy",
+    "tag": "Overall",
+    "overall_gain": 967.554614025817,
+    "active_positions": 1,
+    "win_amount": 1037.553242566624,
+    "loss_amount": -69.998628540807,
+    "win_rate": 0.5,
+    "total_current_value": 0.004284,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 64226,
+    "trader_tags": ""
   }
 ]
