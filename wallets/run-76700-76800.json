@@ -1278,5 +1278,21 @@
     "win_count": 1,
     "rank": 76781,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa0f483889d23984e77aa2e6be5aea0cc2fb80d88",
+    "trader_name": "sweep-04",
+    "tag": "Overall",
+    "overall_gain": 685.7062601837962,
+    "active_positions": 0,
+    "win_amount": 26910.198436539977,
+    "loss_amount": -26224.492176356176,
+    "win_rate": 0.8341834079317164,
+    "total_current_value": 1.363286,
+    "total_positions": 9759,
+    "event_ct": 9607,
+    "win_count": 8014,
+    "rank": 76782,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
