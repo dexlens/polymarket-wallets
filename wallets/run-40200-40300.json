@@ -926,5 +926,21 @@
     "win_count": 2,
     "rank": 40259,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x26b008df92dbf898e9c1479d2a128738ef626677",
+    "trader_name": "kyu",
+    "tag": "Overall",
+    "overall_gain": 1980.304196922289,
+    "active_positions": 7,
+    "win_amount": 2622.249634308178,
+    "loss_amount": -641.9454373858889,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 0.022473,
+    "total_positions": 19,
+    "event_ct": 15,
+    "win_count": 8,
+    "rank": 40260,
+    "trader_tags": "> 1 year old"
   }
 ]
