@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 30450,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc747cd0c45b5c9f4ab5aa80792332cddf66fde65",
+    "trader_name": "bolt9ra",
+    "tag": "Overall",
+    "overall_gain": 2766.147765789909,
+    "active_positions": 21,
+    "win_amount": 18209.29000074436,
+    "loss_amount": -15443.142234954457,
+    "win_rate": 0.6155606407322655,
+    "total_current_value": 4883.709044243999,
+    "total_positions": 525,
+    "event_ct": 437,
+    "win_count": 269,
+    "rank": 30451,
+    "trader_tags": ""
   }
 ]
