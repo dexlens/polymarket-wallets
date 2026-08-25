@@ -1454,5 +1454,21 @@
     "win_count": 49,
     "rank": 1591,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7fb88c725907620aa8cd8732a7ac95fd9365d906",
+    "trader_name": "nijikaijichi",
+    "tag": "Overall",
+    "overall_gain": 76699.67941375704,
+    "active_positions": 47,
+    "win_amount": 101035.79802138015,
+    "loss_amount": -24336.118607623135,
+    "win_rate": 0.6724960254372019,
+    "total_current_value": 224.23077515599996,
+    "total_positions": 2173,
+    "event_ct": 629,
+    "win_count": 423,
+    "rank": 1592,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
