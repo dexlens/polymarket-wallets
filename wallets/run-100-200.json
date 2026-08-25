@@ -398,5 +398,21 @@
     "win_count": 79,
     "rank": 125,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0xd84c2b6d65dc596f49c7b6aadd6d74ca91e407b9",
+    "trader_name": "BoneReader",
+    "tag": "Overall",
+    "overall_gain": 881189.321363236,
+    "active_positions": 16,
+    "win_amount": 2980923.849692574,
+    "loss_amount": -2099734.528329337,
+    "win_rate": 0.6290639013452914,
+    "total_current_value": 554.9227861315001,
+    "total_positions": 58909,
+    "event_ct": 42816,
+    "win_count": 26934,
+    "rank": 126,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
