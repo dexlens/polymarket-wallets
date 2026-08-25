@@ -1518,5 +1518,21 @@
     "win_count": 21,
     "rank": 86296,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x728fd117d6db47401ff7864b5d2ad999d38a9803",
+    "trader_name": "sadwefi",
+    "tag": "Overall",
+    "overall_gain": 535.14460242754,
+    "active_positions": 6,
+    "win_amount": 538.146600206678,
+    "loss_amount": -3.0019977791379997,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 30.022009384,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 86297,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
