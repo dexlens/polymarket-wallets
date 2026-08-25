@@ -574,5 +574,21 @@
     "win_count": 44,
     "rank": 20036,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe622063fe6e5ccd944751b7961bdfe73f533ea5e",
+    "trader_name": "doep",
+    "tag": "Overall",
+    "overall_gain": 4615.584445324516,
+    "active_positions": 20,
+    "win_amount": 96717.7231863245,
+    "loss_amount": -92102.13874100003,
+    "win_rate": 0.49133663366336633,
+    "total_current_value": 4094.730823,
+    "total_positions": 840,
+    "event_ct": 808,
+    "win_count": 397,
+    "rank": 20037,
+    "trader_tags": ""
   }
 ]
