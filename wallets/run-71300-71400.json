@@ -382,5 +382,21 @@
     "win_count": 33,
     "rank": 71325,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa2a750da68bbb87f9a781773fdb7fade10396594",
+    "trader_name": "RRFDT",
+    "tag": "Overall",
+    "overall_gain": 781.448533716776,
+    "active_positions": 1,
+    "win_amount": 782.477490989958,
+    "loss_amount": -1.028957273182,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 99.516276,
+    "total_positions": 19,
+    "event_ct": 14,
+    "win_count": 13,
+    "rank": 71326,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
