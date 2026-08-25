@@ -558,5 +558,21 @@
     "win_count": 30,
     "rank": 2635,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6df5cbe7af8c40c16920fa2ca6502ae053ff6430",
+    "trader_name": "hypster1o",
+    "tag": "Overall",
+    "overall_gain": 44215.25323405121,
+    "active_positions": 143,
+    "win_amount": 322035.225427211,
+    "loss_amount": -277819.97219315975,
+    "win_rate": 0.3032083145051966,
+    "total_current_value": 238.5567865965,
+    "total_positions": 3051,
+    "event_ct": 2213,
+    "win_count": 671,
+    "rank": 2636,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
