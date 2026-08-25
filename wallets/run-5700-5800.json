@@ -686,5 +686,21 @@
     "win_count": 28,
     "rank": 5743,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x00542c6ba95a1c17b682c81d1b63733a007d7481",
+    "trader_name": "carlottainij",
+    "tag": "Overall",
+    "overall_gain": 18736.190000000002,
+    "active_positions": 0,
+    "win_amount": 18736.190000000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 5744,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
