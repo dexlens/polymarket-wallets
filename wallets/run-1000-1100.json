@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 1083,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0xeb22f4735df6bd5d14e1b5fd10faefa7757d808a",
+    "trader_name": "BigRabbit",
+    "tag": "Overall",
+    "overall_gain": 111460.3465798727,
+    "active_positions": 74,
+    "win_amount": 388297.363486424,
+    "loss_amount": -276837.0169065512,
+    "win_rate": 0.4255983350676379,
+    "total_current_value": 137332.35430927447,
+    "total_positions": 1614,
+    "event_ct": 961,
+    "win_count": 409,
+    "rank": 1084,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Politics PnL > $100k"
   }
 ]
