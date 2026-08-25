@@ -366,5 +366,21 @@
     "win_count": 33,
     "rank": 17823,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e3757e1c18db7973087deb6cedf1f8af02fcbb2",
+    "trader_name": "LFW",
+    "tag": "Overall",
+    "overall_gain": 5237.651637,
+    "active_positions": 2,
+    "win_amount": 5709.288227999999,
+    "loss_amount": -471.63659099999995,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 17824,
+    "trader_tags": ""
   }
 ]
