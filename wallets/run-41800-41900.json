@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 41874,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8dc7a4315b3a6230a507a3776e68cd3ceb2b116f",
+    "trader_name": "ChasingPaper",
+    "tag": "Overall",
+    "overall_gain": 1883.850166839935,
+    "active_positions": 109,
+    "win_amount": 13380.576036647575,
+    "loss_amount": -11496.725869807642,
+    "win_rate": 0.64,
+    "total_current_value": 27106.277927872503,
+    "total_positions": 411,
+    "event_ct": 275,
+    "win_count": 176,
+    "rank": 41875,
+    "trader_tags": "> 1 year old"
   }
 ]
