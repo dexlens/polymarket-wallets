@@ -830,5 +830,21 @@
     "win_count": 2,
     "rank": 2952,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6b22fbfed29baaa985d9ceef70bc521ad6eefc0",
+    "trader_name": "treki-narepit",
+    "tag": "Overall",
+    "overall_gain": 38913.971095782894,
+    "active_positions": 23,
+    "win_amount": 50529.951029770375,
+    "loss_amount": -11615.979933987459,
+    "win_rate": 0.6296296296296297,
+    "total_current_value": 50.98037100000001,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 17,
+    "rank": 2953,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
