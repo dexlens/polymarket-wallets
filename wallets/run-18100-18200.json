@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 18114,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x37e65a9306c17a3e1ef1beade1b803a06ba056a3",
+    "trader_name": "ccamposmery",
+    "tag": "Overall",
+    "overall_gain": 5139.697894001304,
+    "active_positions": 0,
+    "win_amount": 5779.3500750013045,
+    "loss_amount": -639.652181,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0.08117,
+    "total_positions": 20,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 18115,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
