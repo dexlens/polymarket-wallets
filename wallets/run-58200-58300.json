@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 58220,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ea1c70b9f9b23995d0018413345a75ea429d6a6",
+    "trader_name": "sindi",
+    "tag": "Overall",
+    "overall_gain": 1134.2621992531401,
+    "active_positions": 1,
+    "win_amount": 1136.5869802531402,
+    "loss_amount": -2.324781,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 105.01714000000001,
+    "total_positions": 23,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 58221,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
