@@ -590,5 +590,21 @@
     "win_count": 2,
     "rank": 31038,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x409c0a391ea4160d3c8e2efcd9202dfdbce67cd0",
+    "trader_name": "afxjotd",
+    "tag": "Overall",
+    "overall_gain": 2696.954350902413,
+    "active_positions": 3,
+    "win_amount": 3145.118739588028,
+    "loss_amount": -448.164388685615,
+    "win_rate": 0.9117647058823529,
+    "total_current_value": 128.024413,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 31,
+    "rank": 31039,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
