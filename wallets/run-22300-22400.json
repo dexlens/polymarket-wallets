@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 22399,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2b3680f32fdc349d1441a5320573bc3caac3fc61",
+    "trader_name": "342ds4",
+    "tag": "Overall",
+    "overall_gain": 4032.972707929037,
+    "active_positions": 1,
+    "win_amount": 5058.669478985971,
+    "loss_amount": -1025.696771056934,
+    "win_rate": 0.9310344827586207,
+    "total_current_value": 0.0009710000000000002,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 27,
+    "rank": 22400,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
