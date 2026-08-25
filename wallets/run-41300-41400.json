@@ -702,5 +702,21 @@
     "win_count": 5,
     "rank": 41345,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36a44a3f533897f80ada4b2312916c780c66c6c4",
+    "trader_name": "bosshs",
+    "tag": "Overall",
+    "overall_gain": 1914.69,
+    "active_positions": 0,
+    "win_amount": 1914.69,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 41346,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
