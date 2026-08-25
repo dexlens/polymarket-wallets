@@ -414,5 +414,21 @@
     "win_count": 7,
     "rank": 37327,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9a0cb62660b9947565452937105ce1e61e56306b",
+    "trader_name": "irfkhr",
+    "tag": "Overall",
+    "overall_gain": 2165.3741326030377,
+    "active_positions": 3,
+    "win_amount": 3280.142802603038,
+    "loss_amount": -1114.76867,
+    "win_rate": 0.9,
+    "total_current_value": 136.390123,
+    "total_positions": 31,
+    "event_ct": 30,
+    "win_count": 27,
+    "rank": 37328,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
