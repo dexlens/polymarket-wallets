@@ -1390,5 +1390,21 @@
     "win_count": 2,
     "rank": 26688,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcc4484e5e9f9bf20b3d2c99c01ec34b6e797c813",
+    "trader_name": "madutu",
+    "tag": "Overall",
+    "overall_gain": 3254.22350563542,
+    "active_positions": 14,
+    "win_amount": 8446.906172789864,
+    "loss_amount": -5192.682667154444,
+    "win_rate": 0.7457627118644068,
+    "total_current_value": 5777.287660899501,
+    "total_positions": 145,
+    "event_ct": 118,
+    "win_count": 88,
+    "rank": 26689,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
