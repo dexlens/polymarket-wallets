@@ -974,5 +974,21 @@
     "win_count": 2,
     "rank": 84662,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27092198d9f8fa3f142a7d6c64c06a5cd43225f6",
+    "trader_name": "nimav",
+    "tag": "Overall",
+    "overall_gain": 557.015512700259,
+    "active_positions": 8,
+    "win_amount": 1237.9613941230311,
+    "loss_amount": -680.945881422772,
+    "win_rate": 0.4,
+    "total_current_value": 1009.5653188510001,
+    "total_positions": 16,
+    "event_ct": 10,
+    "win_count": 4,
+    "rank": 84663,
+    "trader_tags": ""
   }
 ]
