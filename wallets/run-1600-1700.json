@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 1693,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1abeb44ac776ffa55e320cbf5e9f578500fe8a07",
+    "trader_name": "Amanok",
+    "tag": "Overall",
+    "overall_gain": 72848.59369990129,
+    "active_positions": 0,
+    "win_amount": 74822.04163831173,
+    "loss_amount": -1973.44793841045,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0.321285,
+    "total_positions": 45,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 1694,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
