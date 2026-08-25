@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 39460,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc6a9bb936fea5fc457951a01d6a8b7dca6b571cd",
+    "trader_name": "gga.255",
+    "tag": "Overall",
+    "overall_gain": 2023.49319825575,
+    "active_positions": 6,
+    "win_amount": 7099.57819825575,
+    "loss_amount": -5076.085,
+    "win_rate": 0.868421052631579,
+    "total_current_value": 11.93725,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 33,
+    "rank": 39461,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
