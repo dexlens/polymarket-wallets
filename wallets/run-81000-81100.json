@@ -350,5 +350,21 @@
     "win_count": 11,
     "rank": 81023,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ddc361fb5a6debd01a06d5dc82f8f63db602e64",
+    "trader_name": "AsterVale",
+    "tag": "Overall",
+    "overall_gain": 613.6751447993922,
+    "active_positions": 3,
+    "win_amount": 3119,
+    "loss_amount": -2505.324855200608,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 81024,
+    "trader_tags": ""
   }
 ]
