@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 46477,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b5887dcffa32af1ec155a8835c48b4e948aeb2b",
+    "trader_name": "senzer",
+    "tag": "Overall",
+    "overall_gain": 1642.2291397731603,
+    "active_positions": 3,
+    "win_amount": 2809.504598678068,
+    "loss_amount": -1167.2754589049082,
+    "win_rate": 0.6872727272727273,
+    "total_current_value": 1839.3321014,
+    "total_positions": 396,
+    "event_ct": 275,
+    "win_count": 189,
+    "rank": 46478,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
