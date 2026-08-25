@@ -590,5 +590,21 @@
     "win_count": 62,
     "rank": 12437,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe1dfa8f185ba89ff85f9e3bdb6dfda61f0ce677f",
+    "trader_name": "wealthybanker",
+    "tag": "Overall",
+    "overall_gain": 8177.198287806843,
+    "active_positions": 85,
+    "win_amount": 18916.209292748557,
+    "loss_amount": -10739.011004941718,
+    "win_rate": 0.8288659793814434,
+    "total_current_value": 1989.584118375,
+    "total_positions": 488,
+    "event_ct": 485,
+    "win_count": 402,
+    "rank": 12438,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
