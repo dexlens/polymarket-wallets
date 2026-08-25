@@ -318,5 +318,21 @@
     "win_count": 16,
     "rank": 45321,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb0143a00a974d8c38f25fedc4acf1868ec81960",
+    "trader_name": "Fanboysband",
+    "tag": "Overall",
+    "overall_gain": 1698.184115,
+    "active_positions": 0,
+    "win_amount": 1698.469816,
+    "loss_amount": -0.28570100000000004,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 45322,
+    "trader_tags": "< 30 days old"
   }
 ]
