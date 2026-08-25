@@ -318,5 +318,21 @@
     "win_count": 3,
     "rank": 7820,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x874dfe2c8a1095a5389b333387086b61cf625582",
+    "trader_name": "nfcql50PGN",
+    "tag": "Overall",
+    "overall_gain": 13478.613800000003,
+    "active_positions": 0,
+    "win_amount": 13528.687200000002,
+    "loss_amount": -50.0734,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 7821,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
