@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 69155,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30b4144bc2c5147f0d5045d46d6ccb279dd9894a",
+    "trader_name": "Diadgne",
+    "tag": "Overall",
+    "overall_gain": 830,
+    "active_positions": 3,
+    "win_amount": 2381,
+    "loss_amount": -1551,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 69156,
+    "trader_tags": ""
   }
 ]
