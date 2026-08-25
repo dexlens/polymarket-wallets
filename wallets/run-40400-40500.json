@@ -462,5 +462,21 @@
     "win_count": 30,
     "rank": 40430,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x901446cb53b47a5224ae3c02639741846029db4a",
+    "trader_name": "song11111",
+    "tag": "Overall",
+    "overall_gain": 1969.3789322401803,
+    "active_positions": 112,
+    "win_amount": 16087.762698177416,
+    "loss_amount": -14118.383765937242,
+    "win_rate": 0.5282861896838602,
+    "total_current_value": 0.019915000000000002,
+    "total_positions": 1665,
+    "event_ct": 1202,
+    "win_count": 635,
+    "rank": 40431,
+    "trader_tags": "1k+ Positions"
   }
 ]
