@@ -702,5 +702,21 @@
     "win_count": 30,
     "rank": 26145,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a45dd291783a39a929f4381b7a7c64336a67fe9",
+    "trader_name": "Falconvd",
+    "tag": "Overall",
+    "overall_gain": 3346.5990540000003,
+    "active_positions": 1,
+    "win_amount": 3391.449054,
+    "loss_amount": -44.85,
+    "win_rate": 0.7419354838709677,
+    "total_current_value": 0,
+    "total_positions": 44,
+    "event_ct": 31,
+    "win_count": 23,
+    "rank": 26146,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
