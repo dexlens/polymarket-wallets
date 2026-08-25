@@ -974,5 +974,21 @@
     "win_count": 11,
     "rank": 8161,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd06e416b306b2d7712b342430a78077b097d56e0",
+    "trader_name": "NPLCrTkNn",
+    "tag": "Overall",
+    "overall_gain": 12897.246746,
+    "active_positions": 5,
+    "win_amount": 21787.397146,
+    "loss_amount": -8890.1504,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 8162,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
