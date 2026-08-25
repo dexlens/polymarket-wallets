@@ -862,5 +862,21 @@
     "win_count": 8,
     "rank": 554,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0xa61ef8773ec2e821962306ca87d4b57e39ff0abd",
+    "trader_name": "risk-manager",
+    "tag": "Overall",
+    "overall_gain": 230723.29934569233,
+    "active_positions": 141,
+    "win_amount": 311052.26893027243,
+    "loss_amount": -80328.96958458012,
+    "win_rate": 0.7818930041152263,
+    "total_current_value": 175582.52355016698,
+    "total_positions": 986,
+    "event_ct": 243,
+    "win_count": 190,
+    "rank": 555,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
