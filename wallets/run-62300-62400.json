@@ -990,5 +990,21 @@
     "win_count": 5,
     "rank": 62363,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x804f8f8e64a74308cb78d3375ba5f561715138d7",
+    "trader_name": "4H65HG54",
+    "tag": "Overall",
+    "overall_gain": 1013.4506140030569,
+    "active_positions": 1,
+    "win_amount": 1013.4506140030569,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 11.329057,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 26,
+    "rank": 62364,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
