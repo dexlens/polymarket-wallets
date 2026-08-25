@@ -910,5 +910,21 @@
     "win_count": 2,
     "rank": 55858,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x89ab1f8aca87472102278c9851057c3f25a30159",
+    "trader_name": "Poketz",
+    "tag": "Overall",
+    "overall_gain": 1223.7825252755415,
+    "active_positions": 50,
+    "win_amount": 2284.3359831857924,
+    "loss_amount": -1060.553457910251,
+    "win_rate": 0.7401574803149606,
+    "total_current_value": 116.54867899999998,
+    "total_positions": 143,
+    "event_ct": 127,
+    "win_count": 94,
+    "rank": 55859,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
