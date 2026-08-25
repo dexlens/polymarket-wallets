@@ -654,5 +654,21 @@
     "win_count": 2,
     "rank": 81642,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8472f6fe7220a79ee2354a6a6efe9b4a86032ab3",
+    "trader_name": "Kazantip",
+    "tag": "Overall",
+    "overall_gain": 603.8559450087499,
+    "active_positions": 1,
+    "win_amount": 615.2578259999999,
+    "loss_amount": -11.40188099125,
+    "win_rate": 0.9459459459459459,
+    "total_current_value": 83.94875,
+    "total_positions": 48,
+    "event_ct": 37,
+    "win_count": 35,
+    "rank": 81643,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
