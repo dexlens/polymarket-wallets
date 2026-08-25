@@ -766,5 +766,21 @@
     "win_count": 7,
     "rank": 15348,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1747122fd27a0112a3141631973ce5a7051abdf1",
+    "trader_name": "Maksyka",
+    "tag": "Overall",
+    "overall_gain": 6310.394417,
+    "active_positions": 0,
+    "win_amount": 11980.280826000002,
+    "loss_amount": -5669.886408999999,
+    "win_rate": 0.6590909090909091,
+    "total_current_value": 0,
+    "total_positions": 46,
+    "event_ct": 44,
+    "win_count": 29,
+    "rank": 15349,
+    "trader_tags": "> 1 year old"
   }
 ]
