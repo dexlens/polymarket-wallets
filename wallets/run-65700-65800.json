@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 65728,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2007542465e250c7b2079144000d70d924891a04",
+    "trader_name": "Windholt",
+    "tag": "Overall",
+    "overall_gain": 924.00018526,
+    "active_positions": 7,
+    "win_amount": 2207.1306,
+    "loss_amount": -1283.13041474,
+    "win_rate": 0.4,
+    "total_current_value": 1646.98,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 4,
+    "rank": 65729,
+    "trader_tags": ""
   }
 ]
