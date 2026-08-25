@@ -846,5 +846,21 @@
     "win_count": 10,
     "rank": 24454,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xea48031db1c58b739e339710a031fd6a25e7f0ff",
+    "trader_name": "BlackShoe",
+    "tag": "Overall",
+    "overall_gain": 3634.8665195587505,
+    "active_positions": 1,
+    "win_amount": 5129.187602,
+    "loss_amount": -1494.32108244125,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 24455,
+    "trader_tags": "< 30 days old"
   }
 ]
