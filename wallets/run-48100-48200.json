@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 48190,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb26ec61515810a7809d01f1716bd401ad3224a51",
+    "trader_name": "Fcb",
+    "tag": "Overall",
+    "overall_gain": 1564.228020828752,
+    "active_positions": 1,
+    "win_amount": 1606.8449907518689,
+    "loss_amount": -42.616969923117,
+    "win_rate": 0.875,
+    "total_current_value": 65.06921480499999,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 48191,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
