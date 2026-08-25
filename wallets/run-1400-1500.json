@@ -478,5 +478,21 @@
     "win_count": 165,
     "rank": 1430,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0441a78d2fbc0b55b1d0141a7aa6054d724ab3aa",
+    "trader_name": "chubster",
+    "tag": "Overall",
+    "overall_gain": 84793.71088150128,
+    "active_positions": 3,
+    "win_amount": 249696.85649199996,
+    "loss_amount": -164903.14561049873,
+    "win_rate": 0.5867768595041323,
+    "total_current_value": 29686.982363495,
+    "total_positions": 125,
+    "event_ct": 121,
+    "win_count": 71,
+    "rank": 1431,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
