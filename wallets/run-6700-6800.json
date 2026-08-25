@@ -190,5 +190,21 @@
     "win_count": 8,
     "rank": 6712,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x37acd8e2f00b4768559286048d245f57d8221a08",
+    "trader_name": "Simonss",
+    "tag": "Overall",
+    "overall_gain": 15985.275859000001,
+    "active_positions": 1,
+    "win_amount": 16235.735858999999,
+    "loss_amount": -250.46,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 20,
+    "win_count": 15,
+    "rank": 6713,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
