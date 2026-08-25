@@ -878,5 +878,21 @@
     "win_count": 13,
     "rank": 32356,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x07b44f8b2089729dd25889c33025116a9bd11cd0",
+    "trader_name": "ohgyun",
+    "tag": "Overall",
+    "overall_gain": 2565.9185849522055,
+    "active_positions": 2,
+    "win_amount": 2803.4019849522056,
+    "loss_amount": -237.48340000000002,
+    "win_rate": 0.9705882352941176,
+    "total_current_value": 162.30170427750002,
+    "total_positions": 37,
+    "event_ct": 34,
+    "win_count": 33,
+    "rank": 32357,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
