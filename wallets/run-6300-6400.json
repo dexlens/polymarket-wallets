@@ -654,5 +654,21 @@
     "win_count": 41,
     "rank": 6341,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x92e15b8602b49bf13c1a8a53e1f1f22961982ec3",
+    "trader_name": "seconddymension",
+    "tag": "Overall",
+    "overall_gain": 16884.90115059092,
+    "active_positions": 55,
+    "win_amount": 18561.803946209457,
+    "loss_amount": -1676.9027956185428,
+    "win_rate": 0.44545454545454544,
+    "total_current_value": 630.3087365799998,
+    "total_positions": 126,
+    "event_ct": 110,
+    "win_count": 49,
+    "rank": 6342,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
