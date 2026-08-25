@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 1723,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x890f212d72eeb0a0463138e8e6abd105212219cb",
+    "trader_name": "Homemade",
+    "tag": "Overall",
+    "overall_gain": 71505.2209563762,
+    "active_positions": 0,
+    "win_amount": 72655.2164953762,
+    "loss_amount": -1149.995539,
+    "win_rate": 0.6,
+    "total_current_value": 0.007696,
+    "total_positions": 12,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 1724,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
