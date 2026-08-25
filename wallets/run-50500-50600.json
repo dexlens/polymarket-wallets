@@ -1278,5 +1278,21 @@
     "win_count": 1,
     "rank": 50581,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x939ce6e119dc5cee38dab4aede915fb34dafad45",
+    "trader_name": "samuraicoco",
+    "tag": "Overall",
+    "overall_gain": 1458.5422888422947,
+    "active_positions": 9,
+    "win_amount": 10680.493783563812,
+    "loss_amount": -9221.951494721521,
+    "win_rate": 0.4642857142857143,
+    "total_current_value": 0.08583650000000001,
+    "total_positions": 65,
+    "event_ct": 56,
+    "win_count": 26,
+    "rank": 50582,
+    "trader_tags": "> 1 year old"
   }
 ]
