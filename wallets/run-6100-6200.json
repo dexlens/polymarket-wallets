@@ -334,5 +334,21 @@
     "win_count": 2,
     "rank": 6121,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x075066e52e3fe0d321625ec92ae6313c095f9db6",
+    "trader_name": "SamGTree",
+    "tag": "Overall",
+    "overall_gain": 17513.19203322427,
+    "active_positions": 0,
+    "win_amount": 19841.97299916331,
+    "loss_amount": -2328.780965939042,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.011367,
+    "total_positions": 28,
+    "event_ct": 21,
+    "win_count": 7,
+    "rank": 6122,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
