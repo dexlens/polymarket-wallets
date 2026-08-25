@@ -1374,5 +1374,21 @@
     "win_count": 94,
     "rank": 1386,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f57418a4f93b8da4c5d3e40f1979010d6d7795f",
+    "trader_name": "soloxbt",
+    "tag": "Overall",
+    "overall_gain": 87703.12693039632,
+    "active_positions": 5,
+    "win_amount": 92933.09940666467,
+    "loss_amount": -5229.972476268345,
+    "win_rate": 0.375,
+    "total_current_value": 0.010518000000000001,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 1387,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 67%+ Positions in US Election "
   }
 ]
