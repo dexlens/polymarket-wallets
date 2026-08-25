@@ -1422,5 +1422,21 @@
     "win_count": 37,
     "rank": 68290,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x26782a82b300d5b9bdf864687a611f6e1689c52f",
+    "trader_name": "Manticoins",
+    "tag": "Overall",
+    "overall_gain": 853.5548690639109,
+    "active_positions": 0,
+    "win_amount": 853.5548690639109,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004711,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 68291,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
