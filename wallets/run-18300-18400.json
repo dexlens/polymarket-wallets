@@ -1518,5 +1518,21 @@
     "win_count": 358,
     "rank": 18395,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd2f2bcde6bd6153fa0cb122c5dd74a96f36300e8",
+    "trader_name": "btf-b2",
+    "tag": "Overall",
+    "overall_gain": 5046.74685826877,
+    "active_positions": 38,
+    "win_amount": 17872.503957169105,
+    "loss_amount": -12825.757098900338,
+    "win_rate": 0.7614276768941766,
+    "total_current_value": 607.8004459999999,
+    "total_positions": 6033,
+    "event_ct": 3194,
+    "win_count": 2432,
+    "rank": 18396,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
