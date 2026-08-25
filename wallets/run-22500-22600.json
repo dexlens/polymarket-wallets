@@ -494,5 +494,21 @@
     "win_count": 2,
     "rank": 22531,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4cd346315d69fbfbc8e0a4cd52eb2a8cccaf9642",
+    "trader_name": "STNBA2024",
+    "tag": "Overall",
+    "overall_gain": 4008.632633782554,
+    "active_positions": 0,
+    "win_amount": 18111.084602,
+    "loss_amount": -14102.451968217447,
+    "win_rate": 0.5401929260450161,
+    "total_current_value": 0.010978,
+    "total_positions": 314,
+    "event_ct": 311,
+    "win_count": 168,
+    "rank": 22532,
+    "trader_tags": "> 1 year old"
   }
 ]
