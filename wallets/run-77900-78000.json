@@ -574,5 +574,21 @@
     "win_count": 404,
     "rank": 77937,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80c82e7bbe6796f5edcfbf749cc822a29086e6bd",
+    "trader_name": "lir",
+    "tag": "Overall",
+    "overall_gain": 665.083768812542,
+    "active_positions": 0,
+    "win_amount": 785.9077896349352,
+    "loss_amount": -120.82402082239301,
+    "win_rate": 0.625,
+    "total_current_value": 0.033743,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 77938,
+    "trader_tags": "> 1 year old"
   }
 ]
