@@ -1070,5 +1070,21 @@
     "win_count": 123,
     "rank": 9667,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x801dbe416065cfa8ecffeae526eeb37f393fd8e0",
+    "trader_name": "Niseko",
+    "tag": "Overall",
+    "overall_gain": 10827.135190378533,
+    "active_positions": 17,
+    "win_amount": 242208.83138165658,
+    "loss_amount": -231381.696191278,
+    "win_rate": 0.6687797147385103,
+    "total_current_value": 67200.2569422595,
+    "total_positions": 1030,
+    "event_ct": 631,
+    "win_count": 422,
+    "rank": 9668,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
