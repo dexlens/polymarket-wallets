@@ -718,5 +718,21 @@
     "win_count": 15,
     "rank": 2245,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0833eca3294c30d41c5268c56530cfcbdcfebba3",
+    "trader_name": "Arthur0x",
+    "tag": "Overall",
+    "overall_gain": 53168.57591283167,
+    "active_positions": 0,
+    "win_amount": 53188.575860831676,
+    "loss_amount": -19.999948000000003,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.002291,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 2246,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
