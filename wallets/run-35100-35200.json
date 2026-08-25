@@ -1086,5 +1086,21 @@
     "win_count": 9,
     "rank": 35169,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x56248e8b103cefcdcfbb2f294eb7321027dba4e8",
+    "trader_name": "j949",
+    "tag": "Overall",
+    "overall_gain": 2327.151179325056,
+    "active_positions": 0,
+    "win_amount": 2327.151179325056,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004772,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 35170,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
