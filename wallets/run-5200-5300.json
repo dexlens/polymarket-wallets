@@ -478,5 +478,21 @@
     "win_count": 14,
     "rank": 5230,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x242417d99e9b85ab6d94978883ade8965ccd638c",
+    "trader_name": "Brioche",
+    "tag": "Overall",
+    "overall_gain": 20733.598511415967,
+    "active_positions": 0,
+    "win_amount": 21345.379639835966,
+    "loss_amount": -611.78112842,
+    "win_rate": 0.75,
+    "total_current_value": 0.007932999999999999,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 5231,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
