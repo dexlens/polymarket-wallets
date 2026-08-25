@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 87343,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x60b4ac0604ffc5de2113fa8f4d6f8e611be8f1b8",
+    "trader_name": "1tuoshi",
+    "tag": "Overall",
+    "overall_gain": 521.1419397444229,
+    "active_positions": 8,
+    "win_amount": 612.641226984423,
+    "loss_amount": -91.49928724000006,
+    "win_rate": 0.7894736842105263,
+    "total_current_value": 7136.100671,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 15,
+    "rank": 87344,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
