@@ -1422,5 +1422,21 @@
     "win_count": 21,
     "rank": 60190,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1ef26debf2c1b7a397ab32c3fa635958b031bd66",
+    "trader_name": "Farmder11h",
+    "tag": "Overall",
+    "overall_gain": 1070.6029700000001,
+    "active_positions": 3,
+    "win_amount": 2279.44297,
+    "loss_amount": -1208.84,
+    "win_rate": 0.75,
+    "total_current_value": 11.485000000000001,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 60191,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
