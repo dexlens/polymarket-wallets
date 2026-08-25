@@ -1198,5 +1198,21 @@
     "win_count": 7,
     "rank": 63376,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5cbb1fe4ed3706b9bfac6022959a114d461b4885",
+    "trader_name": "ndrj",
+    "tag": "Overall",
+    "overall_gain": 990.4339729995918,
+    "active_positions": 1,
+    "win_amount": 990.4339729995918,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1219.2009349999998,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 63377,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
