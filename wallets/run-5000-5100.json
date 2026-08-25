@@ -190,5 +190,21 @@
     "win_count": 56,
     "rank": 5012,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6df1bd42411b29f0d263f58da72c9efdfa54ea12",
+    "trader_name": "bc7g",
+    "tag": "Overall",
+    "overall_gain": 21609.32133508985,
+    "active_positions": 11,
+    "win_amount": 84635.02585918218,
+    "loss_amount": -63025.70452409231,
+    "win_rate": 0.6071428571428571,
+    "total_current_value": 10490.7595651015,
+    "total_positions": 158,
+    "event_ct": 140,
+    "win_count": 85,
+    "rank": 5013,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
