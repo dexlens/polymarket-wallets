@@ -1198,5 +1198,21 @@
     "win_count": 11,
     "rank": 27376,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2f1c727c5fb2dc6c71ce3e80cf5a57ac06d6f52d",
+    "trader_name": "Dkil",
+    "tag": "Overall",
+    "overall_gain": 3151.057820962664,
+    "active_positions": 0,
+    "win_amount": 3151.057820962664,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0005870000000000001,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 27377,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
