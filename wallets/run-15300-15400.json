@@ -1118,5 +1118,21 @@
     "win_count": 7,
     "rank": 15370,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6e5d6221543b24c5025a6151ab48097b97e19df8",
+    "trader_name": "UIWTS",
+    "tag": "Overall",
+    "overall_gain": 6300.5199999999995,
+    "active_positions": 3,
+    "win_amount": 6308.360000000001,
+    "loss_amount": -7.84,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 49,
+    "total_positions": 18,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 15371,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
