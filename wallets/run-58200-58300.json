@@ -766,5 +766,21 @@
     "win_count": 5,
     "rank": 58249,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x50b0b5be14f256bf15c63ae78b33be7214b27dc5",
+    "trader_name": "BadProphet",
+    "tag": "Overall",
+    "overall_gain": 1133.382123116796,
+    "active_positions": 16,
+    "win_amount": 1563.945892442196,
+    "loss_amount": -430.5637693254,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 1473.093482769,
+    "total_positions": 271,
+    "event_ct": 207,
+    "win_count": 180,
+    "rank": 58250,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
