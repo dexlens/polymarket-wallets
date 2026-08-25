@@ -1422,5 +1422,21 @@
     "win_count": 78,
     "rank": 21789,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4cd634256f85568ec57a3c5e351e12c43d4fc659",
+    "trader_name": "VictoriaPric",
+    "tag": "Overall",
+    "overall_gain": 4170.151629212787,
+    "active_positions": 4,
+    "win_amount": 7364.04016522722,
+    "loss_amount": -3193.888536014434,
+    "win_rate": 0.8611111111111112,
+    "total_current_value": 17.386363669,
+    "total_positions": 36,
+    "event_ct": 36,
+    "win_count": 31,
+    "rank": 21790,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
