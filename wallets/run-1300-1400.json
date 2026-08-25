@@ -1454,5 +1454,21 @@
     "win_count": 119,
     "rank": 1391,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe154165732b79548f7533fc45168b102dd7a0b7f",
+    "trader_name": "Nadmi",
+    "tag": "Overall",
+    "overall_gain": 87177.6310768054,
+    "active_positions": 249,
+    "win_amount": 179591.28168627305,
+    "loss_amount": -92413.65060946759,
+    "win_rate": 0.5578139114724481,
+    "total_current_value": 70603.49933464201,
+    "total_positions": 3795,
+    "event_ct": 2214,
+    "win_count": 1235,
+    "rank": 1392,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
