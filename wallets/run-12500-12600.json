@@ -1294,5 +1294,21 @@
     "win_count": 2,
     "rank": 12581,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb3435c7d19d815431f0c58dfc4e6b7cd8c5f972f",
+    "trader_name": "builder1289",
+    "tag": "Overall",
+    "overall_gain": 8061.00175671617,
+    "active_positions": 11,
+    "win_amount": 78268.86428971616,
+    "loss_amount": -70207.86253299999,
+    "win_rate": 0.6749795584627964,
+    "total_current_value": 43.461867000000005,
+    "total_positions": 3025,
+    "event_ct": 2446,
+    "win_count": 1651,
+    "rank": 12582,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
