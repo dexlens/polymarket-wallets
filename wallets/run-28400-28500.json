@@ -302,5 +302,21 @@
     "win_count": 26,
     "rank": 28420,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x83be4e80d29abb85538020c33234d66c448dde2a",
+    "trader_name": "Vomitory",
+    "tag": "Overall",
+    "overall_gain": 3012.5,
+    "active_positions": 2,
+    "win_amount": 3599,
+    "loss_amount": -586.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 28421,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
