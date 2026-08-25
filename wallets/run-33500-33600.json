@@ -1358,5 +1358,21 @@
     "win_count": 2,
     "rank": 33586,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x368061bc161a471af8c753426c9f987d2a1bf087",
+    "trader_name": "Sunnydays",
+    "tag": "Overall",
+    "overall_gain": 2459.0900174201774,
+    "active_positions": 23,
+    "win_amount": 3389.304251729792,
+    "loss_amount": -930.2142343096158,
+    "win_rate": 0.9193776520509194,
+    "total_current_value": 2669.6183654525,
+    "total_positions": 1460,
+    "event_ct": 707,
+    "win_count": 650,
+    "rank": 33587,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
