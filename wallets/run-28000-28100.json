@@ -1006,5 +1006,21 @@
     "win_count": 2,
     "rank": 28064,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e5630959499c5b5e55aceeeeae7446933d335d5",
+    "trader_name": "Shekel",
+    "tag": "Overall",
+    "overall_gain": 3058.0858973510017,
+    "active_positions": 105,
+    "win_amount": 13045.843481879783,
+    "loss_amount": -9987.757584528785,
+    "win_rate": 0.5157116451016636,
+    "total_current_value": 545.4279259835,
+    "total_positions": 1810,
+    "event_ct": 1082,
+    "win_count": 558,
+    "rank": 28065,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
