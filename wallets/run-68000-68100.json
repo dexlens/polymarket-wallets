@@ -1294,5 +1294,21 @@
     "win_count": 200,
     "rank": 68082,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7910a33338078ca489e1b05e24373ee9edaa29e0",
+    "trader_name": "Sanowar",
+    "tag": "Overall",
+    "overall_gain": 858.372685507006,
+    "active_positions": 8,
+    "win_amount": 2845.2202222277756,
+    "loss_amount": -1986.8475367207702,
+    "win_rate": 0.875,
+    "total_current_value": 499.25627009999994,
+    "total_positions": 99,
+    "event_ct": 96,
+    "win_count": 84,
+    "rank": 68083,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
