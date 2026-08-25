@@ -3070,5 +3070,21 @@
     "win_count": 51,
     "rank": 192,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x7abe2e7eac6f63b1bf4c21eeae71b03e9bd9b47e",
+    "trader_name": "bestfriends",
+    "tag": "Overall",
+    "overall_gain": 620560.7041530837,
+    "active_positions": 76,
+    "win_amount": 7301111.131837151,
+    "loss_amount": -6680550.427684069,
+    "win_rate": 0.715,
+    "total_current_value": 0.6578620269999998,
+    "total_positions": 2117,
+    "event_ct": 600,
+    "win_count": 429,
+    "rank": 193,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions; Sports PnL > $100k"
   }
 ]
