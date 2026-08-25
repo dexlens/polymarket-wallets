@@ -974,5 +974,21 @@
     "win_count": 11,
     "rank": 42162,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf1efcfe9126df5adee7805ae0a110424da8784c9",
+    "trader_name": "voblanchik",
+    "tag": "Overall",
+    "overall_gain": 1868.17,
+    "active_positions": 0,
+    "win_amount": 1868.52,
+    "loss_amount": -0.35,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 42163,
+    "trader_tags": "< 30 days old"
   }
 ]
