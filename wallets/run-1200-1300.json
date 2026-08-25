@@ -1006,5 +1006,21 @@
     "win_count": 51,
     "rank": 1263,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa3d043b2da34f58045c6485d3f89b798b2b0ec04",
+    "trader_name": "de-eznuts",
+    "tag": "Overall",
+    "overall_gain": 96071.20272904042,
+    "active_positions": 4307,
+    "win_amount": 283038.1095153317,
+    "loss_amount": -186966.9067862912,
+    "win_rate": 0.49223152683414967,
+    "total_current_value": 210.12800029,
+    "total_positions": 29372,
+    "event_ct": 18987,
+    "win_count": 9346,
+    "rank": 1264,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
