@@ -526,5 +526,21 @@
     "win_count": 34,
     "rank": 28234,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x34bf0edd3d5a9c3ef5e1c3ca890649375e3fb55b",
+    "trader_name": "IRTEIERDTID",
+    "tag": "Overall",
+    "overall_gain": 3035.0517118574426,
+    "active_positions": 4,
+    "win_amount": 6073.181711857443,
+    "loss_amount": -3038.13,
+    "win_rate": 0.9117647058823529,
+    "total_current_value": 9.939442,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 31,
+    "rank": 28235,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
