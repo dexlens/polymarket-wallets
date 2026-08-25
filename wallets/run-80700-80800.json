@@ -1262,5 +1262,21 @@
     "win_count": 8,
     "rank": 80780,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3c0f1839cf1d75ee5f1c9ac8baa2fe17773d0c86",
+    "trader_name": "testsik",
+    "tag": "Overall",
+    "overall_gain": 617.7175253564504,
+    "active_positions": 3,
+    "win_amount": 701.5559743564504,
+    "loss_amount": -83.838449,
+    "win_rate": 0.8,
+    "total_current_value": 254.270899,
+    "total_positions": 59,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 80781,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
