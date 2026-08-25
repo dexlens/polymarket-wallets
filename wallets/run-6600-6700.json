@@ -910,5 +910,21 @@
     "win_count": 4,
     "rank": 6657,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf920cb038af026c53530454c83d2d3c200c90559",
+    "trader_name": "Vyndros",
+    "tag": "Overall",
+    "overall_gain": 16138.924262522994,
+    "active_positions": 7,
+    "win_amount": 16614.964148415856,
+    "loss_amount": -476.039885892863,
+    "win_rate": 0.8043478260869565,
+    "total_current_value": 9.420193,
+    "total_positions": 48,
+    "event_ct": 46,
+    "win_count": 37,
+    "rank": 6658,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
