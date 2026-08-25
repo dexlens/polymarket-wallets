@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 2165,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xd0459d96d20e60404f929034f11b9c37f2d0a1ff",
+    "trader_name": "Zen-404",
+    "tag": "Overall",
+    "overall_gain": 55582.81336646153,
+    "active_positions": 352,
+    "win_amount": 181178.83264892295,
+    "loss_amount": -125596.01928246142,
+    "win_rate": 0.5738273126396056,
+    "total_current_value": 2811.4659764549997,
+    "total_positions": 25723,
+    "event_ct": 12983,
+    "win_count": 7450,
+    "rank": 2166,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
