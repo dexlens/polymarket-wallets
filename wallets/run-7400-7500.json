@@ -670,5 +670,21 @@
     "win_count": 99,
     "rank": 7442,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56769cafc75d6758548c8278a92af4d5e057b103",
+    "trader_name": "Nigel.Farage",
+    "tag": "Overall",
+    "overall_gain": 14264.76987641958,
+    "active_positions": 36,
+    "win_amount": 181189.28167675133,
+    "loss_amount": -166924.51180033173,
+    "win_rate": 0.6311787072243346,
+    "total_current_value": 21653.360643518,
+    "total_positions": 469,
+    "event_ct": 263,
+    "win_count": 166,
+    "rank": 7443,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
