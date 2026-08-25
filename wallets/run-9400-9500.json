@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 9418,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02eff4774170b46be2689ce72bfbe9ad241f9477",
+    "trader_name": "Zionss",
+    "tag": "Overall",
+    "overall_gain": 11125.304564295988,
+    "active_positions": 1,
+    "win_amount": 11277.834564295988,
+    "loss_amount": -152.53,
+    "win_rate": 0.75,
+    "total_current_value": 1.544554284,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 9419,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
