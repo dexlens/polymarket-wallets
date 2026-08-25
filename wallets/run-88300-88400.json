@@ -1374,5 +1374,21 @@
     "win_count": 54,
     "rank": 88387,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x930a3ef6bc28bcde2fab20ed8375d035853795a2",
+    "trader_name": "updart",
+    "tag": "Overall",
+    "overall_gain": 508.525454,
+    "active_positions": 0,
+    "win_amount": 508.525454,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 88388,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
