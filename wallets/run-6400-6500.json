@@ -270,5 +270,21 @@
     "win_count": 6,
     "rank": 6417,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x312bcca3bc77bdc1d37dc6db5b9c1493de61cafe",
+    "trader_name": "ELICHOU",
+    "tag": "Overall",
+    "overall_gain": 16688.283124220692,
+    "active_positions": 25,
+    "win_amount": 38460.7197969663,
+    "loss_amount": -21772.4366727456,
+    "win_rate": 0.5617977528089888,
+    "total_current_value": 7516.114348586,
+    "total_positions": 100,
+    "event_ct": 89,
+    "win_count": 50,
+    "rank": 6418,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
