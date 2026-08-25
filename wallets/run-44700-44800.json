@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 44713,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc74072a0fecf29767c30fc4d4055303d8cea522f",
+    "trader_name": "0xLegend",
+    "tag": "Overall",
+    "overall_gain": 1727.1123814884413,
+    "active_positions": 7,
+    "win_amount": 31844.288985794632,
+    "loss_amount": -30117.176604306183,
+    "win_rate": 0.5634920634920635,
+    "total_current_value": 40.9481627735,
+    "total_positions": 152,
+    "event_ct": 126,
+    "win_count": 71,
+    "rank": 44714,
+    "trader_tags": "< 30 days old"
   }
 ]
