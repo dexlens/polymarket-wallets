@@ -142,5 +142,21 @@
     "win_count": 4,
     "rank": 8009,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ccedcdd40c9623a524c2e734879fc397b865c11",
+    "trader_name": "frostnovae",
+    "tag": "Overall",
+    "overall_gain": 13110.705747972543,
+    "active_positions": 23,
+    "win_amount": 17363.709250823485,
+    "loss_amount": -4253.00350285094,
+    "win_rate": 0.7959183673469388,
+    "total_current_value": 128014.6985714175,
+    "total_positions": 55,
+    "event_ct": 49,
+    "win_count": 39,
+    "rank": 8010,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
