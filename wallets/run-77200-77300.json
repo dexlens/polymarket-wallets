@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 77265,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x60dc75972601199c88cc52dfbc2cf0b3b8303ef0",
+    "trader_name": "hgewgvb",
+    "tag": "Overall",
+    "overall_gain": 677.0688,
+    "active_positions": 3,
+    "win_amount": 677.0688,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 18.9,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 77266,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
