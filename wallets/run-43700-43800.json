@@ -990,5 +990,21 @@
     "win_count": 2,
     "rank": 43763,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e14e7efdcf6ab6111ec868dc5a6e3524caea0da",
+    "trader_name": "jiusgiokou",
+    "tag": "Overall",
+    "overall_gain": 1779.006137,
+    "active_positions": 2,
+    "win_amount": 1805.1693,
+    "loss_amount": -26.163163000000033,
+    "win_rate": 0.14285714285714285,
+    "total_current_value": 30,
+    "total_positions": 19,
+    "event_ct": 7,
+    "win_count": 1,
+    "rank": 43764,
+    "trader_tags": "< 30 days old"
   }
 ]
