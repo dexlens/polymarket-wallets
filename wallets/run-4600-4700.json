@@ -1038,5 +1038,21 @@
     "win_count": 15,
     "rank": 4665,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7c2c96af5bdadc1818360ac33ba77718c5a3407e",
+    "trader_name": "0xMitsuki",
+    "tag": "Overall",
+    "overall_gain": 23425.629461630084,
+    "active_positions": 161,
+    "win_amount": 24746.851015731394,
+    "loss_amount": -1321.2215541013086,
+    "win_rate": 0.6931079323797139,
+    "total_current_value": 1037.0396212125002,
+    "total_positions": 2606,
+    "event_ct": 769,
+    "win_count": 533,
+    "rank": 4666,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
