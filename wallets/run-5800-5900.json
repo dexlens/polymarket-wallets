@@ -142,5 +142,21 @@
     "win_count": 7,
     "rank": 5809,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x708dba576d798c24215e267413503269fe39ea78",
+    "trader_name": "Azekiel",
+    "tag": "Overall",
+    "overall_gain": 18523.056429841192,
+    "active_positions": 2,
+    "win_amount": 24272.87090608532,
+    "loss_amount": -5749.814476244125,
+    "win_rate": 0.6346153846153846,
+    "total_current_value": 1719.733407,
+    "total_positions": 154,
+    "event_ct": 104,
+    "win_count": 66,
+    "rank": 5810,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
