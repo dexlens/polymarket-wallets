@@ -1502,5 +1502,21 @@
     "win_count": 58,
     "rank": 3094,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x79e7eb9d379b06939bc6f308472dea6d27b8a190",
+    "trader_name": "Porsche718",
+    "tag": "Overall",
+    "overall_gain": 36966.57418922872,
+    "active_positions": 14,
+    "win_amount": 39984.89126854166,
+    "loss_amount": -3018.3170793129348,
+    "win_rate": 0.9354838709677419,
+    "total_current_value": 21.719852543500004,
+    "total_positions": 93,
+    "event_ct": 31,
+    "win_count": 29,
+    "rank": 3095,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
