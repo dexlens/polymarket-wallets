@@ -1038,5 +1038,21 @@
     "win_count": 7,
     "rank": 6265,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8d7630a87299eaa085c26f85da8e5dab153beb01",
+    "trader_name": "TheHog",
+    "tag": "Overall",
+    "overall_gain": 17097.397073955457,
+    "active_positions": 7,
+    "win_amount": 71661.07709102226,
+    "loss_amount": -54563.6800170668,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 1558.006305668,
+    "total_positions": 12,
+    "event_ct": 9,
+    "win_count": 3,
+    "rank": 6266,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
