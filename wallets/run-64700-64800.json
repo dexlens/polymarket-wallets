@@ -1182,5 +1182,21 @@
     "win_count": 5,
     "rank": 64775,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe4c7dbb620bc8692b631a5d50afe2473355ce7a1",
+    "trader_name": "VilaReal",
+    "tag": "Overall",
+    "overall_gain": 951.9201011686238,
+    "active_positions": 2,
+    "win_amount": 951.9201011686238,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 2753.3616897535,
+    "total_positions": 9,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 64776,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
