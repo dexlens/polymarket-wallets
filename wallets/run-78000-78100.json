@@ -894,5 +894,21 @@
     "win_count": 3,
     "rank": 78057,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1e43d135753d04897914275c8e096271f0486170",
+    "trader_name": "isloni",
+    "tag": "Overall",
+    "overall_gain": 662.931941670677,
+    "active_positions": 12,
+    "win_amount": 1529.3169177836994,
+    "loss_amount": -866.3849761130219,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 97.72081600000001,
+    "total_positions": 89,
+    "event_ct": 85,
+    "win_count": 75,
+    "rank": 78058,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
