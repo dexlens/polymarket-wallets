@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 22899,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x76849dd6c6b31e0c2e7b209149cd961e1bbc4d2d",
+    "trader_name": "Koroline",
+    "tag": "Overall",
+    "overall_gain": 3939.1035951900512,
+    "active_positions": 0,
+    "win_amount": 5482.214695190051,
+    "loss_amount": -1543.1111,
+    "win_rate": 0.8648648648648649,
+    "total_current_value": 0.013249,
+    "total_positions": 40,
+    "event_ct": 37,
+    "win_count": 32,
+    "rank": 22900,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
