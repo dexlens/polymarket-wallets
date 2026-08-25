@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 83289,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93529a3ae0b7891390e2233855ca1b560e50143f",
+    "trader_name": "ewsgarg",
+    "tag": "Overall",
+    "overall_gain": 577.5181955209779,
+    "active_positions": 4,
+    "win_amount": 614.683044,
+    "loss_amount": -37.164848479022,
+    "win_rate": 0.38461538461538464,
+    "total_current_value": 0.0241515065,
+    "total_positions": 17,
+    "event_ct": 13,
+    "win_count": 5,
+    "rank": 83290,
+    "trader_tags": ""
   }
 ]
