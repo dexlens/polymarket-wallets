@@ -1326,5 +1326,21 @@
     "win_count": 57,
     "rank": 3683,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x78344de69ca0d01155ef47f3afcbdc9bcbf65cb4",
+    "trader_name": "gchdoteth",
+    "tag": "Overall",
+    "overall_gain": 30923.774994657888,
+    "active_positions": 1,
+    "win_amount": 40092.854907,
+    "loss_amount": -9169.079912342113,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 3684,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
