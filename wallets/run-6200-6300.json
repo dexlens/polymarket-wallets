@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 6214,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfcca95f33142ba2880d661bd0f00b51393fcc460",
+    "trader_name": "SWAG5",
+    "tag": "Overall",
+    "overall_gain": 17237.65094804671,
+    "active_positions": 160,
+    "win_amount": 96968.80094128831,
+    "loss_amount": -79731.14999324159,
+    "win_rate": 0.6037483266398929,
+    "total_current_value": 30.21719076999999,
+    "total_positions": 990,
+    "event_ct": 747,
+    "win_count": 451,
+    "rank": 6215,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
