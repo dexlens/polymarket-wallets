@@ -1230,5 +1230,21 @@
     "win_count": 2,
     "rank": 41878,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x581d0818460984d43b9adfb9b1d2575915066fdf",
+    "trader_name": "Brightsky",
+    "tag": "Overall",
+    "overall_gain": 1883.5,
+    "active_positions": 3,
+    "win_amount": 3258,
+    "loss_amount": -1374.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 41879,
+    "trader_tags": ""
   }
 ]
