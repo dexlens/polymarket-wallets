@@ -686,5 +686,21 @@
     "win_count": 4,
     "rank": 65444,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1512e9aa6aa41843a498b547bb8bcd326e61f3ea",
+    "trader_name": "homeworks30",
+    "tag": "Overall",
+    "overall_gain": 931.9282262126276,
+    "active_positions": 29,
+    "win_amount": 12107.56665781943,
+    "loss_amount": -11175.638431606803,
+    "win_rate": 0.5179063360881543,
+    "total_current_value": 85.44352807499999,
+    "total_positions": 390,
+    "event_ct": 363,
+    "win_count": 188,
+    "rank": 65445,
+    "trader_tags": ""
   }
 ]
