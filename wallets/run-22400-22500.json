@@ -782,5 +782,21 @@
     "win_count": 27,
     "rank": 22449,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7d8369384e5fed5088566003ee30f2639969e56a",
+    "trader_name": "Mithrildragonlight",
+    "tag": "Overall",
+    "overall_gain": 4024.0978400733507,
+    "active_positions": 4,
+    "win_amount": 15029.07193776009,
+    "loss_amount": -11004.974097686742,
+    "win_rate": 0.7,
+    "total_current_value": 6.4517349,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 22450,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
