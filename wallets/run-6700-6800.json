@@ -750,5 +750,21 @@
     "win_count": 2,
     "rank": 6747,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x63ed729b52999ba9be47d0538d0d42fc4b6cb0f4",
+    "trader_name": "David0x",
+    "tag": "Overall",
+    "overall_gain": 15903.647948891477,
+    "active_positions": 3,
+    "win_amount": 50460.41276146284,
+    "loss_amount": -34556.76481257135,
+    "win_rate": 0.6571428571428571,
+    "total_current_value": 26016.4007826805,
+    "total_positions": 38,
+    "event_ct": 35,
+    "win_count": 23,
+    "rank": 6748,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
