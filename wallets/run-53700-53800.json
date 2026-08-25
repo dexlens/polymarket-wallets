@@ -446,5 +446,21 @@
     "win_count": 8,
     "rank": 53729,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x5555ff8ede383f809c7b6187b5cd2bf2ce30e2a3",
+    "trader_name": "NZDZTN",
+    "tag": "Overall",
+    "overall_gain": 1314.4941510000008,
+    "active_positions": 2,
+    "win_amount": 2343.0341510000007,
+    "loss_amount": -1028.54,
+    "win_rate": 0.9354838709677419,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 29,
+    "rank": 53730,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
