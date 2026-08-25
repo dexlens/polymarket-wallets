@@ -1502,5 +1502,21 @@
     "win_count": 24,
     "rank": 3194,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e9e231eb849db71eb7bc9bb31f48254ca60d6d3",
+    "trader_name": "shijiebeiking",
+    "tag": "Overall",
+    "overall_gain": 35861.56688293,
+    "active_positions": 17,
+    "win_amount": 37264.775044,
+    "loss_amount": -1403.2081610699997,
+    "win_rate": 0.5625,
+    "total_current_value": 0,
+    "total_positions": 41,
+    "event_ct": 32,
+    "win_count": 18,
+    "rank": 3195,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
