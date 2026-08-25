@@ -910,5 +910,21 @@
     "win_count": 2,
     "rank": 56158,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a9b1d1e1f878a92e9f111a1aa2f08ae4ebf331d",
+    "trader_name": "loijd",
+    "tag": "Overall",
+    "overall_gain": 1211.3835802585909,
+    "active_positions": 1,
+    "win_amount": 1910.530084,
+    "loss_amount": -699.1465037414089,
+    "win_rate": 0.5862068965517241,
+    "total_current_value": 13.498015999999998,
+    "total_positions": 57,
+    "event_ct": 29,
+    "win_count": 17,
+    "rank": 56159,
+    "trader_tags": "> 1 year old"
   }
 ]
