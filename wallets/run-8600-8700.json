@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 8670,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x8ca027cbbe5f5b2352ec7562cf04976e3d699288",
+    "trader_name": "EtherealEye",
+    "tag": "Overall",
+    "overall_gain": 12087,
+    "active_positions": 3,
+    "win_amount": 12862,
+    "loss_amount": -775,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 8671,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
