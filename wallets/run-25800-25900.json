@@ -270,5 +270,21 @@
     "win_count": 9,
     "rank": 25818,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x102c3fe5d794f887731172f94abb8cc3f88199a3",
+    "trader_name": "ledoraeth",
+    "tag": "Overall",
+    "overall_gain": 3403.8477500586932,
+    "active_positions": 9,
+    "win_amount": 3407.9685948416713,
+    "loss_amount": -4.120844782978001,
+    "win_rate": 0.9875,
+    "total_current_value": 192.75371668000003,
+    "total_positions": 99,
+    "event_ct": 80,
+    "win_count": 79,
+    "rank": 25819,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
