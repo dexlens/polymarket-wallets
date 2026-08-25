@@ -158,5 +158,21 @@
     "win_count": 34,
     "rank": 7010,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5bf33d0d3574e3549b764797d9e0fd189778b548",
+    "trader_name": "btcup",
+    "tag": "Overall",
+    "overall_gain": 15244.221981774204,
+    "active_positions": 7,
+    "win_amount": 37109.167039999986,
+    "loss_amount": -21864.9450582258,
+    "win_rate": 0.5871559633027523,
+    "total_current_value": 0,
+    "total_positions": 612,
+    "event_ct": 327,
+    "win_count": 192,
+    "rank": 7011,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
