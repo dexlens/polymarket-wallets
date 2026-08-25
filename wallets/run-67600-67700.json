@@ -622,5 +622,21 @@
     "win_count": 2,
     "rank": 67640,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16b243702ea0172e3554392386e8eb45a8b35b63",
+    "trader_name": "thtbbx",
+    "tag": "Overall",
+    "overall_gain": 871.2913434546448,
+    "active_positions": 29,
+    "win_amount": 1149.17153,
+    "loss_amount": -277.880186545355,
+    "win_rate": 0.543859649122807,
+    "total_current_value": 1562.41412,
+    "total_positions": 58,
+    "event_ct": 57,
+    "win_count": 31,
+    "rank": 67641,
+    "trader_tags": ""
   }
 ]
