@@ -190,5 +190,21 @@
     "win_count": 10,
     "rank": 9012,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x597b6db1395187dbadebc8e4d4173af2d994aafe",
+    "trader_name": "dhvb1u9j",
+    "tag": "Overall",
+    "overall_gain": 11630.975163990057,
+    "active_positions": 11,
+    "win_amount": 23489.970163990056,
+    "loss_amount": -11858.994999999999,
+    "win_rate": 0.5925925925925926,
+    "total_current_value": 9.855057,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 16,
+    "rank": 9013,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
