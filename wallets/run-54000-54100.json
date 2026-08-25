@@ -974,5 +974,21 @@
     "win_count": 3,
     "rank": 54062,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x807eb69bebf92f486ce2a880dba7843a15562696",
+    "trader_name": "spektrobas",
+    "tag": "Overall",
+    "overall_gain": 1300.140752472967,
+    "active_positions": 1,
+    "win_amount": 1310.4803818686828,
+    "loss_amount": -10.339629395715999,
+    "win_rate": 0.8,
+    "total_current_value": 0.012683,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 54063,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
