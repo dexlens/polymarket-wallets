@@ -1582,5 +1582,21 @@
     "win_count": 10,
     "rank": 28800,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6368e29f1e5c692dc2a4c7da2573922e9ca6183e",
+    "trader_name": "dmytro.trade",
+    "tag": "Overall",
+    "overall_gain": 2973.284023,
+    "active_positions": 0,
+    "win_amount": 6146.980118,
+    "loss_amount": -3173.6960950000002,
+    "win_rate": 0.7575757575757576,
+    "total_current_value": 0,
+    "total_positions": 36,
+    "event_ct": 33,
+    "win_count": 25,
+    "rank": 28801,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
