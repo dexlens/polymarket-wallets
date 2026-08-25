@@ -1166,5 +1166,21 @@
     "win_count": 4,
     "rank": 5373,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33e073440d9ac43e2e190e910f0b02b2fbd17d46",
+    "trader_name": "tgrdy",
+    "tag": "Overall",
+    "overall_gain": 20153.392795056494,
+    "active_positions": 36,
+    "win_amount": 212695.70285444366,
+    "loss_amount": -192542.31005938724,
+    "win_rate": 0.5578947368421052,
+    "total_current_value": 106257.88363983453,
+    "total_positions": 354,
+    "event_ct": 190,
+    "win_count": 106,
+    "rank": 5374,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
