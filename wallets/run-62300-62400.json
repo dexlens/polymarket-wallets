@@ -878,5 +878,21 @@
     "win_count": 26,
     "rank": 62356,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4217a607e444da0fecd1ddbd330dde98f19af9f9",
+    "trader_name": "Edmundfdf",
+    "tag": "Overall",
+    "overall_gain": 1013.637221032242,
+    "active_positions": 2,
+    "win_amount": 1330.3163550000002,
+    "loss_amount": -316.67913396775805,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 7.242635341000001,
+    "total_positions": 12,
+    "event_ct": 9,
+    "win_count": 3,
+    "rank": 62357,
+    "trader_tags": "< 30 days old"
   }
 ]
