@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 31947,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9841e43425dba85d4eeb3d484cbe685b55f861c8",
+    "trader_name": "agreementt",
+    "tag": "Overall",
+    "overall_gain": 2604.9449470000004,
+    "active_positions": 1,
+    "win_amount": 4341.77484,
+    "loss_amount": -1736.8298929999996,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 30,
+    "win_count": 24,
+    "rank": 31948,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
