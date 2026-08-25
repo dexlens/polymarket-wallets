@@ -766,5 +766,21 @@
     "win_count": 4,
     "rank": 27149,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85e444b70321b8121fd5c0367ff971900cb188bd",
+    "trader_name": "Goluboiu",
+    "tag": "Overall",
+    "overall_gain": 3186.1190439999996,
+    "active_positions": 0,
+    "win_amount": 3300.1186329999996,
+    "loss_amount": -113.999589,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 27150,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
