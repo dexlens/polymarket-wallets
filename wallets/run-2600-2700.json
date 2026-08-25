@@ -1470,5 +1470,21 @@
     "win_count": 24,
     "rank": 2692,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcbe1d5eb6465eabb77bc5174eb5329d8732ae986",
+    "trader_name": "cashonhand",
+    "tag": "Overall",
+    "overall_gain": 43185.90529073521,
+    "active_positions": 0,
+    "win_amount": 67785.7864041702,
+    "loss_amount": -24599.88111343498,
+    "win_rate": 0.5,
+    "total_current_value": 0.011157,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 2693,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
