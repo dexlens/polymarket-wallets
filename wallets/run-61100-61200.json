@@ -1534,5 +1534,21 @@
     "win_count": 10,
     "rank": 61197,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4e37b21d94d5a8ed30963820ab1cd5b7784a504",
+    "trader_name": "Blindgdtj",
+    "tag": "Overall",
+    "overall_gain": 1042.512387119666,
+    "active_positions": 1,
+    "win_amount": 1044.2782168323329,
+    "loss_amount": -1.7658297126670004,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 7.878497285999999,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 4,
+    "rank": 61198,
+    "trader_tags": "< 30 days old"
   }
 ]
