@@ -1134,5 +1134,21 @@
     "win_count": 1875,
     "rank": 2871,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x8ffc98b434406aa849139e491a58cd03215518f3",
+    "trader_name": "Ryven",
+    "tag": "Overall",
+    "overall_gain": 40014.82681290728,
+    "active_positions": 13,
+    "win_amount": 41733.42623139195,
+    "loss_amount": -1718.599418484667,
+    "win_rate": 0.8428571428571429,
+    "total_current_value": 85.91928137499998,
+    "total_positions": 71,
+    "event_ct": 70,
+    "win_count": 59,
+    "rank": 2872,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
