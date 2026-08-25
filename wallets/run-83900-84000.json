@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 83951,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x801c287a5201dc75ad4d0d6bf3df4d601efabb7b",
+    "trader_name": "GaryBlake",
+    "tag": "Overall",
+    "overall_gain": 567,
+    "active_positions": 8,
+    "win_amount": 4562,
+    "loss_amount": -3995,
+    "win_rate": 0.7037037037037037,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 19,
+    "rank": 83952,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
