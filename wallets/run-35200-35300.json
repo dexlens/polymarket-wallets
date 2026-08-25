@@ -974,5 +974,21 @@
     "win_count": 15,
     "rank": 35262,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc8314df4ca6eb8c49e9db73b49ae1fc11f9f0111",
+    "trader_name": "bonben",
+    "tag": "Overall",
+    "overall_gain": 2319.9290153830757,
+    "active_positions": 28,
+    "win_amount": 5972.397357946816,
+    "loss_amount": -3652.468342563741,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0.1566110235,
+    "total_positions": 549,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 35263,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
