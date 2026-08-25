@@ -654,5 +654,21 @@
     "win_count": 5,
     "rank": 25042,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5827df45c28ed8b9c1be82755e58adec4d4b69dc",
+    "trader_name": "KMONEY",
+    "tag": "Overall",
+    "overall_gain": 3529.3855868803544,
+    "active_positions": 4,
+    "win_amount": 6538.987378178862,
+    "loss_amount": -3009.6017912985067,
+    "win_rate": 0.5686274509803921,
+    "total_current_value": 0.04573599999999999,
+    "total_positions": 83,
+    "event_ct": 51,
+    "win_count": 29,
+    "rank": 25043,
+    "trader_tags": "> 1 year old"
   }
 ]
