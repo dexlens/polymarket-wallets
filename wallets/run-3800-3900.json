@@ -1086,5 +1086,21 @@
     "win_count": 26,
     "rank": 3868,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23c8a4c266d10ba5846837eac391fea89ed6f293",
+    "trader_name": "Netrol",
+    "tag": "Overall",
+    "overall_gain": 29318.806108169163,
+    "active_positions": 140,
+    "win_amount": 701995.8094441707,
+    "loss_amount": -672677.0033360017,
+    "win_rate": 0.4700460829493088,
+    "total_current_value": 817.5368369999999,
+    "total_positions": 478,
+    "event_ct": 434,
+    "win_count": 204,
+    "rank": 3869,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
