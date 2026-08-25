@@ -974,5 +974,21 @@
     "win_count": 10,
     "rank": 9361,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb83333705ddbabb0d5af749c6859e05083c23ff7",
+    "trader_name": "AllinDrew",
+    "tag": "Overall",
+    "overall_gain": 11197.044102106356,
+    "active_positions": 0,
+    "win_amount": 42699.95264105,
+    "loss_amount": -31502.908538943644,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0.010047,
+    "total_positions": 19,
+    "event_ct": 13,
+    "win_count": 8,
+    "rank": 9362,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
