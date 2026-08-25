@@ -350,5 +350,21 @@
     "win_count": 5,
     "rank": 68723,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x47b74509a229f4d373156d5a4e60f57219887d88",
+    "trader_name": "xyil",
+    "tag": "Overall",
+    "overall_gain": 842.2610746102691,
+    "active_positions": 11,
+    "win_amount": 10150.581973179971,
+    "loss_amount": -9308.320898569702,
+    "win_rate": 0.6060606060606061,
+    "total_current_value": 0.020089999999999997,
+    "total_positions": 35,
+    "event_ct": 33,
+    "win_count": 20,
+    "rank": 68724,
+    "trader_tags": ""
   }
 ]
