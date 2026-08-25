@@ -526,5 +526,21 @@
     "win_count": 268,
     "rank": 8233,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1ee9a5fc09665909c0cce297c581703bfbb9197f",
+    "trader_name": "vinii",
+    "tag": "Overall",
+    "overall_gain": 12779.228871082283,
+    "active_positions": 129,
+    "win_amount": 34344.82217527162,
+    "loss_amount": -21565.59330418934,
+    "win_rate": 0.7541850220264317,
+    "total_current_value": 13669.067088263,
+    "total_positions": 2971,
+    "event_ct": 1135,
+    "win_count": 856,
+    "rank": 8234,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
