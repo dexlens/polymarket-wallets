@@ -1390,5 +1390,21 @@
     "win_count": 2,
     "rank": 75188,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3f0287c1da108f3505f3d2519d2b36525a3b8587",
+    "trader_name": "nenga",
+    "tag": "Overall",
+    "overall_gain": 711.7235832726893,
+    "active_positions": 7,
+    "win_amount": 747.4867641726893,
+    "loss_amount": -35.7631809,
+    "win_rate": 0.9024390243902439,
+    "total_current_value": 223.487949529,
+    "total_positions": 54,
+    "event_ct": 41,
+    "win_count": 37,
+    "rank": 75189,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
