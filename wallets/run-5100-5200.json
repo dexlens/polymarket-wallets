@@ -878,5 +878,21 @@
     "win_count": 68,
     "rank": 5155,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3aa0ca620c005c7a0396eba9729a8f0c90e51bf1",
+    "trader_name": "astromage",
+    "tag": "Overall",
+    "overall_gain": 20981.405921131725,
+    "active_positions": 3,
+    "win_amount": 30194.674371836572,
+    "loss_amount": -9213.268450704847,
+    "win_rate": 0.951417004048583,
+    "total_current_value": 12219.204537,
+    "total_positions": 632,
+    "event_ct": 247,
+    "win_count": 235,
+    "rank": 5156,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
