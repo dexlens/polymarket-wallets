@@ -654,5 +654,21 @@
     "win_count": 7,
     "rank": 77642,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03bd301940049418b52e3d597c2d0a9d640fc016",
+    "trader_name": "qmdn",
+    "tag": "Overall",
+    "overall_gain": 670.1342530000001,
+    "active_positions": 9,
+    "win_amount": 708.4101730000001,
+    "loss_amount": -38.27592000000001,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 1168.81705,
+    "total_positions": 36,
+    "event_ct": 34,
+    "win_count": 28,
+    "rank": 77643,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
