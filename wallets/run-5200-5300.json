@@ -606,5 +606,21 @@
     "win_count": 2,
     "rank": 5238,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8c90bff94b638a64c0377cd66f4c5bcba4e46e09",
+    "trader_name": "BionicBird",
+    "tag": "Overall",
+    "overall_gain": 20725.972736721047,
+    "active_positions": 48,
+    "win_amount": 2657999.337341921,
+    "loss_amount": -2637273.3646051995,
+    "win_rate": 0.5220125786163522,
+    "total_current_value": 1093.1308329319997,
+    "total_positions": 51165,
+    "event_ct": 47541,
+    "win_count": 24817,
+    "rank": 5239,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
