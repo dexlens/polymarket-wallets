@@ -974,5 +974,21 @@
     "win_count": 2,
     "rank": 7261,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9542a9adc39c2b66ca177f6ffb8a6183c5264295",
+    "trader_name": "Bit223",
+    "tag": "Overall",
+    "overall_gain": 14722.143686754864,
+    "active_positions": 2,
+    "win_amount": 39580.4197144033,
+    "loss_amount": -24858.276027648433,
+    "win_rate": 0.5764705882352941,
+    "total_current_value": 0.010549,
+    "total_positions": 183,
+    "event_ct": 170,
+    "win_count": 98,
+    "rank": 7262,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
