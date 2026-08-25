@@ -1230,5 +1230,21 @@
     "win_count": 17,
     "rank": 9277,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x614ef98a8be021de3a974942b2fb98794ff34f1b",
+    "trader_name": "cookiejar",
+    "tag": "Overall",
+    "overall_gain": 11303.266270443175,
+    "active_positions": 3,
+    "win_amount": 122313.46150946703,
+    "loss_amount": -111010.1952390239,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 77.7039305,
+    "total_positions": 236,
+    "event_ct": 120,
+    "win_count": 100,
+    "rank": 9278,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
