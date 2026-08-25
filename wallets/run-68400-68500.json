@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 68476,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40b38824995bde5266f26dfe4a3558068dc51ee3",
+    "trader_name": "at32",
+    "tag": "Overall",
+    "overall_gain": 848.9380317036068,
+    "active_positions": 2,
+    "win_amount": 2997.522140962353,
+    "loss_amount": -2148.584109258746,
+    "win_rate": 0.8397976391231029,
+    "total_current_value": 574.5701470645001,
+    "total_positions": 639,
+    "event_ct": 593,
+    "win_count": 498,
+    "rank": 68477,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
