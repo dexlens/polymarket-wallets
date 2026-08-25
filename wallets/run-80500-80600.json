@@ -766,5 +766,21 @@
     "win_count": 10,
     "rank": 80549,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6dbaf6369d3b32ff35a63d9b8b90735c4841e1a3",
+    "trader_name": "roomyd",
+    "tag": "Overall",
+    "overall_gain": 621.401805227976,
+    "active_positions": 2,
+    "win_amount": 621.401805227976,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 91.7580188705,
+    "total_positions": 11,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 80550,
+    "trader_tags": "Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
