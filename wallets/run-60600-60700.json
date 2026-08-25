@@ -1054,5 +1054,21 @@
     "win_count": 30,
     "rank": 60667,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f81107c16b6757da5a020f284b12ed0b3f0968d",
+    "trader_name": "Skypeg",
+    "tag": "Overall",
+    "overall_gain": 1056.7488270810359,
+    "active_positions": 14,
+    "win_amount": 6352.7858866930765,
+    "loss_amount": -5296.037059612039,
+    "win_rate": 0.4482758620689655,
+    "total_current_value": 2548.8032670000002,
+    "total_positions": 56,
+    "event_ct": 29,
+    "win_count": 13,
+    "rank": 60668,
+    "trader_tags": "> 1 year old"
   }
 ]
