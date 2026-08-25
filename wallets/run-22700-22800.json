@@ -526,5 +526,21 @@
     "win_count": 8,
     "rank": 22733,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0bf932cf699d9044e821bedbf272836221d133eb",
+    "trader_name": "mahadebt",
+    "tag": "Overall",
+    "overall_gain": 3973.9506943986094,
+    "active_positions": 1,
+    "win_amount": 7713.79792743423,
+    "loss_amount": -3739.8472330356203,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 0.009184999999999999,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 4,
+    "rank": 22734,
+    "trader_tags": "> 1 year old"
   }
 ]
