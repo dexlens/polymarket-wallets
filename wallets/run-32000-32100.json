@@ -670,5 +670,21 @@
     "win_count": 19,
     "rank": 32043,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9ae846ed3dd61e49eb573a8b2fa2e0728c00d9dc",
+    "trader_name": "RGsDfsaef",
+    "tag": "Overall",
+    "overall_gain": 2596.5072889544995,
+    "active_positions": 2,
+    "win_amount": 5254.507288954501,
+    "loss_amount": -2658,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.016611853500000003,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 32044,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
