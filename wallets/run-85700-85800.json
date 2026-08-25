@@ -270,5 +270,21 @@
     "win_count": 3,
     "rank": 85718,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8c8561eddf998f1c6d1ba89579d2f25ba1f7d15d",
+    "trader_name": "no-brakes",
+    "tag": "Overall",
+    "overall_gain": 542.6926704439661,
+    "active_positions": 14,
+    "win_amount": 890.1219227938,
+    "loss_amount": -347.429252349834,
+    "win_rate": 0.75,
+    "total_current_value": 410.496933,
+    "total_positions": 27,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 85719,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
