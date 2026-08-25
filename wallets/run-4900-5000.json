@@ -190,5 +190,21 @@
     "win_count": 22,
     "rank": 4912,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x95dcb3d91f4c83b09fbc5a8b6f52a4a45d134b45",
+    "trader_name": "iliabouchouev",
+    "tag": "Overall",
+    "overall_gain": 22118.65287963725,
+    "active_positions": 1743,
+    "win_amount": 44035.09048678037,
+    "loss_amount": -21916.43760714311,
+    "win_rate": 0.7653631284916201,
+    "total_current_value": 79785.45788729897,
+    "total_positions": 8030,
+    "event_ct": 3580,
+    "win_count": 2740,
+    "rank": 4913,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
