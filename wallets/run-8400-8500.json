@@ -782,5 +782,21 @@
     "win_count": 3,
     "rank": 8449,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4382ddd1d9ffcf1dabb7f32010b1e3f8d818e766",
+    "trader_name": "InputInkling",
+    "tag": "Overall",
+    "overall_gain": 12396,
+    "active_positions": 4,
+    "win_amount": 13110,
+    "loss_amount": -714,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 8450,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
