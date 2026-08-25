@@ -1086,5 +1086,21 @@
     "win_count": 30,
     "rank": 81269,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5ef8e93ec94102c2c16d00fe5e032601da0399d0",
+    "trader_name": "mbymerostonz",
+    "tag": "Overall",
+    "overall_gain": 609.997135832975,
+    "active_positions": 66,
+    "win_amount": 824.1461857355171,
+    "loss_amount": -214.14904990254198,
+    "win_rate": 0.53125,
+    "total_current_value": 0.0000090585,
+    "total_positions": 137,
+    "event_ct": 32,
+    "win_count": 17,
+    "rank": 81270,
+    "trader_tags": "< 30 days old"
   }
 ]
