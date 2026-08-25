@@ -446,5 +446,21 @@
     "win_count": 12,
     "rank": 66829,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5bcd90dc168e93b7f6a7ac21c6bd46a6c338cf4b",
+    "trader_name": "buracosolar",
+    "tag": "Overall",
+    "overall_gain": 893.8753727756134,
+    "active_positions": 41,
+    "win_amount": 4346.473010661498,
+    "loss_amount": -3452.597637885886,
+    "win_rate": 0.7644859813084112,
+    "total_current_value": 1307.8247581800001,
+    "total_positions": 997,
+    "event_ct": 535,
+    "win_count": 409,
+    "rank": 66830,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
