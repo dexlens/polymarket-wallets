@@ -1166,5 +1166,21 @@
     "win_count": 5,
     "rank": 373,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x8e9eedf20dfa70956d49f608a205e402d9df38e4",
+    "trader_name": "Karajan",
+    "tag": "Overall",
+    "overall_gain": 336829.380292476,
+    "active_positions": 5824,
+    "win_amount": 355175.6363777168,
+    "loss_amount": -18346.256085240686,
+    "win_rate": 0.8992628992628993,
+    "total_current_value": 263834.925087109,
+    "total_positions": 7741,
+    "event_ct": 407,
+    "win_count": 366,
+    "rank": 374,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions; Politics PnL > $100k"
   }
 ]
