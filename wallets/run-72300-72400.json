@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 72344,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a33d87642d150e2fe38757dd86e1950279cd997",
+    "trader_name": "RiverLion17",
+    "tag": "Overall",
+    "overall_gain": 759.0074819544639,
+    "active_positions": 10,
+    "win_amount": 1718.1897000000001,
+    "loss_amount": -959.1822180455362,
+    "win_rate": 0.6,
+    "total_current_value": 398.3367,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 12,
+    "rank": 72345,
+    "trader_tags": "< 30 days old"
   }
 ]
