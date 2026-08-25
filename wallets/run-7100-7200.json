@@ -814,5 +814,21 @@
     "win_count": 190,
     "rank": 7151,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x734064497992bc42dcbd10d8de97416465317388",
+    "trader_name": "Omniel",
+    "tag": "Overall",
+    "overall_gain": 14979.603120835127,
+    "active_positions": 6,
+    "win_amount": 18129.157457835125,
+    "loss_amount": -3149.554337,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 7.000125,
+    "total_positions": 48,
+    "event_ct": 45,
+    "win_count": 40,
+    "rank": 7152,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
