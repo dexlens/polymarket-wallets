@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 33870,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0655a192f76f1e512e20d3aa51b7917384bd475d",
+    "trader_name": "albert.c",
+    "tag": "Overall",
+    "overall_gain": 2435.590775008927,
+    "active_positions": 11,
+    "win_amount": 6886.438641841756,
+    "loss_amount": -4450.847866832831,
+    "win_rate": 0.686046511627907,
+    "total_current_value": 1302.053575702,
+    "total_positions": 124,
+    "event_ct": 86,
+    "win_count": 59,
+    "rank": 33871,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
