@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 43386,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x96bbc0759beed0519e77177ad6db98c31a6df0fa",
+    "trader_name": "symstar",
+    "tag": "Overall",
+    "overall_gain": 1799.8316442877494,
+    "active_positions": 2,
+    "win_amount": 4021.219887091934,
+    "loss_amount": -2221.3882428041848,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.048721999999999994,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 43387,
+    "trader_tags": "< 30 days old"
   }
 ]
