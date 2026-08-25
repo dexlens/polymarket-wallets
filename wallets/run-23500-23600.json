@@ -1022,5 +1022,21 @@
     "win_count": 19,
     "rank": 23564,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x518e97a1590e7dec309599795b5ed99612272bbb",
+    "trader_name": "mmpv",
+    "tag": "Overall",
+    "overall_gain": 3805.34,
+    "active_positions": 0,
+    "win_amount": 3805.34,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 23565,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
