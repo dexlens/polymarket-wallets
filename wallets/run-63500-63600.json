@@ -526,5 +526,21 @@
     "win_count": 10,
     "rank": 63534,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7554969a8bb013c442df437bb57264389329073d",
+    "trader_name": "spidermarnn",
+    "tag": "Overall",
+    "overall_gain": 987.6674819784587,
+    "active_positions": 39,
+    "win_amount": 2055.486683270001,
+    "loss_amount": -1067.819201291542,
+    "win_rate": 0.8170731707317073,
+    "total_current_value": 54361.839346994995,
+    "total_positions": 115,
+    "event_ct": 82,
+    "win_count": 67,
+    "rank": 63535,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
