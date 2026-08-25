@@ -798,5 +798,21 @@
     "win_count": 38,
     "rank": 1150,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x80c5b2b9d09808bf015bdbd377b3f32f7029333d",
+    "trader_name": "BulkeyBull",
+    "tag": "Overall",
+    "overall_gain": 105892.5828367757,
+    "active_positions": 20,
+    "win_amount": 140732.33302264637,
+    "loss_amount": -34839.75018587069,
+    "win_rate": 0.47560975609756095,
+    "total_current_value": 1460.5113091155,
+    "total_positions": 123,
+    "event_ct": 82,
+    "win_count": 39,
+    "rank": 1151,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
