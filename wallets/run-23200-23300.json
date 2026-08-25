@@ -718,5 +718,21 @@
     "win_count": 6,
     "rank": 23245,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbc6c65193d9865f3d544529fa31bfb909077287c",
+    "trader_name": "CB-Compound",
+    "tag": "Overall",
+    "overall_gain": 3869.210519034003,
+    "active_positions": 50,
+    "win_amount": 6980.165561754342,
+    "loss_amount": -3110.955042720341,
+    "win_rate": 0.6519337016574586,
+    "total_current_value": 8037.483657356999,
+    "total_positions": 287,
+    "event_ct": 181,
+    "win_count": 118,
+    "rank": 23246,
+    "trader_tags": "> 1 year old"
   }
 ]
