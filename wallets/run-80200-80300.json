@@ -254,5 +254,21 @@
     "win_count": 19,
     "rank": 80217,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1a762dbae659c26c34461c22584e96be864ec4e9",
+    "trader_name": "teeyxy",
+    "tag": "Overall",
+    "overall_gain": 627.1380290100179,
+    "active_positions": 1,
+    "win_amount": 1117.4408020100182,
+    "loss_amount": -490.30277299999995,
+    "win_rate": 0.7045454545454546,
+    "total_current_value": 45.279657629999996,
+    "total_positions": 73,
+    "event_ct": 44,
+    "win_count": 31,
+    "rank": 80218,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
