@@ -1470,5 +1470,21 @@
     "win_count": 19,
     "rank": 59493,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x8eece5241270f53e0061fc484d39bb498d29600b",
+    "trader_name": "Opposite",
+    "tag": "Overall",
+    "overall_gain": 1092.287897417581,
+    "active_positions": 27,
+    "win_amount": 1459.2783624616197,
+    "loss_amount": -366.99046504403793,
+    "win_rate": 0.8221153846153846,
+    "total_current_value": 454.9131850225,
+    "total_positions": 388,
+    "event_ct": 208,
+    "win_count": 171,
+    "rank": 59494,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
