@@ -974,5 +974,21 @@
     "win_count": 13,
     "rank": 8461,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x587ff209ae13baa9913ae62eea5d34e1ba6ef9ff",
+    "trader_name": "bricky",
+    "tag": "Overall",
+    "overall_gain": 12375.48813153117,
+    "active_positions": 0,
+    "win_amount": 22240.485652172534,
+    "loss_amount": -9864.997520641364,
+    "win_rate": 0.5636363636363636,
+    "total_current_value": 0.040011050597988186,
+    "total_positions": 72,
+    "event_ct": 55,
+    "win_count": 31,
+    "rank": 8462,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
