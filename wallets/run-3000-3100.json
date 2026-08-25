@@ -222,5 +222,21 @@
     "win_count": 99,
     "rank": 3014,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a7d898b1be25e6799bc802fc539ccf1c0b81f87",
+    "trader_name": "dasasd",
+    "tag": "Overall",
+    "overall_gain": 38078.87011706005,
+    "active_positions": 0,
+    "win_amount": 224339.6412067058,
+    "loss_amount": -186260.77108964574,
+    "win_rate": 0.4666666666666667,
+    "total_current_value": 0.029018999999999996,
+    "total_positions": 24,
+    "event_ct": 15,
+    "win_count": 7,
+    "rank": 3015,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
