@@ -1406,5 +1406,21 @@
     "win_count": 15,
     "rank": 67489,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x75d1212a8f3fade3bd2fe09512e94e06f92bc4d0",
+    "trader_name": "innercirclee",
+    "tag": "Overall",
+    "overall_gain": 875.3893588592598,
+    "active_positions": 22,
+    "win_amount": 1465.2455058354608,
+    "loss_amount": -589.856146976201,
+    "win_rate": 0.7297297297297297,
+    "total_current_value": 2605.0213431420007,
+    "total_positions": 54,
+    "event_ct": 37,
+    "win_count": 27,
+    "rank": 67490,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
