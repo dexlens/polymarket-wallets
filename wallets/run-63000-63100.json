@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 63036,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9360a0870a570adaba9f455eb6c8cbdcc3c696d5",
+    "trader_name": "OregonSky",
+    "tag": "Overall",
+    "overall_gain": 998.7855113122151,
+    "active_positions": 60,
+    "win_amount": 1539.904905847508,
+    "loss_amount": -541.1193945352929,
+    "win_rate": 0.3673469387755102,
+    "total_current_value": 148.4060768585,
+    "total_positions": 169,
+    "event_ct": 98,
+    "win_count": 36,
+    "rank": 63037,
+    "trader_tags": "> 1 year old"
   }
 ]
