@@ -942,5 +942,21 @@
     "win_count": 3,
     "rank": 39060,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3adaadddf92874041363ba3db77e949bcb9f861a",
+    "trader_name": "itslirrato",
+    "tag": "Overall",
+    "overall_gain": 2048.743548467584,
+    "active_positions": 1,
+    "win_amount": 2801.580832646759,
+    "loss_amount": -752.837284179175,
+    "win_rate": 0.76,
+    "total_current_value": 44.95742,
+    "total_positions": 81,
+    "event_ct": 75,
+    "win_count": 57,
+    "rank": 39061,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
