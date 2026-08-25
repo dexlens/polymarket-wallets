@@ -878,5 +878,21 @@
     "win_count": 9,
     "rank": 64456,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x902093b267eb18a2fa2ea6f7f77d5da8cecf9e19",
+    "trader_name": "WAW5",
+    "tag": "Overall",
+    "overall_gain": 960.377013571653,
+    "active_positions": 0,
+    "win_amount": 960.377013571653,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006621,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 64457,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
