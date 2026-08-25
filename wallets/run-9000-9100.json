@@ -702,5 +702,21 @@
     "win_count": 33,
     "rank": 9044,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41b16cf99960f65cc950ecac31211930c0b02b37",
+    "trader_name": "sherard",
+    "tag": "Overall",
+    "overall_gain": 11592.969929,
+    "active_positions": 0,
+    "win_amount": 14214.438929000002,
+    "loss_amount": -2621.469,
+    "win_rate": 0.8064516129032258,
+    "total_current_value": 0,
+    "total_positions": 59,
+    "event_ct": 31,
+    "win_count": 25,
+    "rank": 9045,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
