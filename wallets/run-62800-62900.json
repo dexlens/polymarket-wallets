@@ -958,5 +958,21 @@
     "win_count": 3,
     "rank": 62861,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xedd3f46757088ef585eea69f7b185ce8e8b4e9c6",
+    "trader_name": "Zeratul",
+    "tag": "Overall",
+    "overall_gain": 1001.2182611582198,
+    "active_positions": 3,
+    "win_amount": 1800.163746962668,
+    "loss_amount": -798.945485804448,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.036172,
+    "total_positions": 25,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 62862,
+    "trader_tags": "> 1 year old"
   }
 ]
