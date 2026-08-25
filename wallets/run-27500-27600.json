@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 27568,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x84d38c6bc0b6a214f4bef329023b404722513dd5",
+    "trader_name": "JFK01",
+    "tag": "Overall",
+    "overall_gain": 3122.92376155766,
+    "active_positions": 34,
+    "win_amount": 32340.57619534701,
+    "loss_amount": -29217.652433789353,
+    "win_rate": 0.41025641025641024,
+    "total_current_value": 9076.6399260975,
+    "total_positions": 90,
+    "event_ct": 78,
+    "win_count": 32,
+    "rank": 27569,
+    "trader_tags": "> 1 year old"
   }
 ]
