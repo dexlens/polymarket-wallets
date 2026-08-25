@@ -510,5 +510,21 @@
     "win_count": 4,
     "rank": 59433,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ddd65c454b6ad7569713c0596b8f8b8801a024d",
+    "trader_name": "DBZ",
+    "tag": "Overall",
+    "overall_gain": 1094.5241443240552,
+    "active_positions": 19,
+    "win_amount": 1732.9109417493328,
+    "loss_amount": -638.3867974252779,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 337.2745922915001,
+    "total_positions": 26,
+    "event_ct": 15,
+    "win_count": 5,
+    "rank": 59434,
+    "trader_tags": ""
   }
 ]
