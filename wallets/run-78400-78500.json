@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 78473,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5b7520aaaa9097f473012a22d93f7bb19bb76bc9",
+    "trader_name": "tingyan",
+    "tag": "Overall",
+    "overall_gain": 656.443149125059,
+    "active_positions": 8,
+    "win_amount": 867.5294897600421,
+    "loss_amount": -211.086340634983,
+    "win_rate": 0.8076923076923077,
+    "total_current_value": 1143.594679,
+    "total_positions": 28,
+    "event_ct": 26,
+    "win_count": 21,
+    "rank": 78474,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
