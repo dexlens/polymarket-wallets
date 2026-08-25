@@ -878,5 +878,21 @@
     "win_count": 11,
     "rank": 84456,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x656eddcb1ff4bd432d22ee06edf6b09e865ed8d3",
+    "trader_name": "TrudeauLeftNut",
+    "tag": "Overall",
+    "overall_gain": 559.785422708195,
+    "active_positions": 35,
+    "win_amount": 1018.3006640026598,
+    "loss_amount": -458.51524129446494,
+    "win_rate": 0.7564102564102564,
+    "total_current_value": 40.999390635000005,
+    "total_positions": 85,
+    "event_ct": 78,
+    "win_count": 59,
+    "rank": 84457,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
