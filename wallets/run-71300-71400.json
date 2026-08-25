@@ -1198,5 +1198,21 @@
     "win_count": 7,
     "rank": 71376,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd003efe137fe26c043268d203a5bcb77fb2dde33",
+    "trader_name": "Pointweb10",
+    "tag": "Overall",
+    "overall_gain": 780.090947634512,
+    "active_positions": 4,
+    "win_amount": 780.25984968,
+    "loss_amount": -0.16890204548800025,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 13.812630872,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 71377,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
