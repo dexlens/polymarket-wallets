@@ -702,5 +702,21 @@
     "win_count": 3,
     "rank": 33845,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd8a1c070e0a0fe594318f7639b3f4f704e66d835",
+    "trader_name": "bogtsig",
+    "tag": "Overall",
+    "overall_gain": 2437.41558056994,
+    "active_positions": 1,
+    "win_amount": 2533.71002846809,
+    "loss_amount": -96.29444789815,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.012958,
+    "total_positions": 6,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 33846,
+    "trader_tags": "< 30 days old"
   }
 ]
