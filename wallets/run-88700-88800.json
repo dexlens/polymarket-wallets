@@ -702,5 +702,21 @@
     "win_count": 2,
     "rank": 88745,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d14000733ce56841f7756ad22e071a1607d3c5e",
+    "trader_name": "BoyceSherwood",
+    "tag": "Overall",
+    "overall_gain": 504.71909400000004,
+    "active_positions": 25,
+    "win_amount": 8830.719094,
+    "loss_amount": -8326,
+    "win_rate": 0.5967741935483871,
+    "total_current_value": 0,
+    "total_positions": 62,
+    "event_ct": 62,
+    "win_count": 37,
+    "rank": 88746,
+    "trader_tags": ""
   }
 ]
