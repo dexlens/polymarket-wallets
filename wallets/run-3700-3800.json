@@ -670,5 +670,21 @@
     "win_count": 3,
     "rank": 3742,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x96f452cb979b24e4ad4af05338b7a34a60d7edc5",
+    "trader_name": "persianfreedomloading",
+    "tag": "Overall",
+    "overall_gain": 30464.240454708353,
+    "active_positions": 2,
+    "win_amount": 33533.39599750355,
+    "loss_amount": -3069.15554279519,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 25231.785296391,
+    "total_positions": 35,
+    "event_ct": 22,
+    "win_count": 10,
+    "rank": 3743,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
