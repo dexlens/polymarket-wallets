@@ -126,5 +126,21 @@
     "win_count": 10,
     "rank": 57409,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b822e0e9d1ac562f9b37f9b8ab55b307b1a8914",
+    "trader_name": "NAM3",
+    "tag": "Overall",
+    "overall_gain": 1163.383343105053,
+    "active_positions": 0,
+    "win_amount": 1168.410243,
+    "loss_amount": -5.026899894947,
+    "win_rate": 0.5,
+    "total_current_value": 0.008467,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 57410,
+    "trader_tags": "> 1 year old"
   }
 ]
