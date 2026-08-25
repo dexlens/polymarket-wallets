@@ -974,5 +974,21 @@
     "win_count": 4,
     "rank": 62062,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x62d5c08813aae81dcc5495ec62380cfe2f4b8f10",
+    "trader_name": "3seater",
+    "tag": "Overall",
+    "overall_gain": 1020.520887459993,
+    "active_positions": 5,
+    "win_amount": 2289.152564489411,
+    "loss_amount": -1268.6316770294172,
+    "win_rate": 0.8490566037735849,
+    "total_current_value": 9616.351931604004,
+    "total_positions": 423,
+    "event_ct": 318,
+    "win_count": 270,
+    "rank": 62063,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
