@@ -1342,5 +1342,21 @@
     "win_count": 4,
     "rank": 59685,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x549c32c7e0fd52ca7e21eecd455e86e3981fa50c",
+    "trader_name": "Tudor",
+    "tag": "Overall",
+    "overall_gain": 1086.644251458814,
+    "active_positions": 0,
+    "win_amount": 1086.644251458814,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003201,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 59686,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
