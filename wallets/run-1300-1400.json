@@ -446,5 +446,21 @@
     "win_count": 3,
     "rank": 1328,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x46e6bf99b8b5b292812beb4168e5df3e2975d4cd",
+    "trader_name": "ZZB2",
+    "tag": "Overall",
+    "overall_gain": 91049.22233110858,
+    "active_positions": 74,
+    "win_amount": 136849.77394626616,
+    "loss_amount": -45800.55161515755,
+    "win_rate": 0.8539823008849557,
+    "total_current_value": 0.5759149999999998,
+    "total_positions": 818,
+    "event_ct": 452,
+    "win_count": 386,
+    "rank": 1329,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
