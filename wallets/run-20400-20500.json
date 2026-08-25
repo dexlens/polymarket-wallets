@@ -318,5 +318,21 @@
     "win_count": 5,
     "rank": 20420,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf399a572a8dfe7b7b45383a06b6ee421b2e47005",
+    "trader_name": "morphium",
+    "tag": "Overall",
+    "overall_gain": 4517.340248470733,
+    "active_positions": 6,
+    "win_amount": 8048.352516836733,
+    "loss_amount": -3531.0122683659997,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.012099794,
+    "total_positions": 103,
+    "event_ct": 49,
+    "win_count": 35,
+    "rank": 20421,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
