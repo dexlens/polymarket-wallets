@@ -1390,5 +1390,21 @@
     "win_count": 5,
     "rank": 32688,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d17b612ed89ce67a6387f148c98261c11a2ac75",
+    "trader_name": "jasiek",
+    "tag": "Overall",
+    "overall_gain": 2532.0858741800007,
+    "active_positions": 2,
+    "win_amount": 9882.25436918,
+    "loss_amount": -7350.168495000001,
+    "win_rate": 0.27848101265822783,
+    "total_current_value": 0,
+    "total_positions": 87,
+    "event_ct": 79,
+    "win_count": 22,
+    "rank": 32689,
+    "trader_tags": "> 1 year old"
   }
 ]
