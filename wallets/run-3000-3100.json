@@ -446,5 +446,21 @@
     "win_count": 63,
     "rank": 3028,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x5077adbf058dce1e9575838dae62b50a17c0badc",
+    "trader_name": "huosheng",
+    "tag": "Overall",
+    "overall_gain": 37863.31333866472,
+    "active_positions": 0,
+    "win_amount": 47117.57677155935,
+    "loss_amount": -9254.263432894622,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.049572,
+    "total_positions": 18,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 3029,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
