@@ -942,5 +942,21 @@
     "win_count": 22,
     "rank": 8359,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xfaf5346154ddeb940da57a82fd70150d175cb9b8",
+    "trader_name": "polygoon",
+    "tag": "Overall",
+    "overall_gain": 12553.913858741955,
+    "active_positions": 0,
+    "win_amount": 14148.376412741954,
+    "loss_amount": -1594.4625540000002,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.008063,
+    "total_positions": 18,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 8360,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
