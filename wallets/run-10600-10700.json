@@ -1246,5 +1246,21 @@
     "win_count": 3,
     "rank": 10678,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f826672c7364ce1cb6028be09f3e2346e205ba7",
+    "trader_name": "gsk0",
+    "tag": "Overall",
+    "overall_gain": 9914,
+    "active_positions": 3,
+    "win_amount": 28228,
+    "loss_amount": -18314,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 10679,
+    "trader_tags": ""
   }
 ]
