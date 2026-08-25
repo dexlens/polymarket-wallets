@@ -942,5 +942,21 @@
     "win_count": 326,
     "rank": 5259,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x62648c452ccf7fd55240719c5ffd730c2cb89937",
+    "trader_name": "Aquati",
+    "tag": "Overall",
+    "overall_gain": 20601.90604094389,
+    "active_positions": 13,
+    "win_amount": 44161.146800557755,
+    "loss_amount": -23559.24075961384,
+    "win_rate": 0.6638888888888889,
+    "total_current_value": 4530.577376265,
+    "total_positions": 665,
+    "event_ct": 360,
+    "win_count": 239,
+    "rank": 5260,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
