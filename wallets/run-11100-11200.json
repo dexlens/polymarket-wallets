@@ -494,5 +494,21 @@
     "win_count": 4,
     "rank": 11131,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x43e98f912cd6ddadaad88d3297e78c0648e688e5",
+    "trader_name": "ashash111",
+    "tag": "Overall",
+    "overall_gain": 9456.983673547902,
+    "active_positions": 13,
+    "win_amount": 11006.211482010662,
+    "loss_amount": -1549.227808462761,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 13130.247912406498,
+    "total_positions": 38,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 11132,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
