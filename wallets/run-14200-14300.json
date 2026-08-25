@@ -990,5 +990,21 @@
     "win_count": 6,
     "rank": 14262,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x53ad4611fe22b837bc4560dc5c1aa71ffbe54e8f",
+    "trader_name": "bizwood",
+    "tag": "Overall",
+    "overall_gain": 6905.14,
+    "active_positions": 0,
+    "win_amount": 6905.14,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 14263,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
