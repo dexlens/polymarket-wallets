@@ -158,5 +158,21 @@
     "win_count": 16,
     "rank": 85111,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8b228e867b27bc1fee3bc3231fc7d6e1aa2d0f65",
+    "trader_name": "vvvffddd",
+    "tag": "Overall",
+    "overall_gain": 550.606139355364,
+    "active_positions": 1,
+    "win_amount": 550.606139355364,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 402.53079584999995,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 13,
+    "rank": 85112,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
