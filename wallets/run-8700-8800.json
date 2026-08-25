@@ -542,5 +542,21 @@
     "win_count": 120,
     "rank": 8734,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c0ccd8afac56a1cd110e0b5126d0da730619206",
+    "trader_name": "tamama1",
+    "tag": "Overall",
+    "overall_gain": 12004.38,
+    "active_positions": 2,
+    "win_amount": 12005.98,
+    "loss_amount": -1.6,
+    "win_rate": 0.875,
+    "total_current_value": 5.558,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 8735,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
