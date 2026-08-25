@@ -350,5 +350,21 @@
     "win_count": 11,
     "rank": 8222,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7fe25535251bf2203601101b90d2585297829d2",
+    "trader_name": "groverwunsch",
+    "tag": "Overall",
+    "overall_gain": 12807.369091,
+    "active_positions": 1,
+    "win_amount": 12862.869091,
+    "loss_amount": -55.5,
+    "win_rate": 0.9473684210526315,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 19,
+    "win_count": 18,
+    "rank": 8223,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
