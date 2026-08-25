@@ -1566,5 +1566,21 @@
     "win_count": 15,
     "rank": 42799,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc8f01174ec4d6bd8540fa98564d3da501ffe981b",
+    "trader_name": "LYONx",
+    "tag": "Overall",
+    "overall_gain": 1830.7977000000003,
+    "active_positions": 1,
+    "win_amount": 4090.8777,
+    "loss_amount": -2260.08,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 11.19,
+    "total_positions": 21,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 42800,
+    "trader_tags": "< 30 days old; 67%+ Positions in US Election "
   }
 ]
