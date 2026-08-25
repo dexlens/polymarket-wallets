@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 9030,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0f8eb0d3521f61b7a83428c321dd7fb296c63082",
+    "trader_name": "Predixy",
+    "tag": "Overall",
+    "overall_gain": 11609.565215188431,
+    "active_positions": 1186,
+    "win_amount": 552393.6146330294,
+    "loss_amount": -540784.049417841,
+    "win_rate": 0.46851549755301797,
+    "total_current_value": 2641.2509104455,
+    "total_positions": 20570,
+    "event_ct": 9195,
+    "win_count": 4308,
+    "rank": 9031,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
