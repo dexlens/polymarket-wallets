@@ -1182,5 +1182,21 @@
     "win_count": 2,
     "rank": 21574,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x45a39326be48a1209bc9e641a216513cf19512f0",
+    "trader_name": "schneider",
+    "tag": "Overall",
+    "overall_gain": 4218.501218553338,
+    "active_positions": 64,
+    "win_amount": 6961.723398181768,
+    "loss_amount": -2743.2221796284293,
+    "win_rate": 0.8435374149659864,
+    "total_current_value": 14244.098131470999,
+    "total_positions": 483,
+    "event_ct": 294,
+    "win_count": 248,
+    "rank": 21575,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
