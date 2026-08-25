@@ -1182,5 +1182,21 @@
     "win_count": 8,
     "rank": 65575,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1d71b49b623a211dfc22d1a316f411b28500241d",
+    "trader_name": "sunian",
+    "tag": "Overall",
+    "overall_gain": 928.684271,
+    "active_positions": 0,
+    "win_amount": 953.884271,
+    "loss_amount": -25.2,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 65576,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
