@@ -78,5 +78,21 @@
     "win_count": 4,
     "rank": 42106,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e6f9fc901e00590aba06905e62542971d12b5fc",
+    "trader_name": "luckybrianchiu",
+    "tag": "Overall",
+    "overall_gain": 1870.648084619549,
+    "active_positions": 15,
+    "win_amount": 9901.119494925393,
+    "loss_amount": -8030.471410305846,
+    "win_rate": 0.5342465753424658,
+    "total_current_value": 611.74327657,
+    "total_positions": 958,
+    "event_ct": 730,
+    "win_count": 390,
+    "rank": 42107,
+    "trader_tags": "< 30 days old"
   }
 ]
