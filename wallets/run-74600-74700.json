@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 74634,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7c092b2cf5ae5cd3336547f008b8328aec210d70",
+    "trader_name": "holymoly-faker",
+    "tag": "Overall",
+    "overall_gain": 719.5693872164436,
+    "active_positions": 18,
+    "win_amount": 1493.5319210156788,
+    "loss_amount": -773.962533799235,
+    "win_rate": 0.8247422680412371,
+    "total_current_value": 1.1987248739999996,
+    "total_positions": 713,
+    "event_ct": 97,
+    "win_count": 80,
+    "rank": 74635,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
