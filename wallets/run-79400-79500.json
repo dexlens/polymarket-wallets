@@ -1502,5 +1502,21 @@
     "win_count": 4,
     "rank": 79495,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x133af63f51fb26536a8a339a1c52938b6111af2f",
+    "trader_name": "realushi",
+    "tag": "Overall",
+    "overall_gain": 639.0546766789998,
+    "active_positions": 2,
+    "win_amount": 8203.641490000004,
+    "loss_amount": -7564.586813321001,
+    "win_rate": 0.7361733931240658,
+    "total_current_value": 60.301280795,
+    "total_positions": 1346,
+    "event_ct": 1338,
+    "win_count": 985,
+    "rank": 79496,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
