@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 59965,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9de016cc742f0e4dc0cde7884c130555522cd8b7",
+    "trader_name": "dipple",
+    "tag": "Overall",
+    "overall_gain": 1077.553609649929,
+    "active_positions": 0,
+    "win_amount": 6462.1301585349065,
+    "loss_amount": -5384.576548884972,
+    "win_rate": 0.6137105549510338,
+    "total_current_value": 0.556225,
+    "total_positions": 1157,
+    "event_ct": 919,
+    "win_count": 564,
+    "rank": 59966,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
