@@ -462,5 +462,21 @@
     "win_count": 6,
     "rank": 20929,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3dd8722827bee815ae8dccd1080576fb42f2d3dd",
+    "trader_name": "oidz",
+    "tag": "Overall",
+    "overall_gain": 4381.492836147353,
+    "active_positions": 17,
+    "win_amount": 7154.46648109958,
+    "loss_amount": -2772.973644952226,
+    "win_rate": 0.6293706293706294,
+    "total_current_value": 2928.930721479,
+    "total_positions": 176,
+    "event_ct": 143,
+    "win_count": 90,
+    "rank": 20930,
+    "trader_tags": ""
   }
 ]
