@@ -1486,5 +1486,21 @@
     "win_count": 11,
     "rank": 9893,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x04e575370013a672d2859e9fca487eefff549597",
+    "trader_name": "ronaldocr8",
+    "tag": "Overall",
+    "overall_gain": 10595.98711742383,
+    "active_positions": 4,
+    "win_amount": 11533.9261338219,
+    "loss_amount": -937.9390163980711,
+    "win_rate": 0.4,
+    "total_current_value": 0.00857,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 9894,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
