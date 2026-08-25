@@ -1374,5 +1374,21 @@
     "win_count": 14,
     "rank": 31787,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9830b75d4be3644badd684503556e584048adf31",
+    "trader_name": "chaosagent",
+    "tag": "Overall",
+    "overall_gain": 2621.697375864201,
+    "active_positions": 12,
+    "win_amount": 9032.156424470111,
+    "loss_amount": -6410.4590486059105,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.018667,
+    "total_positions": 37,
+    "event_ct": 28,
+    "win_count": 20,
+    "rank": 31788,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
