@@ -1534,5 +1534,21 @@
     "win_count": 66,
     "rank": 3496,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2301e1d2229a4515f48b41153e874c717df2c95f",
+    "trader_name": "Cesaron22f",
+    "tag": "Overall",
+    "overall_gain": 32621.129938378923,
+    "active_positions": 4,
+    "win_amount": 66881.13078297752,
+    "loss_amount": -34260.0008445986,
+    "win_rate": 0.62,
+    "total_current_value": 33.741523,
+    "total_positions": 50,
+    "event_ct": 50,
+    "win_count": 31,
+    "rank": 3497,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
