@@ -286,5 +286,21 @@
     "win_count": 5,
     "rank": 79319,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x88c2fa3e7cffe1e5e7ddae979980cd4e4aab39d1",
+    "trader_name": "Easymoneykin",
+    "tag": "Overall",
+    "overall_gain": 641.87634051556,
+    "active_positions": 1,
+    "win_amount": 641.87634051556,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 140.00745799999999,
+    "total_positions": 69,
+    "event_ct": 24,
+    "win_count": 24,
+    "rank": 79320,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
