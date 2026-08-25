@@ -894,5 +894,21 @@
     "win_count": 19,
     "rank": 77157,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5de93ce09ac22c9e673e144d46a654a57e2e67d1",
+    "trader_name": "YCCrack",
+    "tag": "Overall",
+    "overall_gain": 679.0349939797541,
+    "active_positions": 2,
+    "win_amount": 679.0349939797541,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.023684999999999998,
+    "total_positions": 10,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 77158,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
