@@ -638,5 +638,21 @@
     "win_count": 3,
     "rank": 60941,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20451285d66c61bc314eba2d888dc93b25f57ebe",
+    "trader_name": "terrigordon",
+    "tag": "Overall",
+    "overall_gain": 1049.2915494395654,
+    "active_positions": 0,
+    "win_amount": 2468.3852684291414,
+    "loss_amount": -1419.0937189895758,
+    "win_rate": 0.631578947368421,
+    "total_current_value": 0.008087,
+    "total_positions": 22,
+    "event_ct": 19,
+    "win_count": 12,
+    "rank": 60942,
+    "trader_tags": "> 1 year old"
   }
 ]
