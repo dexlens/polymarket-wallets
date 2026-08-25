@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 3889,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xf83eb91d77cb7141e41e1ca7592e49fa2fc0fe3a",
+    "trader_name": "DigitalOpportunityFund",
+    "tag": "Overall",
+    "overall_gain": 29090.75187662898,
+    "active_positions": 2,
+    "win_amount": 30137.5343612305,
+    "loss_amount": -1046.7824846015196,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 14917.5116056005,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 3890,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
