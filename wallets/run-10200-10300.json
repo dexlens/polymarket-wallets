@@ -302,5 +302,21 @@
     "win_count": 7,
     "rank": 10219,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa0bfebbcf4c0ff7fe159286984267fa515a1b02b",
+    "trader_name": "nicusordanpresedinte",
+    "tag": "Overall",
+    "overall_gain": 10287.406945936105,
+    "active_positions": 0,
+    "win_amount": 10287.406945936105,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.010852,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 10220,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
