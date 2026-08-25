@@ -1582,5 +1582,21 @@
     "win_count": 49,
     "rank": 85000,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x1560e2c5bc0e129c4cf1fcf767a66bbd1a1cdda1",
+    "trader_name": "zsFSDg",
+    "tag": "Overall",
+    "overall_gain": 552.331588882221,
+    "active_positions": 5,
+    "win_amount": 1058.64426,
+    "loss_amount": -506.31267111777896,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 85001,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
