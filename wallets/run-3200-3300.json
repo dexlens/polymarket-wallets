@@ -1118,5 +1118,21 @@
     "win_count": 9,
     "rank": 3270,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d26d98cd61a2de8ce4a37a05cf9537ec85fa7d1",
+    "trader_name": "Decayer",
+    "tag": "Overall",
+    "overall_gain": 35074.242863831045,
+    "active_positions": 56,
+    "win_amount": 50052.6653100404,
+    "loss_amount": -14978.422446209352,
+    "win_rate": 0.5401069518716578,
+    "total_current_value": 42793.42578218749,
+    "total_positions": 418,
+    "event_ct": 187,
+    "win_count": 101,
+    "rank": 3271,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
