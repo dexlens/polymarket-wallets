@@ -334,5 +334,21 @@
     "win_count": 80,
     "rank": 80822,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18e8b61a95f5fc49b73dadbd55b0e3f9c38f9cf8",
+    "trader_name": "kandc",
+    "tag": "Overall",
+    "overall_gain": 617.1601438160001,
+    "active_positions": 1,
+    "win_amount": 720.1565038159999,
+    "loss_amount": -102.99636,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.011267,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 80823,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
