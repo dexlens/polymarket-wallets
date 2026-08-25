@@ -670,5 +670,21 @@
     "win_count": 13,
     "rank": 4842,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xffd0dc90773fedbd065db7ab22e194492628369c",
+    "trader_name": "NeoWick",
+    "tag": "Overall",
+    "overall_gain": 22458.17142823442,
+    "active_positions": 126,
+    "win_amount": 26368.24412923442,
+    "loss_amount": -3910.072701000001,
+    "win_rate": 0.9910913140311804,
+    "total_current_value": 0.0004,
+    "total_positions": 1387,
+    "event_ct": 449,
+    "win_count": 445,
+    "rank": 4843,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
