@@ -1486,5 +1486,21 @@
     "win_count": 8,
     "rank": 33394,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7628dd1b961582d7968c6fac70c20fe7bee5a7ef",
+    "trader_name": "cleanfloors",
+    "tag": "Overall",
+    "overall_gain": 2474.091481417965,
+    "active_positions": 0,
+    "win_amount": 2474.091481417965,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.06239,
+    "total_positions": 14,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 33395,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
