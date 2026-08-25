@@ -46,5 +46,21 @@
     "win_count": 1,
     "rank": 9503,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9078e107f3bcdba65afed7e77d1775945f2126af",
+    "trader_name": "Xendo1",
+    "tag": "Overall",
+    "overall_gain": 11027.300246185645,
+    "active_positions": 25,
+    "win_amount": 14955.168389705439,
+    "loss_amount": -3927.868143519794,
+    "win_rate": 0.6065573770491803,
+    "total_current_value": 8101.6656866124995,
+    "total_positions": 143,
+    "event_ct": 61,
+    "win_count": 37,
+    "rank": 9504,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
