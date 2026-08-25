@@ -1102,5 +1102,21 @@
     "win_count": 7,
     "rank": 15169,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc480e60076395764bd543068d3376741da3fbb68",
+    "trader_name": "Toums",
+    "tag": "Overall",
+    "overall_gain": 6408.0835406355945,
+    "active_positions": 14,
+    "win_amount": 17874.100341189074,
+    "loss_amount": -11466.01680055348,
+    "win_rate": 0.25,
+    "total_current_value": 530.151206956,
+    "total_positions": 19,
+    "event_ct": 12,
+    "win_count": 3,
+    "rank": 15170,
+    "trader_tags": "> 1 year old"
   }
 ]
