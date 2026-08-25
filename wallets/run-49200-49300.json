@@ -1150,5 +1150,21 @@
     "win_count": 3,
     "rank": 49273,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e5ef9f6da4e5b09c6122e5e6dd42df8f6c0bf98",
+    "trader_name": "Poonhub",
+    "tag": "Overall",
+    "overall_gain": 1514.999878670796,
+    "active_positions": 2,
+    "win_amount": 2862.795917004668,
+    "loss_amount": -1347.7960383338718,
+    "win_rate": 0.26666666666666666,
+    "total_current_value": 251.52444514649994,
+    "total_positions": 38,
+    "event_ct": 30,
+    "win_count": 8,
+    "rank": 49274,
+    "trader_tags": ""
   }
 ]
