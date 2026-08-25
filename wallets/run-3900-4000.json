@@ -894,5 +894,21 @@
     "win_count": 24,
     "rank": 3956,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x061ec04628f0ce93ae913036f8906c3ed61afdff",
+    "trader_name": "Jkidi",
+    "tag": "Overall",
+    "overall_gain": 28439.24529543208,
+    "active_positions": 4,
+    "win_amount": 52351.53600610547,
+    "loss_amount": -23912.29071067338,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.020189,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 3957,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
