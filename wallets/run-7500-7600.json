@@ -1390,5 +1390,21 @@
     "win_count": 3,
     "rank": 7587,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc8c149d5d8afc19f8d4e5e6e96988265bd04f916",
+    "trader_name": "TKO174",
+    "tag": "Overall",
+    "overall_gain": 13961.780000000002,
+    "active_positions": 14,
+    "win_amount": 33979.58,
+    "loss_amount": -20017.8,
+    "win_rate": 0.5853658536585366,
+    "total_current_value": 0,
+    "total_positions": 42,
+    "event_ct": 41,
+    "win_count": 24,
+    "rank": 7588,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
