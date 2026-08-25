@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 814,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c593aeb73ebdadbc9ce76d4264a6a2af4011766",
+    "trader_name": "eightpenguins",
+    "tag": "Overall",
+    "overall_gain": 154276.45885590086,
+    "active_positions": 97,
+    "win_amount": 241721.525880494,
+    "loss_amount": -87445.06702459314,
+    "win_rate": 0.6111111111111112,
+    "total_current_value": 125025.80770542749,
+    "total_positions": 424,
+    "event_ct": 180,
+    "win_count": 110,
+    "rank": 815,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
