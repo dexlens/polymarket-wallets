@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 7062,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x2a65e790f7b4c88936158e492061ea89c9bc5015",
+    "trader_name": "whyyi",
+    "tag": "Overall",
+    "overall_gain": 15115.680451357606,
+    "active_positions": 1,
+    "win_amount": 19567.04664805,
+    "loss_amount": -4451.366196692392,
+    "win_rate": 0.86,
+    "total_current_value": 0,
+    "total_positions": 66,
+    "event_ct": 50,
+    "win_count": 43,
+    "rank": 7063,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
