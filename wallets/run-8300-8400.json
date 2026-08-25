@@ -414,5 +414,21 @@
     "win_count": 2,
     "rank": 8326,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x95c8499569dac8faea4f9a21c553184b4202f511",
+    "trader_name": "INTERNETYAMERO",
+    "tag": "Overall",
+    "overall_gain": 12610.89855958542,
+    "active_positions": 381,
+    "win_amount": 17851.658882851847,
+    "loss_amount": -5240.760323266439,
+    "win_rate": 0.7215909090909091,
+    "total_current_value": 4020.385237244001,
+    "total_positions": 1478,
+    "event_ct": 352,
+    "win_count": 254,
+    "rank": 8327,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
