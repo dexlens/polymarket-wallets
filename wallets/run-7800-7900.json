@@ -1086,5 +1086,21 @@
     "win_count": 7,
     "rank": 7868,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8d88d51a302d3bfb8fc2f71abdfd5f676cbd1e28",
+    "trader_name": "rocky42016",
+    "tag": "Overall",
+    "overall_gain": 13383.264168359963,
+    "active_positions": 263,
+    "win_amount": 108266.94369923788,
+    "loss_amount": -94883.67953087791,
+    "win_rate": 0.42383512544802865,
+    "total_current_value": 12043.1845244285,
+    "total_positions": 4365,
+    "event_ct": 1116,
+    "win_count": 473,
+    "rank": 7869,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
