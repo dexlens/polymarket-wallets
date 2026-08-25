@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 52417,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5cc5df309bb6a33c30475b353066b728a898bebd",
+    "trader_name": "ProtexFortress",
+    "tag": "Overall",
+    "overall_gain": 1372.8768987750527,
+    "active_positions": 1,
+    "win_amount": 1547.8244547750528,
+    "loss_amount": -174.94755600000002,
+    "win_rate": 0.875,
+    "total_current_value": 229.885053,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 52418,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
