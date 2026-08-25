@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 89420,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf54c0fade240c649fc6c17e2c87387a8c033e6cc",
+    "trader_name": "4uck-betting",
+    "tag": "Overall",
+    "overall_gain": 496.720766677583,
+    "active_positions": 37,
+    "win_amount": 11351.674871671017,
+    "loss_amount": -10854.954104993434,
+    "win_rate": 0.4129032258064516,
+    "total_current_value": 2115.13226823,
+    "total_positions": 207,
+    "event_ct": 155,
+    "win_count": 64,
+    "rank": 89421,
+    "trader_tags": "> 1 year old"
   }
 ]
