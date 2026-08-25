@@ -1342,5 +1342,21 @@
     "win_count": 3,
     "rank": 8984,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4fbbe686f98ba566e17cb27986787353cebc0cbf",
+    "trader_name": "kyp",
+    "tag": "Overall",
+    "overall_gain": 11661.0903822,
+    "active_positions": 0,
+    "win_amount": 11950.920382200002,
+    "loss_amount": -289.83,
+    "win_rate": 0.7916666666666666,
+    "total_current_value": 0.00005,
+    "total_positions": 35,
+    "event_ct": 24,
+    "win_count": 19,
+    "rank": 8985,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
