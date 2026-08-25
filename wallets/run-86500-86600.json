@@ -190,5 +190,21 @@
     "win_count": 45,
     "rank": 86513,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02da795c03a09263e9b599ea0728eb0a8208dac6",
+    "trader_name": "ironset",
+    "tag": "Overall",
+    "overall_gain": 532.1705719436,
+    "active_positions": 37,
+    "win_amount": 1519.189376086934,
+    "loss_amount": -987.0188041433341,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 23.158017,
+    "total_positions": 120,
+    "event_ct": 119,
+    "win_count": 85,
+    "rank": 86514,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
