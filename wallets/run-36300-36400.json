@@ -734,5 +734,21 @@
     "win_count": 3,
     "rank": 36347,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x186f5fcea70f39cddf7bdd06a7e903317b79113a",
+    "trader_name": "vivienlue",
+    "tag": "Overall",
+    "overall_gain": 2236.3938599999997,
+    "active_positions": 1,
+    "win_amount": 2238.31886,
+    "loss_amount": -1.9249999999999972,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 25.025000000000002,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 36348,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
