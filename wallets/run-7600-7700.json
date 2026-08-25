@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 7646,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xfc6aa86f6c163699c395d0e3556ead8f0d2f6dfa",
+    "trader_name": "vact",
+    "tag": "Overall",
+    "overall_gain": 13835.099313870001,
+    "active_positions": 70,
+    "win_amount": 23103.182711,
+    "loss_amount": -9268.083397130002,
+    "win_rate": 0.375,
+    "total_current_value": 57.21048,
+    "total_positions": 139,
+    "event_ct": 48,
+    "win_count": 18,
+    "rank": 7647,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
