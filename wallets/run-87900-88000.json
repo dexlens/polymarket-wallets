@@ -254,5 +254,21 @@
     "win_count": 2,
     "rank": 87917,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b2a8cebf379a59342d2cd962b4a5244f1db2b25",
+    "trader_name": "Manual-Now-Anxiety",
+    "tag": "Overall",
+    "overall_gain": 513.9731320000001,
+    "active_positions": 0,
+    "win_amount": 553.5091320000001,
+    "loss_amount": -39.536,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 87918,
+    "trader_tags": "< 30 days old"
   }
 ]
