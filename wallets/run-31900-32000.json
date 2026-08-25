@@ -1566,5 +1566,21 @@
     "win_count": 7,
     "rank": 31999,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x05990c4cd045f037df63143c522664f6c508af84",
+    "trader_name": "poruhc",
+    "tag": "Overall",
+    "overall_gain": 2600.2323365680136,
+    "active_positions": 5,
+    "win_amount": 4545.9840061480145,
+    "loss_amount": -1945.75166958,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 284.234862,
+    "total_positions": 37,
+    "event_ct": 36,
+    "win_count": 33,
+    "rank": 32000,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
