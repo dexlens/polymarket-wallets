@@ -126,5 +126,21 @@
     "win_count": 7,
     "rank": 9708,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xab8a40eab255e63fe2cf501cf86ee4477f5b1544",
+    "trader_name": "JASON3",
+    "tag": "Overall",
+    "overall_gain": 10789.476921000001,
+    "active_positions": 1,
+    "win_amount": 10849.292921000002,
+    "loss_amount": -59.816,
+    "win_rate": 0.8,
+    "total_current_value": 35,
+    "total_positions": 60,
+    "event_ct": 30,
+    "win_count": 24,
+    "rank": 9709,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
