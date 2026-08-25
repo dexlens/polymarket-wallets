@@ -846,5 +846,21 @@
     "win_count": 60,
     "rank": 50654,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x695cdcdd33d63477cb42bc1d928be2328fc13b23",
+    "trader_name": "algoggogo",
+    "tag": "Overall",
+    "overall_gain": 1456.0134261030478,
+    "active_positions": 3,
+    "win_amount": 1456.0134261030478,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 201.14751276,
+    "total_positions": 36,
+    "event_ct": 24,
+    "win_count": 24,
+    "rank": 50655,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
