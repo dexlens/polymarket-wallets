@@ -1438,5 +1438,21 @@
     "win_count": 45,
     "rank": 7390,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d3bb57b764c54c86298fe98927820193f245b16",
+    "trader_name": "woood1d",
+    "tag": "Overall",
+    "overall_gain": 14400.447815,
+    "active_positions": 1,
+    "win_amount": 14400.447815,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 200.54737500000002,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 7391,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
