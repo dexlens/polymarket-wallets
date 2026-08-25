@@ -718,5 +718,21 @@
     "win_count": 85,
     "rank": 6045,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7a56601af1451cc3a6610ea118abe9f08cd16bbb",
+    "trader_name": "Isokingae",
+    "tag": "Overall",
+    "overall_gain": 17748.322447048966,
+    "active_positions": 5,
+    "win_amount": 38226.672833647426,
+    "loss_amount": -20478.350386598457,
+    "win_rate": 0.875,
+    "total_current_value": 32.024428,
+    "total_positions": 121,
+    "event_ct": 40,
+    "win_count": 35,
+    "rank": 6046,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
