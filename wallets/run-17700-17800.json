@@ -798,5 +798,21 @@
     "win_count": 20,
     "rank": 17750,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xead0cdcc51e7f6c607af6bd257f9b283bfa1e2dc",
+    "trader_name": "pfsgbsldfng",
+    "tag": "Overall",
+    "overall_gain": 5260.5,
+    "active_positions": 1,
+    "win_amount": 5268.5,
+    "loss_amount": -8,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 17751,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
