@@ -1406,5 +1406,21 @@
     "win_count": 12,
     "rank": 48489,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8424d59c358324c48ee4286b691e9ca0b6aae38f",
+    "trader_name": "TheBoringCompany",
+    "tag": "Overall",
+    "overall_gain": 1549.8137837499235,
+    "active_positions": 1,
+    "win_amount": 2262.2819609426483,
+    "loss_amount": -712.4681771927249,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 2330.4201,
+    "total_positions": 191,
+    "event_ct": 17,
+    "win_count": 11,
+    "rank": 48490,
+    "trader_tags": ""
   }
 ]
