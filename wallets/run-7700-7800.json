@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 7755,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b3e39cf54c39ac949917084b03a898f9f609913",
+    "trader_name": "Raevian",
+    "tag": "Overall",
+    "overall_gain": 13611.340606910222,
+    "active_positions": 3,
+    "win_amount": 14336.104653292068,
+    "loss_amount": -724.764046381844,
+    "win_rate": 0.8541666666666666,
+    "total_current_value": 13.962865,
+    "total_positions": 50,
+    "event_ct": 48,
+    "win_count": 41,
+    "rank": 7756,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
