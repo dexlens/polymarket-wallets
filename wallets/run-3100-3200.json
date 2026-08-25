@@ -958,5 +958,21 @@
     "win_count": 13,
     "rank": 3160,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86b32df484bc6cfa72046ae9a62d3737d7b683b6",
+    "trader_name": "pvpgvgxvx",
+    "tag": "Overall",
+    "overall_gain": 36261.384295605414,
+    "active_positions": 7,
+    "win_amount": 39835.801919937505,
+    "loss_amount": -3574.4176243320844,
+    "win_rate": 0.5434782608695652,
+    "total_current_value": 9.675208,
+    "total_positions": 64,
+    "event_ct": 46,
+    "win_count": 25,
+    "rank": 3161,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
