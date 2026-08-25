@@ -158,5 +158,21 @@
     "win_count": 4,
     "rank": 1110,
     "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x20322d5ab3ce70a98ef4c484c62a94147217d577",
+    "trader_name": "HLB",
+    "tag": "Overall",
+    "overall_gain": 109911.53906710442,
+    "active_positions": 0,
+    "win_amount": 300103.85909606394,
+    "loss_amount": -190192.3200289595,
+    "win_rate": 0.6315104166666666,
+    "total_current_value": 2.1147320000000005,
+    "total_positions": 1598,
+    "event_ct": 768,
+    "win_count": 485,
+    "rank": 1111,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions"
   }
 ]
