@@ -270,5 +270,21 @@
     "win_count": 31,
     "rank": 8117,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x55591111820961d217a5bd98f1a25dcee6264b39",
+    "trader_name": "6stone",
+    "tag": "Overall",
+    "overall_gain": 12960.901705839648,
+    "active_positions": 2,
+    "win_amount": 14059.81854083965,
+    "loss_amount": -1098.916835,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.013499,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 8118,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
