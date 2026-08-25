@@ -1246,5 +1246,21 @@
     "win_count": 5,
     "rank": 70379,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1dc15b921c0e0a254dad508eec2870cdf392fb86",
+    "trader_name": "giefgold",
+    "tag": "Overall",
+    "overall_gain": 802,
+    "active_positions": 1,
+    "win_amount": 902,
+    "loss_amount": -100,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 70380,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
