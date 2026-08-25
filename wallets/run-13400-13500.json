@@ -1070,5 +1070,21 @@
     "win_count": 7,
     "rank": 13467,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7fe68cbaca0b778dab7c1adbb9992bb1f4f6b39e",
+    "trader_name": "MisterSandman",
+    "tag": "Overall",
+    "overall_gain": 7386.167370421768,
+    "active_positions": 0,
+    "win_amount": 58382.01927955543,
+    "loss_amount": -50995.85190913367,
+    "win_rate": 0.6958762886597938,
+    "total_current_value": 0.9124661985,
+    "total_positions": 352,
+    "event_ct": 194,
+    "win_count": 135,
+    "rank": 13468,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
