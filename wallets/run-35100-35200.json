@@ -398,5 +398,21 @@
     "win_count": 29,
     "rank": 35126,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4b3347197b86addfd375abd2b95dcfc4275ad412",
+    "trader_name": "tudor123",
+    "tag": "Overall",
+    "overall_gain": 2331.355240971402,
+    "active_positions": 5,
+    "win_amount": 4242.352756213224,
+    "loss_amount": -1910.997515241822,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 805576.000226,
+    "total_positions": 17,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 35127,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
