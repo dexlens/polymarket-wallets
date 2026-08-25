@@ -734,5 +734,21 @@
     "win_count": 24,
     "rank": 42947,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00c0b7e26a54958c0a82e61eb87525e06cb8c91e",
+    "trader_name": "twark",
+    "tag": "Overall",
+    "overall_gain": 1822.232963044566,
+    "active_positions": 2,
+    "win_amount": 3522.519476887363,
+    "loss_amount": -1700.2865138427971,
+    "win_rate": 0.7816091954022989,
+    "total_current_value": 531.33517698,
+    "total_positions": 1148,
+    "event_ct": 522,
+    "win_count": 408,
+    "rank": 42948,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
