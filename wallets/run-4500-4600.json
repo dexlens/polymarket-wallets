@@ -142,5 +142,21 @@
     "win_count": 4,
     "rank": 4509,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3022ebb3d83ba8e4d8a272d0e28174cfa49359c1",
+    "trader_name": "Arlette",
+    "tag": "Overall",
+    "overall_gain": 24412.940847365044,
+    "active_positions": 36,
+    "win_amount": 40468.665907692295,
+    "loss_amount": -16055.725060327259,
+    "win_rate": 0.8432835820895522,
+    "total_current_value": 60177.7869446195,
+    "total_positions": 363,
+    "event_ct": 268,
+    "win_count": 226,
+    "rank": 4510,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
