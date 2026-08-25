@@ -782,5 +782,21 @@
     "win_count": 172,
     "rank": 4149,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x33ef9e6beaa631f549f8341ad044b9eba402daeb",
+    "trader_name": "bhr1",
+    "tag": "Overall",
+    "overall_gain": 26898.15138769615,
+    "active_positions": 1,
+    "win_amount": 28398.15020361615,
+    "loss_amount": -1499.99881592,
+    "win_rate": 0.5,
+    "total_current_value": 0.009743,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 4150,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
