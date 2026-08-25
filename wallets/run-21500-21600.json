@@ -750,5 +750,21 @@
     "win_count": 3,
     "rank": 21547,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9578af80708f271f705e27867dcf6ec653acf066",
+    "trader_name": "KimchiCapital",
+    "tag": "Overall",
+    "overall_gain": 4222.795127249433,
+    "active_positions": 37,
+    "win_amount": 4963.094912490282,
+    "loss_amount": -740.299785240846,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 5775.602355096501,
+    "total_positions": 234,
+    "event_ct": 121,
+    "win_count": 99,
+    "rank": 21548,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
