@@ -206,5 +206,21 @@
     "win_count": 61,
     "rank": 4413,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd37ab1a5eeb25696c568e20e94af72b8d3422358",
+    "trader_name": "piepi",
+    "tag": "Overall",
+    "overall_gain": 25191.497794048384,
+    "active_positions": 1081,
+    "win_amount": 716488.7041494212,
+    "loss_amount": -691297.2063553728,
+    "win_rate": 0.4661345496009122,
+    "total_current_value": 110930.07029039998,
+    "total_positions": 20088,
+    "event_ct": 8770,
+    "win_count": 4088,
+    "rank": 4414,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
