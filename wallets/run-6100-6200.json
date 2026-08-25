@@ -398,5 +398,21 @@
     "win_count": 21,
     "rank": 6125,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58583b68398ea0a87a42122d7303b663b269dc6b",
+    "trader_name": "mq33dred",
+    "tag": "Overall",
+    "overall_gain": 17495.3034838676,
+    "active_positions": 69,
+    "win_amount": 50918.19749398641,
+    "loss_amount": -33422.894010118835,
+    "win_rate": 0.4878048780487805,
+    "total_current_value": 1958.8308350000002,
+    "total_positions": 131,
+    "event_ct": 123,
+    "win_count": 60,
+    "rank": 6126,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
