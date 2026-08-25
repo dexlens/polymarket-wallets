@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 8850,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x7a5f098c36571882ca2e8802f8f59e8ed80e4b52",
+    "trader_name": "pao4",
+    "tag": "Overall",
+    "overall_gain": 11839.697603966371,
+    "active_positions": 38,
+    "win_amount": 205181.50541016003,
+    "loss_amount": -193341.80780619365,
+    "win_rate": 0.7868852459016393,
+    "total_current_value": 0,
+    "total_positions": 193,
+    "event_ct": 183,
+    "win_count": 144,
+    "rank": 8851,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
