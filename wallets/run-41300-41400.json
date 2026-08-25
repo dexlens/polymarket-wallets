@@ -158,5 +158,21 @@
     "win_count": 9,
     "rank": 41311,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2625305c8e095b5171774974c97825a470fce320",
+    "trader_name": "AlphaIntuit",
+    "tag": "Overall",
+    "overall_gain": 1916.5,
+    "active_positions": 1,
+    "win_amount": 2635.5,
+    "loss_amount": -719,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 41312,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
