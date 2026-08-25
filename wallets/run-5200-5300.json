@@ -1550,5 +1550,21 @@
     "win_count": 24,
     "rank": 5297,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f053c597d80780e09cad5087b0d687614bf8937",
+    "trader_name": "Getoutnow",
+    "tag": "Overall",
+    "overall_gain": 20473.44667781641,
+    "active_positions": 2,
+    "win_amount": 43682.027123283704,
+    "loss_amount": -23208.58044546728,
+    "win_rate": 0.8375286041189931,
+    "total_current_value": 317.860455525,
+    "total_positions": 492,
+    "event_ct": 437,
+    "win_count": 366,
+    "rank": 5298,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
