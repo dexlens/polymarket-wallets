@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 42835,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7220ed54428758aeb80f25352979b3d6005a9bda",
+    "trader_name": "VeniceTigers87",
+    "tag": "Overall",
+    "overall_gain": 1828.4639710000001,
+    "active_positions": 0,
+    "win_amount": 3017.4217,
+    "loss_amount": -1188.957729,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 24,
+    "win_count": 14,
+    "rank": 42836,
+    "trader_tags": "< 30 days old"
   }
 ]
