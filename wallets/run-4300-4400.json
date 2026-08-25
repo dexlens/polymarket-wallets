@@ -1390,5 +1390,21 @@
     "win_count": 24,
     "rank": 4387,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcc05ed045a0aff63f5447cba3c7194f849e0013a",
+    "trader_name": "bdnma",
+    "tag": "Overall",
+    "overall_gain": 25327.907442911823,
+    "active_positions": 6,
+    "win_amount": 35484.1877921796,
+    "loss_amount": -10156.280349267778,
+    "win_rate": 0.8,
+    "total_current_value": 27999.522313185997,
+    "total_positions": 30,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 4388,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
