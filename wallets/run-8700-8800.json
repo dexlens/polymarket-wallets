@@ -926,5 +926,21 @@
     "win_count": 19,
     "rank": 8758,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x406dac305bf07228889059b0142a7a8957c8e73e",
+    "trader_name": "vvbook",
+    "tag": "Overall",
+    "overall_gain": 11970.798383535768,
+    "active_positions": 85,
+    "win_amount": 12110.238057217295,
+    "loss_amount": -139.43967368153199,
+    "win_rate": 0.4652777777777778,
+    "total_current_value": 7.768047000000001,
+    "total_positions": 155,
+    "event_ct": 144,
+    "win_count": 67,
+    "rank": 8759,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
