@@ -46,5 +46,21 @@
     "win_count": 5,
     "rank": 83304,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32ae76835abc34d0019c0e22b2c7d6b8689b4407",
+    "trader_name": "Rationalmind",
+    "tag": "Overall",
+    "overall_gain": 577.2761747811651,
+    "active_positions": 1,
+    "win_amount": 2045.141176,
+    "loss_amount": -1467.865001218835,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 83305,
+    "trader_tags": "> 1 year old; 67%+ Positions in US Election "
   }
 ]
