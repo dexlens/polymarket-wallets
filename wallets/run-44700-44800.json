@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 44749,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b849601a1e16575fb738820afc431063a5960e1",
+    "trader_name": "cemburaebba",
+    "tag": "Overall",
+    "overall_gain": 1725.8153350000002,
+    "active_positions": 0,
+    "win_amount": 1833.8722220000002,
+    "loss_amount": -108.05688699999999,
+    "win_rate": 0.6511627906976745,
+    "total_current_value": 0.02,
+    "total_positions": 45,
+    "event_ct": 43,
+    "win_count": 28,
+    "rank": 44750,
+    "trader_tags": "> 1 year old"
   }
 ]
