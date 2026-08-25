@@ -1342,5 +1342,21 @@
     "win_count": 4,
     "rank": 18284,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x47b8b379d1b4c4351637c8ef219a0fc163a86b11",
+    "trader_name": "0xEllaXYZ",
+    "tag": "Overall",
+    "overall_gain": 5087.780145792377,
+    "active_positions": 0,
+    "win_amount": 5130.286139792377,
+    "loss_amount": -42.505994000000015,
+    "win_rate": 0.75,
+    "total_current_value": 0.008296,
+    "total_positions": 25,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 18285,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
