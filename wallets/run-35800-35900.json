@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 35849,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x95f120a87d645cb753414e9e5c143dc2b2d29f1c",
+    "trader_name": "edhfkc",
+    "tag": "Overall",
+    "overall_gain": 2272.8124057140776,
+    "active_positions": 4,
+    "win_amount": 3394.306607964078,
+    "loss_amount": -1121.49420225,
+    "win_rate": 0.9,
+    "total_current_value": 139.912828,
+    "total_positions": 42,
+    "event_ct": 40,
+    "win_count": 36,
+    "rank": 35850,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
