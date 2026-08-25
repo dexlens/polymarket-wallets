@@ -1502,5 +1502,21 @@
     "win_count": 15,
     "rank": 25795,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x65e9521ba0109a37222d247d26b48c022489109c",
+    "trader_name": "AlphaGoZero",
+    "tag": "Overall",
+    "overall_gain": 3407.8066461237904,
+    "active_positions": 3,
+    "win_amount": 7992.69073270432,
+    "loss_amount": -4584.8840865805305,
+    "win_rate": 0.5,
+    "total_current_value": 0.00192,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 25796,
+    "trader_tags": "> 1 year old"
   }
 ]
