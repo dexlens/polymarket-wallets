@@ -1246,5 +1246,21 @@
     "win_count": 10,
     "rank": 41079,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5841055a16eb281ee7748ac5e73cebd5ff31c655",
+    "trader_name": "Jed12",
+    "tag": "Overall",
+    "overall_gain": 1930.35,
+    "active_positions": 1,
+    "win_amount": 2475.27,
+    "loss_amount": -544.92,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 41080,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
