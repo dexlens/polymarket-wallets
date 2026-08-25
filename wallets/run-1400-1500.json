@@ -830,5 +830,21 @@
     "win_count": 43,
     "rank": 1452,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x69e7ad68b5f11e97927e4bd938baf7dfb60bd3b0",
+    "trader_name": "InsiderrrZ",
+    "tag": "Overall",
+    "overall_gain": 83144.0694036581,
+    "active_positions": 92,
+    "win_amount": 661231.8785577079,
+    "loss_amount": -578087.8091540503,
+    "win_rate": 0.5299684542586751,
+    "total_current_value": 56906.422095711045,
+    "total_positions": 1060,
+    "event_ct": 634,
+    "win_count": 336,
+    "rank": 1453,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
