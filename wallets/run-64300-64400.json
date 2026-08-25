@@ -1230,5 +1230,21 @@
     "win_count": 12,
     "rank": 64378,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x66dfcf1b0717fe1c57a7fc326e5eb2ab31a89811",
+    "trader_name": "champi",
+    "tag": "Overall",
+    "overall_gain": 962.55290502262,
+    "active_positions": 53,
+    "win_amount": 2980.3791207597264,
+    "loss_amount": -2017.8262157371064,
+    "win_rate": 0.48,
+    "total_current_value": 2701.3658482105,
+    "total_positions": 148,
+    "event_ct": 50,
+    "win_count": 24,
+    "rank": 64379,
+    "trader_tags": "> 1 year old"
   }
 ]
