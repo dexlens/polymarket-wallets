@@ -526,5 +526,21 @@
     "win_count": 9,
     "rank": 6233,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0bdb133c2aa39288d2fe53a846c417f78f62f1c6",
+    "trader_name": "colbyrosenb",
+    "tag": "Overall",
+    "overall_gain": 17183.47,
+    "active_positions": 0,
+    "win_amount": 17183.47,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 6234,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
