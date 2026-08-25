@@ -110,5 +110,21 @@
     "win_count": 22,
     "rank": 87708,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x779f5f2eab80b16f78053f816a0e3d9d7015cb5d",
+    "trader_name": "hanzhi",
+    "tag": "Overall",
+    "overall_gain": 516.3404191133922,
+    "active_positions": 1,
+    "win_amount": 540.870763924908,
+    "loss_amount": -24.530344811516,
+    "win_rate": 0.9,
+    "total_current_value": 0.024718,
+    "total_positions": 67,
+    "event_ct": 40,
+    "win_count": 36,
+    "rank": 87709,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
