@@ -1294,5 +1294,21 @@
     "win_count": 3,
     "rank": 68982,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6095d4de3e0d29112b708ba304f3a12765e20940",
+    "trader_name": "ImaBotWat",
+    "tag": "Overall",
+    "overall_gain": 835.459296187531,
+    "active_positions": 1,
+    "win_amount": 847.459296187531,
+    "loss_amount": -12,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.0058720000000000005,
+    "total_positions": 6,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 68983,
+    "trader_tags": "< 30 days old"
   }
 ]
