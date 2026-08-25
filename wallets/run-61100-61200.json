@@ -350,5 +350,21 @@
     "win_count": 2,
     "rank": 61123,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b13fc503631a4375a6d17d5dfaf148bfddde8aa",
+    "trader_name": "ThorneCity",
+    "tag": "Overall",
+    "overall_gain": 1044.5055670000002,
+    "active_positions": 8,
+    "win_amount": 2741.3113,
+    "loss_amount": -1696.805733,
+    "win_rate": 0.38461538461538464,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 5,
+    "rank": 61124,
+    "trader_tags": ""
   }
 ]
