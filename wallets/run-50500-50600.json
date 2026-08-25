@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 50536,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f9fe892f170ccd4c69baa9dfc593b69ceb464f7",
+    "trader_name": "Solthar",
+    "tag": "Overall",
+    "overall_gain": 1460.395,
+    "active_positions": 3,
+    "win_amount": 1462.2400000000002,
+    "loss_amount": -1.8449999999999989,
+    "win_rate": 0.75,
+    "total_current_value": 19.065,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 50537,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
