@@ -494,5 +494,21 @@
     "win_count": 11,
     "rank": 9931,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xccafd2309f53af7b2ed5fb5967d2028280b182d8",
+    "trader_name": "Tecsav",
+    "tag": "Overall",
+    "overall_gain": 10561.413102266764,
+    "active_positions": 0,
+    "win_amount": 10561.413102266764,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.016857999999999998,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 9932,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
