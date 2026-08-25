@@ -1086,5 +1086,21 @@
     "win_count": 9,
     "rank": 1968,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x706b963cfc0aeaaf68c1ebea4cc75277214f4230",
+    "trader_name": "swoswo88",
+    "tag": "Overall",
+    "overall_gain": 61242.047334137,
+    "active_positions": 6,
+    "win_amount": 117659.53450852727,
+    "loss_amount": -56417.487174390284,
+    "win_rate": 0.6511627906976745,
+    "total_current_value": 33.761298000000004,
+    "total_positions": 86,
+    "event_ct": 86,
+    "win_count": 56,
+    "rank": 1969,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
