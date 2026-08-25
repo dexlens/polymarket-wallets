@@ -1294,5 +1294,21 @@
     "win_count": 11,
     "rank": 12081,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ae0c5d43cbd0091ab11a6515fe81ee3c4f62b05",
+    "trader_name": "AdamLane",
+    "tag": "Overall",
+    "overall_gain": 8507.486931986825,
+    "active_positions": 2,
+    "win_amount": 9610.635431986824,
+    "loss_amount": -1103.1485,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 10.918325999999999,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 24,
+    "rank": 12082,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
