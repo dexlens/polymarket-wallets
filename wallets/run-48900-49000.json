@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 48984,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x05e5a9509b3ccd112d6ea533d410c1b7ecc7ef11",
+    "trader_name": "caboom",
+    "tag": "Overall",
+    "overall_gain": 1529.356323573967,
+    "active_positions": 0,
+    "win_amount": 1529.356323573967,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004171,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 48985,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
