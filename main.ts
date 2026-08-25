@@ -12,7 +12,7 @@ const realdata = data.data;
  * The RUN thingie
  */
 const runStart = 0;
-const runEnd = 1000;
+const runEnd = 100;
 const runName = `run-${runStart}-${runEnd}`;
 
 const thisrunsfilename = `wallets/${runName}.json`;
@@ -50,3 +50,9 @@ for (const wallet of realdata.slice(runStart, runEnd)) {
   indexdata.wallets++;
   await Deno.writeTextFile(indexfilename, JSON.stringify(indexdata, null, 2));
 }
+
+// save the indexdata.wallets to the README.md
+const readmefilename = `README.md`;
+const readmedata = await Deno.readTextFile(readmefilename);
+const newreadmedata = readmedata.replace(/Wallets: \d+/, `Wallets: ${indexdata.wallets}`);
+await Deno.writeTextFile(readmefilename, newreadmedata);
