@@ -446,5 +446,21 @@
     "win_count": 227,
     "rank": 2028,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x75855af3b99143cf7eb0c926adaf15131886aef6",
+    "trader_name": "Polymaster",
+    "tag": "Overall",
+    "overall_gain": 59531.423327,
+    "active_positions": 0,
+    "win_amount": 59531.423327,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 2029,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
