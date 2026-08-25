@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 20528,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7273c3347078d433cbebd84f2c0446a6f9c5ee98",
+    "trader_name": "cricsumsub",
+    "tag": "Overall",
+    "overall_gain": 4487.910690795391,
+    "active_positions": 53,
+    "win_amount": 75801.870418,
+    "loss_amount": -71313.95972720461,
+    "win_rate": 0.4807692307692308,
+    "total_current_value": 1087.361007075,
+    "total_positions": 105,
+    "event_ct": 104,
+    "win_count": 50,
+    "rank": 20529,
+    "trader_tags": ""
   }
 ]
