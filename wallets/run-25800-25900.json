@@ -782,5 +782,21 @@
     "win_count": 7,
     "rank": 25850,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2fb25b9a3c3af53cec23e976e50f4f9ac0e07535",
+    "trader_name": "Soleystone",
+    "tag": "Overall",
+    "overall_gain": 3398.262246,
+    "active_positions": 2,
+    "win_amount": 3398.262246,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 25851,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
