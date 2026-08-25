@@ -750,5 +750,21 @@
     "win_count": 12,
     "rank": 9447,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x89d2d2bc1dcefb6f2940d34a6d092e60c52c6031",
+    "trader_name": "p0psicle",
+    "tag": "Overall",
+    "overall_gain": 11097.213509137722,
+    "active_positions": 36,
+    "win_amount": 16397.099209538,
+    "loss_amount": -5299.885700400273,
+    "win_rate": 0.8113879003558719,
+    "total_current_value": 7956.511579207499,
+    "total_positions": 997,
+    "event_ct": 281,
+    "win_count": 228,
+    "rank": 9448,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
