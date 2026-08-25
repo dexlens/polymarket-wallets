@@ -222,5 +222,21 @@
     "win_count": 11,
     "rank": 7314,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xba97e757450e68ecc2f2af4da1f17168e92874d8",
+    "trader_name": "Carinak6",
+    "tag": "Overall",
+    "overall_gain": 14575.5,
+    "active_positions": 0,
+    "win_amount": 14575.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 7315,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
