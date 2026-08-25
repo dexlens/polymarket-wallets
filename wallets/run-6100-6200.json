@@ -654,5 +654,21 @@
     "win_count": 34,
     "rank": 6141,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd22b8843ae03a33a8a4c5e39ef1e5ff33ebad91",
+    "trader_name": "AML",
+    "tag": "Overall",
+    "overall_gain": 17448.46551225592,
+    "active_positions": 5,
+    "win_amount": 435219.5413509673,
+    "loss_amount": -417771.0758387114,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 1731707.7273464033,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 8,
+    "rank": 6142,
+    "trader_tags": "Overall PnL > $10k; Politics PnL > $100k"
   }
 ]
