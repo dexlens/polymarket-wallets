@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 82090,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2ee13f83e32672baba3f1cf34a6b13e482ade5a6",
+    "trader_name": "lallar",
+    "tag": "Overall",
+    "overall_gain": 596.9944811248429,
+    "active_positions": 8,
+    "win_amount": 604.5003522015099,
+    "loss_amount": -7.505871076667001,
+    "win_rate": 0.8,
+    "total_current_value": 54.239074721499996,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 82091,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
