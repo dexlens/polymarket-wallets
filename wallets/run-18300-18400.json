@@ -1086,5 +1086,21 @@
     "win_count": 73,
     "rank": 18368,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x820cc42facaa875c612abc801de55bb44720cb55",
+    "trader_name": "Brightwoodc",
+    "tag": "Overall",
+    "overall_gain": 5058.434031759337,
+    "active_positions": 6,
+    "win_amount": 8278.434031759338,
+    "loss_amount": -3220,
+    "win_rate": 0.9375,
+    "total_current_value": 16.440885231,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 15,
+    "rank": 18369,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
