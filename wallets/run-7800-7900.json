@@ -574,5 +574,21 @@
     "win_count": 10,
     "rank": 7836,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4140dcf809684f60b446bb6c118a27cfff7f0272",
+    "trader_name": "varksy",
+    "tag": "Overall",
+    "overall_gain": 13445.967182271173,
+    "active_positions": 3,
+    "win_amount": 14193.762304406833,
+    "loss_amount": -747.79512213566,
+    "win_rate": 0.696969696969697,
+    "total_current_value": 0.061714,
+    "total_positions": 55,
+    "event_ct": 33,
+    "win_count": 23,
+    "rank": 7837,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
