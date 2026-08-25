@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 7689,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf8e5ce685d953e8bdb5d3ebf57a55fc889283d35",
+    "trader_name": "jeffreyv",
+    "tag": "Overall",
+    "overall_gain": 13756.856856999999,
+    "active_positions": 0,
+    "win_amount": 13925.682849,
+    "loss_amount": -168.82599199999999,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 7690,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
