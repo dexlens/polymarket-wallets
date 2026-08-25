@@ -1358,5 +1358,21 @@
     "win_count": 5,
     "rank": 7485,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x50b242e0b9ac75359464c5b3be62ad6b42d8c94a",
+    "trader_name": "DonPanic",
+    "tag": "Overall",
+    "overall_gain": 14171.413143997916,
+    "active_positions": 45,
+    "win_amount": 42739.03890675864,
+    "loss_amount": -28567.62576276075,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 11141.2506319055,
+    "total_positions": 1603,
+    "event_ct": 1085,
+    "win_count": 735,
+    "rank": 7486,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
