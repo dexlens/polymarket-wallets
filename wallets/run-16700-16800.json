@@ -318,5 +318,21 @@
     "win_count": 180,
     "rank": 16720,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x69fa7e1cdaa9401c081b2051a5e6ca824ff43012",
+    "trader_name": "SummerFor",
+    "tag": "Overall",
+    "overall_gain": 5685,
+    "active_positions": 2,
+    "win_amount": 6562,
+    "loss_amount": -877,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 16721,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
