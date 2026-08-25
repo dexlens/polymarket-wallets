@@ -270,5 +270,21 @@
     "win_count": 6,
     "rank": 5217,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x36844f2e419c98bdea191746e001f68d5826ebf7",
+    "trader_name": "Amthra",
+    "tag": "Overall",
+    "overall_gain": 20766.577918198032,
+    "active_positions": 4,
+    "win_amount": 21115.022018198037,
+    "loss_amount": -348.4441,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 0.000033,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 34,
+    "rank": 5218,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
