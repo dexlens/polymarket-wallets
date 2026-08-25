@@ -702,5 +702,21 @@
     "win_count": 16,
     "rank": 57345,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x05ddbaf186e4059f6d49d24a66ef532085727f98",
+    "trader_name": "eucgnnx",
+    "tag": "Overall",
+    "overall_gain": 1166.2579069197684,
+    "active_positions": 10,
+    "win_amount": 1776.4499165899992,
+    "loss_amount": -610.192009670231,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 663.3526158139998,
+    "total_positions": 40,
+    "event_ct": 36,
+    "win_count": 28,
+    "rank": 57346,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
