@@ -142,5 +142,21 @@
     "win_count": 40,
     "rank": 7009,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4bdf221c9bdf8c029bf6907a671cb41a60d33ea6",
+    "trader_name": "Pray2Win",
+    "tag": "Overall",
+    "overall_gain": 15258.571857090104,
+    "active_positions": 0,
+    "win_amount": 18166.909076090105,
+    "loss_amount": -2908.337219,
+    "win_rate": 0.85,
+    "total_current_value": 0.07264100000000001,
+    "total_positions": 109,
+    "event_ct": 40,
+    "win_count": 34,
+    "rank": 7010,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
