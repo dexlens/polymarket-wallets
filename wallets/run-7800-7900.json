@@ -142,5 +142,21 @@
     "win_count": 21,
     "rank": 7809,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3802e407a64bad851c5284ceedbf5e344e3457d4",
+    "trader_name": "Drovyn",
+    "tag": "Overall",
+    "overall_gain": 13498.186079528692,
+    "active_positions": 3,
+    "win_amount": 15574.925944528024,
+    "loss_amount": -2076.7398649993343,
+    "win_rate": 0.851063829787234,
+    "total_current_value": 2.22269,
+    "total_positions": 48,
+    "event_ct": 47,
+    "win_count": 40,
+    "rank": 7810,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
