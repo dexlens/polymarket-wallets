@@ -654,5 +654,21 @@
     "win_count": 9,
     "rank": 39042,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41f20a177751b3d0746617b31eeb02e84b80d8ef",
+    "trader_name": "obezyana",
+    "tag": "Overall",
+    "overall_gain": 2050.0392063821696,
+    "active_positions": 15,
+    "win_amount": 2963.341094881216,
+    "loss_amount": -913.3018884990469,
+    "win_rate": 0.9256678281068524,
+    "total_current_value": 405.26242205849985,
+    "total_positions": 1861,
+    "event_ct": 861,
+    "win_count": 797,
+    "rank": 39043,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
