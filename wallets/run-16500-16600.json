@@ -302,5 +302,21 @@
     "win_count": 39,
     "rank": 16519,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d65b94e4cbea8f00452c1ac6548e7cd09d87d4a",
+    "trader_name": "W00PS",
+    "tag": "Overall",
+    "overall_gain": 5768.585763698821,
+    "active_positions": 6,
+    "win_amount": 11282.287282856696,
+    "loss_amount": -5513.701519157873,
+    "win_rate": 0.36065573770491804,
+    "total_current_value": 1729.6707357,
+    "total_positions": 271,
+    "event_ct": 183,
+    "win_count": 66,
+    "rank": 16520,
+    "trader_tags": ""
   }
 ]
