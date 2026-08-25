@@ -222,5 +222,21 @@
     "win_count": 33,
     "rank": 22514,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3238f26f0d9ef1489bae42ef7e02634a2f0c323c",
+    "trader_name": "Anunac",
+    "tag": "Overall",
+    "overall_gain": 4012.1380808599997,
+    "active_positions": 3,
+    "win_amount": 10373.45897,
+    "loss_amount": -6361.32088914,
+    "win_rate": 0.5121951219512195,
+    "total_current_value": 0,
+    "total_positions": 42,
+    "event_ct": 41,
+    "win_count": 21,
+    "rank": 22515,
+    "trader_tags": "> 1 year old"
   }
 ]
