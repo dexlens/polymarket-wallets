@@ -766,5 +766,21 @@
     "win_count": 228,
     "rank": 9448,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7333e9f9e02e7db813fafb5aff3cc009e70ebafd",
+    "trader_name": "SchmittBurnham",
+    "tag": "Overall",
+    "overall_gain": 11096.957516181961,
+    "active_positions": 3,
+    "win_amount": 12007.27220150128,
+    "loss_amount": -910.31468531932,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.222933,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 9449,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
