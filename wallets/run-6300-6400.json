@@ -366,5 +366,21 @@
     "win_count": 18,
     "rank": 6323,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x768195cffc7d603847eee695102523f20fe2ac03",
+    "trader_name": "DogsAllDay",
+    "tag": "Overall",
+    "overall_gain": 16936.228417551345,
+    "active_positions": 49,
+    "win_amount": 195346.29961334344,
+    "loss_amount": -178410.07119579203,
+    "win_rate": 0.3652501344809037,
+    "total_current_value": 9206.441420696501,
+    "total_positions": 2565,
+    "event_ct": 1859,
+    "win_count": 679,
+    "rank": 6324,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
