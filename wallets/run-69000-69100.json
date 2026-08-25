@@ -574,5 +574,21 @@
     "win_count": 16,
     "rank": 69037,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81327b301366bc92bd0d534d09e07f902b75a491",
+    "trader_name": "fastpic",
+    "tag": "Overall",
+    "overall_gain": 833.9150520000003,
+    "active_positions": 15,
+    "win_amount": 3815.800689,
+    "loss_amount": -2981.885637,
+    "win_rate": 0.4230769230769231,
+    "total_current_value": 4044.83625,
+    "total_positions": 246,
+    "event_ct": 156,
+    "win_count": 66,
+    "rank": 69038,
+    "trader_tags": ""
   }
 ]
