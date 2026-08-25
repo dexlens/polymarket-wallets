@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 1266,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x81e639365bd144b95a0007dac7b2092092c1beb9",
+    "trader_name": "liping",
+    "tag": "Overall",
+    "overall_gain": 95980.01640930474,
+    "active_positions": 5,
+    "win_amount": 115151.63628438,
+    "loss_amount": -19171.619875075266,
+    "win_rate": 0.25,
+    "total_current_value": 0.005,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 3,
+    "rank": 1267,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
