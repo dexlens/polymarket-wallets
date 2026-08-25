@@ -1134,5 +1134,21 @@
     "win_count": 175,
     "rank": 5771,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf0a426275e73be8d382a5479e4fb6047c18e41c2",
+    "trader_name": "BKDS",
+    "tag": "Overall",
+    "overall_gain": 18637.68528154522,
+    "active_positions": 37,
+    "win_amount": 43207.68019933319,
+    "loss_amount": -24569.99491778797,
+    "win_rate": 0.2912621359223301,
+    "total_current_value": 253.6533575405,
+    "total_positions": 127,
+    "event_ct": 103,
+    "win_count": 30,
+    "rank": 5772,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
