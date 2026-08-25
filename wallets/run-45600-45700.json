@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 45617,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa8bb7706689ee28fe2a5f7f7ddb1041048f6d643",
+    "trader_name": "1lapped",
+    "tag": "Overall",
+    "overall_gain": 1685,
+    "active_positions": 1,
+    "win_amount": 1850,
+    "loss_amount": -165,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 45618,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
