@@ -1070,5 +1070,21 @@
     "win_count": 74,
     "rank": 33968,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b8cabdeec7f84346728ace748abb8c2397da06e",
+    "trader_name": "bean23",
+    "tag": "Overall",
+    "overall_gain": 2426.608936319704,
+    "active_positions": 3,
+    "win_amount": 5616.338527,
+    "loss_amount": -3189.729590680296,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 33969,
+    "trader_tags": "> 1 year old"
   }
 ]
