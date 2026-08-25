@@ -990,5 +990,21 @@
     "win_count": 39,
     "rank": 86363,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x09d7d50a60bf83d1e9c7b7c4a3188ffccc991e53",
+    "trader_name": "rich.hardensey",
+    "tag": "Overall",
+    "overall_gain": 534.2232659206588,
+    "active_positions": 1,
+    "win_amount": 534.2232659206588,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3865.216980285,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 86364,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
