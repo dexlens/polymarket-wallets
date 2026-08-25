@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 4030,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x17338df30635b5dd167ebf78428775c6c7ac1e15",
+    "trader_name": "Basquetipster",
+    "tag": "Overall",
+    "overall_gain": 27831.657474274183,
+    "active_positions": 1902,
+    "win_amount": 603656.8131922225,
+    "loss_amount": -575825.1557179482,
+    "win_rate": 0.5013368983957219,
+    "total_current_value": 21130.21208944901,
+    "total_positions": 4064,
+    "event_ct": 2992,
+    "win_count": 1500,
+    "rank": 4031,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
