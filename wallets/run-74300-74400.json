@@ -1134,5 +1134,21 @@
     "win_count": 30,
     "rank": 74372,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3c4f68cb5a8ef03813a5e2636c73f1eb7b691c95",
+    "trader_name": "torgarien",
+    "tag": "Overall",
+    "overall_gain": 723.5463146383656,
+    "active_positions": 2,
+    "win_amount": 2328.1063378726294,
+    "loss_amount": -1604.560023234264,
+    "win_rate": 0.8,
+    "total_current_value": 1254.03355985,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 74373,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
