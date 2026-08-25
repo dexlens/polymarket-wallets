@@ -1102,5 +1102,21 @@
     "win_count": 3,
     "rank": 78470,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x565e308e85d5d4a99a090c99486ca373159d74ba",
+    "trader_name": "Synapsefire",
+    "tag": "Overall",
+    "overall_gain": 656.5,
+    "active_positions": 1,
+    "win_amount": 1187.5,
+    "loss_amount": -531,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 78471,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
