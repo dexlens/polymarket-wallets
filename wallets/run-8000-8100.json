@@ -1374,5 +1374,21 @@
     "win_count": 13,
     "rank": 8086,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdf0a8404f0739f7e573c3e89808f66efe8498ca0",
+    "trader_name": "alisonRich",
+    "tag": "Overall",
+    "overall_gain": 13002.498615327753,
+    "active_positions": 2,
+    "win_amount": 24040.91695366,
+    "loss_amount": -11038.418338332245,
+    "win_rate": 0.6101694915254238,
+    "total_current_value": 0.061646,
+    "total_positions": 59,
+    "event_ct": 59,
+    "win_count": 36,
+    "rank": 8087,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
