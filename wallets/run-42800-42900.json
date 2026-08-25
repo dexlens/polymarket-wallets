@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 42815,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a96cf6b2ec6252f471e378d9829b29a29dbcbb9",
+    "trader_name": "Apheli0n",
+    "tag": "Overall",
+    "overall_gain": 1829.557283590363,
+    "active_positions": 4,
+    "win_amount": 2479.586896388429,
+    "loss_amount": -650.029612798066,
+    "win_rate": 0.21052631578947367,
+    "total_current_value": 0.04439200000000001,
+    "total_positions": 61,
+    "event_ct": 38,
+    "win_count": 8,
+    "rank": 42816,
+    "trader_tags": "> 1 year old"
   }
 ]
