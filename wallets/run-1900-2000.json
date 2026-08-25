@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 1919,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x735788ef4320914cc70cad195c1718c2f7380af6",
+    "trader_name": "milkmilk - 2455",
+    "tag": "Overall",
+    "overall_gain": 62931.752960000005,
+    "active_positions": 0,
+    "win_amount": 62931.752960000005,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 1920,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
