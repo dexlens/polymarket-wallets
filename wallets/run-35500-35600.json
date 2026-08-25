@@ -494,5 +494,21 @@
     "win_count": 2,
     "rank": 35532,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xafe66dfa7b0140972fe46570080eac60d8c871d3",
+    "trader_name": "DFHY",
+    "tag": "Overall",
+    "overall_gain": 2299.284666180202,
+    "active_positions": 1,
+    "win_amount": 6649.726955496841,
+    "loss_amount": -4350.442289316639,
+    "win_rate": 0.46938775510204084,
+    "total_current_value": 0.070869,
+    "total_positions": 76,
+    "event_ct": 49,
+    "win_count": 23,
+    "rank": 35533,
+    "trader_tags": "> 1 year old"
   }
 ]
