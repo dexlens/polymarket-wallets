@@ -638,5 +638,21 @@
     "win_count": 12,
     "rank": 15840,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x031111cc9a97bc28830b8f928e48c59cda5867a4",
+    "trader_name": "3ereq",
+    "tag": "Overall",
+    "overall_gain": 6083.876010830052,
+    "active_positions": 1,
+    "win_amount": 7091.626010830052,
+    "loss_amount": -1007.75,
+    "win_rate": 0.9714285714285714,
+    "total_current_value": 0.010052,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 34,
+    "rank": 15841,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
