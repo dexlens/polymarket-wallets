@@ -1470,5 +1470,21 @@
     "win_count": 4,
     "rank": 43093,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x68b8093a18df4a9ba3d2cb63cb44e519c6bbc7f9",
+    "trader_name": "Naiad",
+    "tag": "Overall",
+    "overall_gain": 1814.5,
+    "active_positions": 1,
+    "win_amount": 2100.5,
+    "loss_amount": -286,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 43094,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
