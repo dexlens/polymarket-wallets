@@ -350,5 +350,21 @@
     "win_count": 345,
     "rank": 2622,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb624f26844e6b3f81dbbee164359fc4581dcde17",
+    "trader_name": "imsorry7",
+    "tag": "Overall",
+    "overall_gain": 44335.59611924127,
+    "active_positions": 4,
+    "win_amount": 48434.82762707601,
+    "loss_amount": -4099.231507834733,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.05783200000000001,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 2623,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
