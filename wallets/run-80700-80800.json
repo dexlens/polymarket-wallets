@@ -1182,5 +1182,21 @@
     "win_count": 5,
     "rank": 80775,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x443e6edbcf468f3a0e651f96d961f2567ae98055",
+    "trader_name": "masterdn",
+    "tag": "Overall",
+    "overall_gain": 617.7902404602409,
+    "active_positions": 10,
+    "win_amount": 739.4160883322699,
+    "loss_amount": -121.62584787202901,
+    "win_rate": 0.8064516129032258,
+    "total_current_value": 40.60793515500001,
+    "total_positions": 121,
+    "event_ct": 31,
+    "win_count": 25,
+    "rank": 80776,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
