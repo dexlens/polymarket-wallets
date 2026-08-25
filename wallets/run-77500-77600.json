@@ -1534,5 +1534,21 @@
     "win_count": 10,
     "rank": 77597,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5e307263649deab67b31e73d88b8c99d218887c8",
+    "trader_name": "he67j7",
+    "tag": "Overall",
+    "overall_gain": 671.035683206698,
+    "active_positions": 6,
+    "win_amount": 1317.7386035200357,
+    "loss_amount": -646.702920313338,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0.000036,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 16,
+    "rank": 77598,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
