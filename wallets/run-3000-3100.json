@@ -462,5 +462,21 @@
     "win_count": 4,
     "rank": 3029,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x34c0d45cc3122945ba3fe69a4e98345faa2471bb",
+    "trader_name": "wellsion168",
+    "tag": "Overall",
+    "overall_gain": 37848.26142493,
+    "active_positions": 0,
+    "win_amount": 37848.26142493,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001076,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3030,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
