@@ -766,5 +766,21 @@
     "win_count": 5,
     "rank": 27449,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2f975134b49f8380e4ae05657c90897cf2aaf5ad",
+    "trader_name": "vzqw",
+    "tag": "Overall",
+    "overall_gain": 3141.981138614653,
+    "active_positions": 7,
+    "win_amount": 3141.981138614653,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 9.510205375,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 21,
+    "rank": 27450,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
