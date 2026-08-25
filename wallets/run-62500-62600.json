@@ -1342,5 +1342,21 @@
     "win_count": 118,
     "rank": 62585,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x860d81da0e4f6ddfc9635b6c6b26316505a26071",
+    "trader_name": "Bunter.Hiden",
+    "tag": "Overall",
+    "overall_gain": 1007.624557413163,
+    "active_positions": 383,
+    "win_amount": 2615.22763902589,
+    "loss_amount": -1607.6030816127266,
+    "win_rate": 0.5847389558232932,
+    "total_current_value": 1253.8841095685,
+    "total_positions": 2486,
+    "event_ct": 1245,
+    "win_count": 728,
+    "rank": 62586,
+    "trader_tags": "1k+ Positions"
   }
 ]
