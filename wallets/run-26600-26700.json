@@ -110,5 +110,21 @@
     "win_count": 3,
     "rank": 26608,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x514f00baa595b655bf466faf4c5656472fa1000f",
+    "trader_name": "yzibacked",
+    "tag": "Overall",
+    "overall_gain": 3269.140058921138,
+    "active_positions": 2,
+    "win_amount": 5524.180058921138,
+    "loss_amount": -2255.04,
+    "win_rate": 0.9523809523809523,
+    "total_current_value": 58.54430265,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 20,
+    "rank": 26609,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
