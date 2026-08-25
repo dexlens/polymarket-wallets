@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 35874,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x785b43cde54f9c7eaab9533563646e0bc059c51d",
+    "trader_name": "cwele",
+    "tag": "Overall",
+    "overall_gain": 2270.7993786454686,
+    "active_positions": 6,
+    "win_amount": 3281.584405172469,
+    "loss_amount": -1010.7850265270002,
+    "win_rate": 0.6352941176470588,
+    "total_current_value": 0.171373,
+    "total_positions": 125,
+    "event_ct": 85,
+    "win_count": 54,
+    "rank": 35875,
+    "trader_tags": ""
   }
 ]
