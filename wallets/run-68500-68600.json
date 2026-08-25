@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 68519,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5fdd7634b829cdd59b67138b41f74a48ef2dc431",
+    "trader_name": "bulldigas",
+    "tag": "Overall",
+    "overall_gain": 847.695206677195,
+    "active_positions": 4,
+    "win_amount": 2026.6256404160813,
+    "loss_amount": -1178.930433738886,
+    "win_rate": 0.6756756756756757,
+    "total_current_value": 0.037082,
+    "total_positions": 45,
+    "event_ct": 37,
+    "win_count": 25,
+    "rank": 68520,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
