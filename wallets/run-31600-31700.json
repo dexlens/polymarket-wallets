@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 31666,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xda16b58dec4535618332de0bdd13d081ca4c6da2",
+    "trader_name": "3Turtle3",
+    "tag": "Overall",
+    "overall_gain": 2633.521584539858,
+    "active_positions": 157,
+    "win_amount": 59860.76435645752,
+    "loss_amount": -57227.24277191765,
+    "win_rate": 0.5247869868319133,
+    "total_current_value": 7838.334158568999,
+    "total_positions": 5405,
+    "event_ct": 2582,
+    "win_count": 1355,
+    "rank": 31667,
+    "trader_tags": "1k+ Positions"
   }
 ]
