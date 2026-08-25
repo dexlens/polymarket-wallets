@@ -46,5 +46,21 @@
     "win_count": 10,
     "rank": 2203,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xba628f0616912257c2290ffe41e8f3a38f3aa624",
+    "trader_name": "Thalwen",
+    "tag": "Overall",
+    "overall_gain": 54590.04263092872,
+    "active_positions": 25,
+    "win_amount": 54896.71429736632,
+    "loss_amount": -306.67166643759697,
+    "win_rate": 0.7313432835820896,
+    "total_current_value": 76.18684225,
+    "total_positions": 71,
+    "event_ct": 67,
+    "win_count": 49,
+    "rank": 2204,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
