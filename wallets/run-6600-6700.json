@@ -110,5 +110,21 @@
     "win_count": 10,
     "rank": 6607,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe36c11ccee62e477f0b170c6247116d8c6f530cb",
+    "trader_name": "ForPnut",
+    "tag": "Overall",
+    "overall_gain": 16235.965084325275,
+    "active_positions": 0,
+    "win_amount": 16235.965084325275,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008548,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6608,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
