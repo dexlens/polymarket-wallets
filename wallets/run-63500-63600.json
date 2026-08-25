@@ -542,5 +542,21 @@
     "win_count": 67,
     "rank": 63535,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55a4af73ba42bc655ea50b9759c2508a320c9206",
+    "trader_name": "Batuboss",
+    "tag": "Overall",
+    "overall_gain": 987.6037182295499,
+    "active_positions": 18,
+    "win_amount": 1416.0615587582013,
+    "loss_amount": -428.45784052865105,
+    "win_rate": 0.25,
+    "total_current_value": 0.029641400000000002,
+    "total_positions": 42,
+    "event_ct": 28,
+    "win_count": 7,
+    "rank": 63536,
+    "trader_tags": ""
   }
 ]
