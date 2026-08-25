@@ -1278,5 +1278,21 @@
     "win_count": 4,
     "rank": 48081,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f45329a16856ba347285581e21eb7c02c799524",
+    "trader_name": "aviz",
+    "tag": "Overall",
+    "overall_gain": 1568.9652471895643,
+    "active_positions": 2,
+    "win_amount": 1568.9652471895643,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005404,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 48082,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
