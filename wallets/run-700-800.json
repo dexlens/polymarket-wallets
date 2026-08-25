@@ -734,5 +734,21 @@
     "win_count": 9,
     "rank": 746,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0xf1f9a438f2697381b4ac8eb283d6f4dd772d1245",
+    "trader_name": "tunatyler",
+    "tag": "Overall",
+    "overall_gain": 171911.30282096757,
+    "active_positions": 52,
+    "win_amount": 392061.303641708,
+    "loss_amount": -220150.0008207404,
+    "win_rate": 0.6182462356067316,
+    "total_current_value": 83224.94475257298,
+    "total_positions": 2084,
+    "event_ct": 1129,
+    "win_count": 698,
+    "rank": 747,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions"
   }
 ]
