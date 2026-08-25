@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 49534,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9dc88c424ce9e29c9fa11a2f1596108917ad4c76",
+    "trader_name": "SDGSDDHBN",
+    "tag": "Overall",
+    "overall_gain": 1502.5856880177598,
+    "active_positions": 6,
+    "win_amount": 1741.5369959999998,
+    "loss_amount": -238.95130798224,
+    "win_rate": 0.6875,
+    "total_current_value": 1263.30173776,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 49535,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
