@@ -174,5 +174,21 @@
     "win_count": 24,
     "rank": 6211,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x79be5de91aae1a990342f8ebae185c542430320d",
+    "trader_name": "AdairCroft",
+    "tag": "Overall",
+    "overall_gain": 17250,
+    "active_positions": 1,
+    "win_amount": 25600,
+    "loss_amount": -8350,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 6212,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
