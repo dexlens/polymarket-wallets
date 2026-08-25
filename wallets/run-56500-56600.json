@@ -590,5 +590,21 @@
     "win_count": 7,
     "rank": 56538,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x199797e3865865dd2344c86dc2d9f495f81a5207",
+    "trader_name": "kapos",
+    "tag": "Overall",
+    "overall_gain": 1196.7415168368207,
+    "active_positions": 1,
+    "win_amount": 1565.3320552085077,
+    "loss_amount": -368.59053837168705,
+    "win_rate": 0.686046511627907,
+    "total_current_value": 0.06334499999999998,
+    "total_positions": 88,
+    "event_ct": 86,
+    "win_count": 59,
+    "rank": 56539,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
