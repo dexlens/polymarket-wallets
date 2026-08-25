@@ -942,5 +942,21 @@
     "win_count": 19,
     "rank": 3359,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc1918295de9ec077844047d024f66f0f63a6ba36",
+    "trader_name": "Quorvian",
+    "tag": "Overall",
+    "overall_gain": 33978.390870170595,
+    "active_positions": 3,
+    "win_amount": 34837.12383519001,
+    "loss_amount": -858.732965019414,
+    "win_rate": 0.9240506329113924,
+    "total_current_value": 0.00006,
+    "total_positions": 85,
+    "event_ct": 79,
+    "win_count": 73,
+    "rank": 3360,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
