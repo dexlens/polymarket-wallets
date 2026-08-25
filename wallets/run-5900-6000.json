@@ -158,5 +158,21 @@
     "win_count": 5,
     "rank": 5910,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfb1b4e2db61efb47bfb1ac92807c76d4f367a11d",
+    "trader_name": "Rumpelstiltskin",
+    "tag": "Overall",
+    "overall_gain": 18176.562790152777,
+    "active_positions": 76,
+    "win_amount": 40079.485345646026,
+    "loss_amount": -21902.922555493264,
+    "win_rate": 0.63,
+    "total_current_value": 26281.421295486,
+    "total_positions": 213,
+    "event_ct": 100,
+    "win_count": 63,
+    "rank": 5911,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
