@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 4225,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63bf66ab44e9d8c9e9acecbc70629518305164a2",
+    "trader_name": "huskyboi",
+    "tag": "Overall",
+    "overall_gain": 26436.683597621814,
+    "active_positions": 9,
+    "win_amount": 31052.41970628761,
+    "loss_amount": -4615.736108665792,
+    "win_rate": 0.8928571428571429,
+    "total_current_value": 10.488856047,
+    "total_positions": 75,
+    "event_ct": 28,
+    "win_count": 25,
+    "rank": 4226,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
