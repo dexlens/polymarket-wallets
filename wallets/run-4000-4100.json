@@ -1214,5 +1214,21 @@
     "win_count": 10,
     "rank": 4076,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6864204009ba1e137989983eafee8644cb3f294b",
+    "trader_name": "hetacz",
+    "tag": "Overall",
+    "overall_gain": 27477.73373531355,
+    "active_positions": 236,
+    "win_amount": 39136.097787624116,
+    "loss_amount": -11658.364052310571,
+    "win_rate": 0.6816479400749064,
+    "total_current_value": 29039.278552402506,
+    "total_positions": 5675,
+    "event_ct": 534,
+    "win_count": 364,
+    "rank": 4077,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
