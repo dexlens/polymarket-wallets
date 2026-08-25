@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 84059,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcb41f048313233cad255fb75d649862acd9f0a5c",
+    "trader_name": "jahuuuun",
+    "tag": "Overall",
+    "overall_gain": 565.5493460309771,
+    "active_positions": 3,
+    "win_amount": 734.7108237164061,
+    "loss_amount": -169.161477685429,
+    "win_rate": 0.4666666666666667,
+    "total_current_value": 308.1630476595,
+    "total_positions": 33,
+    "event_ct": 30,
+    "win_count": 14,
+    "rank": 84060,
+    "trader_tags": "< 30 days old"
   }
 ]
