@@ -366,5 +366,21 @@
     "win_count": 7,
     "rank": 11123,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x608d1b9c63650be56d9a150ccb5bbe0d6d033f75",
+    "trader_name": "Dunhill",
+    "tag": "Overall",
+    "overall_gain": 9461.862086,
+    "active_positions": 1,
+    "win_amount": 9461.862086,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10174.1,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 11124,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
