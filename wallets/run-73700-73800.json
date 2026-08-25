@@ -1358,5 +1358,21 @@
     "win_count": 7,
     "rank": 73786,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x48b9985ddda45a8a497812cc15fd3577b444c693",
+    "trader_name": "unworthy",
+    "tag": "Overall",
+    "overall_gain": 732.3885164057282,
+    "active_positions": 4,
+    "win_amount": 852.4195137993071,
+    "loss_amount": -120.03099739357901,
+    "win_rate": 0.7,
+    "total_current_value": 430.26669680000003,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 73787,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
