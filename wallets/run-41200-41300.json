@@ -1422,5 +1422,21 @@
     "win_count": 4,
     "rank": 41290,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ca972795104d7dde8531a961f0aad8221aa508e",
+    "trader_name": "holicrap",
+    "tag": "Overall",
+    "overall_gain": 1917.3313440000009,
+    "active_positions": 0,
+    "win_amount": 8323.903105,
+    "loss_amount": -6406.571761,
+    "win_rate": 0.5625,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 41291,
+    "trader_tags": "> 1 year old"
   }
 ]
