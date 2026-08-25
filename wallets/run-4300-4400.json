@@ -446,5 +446,21 @@
     "win_count": 125,
     "rank": 4328,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8cc76c8b65dc46037cf29fa81ea57fcccc43c24f",
+    "trader_name": "maksudaliev",
+    "tag": "Overall",
+    "overall_gain": 25698.718260529746,
+    "active_positions": 0,
+    "win_amount": 27238.71177413836,
+    "loss_amount": -1539.993513608612,
+    "win_rate": 0.4,
+    "total_current_value": 0.010052,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 4329,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
