@@ -1422,5 +1422,21 @@
     "win_count": 12,
     "rank": 18989,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf56e9ca7ab4335d56002b32fc6001611265ba853",
+    "trader_name": "ktest202603",
+    "tag": "Overall",
+    "overall_gain": 4898.8075229999995,
+    "active_positions": 1,
+    "win_amount": 6352.821757999998,
+    "loss_amount": -1454.014235,
+    "win_rate": 0.9052132701421801,
+    "total_current_value": 5.800000000000001,
+    "total_positions": 2176,
+    "event_ct": 211,
+    "win_count": 191,
+    "rank": 18990,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
