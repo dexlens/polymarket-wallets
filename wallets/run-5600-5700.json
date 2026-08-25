@@ -222,5 +222,21 @@
     "win_count": 3,
     "rank": 5614,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x60c512101ce36016276bc188243f9ce8300b2082",
+    "trader_name": "MrMopell",
+    "tag": "Overall",
+    "overall_gain": 19190.407251253077,
+    "active_positions": 0,
+    "win_amount": 19190.407251253077,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003075,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 5615,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
