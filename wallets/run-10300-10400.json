@@ -46,5 +46,21 @@
     "win_count": 3252,
     "rank": 10303,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x7c41b1cfa258611ce5a47f529226478d65c4da6d",
+    "trader_name": "Phyrosian",
+    "tag": "Overall",
+    "overall_gain": 10205.991295619267,
+    "active_positions": 4,
+    "win_amount": 11675.441423595132,
+    "loss_amount": -1469.450127975862,
+    "win_rate": 0.8085106382978723,
+    "total_current_value": 0.000382,
+    "total_positions": 52,
+    "event_ct": 47,
+    "win_count": 38,
+    "rank": 10304,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
