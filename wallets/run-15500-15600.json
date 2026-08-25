@@ -158,5 +158,21 @@
     "win_count": 28,
     "rank": 15510,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd9d1b59c4d76c5cc338819177d9ffd04b1db8c4d",
+    "trader_name": "phonebook",
+    "tag": "Overall",
+    "overall_gain": 6234.238071762585,
+    "active_positions": 1,
+    "win_amount": 11918.866851059085,
+    "loss_amount": -5684.6287792965,
+    "win_rate": 0.5,
+    "total_current_value": 0.023149999999999997,
+    "total_positions": 52,
+    "event_ct": 48,
+    "win_count": 24,
+    "rank": 15511,
+    "trader_tags": ""
   }
 ]
