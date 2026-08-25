@@ -1102,5 +1102,21 @@
     "win_count": 70,
     "rank": 7669,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b5918e8dd00103894b7495baa199c68def76445",
+    "trader_name": "web3st",
+    "tag": "Overall",
+    "overall_gain": 13788.600345846917,
+    "active_positions": 45,
+    "win_amount": 38969.71138496463,
+    "loss_amount": -25181.1110391177,
+    "win_rate": 0.6555023923444976,
+    "total_current_value": 214.80719888649992,
+    "total_positions": 233,
+    "event_ct": 209,
+    "win_count": 137,
+    "rank": 7670,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
