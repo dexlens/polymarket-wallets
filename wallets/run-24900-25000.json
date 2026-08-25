@@ -1310,5 +1310,21 @@
     "win_count": 5,
     "rank": 24983,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57d84abb4e06f776b57b7c61b740abbc2db7e680",
+    "trader_name": "AliveAgain",
+    "tag": "Overall",
+    "overall_gain": 3542.824541113871,
+    "active_positions": 3,
+    "win_amount": 5166.805703,
+    "loss_amount": -1623.981161886129,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 24984,
+    "trader_tags": "> 1 year old"
   }
 ]
