@@ -142,5 +142,21 @@
     "win_count": 2,
     "rank": 8109,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa99562acf3a4b891ad8c09cd67af20b86cd51be0",
+    "trader_name": "Betology",
+    "tag": "Overall",
+    "overall_gain": 12971.10092127367,
+    "active_positions": 12,
+    "win_amount": 23071.364936426035,
+    "loss_amount": -10100.264015152365,
+    "win_rate": 0.8648180242634316,
+    "total_current_value": 4977.178240268,
+    "total_positions": 974,
+    "event_ct": 577,
+    "win_count": 499,
+    "rank": 8110,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
