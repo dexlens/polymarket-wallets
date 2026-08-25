@@ -478,5 +478,21 @@
     "win_count": 3,
     "rank": 10530,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d5fef030f603585480f65434a3c3c2e33746908",
+    "trader_name": "ydhsbz",
+    "tag": "Overall",
+    "overall_gain": 10000.38,
+    "active_positions": 0,
+    "win_amount": 10000.38,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 10531,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
