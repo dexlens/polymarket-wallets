@@ -1230,5 +1230,21 @@
     "win_count": 46,
     "rank": 4477,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x026a855608125303f3c1904861b148ede5c71381",
+    "trader_name": "EvidenceForLawsuitMarch2026",
+    "tag": "Overall",
+    "overall_gain": 24685.876742699038,
+    "active_positions": 11,
+    "win_amount": 86474.51728739956,
+    "loss_amount": -61788.64054470055,
+    "win_rate": 0.8378378378378378,
+    "total_current_value": 37.287915999999996,
+    "total_positions": 91,
+    "event_ct": 74,
+    "win_count": 62,
+    "rank": 4478,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
