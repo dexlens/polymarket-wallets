@@ -1102,5 +1102,21 @@
     "win_count": 6,
     "rank": 3569,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xc2caf1516623dc90de8edf813de6924f841ce881",
+    "trader_name": "akstar",
+    "tag": "Overall",
+    "overall_gain": 31881.37454726224,
+    "active_positions": 0,
+    "win_amount": 35380.61228214223,
+    "loss_amount": -3499.2377348799987,
+    "win_rate": 0.4883720930232558,
+    "total_current_value": 0.046379000000000004,
+    "total_positions": 96,
+    "event_ct": 86,
+    "win_count": 42,
+    "rank": 3570,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
