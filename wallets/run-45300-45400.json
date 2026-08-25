@@ -510,5 +510,21 @@
     "win_count": 10,
     "rank": 45333,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbdb102f416b722ae7818a79dc24c6e5df1828008",
+    "trader_name": "YoyoLMD",
+    "tag": "Overall",
+    "overall_gain": 1697.711082063559,
+    "active_positions": 12,
+    "win_amount": 1935.725354528376,
+    "loss_amount": -238.014272464817,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 9.988197684000001,
+    "total_positions": 38,
+    "event_ct": 33,
+    "win_count": 24,
+    "rank": 45334,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
