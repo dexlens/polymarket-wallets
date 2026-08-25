@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 8941,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c75c1124780de4aeef73b1f861ca47e39ac2bbc",
+    "trader_name": "vcruxk",
+    "tag": "Overall",
+    "overall_gain": 11717.488804,
+    "active_positions": 0,
+    "win_amount": 11755.738804,
+    "loss_amount": -38.25,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 8942,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
