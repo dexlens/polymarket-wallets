@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 63736,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x139e9a81bbd4583a41b28f6b8b2383fcbc7c9a26",
+    "trader_name": "slurrydps",
+    "tag": "Overall",
+    "overall_gain": 981.3427256620831,
+    "active_positions": 491,
+    "win_amount": 12080.047742409966,
+    "loss_amount": -11098.70501674788,
+    "win_rate": 0.5260170293282876,
+    "total_current_value": 928.373713734,
+    "total_positions": 1077,
+    "event_ct": 1057,
+    "win_count": 556,
+    "rank": 63737,
+    "trader_tags": "1k+ Positions"
   }
 ]
