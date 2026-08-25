@@ -1518,5 +1518,21 @@
     "win_count": 625,
     "rank": 1895,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x018632336f97d72891d0b7dffc4f39b49f71fde0",
+    "trader_name": "mideea",
+    "tag": "Overall",
+    "overall_gain": 64054.67395119137,
+    "active_positions": 11,
+    "win_amount": 99955.64473565857,
+    "loss_amount": -35900.9707844672,
+    "win_rate": 0.56,
+    "total_current_value": 0.141722,
+    "total_positions": 26,
+    "event_ct": 25,
+    "win_count": 14,
+    "rank": 1896,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
