@@ -526,5 +526,21 @@
     "win_count": 184,
     "rank": 7333,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8e6f796c7625916bb33fba3f91476b6a81d89f80",
+    "trader_name": "XiaoWang",
+    "tag": "Overall",
+    "overall_gain": 14510.682747,
+    "active_positions": 0,
+    "win_amount": 14510.682747,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7334,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
