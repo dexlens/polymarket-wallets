@@ -254,5 +254,21 @@
     "win_count": 2,
     "rank": 35217,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9331af3bd1b217a6420a0ccbf2c7790e0f99b246",
+    "trader_name": "davali",
+    "tag": "Overall",
+    "overall_gain": 2323.3660175501113,
+    "active_positions": 10,
+    "win_amount": 2877.808419558457,
+    "loss_amount": -554.442402008346,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 1395.2411041750001,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 4,
+    "rank": 35218,
+    "trader_tags": "< 30 days old"
   }
 ]
