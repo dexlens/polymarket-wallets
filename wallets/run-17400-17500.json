@@ -830,5 +830,21 @@
     "win_count": 42,
     "rank": 17452,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55fff9e216e706564de767a798a83b24de101df7",
+    "trader_name": "Katrielsoft",
+    "tag": "Overall",
+    "overall_gain": 5374.875705805809,
+    "active_positions": 3,
+    "win_amount": 5379.875698203993,
+    "loss_amount": -4.999992398183999,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 5.151978580000001,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 12,
+    "rank": 17453,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
