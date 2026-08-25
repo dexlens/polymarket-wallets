@@ -430,5 +430,21 @@
     "win_count": 4,
     "rank": 13227,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x144152547076c34b541c8306154889c33a572167",
+    "trader_name": "sumi",
+    "tag": "Overall",
+    "overall_gain": 7585.695732142365,
+    "active_positions": 0,
+    "win_amount": 11634.310344,
+    "loss_amount": -4048.614611857634,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 13228,
+    "trader_tags": "> 1 year old"
   }
 ]
