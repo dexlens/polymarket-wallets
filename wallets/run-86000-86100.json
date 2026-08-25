@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 86080,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3080e03e74cb83d843849e3ae960314c59e9f33c",
+    "trader_name": "ktmnk",
+    "tag": "Overall",
+    "overall_gain": 538.2085433392114,
+    "active_positions": 1,
+    "win_amount": 3760.1413580920007,
+    "loss_amount": -3221.932814752789,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.0019805,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 86081,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
