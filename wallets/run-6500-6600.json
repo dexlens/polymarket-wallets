@@ -1214,5 +1214,21 @@
     "win_count": 387,
     "rank": 6576,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x974cd3e9ce777352a1d56ee5005d9c289e7a7678",
+    "trader_name": "Wryndel",
+    "tag": "Overall",
+    "overall_gain": 16304.824259848698,
+    "active_positions": 0,
+    "win_amount": 16305.824259848698,
+    "loss_amount": -1,
+    "win_rate": 0.9777777777777777,
+    "total_current_value": 0.01068946,
+    "total_positions": 50,
+    "event_ct": 45,
+    "win_count": 44,
+    "rank": 6577,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
