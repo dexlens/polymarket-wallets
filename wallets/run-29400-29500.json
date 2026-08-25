@@ -1486,5 +1486,21 @@
     "win_count": 16,
     "rank": 29494,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x86485090087275fdcca846e53b48963876f740b1",
+    "trader_name": "rrr3366",
+    "tag": "Overall",
+    "overall_gain": 2883.86715,
+    "active_positions": 1,
+    "win_amount": 2883.91921,
+    "loss_amount": -0.05205999999999733,
+    "win_rate": 0.75,
+    "total_current_value": 103.8597,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 29495,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
