@@ -30,5 +30,21 @@
     "win_count": 4,
     "rank": 16102,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x320237b01bf9197650b12fa5941f5d802187fb47",
+    "trader_name": "EvanVogt",
+    "tag": "Overall",
+    "overall_gain": 5950.957571243523,
+    "active_positions": 19,
+    "win_amount": 20550.957571243525,
+    "loss_amount": -14600,
+    "win_rate": 0.7678571428571429,
+    "total_current_value": 6.176857999999998,
+    "total_positions": 56,
+    "event_ct": 56,
+    "win_count": 43,
+    "rank": 16103,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
