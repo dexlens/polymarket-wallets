@@ -942,5 +942,21 @@
     "win_count": 9,
     "rank": 84460,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15e88a4d90640f62c6f27b734a1b58abd49f49ec",
+    "trader_name": "Febs",
+    "tag": "Overall",
+    "overall_gain": 559.7489288929088,
+    "active_positions": 1,
+    "win_amount": 575.9198490489089,
+    "loss_amount": -16.170920155999998,
+    "win_rate": 0.8205128205128205,
+    "total_current_value": 129.33707212000002,
+    "total_positions": 59,
+    "event_ct": 39,
+    "win_count": 32,
+    "rank": 84461,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
