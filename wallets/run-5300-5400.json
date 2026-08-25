@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 5393,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xd9430448ac33ddce60fa8feaee5e83d0b6b7195c",
+    "trader_name": "gladitya",
+    "tag": "Overall",
+    "overall_gain": 20073.15623569778,
+    "active_positions": 2,
+    "win_amount": 20073.35067994778,
+    "loss_amount": -0.1944442500000001,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 17.371104335,
+    "total_positions": 18,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 5394,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
