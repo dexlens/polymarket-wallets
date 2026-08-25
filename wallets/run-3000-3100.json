@@ -590,5 +590,21 @@
     "win_count": 96,
     "rank": 3037,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49b60d2cda22653ddc8b6ef21bad6d012a7f170c",
+    "trader_name": "pkz",
+    "tag": "Overall",
+    "overall_gain": 37755.90041335717,
+    "active_positions": 30,
+    "win_amount": 168513.003462954,
+    "loss_amount": -130757.10304959693,
+    "win_rate": 0.63,
+    "total_current_value": 32743.382332205998,
+    "total_positions": 1084,
+    "event_ct": 700,
+    "win_count": 441,
+    "rank": 3038,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
