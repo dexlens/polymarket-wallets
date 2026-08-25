@@ -766,5 +766,21 @@
     "win_count": 7,
     "rank": 75849,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54532f829e5247fdeb38f578f55352e0cb5dd76d",
+    "trader_name": "Gianni54",
+    "tag": "Overall",
+    "overall_gain": 701.4454298771586,
+    "active_positions": 0,
+    "win_amount": 2067.564591839309,
+    "loss_amount": -1366.11916196215,
+    "win_rate": 0.5,
+    "total_current_value": 0.011497,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 75850,
+    "trader_tags": "> 1 year old"
   }
 ]
