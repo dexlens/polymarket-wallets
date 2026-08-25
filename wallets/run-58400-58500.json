@@ -718,5 +718,21 @@
     "win_count": 5,
     "rank": 58446,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0b97f552117bb896c7cdfd0b9c0689c5082ff4bf",
+    "trader_name": "longjian",
+    "tag": "Overall",
+    "overall_gain": 1127.4344803099998,
+    "active_positions": 6,
+    "win_amount": 1157.3644803099999,
+    "loss_amount": -29.93,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 55.972074,
+    "total_positions": 19,
+    "event_ct": 18,
+    "win_count": 15,
+    "rank": 58447,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
