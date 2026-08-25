@@ -958,5 +958,21 @@
     "win_count": 2,
     "rank": 38561,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c8a235232c27f5eb153847274c2ed412e814c20",
+    "trader_name": "achaacha",
+    "tag": "Overall",
+    "overall_gain": 2082.807374112089,
+    "active_positions": 24,
+    "win_amount": 36323.89476857535,
+    "loss_amount": -34241.08739446328,
+    "win_rate": 0.5433333333333333,
+    "total_current_value": 735.170604275,
+    "total_positions": 2085,
+    "event_ct": 300,
+    "win_count": 163,
+    "rank": 38562,
+    "trader_tags": "1k+ Positions"
   }
 ]
