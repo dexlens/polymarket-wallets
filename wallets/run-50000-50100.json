@@ -1278,5 +1278,21 @@
     "win_count": 28,
     "rank": 50081,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89eb83948d44d7b9b5e2c58fb49167b563a3cff9",
+    "trader_name": "Satanishippie",
+    "tag": "Overall",
+    "overall_gain": 1480.796771726122,
+    "active_positions": 5,
+    "win_amount": 8891.950537320943,
+    "loss_amount": -7411.153765594821,
+    "win_rate": 0.34375,
+    "total_current_value": 1555.3425268844999,
+    "total_positions": 36,
+    "event_ct": 32,
+    "win_count": 11,
+    "rank": 50082,
+    "trader_tags": "< 30 days old"
   }
 ]
