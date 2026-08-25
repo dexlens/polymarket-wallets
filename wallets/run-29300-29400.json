@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 29386,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x92483908cc53fb5e8e7f899113657c45013e9a19",
+    "trader_name": "chenyuanyi",
+    "tag": "Overall",
+    "overall_gain": 2897.042127182029,
+    "active_positions": 20,
+    "win_amount": 7685.625362787131,
+    "loss_amount": -4788.583235605099,
+    "win_rate": 0.8954545454545455,
+    "total_current_value": 48.711718,
+    "total_positions": 222,
+    "event_ct": 220,
+    "win_count": 197,
+    "rank": 29387,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
