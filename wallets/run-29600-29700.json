@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 29620,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x149f91a2622dccde7380d76695ce8a964e8ad306",
+    "trader_name": "JRocHWC",
+    "tag": "Overall",
+    "overall_gain": 2864.2987962433676,
+    "active_positions": 15,
+    "win_amount": 5144.661583995694,
+    "loss_amount": -2280.362787752327,
+    "win_rate": 0.7392857142857143,
+    "total_current_value": 915.6716106600002,
+    "total_positions": 512,
+    "event_ct": 280,
+    "win_count": 207,
+    "rank": 29621,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
