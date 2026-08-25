@@ -1182,5 +1182,21 @@
     "win_count": 7,
     "rank": 5574,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf6733392f5cf1fb0498d58ae72c50c282da1406f",
+    "trader_name": "Oompah..Loompah",
+    "tag": "Overall",
+    "overall_gain": 19375.826402122842,
+    "active_positions": 8,
+    "win_amount": 21518.496990286007,
+    "loss_amount": -2142.670588163168,
+    "win_rate": 0.6130952380952381,
+    "total_current_value": 0.975316,
+    "total_positions": 511,
+    "event_ct": 168,
+    "win_count": 103,
+    "rank": 5575,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
