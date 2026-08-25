@@ -302,5 +302,21 @@
     "win_count": 10,
     "rank": 7519,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x01eab04437acc1dda3e3618bc11bd0f7c803bea2",
+    "trader_name": "LoHr97",
+    "tag": "Overall",
+    "overall_gain": 14101.916178218948,
+    "active_positions": 5,
+    "win_amount": 66447.41973497884,
+    "loss_amount": -52345.50355675988,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 0.00764,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 4,
+    "rank": 7520,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
