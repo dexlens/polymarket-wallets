@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 56339,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8cf6a6b9dca6191088939846b4ba4955670dcb6a",
+    "trader_name": "777Piotr",
+    "tag": "Overall",
+    "overall_gain": 1203.543249560352,
+    "active_positions": 2,
+    "win_amount": 1965.401138672425,
+    "loss_amount": -761.8578891120729,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.008691,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 56340,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
