@@ -974,5 +974,21 @@
     "win_count": 270,
     "rank": 65462,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x77a3f41d15705ac13717d061992cf56583f2e0c0",
+    "trader_name": "padssfd5",
+    "tag": "Overall",
+    "overall_gain": 931.388377605,
+    "active_positions": 1,
+    "win_amount": 933.4332656995,
+    "loss_amount": -2.0448880945,
+    "win_rate": 0.75,
+    "total_current_value": 11.823329305,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 65463,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
