@@ -1470,5 +1470,21 @@
     "win_count": 24,
     "rank": 77693,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3a7a848a85725d1049e368ede6cccbc4a64625c6",
+    "trader_name": "conglaotan",
+    "tag": "Overall",
+    "overall_gain": 669.328146039383,
+    "active_positions": 13,
+    "win_amount": 703.562361008,
+    "loss_amount": -34.234214968616996,
+    "win_rate": 0.7027027027027027,
+    "total_current_value": 23.100001000000002,
+    "total_positions": 41,
+    "event_ct": 37,
+    "win_count": 26,
+    "rank": 77694,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
