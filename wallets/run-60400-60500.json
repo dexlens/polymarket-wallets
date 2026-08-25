@@ -206,5 +206,21 @@
     "win_count": 2,
     "rank": 60414,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7e260eb77b313cc89fbb7d016ddc0fad876ce273",
+    "trader_name": "omcconnell",
+    "tag": "Overall",
+    "overall_gain": 1064.22866092244,
+    "active_positions": 0,
+    "win_amount": 1291.7261629999994,
+    "loss_amount": -227.49750207756,
+    "win_rate": 0.6571428571428571,
+    "total_current_value": 0.011440000000000002,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 23,
+    "rank": 60415,
+    "trader_tags": "> 1 year old"
   }
 ]
