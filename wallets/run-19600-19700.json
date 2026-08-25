@@ -798,5 +798,21 @@
     "win_count": 383,
     "rank": 19650,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xc48ef6e60386238a4eea07fc1658229c493ab243",
+    "trader_name": "grocery-store",
+    "tag": "Overall",
+    "overall_gain": 4719.735250609759,
+    "active_positions": 4,
+    "win_amount": 11755.25333760976,
+    "loss_amount": -7035.518087,
+    "win_rate": 0.5808558858818824,
+    "total_current_value": 666.67223073,
+    "total_positions": 14990,
+    "event_ct": 7501,
+    "win_count": 4357,
+    "rank": 19651,
+    "trader_tags": "1k+ Positions"
   }
 ]
