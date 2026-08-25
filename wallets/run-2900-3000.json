@@ -1374,5 +1374,21 @@
     "win_count": 206,
     "rank": 2986,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa90a503be86f5bb5e4ba91dd0d4704beb194041f",
+    "trader_name": "Angevin",
+    "tag": "Overall",
+    "overall_gain": 38426.228705444286,
+    "active_positions": 3,
+    "win_amount": 39915.39439664429,
+    "loss_amount": -1489.1656911999999,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.059148,
+    "total_positions": 16,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 2987,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
