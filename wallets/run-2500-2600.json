@@ -1566,5 +1566,21 @@
     "win_count": 57,
     "rank": 2598,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9dd9e18b9dcc393705e73966bc79eccbbd9108bd",
+    "trader_name": "Glued",
+    "tag": "Overall",
+    "overall_gain": 44772.9802615729,
+    "active_positions": 1990,
+    "win_amount": 1003100.6197583256,
+    "loss_amount": -958327.6394967525,
+    "win_rate": 0.5567137413136068,
+    "total_current_value": 113085.403988789,
+    "total_positions": 31267,
+    "event_ct": 17844,
+    "win_count": 9934,
+    "rank": 2599,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
