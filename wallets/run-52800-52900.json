@@ -110,5 +110,21 @@
     "win_count": 6,
     "rank": 52808,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8c857ee712ec57d4b2e8a68e60455d69ae85775b",
+    "trader_name": "DFNFDNHERGE",
+    "tag": "Overall",
+    "overall_gain": 1355.639948,
+    "active_positions": 5,
+    "win_amount": 1555.079948,
+    "loss_amount": -199.44,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 1320,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 52809,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
