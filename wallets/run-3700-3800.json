@@ -766,5 +766,21 @@
     "win_count": 21,
     "rank": 3748,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xac813b3f74f2df8897fbcf4d8f1a746d70443fd2",
+    "trader_name": "okpr",
+    "tag": "Overall",
+    "overall_gain": 30419,
+    "active_positions": 6,
+    "win_amount": 41406,
+    "loss_amount": -10987,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 3749,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
