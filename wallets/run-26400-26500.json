@@ -702,5 +702,21 @@
     "win_count": 4,
     "rank": 26445,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b7050382fa6f35d7461b2190c4c897a1b7ced51",
+    "trader_name": "Pederr",
+    "tag": "Overall",
+    "overall_gain": 3298.1606600985097,
+    "active_positions": 38,
+    "win_amount": 5157.031112132314,
+    "loss_amount": -1858.8704520338042,
+    "win_rate": 0.6031746031746031,
+    "total_current_value": 21.710798637,
+    "total_positions": 68,
+    "event_ct": 63,
+    "win_count": 38,
+    "rank": 26446,
+    "trader_tags": "> 1 year old"
   }
 ]
