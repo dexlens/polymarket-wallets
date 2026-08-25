@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 68792,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0db3aec3d15444053340a98f5ed1583884f17cad",
+    "trader_name": "jackku",
+    "tag": "Overall",
+    "overall_gain": 840.5437967921026,
+    "active_positions": 9,
+    "win_amount": 2938.8343478565507,
+    "loss_amount": -2098.290551064448,
+    "win_rate": 0.3894230769230769,
+    "total_current_value": 10.9508964405,
+    "total_positions": 243,
+    "event_ct": 208,
+    "win_count": 81,
+    "rank": 68793,
+    "trader_tags": "< 30 days old"
   }
 ]
