@@ -830,5 +830,21 @@
     "win_count": 6,
     "rank": 5252,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63ad2e6f80f7240598d4e2f72a7ac64d6ffe790c",
+    "trader_name": "MohnatiyParanoik",
+    "tag": "Overall",
+    "overall_gain": 20637.48802221595,
+    "active_positions": 96,
+    "win_amount": 48613.65980719154,
+    "loss_amount": -27976.17178497559,
+    "win_rate": 0.6088709677419355,
+    "total_current_value": 3528.4528101155,
+    "total_positions": 353,
+    "event_ct": 248,
+    "win_count": 151,
+    "rank": 5253,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
