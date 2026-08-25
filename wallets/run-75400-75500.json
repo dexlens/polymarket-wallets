@@ -1182,5 +1182,21 @@
     "win_count": 33,
     "rank": 75475,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8dec095ebbb1659d31407d7889c1311e1d1560c2",
+    "trader_name": "capi123",
+    "tag": "Overall",
+    "overall_gain": 707.1885005695564,
+    "active_positions": 864,
+    "win_amount": 10401.4796846898,
+    "loss_amount": -9694.291184120248,
+    "win_rate": 0.5264026402640264,
+    "total_current_value": 9249.685484,
+    "total_positions": 1307,
+    "event_ct": 606,
+    "win_count": 319,
+    "rank": 75476,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
