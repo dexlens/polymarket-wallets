@@ -350,5 +350,21 @@
     "win_count": 2,
     "rank": 1022,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x56bad0e7a00913c6e35c00dce3ec7f7cd6a311d7",
+    "trader_name": "LampStore",
+    "tag": "Overall",
+    "overall_gain": 119400.85850103004,
+    "active_positions": 455,
+    "win_amount": 146144.68566640792,
+    "loss_amount": -26743.827165377814,
+    "win_rate": 0.7474636413613873,
+    "total_current_value": 1539.294789195,
+    "total_positions": 39985,
+    "event_ct": 20009,
+    "win_count": 14956,
+    "rank": 1023,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
