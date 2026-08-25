@@ -862,5 +862,21 @@
     "win_count": 144,
     "rank": 7754,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xf54e69c4cc923e9cab54307ebdff6611518effd4",
+    "trader_name": "sktel",
+    "tag": "Overall",
+    "overall_gain": 13612.737244762227,
+    "active_positions": 0,
+    "win_amount": 13612.737244762227,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002613,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7755,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
