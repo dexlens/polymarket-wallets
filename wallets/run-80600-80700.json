@@ -926,5 +926,21 @@
     "win_count": 2,
     "rank": 80659,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x039eeea1a85fd6d8df4343e293fd158fbd547183",
+    "trader_name": "huaxuan45",
+    "tag": "Overall",
+    "overall_gain": 619.698034831027,
+    "active_positions": 5,
+    "win_amount": 619.698034831027,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 132.44913100000002,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 15,
+    "rank": 80660,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
