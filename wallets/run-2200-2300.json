@@ -494,5 +494,21 @@
     "win_count": 4,
     "rank": 2231,
     "trader_tags": "Overall PnL > $10k; Politics PnL > $100k"
+  },
+  {
+    "trader": "0xe4b14e55bbfd549b913108dbcaa344391c2ba75e",
+    "trader_name": "jimbo24",
+    "tag": "Overall",
+    "overall_gain": 53681.32924267219,
+    "active_positions": 7,
+    "win_amount": 232440.3446377242,
+    "loss_amount": -178759.01539505197,
+    "win_rate": 0.36666666666666664,
+    "total_current_value": 0.281943,
+    "total_positions": 258,
+    "event_ct": 240,
+    "win_count": 88,
+    "rank": 2232,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
