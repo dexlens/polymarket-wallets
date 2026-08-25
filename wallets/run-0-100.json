@@ -702,5 +702,21 @@
     "win_count": 4,
     "rank": 44,
     "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election ; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "trader_name": "aenews2",
+    "tag": "Overall",
+    "overall_gain": 2002940.3162973842,
+    "active_positions": 233,
+    "win_amount": 3547457.7468798794,
+    "loss_amount": -1544517.4305824956,
+    "win_rate": 0.749611197511664,
+    "total_current_value": 305664.6832326906,
+    "total_positions": 3643,
+    "event_ct": 1286,
+    "win_count": 964,
+    "rank": 45,
+    "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; 1k+ Positions; Politics PnL > $100k"
   }
 ]
