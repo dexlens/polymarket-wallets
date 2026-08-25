@@ -1406,5 +1406,21 @@
     "win_count": 2,
     "rank": 40389,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb71519504c9a02a04cd13d9972caaee1ce55a663",
+    "trader_name": "Kereds",
+    "tag": "Overall",
+    "overall_gain": 1972.1688252748124,
+    "active_positions": 1,
+    "win_amount": 5336.111475058226,
+    "loss_amount": -3363.9426497834133,
+    "win_rate": 0.6460176991150443,
+    "total_current_value": 0.293207,
+    "total_positions": 189,
+    "event_ct": 113,
+    "win_count": 73,
+    "rank": 40390,
+    "trader_tags": "> 1 year old"
   }
 ]
