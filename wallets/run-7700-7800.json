@@ -206,5 +206,21 @@
     "win_count": 14,
     "rank": 7713,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x68a28ee753b506e6a0be9632e6758f25f4477250",
+    "trader_name": "cb289",
+    "tag": "Overall",
+    "overall_gain": 13701.127918999997,
+    "active_positions": 0,
+    "win_amount": 13729.447918999997,
+    "loss_amount": -28.32,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 21,
+    "win_count": 19,
+    "rank": 7714,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
