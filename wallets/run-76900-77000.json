@@ -1406,5 +1406,21 @@
     "win_count": 3,
     "rank": 76989,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x505a21f62a2a69ed8cbf18b1c971b134c146dd59",
+    "trader_name": "damian.mat",
+    "tag": "Overall",
+    "overall_gain": 682.09954108312,
+    "active_positions": 0,
+    "win_amount": 682.09954108312,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007021,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 76990,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
