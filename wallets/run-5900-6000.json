@@ -1582,5 +1582,21 @@
     "win_count": 53,
     "rank": 5999,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18badf0357161ed16a7237a3d1b30a4282a082ab",
+    "trader_name": "MAGA",
+    "tag": "Overall",
+    "overall_gain": 17871.546138104724,
+    "active_positions": 2,
+    "win_amount": 23485.36580176459,
+    "loss_amount": -5613.819663659865,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.005135,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 6000,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
