@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 37426,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x817a91bd0a16da6a1930e8937b0ba2b5bc6e921f",
+    "trader_name": "badtoshi",
+    "tag": "Overall",
+    "overall_gain": 2159.887964152902,
+    "active_positions": 269,
+    "win_amount": 50592.35889820741,
+    "loss_amount": -48432.470934054516,
+    "win_rate": 0.48480662983425415,
+    "total_current_value": 0.061194,
+    "total_positions": 1455,
+    "event_ct": 1448,
+    "win_count": 702,
+    "rank": 37427,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
