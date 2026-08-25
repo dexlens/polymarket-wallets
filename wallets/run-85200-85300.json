@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 85238,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74dd4c8890d21470ce1af480144fbc84877dfc22",
+    "trader_name": "lilElden",
+    "tag": "Overall",
+    "overall_gain": 548.827108161754,
+    "active_positions": 126,
+    "win_amount": 1488.905044,
+    "loss_amount": -940.0779358382457,
+    "win_rate": 0.5099601593625498,
+    "total_current_value": 0.009348,
+    "total_positions": 261,
+    "event_ct": 251,
+    "win_count": 128,
+    "rank": 85239,
+    "trader_tags": ""
   }
 ]
