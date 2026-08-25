@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 46415,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x06a13cb1089fb3c11e0912108fec4fc4a46cf804",
+    "trader_name": "tiger413",
+    "tag": "Overall",
+    "overall_gain": 1646.263455086293,
+    "active_positions": 0,
+    "win_amount": 9639.492135139173,
+    "loss_amount": -7993.228680052878,
+    "win_rate": 0.6955974842767295,
+    "total_current_value": 5.485833999999999,
+    "total_positions": 1592,
+    "event_ct": 1590,
+    "win_count": 1106,
+    "rank": 46416,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
