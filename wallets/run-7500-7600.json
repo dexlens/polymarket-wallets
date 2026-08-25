@@ -494,5 +494,21 @@
     "win_count": 140,
     "rank": 7531,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x94dc1cd9401fd653dfab6e976ed983e4e6a8e8d0",
+    "trader_name": "lewisfvm",
+    "tag": "Overall",
+    "overall_gain": 14083.608150000002,
+    "active_positions": 0,
+    "win_amount": 14108.448133000002,
+    "loss_amount": -24.839983000000004,
+    "win_rate": 0.8076923076923077,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 26,
+    "win_count": 21,
+    "rank": 7532,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
