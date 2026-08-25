@@ -350,5 +350,21 @@
     "win_count": 2,
     "rank": 20022,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ef453ffe9139352188648263d1e644aede783f4",
+    "trader_name": "chooseysi",
+    "tag": "Overall",
+    "overall_gain": 4620.388654312966,
+    "active_positions": 1,
+    "win_amount": 4792.287143312967,
+    "loss_amount": -171.89848899999998,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 0.025700999999999998,
+    "total_positions": 29,
+    "event_ct": 23,
+    "win_count": 16,
+    "rank": 20023,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
