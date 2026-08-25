@@ -1326,5 +1326,21 @@
     "win_count": 12,
     "rank": 87784,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b0d9f16d7a30dabc1e7596eb6f62056ae6eddd7",
+    "trader_name": "iguaneo",
+    "tag": "Overall",
+    "overall_gain": 515.3559885855828,
+    "active_positions": 11,
+    "win_amount": 1344.174924568689,
+    "loss_amount": -828.818935983106,
+    "win_rate": 0.6451612903225806,
+    "total_current_value": 0.048416,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 20,
+    "rank": 87785,
+    "trader_tags": ""
   }
 ]
