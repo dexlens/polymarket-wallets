@@ -238,5 +238,21 @@
     "win_count": 2,
     "rank": 48616,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7befce077eea465364938cd4592ac92f9149a8e3",
+    "trader_name": "MyronGu",
+    "tag": "Overall",
+    "overall_gain": 1545.0920815100003,
+    "active_positions": 1,
+    "win_amount": 1799.8136815100004,
+    "loss_amount": -254.7216,
+    "win_rate": 0.95,
+    "total_current_value": 29.7241405,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 19,
+    "rank": 48617,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
