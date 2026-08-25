@@ -942,5 +942,21 @@
     "win_count": 7,
     "rank": 11459,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x43e6abcf42fd918effcdf256350173aa0464e15c",
+    "trader_name": "dabvgvh",
+    "tag": "Overall",
+    "overall_gain": 9113.803163224511,
+    "active_positions": 45,
+    "win_amount": 20176.38296322451,
+    "loss_amount": -11062.579800000001,
+    "win_rate": 0.5619047619047619,
+    "total_current_value": 0.008512,
+    "total_positions": 106,
+    "event_ct": 105,
+    "win_count": 59,
+    "rank": 11460,
+    "trader_tags": ""
   }
 ]
