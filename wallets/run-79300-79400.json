@@ -1486,5 +1486,21 @@
     "win_count": 175,
     "rank": 79394,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0003034472452a77ff9dc006859ddd33f1a1e2cd",
+    "trader_name": "snowball2k2k2k",
+    "tag": "Overall",
+    "overall_gain": 640.5502396326829,
+    "active_positions": 19,
+    "win_amount": 915.673450632683,
+    "loss_amount": -275.1232109999999,
+    "win_rate": 0.7435897435897436,
+    "total_current_value": 1.4469187465,
+    "total_positions": 147,
+    "event_ct": 39,
+    "win_count": 29,
+    "rank": 79395,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
