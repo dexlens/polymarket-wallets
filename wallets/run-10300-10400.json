@@ -414,5 +414,21 @@
     "win_count": 7,
     "rank": 10326,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x796590ec48bca1d8fd773bf52a66bf82e21409d9",
+    "trader_name": "scottorhino",
+    "tag": "Overall",
+    "overall_gain": 10174.20320678871,
+    "active_positions": 4,
+    "win_amount": 10174.20320678871,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 40424.756291873004,
+    "total_positions": 25,
+    "event_ct": 21,
+    "win_count": 21,
+    "rank": 10327,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
