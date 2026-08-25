@@ -158,5 +158,21 @@
     "win_count": 7,
     "rank": 52011,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2e2bb64f7e75fedc8b802452e633440a9154d586",
+    "trader_name": "Labdox",
+    "tag": "Overall",
+    "overall_gain": 1392.0235445346063,
+    "active_positions": 5,
+    "win_amount": 2475.738192813229,
+    "loss_amount": -1083.714648278623,
+    "win_rate": 0.725,
+    "total_current_value": 0.165378751,
+    "total_positions": 66,
+    "event_ct": 40,
+    "win_count": 29,
+    "rank": 52012,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
