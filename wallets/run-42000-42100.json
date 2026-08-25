@@ -830,5 +830,21 @@
     "win_count": 2,
     "rank": 42053,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4d11c38024e11df0a8345be1f51cfb5770d54fb",
+    "trader_name": "GDHDH",
+    "tag": "Overall",
+    "overall_gain": 1873.8927870000002,
+    "active_positions": 12,
+    "win_amount": 3919.062787,
+    "loss_amount": -2045.17,
+    "win_rate": 0.5897435897435898,
+    "total_current_value": 105.7855,
+    "total_positions": 39,
+    "event_ct": 39,
+    "win_count": 23,
+    "rank": 42054,
+    "trader_tags": "> 1 year old"
   }
 ]
