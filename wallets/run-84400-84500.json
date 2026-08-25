@@ -110,5 +110,21 @@
     "win_count": 1,
     "rank": 84408,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6033fe6d23b922e1c09dabffe3dac6eeadc7ff2a",
+    "trader_name": "vtortx",
+    "tag": "Overall",
+    "overall_gain": 560.367424306786,
+    "active_positions": 1,
+    "win_amount": 802.28144,
+    "loss_amount": -241.914015693214,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 29.694242366,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 13,
+    "rank": 84409,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
