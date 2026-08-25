@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 56900,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a6bfa4e32a5bd255902fb0b4c8e4e7edb5cc70d",
+    "trader_name": "Crypto-the-Superdog",
+    "tag": "Overall",
+    "overall_gain": 1182.9587847291616,
+    "active_positions": 8,
+    "win_amount": 1355.6011343572682,
+    "loss_amount": -172.64234962810696,
+    "win_rate": 0.6,
+    "total_current_value": 0.03985600000000001,
+    "total_positions": 54,
+    "event_ct": 40,
+    "win_count": 24,
+    "rank": 56901,
+    "trader_tags": "> 1 year old"
   }
 ]
