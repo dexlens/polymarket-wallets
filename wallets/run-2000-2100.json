@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 2061,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe25e65e2bcdd9a64a4813397d84e464d49f00aa5",
+    "trader_name": "Wiz_0066",
+    "tag": "Overall",
+    "overall_gain": 58366.66807482088,
+    "active_positions": 2,
+    "win_amount": 114808.15125370308,
+    "loss_amount": -56441.48317888222,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.29047600000000007,
+    "total_positions": 314,
+    "event_ct": 252,
+    "win_count": 140,
+    "rank": 2062,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
