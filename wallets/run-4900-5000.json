@@ -430,5 +430,21 @@
     "win_count": 23,
     "rank": 4927,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x07743a3369150718f721edcf394ee56e94358ab1",
+    "trader_name": "bengta",
+    "tag": "Overall",
+    "overall_gain": 22016.733597608167,
+    "active_positions": 5,
+    "win_amount": 23188.445538588046,
+    "loss_amount": -1171.7119409798768,
+    "win_rate": 0.7567567567567568,
+    "total_current_value": 20.710972625,
+    "total_positions": 42,
+    "event_ct": 37,
+    "win_count": 28,
+    "rank": 4928,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
