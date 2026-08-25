@@ -478,5 +478,21 @@
     "win_count": 36,
     "rank": 6130,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27cb4e127fbfd433122ff801efc10954f33b169e",
+    "trader_name": "crudeoilmoney",
+    "tag": "Overall",
+    "overall_gain": 17480.061664747216,
+    "active_positions": 30,
+    "win_amount": 137402.1771041724,
+    "loss_amount": -119922.11543942521,
+    "win_rate": 0.7397260273972602,
+    "total_current_value": 289.4852770999999,
+    "total_positions": 579,
+    "event_ct": 365,
+    "win_count": 270,
+    "rank": 6131,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
