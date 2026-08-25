@@ -46,5 +46,21 @@
     "win_count": 1,
     "rank": 3203,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e9897cfdaf0a3ddfde51e477130dfc9a72ba64d",
+    "trader_name": "HtutHtutTrain",
+    "tag": "Overall",
+    "overall_gain": 35720.4055073047,
+    "active_positions": 7,
+    "win_amount": 38303.911976334544,
+    "loss_amount": -2583.5064690298477,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 14.732656523000001,
+    "total_positions": 94,
+    "event_ct": 36,
+    "win_count": 33,
+    "rank": 3204,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
