@@ -814,5 +814,21 @@
     "win_count": 7,
     "rank": 71152,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa46ccce79b93d55523919d44c5442d928f913878",
+    "trader_name": "Slidger",
+    "tag": "Overall",
+    "overall_gain": 785.070776153775,
+    "active_positions": 1,
+    "win_amount": 868.344598281924,
+    "loss_amount": -83.27382212814899,
+    "win_rate": 0.75,
+    "total_current_value": 3725.3304752739996,
+    "total_positions": 23,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 71153,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
