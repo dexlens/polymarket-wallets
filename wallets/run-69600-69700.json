@@ -974,5 +974,21 @@
     "win_count": 3,
     "rank": 69662,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2341d5391684cda70c6252a84e48d6fd43700e3a",
+    "trader_name": "SleepingSheep",
+    "tag": "Overall",
+    "overall_gain": 818.4883106619311,
+    "active_positions": 3,
+    "win_amount": 1870.3093270680224,
+    "loss_amount": -1051.821016406091,
+    "win_rate": 0.7339449541284404,
+    "total_current_value": 676.4307626640001,
+    "total_positions": 150,
+    "event_ct": 109,
+    "win_count": 80,
+    "rank": 69663,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
