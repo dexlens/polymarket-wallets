@@ -430,5 +430,21 @@
     "win_count": 104,
     "rank": 13327,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x39a5f94e851642404751cc5310edaa180eac87f2",
+    "trader_name": "sweetj",
+    "tag": "Overall",
+    "overall_gain": 7497.135258384921,
+    "active_positions": 138,
+    "win_amount": 19399.922050350637,
+    "loss_amount": -11902.786791965715,
+    "win_rate": 0.7637889688249401,
+    "total_current_value": 58459.91711788001,
+    "total_positions": 1674,
+    "event_ct": 834,
+    "win_count": 637,
+    "rank": 13328,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
