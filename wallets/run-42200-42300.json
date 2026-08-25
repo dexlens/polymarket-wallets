@@ -286,5 +286,21 @@
     "win_count": 1314,
     "rank": 42219,
     "trader_tags": "1k+ Positions"
+  },
+  {
+    "trader": "0xcddfe918129d80af6a0f88393e157124f8ca2396",
+    "trader_name": "SecondLedger",
+    "tag": "Overall",
+    "overall_gain": 1865.3874489999998,
+    "active_positions": 0,
+    "win_amount": 1865.3874489999998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 42220,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
