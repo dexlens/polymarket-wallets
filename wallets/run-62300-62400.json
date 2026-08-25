@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 62344,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf2f46ddf49b3889a36595a901cb4eaebd8e602eb",
+    "trader_name": "queche",
+    "tag": "Overall",
+    "overall_gain": 1013.7968193000002,
+    "active_positions": 6,
+    "win_amount": 3757.752503000001,
+    "loss_amount": -2743.9556837,
+    "win_rate": 0.9865016872890888,
+    "total_current_value": 0.02,
+    "total_positions": 894,
+    "event_ct": 889,
+    "win_count": 877,
+    "rank": 62345,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
