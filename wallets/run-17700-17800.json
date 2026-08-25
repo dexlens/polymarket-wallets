@@ -862,5 +862,21 @@
     "win_count": 8,
     "rank": 17754,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f86f1e9a9716dc5e404f31d253c62986497c5b9",
+    "trader_name": "Ghrost",
+    "tag": "Overall",
+    "overall_gain": 5259.5,
+    "active_positions": 1,
+    "win_amount": 5548.5,
+    "loss_amount": -289,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 17755,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
