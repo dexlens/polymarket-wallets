@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 44144,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3db2468b09925569a4d88c0aebf1d3c85660c483",
+    "trader_name": "Quietia",
+    "tag": "Overall",
+    "overall_gain": 1758.0877310100002,
+    "active_positions": 2,
+    "win_amount": 2530.9390000000003,
+    "loss_amount": -772.85126899,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.00815,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 44145,
+    "trader_tags": ""
   }
 ]
