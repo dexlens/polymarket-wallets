@@ -990,5 +990,21 @@
     "win_count": 32,
     "rank": 83463,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x084b8d9f8ff1bc74b37ae1e1fa695f4d5d2cdc89",
+    "trader_name": "kokordilos",
+    "tag": "Overall",
+    "overall_gain": 574.897059449186,
+    "active_positions": 3,
+    "win_amount": 592.3199205613361,
+    "loss_amount": -17.422861112150002,
+    "win_rate": 0.8529411764705882,
+    "total_current_value": 480.8443965275,
+    "total_positions": 92,
+    "event_ct": 34,
+    "win_count": 29,
+    "rank": 83464,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
