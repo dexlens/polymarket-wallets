@@ -414,5 +414,21 @@
     "win_count": 1,
     "rank": 79527,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa306cdfea17fc793369a1263d7fd21d73c85d699",
+    "trader_name": "Stonecutter21",
+    "tag": "Overall",
+    "overall_gain": 638.4809858035817,
+    "active_positions": 13,
+    "win_amount": 5869.977469358775,
+    "loss_amount": -5231.496483555194,
+    "win_rate": 0.7466666666666667,
+    "total_current_value": 0.015754,
+    "total_positions": 76,
+    "event_ct": 75,
+    "win_count": 56,
+    "rank": 79528,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
