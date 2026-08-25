@@ -1086,5 +1086,21 @@
     "win_count": 93,
     "rank": 8368,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x278c91bc75a3c3d71ca1c6c7c832c7e7c8e9a9a1",
+    "trader_name": "BrcTL",
+    "tag": "Overall",
+    "overall_gain": 12533.74533548818,
+    "active_positions": 0,
+    "win_amount": 99972.82423465812,
+    "loss_amount": -87439.07889916998,
+    "win_rate": 0.8701580920302059,
+    "total_current_value": 77.921437,
+    "total_positions": 19345,
+    "event_ct": 18407,
+    "win_count": 16017,
+    "rank": 8369,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
