@@ -174,5 +174,21 @@
     "win_count": 9,
     "rank": 4411,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x27692dfbab9c9fcbe7a384d0a16b7c97170a5ccc",
+    "trader_name": "huluboy111",
+    "tag": "Overall",
+    "overall_gain": 25195.679019667776,
+    "active_positions": 1,
+    "win_amount": 25195.679019667776,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.010553,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 11,
+    "rank": 4412,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
