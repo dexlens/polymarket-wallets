@@ -926,5 +926,21 @@
     "win_count": 11,
     "rank": 4758,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x987ca0568459945dfd61fe542b4bd40585bca4c5",
+    "trader_name": "tbrcbee",
+    "tag": "Overall",
+    "overall_gain": 22867.98339242515,
+    "active_positions": 8,
+    "win_amount": 28889.55139242515,
+    "loss_amount": -6021.568,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 11.764152,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 16,
+    "rank": 4759,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
