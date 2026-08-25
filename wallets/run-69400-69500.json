@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 69462,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6172d38dc668b4c0005e5f944719e8466d510d26",
+    "trader_name": "BOoom",
+    "tag": "Overall",
+    "overall_gain": 823.127725497302,
+    "active_positions": 0,
+    "win_amount": 1122.127725497302,
+    "loss_amount": -299,
+    "win_rate": 0.75,
+    "total_current_value": 0.025302,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 69463,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
