@@ -286,5 +286,21 @@
     "win_count": 14,
     "rank": 10018,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4264c89c255da3094b338d33da241e50b1ed007c",
+    "trader_name": "riskmanage",
+    "tag": "Overall",
+    "overall_gain": 10465.630371990763,
+    "active_positions": 4,
+    "win_amount": 14349.137245630764,
+    "loss_amount": -3883.50687364,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 77.5,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 10019,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
