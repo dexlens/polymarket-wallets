@@ -862,5 +862,21 @@
     "win_count": 60,
     "rank": 45955,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b6af721e4393874390ba1a7e2f2eb72b0957c13",
+    "trader_name": "CCDXiao",
+    "tag": "Overall",
+    "overall_gain": 1668.537770877392,
+    "active_positions": 16,
+    "win_amount": 1731.4894006358918,
+    "loss_amount": -62.951629758500005,
+    "win_rate": 0.42424242424242425,
+    "total_current_value": 13.461297583,
+    "total_positions": 65,
+    "event_ct": 33,
+    "win_count": 14,
+    "rank": 45956,
+    "trader_tags": ""
   }
 ]
