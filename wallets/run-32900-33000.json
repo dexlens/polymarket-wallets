@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 32979,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29d74e472318a4cc2a8f5068a260775d545c068b",
+    "trader_name": "Dusch",
+    "tag": "Overall",
+    "overall_gain": 2506.417887720956,
+    "active_positions": 5,
+    "win_amount": 18429.39674063,
+    "loss_amount": -15922.978852909047,
+    "win_rate": 0.5365853658536586,
+    "total_current_value": 0.03206,
+    "total_positions": 43,
+    "event_ct": 41,
+    "win_count": 22,
+    "rank": 32980,
+    "trader_tags": ""
   }
 ]
