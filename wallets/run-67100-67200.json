@@ -302,5 +302,21 @@
     "win_count": 123,
     "rank": 67120,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ccedefb1c12bcb231336a22e4ab48e32c455a68",
+    "trader_name": "charlerter",
+    "tag": "Overall",
+    "overall_gain": 885.78,
+    "active_positions": 1,
+    "win_amount": 3080.9800000000005,
+    "loss_amount": -2195.2,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 19.84,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 67121,
+    "trader_tags": ""
   }
 ]
