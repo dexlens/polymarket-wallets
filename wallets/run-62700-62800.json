@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 62765,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c502fc80fb7197b4e6d1c9bc19f3bc9421573b8",
+    "trader_name": "yomamatrades",
+    "tag": "Overall",
+    "overall_gain": 1003.2011964139556,
+    "active_positions": 61,
+    "win_amount": 1921.4335653411645,
+    "loss_amount": -918.2323689272091,
+    "win_rate": 0.7870370370370371,
+    "total_current_value": 6226.520168315,
+    "total_positions": 187,
+    "event_ct": 108,
+    "win_count": 85,
+    "rank": 62766,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
