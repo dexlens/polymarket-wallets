@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 89015,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x76e5b843c87ec16e6e0ce6e704ccd998ca185f94",
+    "trader_name": "jihan",
+    "tag": "Overall",
+    "overall_gain": 501.50288900000004,
+    "active_positions": 1,
+    "win_amount": 502.652889,
+    "loss_amount": -1.15,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 89016,
+    "trader_tags": "> 1 year old"
   }
 ]
