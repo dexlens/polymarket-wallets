@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 2014,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x75008f8c64c5f0935c64180ce4e352731fc6059b",
+    "trader_name": "LunarLoot",
+    "tag": "Overall",
+    "overall_gain": 60021.036279,
+    "active_positions": 0,
+    "win_amount": 60223.878162,
+    "loss_amount": -202.84188299999997,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 2015,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
