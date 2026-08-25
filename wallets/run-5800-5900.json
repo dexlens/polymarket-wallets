@@ -1534,5 +1534,21 @@
     "win_count": 27,
     "rank": 5896,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x006fc93d476295a87f40479e4ae61412146faaf8",
+    "trader_name": "hl-user123",
+    "tag": "Overall",
+    "overall_gain": 18226.099215791433,
+    "active_positions": 0,
+    "win_amount": 18226.099215791433,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.071612,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 5897,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
