@@ -1326,5 +1326,21 @@
     "win_count": 5,
     "rank": 43584,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6d2b5b1bfb1ba086e5e5a8956a256d4e42112457",
+    "trader_name": "eroslsondd",
+    "tag": "Overall",
+    "overall_gain": 1788.9900000000002,
+    "active_positions": 0,
+    "win_amount": 1788.9900000000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 43585,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
