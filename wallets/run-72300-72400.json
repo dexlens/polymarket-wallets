@@ -478,5 +478,21 @@
     "win_count": 11,
     "rank": 72331,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0xd0de724f80713bc43be6738472e2c50a8c19a9fc",
+    "trader_name": "echonet",
+    "tag": "Overall",
+    "overall_gain": 759.419356069185,
+    "active_positions": 10,
+    "win_amount": 1557.4040471568137,
+    "loss_amount": -797.9846910876291,
+    "win_rate": 0.7354838709677419,
+    "total_current_value": 210.44018017800002,
+    "total_positions": 224,
+    "event_ct": 155,
+    "win_count": 114,
+    "rank": 72332,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
