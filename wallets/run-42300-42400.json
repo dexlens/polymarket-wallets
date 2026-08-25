@@ -462,5 +462,21 @@
     "win_count": 36,
     "rank": 42330,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd40011435a4a88cdd59ed216aacedc091169aad6",
+    "trader_name": "Jul8d",
+    "tag": "Overall",
+    "overall_gain": 1859.0818109230436,
+    "active_positions": 1,
+    "win_amount": 2674.5971184055097,
+    "loss_amount": -815.515307482466,
+    "win_rate": 0.4,
+    "total_current_value": 0.00357,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 42331,
+    "trader_tags": "> 1 year old"
   }
 ]
