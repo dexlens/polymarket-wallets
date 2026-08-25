@@ -126,5 +126,21 @@
     "win_count": 9,
     "rank": 24309,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9cbce44b89f3e9c1b9746f2696f1ea0c2e510b11",
+    "trader_name": "Reix",
+    "tag": "Overall",
+    "overall_gain": 3664,
+    "active_positions": 2,
+    "win_amount": 4317,
+    "loss_amount": -653,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 24310,
+    "trader_tags": ""
   }
 ]
