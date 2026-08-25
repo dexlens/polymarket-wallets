@@ -1166,5 +1166,21 @@
     "win_count": 13,
     "rank": 73,
     "trader_tags": "Overall PnL > $1m; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x51393c00184b39182f09a8a62b8549642e69a8db",
+    "trader_name": "4-seas",
+    "tag": "Overall",
+    "overall_gain": 1263930.7504066469,
+    "active_positions": 1172,
+    "win_amount": 8664556.714253897,
+    "loss_amount": -7400625.963847252,
+    "win_rate": 0.5142970611596506,
+    "total_current_value": 0.01,
+    "total_positions": 5125,
+    "event_ct": 2518,
+    "win_count": 1295,
+    "rank": 74,
+    "trader_tags": "Overall PnL > $1m; 1k+ Positions; Sports PnL > $100k"
   }
 ]
