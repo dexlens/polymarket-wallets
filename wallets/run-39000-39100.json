@@ -414,5 +414,21 @@
     "win_count": 8,
     "rank": 39027,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x0ef53afe8a7eccb631eea23fa84713d5f1fa1f71",
+    "trader_name": "ooll",
+    "tag": "Overall",
+    "overall_gain": 2051.1748182200004,
+    "active_positions": 6,
+    "win_amount": 8731.035858219999,
+    "loss_amount": -6679.861039999999,
+    "win_rate": 0.391304347826087,
+    "total_current_value": 5.01,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 9,
+    "rank": 39028,
+    "trader_tags": "> 1 year old"
   }
 ]
