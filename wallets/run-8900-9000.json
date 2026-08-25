@@ -1486,5 +1486,21 @@
     "win_count": 16598,
     "rank": 8993,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x8389a722ba7dd233f54de06312b6bcdadec61899",
+    "trader_name": "AlabasterMax",
+    "tag": "Overall",
+    "overall_gain": 11657.54900892609,
+    "active_positions": 1,
+    "win_amount": 17593.56953282259,
+    "loss_amount": -5936.0205238965,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 281.7409070535,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 8994,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
