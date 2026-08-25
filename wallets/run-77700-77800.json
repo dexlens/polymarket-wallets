@@ -286,5 +286,21 @@
     "win_count": 10,
     "rank": 77719,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b0c2456feaf3f0a3fdf0397ead34f8184cd3869",
+    "trader_name": "ManFromAgartha",
+    "tag": "Overall",
+    "overall_gain": 668.9492087913553,
+    "active_positions": 48,
+    "win_amount": 4322.415733083306,
+    "loss_amount": -3653.4665242919527,
+    "win_rate": 0.8766603415559773,
+    "total_current_value": 14.709688000000002,
+    "total_positions": 540,
+    "event_ct": 527,
+    "win_count": 462,
+    "rank": 77720,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
