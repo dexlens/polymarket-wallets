@@ -910,5 +910,21 @@
     "win_count": 4,
     "rank": 4657,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd289ce545f266b527a4706a861ee1cb1d447079f",
+    "trader_name": "Yonty",
+    "tag": "Overall",
+    "overall_gain": 23485.283015300654,
+    "active_positions": 31,
+    "win_amount": 153256.55528559582,
+    "loss_amount": -129771.27227029522,
+    "win_rate": 0.6333333333333333,
+    "total_current_value": 0.09660000000000002,
+    "total_positions": 81,
+    "event_ct": 60,
+    "win_count": 38,
+    "rank": 4658,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
