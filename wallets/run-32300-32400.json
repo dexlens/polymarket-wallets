@@ -1470,5 +1470,21 @@
     "win_count": 8,
     "rank": 32393,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe3f0888f5eb67250478669a348876b2563a1fc99",
+    "trader_name": "uwaga",
+    "tag": "Overall",
+    "overall_gain": 2561.361410606469,
+    "active_positions": 3,
+    "win_amount": 2944.8802807790007,
+    "loss_amount": -383.518870172532,
+    "win_rate": 0.9428571428571428,
+    "total_current_value": 2847.790683000001,
+    "total_positions": 59,
+    "event_ct": 35,
+    "win_count": 33,
+    "rank": 32394,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
