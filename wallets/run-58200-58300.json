@@ -926,5 +926,21 @@
     "win_count": 7,
     "rank": 58259,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x822c21b36a8864308146c4e0daccd2e7de02000f",
+    "trader_name": "ZeroBets",
+    "tag": "Overall",
+    "overall_gain": 1133.087310860581,
+    "active_positions": 3,
+    "win_amount": 1896.1638044519,
+    "loss_amount": -763.0764935913189,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 0.010552,
+    "total_positions": 19,
+    "event_ct": 9,
+    "win_count": 4,
+    "rank": 58260,
+    "trader_tags": "> 1 year old"
   }
 ]
