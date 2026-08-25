@@ -478,5 +478,21 @@
     "win_count": 3,
     "rank": 27131,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85eda3fc588f815747b7a7167a1c0df7003fee50",
+    "trader_name": "Ostyak",
+    "tag": "Overall",
+    "overall_gain": 3188.8952871457745,
+    "active_positions": 0,
+    "win_amount": 3477.7287042480457,
+    "loss_amount": -288.833417102271,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 0.011089,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 16,
+    "rank": 27132,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
