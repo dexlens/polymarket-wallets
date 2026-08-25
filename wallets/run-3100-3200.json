@@ -830,5 +830,21 @@
     "win_count": 3665,
     "rank": 3152,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xabd22fa45cd03ba5b5261282b68a2618cfb8bcf5",
+    "trader_name": "Chumgus",
+    "tag": "Overall",
+    "overall_gain": 36326.8337066612,
+    "active_positions": 4,
+    "win_amount": 37729.297961079494,
+    "loss_amount": -1402.464254418292,
+    "win_rate": 0.95,
+    "total_current_value": 10.19514572,
+    "total_positions": 103,
+    "event_ct": 40,
+    "win_count": 38,
+    "rank": 3153,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
