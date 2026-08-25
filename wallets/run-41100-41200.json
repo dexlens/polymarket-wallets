@@ -254,5 +254,21 @@
     "win_count": 4,
     "rank": 41117,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9674d7bdbf32b537da7a7ed7d791d6c63500eaef",
+    "trader_name": "littleclam",
+    "tag": "Overall",
+    "overall_gain": 1928.216927312526,
+    "active_positions": 255,
+    "win_amount": 32979.07821439462,
+    "loss_amount": -31050.861287082094,
+    "win_rate": 0.5798872180451128,
+    "total_current_value": 153.735652,
+    "total_positions": 1162,
+    "event_ct": 1064,
+    "win_count": 617,
+    "rank": 41118,
+    "trader_tags": "1k+ Positions"
   }
 ]
