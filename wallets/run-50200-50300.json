@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 50288,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0303a87ed4b85a9370c85b881d0f4f9686a52ae3",
+    "trader_name": "chfi",
+    "tag": "Overall",
+    "overall_gain": 1471.671506256438,
+    "active_positions": 33,
+    "win_amount": 3722.6219277295686,
+    "loss_amount": -2250.9504214731305,
+    "win_rate": 0.4690265486725664,
+    "total_current_value": 3.3960821535,
+    "total_positions": 123,
+    "event_ct": 113,
+    "win_count": 53,
+    "rank": 50289,
+    "trader_tags": ""
   }
 ]
