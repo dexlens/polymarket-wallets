@@ -750,5 +750,21 @@
     "win_count": 5,
     "rank": 8047,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8e3f57e48f51496629dca4f4bdacbeec2f736941",
+    "trader_name": "hideoffbush0",
+    "tag": "Overall",
+    "overall_gain": 13045.89386823714,
+    "active_positions": 8,
+    "win_amount": 20045.161412413087,
+    "loss_amount": -6999.267544175945,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 1339.3885436965002,
+    "total_positions": 134,
+    "event_ct": 62,
+    "win_count": 42,
+    "rank": 8048,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
