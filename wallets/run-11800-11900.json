@@ -1070,5 +1070,21 @@
     "win_count": 2,
     "rank": 11867,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x404661e67ca1f58d262384e1082ffa05554f2feb",
+    "trader_name": "Hurella",
+    "tag": "Overall",
+    "overall_gain": 8726.448921175184,
+    "active_positions": 5,
+    "win_amount": 8971.346975575185,
+    "loss_amount": -244.89805439999998,
+    "win_rate": 0.8108108108108109,
+    "total_current_value": 0.000264,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 30,
+    "rank": 11868,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
