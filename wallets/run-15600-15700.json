@@ -782,5 +782,21 @@
     "win_count": 25,
     "rank": 15649,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5993bdf1251b9d79fc0ed302c86cc4d782f16fbc",
+    "trader_name": "hqghy",
+    "tag": "Overall",
+    "overall_gain": 6158.5,
+    "active_positions": 1,
+    "win_amount": 6211.5,
+    "loss_amount": -53,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 15650,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
