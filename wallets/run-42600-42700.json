@@ -1006,5 +1006,21 @@
     "win_count": 2,
     "rank": 42664,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9919c393200f6e9389d084dd8f784a41cd92f261",
+    "trader_name": "RuEn",
+    "tag": "Overall",
+    "overall_gain": 1838.7629348188523,
+    "active_positions": 11,
+    "win_amount": 10414.405401102309,
+    "loss_amount": -8575.642466283454,
+    "win_rate": 0.5265486725663717,
+    "total_current_value": 939.9074557059998,
+    "total_positions": 279,
+    "event_ct": 226,
+    "win_count": 119,
+    "rank": 42665,
+    "trader_tags": "< 30 days old"
   }
 ]
