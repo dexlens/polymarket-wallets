@@ -158,5 +158,21 @@
     "win_count": 39,
     "rank": 68211,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2620d0637c873489d7e04c9b01ca1fa8396d66e8",
+    "trader_name": "hulsifgs",
+    "tag": "Overall",
+    "overall_gain": 855.5002638250572,
+    "active_positions": 7,
+    "win_amount": 1112.986805866221,
+    "loss_amount": -257.486542041164,
+    "win_rate": 0.782608695652174,
+    "total_current_value": 0.022885,
+    "total_positions": 33,
+    "event_ct": 23,
+    "win_count": 18,
+    "rank": 68212,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
