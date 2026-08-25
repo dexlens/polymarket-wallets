@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 43448,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x871a5501faba86a607c530673dcc63808c50eabf",
+    "trader_name": "Ninac",
+    "tag": "Overall",
+    "overall_gain": 1796.5976213937881,
+    "active_positions": 0,
+    "win_amount": 1796.613871393788,
+    "loss_amount": -0.01625,
+    "win_rate": 0.75,
+    "total_current_value": 0.004204,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 43449,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
