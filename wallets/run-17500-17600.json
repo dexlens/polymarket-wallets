@@ -1086,5 +1086,21 @@
     "win_count": 3,
     "rank": 17568,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x245867edbab9df1cc730457c67b2ef8db744dd29",
+    "trader_name": "bucks",
+    "tag": "Overall",
+    "overall_gain": 5334.724696989773,
+    "active_positions": 0,
+    "win_amount": 5334.724696989773,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004773,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 17569,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
