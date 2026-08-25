@@ -718,5 +718,21 @@
     "win_count": 16,
     "rank": 80346,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x15c5e4d885bc4ecd95d2b477bbb3a9eb612d4692",
+    "trader_name": "ShipOfPetr",
+    "tag": "Overall",
+    "overall_gain": 624.9382005680321,
+    "active_positions": 14,
+    "win_amount": 760.1745726796688,
+    "loss_amount": -135.236372111637,
+    "win_rate": 0.7953488372093023,
+    "total_current_value": 381.98575585599986,
+    "total_positions": 522,
+    "event_ct": 430,
+    "win_count": 342,
+    "rank": 80347,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
