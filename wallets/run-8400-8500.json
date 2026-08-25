@@ -446,5 +446,21 @@
     "win_count": 2,
     "rank": 8428,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x2d8d84f29c7cbc4336cb5017845519581014eb66",
+    "trader_name": "Laura",
+    "tag": "Overall",
+    "overall_gain": 12426.55865217813,
+    "active_positions": 0,
+    "win_amount": 17393.428721677767,
+    "loss_amount": -4966.87006949964,
+    "win_rate": 0.6,
+    "total_current_value": 0.125432,
+    "total_positions": 48,
+    "event_ct": 25,
+    "win_count": 15,
+    "rank": 8429,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
