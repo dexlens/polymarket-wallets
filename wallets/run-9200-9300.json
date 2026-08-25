@@ -638,5 +638,21 @@
     "win_count": 15,
     "rank": 9240,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x462c59a23186c0acd5f1ed4fc816e5e91d4abea1",
+    "trader_name": "epok",
+    "tag": "Overall",
+    "overall_gain": 11347.048241022538,
+    "active_positions": 293,
+    "win_amount": 161469.94812563175,
+    "loss_amount": -150122.8998846092,
+    "win_rate": 0.5481757362576729,
+    "total_current_value": 35.035624999999996,
+    "total_positions": 25926,
+    "event_ct": 14499,
+    "win_count": 7948,
+    "rank": 9241,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
