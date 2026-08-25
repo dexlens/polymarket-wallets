@@ -1582,5 +1582,21 @@
     "win_count": 220,
     "rank": 49800,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13b6d516c2483a21d923cd3a23ae3db9329fce4d",
+    "trader_name": "Juuzou",
+    "tag": "Overall",
+    "overall_gain": 1492.1444764923594,
+    "active_positions": 96,
+    "win_amount": 4567.858990073094,
+    "loss_amount": -3075.7145135807336,
+    "win_rate": 0.6532258064516129,
+    "total_current_value": 155.981623,
+    "total_positions": 137,
+    "event_ct": 124,
+    "win_count": 81,
+    "rank": 49801,
+    "trader_tags": ""
   }
 ]
