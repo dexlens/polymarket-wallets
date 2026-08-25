@@ -590,5 +590,21 @@
     "win_count": 7,
     "rank": 34938,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3f96548f6cfbb236a933a605812ae6ef5124617e",
+    "trader_name": "lem.kkralow",
+    "tag": "Overall",
+    "overall_gain": 2346.142801733033,
+    "active_positions": 2,
+    "win_amount": 3154.990349733033,
+    "loss_amount": -808.847548,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 846.077854,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 34939,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
