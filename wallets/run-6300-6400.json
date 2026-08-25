@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 6385,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb247318e9686271e571ee50c71e454cdb99e0e78",
+    "trader_name": "xiangjiaoren",
+    "tag": "Overall",
+    "overall_gain": 16783.96433733678,
+    "active_positions": 4,
+    "win_amount": 16891.993005336783,
+    "loss_amount": -108.02866800000001,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 22.071754570000003,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 21,
+    "rank": 6386,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
