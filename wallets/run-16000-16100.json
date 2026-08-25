@@ -750,5 +750,21 @@
     "win_count": 12,
     "rank": 16047,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2de9a90790d8eae4b6061e2d80c54404587a5289",
+    "trader_name": "LochNLoad",
+    "tag": "Overall",
+    "overall_gain": 5978.889265098402,
+    "active_positions": 302,
+    "win_amount": 33470.7027092963,
+    "loss_amount": -27491.813444197902,
+    "win_rate": 0.573100812231247,
+    "total_current_value": 469.47733509,
+    "total_positions": 16145,
+    "event_ct": 8372,
+    "win_count": 4798,
+    "rank": 16048,
+    "trader_tags": "1k+ Positions"
   }
 ]
