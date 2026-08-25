@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 23134,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x95d50d432b4be5fee48baea08e6ae13db0d6de97",
+    "trader_name": "VelleityVoter",
+    "tag": "Overall",
+    "overall_gain": 3891.5,
+    "active_positions": 5,
+    "win_amount": 5421,
+    "loss_amount": -1529.5,
+    "win_rate": 0.375,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 23135,
+    "trader_tags": ""
   }
 ]
