@@ -494,5 +494,21 @@
     "win_count": 239,
     "rank": 6231,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e0cb75697c4fb08899fec718ee39923d8786b3d",
+    "trader_name": "pzongzzu",
+    "tag": "Overall",
+    "overall_gain": 17184.013000000035,
+    "active_positions": 5,
+    "win_amount": 223991.613,
+    "loss_amount": -206807.59999999998,
+    "win_rate": 0.7,
+    "total_current_value": 135,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 6232,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
