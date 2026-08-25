@@ -430,5 +430,21 @@
     "win_count": 21,
     "rank": 25228,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcfc5dca433d0544d68c7e9baedbda4f6052078b2",
+    "trader_name": "BuckBray",
+    "tag": "Overall",
+    "overall_gain": 3500,
+    "active_positions": 2,
+    "win_amount": 4500,
+    "loss_amount": -1000,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 25229,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
