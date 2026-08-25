@@ -686,5 +686,21 @@
     "win_count": 26,
     "rank": 85544,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9bd148262de28f96a4209f227f9c64f910f03af6",
+    "trader_name": "followsaylor",
+    "tag": "Overall",
+    "overall_gain": 544.6057144866384,
+    "active_positions": 206,
+    "win_amount": 20044.444923294184,
+    "loss_amount": -19499.839208807545,
+    "win_rate": 0.47,
+    "total_current_value": 34.207643,
+    "total_positions": 495,
+    "event_ct": 400,
+    "win_count": 188,
+    "rank": 85545,
+    "trader_tags": ""
   }
 ]
