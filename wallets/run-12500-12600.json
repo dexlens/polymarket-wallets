@@ -590,5 +590,21 @@
     "win_count": 58,
     "rank": 12537,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbb369fa3d11a022a04fbfbcaf7bdc8e66d971bf7",
+    "trader_name": "YetAnotherCobra",
+    "tag": "Overall",
+    "overall_gain": 8095.157564396254,
+    "active_positions": 2,
+    "win_amount": 75940.596719,
+    "loss_amount": -67845.43915460374,
+    "win_rate": 0.5134061569016882,
+    "total_current_value": 31.234782755000005,
+    "total_positions": 5994,
+    "event_ct": 3021,
+    "win_count": 1551,
+    "rank": 12538,
+    "trader_tags": "1k+ Positions"
   }
 ]
