@@ -1022,5 +1022,21 @@
     "win_count": 21,
     "rank": 7564,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe4925fa7b9be9e68c27b45b4fd586c861739c28",
+    "trader_name": "Ayveru",
+    "tag": "Overall",
+    "overall_gain": 14017.945066952845,
+    "active_positions": 83,
+    "win_amount": 53367.260088025396,
+    "loss_amount": -39349.31502107255,
+    "win_rate": 0.6486486486486487,
+    "total_current_value": 501.00898099999995,
+    "total_positions": 249,
+    "event_ct": 222,
+    "win_count": 144,
+    "rank": 7565,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
