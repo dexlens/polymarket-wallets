@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 49698,
     "trader_tags": "Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x5ab39ab2e6cc1c214d8cf274962d81c6136143ab",
+    "trader_name": "TCBY6688",
+    "tag": "Overall",
+    "overall_gain": 1496.6974418793027,
+    "active_positions": 12,
+    "win_amount": 3170.0835221399943,
+    "loss_amount": -1673.3860802606923,
+    "win_rate": 0.9563953488372093,
+    "total_current_value": 8650.876568831505,
+    "total_positions": 730,
+    "event_ct": 344,
+    "win_count": 329,
+    "rank": 49699,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
