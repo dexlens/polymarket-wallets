@@ -1294,5 +1294,21 @@
     "win_count": 180,
     "rank": 52582,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7bef619805c763b07428fbb5f469c16fe5bebfc4",
+    "trader_name": "Nutello",
+    "tag": "Overall",
+    "overall_gain": 1365.784408292513,
+    "active_positions": 11,
+    "win_amount": 1396.4683346272338,
+    "loss_amount": -30.683926334721004,
+    "win_rate": 0.7386363636363636,
+    "total_current_value": 12.2262954985,
+    "total_positions": 88,
+    "event_ct": 88,
+    "win_count": 65,
+    "rank": 52583,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
