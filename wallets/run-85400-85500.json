@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 85453,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7d799eb6eb81d3d6a528a72f8b647e761c0797e5",
+    "trader_name": "Gilgamesh",
+    "tag": "Overall",
+    "overall_gain": 545.895901,
+    "active_positions": 0,
+    "win_amount": 545.895901,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 85454,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
