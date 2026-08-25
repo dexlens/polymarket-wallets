@@ -974,5 +974,21 @@
     "win_count": 4,
     "rank": 17761,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb5aa07754f665f6f26f2661ca79f3539cb936f12",
+    "trader_name": "peppapigger",
+    "tag": "Overall",
+    "overall_gain": 5257.388694573331,
+    "active_positions": 24,
+    "win_amount": 5262.282059710989,
+    "loss_amount": -4.893365137658,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 47.924022652,
+    "total_positions": 91,
+    "event_ct": 58,
+    "win_count": 52,
+    "rank": 17762,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
