@@ -1022,5 +1022,21 @@
     "win_count": 8,
     "rank": 39665,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4b367c80a5831c35495389b0c2311bd656e2fdd6",
+    "trader_name": "DNFNJN",
+    "tag": "Overall",
+    "overall_gain": 2012.360321744964,
+    "active_positions": 2,
+    "win_amount": 3045.0003,
+    "loss_amount": -1032.6399782550359,
+    "win_rate": 0.9393939393939394,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 31,
+    "rank": 39666,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
