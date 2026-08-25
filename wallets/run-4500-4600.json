@@ -958,5 +958,21 @@
     "win_count": 441,
     "rank": 4560,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1f80585150456678465e47d58ae052bc350792ec",
+    "trader_name": "nathanaelsae",
+    "tag": "Overall",
+    "overall_gain": 24181.09,
+    "active_positions": 0,
+    "win_amount": 26132.59,
+    "loss_amount": -1951.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 4561,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
