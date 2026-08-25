@@ -414,5 +414,21 @@
     "win_count": 10,
     "rank": 71327,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x9202e0208a699bff975b29ebed167492f628e7d1",
+    "trader_name": "AAWADA",
+    "tag": "Overall",
+    "overall_gain": 781.4388408324628,
+    "active_positions": 13,
+    "win_amount": 1529.502299521709,
+    "loss_amount": -748.0634586892461,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0.055986999999999995,
+    "total_positions": 37,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 71328,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
