@@ -174,5 +174,21 @@
     "win_count": 4,
     "rank": 14011,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x172476b6471e2194f9220e3ea9827cbe8e1864dd",
+    "trader_name": "RoryEvans",
+    "tag": "Overall",
+    "overall_gain": 7045.046432969352,
+    "active_positions": 45,
+    "win_amount": 28935.286464969355,
+    "loss_amount": -21890.240032,
+    "win_rate": 0.6617647058823529,
+    "total_current_value": 27.286142,
+    "total_positions": 75,
+    "event_ct": 68,
+    "win_count": 45,
+    "rank": 14012,
+    "trader_tags": ""
   }
 ]
