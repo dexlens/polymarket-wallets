@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 2139,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2853240a0f4e9e11a949a5cfa6e0fe953a293482",
+    "trader_name": "ClownPagliacci",
+    "tag": "Overall",
+    "overall_gain": 56344.667225939476,
+    "active_positions": 178,
+    "win_amount": 62035.64839450082,
+    "loss_amount": -5690.981168561347,
+    "win_rate": 0.8271604938271605,
+    "total_current_value": 58608.32553978402,
+    "total_positions": 2126,
+    "event_ct": 405,
+    "win_count": 335,
+    "rank": 2140,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
