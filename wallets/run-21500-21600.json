@@ -1166,5 +1166,21 @@
     "win_count": 10,
     "rank": 21573,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x615fe9b5b8fea80a3b347e13ce5ddddcdd30c920",
+    "trader_name": "Windmaul",
+    "tag": "Overall",
+    "overall_gain": 4218.6,
+    "active_positions": 0,
+    "win_amount": 4218.6,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 21574,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
