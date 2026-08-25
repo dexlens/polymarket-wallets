@@ -1374,5 +1374,21 @@
     "win_count": 10,
     "rank": 4886,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x26e7234a906e7e93d1272cde5d6118d94749cc6c",
+    "trader_name": "Mirror2000",
+    "tag": "Overall",
+    "overall_gain": 22250.22245799014,
+    "active_positions": 100,
+    "win_amount": 64043.78286871999,
+    "loss_amount": -41793.560410729864,
+    "win_rate": 0.5,
+    "total_current_value": 12262.74313727,
+    "total_positions": 250,
+    "event_ct": 226,
+    "win_count": 113,
+    "rank": 4887,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
