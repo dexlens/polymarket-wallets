@@ -1214,5 +1214,21 @@
     "win_count": 66,
     "rank": 2476,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f53691020762651d14e5a543519e14d5c8654fd",
+    "trader_name": "Lettucehead718",
+    "tag": "Overall",
+    "overall_gain": 47387.765246261304,
+    "active_positions": 1,
+    "win_amount": 47391.5452462613,
+    "loss_amount": -3.7800000000000002,
+    "win_rate": 0.5,
+    "total_current_value": 0.013629,
+    "total_positions": 11,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 2477,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
