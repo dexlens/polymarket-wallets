@@ -334,5 +334,21 @@
     "win_count": 18,
     "rank": 86922,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51a097d5ff33e24771abd67788c794043e6901e0",
+    "trader_name": "murderer",
+    "tag": "Overall",
+    "overall_gain": 526.4523313248395,
+    "active_positions": 1,
+    "win_amount": 2640.6198493248403,
+    "loss_amount": -2114.167518,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.014171999999999999,
+    "total_positions": 14,
+    "event_ct": 9,
+    "win_count": 3,
+    "rank": 86923,
+    "trader_tags": ""
   }
 ]
