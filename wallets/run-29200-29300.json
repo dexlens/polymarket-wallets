@@ -1342,5 +1342,21 @@
     "win_count": 35,
     "rank": 29285,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x635895f0f94a4c22e38d0cf9df9a0f5913e9cc23",
+    "trader_name": "test.saveliyb.test",
+    "tag": "Overall",
+    "overall_gain": 2910.2562244179153,
+    "active_positions": 33,
+    "win_amount": 8718.696452256632,
+    "loss_amount": -5808.440227838718,
+    "win_rate": 0.43089430894308944,
+    "total_current_value": 5076.8252763645,
+    "total_positions": 164,
+    "event_ct": 123,
+    "win_count": 53,
+    "rank": 29286,
+    "trader_tags": "> 1 year old"
   }
 ]
