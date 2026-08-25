@@ -1022,5 +1022,21 @@
     "win_count": 4,
     "rank": 58565,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8dc09b6291f88211e0aa6d70030f36cfd3f57277",
+    "trader_name": "qredhtnbv",
+    "tag": "Overall",
+    "overall_gain": 1122.9660119999994,
+    "active_positions": 3,
+    "win_amount": 1323.7569649999996,
+    "loss_amount": -200.790953,
+    "win_rate": 0.9032258064516129,
+    "total_current_value": 141.7,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 28,
+    "rank": 58566,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
