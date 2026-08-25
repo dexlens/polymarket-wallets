@@ -878,5 +878,21 @@
     "win_count": 29,
     "rank": 9355,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ecf69b0740d742c95a40e23f5d8311aa888abd4",
+    "trader_name": "gemini88",
+    "tag": "Overall",
+    "overall_gain": 11200.428417963994,
+    "active_positions": 392,
+    "win_amount": 75392.99359700001,
+    "loss_amount": -64192.56517903599,
+    "win_rate": 0.5393654524089306,
+    "total_current_value": 0,
+    "total_positions": 851,
+    "event_ct": 851,
+    "win_count": 459,
+    "rank": 9356,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
