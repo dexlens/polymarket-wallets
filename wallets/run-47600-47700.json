@@ -1022,5 +1022,21 @@
     "win_count": 9,
     "rank": 47665,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1ac262148f7469736db0c8116a36e1dda905b1b4",
+    "trader_name": "Pretty353",
+    "tag": "Overall",
+    "overall_gain": 1587.247158441349,
+    "active_positions": 0,
+    "win_amount": 1587.247158441349,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0053490000000000005,
+    "total_positions": 19,
+    "event_ct": 17,
+    "win_count": 17,
+    "rank": 47666,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
