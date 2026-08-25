@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 45497,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01fbed1482060428cec2146c518d1c28a256208e",
+    "trader_name": "zephyrax",
+    "tag": "Overall",
+    "overall_gain": 1690.6132615066651,
+    "active_positions": 0,
+    "win_amount": 3640.6125605066654,
+    "loss_amount": -1949.999299,
+    "win_rate": 0.75,
+    "total_current_value": 0.006665,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 45498,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
