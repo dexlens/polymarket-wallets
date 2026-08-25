@@ -734,5 +734,21 @@
     "win_count": 142,
     "rank": 50447,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9bf1e684338f975075c99c8d801bfc8675df0089",
+    "trader_name": "Quellz",
+    "tag": "Overall",
+    "overall_gain": 1464.6096382629983,
+    "active_positions": 6,
+    "win_amount": 1889.692094371688,
+    "loss_amount": -425.08245610868994,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 50.052843,
+    "total_positions": 27,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 50448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
