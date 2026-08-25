@@ -718,5 +718,21 @@
     "win_count": 2205,
     "rank": 6945,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xf825669db7488a28716cadc5e33b14d3421c9275",
+    "trader_name": "Fenlyra",
+    "tag": "Overall",
+    "overall_gain": 15434.668281809514,
+    "active_positions": 3,
+    "win_amount": 15755.493276809515,
+    "loss_amount": -320.824995,
+    "win_rate": 0.8846153846153846,
+    "total_current_value": 7.8864786175,
+    "total_positions": 28,
+    "event_ct": 26,
+    "win_count": 23,
+    "rank": 6946,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
