@@ -1374,5 +1374,21 @@
     "win_count": 28,
     "rank": 8486,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0b88b5a4af96956d6e4a68c3a61951d809f31d14",
+    "trader_name": "chainonu",
+    "tag": "Overall",
+    "overall_gain": 12334.261612400971,
+    "active_positions": 21,
+    "win_amount": 12440.764101336588,
+    "loss_amount": -106.50248893562099,
+    "win_rate": 0.4375,
+    "total_current_value": 18.4069497625,
+    "total_positions": 109,
+    "event_ct": 96,
+    "win_count": 42,
+    "rank": 8487,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
