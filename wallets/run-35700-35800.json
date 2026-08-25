@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 35726,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xa91edabae0eae478c830a6d5dfd3acc0571709e0",
+    "trader_name": "enri.hl",
+    "tag": "Overall",
+    "overall_gain": 2282.62473246794,
+    "active_positions": 1,
+    "win_amount": 2585.5191089711657,
+    "loss_amount": -302.894376503226,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 2165.2661875535,
+    "total_positions": 34,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 35727,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
