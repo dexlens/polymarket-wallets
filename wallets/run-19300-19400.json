@@ -1294,5 +1294,21 @@
     "win_count": 3,
     "rank": 19381,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x34364eb101be7dbb1b3c14ac1c8db152b73617c5",
+    "trader_name": "Epsteinfail",
+    "tag": "Overall",
+    "overall_gain": 4792.53067479163,
+    "active_positions": 0,
+    "win_amount": 12398.895959791633,
+    "loss_amount": -7606.365285000001,
+    "win_rate": 0.6631578947368421,
+    "total_current_value": 0.009145,
+    "total_positions": 112,
+    "event_ct": 95,
+    "win_count": 63,
+    "rank": 19382,
+    "trader_tags": "> 1 year old"
   }
 ]
