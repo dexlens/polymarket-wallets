@@ -750,5 +750,21 @@
     "win_count": 18,
     "rank": 4847,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8fee2ae94525a50b4acaca66231f89056d244b32",
+    "trader_name": "TSSnake",
+    "tag": "Overall",
+    "overall_gain": 22446.197363879997,
+    "active_positions": 57,
+    "win_amount": 76258.04584966238,
+    "loss_amount": -53811.84848578238,
+    "win_rate": 0.5965417867435159,
+    "total_current_value": 578.466652,
+    "total_positions": 371,
+    "event_ct": 347,
+    "win_count": 207,
+    "rank": 4848,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
