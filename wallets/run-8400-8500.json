@@ -1166,5 +1166,21 @@
     "win_count": 16,
     "rank": 8473,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88b03f6fb4beba2caa9f05b9979403a0ff90693f",
+    "trader_name": "PolTraderIND",
+    "tag": "Overall",
+    "overall_gain": 12348.223487655592,
+    "active_positions": 0,
+    "win_amount": 16325.565066804662,
+    "loss_amount": -3977.3415791490665,
+    "win_rate": 0.6570397111913358,
+    "total_current_value": 1.2341555124999999,
+    "total_positions": 790,
+    "event_ct": 554,
+    "win_count": 364,
+    "rank": 8474,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
