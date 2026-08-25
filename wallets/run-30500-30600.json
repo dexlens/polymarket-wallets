@@ -1502,5 +1502,21 @@
     "win_count": 9,
     "rank": 30595,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2debf0e6bfdfa85d0c35bb0a27df19fe06f3e846",
+    "trader_name": "icmono2",
+    "tag": "Overall",
+    "overall_gain": 2748.1028491116895,
+    "active_positions": 0,
+    "win_amount": 9905.165233716118,
+    "loss_amount": -7157.062384604425,
+    "win_rate": 0.8200319233838786,
+    "total_current_value": 1.357752,
+    "total_positions": 6104,
+    "event_ct": 5012,
+    "win_count": 4110,
+    "rank": 30596,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
