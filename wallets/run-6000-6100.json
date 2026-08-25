@@ -1022,5 +1022,21 @@
     "win_count": 214,
     "rank": 6064,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3cd24842cb61da35ee1b6609604667c69c0231f4",
+    "trader_name": "Qiiiyo",
+    "tag": "Overall",
+    "overall_gain": 17687.46199802708,
+    "active_positions": 1,
+    "win_amount": 35581.076608880256,
+    "loss_amount": -17893.614610853176,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.00025600000000000004,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 6065,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
