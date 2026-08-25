@@ -1230,5 +1230,21 @@
     "win_count": 18,
     "rank": 14977,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3efb59928d4fb7351f5d83cae53c79267c249d62",
+    "trader_name": "lc13",
+    "tag": "Overall",
+    "overall_gain": 6508.407600807207,
+    "active_positions": 2,
+    "win_amount": 7795.211063000001,
+    "loss_amount": -1286.803462192794,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 14978,
+    "trader_tags": "> 1 year old"
   }
 ]
