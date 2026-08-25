@@ -1102,5 +1102,21 @@
     "win_count": 4,
     "rank": 15569,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf1382425655cb64c6c627cc3afff1f30feb20367",
+    "trader_name": "Windsoot",
+    "tag": "Overall",
+    "overall_gain": 6196.02,
+    "active_positions": 2,
+    "win_amount": 6549,
+    "loss_amount": -352.97999999999996,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 15570,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
