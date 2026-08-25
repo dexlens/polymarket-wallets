@@ -1502,5 +1502,21 @@
     "win_count": 52,
     "rank": 15994,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x063bd1fd49604a46cbc6ec978869391c4dc4a51f",
+    "trader_name": "GregBurneJones",
+    "tag": "Overall",
+    "overall_gain": 6000.126225223169,
+    "active_positions": 12,
+    "win_amount": 14500.126225223172,
+    "loss_amount": -8500,
+    "win_rate": 0.7317073170731707,
+    "total_current_value": 1.01317,
+    "total_positions": 49,
+    "event_ct": 41,
+    "win_count": 30,
+    "rank": 15995,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
