@@ -302,5 +302,21 @@
     "win_count": 1174,
     "rank": 28720,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x400b42e62b45eaf2e2d826521cf8815880871e6a",
+    "trader_name": "Vulcdanus",
+    "tag": "Overall",
+    "overall_gain": 2983.5,
+    "active_positions": 2,
+    "win_amount": 3744,
+    "loss_amount": -760.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 28721,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
