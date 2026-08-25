@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 25693,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4c620618ec2a7869289793441b526b0be0ecf233",
+    "trader_name": "uikuin",
+    "tag": "Overall",
+    "overall_gain": 3426.677882816954,
+    "active_positions": 3618,
+    "win_amount": 378230.664605,
+    "loss_amount": -374803.98672218295,
+    "win_rate": 0.5461953115206218,
+    "total_current_value": 23.46,
+    "total_positions": 7977,
+    "event_ct": 7977,
+    "win_count": 4357,
+    "rank": 25694,
+    "trader_tags": "1k+ Positions"
   }
 ]
