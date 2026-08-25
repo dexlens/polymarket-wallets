@@ -878,5 +878,21 @@
     "win_count": 5,
     "rank": 66756,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9fe927116576a920e878f98496bae403c6df6a01",
+    "trader_name": "Galiff",
+    "tag": "Overall",
+    "overall_gain": 895.575788326145,
+    "active_positions": 1,
+    "win_amount": 923.808702,
+    "loss_amount": -28.232913673855002,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 26.31578,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 66757,
+    "trader_tags": "> 1 year old"
   }
 ]
