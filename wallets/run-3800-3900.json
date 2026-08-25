@@ -1294,5 +1294,21 @@
     "win_count": 10,
     "rank": 3881,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x766e6a0a9c36e603dd0e8b35bede1b70fa3562ef",
+    "trader_name": "TheLastOfMachine",
+    "tag": "Overall",
+    "overall_gain": 29147.8578226777,
+    "active_positions": 23,
+    "win_amount": 30490.4980446777,
+    "loss_amount": -1342.640222,
+    "win_rate": 0.9891304347826086,
+    "total_current_value": 0.0050405,
+    "total_positions": 987,
+    "event_ct": 368,
+    "win_count": 364,
+    "rank": 3882,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
