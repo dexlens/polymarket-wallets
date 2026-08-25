@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 65847,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2adc407ff4cc70c325f77748d757fd8349060afa",
+    "trader_name": "Takenlovesgamble",
+    "tag": "Overall",
+    "overall_gain": 920.1847316110778,
+    "active_positions": 8,
+    "win_amount": 3299.973086675092,
+    "loss_amount": -2379.7883550640145,
+    "win_rate": 0.717391304347826,
+    "total_current_value": 0.13823200000000002,
+    "total_positions": 46,
+    "event_ct": 46,
+    "win_count": 33,
+    "rank": 65848,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
