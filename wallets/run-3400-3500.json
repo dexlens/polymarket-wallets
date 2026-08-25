@@ -1230,5 +1230,21 @@
     "win_count": 299,
     "rank": 3477,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8367151ac98e5690b6cfaa4329d80daabd6d71d7",
+    "trader_name": "riur",
+    "tag": "Overall",
+    "overall_gain": 32716.704396,
+    "active_positions": 0,
+    "win_amount": 32772.716395999996,
+    "loss_amount": -56.012,
+    "win_rate": 0.8709677419354839,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 31,
+    "win_count": 27,
+    "rank": 3478,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
