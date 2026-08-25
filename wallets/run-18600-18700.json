@@ -910,5 +910,21 @@
     "win_count": 2,
     "rank": 18657,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x50cae0b3bf74e89349f37b9877a16c47ec3f2395",
+    "trader_name": "PrimaRob",
+    "tag": "Overall",
+    "overall_gain": 4990.33088672975,
+    "active_positions": 40,
+    "win_amount": 15341.14666722975,
+    "loss_amount": -10350.815780500001,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 5.2725004725,
+    "total_positions": 117,
+    "event_ct": 117,
+    "win_count": 81,
+    "rank": 18658,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
