@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 24751,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9ed7e6595aeef4e68edbb7260114029d6021570d",
+    "trader_name": "2kfactor",
+    "tag": "Overall",
+    "overall_gain": 3587.851638122914,
+    "active_positions": 0,
+    "win_amount": 3587.851638122914,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003658,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 24752,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
