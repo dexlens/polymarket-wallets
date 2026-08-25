@@ -318,5 +318,21 @@
     "win_count": 6,
     "rank": 37921,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b3b81697b1060fac8af7e7adc6c56be250618ac",
+    "trader_name": "Dimayo",
+    "tag": "Overall",
+    "overall_gain": 2123.767613965926,
+    "active_positions": 1,
+    "win_amount": 2641.953005443569,
+    "loss_amount": -518.1853914776431,
+    "win_rate": 0.35714285714285715,
+    "total_current_value": 0.016487,
+    "total_positions": 18,
+    "event_ct": 14,
+    "win_count": 5,
+    "rank": 37922,
+    "trader_tags": "> 1 year old"
   }
 ]
