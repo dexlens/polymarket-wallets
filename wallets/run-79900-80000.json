@@ -878,5 +878,21 @@
     "win_count": 2,
     "rank": 79956,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x659a868928c65ec4a742aed2a8f883d82e0011c4",
+    "trader_name": "BernieColeridge",
+    "tag": "Overall",
+    "overall_gain": 631.309,
+    "active_positions": 62,
+    "win_amount": 14483,
+    "loss_amount": -13851.690999999999,
+    "win_rate": 0.504,
+    "total_current_value": 0,
+    "total_positions": 125,
+    "event_ct": 125,
+    "win_count": 63,
+    "rank": 79957,
+    "trader_tags": ""
   }
 ]
