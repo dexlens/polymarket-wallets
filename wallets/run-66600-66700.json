@@ -942,5 +942,21 @@
     "win_count": 2,
     "rank": 66660,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x480e00770e84b8545ee190888bbb5b0accf80d01",
+    "trader_name": "AgentSodl",
+    "tag": "Overall",
+    "overall_gain": 898.369418,
+    "active_positions": 0,
+    "win_amount": 898.369418,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 66661,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
