@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 64385,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f07acac3bf16b760e96a1e22620383996db4180",
+    "trader_name": "gaigegu",
+    "tag": "Overall",
+    "overall_gain": 962.4970521203923,
+    "active_positions": 0,
+    "win_amount": 3005.038441674044,
+    "loss_amount": -2042.541389553652,
+    "win_rate": 0.6071428571428571,
+    "total_current_value": 0.033087,
+    "total_positions": 29,
+    "event_ct": 28,
+    "win_count": 17,
+    "rank": 64386,
+    "trader_tags": "> 1 year old"
   }
 ]
