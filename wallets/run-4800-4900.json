@@ -1390,5 +1390,21 @@
     "win_count": 113,
     "rank": 4887,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1eb7682b8ba84111cf8b30d6a646f1e8a3b46a08",
+    "trader_name": "LilRto",
+    "tag": "Overall",
+    "overall_gain": 22247.360998948236,
+    "active_positions": 5,
+    "win_amount": 22248.864998948236,
+    "loss_amount": -1.504,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.00009900000000000001,
+    "total_positions": 8,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 4888,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
