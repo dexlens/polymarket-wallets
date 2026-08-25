@@ -430,5 +430,21 @@
     "win_count": 21,
     "rank": 10327,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa58fd45b7058c976cfa666a9f0c213c145f5f611",
+    "trader_name": "sdfw45",
+    "tag": "Overall",
+    "overall_gain": 10173.880000000001,
+    "active_positions": 13,
+    "win_amount": 31228.5,
+    "loss_amount": -21054.620000000003,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 33,
+    "win_count": 18,
+    "rank": 10328,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
