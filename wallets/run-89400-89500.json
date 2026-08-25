@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 89457,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2961df29db8334afdb71b552b2a06e7ae1091aab",
+    "trader_name": "moresharp",
+    "tag": "Overall",
+    "overall_gain": 496.1919879215421,
+    "active_positions": 7,
+    "win_amount": 1068.1983290166186,
+    "loss_amount": -572.006341095077,
+    "win_rate": 0.974559686888454,
+    "total_current_value": 100.85535525,
+    "total_positions": 520,
+    "event_ct": 511,
+    "win_count": 498,
+    "rank": 89458,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
