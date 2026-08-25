@@ -238,5 +238,21 @@
     "win_count": 2,
     "rank": 37016,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x376d4f68ba674eb510e9075eea8683ba44643895",
+    "trader_name": "shlapa",
+    "tag": "Overall",
+    "overall_gain": 2189.2649813796597,
+    "active_positions": 1,
+    "win_amount": 3356.56007137966,
+    "loss_amount": -1167.29509,
+    "win_rate": 0.625,
+    "total_current_value": 6.77966,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 37017,
+    "trader_tags": "> 1 year old"
   }
 ]
