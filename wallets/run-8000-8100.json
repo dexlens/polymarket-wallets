@@ -1502,5 +1502,21 @@
     "win_count": 39,
     "rank": 8094,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa880d847a3495efe210245d116c58ff67881d095",
+    "trader_name": "vshuvo",
+    "tag": "Overall",
+    "overall_gain": 12996.633467241214,
+    "active_positions": 2,
+    "win_amount": 24587.347005755702,
+    "loss_amount": -11590.713538514488,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0.05672000000000001,
+    "total_positions": 83,
+    "event_ct": 55,
+    "win_count": 30,
+    "rank": 8095,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
