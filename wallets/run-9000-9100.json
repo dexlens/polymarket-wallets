@@ -1358,5 +1358,21 @@
     "win_count": 65,
     "rank": 9085,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa6d950dee8cd0da98d837cc3e06eead3648c1ada",
+    "trader_name": "morpw",
+    "tag": "Overall",
+    "overall_gain": 11537.350392000002,
+    "active_positions": 1,
+    "win_amount": 11601.912202,
+    "loss_amount": -64.56181,
+    "win_rate": 0.5909090909090909,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 22,
+    "win_count": 13,
+    "rank": 9086,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
