@@ -1134,5 +1134,21 @@
     "win_count": 10,
     "rank": 20171,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e099b77876e195e8bab20127863366f734a6081",
+    "trader_name": "okpl",
+    "tag": "Overall",
+    "overall_gain": 4583.687919999999,
+    "active_positions": 1,
+    "win_amount": 4885.687919999999,
+    "loss_amount": -302,
+    "win_rate": 0.7,
+    "total_current_value": 50.556349999999995,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 20172,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
