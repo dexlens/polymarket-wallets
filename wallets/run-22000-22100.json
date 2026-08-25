@@ -1262,5 +1262,21 @@
     "win_count": 112,
     "rank": 22079,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f541b658997795603fab48e32b57ad2249a1d50",
+    "trader_name": "epIdemBtc",
+    "tag": "Overall",
+    "overall_gain": 4103.249110525547,
+    "active_positions": 22,
+    "win_amount": 26062.245710525545,
+    "loss_amount": -21958.9966,
+    "win_rate": 0.6779661016949152,
+    "total_current_value": 10.189198000000001,
+    "total_positions": 59,
+    "event_ct": 59,
+    "win_count": 40,
+    "rank": 22080,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
