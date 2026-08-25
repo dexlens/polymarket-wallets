@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 80876,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8b4b8cfdac120a4f4da979c5d783b9b82192d5df",
+    "trader_name": "Wellandr",
+    "tag": "Overall",
+    "overall_gain": 616.377369025,
+    "active_positions": 4,
+    "win_amount": 616.391390525,
+    "loss_amount": -0.014021499999996578,
+    "win_rate": 0.9375,
+    "total_current_value": 62.123348625000006,
+    "total_positions": 31,
+    "event_ct": 16,
+    "win_count": 15,
+    "rank": 80877,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
