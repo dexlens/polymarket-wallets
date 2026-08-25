@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 6687,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb4f912a6a99fa4131cad0d2c2ad7234cb1f032b1",
+    "trader_name": "prom2tu",
+    "tag": "Overall",
+    "overall_gain": 16057.480379003895,
+    "active_positions": 5,
+    "win_amount": 30129.46013401869,
+    "loss_amount": -14071.979755014789,
+    "win_rate": 0.5490716180371353,
+    "total_current_value": 28.30925045,
+    "total_positions": 780,
+    "event_ct": 377,
+    "win_count": 207,
+    "rank": 6688,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
