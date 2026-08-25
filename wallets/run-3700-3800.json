@@ -830,5 +830,21 @@
     "win_count": 5150,
     "rank": 3752,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x1c21a754ed2fbb1cedb78f918792b3f7642bd2fe",
+    "trader_name": "kidian",
+    "tag": "Overall",
+    "overall_gain": 30395.353648083248,
+    "active_positions": 0,
+    "win_amount": 40859.809019027074,
+    "loss_amount": -10464.455370943828,
+    "win_rate": 0.53125,
+    "total_current_value": 0.071169,
+    "total_positions": 60,
+    "event_ct": 32,
+    "win_count": 17,
+    "rank": 3753,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
