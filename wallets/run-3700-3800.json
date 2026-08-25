@@ -1118,5 +1118,21 @@
     "win_count": 5,
     "rank": 3770,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x0d55a2e5ec32958cfdbc3bfbb640ec16f0f1e08b",
+    "trader_name": "vasileion",
+    "tag": "Overall",
+    "overall_gain": 30229.295258914677,
+    "active_positions": 2,
+    "win_amount": 34396.92894369064,
+    "loss_amount": -4167.633684775964,
+    "win_rate": 0.35714285714285715,
+    "total_current_value": 0,
+    "total_positions": 48,
+    "event_ct": 14,
+    "win_count": 5,
+    "rank": 3771,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
