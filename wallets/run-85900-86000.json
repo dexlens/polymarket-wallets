@@ -1550,5 +1550,21 @@
     "win_count": 16,
     "rank": 85998,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6cf74f888cc6cb8df67ca067c679b77a22506d7a",
+    "trader_name": "yyds19",
+    "tag": "Overall",
+    "overall_gain": 539.2137160007541,
+    "active_positions": 0,
+    "win_amount": 539.2137160007541,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003459,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 85999,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
