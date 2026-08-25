@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 87543,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xba03f0ce83d92aa5d4c6f5b46edb5755cb12f17a",
+    "trader_name": "gibson6",
+    "tag": "Overall",
+    "overall_gain": 518.3402261962688,
+    "active_positions": 8,
+    "win_amount": 1204.4252986932581,
+    "loss_amount": -686.085072496989,
+    "win_rate": 0.5757575757575758,
+    "total_current_value": 94.95721599999999,
+    "total_positions": 40,
+    "event_ct": 33,
+    "win_count": 19,
+    "rank": 87544,
+    "trader_tags": "> 1 year old"
   }
 ]
