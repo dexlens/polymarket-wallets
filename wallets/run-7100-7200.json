@@ -1438,5 +1438,21 @@
     "win_count": 9,
     "rank": 7190,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb3035a71f5f5bb7af83079089349556135b3f569",
+    "trader_name": "UTA",
+    "tag": "Overall",
+    "overall_gain": 14869.165888591357,
+    "active_positions": 19,
+    "win_amount": 16071.39861739144,
+    "loss_amount": -1202.232728800085,
+    "win_rate": 0.41935483870967744,
+    "total_current_value": 3.2758200000000004,
+    "total_positions": 38,
+    "event_ct": 31,
+    "win_count": 13,
+    "rank": 7191,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
