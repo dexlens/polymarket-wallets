@@ -1534,5 +1534,21 @@
     "win_count": 23,
     "rank": 7496,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8d0bf020c9bc1fe02d21c724f3da8ac6538c1d34",
+    "trader_name": "Xaralia",
+    "tag": "Overall",
+    "overall_gain": 14151.979100279064,
+    "active_positions": 6,
+    "win_amount": 14540.004125597454,
+    "loss_amount": -388.02502531839,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 127.27447749100001,
+    "total_positions": 44,
+    "event_ct": 42,
+    "win_count": 36,
+    "rank": 7497,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
