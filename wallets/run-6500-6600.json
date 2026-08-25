@@ -206,5 +206,21 @@
     "win_count": 13,
     "rank": 6513,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa42f874ea08ca8bd00fa0a6eb063b500e66148fb",
+    "trader_name": "Newberry",
+    "tag": "Overall",
+    "overall_gain": 16453.452455387,
+    "active_positions": 10,
+    "win_amount": 68890.586530901,
+    "loss_amount": -52437.134075514,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.028465999999999998,
+    "total_positions": 99,
+    "event_ct": 99,
+    "win_count": 55,
+    "rank": 6514,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
