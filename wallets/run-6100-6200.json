@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 6137,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x39a6626db3a258a609f234da483fa8c43aa6ebdd",
+    "trader_name": "MGGA.eth",
+    "tag": "Overall",
+    "overall_gain": 17466.386363468606,
+    "active_positions": 48,
+    "win_amount": 29282.49848865113,
+    "loss_amount": -11816.112125182517,
+    "win_rate": 0.46464646464646464,
+    "total_current_value": 6738.8033909999995,
+    "total_positions": 117,
+    "event_ct": 99,
+    "win_count": 46,
+    "rank": 6138,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
