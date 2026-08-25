@@ -1358,5 +1358,21 @@
     "win_count": 2,
     "rank": 7185,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x05208f3124596026203c69d741dd07d894ef9708",
+    "trader_name": "frankxyz",
+    "tag": "Overall",
+    "overall_gain": 14875.367776556253,
+    "active_positions": 15,
+    "win_amount": 21781.15655057963,
+    "loss_amount": -6905.788774023384,
+    "win_rate": 0.9182692307692307,
+    "total_current_value": 58886.091696815514,
+    "total_positions": 275,
+    "event_ct": 208,
+    "win_count": 191,
+    "rank": 7186,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
