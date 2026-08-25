@@ -382,5 +382,21 @@
     "win_count": 5,
     "rank": 75025,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x13df6fb6dbc84511d07ca4460f71b857d6260c09",
+    "trader_name": "PommesFactor",
+    "tag": "Overall",
+    "overall_gain": 713.4051061288001,
+    "active_positions": 2,
+    "win_amount": 713.4051061288001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 75026,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
