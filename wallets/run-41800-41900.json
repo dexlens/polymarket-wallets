@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 41896,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c889750744d11d271e07299de65d7a289d6383a",
+    "trader_name": "Android-18",
+    "tag": "Overall",
+    "overall_gain": 1882.9024146166325,
+    "active_positions": 5,
+    "win_amount": 4607.847272909972,
+    "loss_amount": -2724.94485829334,
+    "win_rate": 0.8095238095238095,
+    "total_current_value": 2241.6522233759997,
+    "total_positions": 167,
+    "event_ct": 126,
+    "win_count": 102,
+    "rank": 41897,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
