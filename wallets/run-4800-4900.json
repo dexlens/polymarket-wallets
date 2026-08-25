@@ -702,5 +702,21 @@
     "win_count": 16,
     "rank": 4844,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x33cfc3308d7e4499f468021ee044f588f9fc8780",
+    "trader_name": "Hypergambler",
+    "tag": "Overall",
+    "overall_gain": 22456.134296695884,
+    "active_positions": 23,
+    "win_amount": 32702.11093770007,
+    "loss_amount": -10245.976641004178,
+    "win_rate": 0.21621621621621623,
+    "total_current_value": 0.019268,
+    "total_positions": 63,
+    "event_ct": 37,
+    "win_count": 8,
+    "rank": 4845,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
