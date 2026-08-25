@@ -398,5 +398,21 @@
     "win_count": 259,
     "rank": 1225,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x01014aa3d957f1cdc6744aebe0cb1618835627c8",
+    "trader_name": "talmadgeorion",
+    "tag": "Overall",
+    "overall_gain": 99437.96365189187,
+    "active_positions": 4,
+    "win_amount": 103285.20327719412,
+    "loss_amount": -3847.2396253022453,
+    "win_rate": 0.8172043010752689,
+    "total_current_value": 0.7704763306327971,
+    "total_positions": 585,
+    "event_ct": 372,
+    "win_count": 304,
+    "rank": 1226,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
