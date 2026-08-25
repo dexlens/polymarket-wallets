@@ -1118,5 +1118,21 @@
     "win_count": 5,
     "rank": 6970,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc7e632e319443f5d766ebc885c34d9c25bc37aab",
+    "trader_name": "Casrien",
+    "tag": "Overall",
+    "overall_gain": 15359.781456143231,
+    "active_positions": 9,
+    "win_amount": 22458.957445107124,
+    "loss_amount": -7099.175988963894,
+    "win_rate": 0.723404255319149,
+    "total_current_value": 65.51782200000001,
+    "total_positions": 48,
+    "event_ct": 47,
+    "win_count": 34,
+    "rank": 6971,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
