@@ -590,5 +590,21 @@
     "win_count": 8,
     "rank": 10437,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf54ef00a3bee16dc1f1b487ad71071be47f50950",
+    "trader_name": "ogrody",
+    "tag": "Overall",
+    "overall_gain": 10075.970733391066,
+    "active_positions": 2,
+    "win_amount": 30863.74612530342,
+    "loss_amount": -20787.775391912346,
+    "win_rate": 0.7103825136612022,
+    "total_current_value": 299.55288499999995,
+    "total_positions": 218,
+    "event_ct": 183,
+    "win_count": 130,
+    "rank": 10438,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
