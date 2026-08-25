@@ -318,5 +318,21 @@
     "win_count": 5,
     "rank": 33221,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3541fb6199da9c39d58772fd7884a6ca664878de",
+    "trader_name": "djimini4pro",
+    "tag": "Overall",
+    "overall_gain": 2487.093076832241,
+    "active_positions": 11,
+    "win_amount": 11239.365188676204,
+    "loss_amount": -8752.272111843962,
+    "win_rate": 0.817258883248731,
+    "total_current_value": 1.4614699999999998,
+    "total_positions": 264,
+    "event_ct": 197,
+    "win_count": 161,
+    "rank": 33222,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
