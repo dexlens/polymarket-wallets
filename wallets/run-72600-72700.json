@@ -1454,5 +1454,21 @@
     "win_count": 83,
     "rank": 72692,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3ed3dd0f358b63b56ba12fb9e2613051ae577242",
+    "trader_name": "ghw56",
+    "tag": "Overall",
+    "overall_gain": 750.7417122727101,
+    "active_positions": 5,
+    "win_amount": 1057.8034980000002,
+    "loss_amount": -307.06178572729,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 72693,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
