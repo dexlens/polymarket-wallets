@@ -830,5 +830,21 @@
     "win_count": 8,
     "rank": 28153,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4508b231cf86d1321c89328b606f37ac555a4b8f",
+    "trader_name": "TRYDRTYH",
+    "tag": "Overall",
+    "overall_gain": 3045.8411379438407,
+    "active_positions": 3,
+    "win_amount": 5068.241137943841,
+    "loss_amount": -2022.4,
+    "win_rate": 0.9375,
+    "total_current_value": 10.729841,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 30,
+    "rank": 28154,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
