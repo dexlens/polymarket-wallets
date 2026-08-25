@@ -1518,5 +1518,21 @@
     "win_count": 11,
     "rank": 10095,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xfa33699c7f5f66d40e0af04ea5ce93ec95583074",
+    "trader_name": "Tingtingbulan",
+    "tag": "Overall",
+    "overall_gain": 10400,
+    "active_positions": 0,
+    "win_amount": 10400,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 10096,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
