@@ -1534,5 +1534,21 @@
     "win_count": 15,
     "rank": 7096,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x224a5e031d1cf089635d31e54ba240b60eedfef7",
+    "trader_name": "BullsEye693",
+    "tag": "Overall",
+    "overall_gain": 15049.738683890111,
+    "active_positions": 5,
+    "win_amount": 22563.1139784119,
+    "loss_amount": -7513.375294521798,
+    "win_rate": 0.9375,
+    "total_current_value": 14.86472092,
+    "total_positions": 162,
+    "event_ct": 160,
+    "win_count": 150,
+    "rank": 7097,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
