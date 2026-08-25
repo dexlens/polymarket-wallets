@@ -1086,5 +1086,21 @@
     "win_count": 3,
     "rank": 26069,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd0e12e8e6f33859a247c4f764250ada6f5fd918",
+    "trader_name": "Utoya",
+    "tag": "Overall",
+    "overall_gain": 3357.86941244296,
+    "active_positions": 1,
+    "win_amount": 3495.3608904429598,
+    "loss_amount": -137.491478,
+    "win_rate": 0.5,
+    "total_current_value": 7480.00190553,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 26070,
+    "trader_tags": ""
   }
 ]
