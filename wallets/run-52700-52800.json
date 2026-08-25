@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 52784,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7c7b94487ca4bb9a7c24ec607c4046ce06b7f70",
+    "trader_name": "Gusdl",
+    "tag": "Overall",
+    "overall_gain": 1356.714827480352,
+    "active_positions": 5,
+    "win_amount": 1918.640852,
+    "loss_amount": -561.926024519648,
+    "win_rate": 0.375,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 52785,
+    "trader_tags": ""
   }
 ]
