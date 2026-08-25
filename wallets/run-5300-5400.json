@@ -654,5 +654,21 @@
     "win_count": 21,
     "rank": 5341,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x128744a38772e44b8c08bea93e188182f65fe491",
+    "trader_name": "marketboy",
+    "tag": "Overall",
+    "overall_gain": 20271.332547685495,
+    "active_positions": 21,
+    "win_amount": 29474.850806296126,
+    "loss_amount": -9203.518258610628,
+    "win_rate": 0.3018867924528302,
+    "total_current_value": 16.937254999999997,
+    "total_positions": 99,
+    "event_ct": 53,
+    "win_count": 16,
+    "rank": 5342,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
