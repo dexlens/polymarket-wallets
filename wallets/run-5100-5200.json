@@ -1022,5 +1022,21 @@
     "win_count": 11,
     "rank": 5164,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x15f8c89de96aeb4f74fff5be310ff3d2b88c6b76",
+    "trader_name": "willatrant",
+    "tag": "Overall",
+    "overall_gain": 20965.73,
+    "active_positions": 1,
+    "win_amount": 20977,
+    "loss_amount": -11.27,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 5165,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
