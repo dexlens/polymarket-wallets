@@ -670,5 +670,21 @@
     "win_count": 14,
     "rank": 66043,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x79460f90381f3a66b81249083bfcc26d9493bf6f",
+    "trader_name": "yerc",
+    "tag": "Overall",
+    "overall_gain": 914.7581420000001,
+    "active_positions": 6,
+    "win_amount": 939.9581420000002,
+    "loss_amount": -25.200000000000003,
+    "win_rate": 0.75,
+    "total_current_value": 134,
+    "total_positions": 21,
+    "event_ct": 20,
+    "win_count": 15,
+    "rank": 66044,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
