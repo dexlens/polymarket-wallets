@@ -782,5 +782,21 @@
     "win_count": 7,
     "rank": 34850,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x18cda925145a03cd1650ad1036f6b152ece1d8d2",
+    "trader_name": "AxiaSystem",
+    "tag": "Overall",
+    "overall_gain": 2353.8433806600883,
+    "active_positions": 11,
+    "win_amount": 2859.36391084272,
+    "loss_amount": -505.520530182631,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 15902.9574670345,
+    "total_positions": 63,
+    "event_ct": 45,
+    "win_count": 39,
+    "rank": 34851,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
