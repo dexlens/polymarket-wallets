@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 6618,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd825669ebc41be9592ea7959c20989e76d60a76e",
+    "trader_name": "flokeat",
+    "tag": "Overall",
+    "overall_gain": 16218.69398329658,
+    "active_positions": 201,
+    "win_amount": 81054.12650092911,
+    "loss_amount": -64835.43251763254,
+    "win_rate": 0.848172757475083,
+    "total_current_value": 10380.3465897025,
+    "total_positions": 3268,
+    "event_ct": 3010,
+    "win_count": 2553,
+    "rank": 6619,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
