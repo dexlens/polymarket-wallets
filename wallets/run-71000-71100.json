@@ -1486,5 +1486,21 @@
     "win_count": 120,
     "rank": 71094,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2fa27a5a8d8bac03186083ddb455e3c8c2123b5c",
+    "trader_name": "cxvhtwh",
+    "tag": "Overall",
+    "overall_gain": 786.518164099011,
+    "active_positions": 0,
+    "win_amount": 786.518164099011,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000011000000000000001,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 71095,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
