@@ -638,5 +638,21 @@
     "win_count": 352,
     "rank": 10240,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xfa3087b7cac772f7c5479cb1b2bd0c84a5b2ba91",
+    "trader_name": "henryhicalg",
+    "tag": "Overall",
+    "overall_gain": 10266.5,
+    "active_positions": 1,
+    "win_amount": 10324,
+    "loss_amount": -57.5,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 11,
+    "rank": 10241,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
