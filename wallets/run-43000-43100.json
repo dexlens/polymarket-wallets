@@ -878,5 +878,21 @@
     "win_count": 9,
     "rank": 43056,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7ac716840f59b437699a8dc901128baa77039f7d",
+    "trader_name": "Veridia",
+    "tag": "Overall",
+    "overall_gain": 1816.541964,
+    "active_positions": 0,
+    "win_amount": 1820.7133639999997,
+    "loss_amount": -4.1714,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 43057,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
