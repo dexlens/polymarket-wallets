@@ -1550,5 +1550,21 @@
     "win_count": 48,
     "rank": 2897,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4bb254b64c93730e18c89759712f2b003647a656",
+    "trader_name": "VorpalQuark",
+    "tag": "Overall",
+    "overall_gain": 39675.518670138335,
+    "active_positions": 259,
+    "win_amount": 279717.67991248856,
+    "loss_amount": -240042.1612423503,
+    "win_rate": 0.516380655226209,
+    "total_current_value": 41350.14249136599,
+    "total_positions": 963,
+    "event_ct": 641,
+    "win_count": 331,
+    "rank": 2898,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
