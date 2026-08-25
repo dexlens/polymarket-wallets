@@ -1534,5 +1534,21 @@
     "win_count": 10,
     "rank": 4296,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd4f80cbaeb54756f60a536c6fb1bc6b6447bb76f",
+    "trader_name": "Inspiration",
+    "tag": "Overall",
+    "overall_gain": 25986.71712946101,
+    "active_positions": 6,
+    "win_amount": 35481.00183775766,
+    "loss_amount": -9494.284708296658,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 3625.6651044825003,
+    "total_positions": 47,
+    "event_ct": 31,
+    "win_count": 21,
+    "rank": 4297,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
