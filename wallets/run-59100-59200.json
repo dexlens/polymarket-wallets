@@ -830,5 +830,21 @@
     "win_count": 2,
     "rank": 59153,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e5e234f61e229ff71019ade3cd941bd83050c01",
+    "trader_name": "ry656",
+    "tag": "Overall",
+    "overall_gain": 1103.77222780482,
+    "active_positions": 10,
+    "win_amount": 1111.543431805154,
+    "loss_amount": -7.771204000334,
+    "win_rate": 0.8125,
+    "total_current_value": 53.16149304900001,
+    "total_positions": 36,
+    "event_ct": 32,
+    "win_count": 26,
+    "rank": 59154,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
