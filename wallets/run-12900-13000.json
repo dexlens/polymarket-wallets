@@ -1230,5 +1230,21 @@
     "win_count": 30,
     "rank": 12977,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7b50d498c2d1ae8a49cd1577fec61746536a71c9",
+    "trader_name": "Skarmory",
+    "tag": "Overall",
+    "overall_gain": 7764.288751394325,
+    "active_positions": 4,
+    "win_amount": 7784.788751394325,
+    "loss_amount": -20.5,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 5755.5364229940005,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 10,
+    "rank": 12978,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
