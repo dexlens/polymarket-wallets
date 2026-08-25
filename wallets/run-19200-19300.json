@@ -430,5 +430,21 @@
     "win_count": 3,
     "rank": 19227,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x96011165401aed8485b0a55ea0be971675ca06f5",
+    "trader_name": "cvzcxg599",
+    "tag": "Overall",
+    "overall_gain": 4834.0321380000005,
+    "active_positions": 1,
+    "win_amount": 4836.238578,
+    "loss_amount": -2.2064400000000024,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 38.32075,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 19228,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
