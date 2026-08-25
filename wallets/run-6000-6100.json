@@ -1278,5 +1278,21 @@
     "win_count": 85,
     "rank": 6080,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x516c7ce499212f09921a01736050573578c87082",
+    "trader_name": "Orynthos",
+    "tag": "Overall",
+    "overall_gain": 17645.917649,
+    "active_positions": 4,
+    "win_amount": 18322.972744,
+    "loss_amount": -677.0550949999999,
+    "win_rate": 0.8863636363636364,
+    "total_current_value": 0,
+    "total_positions": 46,
+    "event_ct": 44,
+    "win_count": 39,
+    "rank": 6081,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
