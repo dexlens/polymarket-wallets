@@ -1294,5 +1294,21 @@
     "win_count": 10,
     "rank": 8081,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2803931ee71ef5036c46cc1364afa1152119e245",
+    "trader_name": "jackdolphin3232",
+    "tag": "Overall",
+    "overall_gain": 13006.589376752116,
+    "active_positions": 6,
+    "win_amount": 14170.825072494772,
+    "loss_amount": -1164.235695742656,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 54017.348037451,
+    "total_positions": 21,
+    "event_ct": 19,
+    "win_count": 13,
+    "rank": 8082,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
