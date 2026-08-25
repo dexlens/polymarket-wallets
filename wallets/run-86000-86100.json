@@ -446,5 +446,21 @@
     "win_count": 12,
     "rank": 86029,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2d5205917de114d3083cb3c847376ebb4e48278b",
+    "trader_name": "ddys668",
+    "tag": "Overall",
+    "overall_gain": 538.768403852452,
+    "active_positions": 4,
+    "win_amount": 538.768403852452,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 33.955865384999996,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 86030,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
