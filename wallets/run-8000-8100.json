@@ -1150,5 +1150,21 @@
     "win_count": 93,
     "rank": 8072,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x15f7d389153f1937ba3da76365660ca57b99f0a8",
+    "trader_name": "JAMIEREESE",
+    "tag": "Overall",
+    "overall_gain": 13014.168706999999,
+    "active_positions": 5,
+    "win_amount": 19537.168706999997,
+    "loss_amount": -6523,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 8073,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
