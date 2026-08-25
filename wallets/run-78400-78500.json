@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 78454,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb421dfc1df5b3f5193e3e3c9eae01edeee510d66",
+    "trader_name": "multitender",
+    "tag": "Overall",
+    "overall_gain": 656.7832216139998,
+    "active_positions": 43,
+    "win_amount": 1111.9506559999998,
+    "loss_amount": -455.167434386,
+    "win_rate": 0.674074074074074,
+    "total_current_value": 294.13286,
+    "total_positions": 159,
+    "event_ct": 135,
+    "win_count": 91,
+    "rank": 78455,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
