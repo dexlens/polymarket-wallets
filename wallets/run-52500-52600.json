@@ -478,5 +478,21 @@
     "win_count": 3,
     "rank": 52531,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x87d56a571684992836587fe8a35239d191ae9790",
+    "trader_name": "NetNaja",
+    "tag": "Overall",
+    "overall_gain": 1368.2588399937024,
+    "active_positions": 189,
+    "win_amount": 14942.052148577126,
+    "loss_amount": -13573.793308583423,
+    "win_rate": 0.5610859728506787,
+    "total_current_value": 0.026346,
+    "total_positions": 464,
+    "event_ct": 442,
+    "win_count": 248,
+    "rank": 52532,
+    "trader_tags": ""
   }
 ]
