@@ -1038,5 +1038,21 @@
     "win_count": 53,
     "rank": 3265,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4bf860030d9eab83300816cce2baf66e3ebff060",
+    "trader_name": "1000ANDADREAM",
+    "tag": "Overall",
+    "overall_gain": 35137.71571526158,
+    "active_positions": 5,
+    "win_amount": 39900.27571526157,
+    "loss_amount": -4762.56,
+    "win_rate": 0.9629629629629629,
+    "total_current_value": 11.766752635000001,
+    "total_positions": 92,
+    "event_ct": 27,
+    "win_count": 26,
+    "rank": 3266,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
