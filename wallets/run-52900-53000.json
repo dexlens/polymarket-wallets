@@ -878,5 +878,21 @@
     "win_count": 25,
     "rank": 52956,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x5f8839f9b16c66d0c75f69d150e69a876e391d4d",
+    "trader_name": "master-roshi",
+    "tag": "Overall",
+    "overall_gain": 1350.004505029151,
+    "active_positions": 15,
+    "win_amount": 1350.004505029151,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3488.9863626079996,
+    "total_positions": 36,
+    "event_ct": 9,
+    "win_count": 9,
+    "rank": 52957,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
