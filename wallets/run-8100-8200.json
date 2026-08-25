@@ -206,5 +206,21 @@
     "win_count": 10,
     "rank": 8113,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdd098885196cd68c412d52cac047157e6a06e5a4",
+    "trader_name": "Mywallet27",
+    "tag": "Overall",
+    "overall_gain": 12968.227660361965,
+    "active_positions": 18,
+    "win_amount": 30820.105792994,
+    "loss_amount": -17851.878132632035,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 59.367421,
+    "total_positions": 100,
+    "event_ct": 93,
+    "win_count": 66,
+    "rank": 8114,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
