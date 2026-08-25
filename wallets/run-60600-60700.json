@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 60626,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x62ef9ceb500171b1ec5260078e07cf56412be7ea",
+    "trader_name": "dtgdti",
+    "tag": "Overall",
+    "overall_gain": 1057.91178,
+    "active_positions": 4,
+    "win_amount": 1384.60918,
+    "loss_amount": -326.6974,
+    "win_rate": 0.8620689655172413,
+    "total_current_value": 202.28,
+    "total_positions": 30,
+    "event_ct": 29,
+    "win_count": 25,
+    "rank": 60627,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
