@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 6734,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07cd0cce01bfca6747743244f98bd1f9b39521bb",
+    "trader_name": "N3kro",
+    "tag": "Overall",
+    "overall_gain": 15948.88061456475,
+    "active_positions": 19,
+    "win_amount": 261170.36186780696,
+    "loss_amount": -245221.48125324215,
+    "win_rate": 0.47619047619047616,
+    "total_current_value": 0.19345600000000002,
+    "total_positions": 297,
+    "event_ct": 252,
+    "win_count": 120,
+    "rank": 6735,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
