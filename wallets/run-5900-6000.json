@@ -574,5 +574,21 @@
     "win_count": 8,
     "rank": 5936,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2bf1140bf148c67251d2782c6f417302280b6d56",
+    "trader_name": "TrumpOrNothing",
+    "tag": "Overall",
+    "overall_gain": 18078.390137804905,
+    "active_positions": 0,
+    "win_amount": 18078.390137804905,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 5937,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
