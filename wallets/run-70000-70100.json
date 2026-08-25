@@ -702,5 +702,21 @@
     "win_count": 135,
     "rank": 70045,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x521768277ccccc606f63ef1394fb740e7cd41930",
+    "trader_name": "A.see",
+    "tag": "Overall",
+    "overall_gain": 809.6713150338941,
+    "active_positions": 0,
+    "win_amount": 853.423567800236,
+    "loss_amount": -43.752252766342004,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.027463,
+    "total_positions": 12,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 70046,
+    "trader_tags": "> 1 year old"
   }
 ]
