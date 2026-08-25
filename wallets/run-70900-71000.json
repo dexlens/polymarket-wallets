@@ -686,5 +686,21 @@
     "win_count": 1351,
     "rank": 70944,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x4cb66d6aea670bc26de7cd23b009bbc935041733",
+    "trader_name": "goodbase",
+    "tag": "Overall",
+    "overall_gain": 789.5,
+    "active_positions": 1,
+    "win_amount": 900,
+    "loss_amount": -110.5,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 70945,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
