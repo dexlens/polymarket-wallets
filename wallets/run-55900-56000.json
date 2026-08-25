@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 55957,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x99353dbad8ae550aec8a6901128f6ac91f00ff83",
+    "trader_name": "neo.",
+    "tag": "Overall",
+    "overall_gain": 1220.2501273732028,
+    "active_positions": 49,
+    "win_amount": 3037.862354512705,
+    "loss_amount": -1817.612227139502,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 2262.7243097709998,
+    "total_positions": 160,
+    "event_ct": 108,
+    "win_count": 72,
+    "rank": 55958,
+    "trader_tags": "> 1 year old"
   }
 ]
