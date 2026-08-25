@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 75700,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51e8d0fda898fefe88a996481ee378776043d101",
+    "trader_name": "Jolly-Implementor",
+    "tag": "Overall",
+    "overall_gain": 704.4326363118812,
+    "active_positions": 0,
+    "win_amount": 1983.587928360455,
+    "loss_amount": -1279.155292048574,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0.051340000000000004,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 75701,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
