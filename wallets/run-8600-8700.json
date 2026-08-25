@@ -126,5 +126,21 @@
     "win_count": 183,
     "rank": 8608,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0d1b2f6717174042266e5431c70c06cd9bb17156",
+    "trader_name": "youruberdriver",
+    "tag": "Overall",
+    "overall_gain": 12173.319241947076,
+    "active_positions": 2,
+    "win_amount": 43751.22305766178,
+    "loss_amount": -31577.903815714686,
+    "win_rate": 0.5773564165979664,
+    "total_current_value": 118.280281875,
+    "total_positions": 6457,
+    "event_ct": 3639,
+    "win_count": 2101,
+    "rank": 8609,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
