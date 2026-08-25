@@ -1534,5 +1534,21 @@
     "win_count": 13,
     "rank": 5196,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02b3ffa8200feaf6263b88b69b70947cd20af446",
+    "trader_name": "fason2",
+    "tag": "Overall",
+    "overall_gain": 20838.205049999997,
+    "active_positions": 1,
+    "win_amount": 91799.808559,
+    "loss_amount": -70961.603509,
+    "win_rate": 0.596991781671577,
+    "total_current_value": 20.2,
+    "total_positions": 9180,
+    "event_ct": 6449,
+    "win_count": 3850,
+    "rank": 5197,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
