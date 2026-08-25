@@ -254,5 +254,21 @@
     "win_count": 3,
     "rank": 5616,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb38568494845447feb295348a0030140b9f9180e",
+    "trader_name": "ceil",
+    "tag": "Overall",
+    "overall_gain": 19180.86087126554,
+    "active_positions": 3,
+    "win_amount": 23707.12882073911,
+    "loss_amount": -4526.267949473566,
+    "win_rate": 0.3,
+    "total_current_value": 0.00009,
+    "total_positions": 15,
+    "event_ct": 10,
+    "win_count": 3,
+    "rank": 5617,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
