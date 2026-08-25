@@ -1278,5 +1278,21 @@
     "win_count": 16,
     "rank": 6480,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcc68dcc4ae88450dec5b04c58b63376b29bf8662",
+    "trader_name": "Malex",
+    "tag": "Overall",
+    "overall_gain": 16528.123386329265,
+    "active_positions": 1,
+    "win_amount": 20435.62888974352,
+    "loss_amount": -3907.505503414251,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0.131063,
+    "total_positions": 33,
+    "event_ct": 28,
+    "win_count": 18,
+    "rank": 6481,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
