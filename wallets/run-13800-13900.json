@@ -1246,5 +1246,21 @@
     "win_count": 104,
     "rank": 13878,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x793e931e94a8a1c60df38084e993df93ec2fc69b",
+    "trader_name": "ram22",
+    "tag": "Overall",
+    "overall_gain": 7111.257834241376,
+    "active_positions": 4,
+    "win_amount": 7176.147794,
+    "loss_amount": -64.889959758624,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 13879,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
