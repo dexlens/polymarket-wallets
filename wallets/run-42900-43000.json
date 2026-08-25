@@ -990,5 +990,21 @@
     "win_count": 7,
     "rank": 42963,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x008645ba2fdeed374c5b96b3505a239c9f21a766",
+    "trader_name": "Fetty09",
+    "tag": "Overall",
+    "overall_gain": 1821.090045147346,
+    "active_positions": 0,
+    "win_amount": 1821.090045147346,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003195,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 42964,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
