@@ -542,5 +542,21 @@
     "win_count": 9,
     "rank": 6934,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e9b5bdb89a2b2b74c67f907a98b8199898849b7",
+    "trader_name": "Cylvos",
+    "tag": "Overall",
+    "overall_gain": 15466.791610493601,
+    "active_positions": 6,
+    "win_amount": 16260.428001082666,
+    "loss_amount": -793.6363905890651,
+    "win_rate": 0.7419354838709677,
+    "total_current_value": 10.914707167,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 23,
+    "rank": 6935,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
