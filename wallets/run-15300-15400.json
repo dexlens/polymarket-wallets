@@ -222,5 +222,21 @@
     "win_count": 13,
     "rank": 15314,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x73195604cf09b0029ddf11f7d1480416f8b4d5dd",
+    "trader_name": "JTIDF",
+    "tag": "Overall",
+    "overall_gain": 6324.07994925,
+    "active_positions": 6,
+    "win_amount": 6329.04994925,
+    "loss_amount": -4.97,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 66.983,
+    "total_positions": 21,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 15315,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
