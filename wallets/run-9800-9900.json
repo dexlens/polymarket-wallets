@@ -1214,5 +1214,21 @@
     "win_count": 2,
     "rank": 9876,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x87e54d98ea1150d1aa55e7e9550c0b68fc8b6444",
+    "trader_name": "god2",
+    "tag": "Overall",
+    "overall_gain": 10616.229430126652,
+    "active_positions": 41,
+    "win_amount": 19548.91033424521,
+    "loss_amount": -8932.680904118568,
+    "win_rate": 0.3,
+    "total_current_value": 173.93779728,
+    "total_positions": 63,
+    "event_ct": 40,
+    "win_count": 12,
+    "rank": 9877,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
