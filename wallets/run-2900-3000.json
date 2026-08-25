@@ -1022,5 +1022,21 @@
     "win_count": 14,
     "rank": 2964,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02a17a92e6f673129b37d95359c7af628a3cdd72",
+    "trader_name": "Imbafer",
+    "tag": "Overall",
+    "overall_gain": 38633.30759529848,
+    "active_positions": 52,
+    "win_amount": 77175.15320985361,
+    "loss_amount": -38541.8456145551,
+    "win_rate": 0.6174698795180723,
+    "total_current_value": 83283.337013694,
+    "total_positions": 456,
+    "event_ct": 332,
+    "win_count": 205,
+    "rank": 2965,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
