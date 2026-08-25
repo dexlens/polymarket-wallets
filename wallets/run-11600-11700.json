@@ -622,5 +622,21 @@
     "win_count": 5,
     "rank": 11639,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5dcfb5a3eb503b4cc8a67cb9077a2e2ef99675b9",
+    "trader_name": "Wessa",
+    "tag": "Overall",
+    "overall_gain": 8931.877088636058,
+    "active_positions": 194,
+    "win_amount": 94745.79460243977,
+    "loss_amount": -85813.91751380372,
+    "win_rate": 0.9238397461324871,
+    "total_current_value": 5003.917771249999,
+    "total_positions": 2630,
+    "event_ct": 2521,
+    "win_count": 2329,
+    "rank": 11640,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
