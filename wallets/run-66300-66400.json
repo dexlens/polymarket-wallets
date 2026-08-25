@@ -350,5 +350,21 @@
     "win_count": 49,
     "rank": 66323,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x76875ad7a38a1c06099bf7135398756e388f1041",
+    "trader_name": "Theamst",
+    "tag": "Overall",
+    "overall_gain": 907.0528585731741,
+    "active_positions": 1,
+    "win_amount": 1060.8846296311742,
+    "loss_amount": -153.83177105800002,
+    "win_rate": 0.75,
+    "total_current_value": 8.1668416025,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 66324,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
