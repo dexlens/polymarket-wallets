@@ -1374,5 +1374,21 @@
     "win_count": 17,
     "rank": 30287,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2745f7237a15735ca7c934020d01ba64bdece8d6",
+    "trader_name": "uvix",
+    "tag": "Overall",
+    "overall_gain": 2786.29766728739,
+    "active_positions": 1,
+    "win_amount": 6174.935608471918,
+    "loss_amount": -3388.6379411845282,
+    "win_rate": 0.5,
+    "total_current_value": 0.007,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 30288,
+    "trader_tags": "> 1 year old"
   }
 ]
