@@ -1374,5 +1374,21 @@
     "win_count": 2,
     "rank": 47787,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc9adca8d223d6e9082b09223f5c25f02ef7bf186",
+    "trader_name": "bugfatal",
+    "tag": "Overall",
+    "overall_gain": 1582.1528682102128,
+    "active_positions": 0,
+    "win_amount": 21327.578241670166,
+    "loss_amount": -19745.425373459948,
+    "win_rate": 0.6612903225806451,
+    "total_current_value": 0.4050990000000001,
+    "total_positions": 648,
+    "event_ct": 620,
+    "win_count": 410,
+    "rank": 47788,
+    "trader_tags": "> 1 year old"
   }
 ]
