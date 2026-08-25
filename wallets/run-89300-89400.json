@@ -1582,5 +1582,21 @@
     "win_count": 6,
     "rank": 89400,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1afd6e4dc40e43d72dc3384e566d7b1f04472711",
+    "trader_name": "ArchieKK",
+    "tag": "Overall",
+    "overall_gain": 497.034588196719,
+    "active_positions": 1,
+    "win_amount": 563.465084385293,
+    "loss_amount": -66.430496188574,
+    "win_rate": 0.75,
+    "total_current_value": 0.005293,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 89401,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
