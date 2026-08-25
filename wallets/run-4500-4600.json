@@ -1038,5 +1038,21 @@
     "win_count": 57,
     "rank": 4565,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf59db7ef18f784e17862c182d1134d5c8df38f85",
+    "trader_name": "kfkNBApro1",
+    "tag": "Overall",
+    "overall_gain": 24151.464594598998,
+    "active_positions": 39,
+    "win_amount": 29709.534594598983,
+    "loss_amount": -5558.07,
+    "win_rate": 0.9995579133510168,
+    "total_current_value": 223438.63259900006,
+    "total_positions": 3303,
+    "event_ct": 2262,
+    "win_count": 2261,
+    "rank": 4566,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
