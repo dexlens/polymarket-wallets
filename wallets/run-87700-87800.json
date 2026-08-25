@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 87799,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9e52befa86adee9be23bac65621b4197f4bf0e22",
+    "trader_name": "nbhygvfcdx",
+    "tag": "Overall",
+    "overall_gain": 515.163072440868,
+    "active_positions": 0,
+    "win_amount": 515.163072440868,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0008680000000000001,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 87800,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
