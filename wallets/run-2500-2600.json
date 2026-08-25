@@ -1534,5 +1534,21 @@
     "win_count": 8,
     "rank": 2596,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5caec2331059ed7bbead580c8bc56e2d1896a00a",
+    "trader_name": "azkalph",
+    "tag": "Overall",
+    "overall_gain": 44798.491226261634,
+    "active_positions": 42,
+    "win_amount": 233400.88029688745,
+    "loss_amount": -188602.38907062585,
+    "win_rate": 0.5869565217391305,
+    "total_current_value": 7596.949447999999,
+    "total_positions": 103,
+    "event_ct": 92,
+    "win_count": 54,
+    "rank": 2597,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
