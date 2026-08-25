@@ -1454,5 +1454,21 @@
     "win_count": 5,
     "rank": 56092,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x266cf4d30821f4a8be63b38ee0535422bbe7f903",
+    "trader_name": "mergaholic",
+    "tag": "Overall",
+    "overall_gain": 1214.7020435900506,
+    "active_positions": 132,
+    "win_amount": 11486.833620142403,
+    "loss_amount": -10272.131576552352,
+    "win_rate": 0.7632130384167637,
+    "total_current_value": 236.28646100000003,
+    "total_positions": 5364,
+    "event_ct": 4295,
+    "win_count": 3278,
+    "rank": 56093,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
