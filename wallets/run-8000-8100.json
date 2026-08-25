@@ -302,5 +302,21 @@
     "win_count": 33,
     "rank": 8019,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25012ec798e4861e38c645df919f86dc3c177e28",
+    "trader_name": "opri",
+    "tag": "Overall",
+    "overall_gain": 13095.698656725073,
+    "active_positions": 7,
+    "win_amount": 17262.64987199035,
+    "loss_amount": -4166.951215265279,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 19624.176471099006,
+    "total_positions": 58,
+    "event_ct": 38,
+    "win_count": 28,
+    "rank": 8020,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
