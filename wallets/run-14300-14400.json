@@ -1438,5 +1438,21 @@
     "win_count": 5,
     "rank": 14390,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x166a49699aba5d7a9ce3142450062deedf83d7ed",
+    "trader_name": "Eia",
+    "tag": "Overall",
+    "overall_gain": 6834.28754569416,
+    "active_positions": 123,
+    "win_amount": 9593.377812000817,
+    "loss_amount": -2759.0902663066577,
+    "win_rate": 0.7431906614785992,
+    "total_current_value": 13947.298269814,
+    "total_positions": 548,
+    "event_ct": 257,
+    "win_count": 191,
+    "rank": 14391,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
