@@ -254,5 +254,21 @@
     "win_count": 9,
     "rank": 61017,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x666aa637f630250b4ed3f119b0a5cf0bb3fab5e5",
+    "trader_name": "olsonpamela",
+    "tag": "Overall",
+    "overall_gain": 1047.3199217502852,
+    "active_positions": 1,
+    "win_amount": 1784.862589747733,
+    "loss_amount": -737.542667997448,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 50.20534363,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 61018,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
