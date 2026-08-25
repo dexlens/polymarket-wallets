@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 14666,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x896e5e594ddf322cd180f01df263e0f22ac07a83",
+    "trader_name": "badforecaster - 1002",
+    "tag": "Overall",
+    "overall_gain": 6696.66829668951,
+    "active_positions": 0,
+    "win_amount": 9304.279430699748,
+    "loss_amount": -2607.611134010237,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 4.327462158364994e-9,
+    "total_positions": 37,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 14667,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
