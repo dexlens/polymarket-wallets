@@ -782,5 +782,21 @@
     "win_count": 2,
     "rank": 53350,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6322e412889e0d2c775d7a905383c3222ff90c4a",
+    "trader_name": "donniechu",
+    "tag": "Overall",
+    "overall_gain": 1331.9058948787185,
+    "active_positions": 15,
+    "win_amount": 7949.412386928889,
+    "loss_amount": -6617.506492050172,
+    "win_rate": 0.4970414201183432,
+    "total_current_value": 28.060206635,
+    "total_positions": 176,
+    "event_ct": 169,
+    "win_count": 84,
+    "rank": 53351,
+    "trader_tags": ""
   }
 ]
