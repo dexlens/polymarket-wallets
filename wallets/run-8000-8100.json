@@ -238,5 +238,21 @@
     "win_count": 19,
     "rank": 8015,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xe35dfe51d8288ea409ea18a139f188a83b33f5d5",
+    "trader_name": "chocolate123",
+    "tag": "Overall",
+    "overall_gain": 13100.13644509441,
+    "active_positions": 5,
+    "win_amount": 31694.853489355326,
+    "loss_amount": -18594.71704426091,
+    "win_rate": 0.8348623853211009,
+    "total_current_value": 3356.3632756495,
+    "total_positions": 1852,
+    "event_ct": 436,
+    "win_count": 364,
+    "rank": 8016,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
