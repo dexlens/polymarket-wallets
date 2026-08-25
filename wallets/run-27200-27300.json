@@ -766,5 +766,21 @@
     "win_count": 5,
     "rank": 27249,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c46ffe86ee500875db3c679e52f6e64854cdac9",
+    "trader_name": "WagerWizard",
+    "tag": "Overall",
+    "overall_gain": 3169.4946249523637,
+    "active_positions": 42,
+    "win_amount": 13475.43346737176,
+    "loss_amount": -10305.938842419393,
+    "win_rate": 0.6069014585556741,
+    "total_current_value": 101.87016302,
+    "total_positions": 5821,
+    "event_ct": 2811,
+    "win_count": 1706,
+    "rank": 27250,
+    "trader_tags": "1k+ Positions"
   }
 ]
