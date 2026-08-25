@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 82742,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7162f5025737fc9971f08ce79b144cd9cc2b3ab9",
+    "trader_name": "insulik",
+    "tag": "Overall",
+    "overall_gain": 586.4838550000001,
+    "active_positions": 2,
+    "win_amount": 589.5875420000001,
+    "loss_amount": -3.103687,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 479.89725000000004,
+    "total_positions": 85,
+    "event_ct": 34,
+    "win_count": 32,
+    "rank": 82743,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
