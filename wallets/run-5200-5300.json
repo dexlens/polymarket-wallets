@@ -1070,5 +1070,21 @@
     "win_count": 20,
     "rank": 5267,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x267cc5ef0a6e0b854bb942df62bb7ab17f91e3fc",
+    "trader_name": "gonewiththewine",
+    "tag": "Overall",
+    "overall_gain": 20588.518719891115,
+    "active_positions": 541,
+    "win_amount": 31296.36341676601,
+    "loss_amount": -10707.8446968749,
+    "win_rate": 0.7010945273631841,
+    "total_current_value": 10.405697999999997,
+    "total_positions": 10001,
+    "event_ct": 5025,
+    "win_count": 3523,
+    "rank": 5268,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
