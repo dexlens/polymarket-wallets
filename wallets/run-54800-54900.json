@@ -990,5 +990,21 @@
     "win_count": 91,
     "rank": 54863,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e55bb9fd48523a2d307052259d28578cb4201bb",
+    "trader_name": "born-plugin",
+    "tag": "Overall",
+    "overall_gain": 1265.6003413199996,
+    "active_positions": 102,
+    "win_amount": 6349.090683,
+    "loss_amount": -5083.490341680001,
+    "win_rate": 0.8115449915110357,
+    "total_current_value": 0.0167,
+    "total_positions": 592,
+    "event_ct": 589,
+    "win_count": 478,
+    "rank": 54864,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
