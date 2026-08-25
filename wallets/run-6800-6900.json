@@ -814,5 +814,21 @@
     "win_count": 13,
     "rank": 6851,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfc234be3c4c3568284a566613ba90033b9d98283",
+    "trader_name": "FishCrypto",
+    "tag": "Overall",
+    "overall_gain": 15636.850114982477,
+    "active_positions": 204,
+    "win_amount": 55874.348747273565,
+    "loss_amount": -40237.49863229108,
+    "win_rate": 0.5641025641025641,
+    "total_current_value": 1378.903488367,
+    "total_positions": 869,
+    "event_ct": 741,
+    "win_count": 418,
+    "rank": 6852,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
