@@ -270,5 +270,21 @@
     "win_count": 29,
     "rank": 6017,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90f6708bfa4ef40b8789a7d78232bb7c2ce671ee",
+    "trader_name": "Winforsure",
+    "tag": "Overall",
+    "overall_gain": 17820.13572773331,
+    "active_positions": 140,
+    "win_amount": 113469.01846266356,
+    "loss_amount": -95648.88273493023,
+    "win_rate": 0.5369127516778524,
+    "total_current_value": 8.288748,
+    "total_positions": 264,
+    "event_ct": 149,
+    "win_count": 80,
+    "rank": 6018,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
