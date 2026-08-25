@@ -862,5 +862,21 @@
     "win_count": 23,
     "rank": 47755,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x05657e87bbffe328bd7fbd6fd925886eb71ae885",
+    "trader_name": "Raskovnik",
+    "tag": "Overall",
+    "overall_gain": 1583.5,
+    "active_positions": 1,
+    "win_amount": 1912.5,
+    "loss_amount": -329,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 47756,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
