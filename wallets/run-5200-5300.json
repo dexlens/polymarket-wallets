@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 5293,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x50d81c2c7427a6ae4b349a23268a1484b079ca43",
+    "trader_name": "mahidra",
+    "tag": "Overall",
+    "overall_gain": 20483.12260174199,
+    "active_positions": 1,
+    "win_amount": 20839.95094545607,
+    "loss_amount": -356.828343714076,
+    "win_rate": 0.8214285714285714,
+    "total_current_value": 0.00667,
+    "total_positions": 102,
+    "event_ct": 28,
+    "win_count": 23,
+    "rank": 5294,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
