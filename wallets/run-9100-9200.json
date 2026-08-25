@@ -174,5 +174,21 @@
     "win_count": 44,
     "rank": 9111,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8977a465ac22b6a0389a05146f5a81bb0bfe22ff",
+    "trader_name": "pumpernikiel",
+    "tag": "Overall",
+    "overall_gain": 11499.66225869211,
+    "active_positions": 5,
+    "win_amount": 22524.564142043517,
+    "loss_amount": -11024.901883351407,
+    "win_rate": 0.2727272727272727,
+    "total_current_value": 0.007269,
+    "total_positions": 19,
+    "event_ct": 11,
+    "win_count": 3,
+    "rank": 9112,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
