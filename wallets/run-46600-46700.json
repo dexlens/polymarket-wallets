@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 46670,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0acc75f712711d9b0406964fb4914efca28c9dc1",
+    "trader_name": "AntonioParetty",
+    "tag": "Overall",
+    "overall_gain": 1632.010347587886,
+    "active_positions": 3,
+    "win_amount": 12114.182240953745,
+    "loss_amount": -10482.17189336586,
+    "win_rate": 0.5223214285714286,
+    "total_current_value": 593.7436642960001,
+    "total_positions": 249,
+    "event_ct": 224,
+    "win_count": 117,
+    "rank": 46671,
+    "trader_tags": ""
   }
 ]
