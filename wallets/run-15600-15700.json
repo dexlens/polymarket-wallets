@@ -990,5 +990,21 @@
     "win_count": 10,
     "rank": 15662,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d72939b1ea4ad7c564455e5a03490b91f77cca4",
+    "trader_name": "Nancy.Pelosi",
+    "tag": "Overall",
+    "overall_gain": 6152.1988895823615,
+    "active_positions": 4,
+    "win_amount": 27437.567684281337,
+    "loss_amount": -21285.368794698985,
+    "win_rate": 0.5,
+    "total_current_value": 6043.01208197,
+    "total_positions": 172,
+    "event_ct": 98,
+    "win_count": 49,
+    "rank": 15663,
+    "trader_tags": "> 1 year old"
   }
 ]
