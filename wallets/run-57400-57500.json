@@ -702,5 +702,21 @@
     "win_count": 3,
     "rank": 57445,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c6061667de5d457750fbbdffad60f5ef19e9c5e",
+    "trader_name": "QRT-Alpha",
+    "tag": "Overall",
+    "overall_gain": 1161.9183698362074,
+    "active_positions": 7,
+    "win_amount": 7809.689737636616,
+    "loss_amount": -6647.77136780041,
+    "win_rate": 0.7711864406779662,
+    "total_current_value": 21640.3276130105,
+    "total_positions": 217,
+    "event_ct": 118,
+    "win_count": 91,
+    "rank": 57446,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
