@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 38051,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x059f2e1c64e05bf86ac73085352d36a7afc42462",
+    "trader_name": "thfgjyu",
+    "tag": "Overall",
+    "overall_gain": 2115.8832269516975,
+    "active_positions": 2,
+    "win_amount": 2325.2345798199995,
+    "loss_amount": -209.35135286830197,
+    "win_rate": 0.9375,
+    "total_current_value": 165.601183844,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 30,
+    "rank": 38052,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
