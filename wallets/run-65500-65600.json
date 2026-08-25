@@ -734,5 +734,21 @@
     "win_count": 11,
     "rank": 65547,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9ec1c889c4c12b0647468d95d9eecd8dee49489b",
+    "trader_name": "juullss",
+    "tag": "Overall",
+    "overall_gain": 929.2561792153399,
+    "active_positions": 0,
+    "win_amount": 929.2561792153399,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 65548,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
