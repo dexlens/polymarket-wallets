@@ -1390,5 +1390,21 @@
     "win_count": 25,
     "rank": 70488,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1dc24619ab3968af21ea1842a79d492d2c6b6554",
+    "trader_name": "scrouge",
+    "tag": "Overall",
+    "overall_gain": 799.688465957397,
+    "active_positions": 0,
+    "win_amount": 799.688465957397,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.015445,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 70489,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
