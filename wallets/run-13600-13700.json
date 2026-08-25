@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 13642,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b388a2bbe90eef243b30758eb5592af4dc0171f",
+    "trader_name": "net-50CUT",
+    "tag": "Overall",
+    "overall_gain": 7264.369619064359,
+    "active_positions": 6,
+    "win_amount": 8619.742657335619,
+    "loss_amount": -1355.3730382712579,
+    "win_rate": 0.9242424242424242,
+    "total_current_value": 19392.162735183498,
+    "total_positions": 251,
+    "event_ct": 132,
+    "win_count": 122,
+    "rank": 13643,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
