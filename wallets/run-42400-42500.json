@@ -686,5 +686,21 @@
     "win_count": 42,
     "rank": 42444,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7f53f850564bab720ffa7f2c70c03856db40adc6",
+    "trader_name": "mojo.jojo.",
+    "tag": "Overall",
+    "overall_gain": 1851.7222153055668,
+    "active_positions": 4,
+    "win_amount": 2453.937113883949,
+    "loss_amount": -602.214898578382,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0.06645500000000001,
+    "total_positions": 24,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 42445,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
