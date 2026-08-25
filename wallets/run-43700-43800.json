@@ -1454,5 +1454,21 @@
     "win_count": 2,
     "rank": 43792,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7b0f665e3afff182b65d04fac98ee4e11249145c",
+    "trader_name": "kaitemo",
+    "tag": "Overall",
+    "overall_gain": 1777.3815384610143,
+    "active_positions": 184,
+    "win_amount": 1953.3195324210783,
+    "loss_amount": -175.93799396006398,
+    "win_rate": 0.7034482758620689,
+    "total_current_value": 164.02798495449997,
+    "total_positions": 539,
+    "event_ct": 145,
+    "win_count": 102,
+    "rank": 43793,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
