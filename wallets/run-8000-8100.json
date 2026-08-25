@@ -110,5 +110,21 @@
     "win_count": 10,
     "rank": 8007,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8b424e123b219710a6ae219f6b61290879534eb6",
+    "trader_name": "MartinDupon",
+    "tag": "Overall",
+    "overall_gain": 13114.328477000001,
+    "active_positions": 0,
+    "win_amount": 123439.66909299992,
+    "loss_amount": -110325.340616,
+    "win_rate": 0.5364387678437266,
+    "total_current_value": 0,
+    "total_positions": 1425,
+    "event_ct": 1331,
+    "win_count": 714,
+    "rank": 8008,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
