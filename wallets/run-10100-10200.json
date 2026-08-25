@@ -1118,5 +1118,21 @@
     "win_count": 4,
     "rank": 10170,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7c6d3a690135c18d36171b5161fe17fd6377c33c",
+    "trader_name": "caodhbian",
+    "tag": "Overall",
+    "overall_gain": 10327.1767337649,
+    "active_positions": 3,
+    "win_amount": 12208.012532678316,
+    "loss_amount": -1880.835798913416,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.026916999999999996,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 10171,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
