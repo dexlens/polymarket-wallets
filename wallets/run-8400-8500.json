@@ -366,5 +366,21 @@
     "win_count": 4,
     "rank": 8423,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbfcba50979db32698fd50c17186fb0b0ba4163ef",
+    "trader_name": "rumblestilks",
+    "tag": "Overall",
+    "overall_gain": 12433.090285280974,
+    "active_positions": 21,
+    "win_amount": 20429.29073003173,
+    "loss_amount": -7996.200444750752,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 9221.294550196999,
+    "total_positions": 50,
+    "event_ct": 28,
+    "win_count": 16,
+    "rank": 8424,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
