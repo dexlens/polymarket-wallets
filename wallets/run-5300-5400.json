@@ -718,5 +718,21 @@
     "win_count": 48,
     "rank": 5345,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x9ba8d25a054044bb66d0ca4e250a16dbfb64cdb3",
+    "trader_name": "GoldenAlpha168",
+    "tag": "Overall",
+    "overall_gain": 20239.9249662878,
+    "active_positions": 9,
+    "win_amount": 67701.070632,
+    "loss_amount": -47461.1456657122,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 8444.864840560002,
+    "total_positions": 12,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 5346,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
