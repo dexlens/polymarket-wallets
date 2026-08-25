@@ -1566,5 +1566,21 @@
     "win_count": 8,
     "rank": 45699,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa987d180340d1aadd282ef3a55931f567f3f52e0",
+    "trader_name": "Iamsmart",
+    "tag": "Overall",
+    "overall_gain": 1681.228851749181,
+    "active_positions": 10,
+    "win_amount": 2519.77107330583,
+    "loss_amount": -838.54222155665,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0.25679199999999996,
+    "total_positions": 39,
+    "event_ct": 36,
+    "win_count": 26,
+    "rank": 45700,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
