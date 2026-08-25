@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 2532,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x371a0d623144ad877c81614afe52c356619c34b0",
+    "trader_name": "St-Qc",
+    "tag": "Overall",
+    "overall_gain": 46398.00074418611,
+    "active_positions": 25797,
+    "win_amount": 174044.83110035653,
+    "loss_amount": -127646.83035617032,
+    "win_rate": 0.06420009648569414,
+    "total_current_value": 203.59869891350002,
+    "total_positions": 29463,
+    "event_ct": 26947,
+    "win_count": 1730,
+    "rank": 2533,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
