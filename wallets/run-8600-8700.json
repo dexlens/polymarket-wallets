@@ -398,5 +398,21 @@
     "win_count": 99,
     "rank": 8625,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xd92d519457d6d09172ae7f6f2cbabeaa0dea2e6c",
+    "trader_name": "edythhintz",
+    "tag": "Overall",
+    "overall_gain": 12146.17,
+    "active_positions": 1,
+    "win_amount": 12545.81,
+    "loss_amount": -399.6400000000001,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 8626,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
