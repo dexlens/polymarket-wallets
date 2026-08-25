@@ -654,5 +654,21 @@
     "win_count": 63,
     "rank": 6741,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6bba94c88ec20b49f6a488fe3e6a84d344473174",
+    "trader_name": "Thrylor",
+    "tag": "Overall",
+    "overall_gain": 15924.038401428963,
+    "active_positions": 2,
+    "win_amount": 22041.028401428965,
+    "loss_amount": -6116.99,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0.000116,
+    "total_positions": 49,
+    "event_ct": 45,
+    "win_count": 40,
+    "rank": 6742,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
