@@ -1086,5 +1086,21 @@
     "win_count": 2,
     "rank": 4468,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x408d9afe00e2cad006210039a0fbbec78ccf2bcc",
+    "trader_name": "lqngpt",
+    "tag": "Overall",
+    "overall_gain": 24766.451589000008,
+    "active_positions": 0,
+    "win_amount": 26492.431589000007,
+    "loss_amount": -1725.98,
+    "win_rate": 0.8064516129032258,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 31,
+    "win_count": 25,
+    "rank": 4469,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
