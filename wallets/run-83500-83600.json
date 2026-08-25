@@ -78,5 +78,21 @@
     "win_count": 10,
     "rank": 83506,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d38e1e6e5246576d723ee90862e5be2869ffd9e",
+    "trader_name": "destingraham",
+    "tag": "Overall",
+    "overall_gain": 574.0699999999999,
+    "active_positions": 1,
+    "win_amount": 1087.83,
+    "loss_amount": -513.76,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 83507,
+    "trader_tags": "< 30 days old"
   }
 ]
