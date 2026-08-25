@@ -990,5 +990,21 @@
     "win_count": 656,
     "rank": 8562,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x9c55972bf2a80d1673ad97d4c4cf0920ef1dc532",
+    "trader_name": "sleepy111",
+    "tag": "Overall",
+    "overall_gain": 12236.42258,
+    "active_positions": 2,
+    "win_amount": 13031.42258,
+    "loss_amount": -795,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 8563,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
