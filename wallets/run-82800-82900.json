@@ -478,5 +478,21 @@
     "win_count": 51,
     "rank": 82831,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5898c2f31da5cd690eeb58683214ceef06915028",
+    "trader_name": "Nebada",
+    "tag": "Overall",
+    "overall_gain": 585.012805694763,
+    "active_positions": 9,
+    "win_amount": 10205.89213784459,
+    "loss_amount": -9620.879332149829,
+    "win_rate": 0.6122448979591837,
+    "total_current_value": 725.655054904,
+    "total_positions": 76,
+    "event_ct": 49,
+    "win_count": 30,
+    "rank": 82832,
+    "trader_tags": "> 1 year old"
   }
 ]
