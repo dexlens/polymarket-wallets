@@ -1422,5 +1422,21 @@
     "win_count": 10,
     "rank": 34390,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xfe249951b2aca5503cf24eaa15f0721741c423fb",
+    "trader_name": "openai66",
+    "tag": "Overall",
+    "overall_gain": 2389.741665,
+    "active_positions": 0,
+    "win_amount": 2676.9550879999997,
+    "loss_amount": -287.213423,
+    "win_rate": 0.5,
+    "total_current_value": 0.01,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 34391,
+    "trader_tags": "> 1 year old"
   }
 ]
