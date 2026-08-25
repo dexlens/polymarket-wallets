@@ -990,5 +990,21 @@
     "win_count": 3,
     "rank": 56363,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0ab606c8c8d7068f06cfc580d8499a1b381f8eef",
+    "trader_name": "-metabaron-",
+    "tag": "Overall",
+    "overall_gain": 1202.495916576285,
+    "active_positions": 62,
+    "win_amount": 1977.8914857828213,
+    "loss_amount": -775.3955692065359,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 1481.2114119765,
+    "total_positions": 337,
+    "event_ct": 143,
+    "win_count": 99,
+    "rank": 56364,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
