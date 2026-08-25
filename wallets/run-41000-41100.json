@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 41049,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15147fd5a1070e46894e3f2dc5eddafd074e26e7",
+    "trader_name": "kremsias",
+    "tag": "Overall",
+    "overall_gain": 1932.3937990000002,
+    "active_positions": 2,
+    "win_amount": 4254.052556,
+    "loss_amount": -2321.6587569999997,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 9.254235,
+    "total_positions": 19,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 41050,
+    "trader_tags": "> 1 year old"
   }
 ]
