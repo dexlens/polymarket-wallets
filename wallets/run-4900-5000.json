@@ -286,5 +286,21 @@
     "win_count": 73,
     "rank": 4918,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x51e93850a26e4bc58dd5a0512da6fff77802a2b9",
+    "trader_name": "rze",
+    "tag": "Overall",
+    "overall_gain": 22090.958560740535,
+    "active_positions": 78,
+    "win_amount": 89081.65873946606,
+    "loss_amount": -66990.70017872553,
+    "win_rate": 0.5054945054945055,
+    "total_current_value": 0.22029768300000002,
+    "total_positions": 1015,
+    "event_ct": 546,
+    "win_count": 276,
+    "rank": 4919,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
