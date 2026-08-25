@@ -94,5 +94,21 @@
     "win_count": 5,
     "rank": 24907,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x76bc3152508c9241b7d7fbc23d0bb2ed8203ce16",
+    "trader_name": "bcxrwd",
+    "tag": "Overall",
+    "overall_gain": 3557.214286,
+    "active_positions": 2,
+    "win_amount": 3630.346286,
+    "loss_amount": -73.13199999999999,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 190.67454,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 26,
+    "rank": 24908,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
