@@ -382,5 +382,21 @@
     "win_count": 74,
     "rank": 2824,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x040ec398e277f9d7f366621dfa7ea5ddae088edf",
+    "trader_name": "ARudeEgg",
+    "tag": "Overall",
+    "overall_gain": 41006.58145841069,
+    "active_positions": 3,
+    "win_amount": 182878.9765257559,
+    "loss_amount": -141872.3950673452,
+    "win_rate": 0.795774647887324,
+    "total_current_value": 0.404049,
+    "total_positions": 371,
+    "event_ct": 142,
+    "win_count": 113,
+    "rank": 2825,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
