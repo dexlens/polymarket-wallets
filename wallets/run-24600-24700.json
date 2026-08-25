@@ -1502,5 +1502,21 @@
     "win_count": 9,
     "rank": 24695,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13c2b6c2e7afe0ec873618902f88f5837f140403",
+    "trader_name": "1kto100k",
+    "tag": "Overall",
+    "overall_gain": 3596.7228056066465,
+    "active_positions": 6,
+    "win_amount": 5474.689431,
+    "loss_amount": -1877.966625393354,
+    "win_rate": 0.5636363636363636,
+    "total_current_value": 2112.5,
+    "total_positions": 62,
+    "event_ct": 55,
+    "win_count": 31,
+    "rank": 24696,
+    "trader_tags": "> 1 year old"
   }
 ]
