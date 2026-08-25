@@ -190,5 +190,21 @@
     "win_count": 40,
     "rank": 3812,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xce244e7b39c7fd1418b4af750ca8d7d6a2cc6239",
+    "trader_name": "tutiboss",
+    "tag": "Overall",
+    "overall_gain": 29866.265926736913,
+    "active_positions": 184,
+    "win_amount": 96558.76125469347,
+    "loss_amount": -66692.49532795655,
+    "win_rate": 0.41379310344827586,
+    "total_current_value": 243.71938840649995,
+    "total_positions": 338,
+    "event_ct": 232,
+    "win_count": 96,
+    "rank": 3813,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
