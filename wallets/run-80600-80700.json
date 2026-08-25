@@ -158,5 +158,21 @@
     "win_count": 4,
     "rank": 80611,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x258c2fc2084b21bb5e4f02cfbdd4320255e2201b",
+    "trader_name": "nono123",
+    "tag": "Overall",
+    "overall_gain": 620.487619416614,
+    "active_positions": 0,
+    "win_amount": 620.487619416614,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0015233050000000002,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 80612,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
