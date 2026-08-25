@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 49380,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x373eeaae8e51d22426eb48fc512da2ea2927a4c0",
+    "trader_name": "dbt",
+    "tag": "Overall",
+    "overall_gain": 1509.9630256484552,
+    "active_positions": 3,
+    "win_amount": 5673.26103212541,
+    "loss_amount": -4163.2980064769545,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.0030769350000000003,
+    "total_positions": 18,
+    "event_ct": 12,
+    "win_count": 4,
+    "rank": 49381,
+    "trader_tags": ""
   }
 ]
