@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 15999,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7e43decda67c32f68d061dd6c763e133352b0f4",
+    "trader_name": "EarlSpringhall",
+    "tag": "Overall",
+    "overall_gain": 5999.606621240268,
+    "active_positions": 65,
+    "win_amount": 19250.146201781263,
+    "loss_amount": -13250.539580540993,
+    "win_rate": 0.6120689655172413,
+    "total_current_value": 22.092908441999995,
+    "total_positions": 117,
+    "event_ct": 116,
+    "win_count": 71,
+    "rank": 16000,
+    "trader_tags": ""
   }
 ]
