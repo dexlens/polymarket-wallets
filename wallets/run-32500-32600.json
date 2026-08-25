@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 32544,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d5c2cc07180a3f8dbda3c3293a43e844c6d8624",
+    "trader_name": "Tyelf",
+    "tag": "Overall",
+    "overall_gain": 2547.2101457693575,
+    "active_positions": 7,
+    "win_amount": 5236.145489204871,
+    "loss_amount": -2688.9353434355135,
+    "win_rate": 0.16,
+    "total_current_value": 305.1223556285,
+    "total_positions": 32,
+    "event_ct": 25,
+    "win_count": 4,
+    "rank": 32545,
+    "trader_tags": "> 1 year old"
   }
 ]
