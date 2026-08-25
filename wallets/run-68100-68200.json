@@ -350,5 +350,21 @@
     "win_count": 123,
     "rank": 68123,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6cc256bb517dff20b93234cd537e4bb562c7d68e",
+    "trader_name": ".daniel",
+    "tag": "Overall",
+    "overall_gain": 857.4391757775002,
+    "active_positions": 4,
+    "win_amount": 857.4391757775002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 6196.391357527499,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 68124,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
