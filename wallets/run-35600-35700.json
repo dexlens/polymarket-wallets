@@ -478,5 +478,21 @@
     "win_count": 5,
     "rank": 35631,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6251c8edfbbfec03f05c07eca1d2bb254c23c99d",
+    "trader_name": "Antonin",
+    "tag": "Overall",
+    "overall_gain": 2291.847387784372,
+    "active_positions": 9,
+    "win_amount": 2432.429533154055,
+    "loss_amount": -140.582145369683,
+    "win_rate": 0.5769230769230769,
+    "total_current_value": 21214.956503,
+    "total_positions": 57,
+    "event_ct": 26,
+    "win_count": 15,
+    "rank": 35632,
+    "trader_tags": "> 1 year old"
   }
 ]
