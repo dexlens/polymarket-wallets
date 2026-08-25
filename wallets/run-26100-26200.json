@@ -1278,5 +1278,21 @@
     "win_count": 5,
     "rank": 26181,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ac95a3cc890fb32bfa280c1882262cf676bfb44",
+    "trader_name": "VjeFBWibv",
+    "tag": "Overall",
+    "overall_gain": 3341.5,
+    "active_positions": 14,
+    "win_amount": 18018.5,
+    "loss_amount": -14677,
+    "win_rate": 0.5483870967741935,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 17,
+    "rank": 26182,
+    "trader_tags": ""
   }
 ]
