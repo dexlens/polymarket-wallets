@@ -894,5 +894,21 @@
     "win_count": 6,
     "rank": 20456,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86bc94e908de86b6275a82155da705a1017fa198",
+    "trader_name": "435trgfed",
+    "tag": "Overall",
+    "overall_gain": 4507.53321553082,
+    "active_positions": 6,
+    "win_amount": 9612.235460760092,
+    "loss_amount": -5104.702245229274,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 19.787818798,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 20457,
+    "trader_tags": "> 1 year old"
   }
 ]
