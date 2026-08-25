@@ -1006,5 +1006,21 @@
     "win_count": 5,
     "rank": 72564,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0046ac0c458840dde106c3c567ae21057350ace8",
+    "trader_name": "xbit19",
+    "tag": "Overall",
+    "overall_gain": 753.6916180000001,
+    "active_positions": 0,
+    "win_amount": 888.521639,
+    "loss_amount": -134.830021,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 72565,
+    "trader_tags": "> 1 year old"
   }
 ]
