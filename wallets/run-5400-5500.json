@@ -830,5 +830,21 @@
     "win_count": 306,
     "rank": 5452,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x566d32ba7a326f1a1bb0b7d3555215f14421d58f",
+    "trader_name": "HotSulphurMAGA",
+    "tag": "Overall",
+    "overall_gain": 19854.777983642525,
+    "active_positions": 19,
+    "win_amount": 24494.22969264247,
+    "loss_amount": -4639.451708999952,
+    "win_rate": 0.6381909547738693,
+    "total_current_value": 85.00820176650001,
+    "total_positions": 276,
+    "event_ct": 199,
+    "win_count": 127,
+    "rank": 5453,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
