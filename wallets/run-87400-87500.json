@@ -414,5 +414,21 @@
     "win_count": 2,
     "rank": 87427,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd36ad88a38e80faa36d30176a14b85e481c9e8b8",
+    "trader_name": "KLF07",
+    "tag": "Overall",
+    "overall_gain": 519.8737729062391,
+    "active_positions": 11,
+    "win_amount": 1348.163766969567,
+    "loss_amount": -828.289994063328,
+    "win_rate": 0.6111111111111112,
+    "total_current_value": 0.033937,
+    "total_positions": 56,
+    "event_ct": 54,
+    "win_count": 33,
+    "rank": 87428,
+    "trader_tags": ""
   }
 ]
