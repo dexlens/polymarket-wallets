@@ -750,5 +750,21 @@
     "win_count": 56,
     "rank": 58548,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x09a6c45b2863d11facdf0d6d37a631723f4ee287",
+    "trader_name": "qcicgiljihfu",
+    "tag": "Overall",
+    "overall_gain": 1123.561028848,
+    "active_positions": 0,
+    "win_amount": 1123.561028848,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003872,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 58549,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
