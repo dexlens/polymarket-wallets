@@ -1294,5 +1294,21 @@
     "win_count": 4,
     "rank": 41782,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x248fa876bff3a8df0444f942df11f040ccdf8876",
+    "trader_name": "bidmachine",
+    "tag": "Overall",
+    "overall_gain": 1888.9037308360976,
+    "active_positions": 0,
+    "win_amount": 2483.046446447513,
+    "loss_amount": -594.1427156114172,
+    "win_rate": 0.9541984732824428,
+    "total_current_value": 0.12213199999999999,
+    "total_positions": 1057,
+    "event_ct": 1048,
+    "win_count": 1000,
+    "rank": 41783,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
