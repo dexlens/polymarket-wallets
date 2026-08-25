@@ -750,5 +750,21 @@
     "win_count": 14,
     "rank": 3247,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41eacf5aaa4c7fc883a098635b981050715d7a3d",
+    "trader_name": "Chungvicular",
+    "tag": "Overall",
+    "overall_gain": 35329.070094140894,
+    "active_positions": 14,
+    "win_amount": 57196.82658823437,
+    "loss_amount": -21867.756494093483,
+    "win_rate": 0.5272727272727272,
+    "total_current_value": 58481.436451459,
+    "total_positions": 79,
+    "event_ct": 55,
+    "win_count": 29,
+    "rank": 3248,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
