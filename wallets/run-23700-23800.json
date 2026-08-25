@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 23760,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x66054c0cfa4c5112d68dd63b5def887f2e2888a3",
+    "trader_name": "NightWaypoint",
+    "tag": "Overall",
+    "overall_gain": 3767.722,
+    "active_positions": 2,
+    "win_amount": 3767.722,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 16,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 23761,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
