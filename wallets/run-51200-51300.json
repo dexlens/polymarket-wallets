@@ -910,5 +910,21 @@
     "win_count": 2,
     "rank": 51258,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54637a70db00fb737cf04529907efe09e0c32462",
+    "trader_name": "WangDaPang",
+    "tag": "Overall",
+    "overall_gain": 1426.0048837346048,
+    "active_positions": 3,
+    "win_amount": 2189.722644852675,
+    "loss_amount": -763.71776111807,
+    "win_rate": 0.25,
+    "total_current_value": 0.008455,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 51259,
+    "trader_tags": "> 1 year old"
   }
 ]
