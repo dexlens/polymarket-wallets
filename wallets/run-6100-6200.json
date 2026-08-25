@@ -254,5 +254,21 @@
     "win_count": 3545,
     "rank": 6116,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x2b601caa13a65c87b164b2ce78cc14eb1886028b",
+    "trader_name": "yiban",
+    "tag": "Overall",
+    "overall_gain": 17530.891715110432,
+    "active_positions": 5,
+    "win_amount": 18883.031312035335,
+    "loss_amount": -1352.139596924902,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 16.412849902,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 26,
+    "rank": 6117,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
