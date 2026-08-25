@@ -814,5 +814,21 @@
     "win_count": 3,
     "rank": 12051,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x65126a59485f1457a945929bc353611e0a805291",
+    "trader_name": "zetbetter",
+    "tag": "Overall",
+    "overall_gain": 8551.051095432436,
+    "active_positions": 50,
+    "win_amount": 39062.79823595531,
+    "loss_amount": -30511.74714052287,
+    "win_rate": 0.577259475218659,
+    "total_current_value": 19215.5081526465,
+    "total_positions": 419,
+    "event_ct": 343,
+    "win_count": 198,
+    "rank": 12052,
+    "trader_tags": "> 1 year old"
   }
 ]
