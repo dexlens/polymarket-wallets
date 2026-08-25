@@ -1358,5 +1358,21 @@
     "win_count": 2,
     "rank": 51986,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xba64971701c8b97ee2b0768681c67d9b615e350e",
+    "trader_name": "llEmre",
+    "tag": "Overall",
+    "overall_gain": 1392.9683321581815,
+    "active_positions": 167,
+    "win_amount": 14441.455855719212,
+    "loss_amount": -13048.48752356103,
+    "win_rate": 0.8766832034018427,
+    "total_current_value": 6.849472,
+    "total_positions": 1502,
+    "event_ct": 1411,
+    "win_count": 1237,
+    "rank": 51987,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
