@@ -846,5 +846,21 @@
     "win_count": 15,
     "rank": 59254,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9980eb3f8f438ef00921e4ec11ee124176abe066",
+    "trader_name": "ujtfb",
+    "tag": "Overall",
+    "overall_gain": 1100.3,
+    "active_positions": 2,
+    "win_amount": 1103.6,
+    "loss_amount": -3.3000000000000003,
+    "win_rate": 0.8,
+    "total_current_value": 100,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 59255,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
