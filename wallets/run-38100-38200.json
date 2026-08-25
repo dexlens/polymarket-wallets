@@ -718,5 +718,21 @@
     "win_count": 1,
     "rank": 38146,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x321d2f3768ee5ff7014ee35063a3052c2ff331a9",
+    "trader_name": "CloudSo",
+    "tag": "Overall",
+    "overall_gain": 2109.3,
+    "active_positions": 2,
+    "win_amount": 2625.9,
+    "loss_amount": -516.6,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 38147,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
