@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 65199,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xac14d4558dd7924ef1585bdcf0e933f4de624c8c",
+    "trader_name": "dustspawner",
+    "tag": "Overall",
+    "overall_gain": 939.2799999999999,
+    "active_positions": 12,
+    "win_amount": 3133.4800000000005,
+    "loss_amount": -2194.2,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 18,
+    "rank": 65200,
+    "trader_tags": ""
   }
 ]
