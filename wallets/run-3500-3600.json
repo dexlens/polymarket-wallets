@@ -1038,5 +1038,21 @@
     "win_count": 5,
     "rank": 3565,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4ee24c8ca43ffe476ef5118a9029bc1fe30fc81",
+    "trader_name": "Paxtond",
+    "tag": "Overall",
+    "overall_gain": 31917.038206,
+    "active_positions": 1,
+    "win_amount": 31932.918206000002,
+    "loss_amount": -15.88,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 24,
+    "total_positions": 32,
+    "event_ct": 22,
+    "win_count": 18,
+    "rank": 3566,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
