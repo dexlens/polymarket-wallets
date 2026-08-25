@@ -1310,5 +1310,21 @@
     "win_count": 11,
     "rank": 6982,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb2516845269865081e24f54708f4127d60de6f5b",
+    "trader_name": "3musketeers",
+    "tag": "Overall",
+    "overall_gain": 15330.308626418046,
+    "active_positions": 5,
+    "win_amount": 79740.96267781455,
+    "loss_amount": -64410.6540513965,
+    "win_rate": 0.6030769230769231,
+    "total_current_value": 94009.98738420001,
+    "total_positions": 407,
+    "event_ct": 325,
+    "win_count": 196,
+    "rank": 6983,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
