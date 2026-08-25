@@ -382,5 +382,21 @@
     "win_count": 15,
     "rank": 80225,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xebf2d2a3e0642e30467e8a55ebca0b083bb1a34f",
+    "trader_name": "Grantzipf",
+    "tag": "Overall",
+    "overall_gain": 627.075774223116,
+    "active_positions": 1,
+    "win_amount": 745.1973809104738,
+    "loss_amount": -118.12160668735801,
+    "win_rate": 0.75,
+    "total_current_value": 0.031633,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 80226,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
