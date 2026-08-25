@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 3467,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x95bd107886bd48d6737029603e3db242fb781652",
+    "trader_name": "unfiltered009",
+    "tag": "Overall",
+    "overall_gain": 32777.6318578,
+    "active_positions": 0,
+    "win_amount": 32777.871857800004,
+    "loss_amount": -0.24,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.01,
+    "total_positions": 12,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 3468,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
