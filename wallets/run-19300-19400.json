@@ -1502,5 +1502,21 @@
     "win_count": 6,
     "rank": 19394,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfb20c7b499b536121fc3cbe8aa6256cbf2ca3b5c",
+    "trader_name": "Erickaguilar",
+    "tag": "Overall",
+    "overall_gain": 4790.495599491484,
+    "active_positions": 4,
+    "win_amount": 48082.60042005767,
+    "loss_amount": -43292.10482056619,
+    "win_rate": 0.7444196428571429,
+    "total_current_value": 633.8449962044999,
+    "total_positions": 1105,
+    "event_ct": 896,
+    "win_count": 667,
+    "rank": 19395,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
