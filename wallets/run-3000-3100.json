@@ -1310,5 +1310,21 @@
     "win_count": 86,
     "rank": 3082,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdcce3bfa065cf5ca9a0acfe83d6ecd8279d10a15",
+    "trader_name": "gagadolls",
+    "tag": "Overall",
+    "overall_gain": 37146.91753499999,
+    "active_positions": 0,
+    "win_amount": 37146.91753499999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3083,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
