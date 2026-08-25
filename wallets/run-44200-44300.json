@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 44287,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x526e6d16a7f81955f81086b9072582703cf42cbd",
+    "trader_name": "dexswapper",
+    "tag": "Overall",
+    "overall_gain": 1749.1802407198072,
+    "active_positions": 3,
+    "win_amount": 2866.590985143332,
+    "loss_amount": -1117.4107444235249,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.00373,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 44288,
+    "trader_tags": ""
   }
 ]
