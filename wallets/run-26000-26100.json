@@ -606,5 +606,21 @@
     "win_count": 70,
     "rank": 26039,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf509dcd6d2a241aca1dd6ee4d7511f5f14357991",
+    "trader_name": "Wendngo",
+    "tag": "Overall",
+    "overall_gain": 3364,
+    "active_positions": 2,
+    "win_amount": 4298,
+    "loss_amount": -934,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 26040,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
