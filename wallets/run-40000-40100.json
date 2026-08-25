@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 40015,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0742b56e192792f1350708eb681c26a9a10d8a82",
+    "trader_name": "misanthrope",
+    "tag": "Overall",
+    "overall_gain": 1994.0217144491214,
+    "active_positions": 1532,
+    "win_amount": 106456.58456613329,
+    "loss_amount": -104462.56285168414,
+    "win_rate": 0.41333605220228387,
+    "total_current_value": 5.561014,
+    "total_positions": 5744,
+    "event_ct": 4904,
+    "win_count": 2027,
+    "rank": 40016,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
