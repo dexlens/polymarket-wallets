@@ -750,5 +750,21 @@
     "win_count": 13,
     "rank": 2247,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2b031f13051cc5ae389adfc7bba901858a9d2c36",
+    "trader_name": "Oleocanthal",
+    "tag": "Overall",
+    "overall_gain": 53071.34607571244,
+    "active_positions": 21,
+    "win_amount": 82408.26127263925,
+    "loss_amount": -29336.915196926828,
+    "win_rate": 0.48936170212765956,
+    "total_current_value": 0.0385465,
+    "total_positions": 48,
+    "event_ct": 47,
+    "win_count": 23,
+    "rank": 2248,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
