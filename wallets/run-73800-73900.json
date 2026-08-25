@@ -798,5 +798,21 @@
     "win_count": 18,
     "rank": 73851,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x072f91313209019cac8e0f747578b2eae8ca43ce",
+    "trader_name": "mannicorp",
+    "tag": "Overall",
+    "overall_gain": 730.939113748908,
+    "active_positions": 0,
+    "win_amount": 925.4344076739329,
+    "loss_amount": -194.49529392502498,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.037541,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 73852,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
