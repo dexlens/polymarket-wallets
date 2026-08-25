@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 52873,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x078ea45ec2289b2e724539a2a99adc66f0dd2c75",
+    "trader_name": "SnapSniper52",
+    "tag": "Overall",
+    "overall_gain": 1353.3340260000002,
+    "active_positions": 0,
+    "win_amount": 4971.943026,
+    "loss_amount": -3618.609,
+    "win_rate": 0.64,
+    "total_current_value": 0,
+    "total_positions": 45,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 52874,
+    "trader_tags": "> 1 year old"
   }
 ]
