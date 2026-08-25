@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 70456,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x90c7404e3b7c35e81f76ceb16cdcad49fefc5e1d",
+    "trader_name": "qa11",
+    "tag": "Overall",
+    "overall_gain": 800.231703854053,
+    "active_positions": 52,
+    "win_amount": 12800.231703854053,
+    "loss_amount": -12000,
+    "win_rate": 0.5277777777777778,
+    "total_current_value": 5.096053,
+    "total_positions": 109,
+    "event_ct": 108,
+    "win_count": 57,
+    "rank": 70457,
+    "trader_tags": ""
   }
 ]
