@@ -334,5 +334,21 @@
     "win_count": 13,
     "rank": 7521,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e55408f217f58facdf1d663c74cfa7f55e9e3e2",
+    "trader_name": "bryanmoser",
+    "tag": "Overall",
+    "overall_gain": 14100.953535400458,
+    "active_positions": 5,
+    "win_amount": 25193.006952217038,
+    "loss_amount": -11092.053416816576,
+    "win_rate": 0.625,
+    "total_current_value": 14500.109211881001,
+    "total_positions": 189,
+    "event_ct": 136,
+    "win_count": 85,
+    "rank": 7522,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
