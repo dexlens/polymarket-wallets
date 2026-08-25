@@ -1358,5 +1358,21 @@
     "win_count": 11,
     "rank": 71486,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3161e850167ad9105099ecb91fb3abe72625daf5",
+    "trader_name": "NeverDie",
+    "tag": "Overall",
+    "overall_gain": 777.7102648586136,
+    "active_positions": 86,
+    "win_amount": 3974.440442298552,
+    "loss_amount": -3196.7301774399384,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.10545300000000002,
+    "total_positions": 247,
+    "event_ct": 56,
+    "win_count": 24,
+    "rank": 71487,
+    "trader_tags": ""
   }
 ]
