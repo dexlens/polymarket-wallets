@@ -430,5 +430,21 @@
     "win_count": 42,
     "rank": 9627,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0a52ef222302b4223ac0d1d9927cd21ece0cc71d",
+    "trader_name": "Openseek",
+    "tag": "Overall",
+    "overall_gain": 10881.895245910171,
+    "active_positions": 17,
+    "win_amount": 10939.00946103721,
+    "loss_amount": -57.11421512704,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 53.023492,
+    "total_positions": 21,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 9628,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
