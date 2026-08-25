@@ -974,5 +974,21 @@
     "win_count": 16,
     "rank": 8361,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb6367bddf8f02f59b6350340974fd8299bc732bb",
+    "trader_name": "Wstha",
+    "tag": "Overall",
+    "overall_gain": 12546.271990964871,
+    "active_positions": 1,
+    "win_amount": 34042.66298705738,
+    "loss_amount": -21496.39099609251,
+    "win_rate": 0.5797101449275363,
+    "total_current_value": 0.024554,
+    "total_positions": 206,
+    "event_ct": 69,
+    "win_count": 40,
+    "rank": 8362,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
