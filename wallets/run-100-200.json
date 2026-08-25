@@ -558,5 +558,21 @@
     "win_count": 5,
     "rank": 135,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x37d10ffb61998561c5f9fb941c42c952d8fb4e28",
+    "trader_name": "flydartball",
+    "tag": "Overall",
+    "overall_gain": 840874.4334583466,
+    "active_positions": 11,
+    "win_amount": 892313.0006023615,
+    "loss_amount": -51438.56714401456,
+    "win_rate": 0.64,
+    "total_current_value": 31575.82362,
+    "total_positions": 38,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 136,
+    "trader_tags": "Overall PnL > $100k; Politics PnL > $100k"
   }
 ]
