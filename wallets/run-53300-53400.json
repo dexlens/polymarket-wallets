@@ -1086,5 +1086,21 @@
     "win_count": 11,
     "rank": 53369,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x47ea66347135c5bdc2240a964c93a2b1d5505799",
+    "trader_name": "redfeck",
+    "tag": "Overall",
+    "overall_gain": 1331.0105337757789,
+    "active_positions": 7,
+    "win_amount": 1643.6440630136656,
+    "loss_amount": -312.6335292378869,
+    "win_rate": 0.8201892744479495,
+    "total_current_value": 733.7451484400001,
+    "total_positions": 604,
+    "event_ct": 317,
+    "win_count": 260,
+    "rank": 53370,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
