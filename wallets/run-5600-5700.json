@@ -1230,5 +1230,21 @@
     "win_count": 11,
     "rank": 5677,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd5388a98d4205c9069809d73c8360a59803fb9fd",
+    "trader_name": "scappartners",
+    "tag": "Overall",
+    "overall_gain": 19015.725727843488,
+    "active_positions": 0,
+    "win_amount": 19015.725727843488,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 5678,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
