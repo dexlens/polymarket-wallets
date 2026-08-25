@@ -462,5 +462,21 @@
     "win_count": 28,
     "rank": 9029,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2a74e867fb31ee1092fc3d08a1bb8810858e3b98",
+    "trader_name": "musselsharem",
+    "tag": "Overall",
+    "overall_gain": 11610.528785999999,
+    "active_positions": 0,
+    "win_amount": 13093.129278999999,
+    "loss_amount": -1482.600493,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 9030,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
