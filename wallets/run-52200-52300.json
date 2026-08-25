@@ -1534,5 +1534,21 @@
     "win_count": 45,
     "rank": 52297,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x801b2162d76720422e592eae12bb6bbacc43beb9",
+    "trader_name": "toti",
+    "tag": "Overall",
+    "overall_gain": 1378.8460620310002,
+    "active_positions": 1,
+    "win_amount": 1392.7278209999997,
+    "loss_amount": -13.881758969,
+    "win_rate": 0.8769230769230769,
+    "total_current_value": 1.002,
+    "total_positions": 69,
+    "event_ct": 65,
+    "win_count": 57,
+    "rank": 52298,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
