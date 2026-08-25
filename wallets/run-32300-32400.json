@@ -430,5 +430,21 @@
     "win_count": 67,
     "rank": 32328,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6e0e34cf3f015b3ed1580c3ce38311749f8794fc",
+    "trader_name": "tjntjerh",
+    "tag": "Overall",
+    "overall_gain": 2568.834,
+    "active_positions": 2,
+    "win_amount": 2569.7039999999997,
+    "loss_amount": -0.8699999999999974,
+    "win_rate": 0.8,
+    "total_current_value": 26.970000000000002,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 32329,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
