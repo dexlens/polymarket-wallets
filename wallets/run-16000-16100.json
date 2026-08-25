@@ -638,5 +638,21 @@
     "win_count": 6,
     "rank": 16040,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x893b43e0a2031be941c75a852fbdc6b72527f5ec",
+    "trader_name": "4bet",
+    "tag": "Overall",
+    "overall_gain": 5981.269828393963,
+    "active_positions": 27,
+    "win_amount": 29165.226059087727,
+    "loss_amount": -23183.95623069376,
+    "win_rate": 0.8205128205128205,
+    "total_current_value": 126963.04848820249,
+    "total_positions": 102,
+    "event_ct": 78,
+    "win_count": 64,
+    "rank": 16041,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
