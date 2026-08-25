@@ -1374,5 +1374,21 @@
     "win_count": 4,
     "rank": 78287,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3607b27096838c767d5976dcde77b2191d6683cc",
+    "trader_name": "yolohuk",
+    "tag": "Overall",
+    "overall_gain": 659.5733579076409,
+    "active_positions": 1,
+    "win_amount": 759.5718193126039,
+    "loss_amount": -99.998461404963,
+    "win_rate": 0.8,
+    "total_current_value": 1127.3102155469999,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 78288,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
