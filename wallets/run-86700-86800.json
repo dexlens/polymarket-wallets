@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 86783,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21e2e9510c42ea81d6bd2aa11de3b5219cec20f1",
+    "trader_name": "artwork-exhaust",
+    "tag": "Overall",
+    "overall_gain": 528.3895000000002,
+    "active_positions": 1,
+    "win_amount": 549.2285000000002,
+    "loss_amount": -20.839,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 0.9645,
+    "total_positions": 22,
+    "event_ct": 19,
+    "win_count": 13,
+    "rank": 86784,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
