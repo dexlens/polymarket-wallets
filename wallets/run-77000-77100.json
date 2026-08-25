@@ -494,5 +494,21 @@
     "win_count": 2,
     "rank": 77032,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x478dcef6c89d2c0fefc1f3fa47dd65296893fbb0",
+    "trader_name": "DHFSJD",
+    "tag": "Overall",
+    "overall_gain": 681.609825933341,
+    "active_positions": 4,
+    "win_amount": 997.804324661445,
+    "loss_amount": -316.194498728104,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 98.90587699999999,
+    "total_positions": 20,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 77033,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
