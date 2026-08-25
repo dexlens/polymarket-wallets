@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 68333,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2cceeb6f2baeb12d982d0565b1017b0f888ed7eb",
+    "trader_name": "OTTCS",
+    "tag": "Overall",
+    "overall_gain": 852.558581,
+    "active_positions": 0,
+    "win_amount": 852.558581,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 68334,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
