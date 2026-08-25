@@ -494,5 +494,21 @@
     "win_count": 42,
     "rank": 16831,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x485c4a6bc1d7e3672d3ab54b0b5597655d6382b9",
+    "trader_name": "ra2224",
+    "tag": "Overall",
+    "overall_gain": 5628.3914730000015,
+    "active_positions": 8,
+    "win_amount": 15234.421472999999,
+    "loss_amount": -9606.03,
+    "win_rate": 0.68,
+    "total_current_value": 9.210049999999999,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 17,
+    "rank": 16832,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
