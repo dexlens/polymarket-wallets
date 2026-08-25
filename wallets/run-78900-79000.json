@@ -206,5 +206,21 @@
     "win_count": 5,
     "rank": 78914,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37102b6f73f5c5ba4122ca0f0b5d7271d2485fcd",
+    "trader_name": "balthazarr",
+    "tag": "Overall",
+    "overall_gain": 649.0792792190189,
+    "active_positions": 0,
+    "win_amount": 803.7146919500728,
+    "loss_amount": -154.635412731054,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.000073,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 78915,
+    "trader_tags": "> 1 year old"
   }
 ]
