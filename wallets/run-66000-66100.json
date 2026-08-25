@@ -462,5 +462,21 @@
     "win_count": 200,
     "rank": 66030,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x45341cd6e1169d3c453464185ed9ebe5c0adec22",
+    "trader_name": "Eugene22",
+    "tag": "Overall",
+    "overall_gain": 915.063897152472,
+    "active_positions": 2,
+    "win_amount": 1496.4298651551094,
+    "loss_amount": -581.365968002637,
+    "win_rate": 0.7880794701986755,
+    "total_current_value": 346.94443391000004,
+    "total_positions": 249,
+    "event_ct": 151,
+    "win_count": 119,
+    "rank": 66031,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
