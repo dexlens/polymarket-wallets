@@ -1150,5 +1150,21 @@
     "win_count": 32,
     "rank": 85873,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25dae8551edb307328385b939ba658f785e75388",
+    "trader_name": "LFGOIL",
+    "tag": "Overall",
+    "overall_gain": 540.7933633750002,
+    "active_positions": 2,
+    "win_amount": 540.7933633750002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 5080.393843825,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 85874,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
