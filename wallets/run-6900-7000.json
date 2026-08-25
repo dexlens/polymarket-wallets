@@ -974,5 +974,21 @@
     "win_count": 15,
     "rank": 6961,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf33ed2dec044419dfbf30109a0264af875b687bd",
+    "trader_name": "iliy",
+    "tag": "Overall",
+    "overall_gain": 15383.087506000007,
+    "active_positions": 1,
+    "win_amount": 15641.280332000006,
+    "loss_amount": -258.19282599999997,
+    "win_rate": 0.9968253968253968,
+    "total_current_value": 0,
+    "total_positions": 630,
+    "event_ct": 630,
+    "win_count": 628,
+    "rank": 6962,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
