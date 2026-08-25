@@ -542,5 +542,21 @@
     "win_count": 6,
     "rank": 3034,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x40e3d20ac91108af67d4a9ddb144cbd63f740787",
+    "trader_name": "squirtle",
+    "tag": "Overall",
+    "overall_gain": 37770.92170069299,
+    "active_positions": 0,
+    "win_amount": 1336297.33233304,
+    "loss_amount": -1298526.410632347,
+    "win_rate": 0.492862509391435,
+    "total_current_value": 0,
+    "total_positions": 2854,
+    "event_ct": 1331,
+    "win_count": 656,
+    "rank": 3035,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
