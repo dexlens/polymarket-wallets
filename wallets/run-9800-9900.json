@@ -1166,5 +1166,21 @@
     "win_count": 11,
     "rank": 9873,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4610f77e86d6b3a52656421da05e137dd6ccb7a1",
+    "trader_name": "uihw",
+    "tag": "Overall",
+    "overall_gain": 10620.774707999999,
+    "active_positions": 0,
+    "win_amount": 10737.124708,
+    "loss_amount": -116.35000000000001,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 9874,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
