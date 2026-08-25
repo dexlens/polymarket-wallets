@@ -766,5 +766,21 @@
     "win_count": 8,
     "rank": 8848,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ad0ad9753a789701b658cc602b401013e99a24e",
+    "trader_name": "tyjtyrt",
+    "tag": "Overall",
+    "overall_gain": 11844.401511723285,
+    "active_positions": 5,
+    "win_amount": 12022.214763760092,
+    "loss_amount": -177.81325203680504,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 102.50695592400001,
+    "total_positions": 16,
+    "event_ct": 14,
+    "win_count": 8,
+    "rank": 8849,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
