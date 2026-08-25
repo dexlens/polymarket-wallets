@@ -1374,5 +1374,21 @@
     "win_count": 13,
     "rank": 40287,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5e2ea146e0d6f499c603530ea6ef681c5258153e",
+    "trader_name": "Smogenclosure",
+    "tag": "Overall",
+    "overall_gain": 1978.8400000000001,
+    "active_positions": 1,
+    "win_amount": 1978.8400000000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 40288,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
