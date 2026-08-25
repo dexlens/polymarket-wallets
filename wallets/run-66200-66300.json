@@ -974,5 +974,21 @@
     "win_count": 4,
     "rank": 66262,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55f97829e63bf72b8edc73a4e52a201165058946",
+    "trader_name": "ETH-15-2",
+    "tag": "Overall",
+    "overall_gain": 908.66144793743,
+    "active_positions": 244,
+    "win_amount": 3782.937616640479,
+    "loss_amount": -2874.2761687030516,
+    "win_rate": 0.7614613180515759,
+    "total_current_value": 13.465711999999995,
+    "total_positions": 1400,
+    "event_ct": 1396,
+    "win_count": 1063,
+    "rank": 66263,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
