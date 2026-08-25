@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 35457,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ce2a6ebaaa2f0c03610ccca77b7130f1a1277d4",
+    "trader_name": "amberdc",
+    "tag": "Overall",
+    "overall_gain": 2304.79,
+    "active_positions": 4,
+    "win_amount": 3490.76,
+    "loss_amount": -1185.97,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 35458,
+    "trader_tags": ""
   }
 ]
