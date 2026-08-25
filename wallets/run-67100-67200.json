@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 67156,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b7db23cd2c118df5bd7d2c3490681f5e26b6cf3",
+    "trader_name": "RandolphBrewster",
+    "tag": "Overall",
+    "overall_gain": 884.804857419445,
+    "active_positions": 1,
+    "win_amount": 1531.342557419445,
+    "loss_amount": -646.5377000000001,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 26.9334715275,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 67157,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
