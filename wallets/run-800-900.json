@@ -798,5 +798,21 @@
     "win_count": 9860,
     "rank": 850,
     "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x2d99e29c4f066ba32098c65e4c7454b277d94ca3",
+    "trader_name": "scout",
+    "tag": "Overall",
+    "overall_gain": 143897.0640059147,
+    "active_positions": 2,
+    "win_amount": 206257.85102350314,
+    "loss_amount": -62360.78701758847,
+    "win_rate": 0.9141414141414141,
+    "total_current_value": 197350.691030329,
+    "total_positions": 679,
+    "event_ct": 396,
+    "win_count": 362,
+    "rank": 851,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
