@@ -334,5 +334,21 @@
     "win_count": 11,
     "rank": 7221,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9437ecb4bc970627df0d44fe2021185b5d473eeb",
+    "trader_name": "corneli",
+    "tag": "Overall",
+    "overall_gain": 14789.262103,
+    "active_positions": 1,
+    "win_amount": 15707.72957,
+    "loss_amount": -918.467467,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0,
+    "total_positions": 44,
+    "event_ct": 33,
+    "win_count": 27,
+    "rank": 7222,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
