@@ -1294,5 +1294,21 @@
     "win_count": 41,
     "rank": 28382,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xee1a05e16a0b9bc362f573477e648396f33181b1",
+    "trader_name": "miraman",
+    "tag": "Overall",
+    "overall_gain": 3017.364060202965,
+    "active_positions": 13,
+    "win_amount": 16323.419152548428,
+    "loss_amount": -13306.055092345468,
+    "win_rate": 0.9417013682331945,
+    "total_current_value": 2.2796949999999994,
+    "total_positions": 1715,
+    "event_ct": 1681,
+    "win_count": 1583,
+    "rank": 28383,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
