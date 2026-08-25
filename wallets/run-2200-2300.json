@@ -190,5 +190,21 @@
     "win_count": 247,
     "rank": 2212,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x775936a0e20b2a00d112e3512c3c2b3deeec6020",
+    "trader_name": "ttaten",
+    "tag": "Overall",
+    "overall_gain": 54162.98870611123,
+    "active_positions": 5,
+    "win_amount": 62051.17240817123,
+    "loss_amount": -7888.1837020600005,
+    "win_rate": 0.25,
+    "total_current_value": 0.00009800000000000001,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 2213,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
