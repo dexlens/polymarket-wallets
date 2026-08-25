@@ -126,5 +126,21 @@
     "win_count": 5,
     "rank": 41709,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x94ac5130d94b10d61a8265c0007aecd1ff03df04",
+    "trader_name": "ZeroChances",
+    "tag": "Overall",
+    "overall_gain": 1892.4419193328274,
+    "active_positions": 0,
+    "win_amount": 4118.685954332828,
+    "loss_amount": -2226.244035,
+    "win_rate": 0.5625,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 41710,
+    "trader_tags": "> 1 year old"
   }
 ]
