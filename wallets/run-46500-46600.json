@@ -1118,5 +1118,21 @@
     "win_count": 19,
     "rank": 46571,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8e1eae3f17231f3722221f5f7b26d31c4ad4f2b1",
+    "trader_name": "mertiees",
+    "tag": "Overall",
+    "overall_gain": 1637.2250000000001,
+    "active_positions": 1,
+    "win_amount": 1639.7,
+    "loss_amount": -2.4749999999999996,
+    "win_rate": 0.75,
+    "total_current_value": 14.025,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 46572,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
