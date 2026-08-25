@@ -558,5 +558,21 @@
     "win_count": 15,
     "rank": 17235,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x34e2300abe04f000a843a317b9412caba20dff25",
+    "trader_name": "ffse",
+    "tag": "Overall",
+    "overall_gain": 5460,
+    "active_positions": 0,
+    "win_amount": 5460,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 17236,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
