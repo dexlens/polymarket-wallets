@@ -78,5 +78,21 @@
     "win_count": 43,
     "rank": 3405,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbb483d28222be7dde4d254ff495db2e92cd7ba43",
+    "trader_name": "vernaipsa",
+    "tag": "Overall",
+    "overall_gain": 33488.2,
+    "active_positions": 0,
+    "win_amount": 33488.2,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 3406,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
