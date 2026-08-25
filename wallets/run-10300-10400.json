@@ -782,5 +782,21 @@
     "win_count": 68,
     "rank": 10349,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf292f01f9d88e8b3bbf083af437032105757ee2d",
+    "trader_name": "ims",
+    "tag": "Overall",
+    "overall_gain": 10158.359386629403,
+    "active_positions": 3,
+    "win_amount": 18432.548303511572,
+    "loss_amount": -8274.188916882165,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.123249582,
+    "total_positions": 26,
+    "event_ct": 18,
+    "win_count": 6,
+    "rank": 10350,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
