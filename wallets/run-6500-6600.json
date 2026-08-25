@@ -1470,5 +1470,21 @@
     "win_count": 35,
     "rank": 6592,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd56604c87292f4c51d0018c56f3f72c3d36048f",
+    "trader_name": "I295sj",
+    "tag": "Overall",
+    "overall_gain": 16259.21700783339,
+    "active_positions": 3,
+    "win_amount": 17424.18980683628,
+    "loss_amount": -1164.9727990028935,
+    "win_rate": 0.580952380952381,
+    "total_current_value": 43044.98340507349,
+    "total_positions": 117,
+    "event_ct": 105,
+    "win_count": 61,
+    "rank": 6593,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
