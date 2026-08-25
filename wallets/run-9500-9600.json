@@ -622,5 +622,21 @@
     "win_count": 5,
     "rank": 9539,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x402a16ad0b9ca80c9cb2b0b3487bbe11afc2d1d1",
+    "trader_name": "intelmarketmaker",
+    "tag": "Overall",
+    "overall_gain": 10976.754216381043,
+    "active_positions": 0,
+    "win_amount": 30342.18485004651,
+    "loss_amount": -19365.430633665474,
+    "win_rate": 0.55,
+    "total_current_value": 0.45003917000000015,
+    "total_positions": 291,
+    "event_ct": 220,
+    "win_count": 121,
+    "rank": 9540,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
