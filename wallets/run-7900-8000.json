@@ -958,5 +958,21 @@
     "win_count": 20,
     "rank": 7960,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd284e3a0b70aec3f0662b9e9791bcb69652a9adb",
+    "trader_name": "tlvger",
+    "tag": "Overall",
+    "overall_gain": 13195.568559,
+    "active_positions": 0,
+    "win_amount": 13298.765559,
+    "loss_amount": -103.197,
+    "win_rate": 0.9,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 7961,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
