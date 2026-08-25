@@ -206,5 +206,21 @@
     "win_count": 41,
     "rank": 75314,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x317941d5935ba73a48cac63e7fbd820370eab275",
+    "trader_name": "tianshish",
+    "tag": "Overall",
+    "overall_gain": 709.8355108896608,
+    "active_positions": 3,
+    "win_amount": 733.2135237023568,
+    "loss_amount": -23.378012812696,
+    "win_rate": 0.9428571428571428,
+    "total_current_value": 164.14079200049997,
+    "total_positions": 123,
+    "event_ct": 105,
+    "win_count": 99,
+    "rank": 75315,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
