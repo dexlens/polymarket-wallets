@@ -526,5 +526,21 @@
     "win_count": 4,
     "rank": 11933,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x54d29c1db8bf8007337251d1723fffc7fdd60dbf",
+    "trader_name": "dinoua",
+    "tag": "Overall",
+    "overall_gain": 8655.829924,
+    "active_positions": 3,
+    "win_amount": 9858.688512,
+    "loss_amount": -1202.858588,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 23.256819999999998,
+    "total_positions": 14,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 11934,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
