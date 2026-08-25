@@ -1326,5 +1326,21 @@
     "win_count": 69,
     "rank": 1883,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9a7f417c09c2d14f7b425b4bd38e9d6311084b5d",
+    "trader_name": "Radahn",
+    "tag": "Overall",
+    "overall_gain": 64527.58563906377,
+    "active_positions": 1,
+    "win_amount": 907131.5042776492,
+    "loss_amount": -842603.9186385857,
+    "win_rate": 0.556910569105691,
+    "total_current_value": 40421.805847663,
+    "total_positions": 1096,
+    "event_ct": 984,
+    "win_count": 548,
+    "rank": 1884,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
