@@ -974,5 +974,21 @@
     "win_count": 81,
     "rank": 39262,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa680d4e4bd0378a2cf1c3619097eecb9bc9c847a",
+    "trader_name": "gdsa",
+    "tag": "Overall",
+    "overall_gain": 2033.9227674318668,
+    "active_positions": 4,
+    "win_amount": 5070.782755550386,
+    "loss_amount": -3036.85998811852,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 0.005387,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 30,
+    "rank": 39263,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
