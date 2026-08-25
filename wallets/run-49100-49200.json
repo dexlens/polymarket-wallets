@@ -1214,5 +1214,21 @@
     "win_count": 15,
     "rank": 49177,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x641f81e43a5aea3c331c6daff9c287971ff1ab52",
+    "trader_name": "MarketAspect",
+    "tag": "Overall",
+    "overall_gain": 1519.3730669150127,
+    "active_positions": 0,
+    "win_amount": 2649.622362915013,
+    "loss_amount": -1130.249296,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 0.060303999999999996,
+    "total_positions": 53,
+    "event_ct": 46,
+    "win_count": 40,
+    "rank": 49178,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
