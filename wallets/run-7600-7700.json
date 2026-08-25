@@ -1070,5 +1070,21 @@
     "win_count": 12,
     "rank": 7667,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6855f8751455e99415c47737bf3b9af677e75de1",
+    "trader_name": "QuincyClemens",
+    "tag": "Overall",
+    "overall_gain": 13802.93792157009,
+    "active_positions": 53,
+    "win_amount": 36350.4379215701,
+    "loss_amount": -22547.5,
+    "win_rate": 0.7738095238095238,
+    "total_current_value": 39.2520945,
+    "total_positions": 89,
+    "event_ct": 84,
+    "win_count": 65,
+    "rank": 7668,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
