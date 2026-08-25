@@ -1262,5 +1262,21 @@
     "win_count": 15,
     "rank": 34080,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb4ef1257f7ac40c26f4dfaaad69ed75f6458682f",
+    "trader_name": "pinbar",
+    "tag": "Overall",
+    "overall_gain": 2416.872653956205,
+    "active_positions": 5650,
+    "win_amount": 157400.5504694328,
+    "loss_amount": -154983.67781547658,
+    "win_rate": 0.5385767790262173,
+    "total_current_value": 379.36438256749994,
+    "total_positions": 15597,
+    "event_ct": 14685,
+    "win_count": 7909,
+    "rank": 34081,
+    "trader_tags": "1k+ Positions"
   }
 ]
