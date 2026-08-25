@@ -430,5 +430,21 @@
     "win_count": 27,
     "rank": 7027,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2e0a5e0b3de39540904900fbd7630243a4383971",
+    "trader_name": "WinwinP",
+    "tag": "Overall",
+    "overall_gain": 15212.685362,
+    "active_positions": 0,
+    "win_amount": 15212.685362,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7028,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
