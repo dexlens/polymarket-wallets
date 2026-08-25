@@ -1502,5 +1502,21 @@
     "win_count": 6,
     "rank": 6394,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5d2f49295387e01a49f0a3e59449ceed791c4adb",
+    "trader_name": "MikeMoore",
+    "tag": "Overall",
+    "overall_gain": 16760.31520576015,
+    "active_positions": 12,
+    "win_amount": 29448.71814867531,
+    "loss_amount": -12688.40294291516,
+    "win_rate": 0.584070796460177,
+    "total_current_value": 6549.888294229,
+    "total_positions": 134,
+    "event_ct": 113,
+    "win_count": 66,
+    "rank": 6395,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
