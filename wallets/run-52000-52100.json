@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 52099,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4acbd2e9f4f6010d05222e0b801b96a74b3a87ba",
+    "trader_name": "Marco1234",
+    "tag": "Overall",
+    "overall_gain": 1387.8475269752835,
+    "active_positions": 112,
+    "win_amount": 10945.576591443656,
+    "loss_amount": -9557.729064468369,
+    "win_rate": 0.5188679245283019,
+    "total_current_value": 0.262545186,
+    "total_positions": 367,
+    "event_ct": 318,
+    "win_count": 165,
+    "rank": 52100,
+    "trader_tags": ""
   }
 ]
