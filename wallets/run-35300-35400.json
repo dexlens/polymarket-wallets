@@ -606,5 +606,21 @@
     "win_count": 4,
     "rank": 35339,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56c129864eff53365f8a0ba4a5855b2fd18df853",
+    "trader_name": "AnapestArb",
+    "tag": "Overall",
+    "overall_gain": 2314,
+    "active_positions": 2,
+    "win_amount": 5072.5,
+    "loss_amount": -2758.5,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 35340,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
