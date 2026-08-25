@@ -702,5 +702,21 @@
     "win_count": 2,
     "rank": 1544,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10040fe248682c406c4777958d243d62846e9b8f",
+    "trader_name": "janosik",
+    "tag": "Overall",
+    "overall_gain": 78338.15621865755,
+    "active_positions": 2,
+    "win_amount": 171374.41859962436,
+    "loss_amount": -93036.26238096684,
+    "win_rate": 0.6233598623359863,
+    "total_current_value": 855.343954725,
+    "total_positions": 9018,
+    "event_ct": 4649,
+    "win_count": 2898,
+    "rank": 1545,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
