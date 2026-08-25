@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 78583,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xd1a985a699c5f1b57906128c00a5d22ddb1f1e15",
+    "trader_name": "Novemto",
+    "tag": "Overall",
+    "overall_gain": 654.300027088808,
+    "active_positions": 8,
+    "win_amount": 654.744902405394,
+    "loss_amount": -0.444875316585998,
+    "win_rate": 0.9,
+    "total_current_value": 48.9714915295,
+    "total_positions": 17,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 78584,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
