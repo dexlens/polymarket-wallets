@@ -1550,5 +1550,21 @@
     "win_count": 31,
     "rank": 46898,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x19db9b949dc686aa6e33f8a019c7b2bb0d4aabbf",
+    "trader_name": "vatone",
+    "tag": "Overall",
+    "overall_gain": 1621.7730821158907,
+    "active_positions": 0,
+    "win_amount": 6085.385256359997,
+    "loss_amount": -4463.61217424411,
+    "win_rate": 0.942239467849224,
+    "total_current_value": 5.227957999999997,
+    "total_positions": 9065,
+    "event_ct": 9020,
+    "win_count": 8499,
+    "rank": 46899,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
