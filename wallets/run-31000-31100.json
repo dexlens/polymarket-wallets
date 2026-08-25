@@ -958,5 +958,21 @@
     "win_count": 3,
     "rank": 31061,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11167647df82aca35f4c96dbe4226547d240cb3f",
+    "trader_name": "INEEDMONEY",
+    "tag": "Overall",
+    "overall_gain": 2694.902562599861,
+    "active_positions": 353,
+    "win_amount": 23023.50831738506,
+    "loss_amount": -20328.605754785218,
+    "win_rate": 0.47820965842167257,
+    "total_current_value": 0.03668,
+    "total_positions": 991,
+    "event_ct": 849,
+    "win_count": 406,
+    "rank": 31062,
+    "trader_tags": ""
   }
 ]
