@@ -1566,5 +1566,21 @@
     "win_count": 9,
     "rank": 27499,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x625ffdb19aacc9ba91ba257022b05b23cfc2e2c0",
+    "trader_name": "1982e",
+    "tag": "Overall",
+    "overall_gain": 3133.543436849109,
+    "active_positions": 14,
+    "win_amount": 3423.785265765981,
+    "loss_amount": -290.241828916872,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 725.6604222649999,
+    "total_positions": 60,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 27500,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
