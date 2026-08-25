@@ -254,5 +254,21 @@
     "win_count": 17,
     "rank": 2116,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6d3fa0200fec1dbcf4dd7e4408aa1e53779ca942",
+    "trader_name": "amberheard",
+    "tag": "Overall",
+    "overall_gain": 56938.57455522682,
+    "active_positions": 1,
+    "win_amount": 123120.7782548481,
+    "loss_amount": -66182.20369962124,
+    "win_rate": 0.7027027027027027,
+    "total_current_value": 1551.739079431,
+    "total_positions": 281,
+    "event_ct": 185,
+    "win_count": 130,
+    "rank": 2117,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
