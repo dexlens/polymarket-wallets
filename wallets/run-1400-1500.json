@@ -718,5 +718,21 @@
     "win_count": 28,
     "rank": 1445,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x853c37a959a5791b849e3f3225c7f5963746bd03",
+    "trader_name": "WarriorPooh",
+    "tag": "Overall",
+    "overall_gain": 83849.30513863014,
+    "active_positions": 10,
+    "win_amount": 112597.24060429621,
+    "loss_amount": -28747.935465666123,
+    "win_rate": 0.5533333333333333,
+    "total_current_value": 8584.976574245,
+    "total_positions": 248,
+    "event_ct": 150,
+    "win_count": 83,
+    "rank": 1446,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
