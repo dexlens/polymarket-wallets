@@ -334,5 +334,21 @@
     "win_count": 3,
     "rank": 69222,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x1435cf0875aa09bb4efa7c556a29240c35bd5f79",
+    "trader_name": "cryptogreen",
+    "tag": "Overall",
+    "overall_gain": 828.555297005034,
+    "active_positions": 2,
+    "win_amount": 1875.3513526327338,
+    "loss_amount": -1046.7960556276998,
+    "win_rate": 0.8089053803339518,
+    "total_current_value": 25.40696699999999,
+    "total_positions": 560,
+    "event_ct": 539,
+    "win_count": 436,
+    "rank": 69223,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
