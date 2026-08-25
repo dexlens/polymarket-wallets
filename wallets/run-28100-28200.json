@@ -1390,5 +1390,21 @@
     "win_count": 3,
     "rank": 28188,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x476af6eb16e01521e6183e4524a1bdeed140db42",
+    "trader_name": "kt6ur5h",
+    "tag": "Overall",
+    "overall_gain": 3041.4700000000003,
+    "active_positions": 3,
+    "win_amount": 3721.4300000000003,
+    "loss_amount": -679.96,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 28189,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
