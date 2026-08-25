@@ -286,5 +286,21 @@
     "win_count": 5,
     "rank": 3318,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9fa291d4a69b20c5f91e105e36824246694d8058",
+    "trader_name": "TrumpUp",
+    "tag": "Overall",
+    "overall_gain": 34514.79415389223,
+    "active_positions": 0,
+    "win_amount": 34514.79415389223,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3.866551451379437e-9,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 3319,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
