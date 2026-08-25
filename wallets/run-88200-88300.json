@@ -366,5 +366,21 @@
     "win_count": 3,
     "rank": 88224,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8809811322b9c4e7e765969196a76c8fae46228f",
+    "trader_name": "Bezz",
+    "tag": "Overall",
+    "overall_gain": 510.4242767787671,
+    "active_positions": 0,
+    "win_amount": 3021.480006452008,
+    "loss_amount": -2511.055729673241,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0.02113,
+    "total_positions": 20,
+    "event_ct": 17,
+    "win_count": 9,
+    "rank": 88225,
+    "trader_tags": "> 1 year old"
   }
 ]
