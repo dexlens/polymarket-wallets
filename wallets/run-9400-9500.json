@@ -1150,5 +1150,21 @@
     "win_count": 23,
     "rank": 9472,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5a8223b94f99134df0d853cdeae15ba4e8d1206a",
+    "trader_name": "grazh",
+    "tag": "Overall",
+    "overall_gain": 11063.173152846191,
+    "active_positions": 0,
+    "win_amount": 11106.370766846192,
+    "loss_amount": -43.197614,
+    "win_rate": 0.7,
+    "total_current_value": 0.000061,
+    "total_positions": 27,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 9473,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
