@@ -158,5 +158,21 @@
     "win_count": 2,
     "rank": 40811,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x285b2f4aa132c64dd39883138045438bbb7bf3d3",
+    "trader_name": "orbitalcoins2",
+    "tag": "Overall",
+    "overall_gain": 1945.7191198681526,
+    "active_positions": 2358,
+    "win_amount": 2990.2514306118333,
+    "loss_amount": -1044.532310743681,
+    "win_rate": 0.4634146341463415,
+    "total_current_value": 784.4576297869999,
+    "total_positions": 2920,
+    "event_ct": 697,
+    "win_count": 323,
+    "rank": 40812,
+    "trader_tags": "1k+ Positions"
   }
 ]
