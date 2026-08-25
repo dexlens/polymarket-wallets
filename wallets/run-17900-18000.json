@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 17918,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x907fecfd64f8caa722fb7476a7e62451bb195f2d",
+    "trader_name": "Hawkenthorne",
+    "tag": "Overall",
+    "overall_gain": 5206.86290236772,
+    "active_positions": 2,
+    "win_amount": 5206.998048225025,
+    "loss_amount": -0.1351458573049995,
+    "win_rate": 0.9,
+    "total_current_value": 7.8648247175,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 17919,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
