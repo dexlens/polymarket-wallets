@@ -734,5 +734,21 @@
     "win_count": 11,
     "rank": 15546,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9419d77566df79c2f8c6679c9933c2ac76aea40f",
+    "trader_name": "Mwhale",
+    "tag": "Overall",
+    "overall_gain": 6211.484064731672,
+    "active_positions": 10,
+    "win_amount": 15989.402995563996,
+    "loss_amount": -9777.918930832318,
+    "win_rate": 0.5941558441558441,
+    "total_current_value": 33124.923497446005,
+    "total_positions": 449,
+    "event_ct": 308,
+    "win_count": 183,
+    "rank": 15547,
+    "trader_tags": ""
   }
 ]
