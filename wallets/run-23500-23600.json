@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 23571,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a9fef26a9a2747c8a95d8e4a88902725f792266",
+    "trader_name": "Pairge",
+    "tag": "Overall",
+    "overall_gain": 3804,
+    "active_positions": 1,
+    "win_amount": 4385.5,
+    "loss_amount": -581.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 23572,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
