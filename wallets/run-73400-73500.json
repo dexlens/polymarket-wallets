@@ -846,5 +846,21 @@
     "win_count": 2,
     "rank": 73454,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x659a532ceac28a0a4af3994ee89d333ed2e69568",
+    "trader_name": "NedStark",
+    "tag": "Overall",
+    "overall_gain": 736.038623827426,
+    "active_positions": 11,
+    "win_amount": 743.938603827426,
+    "loss_amount": -7.899980000000001,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 352.5634218465,
+    "total_positions": 35,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 73455,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
