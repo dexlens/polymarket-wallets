@@ -542,5 +542,21 @@
     "win_count": 11,
     "rank": 21334,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1c5b4b2c1a8324237e7e6bfe3cf5d4ea3c46a47b",
+    "trader_name": "kepler-07",
+    "tag": "Overall",
+    "overall_gain": 4274.511217410221,
+    "active_positions": 1,
+    "win_amount": 4410.712004586359,
+    "loss_amount": -136.20078717613794,
+    "win_rate": 0.65,
+    "total_current_value": 1.404755,
+    "total_positions": 35,
+    "event_ct": 20,
+    "win_count": 13,
+    "rank": 21335,
+    "trader_tags": "> 1 year old"
   }
 ]
