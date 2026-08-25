@@ -1454,5 +1454,21 @@
     "win_count": 40,
     "rank": 3291,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8e78878271452acb5a5be368d117baf181e7ea77",
+    "trader_name": "alexsky",
+    "tag": "Overall",
+    "overall_gain": 34826.36625275724,
+    "active_positions": 14,
+    "win_amount": 54662.325542301354,
+    "loss_amount": -19835.959289544116,
+    "win_rate": 0.7974683544303798,
+    "total_current_value": 2882.1769185430003,
+    "total_positions": 237,
+    "event_ct": 79,
+    "win_count": 63,
+    "rank": 3292,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
