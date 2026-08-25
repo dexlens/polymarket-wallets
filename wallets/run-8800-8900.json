@@ -270,5 +270,21 @@
     "win_count": 57,
     "rank": 8817,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1e8088a562278fed0c7558cc974bc4cd4b40102d",
+    "trader_name": "Supak",
+    "tag": "Overall",
+    "overall_gain": 11882.645536224258,
+    "active_positions": 12,
+    "win_amount": 21529.25164434948,
+    "loss_amount": -9646.606108125221,
+    "win_rate": 0.46846846846846846,
+    "total_current_value": 55.009067000346086,
+    "total_positions": 189,
+    "event_ct": 111,
+    "win_count": 52,
+    "rank": 8818,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
