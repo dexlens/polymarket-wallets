@@ -782,5 +782,21 @@
     "win_count": 2,
     "rank": 6749,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x76389dee6641b7df709c5dfc4f2790caa0709e15",
+    "trader_name": "albinasequi",
+    "tag": "Overall",
+    "overall_gain": 15900,
+    "active_positions": 0,
+    "win_amount": 15900,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 6750,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
