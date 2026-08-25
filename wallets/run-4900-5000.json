@@ -1454,5 +1454,21 @@
     "win_count": 12,
     "rank": 4991,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2e57451929413f5c08ccf5fae7cddccf16525f66",
+    "trader_name": "Krylos",
+    "tag": "Overall",
+    "overall_gain": 21687.16036451989,
+    "active_positions": 2,
+    "win_amount": 22038.59228729703,
+    "loss_amount": -351.431922777144,
+    "win_rate": 0.8936170212765957,
+    "total_current_value": 0.000033,
+    "total_positions": 50,
+    "event_ct": 47,
+    "win_count": 42,
+    "rank": 4992,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
