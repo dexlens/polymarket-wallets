@@ -702,5 +702,21 @@
     "win_count": 2,
     "rank": 70245,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7146806cd92dc99110d9cf25c050d41a2938b330",
+    "trader_name": "abbadon26",
+    "tag": "Overall",
+    "overall_gain": 804.952964463187,
+    "active_positions": 5,
+    "win_amount": 1035.3912475549412,
+    "loss_amount": -230.43828309175404,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 559.697112764,
+    "total_positions": 43,
+    "event_ct": 31,
+    "win_count": 22,
+    "rank": 70246,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
