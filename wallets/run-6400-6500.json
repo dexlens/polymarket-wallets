@@ -62,5 +62,21 @@
     "win_count": 2,
     "rank": 6404,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8740d94c258cf71ca6ceb89e58421903ec19e390",
+    "trader_name": "dexx",
+    "tag": "Overall",
+    "overall_gain": 16733.582942278146,
+    "active_positions": 1,
+    "win_amount": 23385.028283,
+    "loss_amount": -6651.445340721853,
+    "win_rate": 0.5,
+    "total_current_value": 1580.525443,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 6405,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
