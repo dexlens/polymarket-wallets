@@ -1406,5 +1406,21 @@
     "win_count": 104,
     "rank": 2088,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x094e3e7c5486ca7f5efd45de09857b873c70f10b",
+    "trader_name": "Minecraft",
+    "tag": "Overall",
+    "overall_gain": 57586.382832076946,
+    "active_positions": 275,
+    "win_amount": 196755.6253524926,
+    "loss_amount": -139169.24252041566,
+    "win_rate": 0.6139240506329114,
+    "total_current_value": 34611.3529635085,
+    "total_positions": 2647,
+    "event_ct": 1264,
+    "win_count": 776,
+    "rank": 2089,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
