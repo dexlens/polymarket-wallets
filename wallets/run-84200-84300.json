@@ -334,5 +334,21 @@
     "win_count": 6,
     "rank": 84222,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6bab2d7b35ee353df7a70704d4bbcf7aa56ac205",
+    "trader_name": "adwjg",
+    "tag": "Overall",
+    "overall_gain": 563.316996600682,
+    "active_positions": 0,
+    "win_amount": 563.316996600682,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001959,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 84223,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
