@@ -590,5 +590,21 @@
     "win_count": 20,
     "rank": 74638,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11869b212706514f541fdb8e9fe037ede9ce0d03",
+    "trader_name": "Eartho",
+    "tag": "Overall",
+    "overall_gain": 719.478631331708,
+    "active_positions": 0,
+    "win_amount": 3055.6857009434098,
+    "loss_amount": -2336.2070696117003,
+    "win_rate": 0.5847953216374269,
+    "total_current_value": 0.0271175,
+    "total_positions": 199,
+    "event_ct": 171,
+    "win_count": 100,
+    "rank": 74639,
+    "trader_tags": "> 1 year old"
   }
 ]
