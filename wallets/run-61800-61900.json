@@ -1390,5 +1390,21 @@
     "win_count": 2,
     "rank": 61888,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfc7fd67aa8b4398c336661d7b90ae2b5e3cf8138",
+    "trader_name": "keepone",
+    "tag": "Overall",
+    "overall_gain": 1025,
+    "active_positions": 0,
+    "win_amount": 1025,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 61889,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
