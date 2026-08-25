@@ -638,5 +638,21 @@
     "win_count": 4,
     "rank": 49441,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x972051e08e90cc0c0838f59ba9c34d7f7b5a798a",
+    "trader_name": "lajka",
+    "tag": "Overall",
+    "overall_gain": 1506.8880817926508,
+    "active_positions": 5,
+    "win_amount": 2181.411832926607,
+    "loss_amount": -674.5237511339559,
+    "win_rate": 0.7415730337078652,
+    "total_current_value": 219.95834193,
+    "total_positions": 320,
+    "event_ct": 89,
+    "win_count": 66,
+    "rank": 49442,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
