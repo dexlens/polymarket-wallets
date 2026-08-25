@@ -654,5 +654,21 @@
     "win_count": 2,
     "rank": 42842,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81b13867a4cbd946e4233cb7c2d29d13349427a6",
+    "trader_name": "Neville17",
+    "tag": "Overall",
+    "overall_gain": 1827.9515768985518,
+    "active_positions": 1,
+    "win_amount": 1853.4278649999999,
+    "loss_amount": -25.476288101448,
+    "win_rate": 0.6,
+    "total_current_value": 0.06312200000000001,
+    "total_positions": 15,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 42843,
+    "trader_tags": "> 1 year old"
   }
 ]
