@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 67840,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0xf6874a6540d2a24cf59ec94f1d27ed3066c9cf20",
+    "trader_name": "solo-grinder",
+    "tag": "Overall",
+    "overall_gain": 865.150040868705,
+    "active_positions": 4,
+    "win_amount": 931.630029346564,
+    "loss_amount": -66.479988477859,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 810.16536,
+    "total_positions": 19,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 67841,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
