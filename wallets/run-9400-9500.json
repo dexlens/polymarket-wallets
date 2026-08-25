@@ -734,5 +734,21 @@
     "win_count": 8,
     "rank": 9446,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2012d39a398ff9c4c3c148a40ce2a79d441aa7bd",
+    "trader_name": "Bulbasaur",
+    "tag": "Overall",
+    "overall_gain": 11098.645885134141,
+    "active_positions": 4,
+    "win_amount": 24528.232466116347,
+    "loss_amount": -13429.586580982206,
+    "win_rate": 0.6,
+    "total_current_value": 0.246838432,
+    "total_positions": 34,
+    "event_ct": 20,
+    "win_count": 12,
+    "rank": 9447,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
