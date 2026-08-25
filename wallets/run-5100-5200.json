@@ -1486,5 +1486,21 @@
     "win_count": 262,
     "rank": 5193,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x02be93abdaf29aa214466812b70a572ee4348f1d",
+    "trader_name": "keaganba",
+    "tag": "Overall",
+    "overall_gain": 20843.994,
+    "active_positions": 1,
+    "win_amount": 22033.714,
+    "loss_amount": -1189.72,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 5194,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
