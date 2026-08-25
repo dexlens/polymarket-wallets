@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 6928,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa35562cc84554cc98c8240fb2376ea990b4db1fa",
+    "trader_name": "Baelvian",
+    "tag": "Overall",
+    "overall_gain": 15478.603833624999,
+    "active_positions": 4,
+    "win_amount": 18989.469263999996,
+    "loss_amount": -3510.8654303750004,
+    "win_rate": 0.8214285714285714,
+    "total_current_value": 0.002748625,
+    "total_positions": 58,
+    "event_ct": 56,
+    "win_count": 46,
+    "rank": 6929,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
