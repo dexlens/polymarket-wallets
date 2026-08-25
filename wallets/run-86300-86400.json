@@ -1310,5 +1310,21 @@
     "win_count": 17,
     "rank": 86383,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x06263d1da91f83a31a67c04ab8145b41800d17d9",
+    "trader_name": "oddskongen4",
+    "tag": "Overall",
+    "overall_gain": 533.9691898558169,
+    "active_positions": 1,
+    "win_amount": 1092.41073441233,
+    "loss_amount": -558.441544556513,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 86384,
+    "trader_tags": "> 1 year old"
   }
 ]
