@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 79120,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3b14ff01ce006a69cc253de779a6fcc004ebc21c",
+    "trader_name": "Haral",
+    "tag": "Overall",
+    "overall_gain": 645.145637907111,
+    "active_positions": 5,
+    "win_amount": 645.155151907111,
+    "loss_amount": -0.009513999999998468,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 52.990435000000005,
+    "total_positions": 27,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 79121,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
