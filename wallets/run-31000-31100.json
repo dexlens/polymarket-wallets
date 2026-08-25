@@ -1342,5 +1342,21 @@
     "win_count": 105,
     "rank": 31085,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0157229dae0f9f5b0eb2296a8b368829d227340f",
+    "trader_name": "poebot",
+    "tag": "Overall",
+    "overall_gain": 2692.4204663633436,
+    "active_positions": 0,
+    "win_amount": 29686.075323685844,
+    "loss_amount": -26993.65485732251,
+    "win_rate": 0.5640900195694716,
+    "total_current_value": 0.0029498975,
+    "total_positions": 2325,
+    "event_ct": 2044,
+    "win_count": 1153,
+    "rank": 31086,
+    "trader_tags": "1k+ Positions"
   }
 ]
