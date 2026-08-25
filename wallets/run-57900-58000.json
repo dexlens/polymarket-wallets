@@ -238,5 +238,21 @@
     "win_count": 29,
     "rank": 57916,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x292aaf3775c880d21f73d7d59b9dbf314148dd77",
+    "trader_name": "BNUEB",
+    "tag": "Overall",
+    "overall_gain": 1145.6978688825823,
+    "active_positions": 2,
+    "win_amount": 2692.402665,
+    "loss_amount": -1546.704796117418,
+    "win_rate": 0.9142857142857143,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 32,
+    "rank": 57917,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
