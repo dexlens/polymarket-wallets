@@ -286,5 +286,21 @@
     "win_count": 8,
     "rank": 35419,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0ea6ee087549423a166715979016cd90c9607330",
+    "trader_name": "EvelynEdwards",
+    "tag": "Overall",
+    "overall_gain": 2307.264817952519,
+    "active_positions": 4,
+    "win_amount": 6629.147260999998,
+    "loss_amount": -4321.8824430474815,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.008518,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 25,
+    "rank": 35420,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
