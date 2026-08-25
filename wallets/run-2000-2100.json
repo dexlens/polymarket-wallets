@@ -270,5 +270,21 @@
     "win_count": 19,
     "rank": 2017,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x05b21f43e056cdf3f26ae5f28dc0238495e2a469",
+    "trader_name": "jack66666",
+    "tag": "Overall",
+    "overall_gain": 59939.99129916645,
+    "active_positions": 1,
+    "win_amount": 68378.50189267013,
+    "loss_amount": -8438.51059350366,
+    "win_rate": 0.9081632653061225,
+    "total_current_value": 88955.617333461,
+    "total_positions": 152,
+    "event_ct": 98,
+    "win_count": 89,
+    "rank": 2018,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
