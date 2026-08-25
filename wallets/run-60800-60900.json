@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 60851,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf356037f86be2cf152b349f1e90485582575641c",
+    "trader_name": "ksadjklas",
+    "tag": "Overall",
+    "overall_gain": 1051.7867249999993,
+    "active_positions": 0,
+    "win_amount": 53280.65042199999,
+    "loss_amount": -52228.863697,
+    "win_rate": 0.8986313088109495,
+    "total_current_value": 0,
+    "total_positions": 2338,
+    "event_ct": 2338,
+    "win_count": 2101,
+    "rank": 60852,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
