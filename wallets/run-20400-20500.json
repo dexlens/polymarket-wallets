@@ -1422,5 +1422,21 @@
     "win_count": 10,
     "rank": 20489,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x673f8f855f21744719ddbc8c95b87e12525f6ab0",
+    "trader_name": "muzidf",
+    "tag": "Overall",
+    "overall_gain": 4499.865455673657,
+    "active_positions": 13,
+    "win_amount": 11105.141248894259,
+    "loss_amount": -6605.2757932206,
+    "win_rate": 0.9343065693430657,
+    "total_current_value": 22.178004,
+    "total_positions": 700,
+    "event_ct": 685,
+    "win_count": 640,
+    "rank": 20490,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
