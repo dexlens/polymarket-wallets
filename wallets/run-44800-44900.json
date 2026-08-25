@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 44877,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8e2febf1bd69c7985e7f9b1fb5dd7cbe4ed0137c",
+    "trader_name": "RageProtocol",
+    "tag": "Overall",
+    "overall_gain": 1719.85,
+    "active_positions": 0,
+    "win_amount": 4665.85,
+    "loss_amount": -2946,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 12,
+    "rank": 44878,
+    "trader_tags": ""
   }
 ]
