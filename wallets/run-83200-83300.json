@@ -206,5 +206,21 @@
     "win_count": 10,
     "rank": 83214,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xb69c4fd389d2d0a32f50e816a27422e76e2550fb",
+    "trader_name": "cxbyrt",
+    "tag": "Overall",
+    "overall_gain": 578.9995279351319,
+    "active_positions": 12,
+    "win_amount": 580.8986532595659,
+    "loss_amount": -1.8991253244339998,
+    "win_rate": 0.8846153846153846,
+    "total_current_value": 12.754510597999998,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 23,
+    "rank": 83215,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
