@@ -1134,5 +1134,21 @@
     "win_count": 3,
     "rank": 871,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x9efda3d6354152901fc4706c3b1a9ce50b45ad00",
+    "trader_name": "Istaroth",
+    "tag": "Overall",
+    "overall_gain": 141365.19149978334,
+    "active_positions": 8,
+    "win_amount": 144722.99722331247,
+    "loss_amount": -3357.8057235291667,
+    "win_rate": 0.8737864077669902,
+    "total_current_value": 761589.475673578,
+    "total_positions": 211,
+    "event_ct": 103,
+    "win_count": 90,
+    "rank": 872,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
