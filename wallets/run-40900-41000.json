@@ -958,5 +958,21 @@
     "win_count": 12,
     "rank": 40961,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0a26dfaba47d6bdb7a27a535af42241d0bd2e2a6",
+    "trader_name": "Diamondepoch",
+    "tag": "Overall",
+    "overall_gain": 1937.19,
+    "active_positions": 1,
+    "win_amount": 1937.19,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 40962,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
