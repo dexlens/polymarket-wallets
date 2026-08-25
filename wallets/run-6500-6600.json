@@ -1038,5 +1038,21 @@
     "win_count": 5,
     "rank": 6565,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x815faf650a093427c1386f3fc7465d03bdc7f1b3",
+    "trader_name": "rpo",
+    "tag": "Overall",
+    "overall_gain": 16335.34587747796,
+    "active_positions": 49,
+    "win_amount": 16752.791834059713,
+    "loss_amount": -417.44595658175393,
+    "win_rate": 0.9755154639175257,
+    "total_current_value": 7938.604178000001,
+    "total_positions": 1381,
+    "event_ct": 776,
+    "win_count": 757,
+    "rank": 6566,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
