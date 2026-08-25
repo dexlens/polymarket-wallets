@@ -734,5 +734,21 @@
     "win_count": 72,
     "rank": 33447,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5fa1c5fb34b821e98a6aed4378b5b9a29af2e70b",
+    "trader_name": "ballalak",
+    "tag": "Overall",
+    "overall_gain": 2469.9489118123643,
+    "active_positions": 15,
+    "win_amount": 23461.58973958125,
+    "loss_amount": -20991.640827768882,
+    "win_rate": 0.4687270051508462,
+    "total_current_value": 302.4104952055,
+    "total_positions": 6293,
+    "event_ct": 4077,
+    "win_count": 1911,
+    "rank": 33448,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
