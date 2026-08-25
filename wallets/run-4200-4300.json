@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 4289,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x160aa7433e68ef858411323b3cfc8248051bb058",
+    "trader_name": "SuperbowlorBust",
+    "tag": "Overall",
+    "overall_gain": 26049.784355275635,
+    "active_positions": 0,
+    "win_amount": 28091.936486275634,
+    "loss_amount": -2042.1521309999998,
+    "win_rate": 0.9935483870967742,
+    "total_current_value": 0.011298999999999998,
+    "total_positions": 1252,
+    "event_ct": 465,
+    "win_count": 462,
+    "rank": 4290,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
