@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 46359,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4932b0fa75ed34bbd4cf90183eb971d91d27f04",
+    "trader_name": "orin40",
+    "tag": "Overall",
+    "overall_gain": 1649.436883164553,
+    "active_positions": 1085,
+    "win_amount": 8490.222524210218,
+    "loss_amount": -6840.785641045666,
+    "win_rate": 0.35488575595527466,
+    "total_current_value": 2202.331356826,
+    "total_positions": 8228,
+    "event_ct": 2057,
+    "win_count": 730,
+    "rank": 46360,
+    "trader_tags": "1k+ Positions"
   }
 ]
