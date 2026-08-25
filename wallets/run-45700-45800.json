@@ -1038,5 +1038,21 @@
     "win_count": 2,
     "rank": 45766,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b01c2ecb169106f969e540ae8f971cb267ae9f7",
+    "trader_name": "BayesSignal",
+    "tag": "Overall",
+    "overall_gain": 1678.006488230702,
+    "active_positions": 17362,
+    "win_amount": 61994.098043708604,
+    "loss_amount": -60316.09155547784,
+    "win_rate": 0.055896357942602205,
+    "total_current_value": 563.154525,
+    "total_positions": 24539,
+    "event_ct": 23311,
+    "win_count": 1303,
+    "rank": 45767,
+    "trader_tags": "1k+ Positions"
   }
 ]
