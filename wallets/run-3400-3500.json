@@ -1262,5 +1262,21 @@
     "win_count": 29,
     "rank": 3479,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6291edb6079eb78d52814340fdf748a2d279cc47",
+    "trader_name": "Snoopyfan",
+    "tag": "Overall",
+    "overall_gain": 32715.902496053463,
+    "active_positions": 167,
+    "win_amount": 98162.06961872379,
+    "loss_amount": -65446.16712267037,
+    "win_rate": 0.5043630017452007,
+    "total_current_value": 19426.040886848503,
+    "total_positions": 1587,
+    "event_ct": 573,
+    "win_count": 289,
+    "rank": 3480,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
