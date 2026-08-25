@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 9746,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20204709bd7304e4097b7f69e196a867cf4e7e22",
+    "trader_name": "Juannna",
+    "tag": "Overall",
+    "overall_gain": 10752.077496691581,
+    "active_positions": 86,
+    "win_amount": 32705.46112658758,
+    "loss_amount": -21953.383629896016,
+    "win_rate": 0.4652777777777778,
+    "total_current_value": 0.3160299999999999,
+    "total_positions": 196,
+    "event_ct": 144,
+    "win_count": 67,
+    "rank": 9747,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
