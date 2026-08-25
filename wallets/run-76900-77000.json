@@ -574,5 +574,21 @@
     "win_count": 65,
     "rank": 76937,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x80649b25607cb8b693826152f4cd44dd494babf1",
+    "trader_name": "fuckEconomy",
+    "tag": "Overall",
+    "overall_gain": 683.107752,
+    "active_positions": 0,
+    "win_amount": 683.107752,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 76938,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
