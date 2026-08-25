@@ -862,5 +862,21 @@
     "win_count": 16,
     "rank": 7154,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x45e04af39a3c42d71041e9b1b54ede7c3fcf9f9b",
+    "trader_name": "camyllesae",
+    "tag": "Overall",
+    "overall_gain": 14966,
+    "active_positions": 0,
+    "win_amount": 14966,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 7155,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
