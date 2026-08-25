@@ -814,5 +814,21 @@
     "win_count": 44,
     "rank": 32852,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0892b60376edaeef3a08c2038e5fe802411748d8",
+    "trader_name": "iovb",
+    "tag": "Overall",
+    "overall_gain": 2517.825599936298,
+    "active_positions": 1,
+    "win_amount": 33508.79472930671,
+    "loss_amount": -30990.969129370405,
+    "win_rate": 0.8913789622451039,
+    "total_current_value": 2.3322220195000005,
+    "total_positions": 5518,
+    "event_ct": 4953,
+    "win_count": 4415,
+    "rank": 32853,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
