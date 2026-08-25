@@ -1326,5 +1326,21 @@
     "win_count": 8,
     "rank": 84784,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x649351a1445523faa192c992a73bb2b631b83666",
+    "trader_name": "bdaybetting",
+    "tag": "Overall",
+    "overall_gain": 555.118935,
+    "active_positions": 0,
+    "win_amount": 651.728621,
+    "loss_amount": -96.609686,
+    "win_rate": 0.9,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 84785,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
