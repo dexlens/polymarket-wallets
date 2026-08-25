@@ -782,5 +782,21 @@
     "win_count": 2,
     "rank": 44450,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e8cd228db1e0213074d6544cd9bb45fe4494349",
+    "trader_name": "ADACARDENAS",
+    "tag": "Overall",
+    "overall_gain": 1740,
+    "active_positions": 21,
+    "win_amount": 6288,
+    "loss_amount": -4548,
+    "win_rate": 0.5531914893617021,
+    "total_current_value": 0,
+    "total_positions": 47,
+    "event_ct": 47,
+    "win_count": 26,
+    "rank": 44451,
+    "trader_tags": ""
   }
 ]
