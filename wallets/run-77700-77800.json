@@ -1310,5 +1310,21 @@
     "win_count": 3,
     "rank": 77783,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67766aea6a1e6872f96c2d3d4e25a98bea86d21a",
+    "trader_name": "wrecke",
+    "tag": "Overall",
+    "overall_gain": 667.6800660217729,
+    "active_positions": 6,
+    "win_amount": 669.7564249654279,
+    "loss_amount": -2.0763589436549994,
+    "win_rate": 0.92,
+    "total_current_value": 19.012270901000004,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 23,
+    "rank": 77784,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
