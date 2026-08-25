@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 18162,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a36ebfde8a3b2ed7832522d3ffb8b721829f405",
+    "trader_name": "knavarro",
+    "tag": "Overall",
+    "overall_gain": 5126.152836612317,
+    "active_positions": 0,
+    "win_amount": 5200.390522,
+    "loss_amount": -74.237685387683,
+    "win_rate": 0.5,
+    "total_current_value": 0.012826,
+    "total_positions": 62,
+    "event_ct": 60,
+    "win_count": 30,
+    "rank": 18163,
+    "trader_tags": "> 1 year old"
   }
 ]
