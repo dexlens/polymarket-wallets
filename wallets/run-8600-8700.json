@@ -606,5 +606,21 @@
     "win_count": 28182,
     "rank": 8638,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x01f7c19e1ef71bd2efcc00e6a10049ee3e8f02df",
+    "trader_name": "Evo",
+    "tag": "Overall",
+    "overall_gain": 12131.506929405929,
+    "active_positions": 0,
+    "win_amount": 25939.177282087014,
+    "loss_amount": -13807.670352681092,
+    "win_rate": 0.6067961165048543,
+    "total_current_value": 0.5297339999999998,
+    "total_positions": 345,
+    "event_ct": 206,
+    "win_count": 125,
+    "rank": 8639,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
