@@ -1582,5 +1582,21 @@
     "win_count": 8,
     "rank": 49300,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x697e0bfd9a8c272ba15d3ed72077406acddbf03e",
+    "trader_name": "margotqu",
+    "tag": "Overall",
+    "overall_gain": 1513.7400000000002,
+    "active_positions": 1,
+    "win_amount": 1513.7400000000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 17.12,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 49301,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
