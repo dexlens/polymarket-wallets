@@ -318,5 +318,21 @@
     "win_count": 4,
     "rank": 87021,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x362f7185ce57b8529f853fa519653442b3ae7114",
+    "trader_name": "dillonprof",
+    "tag": "Overall",
+    "overall_gain": 525.3023792214259,
+    "active_positions": 2,
+    "win_amount": 650.0238265715019,
+    "loss_amount": -124.72144735007599,
+    "win_rate": 0.5357142857142857,
+    "total_current_value": 0.048752000000000004,
+    "total_positions": 45,
+    "event_ct": 28,
+    "win_count": 15,
+    "rank": 87022,
+    "trader_tags": ""
   }
 ]
