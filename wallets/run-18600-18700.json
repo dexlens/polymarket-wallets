@@ -558,5 +558,21 @@
     "win_count": 2,
     "rank": 18635,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x86f0302864216cf4fd03b2ac66fc499a7e0bd5b3",
+    "trader_name": "Phoenixfirec",
+    "tag": "Overall",
+    "overall_gain": 4994.787180025966,
+    "active_positions": 3,
+    "win_amount": 4999.787169028411,
+    "loss_amount": -4.999989002445,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 9.251606032500002,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 11,
+    "rank": 18636,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
