@@ -1486,5 +1486,21 @@
     "win_count": 44,
     "rank": 79994,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ac3077f3af08287c44b1387ae13305abe056f9e",
+    "trader_name": "runeswa",
+    "tag": "Overall",
+    "overall_gain": 630.613575632,
+    "active_positions": 1,
+    "win_amount": 630.993575632,
+    "loss_amount": -0.38,
+    "win_rate": 0.75,
+    "total_current_value": 0.012785999999999999,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 79995,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
