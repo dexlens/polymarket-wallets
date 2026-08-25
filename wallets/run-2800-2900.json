@@ -254,5 +254,21 @@
     "win_count": 3,
     "rank": 2816,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4d73a91d2434a6041011283931b788946266bae7",
+    "trader_name": "torrest",
+    "tag": "Overall",
+    "overall_gain": 41154.487516856454,
+    "active_positions": 24,
+    "win_amount": 198977.68163587502,
+    "loss_amount": -157823.19411901862,
+    "win_rate": 0.7123287671232876,
+    "total_current_value": 4.937351999999999,
+    "total_positions": 231,
+    "event_ct": 146,
+    "win_count": 104,
+    "rank": 2817,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
