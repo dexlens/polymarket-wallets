@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 50813,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72d06cf717eb7bb533fa4f3483cf04c91cda6ec3",
+    "trader_name": "daybreakrs",
+    "tag": "Overall",
+    "overall_gain": 1448.3000251915878,
+    "active_positions": 24,
+    "win_amount": 2448.397905277523,
+    "loss_amount": -1000.0978800859349,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 534.8204922945,
+    "total_positions": 29,
+    "event_ct": 21,
+    "win_count": 6,
+    "rank": 50814,
+    "trader_tags": "< 30 days old"
   }
 ]
