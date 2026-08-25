@@ -766,5 +766,21 @@
     "win_count": 13,
     "rank": 89349,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x630867e95d6c4f3d6e067ec15943f9904b41c442",
+    "trader_name": "fuyunfu",
+    "tag": "Overall",
+    "overall_gain": 497.52364834550497,
+    "active_positions": 19,
+    "win_amount": 541.462880426938,
+    "loss_amount": -43.939232081433005,
+    "win_rate": 0.723404255319149,
+    "total_current_value": 103.521538,
+    "total_positions": 51,
+    "event_ct": 47,
+    "win_count": 34,
+    "rank": 89350,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
