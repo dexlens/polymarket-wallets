@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 36397,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x27e3666e3a9182523ea29fe19e2e36dec5d06144",
+    "trader_name": "CopiumTrader",
+    "tag": "Overall",
+    "overall_gain": 2232.30068122809,
+    "active_positions": 0,
+    "win_amount": 3975.07265471393,
+    "loss_amount": -1742.7719734858401,
+    "win_rate": 0.5,
+    "total_current_value": 0.03669,
+    "total_positions": 29,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 36398,
+    "trader_tags": ""
   }
 ]
