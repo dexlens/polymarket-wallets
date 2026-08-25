@@ -254,5 +254,21 @@
     "win_count": 10,
     "rank": 27417,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa9ca97027ee5aae81e2a60986aaeec04efa747da",
+    "trader_name": "BTRNUTRNB",
+    "tag": "Overall",
+    "overall_gain": 3145.973665276824,
+    "active_positions": 1,
+    "win_amount": 4041.3536589999994,
+    "loss_amount": -895.3799937231761,
+    "win_rate": 0.9354838709677419,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 29,
+    "rank": 27418,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
