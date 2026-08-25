@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 8869,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x8ea9d30575a8e9a5156b33982489ce2ecfb977b6",
+    "trader_name": "EmmaWat",
+    "tag": "Overall",
+    "overall_gain": 11810.40621134904,
+    "active_positions": 49,
+    "win_amount": 33115.40621134904,
+    "loss_amount": -21305,
+    "win_rate": 0.7,
+    "total_current_value": 26.293006,
+    "total_positions": 107,
+    "event_ct": 100,
+    "win_count": 70,
+    "rank": 8870,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
