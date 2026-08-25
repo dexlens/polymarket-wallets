@@ -798,5 +798,21 @@
     "win_count": 141,
     "rank": 7650,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c810cfec453698d15a28334fd11e373086b3b0c",
+    "trader_name": "Faladian",
+    "tag": "Overall",
+    "overall_gain": 13824.175236266494,
+    "active_positions": 0,
+    "win_amount": 39366.45247604792,
+    "loss_amount": -25542.277239781433,
+    "win_rate": 0.3111111111111111,
+    "total_current_value": 0.062322999999999996,
+    "total_positions": 114,
+    "event_ct": 45,
+    "win_count": 14,
+    "rank": 7651,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
