@@ -606,5 +606,21 @@
     "win_count": 7,
     "rank": 1438,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e8f9b935db8aa660853ce8cf340482ccc26e1eb",
+    "trader_name": "BT-polymarket",
+    "tag": "Overall",
+    "overall_gain": 84352.99525835343,
+    "active_positions": 4,
+    "win_amount": 92074.56186098143,
+    "loss_amount": -7721.566602627969,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 150069.62650355502,
+    "total_positions": 52,
+    "event_ct": 34,
+    "win_count": 24,
+    "rank": 1439,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
