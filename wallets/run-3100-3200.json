@@ -974,5 +974,21 @@
     "win_count": 25,
     "rank": 3161,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdbb36e465641957d32376f0e5d32a1f725ce76a9",
+    "trader_name": "xsaghav",
+    "tag": "Overall",
+    "overall_gain": 36241.265119053154,
+    "active_positions": 115,
+    "win_amount": 137799.24443424432,
+    "loss_amount": -101557.9793151912,
+    "win_rate": 0.5738636363636364,
+    "total_current_value": 19874.164820231,
+    "total_positions": 749,
+    "event_ct": 176,
+    "win_count": 101,
+    "rank": 3162,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
