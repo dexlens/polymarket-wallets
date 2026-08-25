@@ -1406,5 +1406,21 @@
     "win_count": 5,
     "rank": 83089,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3629ad47a0d7e820eaf0c7fe84eb03740bb8d4ff",
+    "trader_name": "soulal",
+    "tag": "Overall",
+    "overall_gain": 581,
+    "active_positions": 1,
+    "win_amount": 581,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 500,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 83090,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
