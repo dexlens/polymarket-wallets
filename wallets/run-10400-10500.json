@@ -1582,5 +1582,21 @@
     "win_count": 4,
     "rank": 10499,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1394a4677cb9ec3fd7791310b0d119e391ee91f5",
+    "trader_name": "WillMont",
+    "tag": "Overall",
+    "overall_gain": 10024.855942146276,
+    "active_positions": 3,
+    "win_amount": 31410.138694626774,
+    "loss_amount": -21385.2827524805,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 10500,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
