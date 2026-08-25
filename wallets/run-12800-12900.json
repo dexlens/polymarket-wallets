@@ -1486,5 +1486,21 @@
     "win_count": 10,
     "rank": 12893,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d2aabb868b40f379e75deafffde027be6464f31",
+    "trader_name": "u7901",
+    "tag": "Overall",
+    "overall_gain": 7824.401210137793,
+    "active_positions": 0,
+    "win_amount": 8477.280421000001,
+    "loss_amount": -652.879210862208,
+    "win_rate": 0.7727272727272727,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 22,
+    "win_count": 17,
+    "rank": 12894,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
