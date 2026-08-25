@@ -286,5 +286,21 @@
     "win_count": 57,
     "rank": 62119,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e08fc7eca9d49307eae89f708f0aff4668716a8",
+    "trader_name": "croshen",
+    "tag": "Overall",
+    "overall_gain": 1019.0178615320002,
+    "active_positions": 2,
+    "win_amount": 1163.437337,
+    "loss_amount": -144.419475468,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 62120,
+    "trader_tags": "< 30 days old"
   }
 ]
