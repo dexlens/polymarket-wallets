@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 31680,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0c1baa545f55d5f8a60770ec97502ef598c53d3f",
+    "trader_name": "nedst",
+    "tag": "Overall",
+    "overall_gain": 2632.6813402421585,
+    "active_positions": 0,
+    "win_amount": 2799.406210242158,
+    "loss_amount": -166.72486999999998,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0.006043,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 31681,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
