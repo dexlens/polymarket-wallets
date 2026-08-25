@@ -958,5 +958,21 @@
     "win_count": 11,
     "rank": 17560,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbf2ffdbe1c110536593efcd324efdf7b37ab1b25",
+    "trader_name": "manubet",
+    "tag": "Overall",
+    "overall_gain": 5336.405827786495,
+    "active_positions": 1,
+    "win_amount": 6366.955394,
+    "loss_amount": -1030.549566213504,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 17561,
+    "trader_tags": ""
   }
 ]
