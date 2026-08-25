@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 75691,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1a273ea11e8e0eb20fb411975759cfac98f9eacb",
+    "trader_name": "shleshg",
+    "tag": "Overall",
+    "overall_gain": 704.7098284832701,
+    "active_positions": 2,
+    "win_amount": 3876.271474004637,
+    "loss_amount": -3171.561645521367,
+    "win_rate": 0.3695652173913043,
+    "total_current_value": 24.039571,
+    "total_positions": 80,
+    "event_ct": 46,
+    "win_count": 17,
+    "rank": 75692,
+    "trader_tags": "> 1 year old"
   }
 ]
