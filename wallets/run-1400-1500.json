@@ -78,5 +78,21 @@
     "win_count": 2,
     "rank": 1405,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8c818a866e6a4e5821a4faac8418903e33e3dcd3",
+    "trader_name": "Sharkbets.pro",
+    "tag": "Overall",
+    "overall_gain": 86144.38565046576,
+    "active_positions": 437,
+    "win_amount": 557176.4571400872,
+    "loss_amount": -471032.0714896214,
+    "win_rate": 0.5552884615384616,
+    "total_current_value": 0.45841600000000005,
+    "total_positions": 1928,
+    "event_ct": 1664,
+    "win_count": 924,
+    "rank": 1406,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
