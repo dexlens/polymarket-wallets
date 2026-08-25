@@ -430,5 +430,21 @@
     "win_count": 9,
     "rank": 83428,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x79d64fd3adf8ca522faa2c77ee7a3e36c9d54255",
+    "trader_name": "vdswcx",
+    "tag": "Overall",
+    "overall_gain": 575.4566502237361,
+    "active_positions": 3,
+    "win_amount": 1558.531051340338,
+    "loss_amount": -983.0744011166021,
+    "win_rate": 0.8,
+    "total_current_value": 0.006738,
+    "total_positions": 46,
+    "event_ct": 25,
+    "win_count": 20,
+    "rank": 83429,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
