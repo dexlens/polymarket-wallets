@@ -638,5 +638,21 @@
     "win_count": 12,
     "rank": 18240,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x88c439f29fc91b652eb723d835151c8436c307cf",
+    "trader_name": "momona",
+    "tag": "Overall",
+    "overall_gain": 5100.800599445216,
+    "active_positions": 0,
+    "win_amount": 13604.215686378779,
+    "loss_amount": -8503.415086933563,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0.058227999999999995,
+    "total_positions": 23,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 18241,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
