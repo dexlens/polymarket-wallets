@@ -158,5 +158,21 @@
     "win_count": 227,
     "rank": 1010,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x630519aed8ebc5e0e08a95f4e83b0ae541c09d0b",
+    "trader_name": "tomsir",
+    "tag": "Overall",
+    "overall_gain": 120638.21844138535,
+    "active_positions": 33,
+    "win_amount": 130824.5074835904,
+    "loss_amount": -10186.289042205064,
+    "win_rate": 0.5185185185185185,
+    "total_current_value": 111922.332088876,
+    "total_positions": 96,
+    "event_ct": 54,
+    "win_count": 28,
+    "rank": 1011,
+    "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
   }
 ]
