@@ -206,5 +206,21 @@
     "win_count": 52,
     "rank": 88614,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b7a6624c243e2e61c96051ff052dffdf1bff5ce",
+    "trader_name": "end24",
+    "tag": "Overall",
+    "overall_gain": 506.029410066799,
+    "active_positions": 1,
+    "win_amount": 537.988528425499,
+    "loss_amount": -31.9591183587,
+    "win_rate": 0.75,
+    "total_current_value": 0.019323,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 88615,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
