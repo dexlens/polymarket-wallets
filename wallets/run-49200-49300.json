@@ -782,5 +782,21 @@
     "win_count": 13,
     "rank": 49250,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x685e9cf8b55c0a1a9c2d1910b713eb911725bb41",
+    "trader_name": "diddy",
+    "tag": "Overall",
+    "overall_gain": 1515.631095771715,
+    "active_positions": 10,
+    "win_amount": 5455.002301753353,
+    "loss_amount": -3939.371205981638,
+    "win_rate": 0.44339622641509435,
+    "total_current_value": 162.48859953449994,
+    "total_positions": 493,
+    "event_ct": 212,
+    "win_count": 94,
+    "rank": 49251,
+    "trader_tags": "> 1 year old"
   }
 ]
