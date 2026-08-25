@@ -1182,5 +1182,21 @@
     "win_count": 5,
     "rank": 20274,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaebd851fe034612f80630cce913e78ed2f46ff79",
+    "trader_name": "gridbuilder",
+    "tag": "Overall",
+    "overall_gain": 4556.719999999999,
+    "active_positions": 5,
+    "win_amount": 6348.74,
+    "loss_amount": -1792.0200000000002,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 20275,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
