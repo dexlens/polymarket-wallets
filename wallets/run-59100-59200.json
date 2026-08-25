@@ -1246,5 +1246,21 @@
     "win_count": 21,
     "rank": 59179,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa88625659480ad79a5063d3072e194683bdbcf55",
+    "trader_name": "casdfsa",
+    "tag": "Overall",
+    "overall_gain": 1102.86480516176,
+    "active_positions": 2,
+    "win_amount": 2269.191061188094,
+    "loss_amount": -1166.326256026334,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 92.56150167500002,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 22,
+    "rank": 59180,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
