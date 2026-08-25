@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 16949,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd7091e4b17f66f8fbaff0de30d4de5f820e35f46",
+    "trader_name": "Zeus5",
+    "tag": "Overall",
+    "overall_gain": 5573.672686418874,
+    "active_positions": 7,
+    "win_amount": 18040.73383708651,
+    "loss_amount": -12467.061150667634,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.00009800000000000001,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 16950,
+    "trader_tags": "> 1 year old"
   }
 ]
