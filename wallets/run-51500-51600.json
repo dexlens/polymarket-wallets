@@ -1086,5 +1086,21 @@
     "win_count": 2,
     "rank": 51569,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3510d31e6b928d6060e01700a1f519a8892b2d9b",
+    "trader_name": "justwb25",
+    "tag": "Overall",
+    "overall_gain": 1412.238814696702,
+    "active_positions": 2,
+    "win_amount": 1413.2385046967022,
+    "loss_amount": -0.99969,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 1890.0547295185002,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 14,
+    "rank": 51570,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
