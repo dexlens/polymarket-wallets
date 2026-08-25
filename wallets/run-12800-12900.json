@@ -590,5 +590,21 @@
     "win_count": 158,
     "rank": 12837,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xee2dfcf0cd74ee522423d1dd26713a96184965c8",
+    "trader_name": "burgerman",
+    "tag": "Overall",
+    "overall_gain": 7868.624090894123,
+    "active_positions": 3,
+    "win_amount": 10303.709442373918,
+    "loss_amount": -2435.085351479795,
+    "win_rate": 0.7727272727272727,
+    "total_current_value": 49.0646082225,
+    "total_positions": 63,
+    "event_ct": 22,
+    "win_count": 17,
+    "rank": 12838,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
