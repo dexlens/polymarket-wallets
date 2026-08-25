@@ -798,5 +798,21 @@
     "win_count": 57,
     "rank": 2150,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5ee1c416fbe1c3e6a8bc51b74dd816c43276e116",
+    "trader_name": "WuTangClan",
+    "tag": "Overall",
+    "overall_gain": 56151.67556980114,
+    "active_positions": 47,
+    "win_amount": 56151.67556980114,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 18412.7379196,
+    "total_positions": 1227,
+    "event_ct": 401,
+    "win_count": 401,
+    "rank": 2151,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
