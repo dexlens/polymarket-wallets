@@ -1166,5 +1166,21 @@
     "win_count": 13,
     "rank": 8073,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21d226f1d0ac9ee905903782e14e19bf2904d3eb",
+    "trader_name": "Lighterliger",
+    "tag": "Overall",
+    "overall_gain": 13011.067566320002,
+    "active_positions": 23,
+    "win_amount": 52488.069709040006,
+    "loss_amount": -39477.00214271999,
+    "win_rate": 0.5660377358490566,
+    "total_current_value": 0.000086,
+    "total_positions": 53,
+    "event_ct": 53,
+    "win_count": 30,
+    "rank": 8074,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
