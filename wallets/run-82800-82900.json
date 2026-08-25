@@ -1486,5 +1486,21 @@
     "win_count": 75,
     "rank": 82894,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfd7ce1c478dc31724f3aa5f029cd1d1c73dc3e58",
+    "trader_name": "tradeandswap",
+    "tag": "Overall",
+    "overall_gain": 583.8949400025299,
+    "active_positions": 1,
+    "win_amount": 853.2645480217152,
+    "loss_amount": -269.36960801918497,
+    "win_rate": 0.7216494845360825,
+    "total_current_value": 0.5117149999999999,
+    "total_positions": 133,
+    "event_ct": 97,
+    "win_count": 70,
+    "rank": 82895,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
