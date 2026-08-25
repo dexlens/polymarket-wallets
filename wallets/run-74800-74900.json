@@ -1422,5 +1422,21 @@
     "win_count": 16,
     "rank": 74890,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49a0f9257cdfdfaa137e308feff53e61af62c6c5",
+    "trader_name": "Dreikkos",
+    "tag": "Overall",
+    "overall_gain": 714.8622025126691,
+    "active_positions": 19,
+    "win_amount": 11868.430928409838,
+    "loss_amount": -11153.568725897168,
+    "win_rate": 0.5141545524100994,
+    "total_current_value": 370.42269400000004,
+    "total_positions": 5239,
+    "event_ct": 5228,
+    "win_count": 2688,
+    "rank": 74891,
+    "trader_tags": "1k+ Positions"
   }
 ]
