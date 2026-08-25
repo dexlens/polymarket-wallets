@@ -334,5 +334,21 @@
     "win_count": 9,
     "rank": 30922,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c6bf6d05210265add2b0e97eb1a7f0a6fb528b6",
+    "trader_name": "balalaika",
+    "tag": "Overall",
+    "overall_gain": 2710.0291453338737,
+    "active_positions": 204,
+    "win_amount": 10596.859585602973,
+    "loss_amount": -7886.830440269101,
+    "win_rate": 0.4623217922606925,
+    "total_current_value": 1529.6817318734998,
+    "total_positions": 562,
+    "event_ct": 491,
+    "win_count": 227,
+    "rank": 30923,
+    "trader_tags": "> 1 year old"
   }
 ]
