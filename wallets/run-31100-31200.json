@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 31123,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x571080e37b2d37f65830e8795e38e3ca9a28ce1d",
+    "trader_name": "corinthians",
+    "tag": "Overall",
+    "overall_gain": 2688.4921297216724,
+    "active_positions": 5,
+    "win_amount": 5373.1354374933335,
+    "loss_amount": -2684.6433077716624,
+    "win_rate": 0.5863309352517986,
+    "total_current_value": 4.581197000000002,
+    "total_positions": 3642,
+    "event_ct": 278,
+    "win_count": 163,
+    "rank": 31124,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
