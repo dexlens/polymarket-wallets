@@ -286,5 +286,21 @@
     "win_count": 4,
     "rank": 76319,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x301f66bc749322894cace8646aa8b881664222f2",
+    "trader_name": "Naiea",
+    "tag": "Overall",
+    "overall_gain": 693.8969901296849,
+    "active_positions": 2,
+    "win_amount": 727.7574701296851,
+    "loss_amount": -33.86048000000001,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 268.535249,
+    "total_positions": 62,
+    "event_ct": 39,
+    "win_count": 33,
+    "rank": 76320,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
