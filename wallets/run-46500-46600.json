@@ -206,5 +206,21 @@
     "win_count": 8,
     "rank": 46514,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b97dd3de67a2662aa03a1ffc6446fe0646e5a5e",
+    "trader_name": "FreeMoney2",
+    "tag": "Overall",
+    "overall_gain": 1640.4163432500682,
+    "active_positions": 1,
+    "win_amount": 1992.108531476068,
+    "loss_amount": -351.69218822600004,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0.011503,
+    "total_positions": 29,
+    "event_ct": 22,
+    "win_count": 18,
+    "rank": 46515,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
