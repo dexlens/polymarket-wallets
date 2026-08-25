@@ -798,5 +798,21 @@
     "win_count": 34,
     "rank": 3750,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x60280beffdfeaf962de4e6397ab49ed05a1b99e1",
+    "trader_name": "X34",
+    "tag": "Overall",
+    "overall_gain": 30415.635450096033,
+    "active_positions": 3,
+    "win_amount": 30776.430632033116,
+    "loss_amount": -360.795181937085,
+    "win_rate": 0.4,
+    "total_current_value": 1.5283727999999999,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 3751,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
