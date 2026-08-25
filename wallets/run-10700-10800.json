@@ -1150,5 +1150,21 @@
     "win_count": 10,
     "rank": 10772,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83451c358d50b3f8982124fc741e8bda4b4edd93",
+    "trader_name": "Oldstreet",
+    "tag": "Overall",
+    "overall_gain": 9831.268671429441,
+    "active_positions": 6,
+    "win_amount": 12191.297992427835,
+    "loss_amount": -2360.0293209983984,
+    "win_rate": 0.8193085453359426,
+    "total_current_value": 804.5525265965,
+    "total_positions": 1607,
+    "event_ct": 1533,
+    "win_count": 1256,
+    "rank": 10773,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
