@@ -526,5 +526,21 @@
     "win_count": 693,
     "rank": 2733,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x1a5bfdfc53a7661576e03e9155d476238711f553",
+    "trader_name": "Businio",
+    "tag": "Overall",
+    "overall_gain": 42532.88773178768,
+    "active_positions": 3,
+    "win_amount": 43193.88637214477,
+    "loss_amount": -660.998640357089,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 283254.4375086,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 2734,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
