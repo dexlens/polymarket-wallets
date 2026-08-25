@@ -1086,5 +1086,21 @@
     "win_count": 16,
     "rank": 9468,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10c1e51c8b22d19feefd88a69cac25848cd526b4",
+    "trader_name": "Zola3",
+    "tag": "Overall",
+    "overall_gain": 11072.540901511324,
+    "active_positions": 3,
+    "win_amount": 11074.340898641665,
+    "loss_amount": -1.799997130342,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 1.099999725,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 9469,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
