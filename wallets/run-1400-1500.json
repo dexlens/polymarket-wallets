@@ -1150,5 +1150,21 @@
     "win_count": 75,
     "rank": 1472,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9175cafef50f45e618258750d74e84eae60969a8",
+    "trader_name": "Chase0x0",
+    "tag": "Overall",
+    "overall_gain": 81931.511535,
+    "active_positions": 0,
+    "win_amount": 81931.511535,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 1473,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
