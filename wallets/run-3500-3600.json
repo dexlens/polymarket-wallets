@@ -1022,5 +1022,21 @@
     "win_count": 31,
     "rank": 3564,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc3fd753206de6ba5a4933e69c56749172bf3881b",
+    "trader_name": "bartholomel",
+    "tag": "Overall",
+    "overall_gain": 31917.480000000003,
+    "active_positions": 0,
+    "win_amount": 32629.480000000003,
+    "loss_amount": -712,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 3565,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
