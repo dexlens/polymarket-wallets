@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 88460,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30a325a2d652f2d1a289c118a824a9879450702d",
+    "trader_name": "imhoNFT",
+    "tag": "Overall",
+    "overall_gain": 507.69727336635094,
+    "active_positions": 4,
+    "win_amount": 794.933140374,
+    "loss_amount": -287.23586700764906,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 283.259047104,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 4,
+    "rank": 88461,
+    "trader_tags": ""
   }
 ]
