@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 27060,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xecee4a2277d9f88846a2fa3697c396aeec200154",
+    "trader_name": "stamin",
+    "tag": "Overall",
+    "overall_gain": 3199.1442705268537,
+    "active_positions": 1,
+    "win_amount": 3607.748992,
+    "loss_amount": -408.60472147314596,
+    "win_rate": 0.5,
+    "total_current_value": 241.3740919645,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 27061,
+    "trader_tags": "> 1 year old"
   }
 ]
