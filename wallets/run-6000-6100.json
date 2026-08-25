@@ -126,5 +126,21 @@
     "win_count": 14,
     "rank": 6008,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc3cd1d612bbf9fbf80da5a9bff0b0470cb46816c",
+    "trader_name": "UbuntuTrading",
+    "tag": "Overall",
+    "overall_gain": 17852.797799210617,
+    "active_positions": 295,
+    "win_amount": 44725.35468719035,
+    "loss_amount": -26872.556887979736,
+    "win_rate": 0.6180124223602484,
+    "total_current_value": 9244.989344590998,
+    "total_positions": 4521,
+    "event_ct": 1288,
+    "win_count": 796,
+    "rank": 6009,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
