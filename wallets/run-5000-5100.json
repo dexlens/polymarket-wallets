@@ -750,5 +750,21 @@
     "win_count": 4,
     "rank": 5047,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa4ce6bc630da3c0e57ffbc6a0d2540b2f97602b2",
+    "trader_name": "themmaguru",
+    "tag": "Overall",
+    "overall_gain": 21426.65472534525,
+    "active_positions": 4,
+    "win_amount": 28712.141626265417,
+    "loss_amount": -7285.486900920163,
+    "win_rate": 0.5,
+    "total_current_value": 0.013606000000000002,
+    "total_positions": 11,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 5048,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
