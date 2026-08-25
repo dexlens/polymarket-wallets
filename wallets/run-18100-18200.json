@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 18134,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8dcdf829b8ede645c6d8cf9e288e6da3914ed2cf",
+    "trader_name": "core-dk",
+    "tag": "Overall",
+    "overall_gain": 5132.9973609977205,
+    "active_positions": 0,
+    "win_amount": 5455.97613499772,
+    "loss_amount": -322.97877400000004,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 0.017248,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 18135,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
