@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 44215,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ec41809f9711d24d09956d3a87e1fdf8cce3e92",
+    "trader_name": "NeilRaman",
+    "tag": "Overall",
+    "overall_gain": 1753.309862,
+    "active_positions": 24,
+    "win_amount": 10069.309862,
+    "loss_amount": -8316,
+    "win_rate": 0.5932203389830508,
+    "total_current_value": 0,
+    "total_positions": 59,
+    "event_ct": 59,
+    "win_count": 35,
+    "rank": 44216,
+    "trader_tags": ""
   }
 ]
