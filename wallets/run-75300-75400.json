@@ -702,5 +702,21 @@
     "win_count": 165,
     "rank": 75345,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9e370e99ea80c84db164eeb15e2703e81c09d502",
+    "trader_name": "Alphatao",
+    "tag": "Overall",
+    "overall_gain": 709.1342844420551,
+    "active_positions": 11,
+    "win_amount": 720.2592797212701,
+    "loss_amount": -11.124995279215,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 24.36275,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 75346,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
