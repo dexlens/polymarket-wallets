@@ -1070,5 +1070,21 @@
     "win_count": 3,
     "rank": 22467,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e570d48256db7c1d3066fe7804485bd6cf084a5",
+    "trader_name": "Clown",
+    "tag": "Overall",
+    "overall_gain": 4021.7165255416203,
+    "active_positions": 31,
+    "win_amount": 10813.849804376734,
+    "loss_amount": -6792.133278835113,
+    "win_rate": 0.8277777777777777,
+    "total_current_value": 2650.188790706001,
+    "total_positions": 275,
+    "event_ct": 180,
+    "win_count": 149,
+    "rank": 22468,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
