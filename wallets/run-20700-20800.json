@@ -718,5 +718,21 @@
     "win_count": 6,
     "rank": 20745,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x588f87ecc2da96b7ef463cb113dcd2749cfec497",
+    "trader_name": "Gavgaven",
+    "tag": "Overall",
+    "overall_gain": 4432.104488017976,
+    "active_positions": 1,
+    "win_amount": 7297.747664490768,
+    "loss_amount": -2865.6431764727927,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 0.01813,
+    "total_positions": 61,
+    "event_ct": 57,
+    "win_count": 39,
+    "rank": 20746,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
