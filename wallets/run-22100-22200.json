@@ -1438,5 +1438,21 @@
     "win_count": 2,
     "rank": 22190,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x677748cf41fbb87a2f31ae6fb8295a88062580fd",
+    "trader_name": "DaftPunk",
+    "tag": "Overall",
+    "overall_gain": 4078.6865994775167,
+    "active_positions": 3,
+    "win_amount": 6095.738009222759,
+    "loss_amount": -2017.0514097452422,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.040691000000000005,
+    "total_positions": 20,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 22191,
+    "trader_tags": ""
   }
 ]
