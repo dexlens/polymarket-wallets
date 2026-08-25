@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 44333,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa23d5d024866aa0300fd9c26e7fcd7a1085cef9b",
+    "trader_name": "cowardly",
+    "tag": "Overall",
+    "overall_gain": 1746.2495968026603,
+    "active_positions": 2,
+    "win_amount": 12555.589884796873,
+    "loss_amount": -10809.340287994213,
+    "win_rate": 0.757455268389662,
+    "total_current_value": 535.8205026255,
+    "total_positions": 643,
+    "event_ct": 503,
+    "win_count": 381,
+    "rank": 44334,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
