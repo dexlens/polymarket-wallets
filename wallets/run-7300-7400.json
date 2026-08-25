@@ -1454,5 +1454,21 @@
     "win_count": 3,
     "rank": 7391,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x893933c4ebb49e92ae5b7076b515247792430add",
+    "trader_name": "bchsniper",
+    "tag": "Overall",
+    "overall_gain": 14397.288101580565,
+    "active_positions": 1,
+    "win_amount": 14491.4307289264,
+    "loss_amount": -94.14262734583495,
+    "win_rate": 0.4174757281553398,
+    "total_current_value": 0.009399,
+    "total_positions": 103,
+    "event_ct": 103,
+    "win_count": 43,
+    "rank": 7392,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
