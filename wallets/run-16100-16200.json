@@ -878,5 +878,21 @@
     "win_count": 9,
     "rank": 16155,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77a0d1373bfcae0ace1965c4253ac64041dc7fd7",
+    "trader_name": "wanarb",
+    "tag": "Overall",
+    "overall_gain": 5928.484527372371,
+    "active_positions": 39,
+    "win_amount": 98372.72497212571,
+    "loss_amount": -92444.24044475333,
+    "win_rate": 0.5309835133598636,
+    "total_current_value": 572.947310882,
+    "total_positions": 2716,
+    "event_ct": 1759,
+    "win_count": 934,
+    "rank": 16156,
+    "trader_tags": "1k+ Positions"
   }
 ]
