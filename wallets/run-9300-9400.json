@@ -478,5 +478,21 @@
     "win_count": 54,
     "rank": 9330,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x31fa93d3687521a34f6103edbc38bea192a28033",
+    "trader_name": "Borderline",
+    "tag": "Overall",
+    "overall_gain": 11231.792918941053,
+    "active_positions": 4,
+    "win_amount": 11231.792918941053,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 205.1260960425,
+    "total_positions": 28,
+    "event_ct": 14,
+    "win_count": 14,
+    "rank": 9331,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
