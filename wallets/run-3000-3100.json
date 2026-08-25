@@ -142,5 +142,21 @@
     "win_count": 10254,
     "rank": 3009,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x2c892a47f462dd409a5920d7ba9b042ec53298c3",
+    "trader_name": "solidtaken",
+    "tag": "Overall",
+    "overall_gain": 38159.996437740905,
+    "active_positions": 45,
+    "win_amount": 99499.96140100001,
+    "loss_amount": -61339.96496325909,
+    "win_rate": 0.5258620689655172,
+    "total_current_value": 0.0048189999999999995,
+    "total_positions": 123,
+    "event_ct": 116,
+    "win_count": 61,
+    "rank": 3010,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
