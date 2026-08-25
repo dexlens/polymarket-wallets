@@ -606,5 +606,21 @@
     "win_count": 2,
     "rank": 5038,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a8885c8dc075f0578b648f29fa233408a7d41cc",
+    "trader_name": "stackingsats",
+    "tag": "Overall",
+    "overall_gain": 21476.430532929153,
+    "active_positions": 37,
+    "win_amount": 258430.33649258086,
+    "loss_amount": -236953.90595965172,
+    "win_rate": 0.44680851063829785,
+    "total_current_value": 0.000068,
+    "total_positions": 74,
+    "event_ct": 47,
+    "win_count": 21,
+    "rank": 5039,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
