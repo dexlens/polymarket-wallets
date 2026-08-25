@@ -990,5 +990,21 @@
     "win_count": 3,
     "rank": 41563,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x41b732a73f372ede9ecc1f80cc0fac233b03c501",
+    "trader_name": "Pelegorn",
+    "tag": "Overall",
+    "overall_gain": 1901.3400156805,
+    "active_positions": 1,
+    "win_amount": 2421.0209999999997,
+    "loss_amount": -519.6809843195,
+    "win_rate": 0.8636363636363636,
+    "total_current_value": 0.0053956915,
+    "total_positions": 25,
+    "event_ct": 22,
+    "win_count": 19,
+    "rank": 41564,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
