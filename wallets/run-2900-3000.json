@@ -158,5 +158,21 @@
     "win_count": 55,
     "rank": 2910,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x328dc4b82869856f3e1a1eae904e67957641f7a9",
+    "trader_name": "apmt",
+    "tag": "Overall",
+    "overall_gain": 39521.79667875908,
+    "active_positions": 10,
+    "win_amount": 47826.27926311803,
+    "loss_amount": -8304.482584358942,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 66607.751461178,
+    "total_positions": 54,
+    "event_ct": 39,
+    "win_count": 30,
+    "rank": 2911,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
