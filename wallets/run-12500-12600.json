@@ -1134,5 +1134,21 @@
     "win_count": 10,
     "rank": 12571,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7bbaadaaf2c0153ae8ed7c5a032f102a1eac88c5",
+    "trader_name": "mic11111",
+    "tag": "Overall",
+    "overall_gain": 8065.267490000001,
+    "active_positions": 0,
+    "win_amount": 23625.804175999998,
+    "loss_amount": -15560.536686000005,
+    "win_rate": 0.36682663467306537,
+    "total_current_value": 0,
+    "total_positions": 3675,
+    "event_ct": 3334,
+    "win_count": 1223,
+    "rank": 12572,
+    "trader_tags": "1k+ Positions"
   }
 ]
