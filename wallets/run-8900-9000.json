@@ -174,5 +174,21 @@
     "win_count": 30,
     "rank": 8911,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6c3bb01abb15f798f5dfbb48e18d54074ae4fdb2",
+    "trader_name": "piranhascapital",
+    "tag": "Overall",
+    "overall_gain": 11750.914674708618,
+    "active_positions": 1,
+    "win_amount": 13439.850400971378,
+    "loss_amount": -1688.93572626276,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.002854,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 8912,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
