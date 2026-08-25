@@ -670,5 +670,21 @@
     "win_count": 21,
     "rank": 7842,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x647d856c76b9edd812ef823903c3782cb8ed5ce1",
+    "trader_name": "Yureth",
+    "tag": "Overall",
+    "overall_gain": 13435.624394491788,
+    "active_positions": 4,
+    "win_amount": 13875.494394491787,
+    "loss_amount": -439.87,
+    "win_rate": 0.8064516129032258,
+    "total_current_value": 6.000192999999999,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 25,
+    "rank": 7843,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
