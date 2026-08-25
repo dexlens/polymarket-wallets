@@ -46,5 +46,21 @@
     "win_count": 1,
     "rank": 23003,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x62c5365cb75dc294d27161af966d2247235184d3",
+    "trader_name": "A9zheyisheng199",
+    "tag": "Overall",
+    "overall_gain": 3917.201405106,
+    "active_positions": 1,
+    "win_amount": 3924.9300000000003,
+    "loss_amount": -7.728594893999997,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 19.890516126,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 23004,
+    "trader_tags": "< 30 days old"
   }
 ]
