@@ -1374,5 +1374,21 @@
     "win_count": 5,
     "rank": 27887,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55ce9c7ac5300019dc58fd76455a83ff2f82b6f6",
+    "trader_name": "Pledge",
+    "tag": "Overall",
+    "overall_gain": 3081.892642,
+    "active_positions": 1,
+    "win_amount": 3278.872642,
+    "loss_amount": -196.98000000000002,
+    "win_rate": 0.8260869565217391,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 23,
+    "win_count": 19,
+    "rank": 27888,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
