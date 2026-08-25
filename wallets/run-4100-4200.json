@@ -366,5 +366,21 @@
     "win_count": 20,
     "rank": 4123,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4c67d6508607931ea8143def70d7ad237c9138cb",
+    "trader_name": "Zonixclub",
+    "tag": "Overall",
+    "overall_gain": 27118.755608448042,
+    "active_positions": 1,
+    "win_amount": 27118.755608448042,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.131503,
+    "total_positions": 104,
+    "event_ct": 43,
+    "win_count": 43,
+    "rank": 4124,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
