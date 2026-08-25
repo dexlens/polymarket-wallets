@@ -1150,5 +1150,21 @@
     "win_count": 11,
     "rank": 67473,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf687279955b1214010eb662a0a1fb1f6d59c3bdb",
+    "trader_name": "dumbbell2",
+    "tag": "Overall",
+    "overall_gain": 875.738035999999,
+    "active_positions": 7,
+    "win_amount": 3867.035116,
+    "loss_amount": -2991.2970800000003,
+    "win_rate": 0.9901477832512315,
+    "total_current_value": 0,
+    "total_positions": 814,
+    "event_ct": 812,
+    "win_count": 804,
+    "rank": 67474,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
