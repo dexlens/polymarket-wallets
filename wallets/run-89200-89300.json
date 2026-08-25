@@ -398,5 +398,21 @@
     "win_count": 225,
     "rank": 89226,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28424fdc95525b85bf574e239e9082991f75ef42",
+    "trader_name": "0x28424fdC95525b85bF574E239e9082991F75EF42-1770099714840",
+    "tag": "Overall",
+    "overall_gain": 499.09212,
+    "active_positions": 0,
+    "win_amount": 502.74,
+    "loss_amount": -3.64788,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 89227,
+    "trader_tags": "67%+ Positions in US Election "
   }
 ]
