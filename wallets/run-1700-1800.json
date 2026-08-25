@@ -318,5 +318,21 @@
     "win_count": 3,
     "rank": 1720,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63e975a9904e09249a37f771a877c55de7cde1a1",
+    "trader_name": "Resilience",
+    "tag": "Overall",
+    "overall_gain": 71551.61683050872,
+    "active_positions": 0,
+    "win_amount": 440161.37286981003,
+    "loss_amount": -368609.75603930134,
+    "win_rate": 0.4368932038834951,
+    "total_current_value": 0.19114499999999998,
+    "total_positions": 331,
+    "event_ct": 103,
+    "win_count": 45,
+    "rank": 1721,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
