@@ -1406,5 +1406,21 @@
     "win_count": 3,
     "rank": 24489,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x761d710f70bd960c3a2d101a3b3e84c24a21bbb6",
+    "trader_name": "Rsheda",
+    "tag": "Overall",
+    "overall_gain": 3629.5,
+    "active_positions": 1,
+    "win_amount": 4045.5,
+    "loss_amount": -416,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 24490,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
