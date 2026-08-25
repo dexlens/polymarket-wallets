@@ -206,5 +206,21 @@
     "win_count": 10,
     "rank": 24614,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3acba84a124408fb39c46911043fc36e36b5f7f6",
+    "trader_name": "yndhet",
+    "tag": "Overall",
+    "overall_gain": 3608.6270539999996,
+    "active_positions": 1,
+    "win_amount": 3608.6270539999996,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 187.42941000000002,
+    "total_positions": 26,
+    "event_ct": 25,
+    "win_count": 25,
+    "rank": 24615,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
