@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 44868,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7aeb3010939ebc81004f649bdec64d44c5e10c44",
+    "trader_name": "Solvex",
+    "tag": "Overall",
+    "overall_gain": 1720.0094250000004,
+    "active_positions": 3,
+    "win_amount": 5050.1,
+    "loss_amount": -3330.0905749999997,
+    "win_rate": 0.65,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 13,
+    "rank": 44869,
+    "trader_tags": ""
   }
 ]
