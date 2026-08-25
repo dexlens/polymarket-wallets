@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 72230,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0619bcef5a0fc9d3a647511e1f2a8c8d668690f7",
+    "trader_name": "AnonYaddle",
+    "tag": "Overall",
+    "overall_gain": 761.5295406058759,
+    "active_positions": 3,
+    "win_amount": 871.758734946548,
+    "loss_amount": -110.229194340672,
+    "win_rate": 0.625,
+    "total_current_value": 0.003089,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 72231,
+    "trader_tags": "> 1 year old"
   }
 ]
