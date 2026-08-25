@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 10074,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x41fd30b909ee79978bf896ef9b780273ed90e95c",
+    "trader_name": "JohnBe - 24067",
+    "tag": "Overall",
+    "overall_gain": 10414.692968020161,
+    "active_positions": 3,
+    "win_amount": 19839.444816976356,
+    "loss_amount": -9424.751848956203,
+    "win_rate": 0.6585365853658537,
+    "total_current_value": 0.0022350760725737026,
+    "total_positions": 196,
+    "event_ct": 123,
+    "win_count": 81,
+    "rank": 10075,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
