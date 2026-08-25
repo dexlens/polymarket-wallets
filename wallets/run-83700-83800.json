@@ -446,5 +446,21 @@
     "win_count": 3,
     "rank": 83729,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d0267fa96d2787f0062a0c067e856b631813073",
+    "trader_name": "BodhiRivers",
+    "tag": "Overall",
+    "overall_gain": 570.412224246295,
+    "active_positions": 2,
+    "win_amount": 576.789148,
+    "loss_amount": -6.376923753705,
+    "win_rate": 0.14814814814814814,
+    "total_current_value": 4.6693,
+    "total_positions": 38,
+    "event_ct": 27,
+    "win_count": 4,
+    "rank": 83730,
+    "trader_tags": ""
   }
 ]
