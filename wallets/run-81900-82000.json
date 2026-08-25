@@ -446,5 +446,21 @@
     "win_count": 11,
     "rank": 81929,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc9e233090c6690c1ca24ce889082bd4cb2e6864f",
+    "trader_name": "Jonns",
+    "tag": "Overall",
+    "overall_gain": 599.316295209045,
+    "active_positions": 3,
+    "win_amount": 602.8170373,
+    "loss_amount": -3.5007420909549696,
+    "win_rate": 0.9142857142857143,
+    "total_current_value": 476.6619095925,
+    "total_positions": 95,
+    "event_ct": 35,
+    "win_count": 32,
+    "rank": 81930,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
