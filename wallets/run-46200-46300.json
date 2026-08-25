@@ -798,5 +798,21 @@
     "win_count": 95,
     "rank": 46251,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5971df8e79447b32008d5c789ec3f523da995270",
+    "trader_name": "BanditCrusher",
+    "tag": "Overall",
+    "overall_gain": 1654.26,
+    "active_positions": 7,
+    "win_amount": 3108.96,
+    "loss_amount": -1454.6999999999998,
+    "win_rate": 0.7586206896551724,
+    "total_current_value": 0,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 22,
+    "rank": 46252,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
