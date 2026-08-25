@@ -1390,5 +1390,21 @@
     "win_count": 17,
     "rank": 8387,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2d0bc0f3462541b7e67fe8e87a9ea701c420b3da",
+    "trader_name": "Ophelin",
+    "tag": "Overall",
+    "overall_gain": 12492.834280990957,
+    "active_positions": 2,
+    "win_amount": 12499.650395990957,
+    "loss_amount": -6.816115,
+    "win_rate": 0.95,
+    "total_current_value": 0.002956,
+    "total_positions": 42,
+    "event_ct": 40,
+    "win_count": 38,
+    "rank": 8388,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
