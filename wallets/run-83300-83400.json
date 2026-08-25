@@ -590,5 +590,21 @@
     "win_count": 251,
     "rank": 83338,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x692d95b5428468c316acffe9941276d5998f701b",
+    "trader_name": "Cerfy",
+    "tag": "Overall",
+    "overall_gain": 576.9424744905721,
+    "active_positions": 0,
+    "win_amount": 578.9331992007591,
+    "loss_amount": -1.990724710187,
+    "win_rate": 0.9,
+    "total_current_value": 0.0029804354999999998,
+    "total_positions": 49,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 83339,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
