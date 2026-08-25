@@ -1214,5 +1214,21 @@
     "win_count": 2,
     "rank": 8976,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7aef3dca3843146b6a401add9194aeaaefe88426",
+    "trader_name": "sfete",
+    "tag": "Overall",
+    "overall_gain": 11671.336008,
+    "active_positions": 18,
+    "win_amount": 32025,
+    "loss_amount": -20353.663992,
+    "win_rate": 0.5106382978723404,
+    "total_current_value": 0,
+    "total_positions": 47,
+    "event_ct": 47,
+    "win_count": 24,
+    "rank": 8977,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
