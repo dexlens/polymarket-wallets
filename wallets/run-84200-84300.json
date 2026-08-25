@@ -1166,5 +1166,21 @@
     "win_count": 4,
     "rank": 84274,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcbde3288ce09f19bb68d47aa68faa5d571f20095",
+    "trader_name": "edc-10",
+    "tag": "Overall",
+    "overall_gain": 562.4852551867432,
+    "active_positions": 0,
+    "win_amount": 2468.5852714455345,
+    "loss_amount": -1906.1000162587916,
+    "win_rate": 0.976491862567812,
+    "total_current_value": 0.056179,
+    "total_positions": 784,
+    "event_ct": 553,
+    "win_count": 540,
+    "rank": 84275,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
