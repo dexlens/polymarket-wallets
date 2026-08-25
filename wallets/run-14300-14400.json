@@ -334,5 +334,21 @@
     "win_count": 6,
     "rank": 14321,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x335def9f628a3319d7f3a6a2c39e795cccb88f03",
+    "trader_name": "runrunrunitup",
+    "tag": "Overall",
+    "overall_gain": 6872.895741473125,
+    "active_positions": 10,
+    "win_amount": 70490.28049813009,
+    "loss_amount": -63617.38475665699,
+    "win_rate": 0.6091269841269841,
+    "total_current_value": 23667.398841777504,
+    "total_positions": 886,
+    "event_ct": 504,
+    "win_count": 307,
+    "rank": 14322,
+    "trader_tags": "> 1 year old"
   }
 ]
