@@ -222,5 +222,21 @@
     "win_count": 31,
     "rank": 40515,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe77b473b749aa9a45284d57bb05b8c936176f10a",
+    "trader_name": "ladder00",
+    "tag": "Overall",
+    "overall_gain": 1965.1622820086538,
+    "active_positions": 5,
+    "win_amount": 16510.004515253666,
+    "loss_amount": -14544.842233245014,
+    "win_rate": 0.5291479820627802,
+    "total_current_value": 0.31062,
+    "total_positions": 340,
+    "event_ct": 223,
+    "win_count": 118,
+    "rank": 40516,
+    "trader_tags": ""
   }
 ]
