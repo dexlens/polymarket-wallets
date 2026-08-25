@@ -1054,5 +1054,21 @@
     "win_count": 27,
     "rank": 9466,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x50daf6ac96af80b22e526d89b2b9b6a49db588aa",
+    "trader_name": "AndrewThompson",
+    "tag": "Overall",
+    "overall_gain": 11072.972773217754,
+    "active_positions": 1,
+    "win_amount": 11228.696536840174,
+    "loss_amount": -155.72376362242,
+    "win_rate": 0.7291666666666666,
+    "total_current_value": 10.619126999999999,
+    "total_positions": 56,
+    "event_ct": 48,
+    "win_count": 35,
+    "rank": 9467,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
