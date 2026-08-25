@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 2753,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5da7346d021f21c415e51671a28ed8ab5a9270b5",
+    "trader_name": "AG123 - 14824",
+    "tag": "Overall",
+    "overall_gain": 42031.5347098555,
+    "active_positions": 0,
+    "win_amount": 174909.65314999848,
+    "loss_amount": -132878.118440143,
+    "win_rate": 0.5141700404858299,
+    "total_current_value": 0.03741899354547029,
+    "total_positions": 414,
+    "event_ct": 247,
+    "win_count": 127,
+    "rank": 2754,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
