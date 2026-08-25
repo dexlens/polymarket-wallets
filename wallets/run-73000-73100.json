@@ -1342,5 +1342,21 @@
     "win_count": 2,
     "rank": 73085,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xea4ddcbf18a018dae3cbf8a85b9a9c8c04fdc654",
+    "trader_name": "Italiancabin",
+    "tag": "Overall",
+    "overall_gain": 743.1635806009136,
+    "active_positions": 49,
+    "win_amount": 5975.192003032634,
+    "loss_amount": -5232.028422431719,
+    "win_rate": 0.6385642737896494,
+    "total_current_value": 1422.0070583305,
+    "total_positions": 4042,
+    "event_ct": 2396,
+    "win_count": 1530,
+    "rank": 73086,
+    "trader_tags": "1k+ Positions"
   }
 ]
