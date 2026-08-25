@@ -430,5 +430,21 @@
     "win_count": 3,
     "rank": 40528,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1a7bbf64065dc84a3a4aa02ecfe71e95844cdbd0",
+    "trader_name": "Compassionateer",
+    "tag": "Overall",
+    "overall_gain": 1963.67,
+    "active_positions": 2,
+    "win_amount": 2324.1499999999996,
+    "loss_amount": -360.48,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 40529,
+    "trader_tags": ""
   }
 ]
