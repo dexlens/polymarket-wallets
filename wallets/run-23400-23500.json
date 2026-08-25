@@ -814,5 +814,21 @@
     "win_count": 11,
     "rank": 23451,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb593472df8d9186c1d53ea6c50b9ab0b378428ea",
+    "trader_name": "fleetv",
+    "tag": "Overall",
+    "overall_gain": 3828.8705661400004,
+    "active_positions": 27,
+    "win_amount": 8886.451405900001,
+    "loss_amount": -5057.58083976,
+    "win_rate": 0.5140845070422535,
+    "total_current_value": 2794.51493,
+    "total_positions": 202,
+    "event_ct": 142,
+    "win_count": 73,
+    "rank": 23452,
+    "trader_tags": ""
   }
 ]
