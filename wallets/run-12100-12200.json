@@ -302,5 +302,21 @@
     "win_count": 12,
     "rank": 12119,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e51179a6d9b53e37f84ca2c22bfe75e6300e4f7",
+    "trader_name": "mightycash",
+    "tag": "Overall",
+    "overall_gain": 8477.729182705356,
+    "active_positions": 84,
+    "win_amount": 76750.00170125318,
+    "loss_amount": -68272.27251854783,
+    "win_rate": 0.6161731207289294,
+    "total_current_value": 26052.221373569497,
+    "total_positions": 2995,
+    "event_ct": 878,
+    "win_count": 541,
+    "rank": 12120,
+    "trader_tags": "1k+ Positions"
   }
 ]
