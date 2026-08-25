@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 38748,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6686a706c621747eb352351aea428dde4adb7fcd",
+    "trader_name": "aiman",
+    "tag": "Overall",
+    "overall_gain": 2069.557748109241,
+    "active_positions": 5,
+    "win_amount": 2083.557666660016,
+    "loss_amount": -13.999918550775,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 40.009088,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 7,
+    "rank": 38749,
+    "trader_tags": "> 1 year old"
   }
 ]
