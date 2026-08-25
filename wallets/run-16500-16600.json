@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 16597,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x748aa737c23592cf25ac5398a7d6e558fc9b9d1d",
+    "trader_name": "aqkzq",
+    "tag": "Overall",
+    "overall_gain": 5735.388613,
+    "active_positions": 0,
+    "win_amount": 5803.016616,
+    "loss_amount": -67.62800299999999,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 26,
+    "win_count": 12,
+    "rank": 16598,
+    "trader_tags": "> 1 year old"
   }
 ]
