@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 36220,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d673958f46018b0e15364ced1ffdc0b4fd3af7d",
+    "trader_name": "NBABettor123",
+    "tag": "Overall",
+    "overall_gain": 2245.1581987372133,
+    "active_positions": 6,
+    "win_amount": 7745.148304399714,
+    "loss_amount": -5499.9901056625,
+    "win_rate": 0.625,
+    "total_current_value": 3912.3650355889995,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 36221,
+    "trader_tags": ""
   }
 ]
