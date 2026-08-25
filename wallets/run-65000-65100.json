@@ -46,5 +46,21 @@
     "win_count": 1,
     "rank": 65004,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8d1595c25674ebe79e29e5031f5dcbe3abbf3d9c",
+    "trader_name": "laura-ra",
+    "tag": "Overall",
+    "overall_gain": 945.3897844899449,
+    "active_positions": 14,
+    "win_amount": 1111.241350420401,
+    "loss_amount": -165.851565930456,
+    "win_rate": 0.34615384615384615,
+    "total_current_value": 25.6565537405,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 9,
+    "rank": 65005,
+    "trader_tags": "> 1 year old"
   }
 ]
