@@ -734,5 +734,21 @@
     "win_count": 9,
     "rank": 62547,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9b927b6d5cd05821c146ccb05db1f2cb2c260c9f",
+    "trader_name": "Arsena",
+    "tag": "Overall",
+    "overall_gain": 1008.5244388457876,
+    "active_positions": 4,
+    "win_amount": 3527.4840976517876,
+    "loss_amount": -2518.959658805999,
+    "win_rate": 0.7702702702702703,
+    "total_current_value": 1807.9912545050001,
+    "total_positions": 80,
+    "event_ct": 74,
+    "win_count": 57,
+    "rank": 62548,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
