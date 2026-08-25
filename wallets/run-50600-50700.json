@@ -1182,5 +1182,21 @@
     "win_count": 24,
     "rank": 50675,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5bef611f739cd6f4065993413c99fe9ec39de666",
+    "trader_name": "KennedyMichelson",
+    "tag": "Overall",
+    "overall_gain": 1455.1254689999996,
+    "active_positions": 116,
+    "win_amount": 29996.281827999996,
+    "loss_amount": -28541.156359,
+    "win_rate": 0.536,
+    "total_current_value": 0,
+    "total_positions": 250,
+    "event_ct": 250,
+    "win_count": 134,
+    "rank": 50676,
+    "trader_tags": ""
   }
 ]
