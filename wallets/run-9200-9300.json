@@ -1374,5 +1374,21 @@
     "win_count": 68,
     "rank": 9286,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x43d7e43e7b5feb51b9b6afa6a6d16df110b0c453",
+    "trader_name": "gozel12",
+    "tag": "Overall",
+    "overall_gain": 11290.208996095495,
+    "active_positions": 1,
+    "win_amount": 17468.211520978955,
+    "loss_amount": -6178.002524883465,
+    "win_rate": 0.5142857142857142,
+    "total_current_value": 400.7260226935001,
+    "total_positions": 748,
+    "event_ct": 280,
+    "win_count": 144,
+    "rank": 9287,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
