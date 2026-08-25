@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 33777,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64df1adc2bf84d3212d04db134d3c0a9a30eab80",
+    "trader_name": "RiskyWhisky",
+    "tag": "Overall",
+    "overall_gain": 2442.7456886774426,
+    "active_positions": 8,
+    "win_amount": 157743.2043854673,
+    "loss_amount": -155300.45869678995,
+    "win_rate": 0.4991769547325103,
+    "total_current_value": 16.553590000000003,
+    "total_positions": 5741,
+    "event_ct": 4860,
+    "win_count": 2426,
+    "rank": 33778,
+    "trader_tags": "1k+ Positions"
   }
 ]
