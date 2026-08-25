@@ -734,5 +734,21 @@
     "win_count": 15,
     "rank": 33647,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f17ef34386bd832a4f86a6e412022c6210afecb",
+    "trader_name": "Keer",
+    "tag": "Overall",
+    "overall_gain": 2453.296913968038,
+    "active_positions": 3,
+    "win_amount": 3749.6161377085073,
+    "loss_amount": -1296.319223740469,
+    "win_rate": 0.76,
+    "total_current_value": 0.07891,
+    "total_positions": 27,
+    "event_ct": 25,
+    "win_count": 19,
+    "rank": 33648,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
