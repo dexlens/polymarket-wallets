@@ -830,5 +830,21 @@
     "win_count": 1,
     "rank": 43353,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3a11edfd191628c8b9887cf07a5fc5f8ac746df2",
+    "trader_name": "Leiox",
+    "tag": "Overall",
+    "overall_gain": 1801.4086011695501,
+    "active_positions": 6,
+    "win_amount": 4560.076774145445,
+    "loss_amount": -2758.668172975894,
+    "win_rate": 0.453125,
+    "total_current_value": 0.10575099999999998,
+    "total_positions": 109,
+    "event_ct": 64,
+    "win_count": 29,
+    "rank": 43354,
+    "trader_tags": "> 1 year old"
   }
 ]
