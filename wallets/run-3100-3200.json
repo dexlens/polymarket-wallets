@@ -1038,5 +1038,21 @@
     "win_count": 24,
     "rank": 3165,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x592359886d58f022bb37d05ae0057e7afd57a3f7",
+    "trader_name": "botLecter",
+    "tag": "Overall",
+    "overall_gain": 36199.16779764646,
+    "active_positions": 119,
+    "win_amount": 70772.80058031532,
+    "loss_amount": -34573.63278266891,
+    "win_rate": 0.5497408047395704,
+    "total_current_value": 19346.597451606,
+    "total_positions": 8219,
+    "event_ct": 4051,
+    "win_count": 2227,
+    "rank": 3166,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
