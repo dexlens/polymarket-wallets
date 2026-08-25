@@ -30,5 +30,21 @@
     "win_count": 28,
     "rank": 22202,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x65b0c6eaf084219d72167739cdb46aa0aed72875",
+    "trader_name": "grabirate",
+    "tag": "Overall",
+    "overall_gain": 4076.0216659564812,
+    "active_positions": 7,
+    "win_amount": 6326.3879977311435,
+    "loss_amount": -2250.366331774662,
+    "win_rate": 0.6175395858708892,
+    "total_current_value": 0.032609,
+    "total_positions": 1635,
+    "event_ct": 821,
+    "win_count": 507,
+    "rank": 22203,
+    "trader_tags": "1k+ Positions"
   }
 ]
