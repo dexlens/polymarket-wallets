@@ -110,5 +110,21 @@
     "win_count": 2,
     "rank": 74008,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x073130a5689ee22339811d5d3a59a1b29bf6a102",
+    "trader_name": "rington",
+    "tag": "Overall",
+    "overall_gain": 728.23286313957,
+    "active_positions": 0,
+    "win_amount": 728.23286313957,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009735,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 74009,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
