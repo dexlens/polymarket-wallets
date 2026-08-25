@@ -1198,5 +1198,21 @@
     "win_count": 7,
     "rank": 3175,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3257501508b82c2f7aeb914088b6ed089f362f3b",
+    "trader_name": "sportbetss",
+    "tag": "Overall",
+    "overall_gain": 36100.77445235796,
+    "active_positions": 10,
+    "win_amount": 869143.4208445508,
+    "loss_amount": -833042.6463921929,
+    "win_rate": 0.6020725388601036,
+    "total_current_value": 13051.565696708,
+    "total_positions": 1118,
+    "event_ct": 965,
+    "win_count": 581,
+    "rank": 3176,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
