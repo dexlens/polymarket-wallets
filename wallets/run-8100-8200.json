@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 8132,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04f77f740822669d8abce04c5fdaf2c1b21d184a",
+    "trader_name": "crawMetox",
+    "tag": "Overall",
+    "overall_gain": 12937.929029376175,
+    "active_positions": 19,
+    "win_amount": 13299.018289415397,
+    "loss_amount": -361.08926003922113,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 38.584704389,
+    "total_positions": 46,
+    "event_ct": 24,
+    "win_count": 16,
+    "rank": 8133,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
