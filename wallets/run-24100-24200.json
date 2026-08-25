@@ -1518,5 +1518,21 @@
     "win_count": 4,
     "rank": 24196,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x792348b19053b57a912497eddc3529c7de3b4460",
+    "trader_name": "Dauphin",
+    "tag": "Overall",
+    "overall_gain": 3685.4716628898104,
+    "active_positions": 4,
+    "win_amount": 4074.9034959591277,
+    "loss_amount": -389.431833069317,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.07426100000000001,
+    "total_positions": 33,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 24197,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
