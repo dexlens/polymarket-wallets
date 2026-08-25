@@ -558,5 +558,21 @@
     "win_count": 9,
     "rank": 1335,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4eefdace58cb68839530ff98ec567c7fc41d3fcb",
+    "trader_name": "COLBY451",
+    "tag": "Overall",
+    "overall_gain": 90485.66791482973,
+    "active_positions": 12,
+    "win_amount": 266603.9156111736,
+    "loss_amount": -176118.24769634393,
+    "win_rate": 0.8672566371681416,
+    "total_current_value": 76130.71588081501,
+    "total_positions": 124,
+    "event_ct": 113,
+    "win_count": 98,
+    "rank": 1336,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
