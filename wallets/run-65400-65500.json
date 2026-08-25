@@ -894,5 +894,21 @@
     "win_count": 39,
     "rank": 65457,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80d7b6782f299303eab9261c447e2de7cdcbc403",
+    "trader_name": "folios",
+    "tag": "Overall",
+    "overall_gain": 931.5326892999998,
+    "active_positions": 1,
+    "win_amount": 931.5326892999998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 75.0001,
+    "total_positions": 52,
+    "event_ct": 45,
+    "win_count": 45,
+    "rank": 65458,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
