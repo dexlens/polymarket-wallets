@@ -638,5 +638,21 @@
     "win_count": 2,
     "rank": 54141,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x342a02b4d22fab0740ac6e8eb842aa886e5a9395",
+    "trader_name": "0xGlen",
+    "tag": "Overall",
+    "overall_gain": 1296.8670701907265,
+    "active_positions": 11,
+    "win_amount": 1528.476456084672,
+    "loss_amount": -231.60938589394559,
+    "win_rate": 0.8589743589743589,
+    "total_current_value": 10153.681283285,
+    "total_positions": 101,
+    "event_ct": 78,
+    "win_count": 67,
+    "rank": 54142,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
