@@ -1102,5 +1102,21 @@
     "win_count": 4,
     "rank": 10869,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7cc98bd686c5b7941502609826d14baea0d7b8a8",
+    "trader_name": "FabulousCar",
+    "tag": "Overall",
+    "overall_gain": 9718.05211691567,
+    "active_positions": 83,
+    "win_amount": 52268.55414060982,
+    "loss_amount": -42550.50202369415,
+    "win_rate": 0.4857142857142857,
+    "total_current_value": 10541.918389492004,
+    "total_positions": 383,
+    "event_ct": 280,
+    "win_count": 136,
+    "rank": 10870,
+    "trader_tags": "> 1 year old"
   }
 ]
