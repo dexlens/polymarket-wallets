@@ -638,5 +638,21 @@
     "win_count": 118,
     "rank": 85641,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x57ea04cdf02731d1df7d55286ce5dbaae04bb601",
+    "trader_name": "Pulpo94",
+    "tag": "Overall",
+    "overall_gain": 543.646013078784,
+    "active_positions": 2,
+    "win_amount": 1223.6449060432249,
+    "loss_amount": -679.9988929644409,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.01933,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 85642,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
