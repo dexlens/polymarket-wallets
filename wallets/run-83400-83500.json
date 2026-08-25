@@ -798,5 +798,21 @@
     "win_count": 35,
     "rank": 83451,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x425ffebd7a6ba1c0f1e6c754532e9c9fb822405d",
+    "trader_name": "blueturnip",
+    "tag": "Overall",
+    "overall_gain": 575.03512608018,
+    "active_positions": 0,
+    "win_amount": 575.03512608018,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00018,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 83452,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
