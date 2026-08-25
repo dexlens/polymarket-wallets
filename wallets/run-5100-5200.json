@@ -142,5 +142,21 @@
     "win_count": 1,
     "rank": 5109,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d10a7ce19473a2c2a265fa5e4a35919266084f0",
+    "trader_name": "ponzinomic",
+    "tag": "Overall",
+    "overall_gain": 21200.172042957747,
+    "active_positions": 0,
+    "win_amount": 21399.16275280903,
+    "loss_amount": -198.99070985128,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.0102,
+    "total_positions": 14,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 5110,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
