@@ -798,5 +798,21 @@
     "win_count": 13,
     "rank": 6650,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54052b94f549a4e4b73abfec38f820cd259941b2",
+    "trader_name": "imdatn",
+    "tag": "Overall",
+    "overall_gain": 16142.961093219741,
+    "active_positions": 0,
+    "win_amount": 16143.052074152924,
+    "loss_amount": -0.090980933183,
+    "win_rate": 0.8,
+    "total_current_value": 0.044187,
+    "total_positions": 18,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 6651,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
