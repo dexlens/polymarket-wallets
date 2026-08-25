@@ -1486,5 +1486,21 @@
     "win_count": 13,
     "rank": 19293,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x022e626e7a8de2603fd771e7c91e0251ee1ef9f5",
+    "trader_name": "JG123",
+    "tag": "Overall",
+    "overall_gain": 4813.548973567163,
+    "active_positions": 2,
+    "win_amount": 6010.197433,
+    "loss_amount": -1196.648459432838,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 19294,
+    "trader_tags": ""
   }
 ]
