@@ -158,5 +158,21 @@
     "win_count": 9,
     "rank": 9110,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2e2aae89c3a4381011c2538d9f765e06ed704494",
+    "trader_name": "ClarkCarter",
+    "tag": "Overall",
+    "overall_gain": 11500.073990626452,
+    "active_positions": 32,
+    "win_amount": 28950.137680207445,
+    "loss_amount": -17450.06368958099,
+    "win_rate": 0.7213114754098361,
+    "total_current_value": 21.042241391999998,
+    "total_positions": 62,
+    "event_ct": 61,
+    "win_count": 44,
+    "rank": 9111,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
