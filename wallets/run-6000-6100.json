@@ -878,5 +878,21 @@
     "win_count": 17,
     "rank": 6055,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xea9e60763ce2e27294d869f2fd24020b5188d3fb",
+    "trader_name": "IForgiveYou",
+    "tag": "Overall",
+    "overall_gain": 17716.4604377481,
+    "active_positions": 591,
+    "win_amount": 114278.50180110808,
+    "loss_amount": -96562.04136336005,
+    "win_rate": 0.4445994976276863,
+    "total_current_value": 15523.979248927997,
+    "total_positions": 14670,
+    "event_ct": 7166,
+    "win_count": 3186,
+    "rank": 6056,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
