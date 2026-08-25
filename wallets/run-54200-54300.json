@@ -302,5 +302,21 @@
     "win_count": 3,
     "rank": 54220,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1c02dd7d794d27682774b4d8cc6f061bc4dad7dc",
+    "trader_name": "gdplabs",
+    "tag": "Overall",
+    "overall_gain": 1293.89330990333,
+    "active_positions": 18,
+    "win_amount": 1597.5197880721316,
+    "loss_amount": -303.62647816880104,
+    "win_rate": 0.7276785714285714,
+    "total_current_value": 88.77014555899999,
+    "total_positions": 1705,
+    "event_ct": 448,
+    "win_count": 326,
+    "rank": 54221,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
