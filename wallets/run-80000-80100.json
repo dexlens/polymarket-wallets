@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 80054,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c433c20916a94ba321c8c71fc27cbe7e53b1bc3",
+    "trader_name": "aoliao",
+    "tag": "Overall",
+    "overall_gain": 629.8287121250003,
+    "active_positions": 2,
+    "win_amount": 651.6160901250001,
+    "loss_amount": -21.787378,
+    "win_rate": 0.704225352112676,
+    "total_current_value": 13.268518125000002,
+    "total_positions": 80,
+    "event_ct": 71,
+    "win_count": 50,
+    "rank": 80055,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
