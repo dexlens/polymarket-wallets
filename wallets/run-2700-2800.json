@@ -510,5 +510,21 @@
     "win_count": 64,
     "rank": 2732,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9cdda449d7cedf1072d74982a5dc2349df3d3e97",
+    "trader_name": "Robbb",
+    "tag": "Overall",
+    "overall_gain": 42534.01367998007,
+    "active_positions": 280,
+    "win_amount": 90800.9616048527,
+    "loss_amount": -48266.94792487265,
+    "win_rate": 0.6916167664670658,
+    "total_current_value": 47409.016306041005,
+    "total_positions": 2221,
+    "event_ct": 1002,
+    "win_count": 693,
+    "rank": 2733,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
