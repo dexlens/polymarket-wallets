@@ -798,5 +798,21 @@
     "win_count": 6,
     "rank": 68351,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xa22af9ff846553e76df70e6ef4655ba67306b662",
+    "trader_name": "FRASA",
+    "tag": "Overall",
+    "overall_gain": 852.1363885290132,
+    "active_positions": 1,
+    "win_amount": 1355.1310023347291,
+    "loss_amount": -502.99461380571597,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 0.020654,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 13,
+    "rank": 68352,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
