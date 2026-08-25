@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 62990,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7435da66d4a01ff242728e51c248a68ca782e0d",
+    "trader_name": "EliClement",
+    "tag": "Overall",
+    "overall_gain": 999.3148242778842,
+    "active_positions": 24,
+    "win_amount": 11000.314771273606,
+    "loss_amount": -10000.999946995722,
+    "win_rate": 0.6612903225806451,
+    "total_current_value": 4.04643575,
+    "total_positions": 65,
+    "event_ct": 62,
+    "win_count": 41,
+    "rank": 62991,
+    "trader_tags": ""
   }
 ]
