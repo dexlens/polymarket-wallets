@@ -1182,5 +1182,21 @@
     "win_count": 9,
     "rank": 7974,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xff51f548ee6e110d085a8204271b075d044fced1",
+    "trader_name": "Qirvan",
+    "tag": "Overall",
+    "overall_gain": 13164.984191244994,
+    "active_positions": 9,
+    "win_amount": 13892.771056529793,
+    "loss_amount": -727.7868652847999,
+    "win_rate": 0.8536585365853658,
+    "total_current_value": 110.49579,
+    "total_positions": 43,
+    "event_ct": 41,
+    "win_count": 35,
+    "rank": 7975,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
