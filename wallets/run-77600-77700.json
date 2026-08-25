@@ -814,5 +814,21 @@
     "win_count": 2,
     "rank": 77652,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x44ba100aeab200c6e62c906a059f4b1c781ac341",
+    "trader_name": "xindupu",
+    "tag": "Overall",
+    "overall_gain": 669.9886221726449,
+    "active_positions": 16,
+    "win_amount": 704.59848324341,
+    "loss_amount": -34.609861070765,
+    "win_rate": 0.7966101694915254,
+    "total_current_value": 45.636189,
+    "total_positions": 62,
+    "event_ct": 59,
+    "win_count": 47,
+    "rank": 77653,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
