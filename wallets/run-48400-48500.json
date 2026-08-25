@@ -814,5 +814,21 @@
     "win_count": 3,
     "rank": 48452,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x669d0989d7ef35f5fcad0b7453ef1e7340e6874a",
+    "trader_name": "XIBAIX",
+    "tag": "Overall",
+    "overall_gain": 1551.502087249696,
+    "active_positions": 14,
+    "win_amount": 5157.6139919290745,
+    "loss_amount": -3606.111904679376,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.09368,
+    "total_positions": 189,
+    "event_ct": 143,
+    "win_count": 110,
+    "rank": 48453,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
