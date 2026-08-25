@@ -734,5 +734,21 @@
     "win_count": 9,
     "rank": 31247,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8843a91475a08b0dccbd67453153af5ff948c7ad",
+    "trader_name": "ssqwa",
+    "tag": "Overall",
+    "overall_gain": 2675.63042,
+    "active_positions": 0,
+    "win_amount": 2682.0348,
+    "loss_amount": -6.40438,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 31248,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
