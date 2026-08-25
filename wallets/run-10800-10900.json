@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 10839,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8e2d4d0939e4b5fa2d66724dd2a43f039146631f",
+    "trader_name": "Steve-O",
+    "tag": "Overall",
+    "overall_gain": 9742.118449857782,
+    "active_positions": 3,
+    "win_amount": 11091.182646258447,
+    "loss_amount": -1349.0641964006638,
+    "win_rate": 0.6,
+    "total_current_value": 12718.428584984998,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 10840,
+    "trader_tags": "> 1 year old"
   }
 ]
