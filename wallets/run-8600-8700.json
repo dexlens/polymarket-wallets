@@ -686,5 +686,21 @@
     "win_count": 13,
     "rank": 8643,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8510dd0ef5aeaa6c59f694d81b4d292ee15fed21",
+    "trader_name": "xvswensby",
+    "tag": "Overall",
+    "overall_gain": 12120.264341590251,
+    "active_positions": 2,
+    "win_amount": 12185.791122724604,
+    "loss_amount": -65.526781134352,
+    "win_rate": 0.5,
+    "total_current_value": 0.053097000000000005,
+    "total_positions": 37,
+    "event_ct": 16,
+    "win_count": 8,
+    "rank": 8644,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
