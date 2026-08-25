@@ -734,5 +734,21 @@
     "win_count": 3,
     "rank": 9246,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd1fa9cfedb5f93fff74e1ec9f3177a8d27ddae2e",
+    "trader_name": "tuczky",
+    "tag": "Overall",
+    "overall_gain": 11340.164019464532,
+    "active_positions": 5,
+    "win_amount": 24327.362125,
+    "loss_amount": -12987.198105535468,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 9247,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
