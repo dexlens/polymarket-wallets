@@ -414,5 +414,21 @@
     "win_count": 14,
     "rank": 53727,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2bc53bbd26250735b3860304706e51e7f97406d5",
+    "trader_name": "BMTH",
+    "tag": "Overall",
+    "overall_gain": 1314.504618521165,
+    "active_positions": 0,
+    "win_amount": 19656.478062001304,
+    "loss_amount": -18341.97344348014,
+    "win_rate": 0.6818181818181818,
+    "total_current_value": 0.093502,
+    "total_positions": 27,
+    "event_ct": 22,
+    "win_count": 15,
+    "rank": 53728,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
