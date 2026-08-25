@@ -942,5 +942,21 @@
     "win_count": 7,
     "rank": 26360,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2690ba9cab0c91298cace568695b927647acf105",
+    "trader_name": "Aeestas",
+    "tag": "Overall",
+    "overall_gain": 3313.5,
+    "active_positions": 1,
+    "win_amount": 3674.5,
+    "loss_amount": -361,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 26361,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
