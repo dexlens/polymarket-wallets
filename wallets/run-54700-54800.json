@@ -702,5 +702,21 @@
     "win_count": 3,
     "rank": 54745,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3cec668902a9dd0670ba2a229b2e0a925c5137ac",
+    "trader_name": "remremrem",
+    "tag": "Overall",
+    "overall_gain": 1270.0624921750334,
+    "active_positions": 4,
+    "win_amount": 3151.066849985,
+    "loss_amount": -1881.004357809967,
+    "win_rate": 0.5,
+    "total_current_value": 2118.781654565,
+    "total_positions": 22,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 54746,
+    "trader_tags": ""
   }
 ]
