@@ -510,5 +510,21 @@
     "win_count": 3,
     "rank": 16532,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f9205cae63a815b5c906900dcd7f748a5be983d",
+    "trader_name": "glebomoney",
+    "tag": "Overall",
+    "overall_gain": 5762.999995196014,
+    "active_positions": 0,
+    "win_amount": 8474.393300196016,
+    "loss_amount": -2711.393305,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 0.003225,
+    "total_positions": 35,
+    "event_ct": 34,
+    "win_count": 30,
+    "rank": 16533,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
