@@ -33,7 +33,11 @@ for (const wallet of realdata.slice(0, 3)) {
     stderr: "piped"
   });
   await p.status();
+<<<<<<< HEAD
   const commitMessage = `Add wallet ${address}`;
+=======
+  const commitMessage = `Add wallet ${address} to thisrun.json`;
+>>>>>>> 3286ae703e6951f5212656081dd7fa78abf3178c
   const c = Deno.run({
     cmd: ["git", "commit", "-m", commitMessage],
     stdout: "piped",
