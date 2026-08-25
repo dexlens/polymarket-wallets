@@ -414,5 +414,21 @@
     "win_count": 8,
     "rank": 7926,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x8740bd5653381dfef90bbda456e871a54c676fac",
+    "trader_name": "ENR993",
+    "tag": "Overall",
+    "overall_gain": 13268.45564812534,
+    "active_positions": 258,
+    "win_amount": 13441.425244125341,
+    "loss_amount": -172.969596,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 7683.3890564505,
+    "total_positions": 418,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 7927,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
