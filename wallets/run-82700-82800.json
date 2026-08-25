@@ -702,5 +702,21 @@
     "win_count": 32,
     "rank": 82745,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x164d46860978d2463d72858362048e128d60ed97",
+    "trader_name": "98jiuba",
+    "tag": "Overall",
+    "overall_gain": 586.448466997833,
+    "active_positions": 4,
+    "win_amount": 591.73807,
+    "loss_amount": -5.289603002167,
+    "win_rate": 0.918918918918919,
+    "total_current_value": 3.2928330000000003,
+    "total_positions": 41,
+    "event_ct": 37,
+    "win_count": 34,
+    "rank": 82746,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
