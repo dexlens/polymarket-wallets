@@ -1246,5 +1246,21 @@
     "win_count": 4,
     "rank": 4378,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x57cd404102315fcfae7be17848f9d393d049b6a9",
+    "trader_name": "NONSTOPPRAYING",
+    "tag": "Overall",
+    "overall_gain": 25375.145112931066,
+    "active_positions": 13,
+    "win_amount": 67889.94121925165,
+    "loss_amount": -42514.7961063206,
+    "win_rate": 0.875,
+    "total_current_value": 22.054609999999997,
+    "total_positions": 94,
+    "event_ct": 40,
+    "win_count": 35,
+    "rank": 4379,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
