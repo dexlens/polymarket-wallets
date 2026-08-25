@@ -1102,5 +1102,21 @@
     "win_count": 5,
     "rank": 9369,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4df685a9e98ca0a95ce54982b1ac7a036d52ded4",
+    "trader_name": "Toly",
+    "tag": "Overall",
+    "overall_gain": 11183.166267662667,
+    "active_positions": 4,
+    "win_amount": 11204.505637662667,
+    "loss_amount": -21.339370000000002,
+    "win_rate": 0.9666666666666667,
+    "total_current_value": 14.122165999999998,
+    "total_positions": 100,
+    "event_ct": 30,
+    "win_count": 29,
+    "rank": 9370,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
