@@ -446,5 +446,21 @@
     "win_count": 563,
     "rank": 3328,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x168b100d7a6620a2f49a455344c2c006eaf1714b",
+    "trader_name": "Chiwawas",
+    "tag": "Overall",
+    "overall_gain": 34352.42026518227,
+    "active_positions": 0,
+    "win_amount": 34352.42026518227,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3329,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
