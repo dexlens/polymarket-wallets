@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 42119,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88e61a9890ebeb151b297641896d543121480b86",
+    "trader_name": "forecasst",
+    "tag": "Overall",
+    "overall_gain": 1870.2152069999993,
+    "active_positions": 0,
+    "win_amount": 2514.1359580000003,
+    "loss_amount": -643.920751,
+    "win_rate": 0.9,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 20,
+    "win_count": 18,
+    "rank": 42120,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
