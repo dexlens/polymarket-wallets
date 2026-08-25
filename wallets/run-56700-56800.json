@@ -414,5 +414,21 @@
     "win_count": 10,
     "rank": 56727,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xde3c5c44fd3ba3f3fc4751feb3db416341e76465",
+    "trader_name": "Moetoo",
+    "tag": "Overall",
+    "overall_gain": 1190.118507484009,
+    "active_positions": 0,
+    "win_amount": 1190.118507484009,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008675,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 56728,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
