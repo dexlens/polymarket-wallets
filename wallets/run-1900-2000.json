@@ -990,5 +990,21 @@
     "win_count": 112,
     "rank": 1962,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b2c123bceec0c3d0fd206a19c283af65932af48",
+    "trader_name": "rox119",
+    "tag": "Overall",
+    "overall_gain": 61422.26731767214,
+    "active_positions": 3948,
+    "win_amount": 2230786.5435842415,
+    "loss_amount": -2169364.2762665693,
+    "win_rate": 0.5135268076733891,
+    "total_current_value": 81565.96977134497,
+    "total_positions": 13617,
+    "event_ct": 6099,
+    "win_count": 3132,
+    "rank": 1963,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
