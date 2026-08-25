@@ -526,5 +526,21 @@
     "win_count": 12,
     "rank": 10133,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2ce36bb42acf2e728934d3af049176f1ae6f966b",
+    "trader_name": "jefefe88",
+    "tag": "Overall",
+    "overall_gain": 10365.709161037988,
+    "active_positions": 16,
+    "win_amount": 14756.25897759562,
+    "loss_amount": -4390.54981655763,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 21011.062273575004,
+    "total_positions": 29,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 10134,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
