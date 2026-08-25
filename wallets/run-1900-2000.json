@@ -382,5 +382,21 @@
     "win_count": 110,
     "rank": 1924,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x68c9623b8224c66632aded8159b7111614404c60",
+    "trader_name": "500AndADream",
+    "tag": "Overall",
+    "overall_gain": 62744.698156821025,
+    "active_positions": 7,
+    "win_amount": 89298.95204579331,
+    "loss_amount": -26554.25388897232,
+    "win_rate": 0.7611111111111111,
+    "total_current_value": 1.7001177875000002,
+    "total_positions": 471,
+    "event_ct": 180,
+    "win_count": 137,
+    "rank": 1925,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
