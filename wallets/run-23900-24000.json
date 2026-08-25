@@ -382,5 +382,21 @@
     "win_count": 5,
     "rank": 23925,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f118afb9c63b595fc765b42b9de4470636d5ed0",
+    "trader_name": "latentedge",
+    "tag": "Overall",
+    "overall_gain": 3732.97242350695,
+    "active_positions": 702,
+    "win_amount": 42060.483846232644,
+    "loss_amount": -38327.51142272569,
+    "win_rate": 0.4270880361173815,
+    "total_current_value": 1539.425739093,
+    "total_positions": 2330,
+    "event_ct": 2215,
+    "win_count": 946,
+    "rank": 23926,
+    "trader_tags": "1k+ Positions"
   }
 ]
