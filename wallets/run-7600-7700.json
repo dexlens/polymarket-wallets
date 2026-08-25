@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 7613,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5bac1195e26b91fae3ffc201eb4b18737485d28c",
+    "trader_name": "Seravi",
+    "tag": "Overall",
+    "overall_gain": 13902.590867994273,
+    "active_positions": 4,
+    "win_amount": 14630.241050994273,
+    "loss_amount": -727.650183,
+    "win_rate": 0.8,
+    "total_current_value": 8.970272,
+    "total_positions": 32,
+    "event_ct": 30,
+    "win_count": 24,
+    "rank": 7614,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
