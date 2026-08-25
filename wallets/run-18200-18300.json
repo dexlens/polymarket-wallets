@@ -1070,5 +1070,21 @@
     "win_count": 16,
     "rank": 18267,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4026fb1514608cf364057740fe7b590ece2dbd20",
+    "trader_name": "Cressidablack",
+    "tag": "Overall",
+    "overall_gain": 5093.553097582847,
+    "active_positions": 6,
+    "win_amount": 5098.553086585292,
+    "loss_amount": -4.999989002445,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 20.1533499565,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 13,
+    "rank": 18268,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
