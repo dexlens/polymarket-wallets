@@ -622,5 +622,21 @@
     "win_count": 5,
     "rank": 40140,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a3fb8cf992de296b432cfa619618563e812a807",
+    "trader_name": "chendaozi",
+    "tag": "Overall",
+    "overall_gain": 1986.9068789648031,
+    "active_positions": 48,
+    "win_amount": 3786.19982871572,
+    "loss_amount": -1799.2929497509172,
+    "win_rate": 0.2727272727272727,
+    "total_current_value": 66.53777140999999,
+    "total_positions": 70,
+    "event_ct": 33,
+    "win_count": 9,
+    "rank": 40141,
+    "trader_tags": ""
   }
 ]
