@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 32091,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ed351e3de00006ba9d60627c094fcbfd34dfedb",
+    "trader_name": "BigMike2024",
+    "tag": "Overall",
+    "overall_gain": 2591.4588443558773,
+    "active_positions": 5,
+    "win_amount": 3500.735076188068,
+    "loss_amount": -909.27623183219,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.033713,
+    "total_positions": 20,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 32092,
+    "trader_tags": "> 1 year old"
   }
 ]
