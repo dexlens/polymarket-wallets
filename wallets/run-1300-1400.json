@@ -110,5 +110,21 @@
     "win_count": 2,
     "rank": 1307,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08458f7e9d2858027de579e4c3ca305475496b6f",
+    "trader_name": "GollumGekko",
+    "tag": "Overall",
+    "overall_gain": 92492.73842199163,
+    "active_positions": 507,
+    "win_amount": 120813.49701535446,
+    "loss_amount": -28320.758593362865,
+    "win_rate": 0.8301043219076006,
+    "total_current_value": 179443.5286803624,
+    "total_positions": 3131,
+    "event_ct": 1342,
+    "win_count": 1114,
+    "rank": 1308,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
