@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 57884,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdbbcae312197f548fd4d1b3a12acfe54ecd7ef69",
+    "trader_name": "lastchancetosurvive",
+    "tag": "Overall",
+    "overall_gain": 1147.4400545680446,
+    "active_positions": 0,
+    "win_amount": 18799.377221393126,
+    "loss_amount": -17651.937166825082,
+    "win_rate": 0.972356935014549,
+    "total_current_value": 0.16785599999999995,
+    "total_positions": 5908,
+    "event_ct": 4124,
+    "win_count": 4010,
+    "rank": 57885,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
