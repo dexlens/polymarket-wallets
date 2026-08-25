@@ -1070,5 +1070,21 @@
     "win_count": 10,
     "rank": 13867,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x359a71dc80b5331747d5d378c181e13f7bd32ecd",
+    "trader_name": "Nebulagr",
+    "tag": "Overall",
+    "overall_gain": 7115.5,
+    "active_positions": 1,
+    "win_amount": 9315.5,
+    "loss_amount": -2200,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 13868,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
