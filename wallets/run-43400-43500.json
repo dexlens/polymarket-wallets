@@ -430,5 +430,21 @@
     "win_count": 25,
     "rank": 43428,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91f737daee16f10fdf29ab75125ce558ecfc360b",
+    "trader_name": "AZE2",
+    "tag": "Overall",
+    "overall_gain": 1797.469065859044,
+    "active_positions": 37,
+    "win_amount": 2830.5820659649958,
+    "loss_amount": -1033.113000105952,
+    "win_rate": 0.5,
+    "total_current_value": 0.13403400000000001,
+    "total_positions": 82,
+    "event_ct": 52,
+    "win_count": 26,
+    "rank": 43429,
+    "trader_tags": ""
   }
 ]
