@@ -766,5 +766,21 @@
     "win_count": 328,
     "rank": 83349,
     "trader_tags": "< 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x21fda77bdf0c01605b8537b2fb2e078304425bb1",
+    "trader_name": "yjaerhtstrh",
+    "tag": "Overall",
+    "overall_gain": 576.676141783775,
+    "active_positions": 4,
+    "win_amount": 1307.8469309999998,
+    "loss_amount": -731.170789216225,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 83350,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
