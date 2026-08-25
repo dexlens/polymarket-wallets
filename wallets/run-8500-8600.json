@@ -718,5 +718,21 @@
     "win_count": 530,
     "rank": 8545,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x954bde42625d66a5fa20cafcb898d5c8eda1eb22",
+    "trader_name": "hotdogvendor",
+    "tag": "Overall",
+    "overall_gain": 12252.898975290329,
+    "active_positions": 68,
+    "win_amount": 44827.563694674616,
+    "loss_amount": -32574.664719384302,
+    "win_rate": 0.47474747474747475,
+    "total_current_value": 268.91596002800003,
+    "total_positions": 542,
+    "event_ct": 396,
+    "win_count": 188,
+    "rank": 8546,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
