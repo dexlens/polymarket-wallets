@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 31344,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f4afff7ab49c49781b511e96c182e249ae72881",
+    "trader_name": "gabrielzeras",
+    "tag": "Overall",
+    "overall_gain": 2666.534913711357,
+    "active_positions": 13,
+    "win_amount": 6086.868090804872,
+    "loss_amount": -3420.3331770935147,
+    "win_rate": 0.48148148148148145,
+    "total_current_value": 0.004872,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 13,
+    "rank": 31345,
+    "trader_tags": ""
   }
 ]
