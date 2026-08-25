@@ -78,5 +78,21 @@
     "win_count": 24,
     "rank": 2005,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x73c5701afdefba2814193168448b2992306b2f80",
+    "trader_name": "n.magas",
+    "tag": "Overall",
+    "overall_gain": 60288.77318507161,
+    "active_positions": 1,
+    "win_amount": 94936.1983603642,
+    "loss_amount": -34647.425175292614,
+    "win_rate": 0.6305220883534136,
+    "total_current_value": 3212.151362,
+    "total_positions": 489,
+    "event_ct": 249,
+    "win_count": 157,
+    "rank": 2006,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
