@@ -1358,5 +1358,21 @@
     "win_count": 73,
     "rank": 27886,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x047785bdf8fc7391ae494ae110fe0d5f3aa24c78",
+    "trader_name": "Stsform",
+    "tag": "Overall",
+    "overall_gain": 3082,
+    "active_positions": 2,
+    "win_amount": 3778.5,
+    "loss_amount": -696.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 27887,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
