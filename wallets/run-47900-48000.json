@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 47975,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13f2ba30573dcca57042e452c8e05f351a8a05ec",
+    "trader_name": "TBGHJ",
+    "tag": "Overall",
+    "overall_gain": 1573.585328003333,
+    "active_positions": 3,
+    "win_amount": 1613.38,
+    "loss_amount": -39.794671996667,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.034104,
+    "total_positions": 19,
+    "event_ct": 14,
+    "win_count": 6,
+    "rank": 47976,
+    "trader_tags": ""
   }
 ]
