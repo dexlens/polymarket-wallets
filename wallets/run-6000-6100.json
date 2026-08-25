@@ -814,5 +814,21 @@
     "win_count": 5,
     "rank": 6051,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf40a40f7a4d6fdff0e2a8518d52621eaee353bce",
+    "trader_name": "BezosXElon",
+    "tag": "Overall",
+    "overall_gain": 17733.116486129486,
+    "active_positions": 0,
+    "win_amount": 17733.116486129486,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004952,
+    "total_positions": 108,
+    "event_ct": 30,
+    "win_count": 30,
+    "rank": 6052,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
