@@ -1166,5 +1166,21 @@
     "win_count": 1987,
     "rank": 6273,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x42ff45f2d85e11e1b9e2fe188c379dfdc40e8477",
+    "trader_name": "Rydric",
+    "tag": "Overall",
+    "overall_gain": 17059.562187727228,
+    "active_positions": 6,
+    "win_amount": 17921.992187727228,
+    "loss_amount": -862.4299999999998,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 5.416854,
+    "total_positions": 37,
+    "event_ct": 34,
+    "win_count": 28,
+    "rank": 6274,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
