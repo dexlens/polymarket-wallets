@@ -1582,5 +1582,21 @@
     "win_count": 145,
     "rank": 85400,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33d513f5f4d8df5994abc47ec278fc2567f462e1",
+    "trader_name": "ginger-ale",
+    "tag": "Overall",
+    "overall_gain": 546.6423661256531,
+    "active_positions": 4,
+    "win_amount": 559.9869769546451,
+    "loss_amount": -13.344610828992074,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 3039.85951825,
+    "total_positions": 6,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 85401,
+    "trader_tags": "< 30 days old"
   }
 ]
