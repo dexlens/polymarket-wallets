@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 2399,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5fe14b52584c83c18496914db0b30a28d4510981",
+    "trader_name": "Bitara",
+    "tag": "Overall",
+    "overall_gain": 49225.470991143324,
+    "active_positions": 37,
+    "win_amount": 778663.9855278378,
+    "loss_amount": -729438.514536695,
+    "win_rate": 0.5332225913621262,
+    "total_current_value": 2031.211492,
+    "total_positions": 612,
+    "event_ct": 602,
+    "win_count": 321,
+    "rank": 2400,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
