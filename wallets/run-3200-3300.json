@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 3278,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc1c2b9152088808ede1e84ef05a8c1312e3fe460",
+    "trader_name": "boboboi",
+    "tag": "Overall",
+    "overall_gain": 35013.05085525935,
+    "active_positions": 15,
+    "win_amount": 39678.28246882415,
+    "loss_amount": -4665.2316135648,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 21.021933000000004,
+    "total_positions": 97,
+    "event_ct": 28,
+    "win_count": 26,
+    "rank": 3279,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
