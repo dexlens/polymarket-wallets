@@ -510,5 +510,21 @@
     "win_count": 11,
     "rank": 85233,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd01655651a478ede7bac0c9d9e5aef67bfb7a409",
+    "trader_name": "zhucongba",
+    "tag": "Overall",
+    "overall_gain": 548.8959776322699,
+    "active_positions": 1,
+    "win_amount": 677.6124033691129,
+    "loss_amount": -128.716425736843,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 840.91363496,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 85234,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
