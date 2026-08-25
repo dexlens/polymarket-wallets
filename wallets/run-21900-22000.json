@@ -606,5 +606,21 @@
     "win_count": 23,
     "rank": 21938,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x519ed493ad584b22707eb1b0709cee1a589dedbd",
+    "trader_name": "Tsgr",
+    "tag": "Overall",
+    "overall_gain": 4134.231044648684,
+    "active_positions": 11,
+    "win_amount": 4196.247524010639,
+    "loss_amount": -62.016479361956016,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 258.40594269449997,
+    "total_positions": 13,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 21939,
+    "trader_tags": "< 30 days old"
   }
 ]
