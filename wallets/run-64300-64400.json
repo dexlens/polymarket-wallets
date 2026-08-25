@@ -846,5 +846,21 @@
     "win_count": 11,
     "rank": 64354,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7d10a4891d3ff6e0cf78ff8077f23e8dc7652954",
+    "trader_name": "wudiduomo",
+    "tag": "Overall",
+    "overall_gain": 963.3707620987179,
+    "active_positions": 7,
+    "win_amount": 1254.423143,
+    "loss_amount": -291.05238090128205,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 1.5625,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 22,
+    "rank": 64355,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
