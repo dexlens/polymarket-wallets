@@ -1182,5 +1182,21 @@
     "win_count": 7,
     "rank": 41775,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe96c05bf238b47015afbd9302017e3909e803c52",
+    "trader_name": "yiron",
+    "tag": "Overall",
+    "overall_gain": 1889.3638232552544,
+    "active_positions": 25,
+    "win_amount": 2469.789131301168,
+    "loss_amount": -580.4253080459131,
+    "win_rate": 0.7738095238095238,
+    "total_current_value": 1385.3251699040004,
+    "total_positions": 96,
+    "event_ct": 84,
+    "win_count": 65,
+    "rank": 41776,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
