@@ -958,5 +958,21 @@
     "win_count": 3,
     "rank": 81161,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe8a37d900113f158570c883ab9b7fe3d7a3b801c",
+    "trader_name": "cryptomatka",
+    "tag": "Overall",
+    "overall_gain": 611.5994771286314,
+    "active_positions": 3,
+    "win_amount": 10995.454510012003,
+    "loss_amount": -10383.85503288337,
+    "win_rate": 0.6101694915254238,
+    "total_current_value": 0.11520145000000001,
+    "total_positions": 74,
+    "event_ct": 59,
+    "win_count": 36,
+    "rank": 81162,
+    "trader_tags": ""
   }
 ]
