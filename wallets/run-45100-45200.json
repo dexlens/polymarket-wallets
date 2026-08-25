@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 45123,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x85255a3100713ae273d1aa9bf92d05df8e3e5121",
+    "trader_name": "SugarBullet",
+    "tag": "Overall",
+    "overall_gain": 1707.6829639999999,
+    "active_positions": 4,
+    "win_amount": 2631.442964,
+    "loss_amount": -923.76,
+    "win_rate": 0.8095238095238095,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 17,
+    "rank": 45124,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
