@@ -1454,5 +1454,21 @@
     "win_count": 4,
     "rank": 30092,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x57186c5c90c425402aa64a24170eccb77160db20",
+    "trader_name": "WEnjoyer",
+    "tag": "Overall",
+    "overall_gain": 2809.497741621088,
+    "active_positions": 1,
+    "win_amount": 3170.67210158082,
+    "loss_amount": -361.174359959732,
+    "win_rate": 0.9236276849642004,
+    "total_current_value": 0.06848,
+    "total_positions": 434,
+    "event_ct": 419,
+    "win_count": 387,
+    "rank": 30093,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
