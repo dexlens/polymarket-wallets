@@ -254,5 +254,21 @@
     "win_count": 160,
     "rank": 4116,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa16eb3927e48a9f564b86dbb67fe2dbd4c831d5f",
+    "trader_name": "Landd",
+    "tag": "Overall",
+    "overall_gain": 27210.0029902,
+    "active_positions": 0,
+    "win_amount": 27367.142990199998,
+    "loss_amount": -157.14000000000001,
+    "win_rate": 0.8,
+    "total_current_value": 0.0001,
+    "total_positions": 23,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 4117,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
