@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 35029,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcbaa4f22289f0c42224bf3ae9ff31b7856098f36",
+    "trader_name": "cpsqj",
+    "tag": "Overall",
+    "overall_gain": 2338.9034928922424,
+    "active_positions": 1,
+    "win_amount": 4484.850708999999,
+    "loss_amount": -2145.947216107758,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 35030,
+    "trader_tags": "> 1 year old"
   }
 ]
