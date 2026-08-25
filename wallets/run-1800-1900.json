@@ -430,5 +430,21 @@
     "win_count": 1834,
     "rank": 1827,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xe12a32cf11478540e6a832dc52b84909731dd428",
+    "trader_name": "SMO",
+    "tag": "Overall",
+    "overall_gain": 66905.73487690104,
+    "active_positions": 1,
+    "win_amount": 73052.85695774104,
+    "loss_amount": -6147.12208084,
+    "win_rate": 0.6,
+    "total_current_value": 0.021001000000000002,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 1828,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
