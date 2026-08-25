@@ -1374,5 +1374,21 @@
     "win_count": 7,
     "rank": 15586,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x01a4b8ff7fc23398323b2ce1f0d95333d34d4967",
+    "trader_name": "0xPoni-Elon",
+    "tag": "Overall",
+    "overall_gain": 6188.11342562431,
+    "active_positions": 11,
+    "win_amount": 12715.170106513806,
+    "loss_amount": -6527.056680889495,
+    "win_rate": 0.6808510638297872,
+    "total_current_value": 3010.8441965349994,
+    "total_positions": 214,
+    "event_ct": 94,
+    "win_count": 64,
+    "rank": 15587,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
