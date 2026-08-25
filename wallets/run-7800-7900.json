@@ -1582,5 +1582,21 @@
     "win_count": 15,
     "rank": 7899,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf5755efe9b512d1d12c93bfd57171e7605600791",
+    "trader_name": "Hunbeey26",
+    "tag": "Overall",
+    "overall_gain": 13325.104714217938,
+    "active_positions": 10,
+    "win_amount": 13885.700557496897,
+    "loss_amount": -560.595843278961,
+    "win_rate": 0.3076923076923077,
+    "total_current_value": 0.13837771499999998,
+    "total_positions": 42,
+    "event_ct": 13,
+    "win_count": 4,
+    "rank": 7900,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
