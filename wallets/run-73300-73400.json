@@ -1246,5 +1246,21 @@
     "win_count": 4,
     "rank": 73379,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x2595e6dac588ba4aa661c656b9d36cf69f114525",
+    "trader_name": "crypto-knight",
+    "tag": "Overall",
+    "overall_gain": 737.801080441427,
+    "active_positions": 0,
+    "win_amount": 737.801080441427,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001427,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 73380,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
