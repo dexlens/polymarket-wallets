@@ -1070,5 +1070,21 @@
     "win_count": 9,
     "rank": 13667,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7528d7960c678604795b65a9b00bf93b2a10f44b",
+    "trader_name": "lds101",
+    "tag": "Overall",
+    "overall_gain": 7246.059617000001,
+    "active_positions": 4,
+    "win_amount": 9026.321757000002,
+    "loss_amount": -1780.26214,
+    "win_rate": 0.6785714285714286,
+    "total_current_value": 700,
+    "total_positions": 36,
+    "event_ct": 28,
+    "win_count": 19,
+    "rank": 13668,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
