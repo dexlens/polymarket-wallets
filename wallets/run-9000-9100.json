@@ -222,5 +222,21 @@
     "win_count": 37,
     "rank": 9014,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x3fc7df04d379453bfb7f23be8a0cfe5da9858416",
+    "trader_name": "GaLaMo",
+    "tag": "Overall",
+    "overall_gain": 11626.844443565999,
+    "active_positions": 1,
+    "win_amount": 27357.790861,
+    "loss_amount": -15730.946417433997,
+    "win_rate": 0.6538461538461539,
+    "total_current_value": 50.158485999999996,
+    "total_positions": 56,
+    "event_ct": 52,
+    "win_count": 34,
+    "rank": 9015,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
