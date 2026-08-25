@@ -990,5 +990,21 @@
     "win_count": 20,
     "rank": 16762,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9418446f5fe81ed278061a07fab1d105b21c7f7f",
+    "trader_name": "Vapordew",
+    "tag": "Overall",
+    "overall_gain": 5660.5,
+    "active_positions": 1,
+    "win_amount": 5676,
+    "loss_amount": -15.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 16763,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
