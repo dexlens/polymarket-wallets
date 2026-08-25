@@ -766,5 +766,21 @@
     "win_count": 23,
     "rank": 34549,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x769d6d44d0dc778f8d785d5d22aa377a35d29ca9",
+    "trader_name": "half-danepernest",
+    "tag": "Overall",
+    "overall_gain": 2377.4199999999996,
+    "active_positions": 1,
+    "win_amount": 2377.4199999999996,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 19.26,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 34550,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
