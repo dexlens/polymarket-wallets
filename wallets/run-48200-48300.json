@@ -1342,5 +1342,21 @@
     "win_count": 4,
     "rank": 48285,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2086fed67d2f5821cd271a2a3ddf37fc795282dd",
+    "trader_name": "WDSC",
+    "tag": "Overall",
+    "overall_gain": 1559.4242654373595,
+    "active_positions": 4,
+    "win_amount": 1559.6467304373596,
+    "loss_amount": -0.2224649999999997,
+    "win_rate": 0.9555555555555556,
+    "total_current_value": 358.777432,
+    "total_positions": 59,
+    "event_ct": 45,
+    "win_count": 43,
+    "rank": 48286,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
