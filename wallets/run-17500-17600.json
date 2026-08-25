@@ -286,5 +286,21 @@
     "win_count": 269,
     "rank": 17518,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56b31bdbe7e08b40578b10157a2e7fe2b7acc9b1",
+    "trader_name": "OrcaHunter",
+    "tag": "Overall",
+    "overall_gain": 5351.84,
+    "active_positions": 9,
+    "win_amount": 6497.840000000001,
+    "loss_amount": -1146,
+    "win_rate": 0.6896551724137931,
+    "total_current_value": 0,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 20,
+    "rank": 17519,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
