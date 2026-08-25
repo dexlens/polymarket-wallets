@@ -734,5 +734,21 @@
     "win_count": 188,
     "rank": 8546,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc4ce47603637766c336b1d630ce6c980ce40d70e",
+    "trader_name": "claudiagia",
+    "tag": "Overall",
+    "overall_gain": 12252.582636164558,
+    "active_positions": 3,
+    "win_amount": 12252.582636164558,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 14990.237726203999,
+    "total_positions": 14,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 8547,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
