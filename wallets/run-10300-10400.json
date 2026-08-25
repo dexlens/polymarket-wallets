@@ -478,5 +478,21 @@
     "win_count": 4,
     "rank": 10330,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc3f5d2d54c037d5ab934fb7af0d8a99215e0f05d",
+    "trader_name": "BigShtan",
+    "tag": "Overall",
+    "overall_gain": 10173.31838870476,
+    "active_positions": 0,
+    "win_amount": 12395.830097333972,
+    "loss_amount": -2222.511708629214,
+    "win_rate": 0.4,
+    "total_current_value": 0.019048000000000002,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 10331,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
