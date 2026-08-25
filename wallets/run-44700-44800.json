@@ -718,5 +718,21 @@
     "win_count": 3,
     "rank": 44746,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2aacd459eaea420eb0d7b94c7b03238786c6dfad",
+    "trader_name": "crayven",
+    "tag": "Overall",
+    "overall_gain": 1725.878377254637,
+    "active_positions": 235,
+    "win_amount": 12105.528979068642,
+    "loss_amount": -10379.65060181401,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 8420.991776666502,
+    "total_positions": 588,
+    "event_ct": 357,
+    "win_count": 204,
+    "rank": 44747,
+    "trader_tags": "> 1 year old"
   }
 ]
