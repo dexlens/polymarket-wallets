@@ -910,5 +910,21 @@
     "win_count": 10,
     "rank": 26458,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x022a137fd0517612fe76d337252eb142e5985fbf",
+    "trader_name": "CosmicKeystone",
+    "tag": "Overall",
+    "overall_gain": 3295.5299999999997,
+    "active_positions": 0,
+    "win_amount": 3295.5299999999997,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 26459,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
