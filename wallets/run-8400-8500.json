@@ -526,5 +526,21 @@
     "win_count": 69,
     "rank": 8433,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb984f1ba172bca3c0e1c77afcaaeca71e68c2a41",
+    "trader_name": "0xNimrod",
+    "tag": "Overall",
+    "overall_gain": 12417.129068441855,
+    "active_positions": 41,
+    "win_amount": 26043.918269156424,
+    "loss_amount": -13626.789200714577,
+    "win_rate": 0.3589041095890411,
+    "total_current_value": 71.2305973,
+    "total_positions": 472,
+    "event_ct": 365,
+    "win_count": 131,
+    "rank": 8434,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
