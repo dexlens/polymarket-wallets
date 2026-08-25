@@ -126,5 +126,21 @@
     "win_count": 287,
     "rank": 5208,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4da0209cdc58158b99e7bcb4284a973c589adeb5",
+    "trader_name": "Evaron",
+    "tag": "Overall",
+    "overall_gain": 20794.904237,
+    "active_positions": 3,
+    "win_amount": 21787.350137,
+    "loss_amount": -992.4459,
+    "win_rate": 0.8611111111111112,
+    "total_current_value": 0,
+    "total_positions": 41,
+    "event_ct": 36,
+    "win_count": 31,
+    "rank": 5209,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
