@@ -942,5 +942,21 @@
     "win_count": 5,
     "rank": 4359,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xb4b7ee12ec0f8d62fb821b1a18fe6064b54e3c8b",
+    "trader_name": "BigGuyBigGout",
+    "tag": "Overall",
+    "overall_gain": 25488.815631410038,
+    "active_positions": 2,
+    "win_amount": 207519.9183546,
+    "loss_amount": -182031.10272319004,
+    "win_rate": 0.5621890547263682,
+    "total_current_value": 0.008645,
+    "total_positions": 272,
+    "event_ct": 201,
+    "win_count": 113,
+    "rank": 4360,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
