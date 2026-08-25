@@ -622,5 +622,21 @@
     "win_count": 118,
     "rank": 74240,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32c7c675ee1fed7ea387662ff1910c4627c8d481",
+    "trader_name": "MustWin001",
+    "tag": "Overall",
+    "overall_gain": 724.9756418993389,
+    "active_positions": 8,
+    "win_amount": 1973.704740586365,
+    "loss_amount": -1248.729098687026,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 54.00644000000001,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 14,
+    "rank": 74241,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
