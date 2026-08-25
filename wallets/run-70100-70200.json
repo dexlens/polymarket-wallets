@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 70114,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7cf572ce1d411f368a65649e704e23428ac3a086",
+    "trader_name": "OrangeBet",
+    "tag": "Overall",
+    "overall_gain": 808.169256005236,
+    "active_positions": 0,
+    "win_amount": 979.4575100000001,
+    "loss_amount": -171.288253994764,
+    "win_rate": 0.5,
+    "total_current_value": 0.004844,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 70115,
+    "trader_tags": "> 1 year old"
   }
 ]
