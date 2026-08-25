@@ -430,5 +430,21 @@
     "win_count": 60,
     "rank": 27,
     "trader_tags": "Overall PnL > $1m; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x033a07b3de5947eab4306676ad74eb546da30d50",
+    "trader_name": "RandomGenius",
+    "tag": "Overall",
+    "overall_gain": 3115550.407118868,
+    "active_positions": 0,
+    "win_amount": 3115550.407118868,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 28,
+    "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election ; Politics PnL > $100k"
   }
 ]
