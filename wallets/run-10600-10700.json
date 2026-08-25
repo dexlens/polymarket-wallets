@@ -798,5 +798,21 @@
     "win_count": 7,
     "rank": 10650,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ce546a005e852824393ec9652bec5e3ce5ecc64",
+    "trader_name": "visconti",
+    "tag": "Overall",
+    "overall_gain": 9932.999029103968,
+    "active_positions": 6,
+    "win_amount": 10192.995458244852,
+    "loss_amount": -259.996429140883,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 0.02017,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 11,
+    "rank": 10651,
+    "trader_tags": ""
   }
 ]
