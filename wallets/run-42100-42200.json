@@ -334,5 +334,21 @@
     "win_count": 10,
     "rank": 42122,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x10c83bc4d54959e6909c74f6e57096f30db8e02d",
+    "trader_name": "bobbykeeble",
+    "tag": "Overall",
+    "overall_gain": 1870.0477,
+    "active_positions": 1,
+    "win_amount": 1870.0477,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 15.9,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 42123,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
