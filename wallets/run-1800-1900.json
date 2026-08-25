@@ -446,5 +446,21 @@
     "win_count": 9,
     "rank": 1828,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x61831def99fddf037af3619328a76aec648a18d4",
+    "trader_name": "cryptokitties",
+    "tag": "Overall",
+    "overall_gain": 66903.38146698536,
+    "active_positions": 2,
+    "win_amount": 66903.38146698536,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.040966999999999996,
+    "total_positions": 13,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 1829,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
