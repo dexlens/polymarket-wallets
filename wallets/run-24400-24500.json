@@ -766,5 +766,21 @@
     "win_count": 68,
     "rank": 24449,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x663b15359df5ebe9d1ae5c97a61bedb0640f6a3e",
+    "trader_name": "JzHM",
+    "tag": "Overall",
+    "overall_gain": 3635.5732298737826,
+    "active_positions": 11,
+    "win_amount": 6081.798274530909,
+    "loss_amount": -2446.225044657126,
+    "win_rate": 0.7746478873239436,
+    "total_current_value": 0.313413,
+    "total_positions": 84,
+    "event_ct": 71,
+    "win_count": 55,
+    "rank": 24450,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
