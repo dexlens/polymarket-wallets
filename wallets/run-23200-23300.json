@@ -1566,5 +1566,21 @@
     "win_count": 4,
     "rank": 23298,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x860baab7f31a35278b42ccaadf9e5a76b12ce6a3",
+    "trader_name": "QuietRise",
+    "tag": "Overall",
+    "overall_gain": 3859.515713,
+    "active_positions": 3,
+    "win_amount": 4077.085713,
+    "loss_amount": -217.57,
+    "win_rate": 0.64,
+    "total_current_value": 69.138,
+    "total_positions": 43,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 23299,
+    "trader_tags": "> 1 year old"
   }
 ]
