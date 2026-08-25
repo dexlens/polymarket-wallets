@@ -1534,5 +1534,21 @@
     "win_count": 8,
     "rank": 49797,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x113f600a426bd465f7237badb08a2bd92268ae1a",
+    "trader_name": "audieharrism",
+    "tag": "Overall",
+    "overall_gain": 1492.2956600000002,
+    "active_positions": 1,
+    "win_amount": 1493.1706600000002,
+    "loss_amount": -0.875,
+    "win_rate": 0.8,
+    "total_current_value": 15.925,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 49798,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
