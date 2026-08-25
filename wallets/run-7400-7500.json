@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 7482,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe286489c3d27668a420e72aa78b96db06360bb11",
+    "trader_name": "bluecable",
+    "tag": "Overall",
+    "overall_gain": 14180.4464161433,
+    "active_positions": 3,
+    "win_amount": 16828.2813332009,
+    "loss_amount": -2647.8349170575975,
+    "win_rate": 0.5,
+    "total_current_value": 21105.371590005,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 7483,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
