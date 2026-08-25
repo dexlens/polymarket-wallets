@@ -894,5 +894,21 @@
     "win_count": 10,
     "rank": 6256,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x622edc9f6d9aba7a5cb2b066acc7f905821807ab",
+    "trader_name": "Lion12321",
+    "tag": "Overall",
+    "overall_gain": 17126.61520664188,
+    "active_positions": 8,
+    "win_amount": 376195.1960920945,
+    "loss_amount": -359068.5808854526,
+    "win_rate": 0.5955555555555555,
+    "total_current_value": 17334.043846455,
+    "total_positions": 244,
+    "event_ct": 225,
+    "win_count": 134,
+    "rank": 6257,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
