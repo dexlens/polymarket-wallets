@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 812,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0aae5c4ec45339a64a1dd2fe4ba98c2a19eb251c",
+    "trader_name": "uncleroger",
+    "tag": "Overall",
+    "overall_gain": 154727.2156650244,
+    "active_positions": 9,
+    "win_amount": 264601.59411141684,
+    "loss_amount": -109874.37844639234,
+    "win_rate": 0.7366071428571429,
+    "total_current_value": 27937.660891742,
+    "total_positions": 709,
+    "event_ct": 448,
+    "win_count": 330,
+    "rank": 813,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
