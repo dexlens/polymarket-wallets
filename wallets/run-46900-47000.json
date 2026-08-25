@@ -1070,5 +1070,21 @@
     "win_count": 2,
     "rank": 46968,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8691b8cb8772aa8d7529902fd02438625ac228f5",
+    "trader_name": "radfluke",
+    "tag": "Overall",
+    "overall_gain": 1618.7993433424178,
+    "active_positions": 12,
+    "win_amount": 4324.544087345969,
+    "loss_amount": -2705.7447440035507,
+    "win_rate": 0.6185430463576159,
+    "total_current_value": 13.439803,
+    "total_positions": 6021,
+    "event_ct": 3020,
+    "win_count": 1868,
+    "rank": 46969,
+    "trader_tags": "1k+ Positions"
   }
 ]
