@@ -334,5 +334,21 @@
     "win_count": 18,
     "rank": 19021,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ddc4f3d0b5556714e91e6d6d7c65c1a41782618",
+    "trader_name": "onchain-tracking",
+    "tag": "Overall",
+    "overall_gain": 4890.712857427877,
+    "active_positions": 5,
+    "win_amount": 4964.49143863387,
+    "loss_amount": -73.77858120599302,
+    "win_rate": 0.6,
+    "total_current_value": 0.013873,
+    "total_positions": 15,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 19022,
+    "trader_tags": ""
   }
 ]
