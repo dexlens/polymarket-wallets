@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 68484,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17a35d84fcebccbe122cb124c70d4586954758fa",
+    "trader_name": "princeandrewcharles",
+    "tag": "Overall",
+    "overall_gain": 848.5155644600002,
+    "active_positions": 260,
+    "win_amount": 9652.359530999998,
+    "loss_amount": -8803.84396654,
+    "win_rate": 0.4108352144469526,
+    "total_current_value": 0,
+    "total_positions": 443,
+    "event_ct": 443,
+    "win_count": 182,
+    "rank": 68485,
+    "trader_tags": "< 30 days old"
   }
 ]
