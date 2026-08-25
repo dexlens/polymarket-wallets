@@ -942,5 +942,21 @@
     "win_count": 3,
     "rank": 65260,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x497f563d657f4a512e546501bd83b6fc88e2fe58",
+    "trader_name": "cwc",
+    "tag": "Overall",
+    "overall_gain": 937.3549261996782,
+    "active_positions": 1,
+    "win_amount": 3581.163019507976,
+    "loss_amount": -2643.8080933082974,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.040747,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 65261,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
