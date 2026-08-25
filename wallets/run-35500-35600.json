@@ -1246,5 +1246,21 @@
     "win_count": 2,
     "rank": 35579,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2090e7e52d1e77ca595ab5b5c03e72c197357584",
+    "trader_name": "googgoodme",
+    "tag": "Overall",
+    "overall_gain": 2295.1484036857137,
+    "active_positions": 19,
+    "win_amount": 5348.861065,
+    "loss_amount": -3053.7126613142864,
+    "win_rate": 0.6041666666666666,
+    "total_current_value": 0,
+    "total_positions": 48,
+    "event_ct": 48,
+    "win_count": 29,
+    "rank": 35580,
+    "trader_tags": ""
   }
 ]
