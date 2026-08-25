@@ -766,5 +766,21 @@
     "win_count": 4,
     "rank": 47249,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8abd7e1d8a90dfd87be8f86d8f764a9d8710a8c8",
+    "trader_name": "honed",
+    "tag": "Overall",
+    "overall_gain": 1604.719,
+    "active_positions": 7,
+    "win_amount": 4400.039,
+    "loss_amount": -2795.32,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 17.549999999999997,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 6,
+    "rank": 47250,
+    "trader_tags": ""
   }
 ]
