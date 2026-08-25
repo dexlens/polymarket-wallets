@@ -1310,5 +1310,21 @@
     "win_count": 3,
     "rank": 42983,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1054d9ca4aaa861f4ab0cbc1400b603e60e5e7aa",
+    "trader_name": "AlexPositron",
+    "tag": "Overall",
+    "overall_gain": 1819.970790011638,
+    "active_positions": 42,
+    "win_amount": 1891.9693314726808,
+    "loss_amount": -71.99854146104293,
+    "win_rate": 0.9575971731448764,
+    "total_current_value": 500.2979751090001,
+    "total_positions": 352,
+    "event_ct": 283,
+    "win_count": 271,
+    "rank": 42984,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
