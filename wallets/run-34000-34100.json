@@ -1246,5 +1246,21 @@
     "win_count": 9,
     "rank": 34079,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42e2f4d497df5166b6e95ed1eede41a574a98686",
+    "trader_name": "hisla80",
+    "tag": "Overall",
+    "overall_gain": 2416.95596909,
+    "active_positions": 1,
+    "win_amount": 2769.66062009,
+    "loss_amount": -352.704651,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 16.84219007,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 34080,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
