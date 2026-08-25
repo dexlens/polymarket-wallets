@@ -1566,5 +1566,21 @@
     "win_count": 47,
     "rank": 16698,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf294919e16868d927b0247891543b9187d6e7967",
+    "trader_name": "doil",
+    "tag": "Overall",
+    "overall_gain": 5695.855789470056,
+    "active_positions": 67,
+    "win_amount": 6611.880026559809,
+    "loss_amount": -916.0242370897528,
+    "win_rate": 0.853448275862069,
+    "total_current_value": 5500.7561914355,
+    "total_positions": 447,
+    "event_ct": 232,
+    "win_count": 198,
+    "rank": 16699,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
