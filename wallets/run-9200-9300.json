@@ -1022,5 +1022,21 @@
     "win_count": 6,
     "rank": 9264,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d9b07590128b7d908631240249a9163bad6025b",
+    "trader_name": "Gnomezy",
+    "tag": "Overall",
+    "overall_gain": 11322.073581184242,
+    "active_positions": 5,
+    "win_amount": 27570.436829301198,
+    "loss_amount": -16248.363248116955,
+    "win_rate": 0.5666666666666667,
+    "total_current_value": 0.21891000000000002,
+    "total_positions": 96,
+    "event_ct": 60,
+    "win_count": 34,
+    "rank": 9265,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
