@@ -718,5 +718,21 @@
     "win_count": 7,
     "rank": 6445,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2ba98d985be8ee33345247061554246964748cbb",
+    "trader_name": "i2i4",
+    "tag": "Overall",
+    "overall_gain": 16607.085104424004,
+    "active_positions": 4,
+    "win_amount": 16659.126929000002,
+    "loss_amount": -52.041824575999996,
+    "win_rate": 0.9898305084745763,
+    "total_current_value": 0,
+    "total_positions": 590,
+    "event_ct": 590,
+    "win_count": 584,
+    "rank": 6446,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
