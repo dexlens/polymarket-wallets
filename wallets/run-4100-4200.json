@@ -62,5 +62,21 @@
     "win_count": 4,
     "rank": 4104,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb3e24f306dac71bf343259409058041afea22c81",
+    "trader_name": "cryptowar",
+    "tag": "Overall",
+    "overall_gain": 27270.453827,
+    "active_positions": 24,
+    "win_amount": 60467.82560099999,
+    "loss_amount": -33197.37177400001,
+    "win_rate": 0.5185185185185185,
+    "total_current_value": 870.2684727000001,
+    "total_positions": 55,
+    "event_ct": 54,
+    "win_count": 28,
+    "rank": 4105,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
