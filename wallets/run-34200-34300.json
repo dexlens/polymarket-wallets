@@ -1054,5 +1054,21 @@
     "win_count": 575,
     "rank": 34267,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67cf4540555d916313aaeaa43dabde7589659b02",
+    "trader_name": "nudjemqa",
+    "tag": "Overall",
+    "overall_gain": 2399.52286193787,
+    "active_positions": 1,
+    "win_amount": 3000,
+    "loss_amount": -600.47713806213,
+    "win_rate": 0.25,
+    "total_current_value": 2.8628564400000003,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 34268,
+    "trader_tags": ""
   }
 ]
