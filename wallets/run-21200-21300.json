@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 21254,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x280a1a8dbc5b450671177951bf763fbbecdc982f",
+    "trader_name": "jmomom1",
+    "tag": "Overall",
+    "overall_gain": 4295.932635759989,
+    "active_positions": 5,
+    "win_amount": 6565.164655,
+    "loss_amount": -2269.232019240011,
+    "win_rate": 0.5675675675675675,
+    "total_current_value": 0,
+    "total_positions": 54,
+    "event_ct": 37,
+    "win_count": 21,
+    "rank": 21255,
+    "trader_tags": "> 1 year old"
   }
 ]
