@@ -910,5 +910,21 @@
     "win_count": 134,
     "rank": 6257,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x98c2e1b71cdd51e6b1d5d506f0da4185457666a8",
+    "trader_name": "Godkay",
+    "tag": "Overall",
+    "overall_gain": 17123.011962540404,
+    "active_positions": 0,
+    "win_amount": 29063.449864000002,
+    "loss_amount": -11940.437901459592,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 6258,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
