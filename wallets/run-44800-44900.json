@@ -702,5 +702,21 @@
     "win_count": 4,
     "rank": 44845,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1190b18ddbf41ee89798077c42fce20f261f936a",
+    "trader_name": "ruirui123",
+    "tag": "Overall",
+    "overall_gain": 1721.2245696700002,
+    "active_positions": 8,
+    "win_amount": 4190.724569670001,
+    "loss_amount": -2469.5,
+    "win_rate": 0.7241379310344828,
+    "total_current_value": 54.606939,
+    "total_positions": 30,
+    "event_ct": 29,
+    "win_count": 21,
+    "rank": 44846,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
