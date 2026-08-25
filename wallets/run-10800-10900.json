@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 10876,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0496252fb27c3c087a302127e94e262de6f5f985",
+    "trader_name": "g43",
+    "tag": "Overall",
+    "overall_gain": 9709.712900000002,
+    "active_positions": 6,
+    "win_amount": 29384.705,
+    "loss_amount": -19674.9921,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 10877,
+    "trader_tags": ""
   }
 ]
