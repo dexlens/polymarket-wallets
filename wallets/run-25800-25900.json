@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 25877,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb2fdf692c2717cff84a635f397e16e758742a5a3",
+    "trader_name": "TKO",
+    "tag": "Overall",
+    "overall_gain": 3393.391654576851,
+    "active_positions": 0,
+    "win_amount": 3393.391654576851,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006303,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 25878,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
