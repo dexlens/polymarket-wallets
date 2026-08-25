@@ -1278,5 +1278,21 @@
     "win_count": 44,
     "rank": 62381,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x963017ae96481b4f3f5288be4b6d225629817d1a",
+    "trader_name": "dmenmu",
+    "tag": "Overall",
+    "overall_gain": 1012.849044976264,
+    "active_positions": 0,
+    "win_amount": 1012.849044976264,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000264,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 26,
+    "rank": 62382,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
