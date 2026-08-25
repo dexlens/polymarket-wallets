@@ -1534,5 +1534,21 @@
     "win_count": 5,
     "rank": 22096,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2792dfa780a27bcd40c34c116544756811497e0c",
+    "trader_name": "MR.K",
+    "tag": "Overall",
+    "overall_gain": 4099.568757788358,
+    "active_positions": 0,
+    "win_amount": 5306.635418391141,
+    "loss_amount": -1207.0666606027828,
+    "win_rate": 0.5434782608695652,
+    "total_current_value": 0.09589899999999998,
+    "total_positions": 68,
+    "event_ct": 46,
+    "win_count": 25,
+    "rank": 22097,
+    "trader_tags": "> 1 year old"
   }
 ]
