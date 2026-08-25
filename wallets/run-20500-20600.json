@@ -1390,5 +1390,21 @@
     "win_count": 2,
     "rank": 20587,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c4475d314077ab08f8b91fb2393cc483d771b21",
+    "trader_name": "lisu",
+    "tag": "Overall",
+    "overall_gain": 4472.188175443465,
+    "active_positions": 7,
+    "win_amount": 4837.821730007137,
+    "loss_amount": -365.63355456367094,
+    "win_rate": 0.4625,
+    "total_current_value": 0.11638400000000002,
+    "total_positions": 87,
+    "event_ct": 80,
+    "win_count": 37,
+    "rank": 20588,
+    "trader_tags": "> 1 year old"
   }
 ]
