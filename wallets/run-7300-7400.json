@@ -1294,5 +1294,21 @@
     "win_count": 5,
     "rank": 7381,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3440f117cd4d2e3a77e15c7b170b739f20b41b88",
+    "trader_name": "pistachio147",
+    "tag": "Overall",
+    "overall_gain": 14412,
+    "active_positions": 12,
+    "win_amount": 32314,
+    "loss_amount": -17902,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 20,
+    "rank": 7382,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
