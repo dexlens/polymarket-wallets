@@ -1438,5 +1438,21 @@
     "win_count": 175,
     "rank": 1290,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9f996a00929384dd8299c6a1447e105f665f69e2",
+    "trader_name": "onlyCandle",
+    "tag": "Overall",
+    "overall_gain": 93627.31568083775,
+    "active_positions": 0,
+    "win_amount": 93627.31568083775,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003254,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 1291,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
