@@ -910,5 +910,21 @@
     "win_count": 3,
     "rank": 10257,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4064c1b2397233b73696605df2fb62eeb840b6ef",
+    "trader_name": "camroncristw",
+    "tag": "Overall",
+    "overall_gain": 10254.5,
+    "active_positions": 1,
+    "win_amount": 10268,
+    "loss_amount": -13.5,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 10258,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
