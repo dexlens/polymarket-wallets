@@ -1470,5 +1470,21 @@
     "win_count": 8,
     "rank": 31793,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18801877cab5ce9e5caa767d15411c03000b5f26",
+    "trader_name": "LASS",
+    "tag": "Overall",
+    "overall_gain": 2620.79948287,
+    "active_positions": 3,
+    "win_amount": 4895.877329000001,
+    "loss_amount": -2275.07784613,
+    "win_rate": 0.64,
+    "total_current_value": 20,
+    "total_positions": 66,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 31794,
+    "trader_tags": "> 1 year old"
   }
 ]
