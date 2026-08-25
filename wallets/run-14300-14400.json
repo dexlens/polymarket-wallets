@@ -462,5 +462,21 @@
     "win_count": 20,
     "rank": 14329,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbdde31ba9ca0124e3dab56399647d66e710ea9b7",
+    "trader_name": "Mistboll",
+    "tag": "Overall",
+    "overall_gain": 6869.82,
+    "active_positions": 2,
+    "win_amount": 6934.5,
+    "loss_amount": -64.68,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 14330,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
