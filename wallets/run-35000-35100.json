@@ -254,5 +254,21 @@
     "win_count": 6,
     "rank": 35017,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86d5dc889503dfc502d457eab5fbab721a3a3e0c",
+    "trader_name": "ZJS-new",
+    "tag": "Overall",
+    "overall_gain": 2340.201187358278,
+    "active_positions": 0,
+    "win_amount": 4997.776080134245,
+    "loss_amount": -2657.5748927759664,
+    "win_rate": 0.82928,
+    "total_current_value": 19.514072000000006,
+    "total_positions": 7547,
+    "event_ct": 6250,
+    "win_count": 5183,
+    "rank": 35018,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
