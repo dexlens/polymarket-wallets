@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 31659,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x569734aaaea3dc742326c83357a01cccd9fc86dd",
+    "trader_name": "Prismlook",
+    "tag": "Overall",
+    "overall_gain": 2634.295,
+    "active_positions": 2,
+    "win_amount": 3628.295,
+    "loss_amount": -994,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 31660,
+    "trader_tags": ""
   }
 ]
