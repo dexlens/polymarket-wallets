@@ -766,5 +766,21 @@
     "win_count": 39,
     "rank": 4648,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xacdfb12f805200f10786bf778169528d5509e322",
+    "trader_name": "randyschmid",
+    "tag": "Overall",
+    "overall_gain": 23538,
+    "active_positions": 0,
+    "win_amount": 23538,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 4649,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
