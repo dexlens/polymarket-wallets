@@ -1566,5 +1566,21 @@
     "win_count": 9,
     "rank": 32399,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x31cef7651122a1c9b65dca7baa84bff05f2288cd",
+    "trader_name": "laowu33333",
+    "tag": "Overall",
+    "overall_gain": 2561.0108155764565,
+    "active_positions": 121,
+    "win_amount": 25317.36458559772,
+    "loss_amount": -22756.353770021273,
+    "win_rate": 0.5162818235642392,
+    "total_current_value": 414.00048400000003,
+    "total_positions": 2730,
+    "event_ct": 1689,
+    "win_count": 872,
+    "rank": 32400,
+    "trader_tags": "1k+ Positions"
   }
 ]
