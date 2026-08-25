@@ -1118,5 +1118,21 @@
     "win_count": 42,
     "rank": 3570,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x8784805dd44209ba3d7571040c93e90e32830dd2",
+    "trader_name": "anitamacgyve",
+    "tag": "Overall",
+    "overall_gain": 31865.84,
+    "active_positions": 0,
+    "win_amount": 31865.84,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 3571,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
