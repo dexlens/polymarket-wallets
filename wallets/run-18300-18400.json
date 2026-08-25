@@ -1326,5 +1326,21 @@
     "win_count": 119,
     "rank": 18383,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f17bb707553dceb79d9f13c51ad4754b9a0953d",
+    "trader_name": "kpoczm",
+    "tag": "Overall",
+    "overall_gain": 5052.451779564035,
+    "active_positions": 177,
+    "win_amount": 47763.009820555424,
+    "loss_amount": -42710.55804099139,
+    "win_rate": 0.5294887039239001,
+    "total_current_value": 5.861686,
+    "total_positions": 11572,
+    "event_ct": 8410,
+    "win_count": 4453,
+    "rank": 18384,
+    "trader_tags": "1k+ Positions"
   }
 ]
