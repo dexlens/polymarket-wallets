@@ -446,5 +446,21 @@
     "win_count": 17,
     "rank": 84629,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x58860b55c63f62ba9ae5e45191c8ed6d69526f75",
+    "trader_name": "whololos",
+    "tag": "Overall",
+    "overall_gain": 557.4571488941809,
+    "active_positions": 2,
+    "win_amount": 821.023918894181,
+    "loss_amount": -263.56676999999996,
+    "win_rate": 0.8451612903225807,
+    "total_current_value": 60.024893,
+    "total_positions": 173,
+    "event_ct": 155,
+    "win_count": 131,
+    "rank": 84630,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
