@@ -1582,5 +1582,21 @@
     "win_count": 24,
     "rank": 80200,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4339a2a926b3c100a026a654d497f21b1f2503e8",
+    "trader_name": "DOT",
+    "tag": "Overall",
+    "overall_gain": 627.357698345739,
+    "active_positions": 2,
+    "win_amount": 711.3573992628179,
+    "loss_amount": -83.999700917079,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.017081,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 80201,
+    "trader_tags": "> 1 year old"
   }
 ]
