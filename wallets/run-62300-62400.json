@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 62361,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x46cff40e3f7455ff50538471a86432ee97faaae1",
+    "trader_name": "Podde",
+    "tag": "Overall",
+    "overall_gain": 1013.5,
+    "active_positions": 2,
+    "win_amount": 2124,
+    "loss_amount": -1110.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 62362,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
