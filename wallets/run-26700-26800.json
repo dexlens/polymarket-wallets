@@ -1470,5 +1470,21 @@
     "win_count": 4,
     "rank": 26793,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc5566feaeb5e88a3d0c29af86f890c7ee57b9720",
+    "trader_name": "SignalAndNoise-777",
+    "tag": "Overall",
+    "overall_gain": 3238.079404166334,
+    "active_positions": 4,
+    "win_amount": 3841.1503817335315,
+    "loss_amount": -603.0709775671969,
+    "win_rate": 0.7419354838709677,
+    "total_current_value": 1370.844315,
+    "total_positions": 366,
+    "event_ct": 155,
+    "win_count": 115,
+    "rank": 26794,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
