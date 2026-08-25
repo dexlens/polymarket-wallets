@@ -1294,5 +1294,21 @@
     "win_count": 6,
     "rank": 17881,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf878371d9298ee2ec14e832c6d22a8750c5805c1",
+    "trader_name": "pearl0",
+    "tag": "Overall",
+    "overall_gain": 5219.674039313806,
+    "active_positions": 5,
+    "win_amount": 7337.588989428751,
+    "loss_amount": -2117.914950114946,
+    "win_rate": 0.6634615384615384,
+    "total_current_value": 99.968974,
+    "total_positions": 115,
+    "event_ct": 104,
+    "win_count": 69,
+    "rank": 17882,
+    "trader_tags": ""
   }
 ]
