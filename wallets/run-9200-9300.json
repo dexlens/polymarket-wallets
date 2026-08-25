@@ -574,5 +574,21 @@
     "win_count": 27,
     "rank": 9236,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd08515f5245ac1e385e38e939339c1d1a420df33",
+    "trader_name": "Scarnyx",
+    "tag": "Overall",
+    "overall_gain": 11350.608635823155,
+    "active_positions": 3,
+    "win_amount": 13186.555228823156,
+    "loss_amount": -1835.946593,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.000239,
+    "total_positions": 42,
+    "event_ct": 42,
+    "win_count": 36,
+    "rank": 9237,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
