@@ -62,5 +62,21 @@
     "win_count": 49,
     "rank": 81405,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc935d3237d4ca4e38b650d0ea9e9447e4dfcfde4",
+    "trader_name": "GigEm",
+    "tag": "Overall",
+    "overall_gain": 607.83006546795,
+    "active_positions": 0,
+    "win_amount": 1285.385416472685,
+    "loss_amount": -677.555351004735,
+    "win_rate": 0.5,
+    "total_current_value": 0.008842024,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 81406,
+    "trader_tags": ""
   }
 ]
