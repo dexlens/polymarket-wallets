@@ -1310,5 +1310,21 @@
     "win_count": 8,
     "rank": 75883,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8521008e3f07ea23fc50cb06d5d9f84331db96dd",
+    "trader_name": "testeasdf",
+    "tag": "Overall",
+    "overall_gain": 700.742110442833,
+    "active_positions": 0,
+    "win_amount": 701.205708020585,
+    "loss_amount": -0.46359757775200094,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 75884,
+    "trader_tags": ""
   }
 ]
