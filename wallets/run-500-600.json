@@ -398,5 +398,21 @@
     "win_count": 5,
     "rank": 525,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x0f5801f1fe7dbadb5c1e92a310c9871447d90ff0",
+    "trader_name": "Nibiru2",
+    "tag": "Overall",
+    "overall_gain": 242063.9335831012,
+    "active_positions": 80,
+    "win_amount": 319480.64983456983,
+    "loss_amount": -77416.71625146855,
+    "win_rate": 0.5299334811529933,
+    "total_current_value": 1344.4712228920007,
+    "total_positions": 616,
+    "event_ct": 451,
+    "win_count": 239,
+    "rank": 526,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Crypto PnL > $100k"
   }
 ]
