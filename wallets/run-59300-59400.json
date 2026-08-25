@@ -366,5 +366,21 @@
     "win_count": 5,
     "rank": 59324,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd50979ca527fec01cd39685d00da83738a94ebd2",
+    "trader_name": "memzy",
+    "tag": "Overall",
+    "overall_gain": 1098.245260153134,
+    "active_positions": 30,
+    "win_amount": 2812.019436360662,
+    "loss_amount": -1713.774176207528,
+    "win_rate": 0.4462809917355372,
+    "total_current_value": 0.022151,
+    "total_positions": 136,
+    "event_ct": 121,
+    "win_count": 54,
+    "rank": 59325,
+    "trader_tags": "> 1 year old"
   }
 ]
