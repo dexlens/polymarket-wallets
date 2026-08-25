@@ -1582,5 +1582,21 @@
     "win_count": 17,
     "rank": 51100,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29ecb0561017980c34af15b8f706c79093e59467",
+    "trader_name": "EnaLgo",
+    "tag": "Overall",
+    "overall_gain": 1433.785103503203,
+    "active_positions": 1,
+    "win_amount": 1896.925107503203,
+    "loss_amount": -463.14000400000003,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 51101,
+    "trader_tags": "> 1 year old"
   }
 ]
