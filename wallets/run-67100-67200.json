@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 67185,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf6764bbb67b7cc3fe76e87e9cdfb6f94f199d883",
+    "trader_name": "kassandra",
+    "tag": "Overall",
+    "overall_gain": 883.956140263622,
+    "active_positions": 2,
+    "win_amount": 1603.2656625562051,
+    "loss_amount": -719.309522292583,
+    "win_rate": 0.6875,
+    "total_current_value": 0.009,
+    "total_positions": 34,
+    "event_ct": 32,
+    "win_count": 22,
+    "rank": 67186,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
