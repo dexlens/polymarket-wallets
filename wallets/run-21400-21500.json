@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 21473,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbeabd353625a14152f74009082fd82a34badf8aa",
+    "trader_name": "Terhesa",
+    "tag": "Overall",
+    "overall_gain": 4241,
+    "active_positions": 1,
+    "win_amount": 4870,
+    "loss_amount": -629,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 21474,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
