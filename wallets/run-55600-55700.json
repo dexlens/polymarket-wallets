@@ -766,5 +766,21 @@
     "win_count": 6,
     "rank": 55649,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x26cb4ff347e75f0f9e5b9b699e9d727006b23e56",
+    "trader_name": "tmfcosta",
+    "tag": "Overall",
+    "overall_gain": 1232.264004546858,
+    "active_positions": 68,
+    "win_amount": 1425.561454777577,
+    "loss_amount": -193.297450230719,
+    "win_rate": 0.6902654867256637,
+    "total_current_value": 808.2876355599999,
+    "total_positions": 425,
+    "event_ct": 113,
+    "win_count": 78,
+    "rank": 55650,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
