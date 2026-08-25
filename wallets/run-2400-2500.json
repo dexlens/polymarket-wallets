@@ -910,5 +910,21 @@
     "win_count": 43,
     "rank": 2457,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x482bf5accdecfaffa67c14d4d4fbb59f428a3266",
+    "trader_name": "Winry",
+    "tag": "Overall",
+    "overall_gain": 47849.961793124035,
+    "active_positions": 56,
+    "win_amount": 59039.85864063805,
+    "loss_amount": -11189.896847514,
+    "win_rate": 0.7262357414448669,
+    "total_current_value": 12129.298620161995,
+    "total_positions": 525,
+    "event_ct": 263,
+    "win_count": 191,
+    "rank": 2458,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
