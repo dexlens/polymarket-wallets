@@ -670,5 +670,21 @@
     "win_count": 2,
     "rank": 30743,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb83fa7dc2627ca4b8f6d632ddc3521faa396b17e",
+    "trader_name": "Valdo",
+    "tag": "Overall",
+    "overall_gain": 2730.639124781328,
+    "active_positions": 7,
+    "win_amount": 14996.251614164326,
+    "loss_amount": -12265.612489383002,
+    "win_rate": 0.48098859315589354,
+    "total_current_value": 141.45760124200004,
+    "total_positions": 619,
+    "event_ct": 526,
+    "win_count": 253,
+    "rank": 30744,
+    "trader_tags": "> 1 year old"
   }
 ]
