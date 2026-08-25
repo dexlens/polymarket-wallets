@@ -318,5 +318,21 @@
     "win_count": 292,
     "rank": 2720,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x2dbc5635a299647e627556a69aa46ad0ce19ac0d",
+    "trader_name": "Kixi",
+    "tag": "Overall",
+    "overall_gain": 42789.80541571515,
+    "active_positions": 0,
+    "win_amount": 42789.80541571515,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00002,
+    "total_positions": 13,
+    "event_ct": 8,
+    "win_count": 8,
+    "rank": 2721,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
