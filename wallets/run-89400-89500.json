@@ -1150,5 +1150,21 @@
     "win_count": 4,
     "rank": 89473,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36bcc35112da744d7be15877bb382a49ed7611ed",
+    "trader_name": "hermine",
+    "tag": "Overall",
+    "overall_gain": 495.959216283,
+    "active_positions": 4,
+    "win_amount": 503.109827283,
+    "loss_amount": -7.150611,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 506.138585625,
+    "total_positions": 116,
+    "event_ct": 42,
+    "win_count": 36,
+    "rank": 89474,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
