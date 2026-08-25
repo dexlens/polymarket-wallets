@@ -238,5 +238,21 @@
     "win_count": 7,
     "rank": 4815,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51790f3d3da964230930768aa5c6c9a13ba12b29",
+    "trader_name": "kiki8886678",
+    "tag": "Overall",
+    "overall_gain": 22567.485405228046,
+    "active_positions": 20,
+    "win_amount": 139270.12994683825,
+    "loss_amount": -116702.64454161027,
+    "win_rate": 0.5236001172676634,
+    "total_current_value": 2682.6394540000006,
+    "total_positions": 5194,
+    "event_ct": 3411,
+    "win_count": 1786,
+    "rank": 4816,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
