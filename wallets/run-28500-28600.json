@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 28540,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xead4ceddacdb52a98b74cf76b59468408971169e",
+    "trader_name": "AsaButler",
+    "tag": "Overall",
+    "overall_gain": 2999.883762037671,
+    "active_positions": 23,
+    "win_amount": 30003.88373540677,
+    "loss_amount": -27003.9999733691,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 3.165673,
+    "total_positions": 74,
+    "event_ct": 70,
+    "win_count": 50,
+    "rank": 28541,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
