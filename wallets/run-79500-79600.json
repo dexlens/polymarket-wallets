@@ -974,5 +974,21 @@
     "win_count": 3,
     "rank": 79562,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49caa430ad69b96e852baf05bffebc2ab5c0bb0f",
+    "trader_name": "Alexinus",
+    "tag": "Overall",
+    "overall_gain": 637.8658086758772,
+    "active_positions": 4,
+    "win_amount": 2862.0790550110714,
+    "loss_amount": -2224.2132463351936,
+    "win_rate": 0.7586206896551724,
+    "total_current_value": 1180.4999088799998,
+    "total_positions": 411,
+    "event_ct": 377,
+    "win_count": 286,
+    "rank": 79563,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
