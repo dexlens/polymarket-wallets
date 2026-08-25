@@ -510,5 +510,21 @@
     "win_count": 19,
     "rank": 8232,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x296bd652f74deac6a8bd9bcb04265f3a65fd2cf2",
+    "trader_name": "0x-JayBee",
+    "tag": "Overall",
+    "overall_gain": 12784.596519273844,
+    "active_positions": 30,
+    "win_amount": 62999.692062512324,
+    "loss_amount": -50215.0955432385,
+    "win_rate": 0.5690021231422505,
+    "total_current_value": 377.9375052269991,
+    "total_positions": 829,
+    "event_ct": 471,
+    "win_count": 268,
+    "rank": 8233,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
