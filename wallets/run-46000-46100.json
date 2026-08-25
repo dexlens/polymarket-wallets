@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 46094,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72604c618abbb20b0cf0fc78a0c1338a573edbba",
+    "trader_name": "Pygorean",
+    "tag": "Overall",
+    "overall_gain": 1662.1778669341038,
+    "active_positions": 15,
+    "win_amount": 6807.120758246636,
+    "loss_amount": -5144.942891312534,
+    "win_rate": 0.697841726618705,
+    "total_current_value": 3823.0845449075,
+    "total_positions": 167,
+    "event_ct": 139,
+    "win_count": 97,
+    "rank": 46095,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
