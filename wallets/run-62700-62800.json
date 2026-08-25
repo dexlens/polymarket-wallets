@@ -398,5 +398,21 @@
     "win_count": 13,
     "rank": 62726,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74a2b82f079e12bcc25cd0d479f17979fb62e32f",
+    "trader_name": "PBot3",
+    "tag": "Overall",
+    "overall_gain": 1004.1464759999949,
+    "active_positions": 0,
+    "win_amount": 211051.15627400004,
+    "loss_amount": -210047.0097980001,
+    "win_rate": 0.5299303944315545,
+    "total_current_value": 0.04,
+    "total_positions": 5448,
+    "event_ct": 4310,
+    "win_count": 2284,
+    "rank": 62727,
+    "trader_tags": "1k+ Positions"
   }
 ]
