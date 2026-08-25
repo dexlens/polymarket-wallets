@@ -878,5 +878,21 @@
     "win_count": 26,
     "rank": 6355,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5c74dec44573002e9fb502578ca2f104dc80d16a",
+    "trader_name": "Sovrin",
+    "tag": "Overall",
+    "overall_gain": 16849.87620229108,
+    "active_positions": 3,
+    "win_amount": 17531.53978329108,
+    "loss_amount": -681.663581,
+    "win_rate": 0.7948717948717948,
+    "total_current_value": 0.000131,
+    "total_positions": 41,
+    "event_ct": 39,
+    "win_count": 31,
+    "rank": 6356,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
