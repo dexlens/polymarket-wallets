@@ -990,5 +990,21 @@
     "win_count": 137,
     "rank": 48963,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf7997d927acd9ea425417dd6df567b7e4631fe84",
+    "trader_name": "teacc1",
+    "tag": "Overall",
+    "overall_gain": 1530.167441,
+    "active_positions": 2,
+    "win_amount": 10278.438333999997,
+    "loss_amount": -8748.270893000004,
+    "win_rate": 0.5427792915531335,
+    "total_current_value": 239,
+    "total_positions": 3459,
+    "event_ct": 1835,
+    "win_count": 996,
+    "rank": 48964,
+    "trader_tags": "1k+ Positions"
   }
 ]
