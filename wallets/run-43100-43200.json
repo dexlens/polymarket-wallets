@@ -1246,5 +1246,21 @@
     "win_count": 5,
     "rank": 43179,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b3829e0681c6f482acd430e81537f6294537d45",
+    "trader_name": "arvelvand",
+    "tag": "Overall",
+    "overall_gain": 1810.91,
+    "active_positions": 0,
+    "win_amount": 1810.91,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 43180,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
