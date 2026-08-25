@@ -206,5 +206,21 @@
     "win_count": 25,
     "rank": 1813,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa6d9b55a6a3a54a9d50ca94c64f00af69c50fd2f",
+    "trader_name": "kinderSman",
+    "tag": "Overall",
+    "overall_gain": 67286.95198430495,
+    "active_positions": 19,
+    "win_amount": 67820.95808011723,
+    "loss_amount": -534.0060958122791,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 54000.46352636401,
+    "total_positions": 207,
+    "event_ct": 87,
+    "win_count": 78,
+    "rank": 1814,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
