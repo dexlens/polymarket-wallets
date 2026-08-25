@@ -174,5 +174,21 @@
     "win_count": 6,
     "rank": 27512,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd705cb47f8b51851d7068d630bf3f61da1db6920",
+    "trader_name": "Hollow",
+    "tag": "Overall",
+    "overall_gain": 3131.7576071751787,
+    "active_positions": 6,
+    "win_amount": 3569.0847416369193,
+    "loss_amount": -437.32713446174,
+    "win_rate": 0.38461538461538464,
+    "total_current_value": 0.036795999999999995,
+    "total_positions": 29,
+    "event_ct": 13,
+    "win_count": 5,
+    "rank": 27513,
+    "trader_tags": "> 1 year old"
   }
 ]
