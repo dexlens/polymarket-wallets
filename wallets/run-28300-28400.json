@@ -814,5 +814,21 @@
     "win_count": 92,
     "rank": 28352,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4717cb09d462ea85f07fe144ae0d291ff6cac34c",
+    "trader_name": "DBVRTU",
+    "tag": "Overall",
+    "overall_gain": 3020.860477959606,
+    "active_positions": 2,
+    "win_amount": 4043.060457,
+    "loss_amount": -1022.199979040394,
+    "win_rate": 0.9354838709677419,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 29,
+    "rank": 28353,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
