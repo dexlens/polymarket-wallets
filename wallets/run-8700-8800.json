@@ -558,5 +558,21 @@
     "win_count": 7,
     "rank": 8735,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf2733c949c95dd51686037765518ff363ec1bd47",
+    "trader_name": "Normans",
+    "tag": "Overall",
+    "overall_gain": 12003.451182999997,
+    "active_positions": 0,
+    "win_amount": 12013.501182999997,
+    "loss_amount": -10.05,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 18,
+    "win_count": 15,
+    "rank": 8736,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
