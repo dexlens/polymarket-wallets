@@ -542,5 +542,21 @@
     "win_count": 2,
     "rank": 10334,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x1f688333502cacdd6364fbdc2a6bbe13ee9c7995",
+    "trader_name": "lawsonid",
+    "tag": "Overall",
+    "overall_gain": 10170.856,
+    "active_positions": 2,
+    "win_amount": 12025.916,
+    "loss_amount": -1855.06,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 11196.4,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 10335,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
