@@ -1086,5 +1086,21 @@
     "win_count": 5,
     "rank": 29369,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4da8e3d9f78e68ceead52afde5aae608f4fa561e",
+    "trader_name": "baracuu",
+    "tag": "Overall",
+    "overall_gain": 2899.751269999999,
+    "active_positions": 1,
+    "win_amount": 18402.3563,
+    "loss_amount": -15502.605029999999,
+    "win_rate": 0.5963497453310697,
+    "total_current_value": 0,
+    "total_positions": 3520,
+    "event_ct": 2356,
+    "win_count": 1405,
+    "rank": 29370,
+    "trader_tags": "1k+ Positions"
   }
 ]
