@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 53444,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ae2a270c4f0f02cadf12c2009b9610c5fefacbb",
+    "trader_name": "gofol5",
+    "tag": "Overall",
+    "overall_gain": 1326.928339665477,
+    "active_positions": 4,
+    "win_amount": 1502.7186743660159,
+    "loss_amount": -175.7903347005389,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 1844.79867563,
+    "total_positions": 19,
+    "event_ct": 18,
+    "win_count": 14,
+    "rank": 53445,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
