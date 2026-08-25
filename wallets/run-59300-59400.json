@@ -270,5 +270,21 @@
     "win_count": 4,
     "rank": 59318,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5559d86309e31adcc02cc1ef37c81762d9b85428",
+    "trader_name": "mtye",
+    "tag": "Overall",
+    "overall_gain": 1098.5,
+    "active_positions": 2,
+    "win_amount": 1101.8,
+    "loss_amount": -3.3000000000000003,
+    "win_rate": 0.8,
+    "total_current_value": 100,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 59319,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
