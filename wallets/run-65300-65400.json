@@ -382,5 +382,21 @@
     "win_count": 3,
     "rank": 65325,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x78606e30506cdb93ecf90c61daf535650f1bc80d",
+    "trader_name": "ONYX.",
+    "tag": "Overall",
+    "overall_gain": 935.355932081747,
+    "active_positions": 0,
+    "win_amount": 975.042132081747,
+    "loss_amount": -39.6862,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.001792,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 65326,
+    "trader_tags": ""
   }
 ]
