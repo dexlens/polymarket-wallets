@@ -254,5 +254,21 @@
     "win_count": 5,
     "rank": 3016,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe16d2faf2fe995c7b57460c3808be965d09d97e8",
+    "trader_name": "majuicker",
+    "tag": "Overall",
+    "overall_gain": 38067.73255611271,
+    "active_positions": 11,
+    "win_amount": 38558.08773455285,
+    "loss_amount": -490.355178440148,
+    "win_rate": 0.875,
+    "total_current_value": 11.373798307,
+    "total_positions": 82,
+    "event_ct": 32,
+    "win_count": 28,
+    "rank": 3017,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
