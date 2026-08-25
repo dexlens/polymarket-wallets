@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 88841,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x47fd2f0d1be70ad67877bed435d83371796d0f2a",
+    "trader_name": "bgprod",
+    "tag": "Overall",
+    "overall_gain": 503.602281641726,
+    "active_positions": 3,
+    "win_amount": 749.428438391726,
+    "loss_amount": -245.82615675,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.000234,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 88842,
+    "trader_tags": ""
   }
 ]
