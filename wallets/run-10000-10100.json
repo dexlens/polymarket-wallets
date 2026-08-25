@@ -574,5 +574,21 @@
     "win_count": 9,
     "rank": 10036,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20aefc649828910ee02069bb03e957b928adf107",
+    "trader_name": "KeyGrip",
+    "tag": "Overall",
+    "overall_gain": 10450.33309813523,
+    "active_positions": 0,
+    "win_amount": 79183.56929813526,
+    "loss_amount": -68733.23620000001,
+    "win_rate": 0.37183544303797467,
+    "total_current_value": 5.270531999999999,
+    "total_positions": 866,
+    "event_ct": 632,
+    "win_count": 235,
+    "rank": 10037,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
