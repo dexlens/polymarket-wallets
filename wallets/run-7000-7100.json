@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 7024,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ed8f7a10686dbb0fb15f5c3335f30e0043793d4",
+    "trader_name": "podairpod",
+    "tag": "Overall",
+    "overall_gain": 15222.018260433879,
+    "active_positions": 51,
+    "win_amount": 21403.861632142278,
+    "loss_amount": -6181.843371708403,
+    "win_rate": 0.7110091743119266,
+    "total_current_value": 18869.419943107503,
+    "total_positions": 564,
+    "event_ct": 218,
+    "win_count": 155,
+    "rank": 7025,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
