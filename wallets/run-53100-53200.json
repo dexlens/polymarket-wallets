@@ -142,5 +142,21 @@
     "win_count": 3,
     "rank": 53110,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb0fd7bfaaf59b9bc162ee35b86ce9f9828a9e1f5",
+    "trader_name": "i-am-dumb",
+    "tag": "Overall",
+    "overall_gain": 1342.1881688465508,
+    "active_positions": 0,
+    "win_amount": 35442.448498466154,
+    "loss_amount": -34100.2603296196,
+    "win_rate": 0.4929343308395677,
+    "total_current_value": 3.72829,
+    "total_positions": 2290,
+    "event_ct": 1203,
+    "win_count": 593,
+    "rank": 53111,
+    "trader_tags": "1k+ Positions"
   }
 ]
