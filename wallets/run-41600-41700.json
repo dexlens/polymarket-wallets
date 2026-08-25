@@ -1374,5 +1374,21 @@
     "win_count": 9,
     "rank": 41687,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x88906147a72d6e22a916f9bd17351a01e045cefb",
+    "trader_name": "cpu001",
+    "tag": "Overall",
+    "overall_gain": 1894.0499929588977,
+    "active_positions": 141,
+    "win_amount": 5773.152711953866,
+    "loss_amount": -3879.1027189949677,
+    "win_rate": 0.6038732394366197,
+    "total_current_value": 447.3090131015,
+    "total_positions": 652,
+    "event_ct": 568,
+    "win_count": 343,
+    "rank": 41688,
+    "trader_tags": "< 30 days old"
   }
 ]
