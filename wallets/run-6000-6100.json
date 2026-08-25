@@ -654,5 +654,21 @@
     "win_count": 45,
     "rank": 6041,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd7170a881206e79fa9e5334d3c1e0fd197ac2c46",
+    "trader_name": "Temporaneo",
+    "tag": "Overall",
+    "overall_gain": 17759.603676,
+    "active_positions": 0,
+    "win_amount": 17759.603676,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6042,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
