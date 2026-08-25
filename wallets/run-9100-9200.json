@@ -462,5 +462,21 @@
     "win_count": 102,
     "rank": 9129,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6eb7ec38dff309e367d595da555f19370740d59d",
+    "trader_name": "captainwiggles - 1974",
+    "tag": "Overall",
+    "overall_gain": 11483.837844041256,
+    "active_positions": 0,
+    "win_amount": 12590.888242641679,
+    "loss_amount": -1107.0503986004212,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 0.3138330067969561,
+    "total_positions": 18,
+    "event_ct": 13,
+    "win_count": 7,
+    "rank": 9130,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
