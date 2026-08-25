@@ -638,5 +638,21 @@
     "win_count": 5,
     "rank": 34641,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1681ab151441b0066b750e376544d00d0d4d9ce3",
+    "trader_name": "urtdtj",
+    "tag": "Overall",
+    "overall_gain": 2369.487265375044,
+    "active_positions": 4,
+    "win_amount": 2562.592865375044,
+    "loss_amount": -193.1056,
+    "win_rate": 0.9512195121951219,
+    "total_current_value": 168.811812467,
+    "total_positions": 44,
+    "event_ct": 41,
+    "win_count": 39,
+    "rank": 34642,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
