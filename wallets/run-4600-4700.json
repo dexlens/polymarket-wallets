@@ -1006,5 +1006,21 @@
     "win_count": 1,
     "rank": 4663,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5465df044d26b3bad177f62a49c0e33bbb26ca9b",
+    "trader_name": "Beluga32",
+    "tag": "Overall",
+    "overall_gain": 23439.935988686302,
+    "active_positions": 8,
+    "win_amount": 110809.46890844629,
+    "loss_amount": -87369.53291975993,
+    "win_rate": 0.4482758620689655,
+    "total_current_value": 0.0068,
+    "total_positions": 46,
+    "event_ct": 29,
+    "win_count": 13,
+    "rank": 4664,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
