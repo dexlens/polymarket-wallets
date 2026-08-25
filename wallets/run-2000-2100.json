@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 2091,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x9bcada74fbcaa331afecdf7e861fbc9532ecca1f",
+    "trader_name": "rooivalk",
+    "tag": "Overall",
+    "overall_gain": 57504.73710730022,
+    "active_positions": 4,
+    "win_amount": 128902.8331992646,
+    "loss_amount": -71398.09609196438,
+    "win_rate": 0.4666666666666667,
+    "total_current_value": 392900.9367861865,
+    "total_positions": 59,
+    "event_ct": 30,
+    "win_count": 14,
+    "rank": 2092,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
