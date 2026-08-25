@@ -1246,5 +1246,21 @@
     "win_count": 183,
     "rank": 37779,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14c8e88496366ee10b33400f7dbae86f56b461f5",
+    "trader_name": "Barfly",
+    "tag": "Overall",
+    "overall_gain": 2134.53832355109,
+    "active_positions": 0,
+    "win_amount": 2629.97809955109,
+    "loss_amount": -495.43977600000005,
+    "win_rate": 0.8,
+    "total_current_value": 0.004113,
+    "total_positions": 12,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 37780,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
