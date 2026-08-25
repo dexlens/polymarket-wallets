@@ -1262,5 +1262,21 @@
     "win_count": 16,
     "rank": 85780,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9450cdd9e744772098da1b64b0b561cb863dd9e6",
+    "trader_name": "TerryH1ntz",
+    "tag": "Overall",
+    "overall_gain": 541.9513929999999,
+    "active_positions": 4,
+    "win_amount": 3471.7164709999997,
+    "loss_amount": -2929.7650779999994,
+    "win_rate": 0.47115384615384615,
+    "total_current_value": 156.6789,
+    "total_positions": 111,
+    "event_ct": 104,
+    "win_count": 49,
+    "rank": 85781,
+    "trader_tags": "< 30 days old"
   }
 ]
