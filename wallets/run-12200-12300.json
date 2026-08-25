@@ -526,5 +526,21 @@
     "win_count": 4,
     "rank": 12233,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0260e45f0c4e02fe2874f2773650379da5525f72",
+    "trader_name": "Shadowbladegvget",
+    "tag": "Overall",
+    "overall_gain": 8365.309355088471,
+    "active_positions": 3,
+    "win_amount": 17588.242662,
+    "loss_amount": -9222.933306911527,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 12234,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
