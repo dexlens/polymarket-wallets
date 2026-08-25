@@ -1038,5 +1038,21 @@
     "win_count": 148,
     "rank": 1665,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8bd5bed9aff8076630f1d383979f21c772e2f587",
+    "trader_name": "allintrumpmaga",
+    "tag": "Overall",
+    "overall_gain": 73683.78040309518,
+    "active_positions": 2,
+    "win_amount": 79684.45513700695,
+    "loss_amount": -6000.674733911777,
+    "win_rate": 0.5,
+    "total_current_value": 0.003764,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 1666,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
