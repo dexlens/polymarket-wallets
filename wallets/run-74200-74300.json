@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 74239,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x699d5b83982ce67eaaab60c19cb4bf3576135c8a",
+    "trader_name": "wacx",
+    "tag": "Overall",
+    "overall_gain": 724.9971846342237,
+    "active_positions": 33,
+    "win_amount": 7284.476140481999,
+    "loss_amount": -6559.478955847775,
+    "win_rate": 0.7564102564102564,
+    "total_current_value": 9.388805,
+    "total_positions": 192,
+    "event_ct": 156,
+    "win_count": 118,
+    "rank": 74240,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
