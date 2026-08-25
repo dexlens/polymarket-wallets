@@ -606,5 +606,21 @@
     "win_count": 46,
     "rank": 6138,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xda737a656dd487c3ba95d6577d1fec2c61414d41",
+    "trader_name": "pretzel",
+    "tag": "Overall",
+    "overall_gain": 17463.199094990097,
+    "active_positions": 10,
+    "win_amount": 22814.432480708096,
+    "loss_amount": -5351.233385718,
+    "win_rate": 0.92,
+    "total_current_value": 0.095919,
+    "total_positions": 154,
+    "event_ct": 100,
+    "win_count": 92,
+    "rank": 6139,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
