@@ -766,5 +766,21 @@
     "win_count": 11,
     "rank": 19148,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x23b588279e607baf5b04bf96e54055d93e503fe5",
+    "trader_name": "Nso",
+    "tag": "Overall",
+    "overall_gain": 4857.36264016267,
+    "active_positions": 0,
+    "win_amount": 4857.36264016267,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004094,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 19149,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
