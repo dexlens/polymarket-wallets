@@ -1086,5 +1086,21 @@
     "win_count": 5432,
     "rank": 82069,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x6d930c5e4d2057cf63d0533744eb6e6a6a08f70a",
+    "trader_name": "Oferp",
+    "tag": "Overall",
+    "overall_gain": 597.2762958970433,
+    "active_positions": 36,
+    "win_amount": 6342.184158631874,
+    "loss_amount": -5744.907862734831,
+    "win_rate": 0.5217391304347826,
+    "total_current_value": 3436.8220415570004,
+    "total_positions": 147,
+    "event_ct": 115,
+    "win_count": 60,
+    "rank": 82070,
+    "trader_tags": "> 1 year old"
   }
 ]
