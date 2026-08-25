@@ -7,14 +7,22 @@ if (!passed_file) {
 const d1 = await Deno.readTextFile(`data/data/${passed_file}`);
 const data = JSON.parse(d1);
 const realdata = data.data; 
-const thisrunsfilename = `wallets/thisrun.json`;
+
+/**
+ * The RUN thingie
+ */
+const runStart = 0;
+const runEnd = 1000;
+const runName = `run-${runStart}-${runEnd}`;
+
+const thisrunsfilename = `wallets/${runName}.json`;
 // create the file
 await Deno.writeTextFile(thisrunsfilename, JSON.stringify([], null, 2));
 let thisrunsdata = [];
 if (await Deno.stat(thisrunsfilename)) {
   thisrunsdata = JSON.parse(await Deno.readTextFile(thisrunsfilename));
 }
-for (const wallet of realdata.slice(0, 3)) {
+for (const wallet of realdata.slice(0, 1000)) {
   const address = wallet.trader; // Adjust this if data structure is different
   const rank = wallet.rank;
   const trader_name = wallet.trader_name;
