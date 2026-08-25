@@ -942,5 +942,21 @@
     "win_count": 2,
     "rank": 33760,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa6a971269b68a636a684f5bf9c23b15bb346c6d6",
+    "trader_name": "Hypwerion",
+    "tag": "Overall",
+    "overall_gain": 2445,
+    "active_positions": 2,
+    "win_amount": 3148,
+    "loss_amount": -703,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 33761,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
