@@ -702,5 +702,21 @@
     "win_count": 29,
     "rank": 7444,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0cc36dce0a7825ab5f589e1a73309880b15fedf0",
+    "trader_name": "kiwitrades",
+    "tag": "Overall",
+    "overall_gain": 14260.141189118973,
+    "active_positions": 328,
+    "win_amount": 47239.9323036365,
+    "loss_amount": -32979.79111451754,
+    "win_rate": 0.36419753086419754,
+    "total_current_value": 2263.4443506125,
+    "total_positions": 426,
+    "event_ct": 162,
+    "win_count": 59,
+    "rank": 7445,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
