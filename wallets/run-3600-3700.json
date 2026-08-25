@@ -478,5 +478,21 @@
     "win_count": 56,
     "rank": 3630,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98cd52d48600d6149806b50877d954f62cd146a5",
+    "trader_name": "ebe-40CB",
+    "tag": "Overall",
+    "overall_gain": 31387.12876555,
+    "active_positions": 1,
+    "win_amount": 32085.130745,
+    "loss_amount": -698.00197945,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 3631,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
