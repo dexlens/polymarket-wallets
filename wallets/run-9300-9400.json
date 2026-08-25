@@ -686,5 +686,21 @@
     "win_count": 11,
     "rank": 9343,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x127dfde6056c1fdb7d8e1be62f1a2578a04249fd",
+    "trader_name": "Synthxsis",
+    "tag": "Overall",
+    "overall_gain": 11215.91166,
+    "active_positions": 0,
+    "win_amount": 11215.91166,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00375,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 9344,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
