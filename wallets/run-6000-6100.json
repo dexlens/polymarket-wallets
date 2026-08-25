@@ -1582,5 +1582,21 @@
     "win_count": 6,
     "rank": 6099,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14a056c698f46d181d1e650e7a7a0f7d1d8a22bb",
+    "trader_name": "gnose",
+    "tag": "Overall",
+    "overall_gain": 17580.132091855983,
+    "active_positions": 201,
+    "win_amount": 87708.0351512033,
+    "loss_amount": -70127.90305934733,
+    "win_rate": 0.5963821368004523,
+    "total_current_value": 10670.346944777999,
+    "total_positions": 2933,
+    "event_ct": 1769,
+    "win_count": 1055,
+    "rank": 6100,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
