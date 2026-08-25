@@ -1534,5 +1534,21 @@
     "win_count": 4,
     "rank": 8396,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x661ab8fc610e4ddfbf095fc8b4b4bbe919a2382a",
+    "trader_name": "FawnElvira",
+    "tag": "Overall",
+    "overall_gain": 12472.267168000002,
+    "active_positions": 0,
+    "win_amount": 12518.717168000001,
+    "loss_amount": -46.449999999999996,
+    "win_rate": 0.8260869565217391,
+    "total_current_value": 0,
+    "total_positions": 42,
+    "event_ct": 23,
+    "win_count": 19,
+    "rank": 8397,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
