@@ -542,5 +542,21 @@
     "win_count": 15,
     "rank": 27035,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x85e964347f4848cff10fcd563e39ecd8b4b0dd5e",
+    "trader_name": "ffcc",
+    "tag": "Overall",
+    "overall_gain": 3202.5,
+    "active_positions": 1,
+    "win_amount": 3611,
+    "loss_amount": -408.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 27036,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
