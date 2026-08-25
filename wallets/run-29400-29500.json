@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 29500,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x88f1cee46dc6fb9bf22bcbf0b4b3aeea3d155c9d",
+    "trader_name": "Skeeter",
+    "tag": "Overall",
+    "overall_gain": 2882.1148546759387,
+    "active_positions": 46,
+    "win_amount": 5328.381691552249,
+    "loss_amount": -2446.266836876312,
+    "win_rate": 0.44155844155844154,
+    "total_current_value": 0.031753,
+    "total_positions": 98,
+    "event_ct": 77,
+    "win_count": 34,
+    "rank": 29501,
+    "trader_tags": "> 1 year old"
   }
 ]
