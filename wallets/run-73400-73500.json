@@ -1006,5 +1006,21 @@
     "win_count": 2,
     "rank": 73464,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74f7c50cd980a88124b661e4923b497193ca8f31",
+    "trader_name": "Juliano.b",
+    "tag": "Overall",
+    "overall_gain": 735.9101071140461,
+    "active_positions": 2,
+    "win_amount": 975.8091811140459,
+    "loss_amount": -239.89907400000004,
+    "win_rate": 0.975609756097561,
+    "total_current_value": 17.252176180000006,
+    "total_positions": 165,
+    "event_ct": 164,
+    "win_count": 160,
+    "rank": 73465,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
