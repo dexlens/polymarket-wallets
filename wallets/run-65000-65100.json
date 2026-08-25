@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 65052,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77c9a366e456e094b54794b13627eb4e9646b4e0",
+    "trader_name": "dimasavin",
+    "tag": "Overall",
+    "overall_gain": 944.0193191693187,
+    "active_positions": 1,
+    "win_amount": 1260.064871,
+    "loss_amount": -316.045551830681,
+    "win_rate": 0.6136363636363636,
+    "total_current_value": 150.211377,
+    "total_positions": 60,
+    "event_ct": 44,
+    "win_count": 27,
+    "rank": 65053,
+    "trader_tags": "> 1 year old"
   }
 ]
