@@ -1278,5 +1278,21 @@
     "win_count": 28,
     "rank": 25081,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0c2c5c5ec6b6a40017af29946e18cd786a16612c",
+    "trader_name": "Shinbunshi",
+    "tag": "Overall",
+    "overall_gain": 3522.9145064045856,
+    "active_positions": 1,
+    "win_amount": 3522.9145064045856,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006814,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 25082,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
