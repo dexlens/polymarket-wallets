@@ -318,5 +318,21 @@
     "win_count": 4,
     "rank": 60321,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25cf7dd586413818f23ff4d9fd001a7622398812",
+    "trader_name": "YCT1001",
+    "tag": "Overall",
+    "overall_gain": 1066.280685555432,
+    "active_positions": 3,
+    "win_amount": 1175.4170798008702,
+    "loss_amount": -109.136394245438,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0.10770958099999998,
+    "total_positions": 47,
+    "event_ct": 42,
+    "win_count": 32,
+    "rank": 60322,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
