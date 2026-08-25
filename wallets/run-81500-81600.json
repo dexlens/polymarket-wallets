@@ -942,5 +942,21 @@
     "win_count": 3,
     "rank": 81560,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xc13e641760c4d6252f107627aecec417f20c5be8",
+    "trader_name": "Skyhaar",
+    "tag": "Overall",
+    "overall_gain": 605.2077019128831,
+    "active_positions": 5,
+    "win_amount": 1018.7110049276451,
+    "loss_amount": -413.5033030147619,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 242.438319,
+    "total_positions": 20,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 81561,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
