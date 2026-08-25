@@ -478,5 +478,21 @@
     "win_count": 2,
     "rank": 6230,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x90a0774c37e43c03116917adf3563aee1eb67e0a",
+    "trader_name": ".FiveDollarFootlong",
+    "tag": "Overall",
+    "overall_gain": 17184.853236679864,
+    "active_positions": 14,
+    "win_amount": 34404.3453797059,
+    "loss_amount": -17219.492143026037,
+    "win_rate": 0.6867816091954023,
+    "total_current_value": 8456.910836578501,
+    "total_positions": 698,
+    "event_ct": 348,
+    "win_count": 239,
+    "rank": 6231,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
