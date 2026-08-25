@@ -1566,5 +1566,21 @@
     "win_count": 8,
     "rank": 4298,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x155d962a13b79a08fa0195a742cfffb0fd3f2525",
+    "trader_name": "DCI-Rhys",
+    "tag": "Overall",
+    "overall_gain": 25967.254285472813,
+    "active_positions": 5,
+    "win_amount": 57462.368584691154,
+    "loss_amount": -31495.11429921835,
+    "win_rate": 0.6444444444444445,
+    "total_current_value": 267528.132567187,
+    "total_positions": 103,
+    "event_ct": 90,
+    "win_count": 58,
+    "rank": 4299,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
