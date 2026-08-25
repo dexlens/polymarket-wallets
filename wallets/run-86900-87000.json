@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 86947,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ae4896ce8d68b8801a1d38302779b5a5bcfd1f9",
+    "trader_name": "baby11",
+    "tag": "Overall",
+    "overall_gain": 526.1244732379988,
+    "active_positions": 1,
+    "win_amount": 698.964991651817,
+    "loss_amount": -172.840518413818,
+    "win_rate": 0.5,
+    "total_current_value": 0.002927,
+    "total_positions": 22,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 86948,
+    "trader_tags": "> 1 year old"
   }
 ]
