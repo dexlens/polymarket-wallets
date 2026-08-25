@@ -494,5 +494,21 @@
     "win_count": 19,
     "rank": 2931,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32d4746a013f2988479ad644413ad5da482fbdfe",
+    "trader_name": "ephandros",
+    "tag": "Overall",
+    "overall_gain": 39196.034704000005,
+    "active_positions": 4,
+    "win_amount": 40194.88286900001,
+    "loss_amount": -998.848165,
+    "win_rate": 0.8548387096774194,
+    "total_current_value": 0,
+    "total_positions": 63,
+    "event_ct": 62,
+    "win_count": 53,
+    "rank": 2932,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
