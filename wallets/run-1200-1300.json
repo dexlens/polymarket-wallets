@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 1249,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb741a5dade4a298897a3124ed798a9cca1fba996",
+    "trader_name": "tostitos",
+    "tag": "Overall",
+    "overall_gain": 96859.35861396093,
+    "active_positions": 0,
+    "win_amount": 105665.25772528966,
+    "loss_amount": -8805.899111328743,
+    "win_rate": 0.6333333333333333,
+    "total_current_value": 0.09599052749999999,
+    "total_positions": 54,
+    "event_ct": 30,
+    "win_count": 19,
+    "rank": 1250,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
