@@ -702,5 +702,21 @@
     "win_count": 43,
     "rank": 66145,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74f56475ccb9461fc186ef32b54cbd3fd64a6222",
+    "trader_name": "zapad",
+    "tag": "Overall",
+    "overall_gain": 911.6788605664,
+    "active_positions": 0,
+    "win_amount": 911.6788605664,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00145,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 66146,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
