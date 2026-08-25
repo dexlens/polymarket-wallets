@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 56171,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63638304280a2d9256e093e6a40fc0ecbbfccd4c",
+    "trader_name": "HarvSpec824",
+    "tag": "Overall",
+    "overall_gain": 1210.836821749685,
+    "active_positions": 1,
+    "win_amount": 1640.802947823443,
+    "loss_amount": -429.966126073758,
+    "win_rate": 0.5,
+    "total_current_value": 0.008921145,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 56172,
+    "trader_tags": "< 30 days old"
   }
 ]
