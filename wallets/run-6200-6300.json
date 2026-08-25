@@ -334,5 +334,21 @@
     "win_count": 5,
     "rank": 6221,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1bfbb77d773bca7ff7ee058853b4b32c45d3570e",
+    "trader_name": "Maelric",
+    "tag": "Overall",
+    "overall_gain": 17213.563936391027,
+    "active_positions": 4,
+    "win_amount": 18049.365736391024,
+    "loss_amount": -835.8018000000001,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.000023,
+    "total_positions": 37,
+    "event_ct": 36,
+    "win_count": 28,
+    "rank": 6222,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
