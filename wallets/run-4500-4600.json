@@ -878,5 +878,21 @@
     "win_count": 100,
     "rank": 4555,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4ea3cdd2a57007c6a2d702e1741ef200134e30d0",
+    "trader_name": "rudolphn",
+    "tag": "Overall",
+    "overall_gain": 24191.938448,
+    "active_positions": 0,
+    "win_amount": 27448.018448,
+    "loss_amount": -3256.08,
+    "win_rate": 0.5882352941176471,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 10,
+    "rank": 4556,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
