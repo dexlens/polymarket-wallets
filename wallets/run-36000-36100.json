@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 36099,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9bccc3d2609950e6868418272593aa0d31d9d269",
+    "trader_name": "exchangehur",
+    "tag": "Overall",
+    "overall_gain": 2255.926524757,
+    "active_positions": 4,
+    "win_amount": 2265.8279477610004,
+    "loss_amount": -9.901423003999998,
+    "win_rate": 0.9545454545454546,
+    "total_current_value": 271.271961,
+    "total_positions": 27,
+    "event_ct": 22,
+    "win_count": 21,
+    "rank": 36100,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
