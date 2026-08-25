@@ -46,5 +46,21 @@
     "win_count": 1,
     "rank": 77204,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1bbeb33c6f4fe8cbc6ba865ae88b60e72cfd7b5c",
+    "trader_name": "jiagejitui",
+    "tag": "Overall",
+    "overall_gain": 678.1155578661163,
+    "active_positions": 6,
+    "win_amount": 5996.036325495034,
+    "loss_amount": -5317.920767628918,
+    "win_rate": 0.9720695970695971,
+    "total_current_value": 759.615425375,
+    "total_positions": 2202,
+    "event_ct": 2184,
+    "win_count": 2123,
+    "rank": 77205,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
