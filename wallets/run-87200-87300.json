@@ -1502,5 +1502,21 @@
     "win_count": 21,
     "rank": 87295,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0d7dd0161e212978a1b9a4e0063d7c4044e1e7e5",
+    "trader_name": "PingyPongyChingiChongi",
+    "tag": "Overall",
+    "overall_gain": 521.848261199634,
+    "active_positions": 1,
+    "win_amount": 721.847796,
+    "loss_amount": -199.999534800366,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 87296,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
