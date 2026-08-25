@@ -798,5 +798,21 @@
     "win_count": 32,
     "rank": 8350,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd048faafe110623ea2c0462358700dacb413d57e",
+    "trader_name": "minfuse",
+    "tag": "Overall",
+    "overall_gain": 12564.01349049122,
+    "active_positions": 52,
+    "win_amount": 91694.18316513348,
+    "loss_amount": -79130.16967464225,
+    "win_rate": 0.5179856115107914,
+    "total_current_value": 262.076054,
+    "total_positions": 2892,
+    "event_ct": 1668,
+    "win_count": 864,
+    "rank": 8351,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
