@@ -78,5 +78,21 @@
     "win_count": 4,
     "rank": 4505,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80965cc1738a429ecad016f189b32952f2daf6a4",
+    "trader_name": "Calverian",
+    "tag": "Overall",
+    "overall_gain": 24419.971633000005,
+    "active_positions": 2,
+    "win_amount": 26161.207933,
+    "loss_amount": -1741.2363,
+    "win_rate": 0.8913043478260869,
+    "total_current_value": 0.002,
+    "total_positions": 48,
+    "event_ct": 46,
+    "win_count": 41,
+    "rank": 4506,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
