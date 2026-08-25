@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 22248,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x057b0b8f88e499ce9a72b7cce5801672b5a2a2a0",
+    "trader_name": "MerryMdoon",
+    "tag": "Overall",
+    "overall_gain": 4064.5,
+    "active_positions": 1,
+    "win_amount": 4898.5,
+    "loss_amount": -834,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 22249,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
