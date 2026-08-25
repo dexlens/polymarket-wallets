@@ -462,5 +462,21 @@
     "win_count": 16,
     "rank": 5029,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb5d726e4842267fe190f8ea27b786c755ea7ec37",
+    "trader_name": "bosstop",
+    "tag": "Overall",
+    "overall_gain": 21519.810233558313,
+    "active_positions": 25,
+    "win_amount": 43784.55937567921,
+    "loss_amount": -22264.749142120894,
+    "win_rate": 0.3097686375321337,
+    "total_current_value": 33.161525999999995,
+    "total_positions": 837,
+    "event_ct": 778,
+    "win_count": 241,
+    "rank": 5030,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
