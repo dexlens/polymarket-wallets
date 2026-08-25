@@ -622,5 +622,21 @@
     "win_count": 168,
     "rank": 45840,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x073a1caba3c22e9e361ceae83aaa5405706f91e7",
+    "trader_name": "Mantronix",
+    "tag": "Overall",
+    "overall_gain": 1674.1434837242368,
+    "active_positions": 7,
+    "win_amount": 60836.53347658233,
+    "loss_amount": -59162.38999285809,
+    "win_rate": 0.3,
+    "total_current_value": 52572.02558461651,
+    "total_positions": 52,
+    "event_ct": 40,
+    "win_count": 12,
+    "rank": 45841,
+    "trader_tags": "> 1 year old"
   }
 ]
