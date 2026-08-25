@@ -478,5 +478,21 @@
     "win_count": 30,
     "rank": 65231,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf7423c7f4a4fbf316f07505a5a59b480ea991fd4",
+    "trader_name": "fight1fight2fight3",
+    "tag": "Overall",
+    "overall_gain": 938.2541307273641,
+    "active_positions": 0,
+    "win_amount": 1012.9942697441401,
+    "loss_amount": -74.74013901677598,
+    "win_rate": 0.8,
+    "total_current_value": 0.010065999999999999,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 65232,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
