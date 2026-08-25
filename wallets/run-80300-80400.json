@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 80338,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x043d0955d05fbc499e5164bd88290b46bb8d97fd",
+    "trader_name": "LucasHartman",
+    "tag": "Overall",
+    "overall_gain": 625.0899585161379,
+    "active_positions": 3,
+    "win_amount": 629.83176,
+    "loss_amount": -4.741801483861999,
+    "win_rate": 0.13333333333333333,
+    "total_current_value": 12.09269275,
+    "total_positions": 41,
+    "event_ct": 30,
+    "win_count": 4,
+    "rank": 80339,
+    "trader_tags": ""
   }
 ]
