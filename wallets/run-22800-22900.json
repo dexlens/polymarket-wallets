@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 22832,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x44b427fdb475ec263fdc01e3fe053944e57f8919",
+    "trader_name": "cuckslugs",
+    "tag": "Overall",
+    "overall_gain": 3953.12068504,
+    "active_positions": 2,
+    "win_amount": 5218.672601,
+    "loss_amount": -1265.5519159599999,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 22833,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
