@@ -398,5 +398,21 @@
     "win_count": 64,
     "rank": 7425,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x98facf6b3b206d89e4eb333d8fc1216815b0d698",
+    "trader_name": "BlueRedYellow",
+    "tag": "Overall",
+    "overall_gain": 14310.677581911157,
+    "active_positions": 1,
+    "win_amount": 28048.21059372166,
+    "loss_amount": -13737.533011810501,
+    "win_rate": 0.5487179487179488,
+    "total_current_value": 2.01337063,
+    "total_positions": 527,
+    "event_ct": 390,
+    "win_count": 214,
+    "rank": 7426,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
