@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 2433,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x807a2d05e30d6bfb643a415437d4938c7d3e1d70",
+    "trader_name": "Dagir",
+    "tag": "Overall",
+    "overall_gain": 48524.33574655341,
+    "active_positions": 0,
+    "win_amount": 193363.44805448904,
+    "loss_amount": -144839.11230793563,
+    "win_rate": 0.7402234636871509,
+    "total_current_value": 0.00011811407042121454,
+    "total_positions": 643,
+    "event_ct": 358,
+    "win_count": 265,
+    "rank": 2434,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
