@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 23353,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe950248bb0cbb699aebddfcf39ef492a4c751e0a",
+    "trader_name": "4hamilton",
+    "tag": "Overall",
+    "overall_gain": 3848.5652156743568,
+    "active_positions": 5,
+    "win_amount": 3855.0501356743566,
+    "loss_amount": -6.484920000000093,
+    "win_rate": 0.9813084112149533,
+    "total_current_value": 109804.25272800002,
+    "total_positions": 123,
+    "event_ct": 107,
+    "win_count": 105,
+    "rank": 23354,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
