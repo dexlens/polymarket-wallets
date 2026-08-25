@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 87123,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdabd36be471c8a7df12b98f8d6b6856571ddef0e",
+    "trader_name": "Sato",
+    "tag": "Overall",
+    "overall_gain": 524.2417527174055,
+    "active_positions": 3,
+    "win_amount": 564.9372348675574,
+    "loss_amount": -40.695482150152,
+    "win_rate": 0.875,
+    "total_current_value": 3355.2370603115005,
+    "total_positions": 19,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 87124,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
