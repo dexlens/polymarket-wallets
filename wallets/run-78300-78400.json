@@ -1134,5 +1134,21 @@
     "win_count": 3,
     "rank": 78372,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c2ded347b9cebe945608455f91b75dc516cdd1e",
+    "trader_name": "Aiseth",
+    "tag": "Overall",
+    "overall_gain": 658.1912777171711,
+    "active_positions": 2,
+    "win_amount": 1164.3643429738281,
+    "loss_amount": -506.173065256657,
+    "win_rate": 0.72782874617737,
+    "total_current_value": 204.14148480800006,
+    "total_positions": 739,
+    "event_ct": 327,
+    "win_count": 238,
+    "rank": 78373,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
