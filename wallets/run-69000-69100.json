@@ -1454,5 +1454,21 @@
     "win_count": 67,
     "rank": 69092,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02ed711cebe51a70cce6331f57d4d0da06557251",
+    "trader_name": "rmax",
+    "tag": "Overall",
+    "overall_gain": 832.0002936960399,
+    "active_positions": 0,
+    "win_amount": 1449.710099379351,
+    "loss_amount": -617.7098056833111,
+    "win_rate": 0.40625,
+    "total_current_value": 0.051960000000000006,
+    "total_positions": 39,
+    "event_ct": 32,
+    "win_count": 13,
+    "rank": 69093,
+    "trader_tags": "> 1 year old"
   }
 ]
