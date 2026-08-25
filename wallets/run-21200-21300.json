@@ -366,5 +366,21 @@
     "win_count": 4,
     "rank": 21223,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3f5fce338b701e41e67401722660c0a4bac04747",
+    "trader_name": "FrostWaypoint",
+    "tag": "Overall",
+    "overall_gain": 4302.21,
+    "active_positions": 1,
+    "win_amount": 4317.21,
+    "loss_amount": -15,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 21224,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
