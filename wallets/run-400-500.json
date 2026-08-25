@@ -542,5 +542,21 @@
     "win_count": 245,
     "rank": 434,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x7072dd52161bae614bec6905846a53c9a3a53413",
+    "trader_name": "ForesightOracle",
+    "tag": "Overall",
+    "overall_gain": 295179.83686390426,
+    "active_positions": 0,
+    "win_amount": 301778.21303046186,
+    "loss_amount": -6598.37616655759,
+    "win_rate": 0.9512195121951219,
+    "total_current_value": 0.09894800000000001,
+    "total_positions": 52,
+    "event_ct": 41,
+    "win_count": 39,
+    "rank": 435,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
