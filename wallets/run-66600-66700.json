@@ -1294,5 +1294,21 @@
     "win_count": 2,
     "rank": 66682,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6e26337ed7c66cab93d133b665c6cc33f13b3c06",
+    "trader_name": "nolon",
+    "tag": "Overall",
+    "overall_gain": 897.3634894015389,
+    "active_positions": 0,
+    "win_amount": 897.3634894015389,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.10526279999999999,
+    "total_positions": 33,
+    "event_ct": 27,
+    "win_count": 27,
+    "rank": 66683,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
