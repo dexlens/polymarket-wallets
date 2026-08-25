@@ -686,5 +686,21 @@
     "win_count": 7,
     "rank": 43,
     "trader_tags": "Overall PnL > $1m; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x2bf64b86b64c315d879571b07a3b76629e467cd0",
+    "trader_name": "BabaTrump",
+    "tag": "Overall",
+    "overall_gain": 2093362.9828509998,
+    "active_positions": 0,
+    "win_amount": 2093362.9828509998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 44,
+    "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election ; Politics PnL > $100k"
   }
 ]
