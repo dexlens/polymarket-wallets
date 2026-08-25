@@ -926,5 +926,21 @@
     "win_count": 21,
     "rank": 6358,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7a3417cdf669f4038a1a388c8bea72f8020aff77",
+    "trader_name": "Vessan",
+    "tag": "Overall",
+    "overall_gain": 16842.2582515,
+    "active_positions": 4,
+    "win_amount": 18292.4571515,
+    "loss_amount": -1450.1989,
+    "win_rate": 0.8648648648648649,
+    "total_current_value": 3.3700000000000006,
+    "total_positions": 41,
+    "event_ct": 37,
+    "win_count": 32,
+    "rank": 6359,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
