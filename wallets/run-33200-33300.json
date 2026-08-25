@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 33274,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcda125f672ebca9892ff741e40a304fae903d9ad",
+    "trader_name": "TheIronBank",
+    "tag": "Overall",
+    "overall_gain": 2483.623762644475,
+    "active_positions": 34,
+    "win_amount": 19150.595363803168,
+    "loss_amount": -16666.971601158693,
+    "win_rate": 0.6118143459915611,
+    "total_current_value": 9464.507062752002,
+    "total_positions": 726,
+    "event_ct": 474,
+    "win_count": 290,
+    "rank": 33275,
+    "trader_tags": "> 1 year old"
   }
 ]
