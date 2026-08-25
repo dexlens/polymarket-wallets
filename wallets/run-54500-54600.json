@@ -1486,5 +1486,21 @@
     "win_count": 11,
     "rank": 54594,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x21f62de7ca20937647b55c48dfb9776fbe1f2f7e",
+    "trader_name": "dothething",
+    "tag": "Overall",
+    "overall_gain": 1276.562924795963,
+    "active_positions": 15,
+    "win_amount": 1340.9873769759631,
+    "loss_amount": -64.42445218,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 1453.164225,
+    "total_positions": 24,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 54595,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
