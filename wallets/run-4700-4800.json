@@ -1502,5 +1502,21 @@
     "win_count": 102,
     "rank": 4794,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x87c5dcb42adbcbd6ef0326f55feab24128ef4fa3",
+    "trader_name": "jayjoeflo",
+    "tag": "Overall",
+    "overall_gain": 22694.453575118325,
+    "active_positions": 6,
+    "win_amount": 32051.888433000004,
+    "loss_amount": -9357.43485788167,
+    "win_rate": 0.4453125,
+    "total_current_value": 0,
+    "total_positions": 131,
+    "event_ct": 128,
+    "win_count": 57,
+    "rank": 4795,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
