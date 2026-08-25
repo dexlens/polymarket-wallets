@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 2693,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x60ccc2ea4a54b191b6114fa769c03359bb1af23f",
+    "trader_name": "shinyandrew",
+    "tag": "Overall",
+    "overall_gain": 43183.39246954004,
+    "active_positions": 21,
+    "win_amount": 61571.47974559566,
+    "loss_amount": -18388.087276055612,
+    "win_rate": 0.35294117647058826,
+    "total_current_value": 15915.7372979075,
+    "total_positions": 294,
+    "event_ct": 136,
+    "win_count": 48,
+    "rank": 2694,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
