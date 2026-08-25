@@ -1262,5 +1262,21 @@
     "win_count": 17,
     "rank": 6579,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8f15685e3b103deff9026b11926dfefb7a9b0d75",
+    "trader_name": "OrdX",
+    "tag": "Overall",
+    "overall_gain": 16291.89056547135,
+    "active_positions": 6,
+    "win_amount": 42916.22542312639,
+    "loss_amount": -26624.33485765502,
+    "win_rate": 0.5771674140508222,
+    "total_current_value": 88.649547049,
+    "total_positions": 20440,
+    "event_ct": 10704,
+    "win_count": 6178,
+    "rank": 6580,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
