@@ -206,5 +206,21 @@
     "win_count": 5,
     "rank": 22213,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8be789d6cd3270b4053672642e4c41ed8ebb47be",
+    "trader_name": "kingbin",
+    "tag": "Overall",
+    "overall_gain": 4074.341706415771,
+    "active_positions": 1,
+    "win_amount": 4224.996254850873,
+    "loss_amount": -150.65454843510201,
+    "win_rate": 0.7346938775510204,
+    "total_current_value": 0.051616999999999996,
+    "total_positions": 112,
+    "event_ct": 49,
+    "win_count": 36,
+    "rank": 22214,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
