@@ -78,5 +78,21 @@
     "win_count": 3,
     "rank": 12305,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b2c5c842e3277d11fb53319bd3cf2e6af3da85e",
+    "trader_name": "queenbey",
+    "tag": "Overall",
+    "overall_gain": 8302.063379196099,
+    "active_positions": 29,
+    "win_amount": 13071.689825790821,
+    "loss_amount": -4769.626446594726,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 1599.1979171209998,
+    "total_positions": 89,
+    "event_ct": 77,
+    "win_count": 33,
+    "rank": 12306,
+    "trader_tags": "> 1 year old"
   }
 ]
