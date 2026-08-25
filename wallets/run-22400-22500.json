@@ -478,5 +478,21 @@
     "win_count": 10,
     "rank": 22430,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c872ff451f559ecd9f1b5425e612bbf5e5e8ac2",
+    "trader_name": "zinm",
+    "tag": "Overall",
+    "overall_gain": 4028.046312239229,
+    "active_positions": 0,
+    "win_amount": 4028.046312239229,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009229,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 22431,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
