@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 69239,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8a36ee96c85ca829bee13a24695ea95587d80d0d",
+    "trader_name": "Jorra",
+    "tag": "Overall",
+    "overall_gain": 828.2696796439518,
+    "active_positions": 48,
+    "win_amount": 2376.9388660969817,
+    "loss_amount": -1548.6691864530303,
+    "win_rate": 0.5161290322580645,
+    "total_current_value": 224.63832324,
+    "total_positions": 114,
+    "event_ct": 62,
+    "win_count": 32,
+    "rank": 69240,
+    "trader_tags": "> 1 year old"
   }
 ]
