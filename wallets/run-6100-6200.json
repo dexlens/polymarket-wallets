@@ -638,5 +638,21 @@
     "win_count": 20,
     "rank": 6140,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17c6b26eaeb2a6a2ef768ae0e27c9591e2a08aca",
+    "trader_name": "FDTpuissance",
+    "tag": "Overall",
+    "overall_gain": 17451.485029132567,
+    "active_positions": 7,
+    "win_amount": 18394.057178657262,
+    "loss_amount": -942.5721495246901,
+    "win_rate": 0.918918918918919,
+    "total_current_value": 73652.345645227,
+    "total_positions": 42,
+    "event_ct": 37,
+    "win_count": 34,
+    "rank": 6141,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
