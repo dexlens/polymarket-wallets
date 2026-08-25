@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 39273,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x70c47d0a125e3d25352ffeb19c7ad0e6189b1008",
+    "trader_name": "TurtleNinja",
+    "tag": "Overall",
+    "overall_gain": 2033.270063919265,
+    "active_positions": 10,
+    "win_amount": 3233.421009810575,
+    "loss_amount": -1200.1509458913101,
+    "win_rate": 0.7,
+    "total_current_value": 4778.941172913,
+    "total_positions": 176,
+    "event_ct": 110,
+    "win_count": 77,
+    "rank": 39274,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
