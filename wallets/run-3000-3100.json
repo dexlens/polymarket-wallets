@@ -190,5 +190,21 @@
     "win_count": 192,
     "rank": 3012,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x7d0a771ddd2c63255013a1efb5f0e42659b38c6c",
+    "trader_name": "GroyperFinancialServices",
+    "tag": "Overall",
+    "overall_gain": 38121.31523624384,
+    "active_positions": 6,
+    "win_amount": 77943.57122304683,
+    "loss_amount": -39822.255986802986,
+    "win_rate": 0.8558558558558559,
+    "total_current_value": 252679.0203443385,
+    "total_positions": 163,
+    "event_ct": 111,
+    "win_count": 95,
+    "rank": 3013,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
