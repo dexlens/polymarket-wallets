@@ -1246,5 +1246,21 @@
     "win_count": 3,
     "rank": 45079,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52700715b32548c0c214a9632236a805bdf851e1",
+    "trader_name": "dannyburst",
+    "tag": "Overall",
+    "overall_gain": 1709.9947079999997,
+    "active_positions": 13,
+    "win_amount": 5233.014729999999,
+    "loss_amount": -3523.020022,
+    "win_rate": 0.40625,
+    "total_current_value": 91.89150000000001,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 13,
+    "rank": 45080,
+    "trader_tags": ""
   }
 ]
