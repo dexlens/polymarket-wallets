@@ -910,5 +910,21 @@
     "win_count": 1,
     "rank": 49758,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e1b99e41d04a98661a7027d55c6eefd72dbd14b",
+    "trader_name": "SMJKC",
+    "tag": "Overall",
+    "overall_gain": 1493.973453155,
+    "active_positions": 4,
+    "win_amount": 1498.1533489600001,
+    "loss_amount": -4.179895805,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 3344.4067150000005,
+    "total_positions": 40,
+    "event_ct": 26,
+    "win_count": 24,
+    "rank": 49759,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
