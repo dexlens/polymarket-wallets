@@ -1406,5 +1406,21 @@
     "win_count": 2,
     "rank": 80389,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x53714be80f3334e70d716be104a7735abb085a04",
+    "trader_name": "basturma",
+    "tag": "Overall",
+    "overall_gain": 624.0796169500001,
+    "active_positions": 2,
+    "win_amount": 630.0489549499999,
+    "loss_amount": -5.9693380000000005,
+    "win_rate": 0.9210526315789473,
+    "total_current_value": 469.04305375,
+    "total_positions": 96,
+    "event_ct": 38,
+    "win_count": 35,
+    "rank": 80390,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
