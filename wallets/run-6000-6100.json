@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 6048,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10ecb594dcee6dfcbaa69e8320b0d8cdf0143f30",
+    "trader_name": "yoonsi",
+    "tag": "Overall",
+    "overall_gain": 17738.717268102675,
+    "active_positions": 14,
+    "win_amount": 20182.012924393355,
+    "loss_amount": -2443.295656290676,
+    "win_rate": 0.43243243243243246,
+    "total_current_value": 0.034157999999999994,
+    "total_positions": 42,
+    "event_ct": 37,
+    "win_count": 16,
+    "rank": 6049,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
