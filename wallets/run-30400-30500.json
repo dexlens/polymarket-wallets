@@ -1214,5 +1214,21 @@
     "win_count": 5,
     "rank": 30477,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2feb981f5d12146242397314e03a91e158f3b324",
+    "trader_name": "shk",
+    "tag": "Overall",
+    "overall_gain": 2763.163634735177,
+    "active_positions": 15,
+    "win_amount": 3895.372669101144,
+    "loss_amount": -1132.209034365967,
+    "win_rate": 0.48,
+    "total_current_value": 790.6346322925,
+    "total_positions": 74,
+    "event_ct": 50,
+    "win_count": 24,
+    "rank": 30478,
+    "trader_tags": "> 1 year old"
   }
 ]
