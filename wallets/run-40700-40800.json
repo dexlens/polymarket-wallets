@@ -110,5 +110,21 @@
     "win_count": 4,
     "rank": 40708,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10b676ff94acaceda23b1a1f65ca6bd58fe1edc7",
+    "trader_name": "osp41",
+    "tag": "Overall",
+    "overall_gain": 1952.8059425388406,
+    "active_positions": 8,
+    "win_amount": 2572.983248477539,
+    "loss_amount": -620.1773059386979,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 1954.3254819999997,
+    "total_positions": 25,
+    "event_ct": 23,
+    "win_count": 13,
+    "rank": 40709,
+    "trader_tags": "> 1 year old"
   }
 ]
