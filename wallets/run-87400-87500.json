@@ -782,5 +782,21 @@
     "win_count": 5,
     "rank": 87450,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1434f39774b8ec5f94a4e0da8c62a386e984bb9a",
+    "trader_name": "Prata",
+    "tag": "Overall",
+    "overall_gain": 519.5589215848795,
+    "active_positions": 21,
+    "win_amount": 15505.241320730138,
+    "loss_amount": -14985.682399145257,
+    "win_rate": 0.5348837209302325,
+    "total_current_value": 0.00022100000000000003,
+    "total_positions": 51,
+    "event_ct": 43,
+    "win_count": 23,
+    "rank": 87451,
+    "trader_tags": "> 1 year old"
   }
 ]
