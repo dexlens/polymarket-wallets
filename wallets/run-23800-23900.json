@@ -846,5 +846,21 @@
     "win_count": 5,
     "rank": 23854,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x667fcd58eb00393706c472b2bc340e224c863f85",
+    "trader_name": "Moonrix",
+    "tag": "Overall",
+    "overall_gain": 3747.32507,
+    "active_positions": 2,
+    "win_amount": 3953.82507,
+    "loss_amount": -206.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 23855,
+    "trader_tags": ""
   }
 ]
