@@ -1086,5 +1086,21 @@
     "win_count": 2,
     "rank": 8168,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x119c80c91a05d5dead554d93a169d396ed6ef7e3",
+    "trader_name": "DONALDJUDKINS",
+    "tag": "Overall",
+    "overall_gain": 12885.38504014495,
+    "active_positions": 5,
+    "win_amount": 19316.066772984806,
+    "loss_amount": -6430.681732839856,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.012949,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 8169,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
