@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 63014,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37ab983b775f596f290eada2ff784fe6a51354d0",
+    "trader_name": "lemmywalker",
+    "tag": "Overall",
+    "overall_gain": 999.0237741774907,
+    "active_positions": 21,
+    "win_amount": 3272.0991043802997,
+    "loss_amount": -2273.0753302028093,
+    "win_rate": 0.5172413793103449,
+    "total_current_value": 0.007317,
+    "total_positions": 67,
+    "event_ct": 29,
+    "win_count": 15,
+    "rank": 63015,
+    "trader_tags": ""
   }
 ]
