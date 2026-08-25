@@ -542,5 +542,21 @@
     "win_count": 9,
     "rank": 35435,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x939ee1cc0151f2edb53e22e1038fa7c5fb7532e7",
+    "trader_name": "Rament",
+    "tag": "Overall",
+    "overall_gain": 2306.11,
+    "active_positions": 0,
+    "win_amount": 2306.11,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 35436,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
