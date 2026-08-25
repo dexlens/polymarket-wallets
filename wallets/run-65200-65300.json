@@ -638,5 +638,21 @@
     "win_count": 2,
     "rank": 65241,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32211535e396b162719f565f19545ff3a22f0f7e",
+    "trader_name": "PaeniscusCapital",
+    "tag": "Overall",
+    "overall_gain": 937.9947242078142,
+    "active_positions": 0,
+    "win_amount": 1073.7140428999483,
+    "loss_amount": -135.719318692134,
+    "win_rate": 0.847457627118644,
+    "total_current_value": 0.14210499999999998,
+    "total_positions": 88,
+    "event_ct": 59,
+    "win_count": 50,
+    "rank": 65242,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
