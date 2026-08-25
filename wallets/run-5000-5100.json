@@ -270,5 +270,21 @@
     "win_count": 10,
     "rank": 5017,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x97269ef20080b2204f03517487c970ba69de892e",
+    "trader_name": "timekeeper1",
+    "tag": "Overall",
+    "overall_gain": 21571.32888772,
+    "active_positions": 17,
+    "win_amount": 48539.05865299999,
+    "loss_amount": -26967.729765280004,
+    "win_rate": 0.6136363636363636,
+    "total_current_value": 3079.4412,
+    "total_positions": 45,
+    "event_ct": 44,
+    "win_count": 27,
+    "rank": 5018,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
