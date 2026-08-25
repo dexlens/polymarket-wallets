@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 29715,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6601a947ab7ff072b662a7e0deadedfa3f358b36",
+    "trader_name": "davistest",
+    "tag": "Overall",
+    "overall_gain": 2855.062914687801,
+    "active_positions": 19,
+    "win_amount": 6989.8888929999985,
+    "loss_amount": -4134.8259783122,
+    "win_rate": 0.989006962257237,
+    "total_current_value": 0,
+    "total_positions": 2730,
+    "event_ct": 2729,
+    "win_count": 2699,
+    "rank": 29716,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
