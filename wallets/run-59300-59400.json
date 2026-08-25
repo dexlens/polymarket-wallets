@@ -830,5 +830,21 @@
     "win_count": 1,
     "rank": 59353,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd19f4fc5616503e44d9553160cd9df01a282b7bc",
+    "trader_name": "mbpm",
+    "tag": "Overall",
+    "overall_gain": 1097.2268046949534,
+    "active_positions": 3,
+    "win_amount": 4379.83774199431,
+    "loss_amount": -3282.610937299357,
+    "win_rate": 0.6577868852459017,
+    "total_current_value": 38.651233999999995,
+    "total_positions": 529,
+    "event_ct": 488,
+    "win_count": 321,
+    "rank": 59354,
+    "trader_tags": ""
   }
 ]
