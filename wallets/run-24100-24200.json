@@ -782,5 +782,21 @@
     "win_count": 9,
     "rank": 24150,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0874bd7388e6d88b9184cbc6f153b32b88f408ff",
+    "trader_name": "richardxu001",
+    "tag": "Overall",
+    "overall_gain": 3694.4904785074905,
+    "active_positions": 14,
+    "win_amount": 14270.386998680005,
+    "loss_amount": -10575.896520172508,
+    "win_rate": 0.9717757245918238,
+    "total_current_value": 551.891467,
+    "total_positions": 8021,
+    "event_ct": 7901,
+    "win_count": 7678,
+    "rank": 24151,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
