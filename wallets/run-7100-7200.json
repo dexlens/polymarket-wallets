@@ -1406,5 +1406,21 @@
     "win_count": 6,
     "rank": 7188,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d8b18ea7478f1062eb2f59dba627f031a9714cc",
+    "trader_name": "RZU",
+    "tag": "Overall",
+    "overall_gain": 14870.442258835403,
+    "active_positions": 1,
+    "win_amount": 18009.068273239507,
+    "loss_amount": -3138.6260144041053,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.035556,
+    "total_positions": 21,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 7189,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
