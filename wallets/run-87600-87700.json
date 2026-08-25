@@ -1374,5 +1374,21 @@
     "win_count": 38,
     "rank": 87687,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x47ec5ae65ebb1b37230d011715643f922e992ed6",
+    "trader_name": "casholder",
+    "tag": "Overall",
+    "overall_gain": 516.640351665728,
+    "active_positions": 8,
+    "win_amount": 523.640351665728,
+    "loss_amount": -7,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 28.313102999999998,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 10,
+    "rank": 87688,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
