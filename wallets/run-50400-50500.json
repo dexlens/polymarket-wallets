@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 50459,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d63306db678491ffd632df1777c27b41b7139c7",
+    "trader_name": "leathao",
+    "tag": "Overall",
+    "overall_gain": 1464.230600324081,
+    "active_positions": 1,
+    "win_amount": 1657.790600324081,
+    "loss_amount": -193.56,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.000081,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 50460,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
