@@ -542,5 +542,21 @@
     "win_count": 30,
     "rank": 19234,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9a53315434e9f57c1c81ed242670b3055bb66292",
+    "trader_name": "destroymiles",
+    "tag": "Overall",
+    "overall_gain": 4831.66,
+    "active_positions": 5,
+    "win_amount": 6173.229999999999,
+    "loss_amount": -1341.5700000000002,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 19235,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
