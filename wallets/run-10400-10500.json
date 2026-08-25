@@ -1006,5 +1006,21 @@
     "win_count": 9,
     "rank": 10463,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa4bd6cf07b90c71604ce56f7128b60b47e938564",
+    "trader_name": "jqdo",
+    "tag": "Overall",
+    "overall_gain": 10049.505295999998,
+    "active_positions": 0,
+    "win_amount": 10066.405286,
+    "loss_amount": -16.89999,
+    "win_rate": 0.782608695652174,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 23,
+    "win_count": 18,
+    "rank": 10464,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
