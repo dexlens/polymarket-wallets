@@ -1198,5 +1198,21 @@
     "win_count": 273,
     "rank": 8075,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfcd4696578b2beb0fea89d2365a81cced42291d6",
+    "trader_name": "hellomore",
+    "tag": "Overall",
+    "overall_gain": 13009.651995,
+    "active_positions": 1,
+    "win_amount": 13009.651995,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 101.07667500000001,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 8076,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
