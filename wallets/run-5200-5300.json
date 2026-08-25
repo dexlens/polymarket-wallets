@@ -510,5 +510,21 @@
     "win_count": 64,
     "rank": 5232,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9037bdbb4f77d50008f4c666bc7272f29c4f2049",
+    "trader_name": "jballer_1",
+    "tag": "Overall",
+    "overall_gain": 20733.52891820672,
+    "active_positions": 1,
+    "win_amount": 22775.527091,
+    "loss_amount": -2041.9981727932798,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 5233,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
