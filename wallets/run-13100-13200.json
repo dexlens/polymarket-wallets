@@ -1422,5 +1422,21 @@
     "win_count": 24,
     "rank": 13189,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2d95b41536543c7c049b4fc48eaee3fd0b9f9270",
+    "trader_name": "becklcat",
+    "tag": "Overall",
+    "overall_gain": 7606.46763074151,
+    "active_positions": 0,
+    "win_amount": 7686.65155941873,
+    "loss_amount": -80.18392867722,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.030204891999999997,
+    "total_positions": 15,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 13190,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
