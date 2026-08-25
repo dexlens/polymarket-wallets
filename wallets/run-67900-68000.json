@@ -462,5 +462,21 @@
     "win_count": 7,
     "rank": 67930,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x27d02c82facc9936745d6df37222e2a8645b7943",
+    "trader_name": "Bitz67",
+    "tag": "Overall",
+    "overall_gain": 862.3314064873254,
+    "active_positions": 107,
+    "win_amount": 21945.11304637605,
+    "loss_amount": -21082.78163988872,
+    "win_rate": 0.8615771812080537,
+    "total_current_value": 1.7476502560000002,
+    "total_positions": 1334,
+    "event_ct": 1192,
+    "win_count": 1027,
+    "rank": 67931,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
