@@ -1470,5 +1470,21 @@
     "win_count": 3,
     "rank": 32993,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8270a509304801f437dd49d2baf59ca571202980",
+    "trader_name": "stillyoung",
+    "tag": "Overall",
+    "overall_gain": 2505.4266900000007,
+    "active_positions": 1,
+    "win_amount": 3054.191362000001,
+    "loss_amount": -548.764672,
+    "win_rate": 0.9491525423728814,
+    "total_current_value": 135.54,
+    "total_positions": 67,
+    "event_ct": 59,
+    "win_count": 56,
+    "rank": 32994,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
