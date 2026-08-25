@@ -1006,5 +1006,21 @@
     "win_count": 41,
     "rank": 4463,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61a972aa2a659b58e17fd690a2f73f110c7fd092",
+    "trader_name": "PolyPredictor",
+    "tag": "Overall",
+    "overall_gain": 24825.031593746906,
+    "active_positions": 15,
+    "win_amount": 36226.304052524654,
+    "loss_amount": -11401.272458777743,
+    "win_rate": 0.38095238095238093,
+    "total_current_value": 0.065737,
+    "total_positions": 64,
+    "event_ct": 42,
+    "win_count": 16,
+    "rank": 4464,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
