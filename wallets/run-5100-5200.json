@@ -798,5 +798,21 @@
     "win_count": 9,
     "rank": 5150,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdc7cfcbc46ed3670f53f55c8973772ac3143958e",
+    "trader_name": "WWO",
+    "tag": "Overall",
+    "overall_gain": 20997.913329002007,
+    "active_positions": 1,
+    "win_amount": 43453.36664507145,
+    "loss_amount": -22455.453316069434,
+    "win_rate": 0.5920177383592018,
+    "total_current_value": 2.7643599999999995,
+    "total_positions": 577,
+    "event_ct": 451,
+    "win_count": 267,
+    "rank": 5151,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
