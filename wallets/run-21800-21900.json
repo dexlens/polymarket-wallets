@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 21859,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42605c200aef602bf2f8e10b0af409977a3dfe89",
+    "trader_name": "radiancep",
+    "tag": "Overall",
+    "overall_gain": 4154.5,
+    "active_positions": 2,
+    "win_amount": 4883,
+    "loss_amount": -728.5,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 21860,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
