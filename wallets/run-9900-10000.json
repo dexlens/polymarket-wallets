@@ -46,5 +46,21 @@
     "win_count": 1003,
     "rank": 9903,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x6efcf8f2bb054057ae8b044fb9a746b13b61c98b",
+    "trader_name": "jianyang69",
+    "tag": "Overall",
+    "overall_gain": 10586.445173455155,
+    "active_positions": 1,
+    "win_amount": 30017.667893448146,
+    "loss_amount": -19431.22271999299,
+    "win_rate": 0.5,
+    "total_current_value": 5836.311991284,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 9904,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
