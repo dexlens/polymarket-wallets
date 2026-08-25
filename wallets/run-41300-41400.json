@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 41386,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24d7c2e19dc7f6bb7399befff9983e24e83681b3",
+    "trader_name": "GICA",
+    "tag": "Overall",
+    "overall_gain": 1912.1498288411938,
+    "active_positions": 2,
+    "win_amount": 2667.6145909584366,
+    "loss_amount": -755.464762117242,
+    "win_rate": 0.4230769230769231,
+    "total_current_value": 0.030638685000000006,
+    "total_positions": 36,
+    "event_ct": 26,
+    "win_count": 11,
+    "rank": 41387,
+    "trader_tags": "> 1 year old"
   }
 ]
