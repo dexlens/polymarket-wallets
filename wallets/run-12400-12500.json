@@ -1422,5 +1422,21 @@
     "win_count": 21,
     "rank": 12489,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93b4ad1fc1181bf2f672a152e34276ca393bcbfd",
+    "trader_name": "MakerOne",
+    "tag": "Overall",
+    "overall_gain": 8128.586665535791,
+    "active_positions": 829,
+    "win_amount": 36456.450205197885,
+    "loss_amount": -28327.86353966209,
+    "win_rate": 0.6130198915009042,
+    "total_current_value": 111741.83916987499,
+    "total_positions": 3711,
+    "event_ct": 553,
+    "win_count": 339,
+    "rank": 12490,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
