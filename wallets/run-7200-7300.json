@@ -1262,5 +1262,21 @@
     "win_count": 1054,
     "rank": 7279,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x1d4687b8a278eb3dfb0cd0c3f6302998aa92fdb2",
+    "trader_name": "airme",
+    "tag": "Overall",
+    "overall_gain": 14674.112591588359,
+    "active_positions": 33,
+    "win_amount": 21311.49275661458,
+    "loss_amount": -6637.380165026218,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 370.39276116,
+    "total_positions": 198,
+    "event_ct": 56,
+    "win_count": 36,
+    "rank": 7280,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
