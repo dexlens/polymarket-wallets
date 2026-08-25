@@ -1438,5 +1438,21 @@
     "win_count": 3,
     "rank": 22490,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x06a0d00aca3a50fc31ff569dad5737347bdb63b9",
+    "trader_name": "BTC-WHALE",
+    "tag": "Overall",
+    "overall_gain": 4015.870022368081,
+    "active_positions": 1,
+    "win_amount": 4015.870022368081,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 224.745369832,
+    "total_positions": 49,
+    "event_ct": 37,
+    "win_count": 37,
+    "rank": 22491,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
