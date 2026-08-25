@@ -1054,5 +1054,21 @@
     "win_count": 3,
     "rank": 85367,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61350a67db3cf369d6a463751902870a3c09efa0",
+    "trader_name": "stupidoso",
+    "tag": "Overall",
+    "overall_gain": 547.0822396317615,
+    "active_positions": 5,
+    "win_amount": 5637.084981551033,
+    "loss_amount": -5090.002741919272,
+    "win_rate": 0.4943820224719101,
+    "total_current_value": 39.098949624999996,
+    "total_positions": 117,
+    "event_ct": 89,
+    "win_count": 44,
+    "rank": 85368,
+    "trader_tags": "> 1 year old"
   }
 ]
