@@ -126,5 +126,21 @@
     "win_count": 5,
     "rank": 52609,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x425a28f05fdf096709b998b4d941495a5a93eba6",
+    "trader_name": "Primoza",
+    "tag": "Overall",
+    "overall_gain": 1364.484117488406,
+    "active_positions": 0,
+    "win_amount": 1902.384948926212,
+    "loss_amount": -537.900831437806,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 52610,
+    "trader_tags": "> 1 year old"
   }
 ]
