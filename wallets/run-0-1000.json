@@ -3358,5 +3358,21 @@
     "win_count": 75,
     "rank": 210,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x9f47f1fcb1701bf9eaf31236ad39875e5d60af93",
+    "trader_name": "TheGuru",
+    "tag": "Overall",
+    "overall_gain": 574049.8763486404,
+    "active_positions": 0,
+    "win_amount": 1770608.0443980154,
+    "loss_amount": -1196558.168049375,
+    "win_rate": 0.48044692737430167,
+    "total_current_value": 0.6149129999999999,
+    "total_positions": 978,
+    "event_ct": 358,
+    "win_count": 172,
+    "rank": 211,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
   }
 ]
