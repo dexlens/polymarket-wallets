@@ -718,5 +718,21 @@
     "win_count": 3,
     "rank": 50946,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b1c9ccdc055594abb54a0809a2c515415963e50",
+    "trader_name": "jak0b",
+    "tag": "Overall",
+    "overall_gain": 1442.025975759429,
+    "active_positions": 1,
+    "win_amount": 1491.17569153328,
+    "loss_amount": -49.149715773851,
+    "win_rate": 0.5,
+    "total_current_value": 0.00116,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 50947,
+    "trader_tags": "> 1 year old"
   }
 ]
