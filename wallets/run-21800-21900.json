@@ -1342,5 +1342,21 @@
     "win_count": 7,
     "rank": 21884,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7fddf2578c43e7a37810afafa227d45fc655fa0b",
+    "trader_name": "mrblu",
+    "tag": "Overall",
+    "overall_gain": 4147.369751559057,
+    "active_positions": 2,
+    "win_amount": 9418.381203395222,
+    "loss_amount": -5271.011451836166,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 2.6550901074774164e-7,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 21885,
+    "trader_tags": "> 1 year old"
   }
 ]
