@@ -1278,5 +1278,21 @@
     "win_count": 32,
     "rank": 22580,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0271a062e407c5c61e08778bd4b96de3261aa8e5",
+    "trader_name": "ShadoPulse",
+    "tag": "Overall",
+    "overall_gain": 4000.5,
+    "active_positions": 1,
+    "win_amount": 4329,
+    "loss_amount": -328.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 22581,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
