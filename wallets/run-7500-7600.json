@@ -1342,5 +1342,21 @@
     "win_count": 5,
     "rank": 7584,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00fd7eb060c1aedbc2895e8c9a92436a70b1eaed",
+    "trader_name": "preob",
+    "tag": "Overall",
+    "overall_gain": 13981.611229999999,
+    "active_positions": 1,
+    "win_amount": 15915.015989999996,
+    "loss_amount": -1933.40476,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 33.01188,
+    "total_positions": 15,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 7585,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
