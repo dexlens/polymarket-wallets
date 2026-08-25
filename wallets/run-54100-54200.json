@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 54195,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x062c7db1685abd8ffc2ca10b816657799f0fabd9",
+    "trader_name": "Xegnon",
+    "tag": "Overall",
+    "overall_gain": 1295,
+    "active_positions": 2,
+    "win_amount": 1986,
+    "loss_amount": -691,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 54196,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
