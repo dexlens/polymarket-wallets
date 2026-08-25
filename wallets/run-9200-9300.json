@@ -462,5 +462,21 @@
     "win_count": 16,
     "rank": 9229,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd82fbef9d6033d4aeee9047f46e966e13d6e2088",
+    "trader_name": "sulemu",
+    "tag": "Overall",
+    "overall_gain": 11354.564244,
+    "active_positions": 1,
+    "win_amount": 16483.871544,
+    "loss_amount": -5129.3073,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 9230,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
