@@ -878,5 +878,21 @@
     "win_count": 14,
     "rank": 4355,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xfa3c7776bad54a9a12aa8334576f5683c29e4b24",
+    "trader_name": "THRITY",
+    "tag": "Overall",
+    "overall_gain": 25504.8888995706,
+    "active_positions": 1,
+    "win_amount": 25511.6988995706,
+    "loss_amount": -6.8100000000000005,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0.0046,
+    "total_positions": 21,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 4356,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
