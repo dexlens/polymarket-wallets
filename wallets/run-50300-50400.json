@@ -622,5 +622,21 @@
     "win_count": 2,
     "rank": 50340,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c50e94ccbc953744dd991ac0f6c54ebe7272caf",
+    "trader_name": "TrueSignalasdt",
+    "tag": "Overall",
+    "overall_gain": 1469.5789129999998,
+    "active_positions": 0,
+    "win_amount": 1469.5789129999998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 50341,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
