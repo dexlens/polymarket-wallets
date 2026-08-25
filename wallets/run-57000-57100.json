@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 57039,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x79564f8bf220a0987b24052bee45d3f1f4ae9ad2",
+    "trader_name": "gentlecurrent",
+    "tag": "Overall",
+    "overall_gain": 1177.860022030967,
+    "active_positions": 6,
+    "win_amount": 1477.92163,
+    "loss_amount": -300.061607969033,
+    "win_rate": 0.7666666666666667,
+    "total_current_value": 0.1091470565,
+    "total_positions": 31,
+    "event_ct": 30,
+    "win_count": 23,
+    "rank": 57040,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
