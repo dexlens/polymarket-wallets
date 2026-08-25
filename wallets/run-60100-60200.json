@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 60170,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d4bf0fbc9ba8aec3436abbc00cc81687e501aa3",
+    "trader_name": "ChrisZho",
+    "tag": "Overall",
+    "overall_gain": 1071.226896658322,
+    "active_positions": 6,
+    "win_amount": 1093.4006519760262,
+    "loss_amount": -22.173755317703996,
+    "win_rate": 0.9642857142857143,
+    "total_current_value": 167.2483181555,
+    "total_positions": 73,
+    "event_ct": 56,
+    "win_count": 54,
+    "rank": 60171,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
