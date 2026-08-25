@@ -302,5 +302,21 @@
     "win_count": 3,
     "rank": 2019,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57e4bd0fa030e6a6fdde7ee0b58aa497b4f6835e",
+    "trader_name": "imjustalarp",
+    "tag": "Overall",
+    "overall_gain": 59885.797166825745,
+    "active_positions": 121,
+    "win_amount": 129405.78696415786,
+    "loss_amount": -69519.9897973321,
+    "win_rate": 0.5945945945945946,
+    "total_current_value": 159744.78621043707,
+    "total_positions": 282,
+    "event_ct": 111,
+    "win_count": 66,
+    "rank": 2020,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
