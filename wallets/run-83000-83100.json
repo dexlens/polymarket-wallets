@@ -766,5 +766,21 @@
     "win_count": 79,
     "rank": 83049,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x27c35a06a753c756c4a8f93c2761fe111950adc5",
+    "trader_name": "eeeerqw",
+    "tag": "Overall",
+    "overall_gain": 581.539634584616,
+    "active_positions": 13,
+    "win_amount": 644.6936706941831,
+    "loss_amount": -63.15403610956701,
+    "win_rate": 0.7864077669902912,
+    "total_current_value": 692.1746023915,
+    "total_positions": 150,
+    "event_ct": 103,
+    "win_count": 81,
+    "rank": 83050,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
