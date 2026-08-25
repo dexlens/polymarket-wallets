@@ -750,5 +750,21 @@
     "win_count": 4,
     "rank": 27048,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfa225d56f9c7e44ee812884b9310fdcbe21d3715",
+    "trader_name": "Imsecond",
+    "tag": "Overall",
+    "overall_gain": 3200.58863363905,
+    "active_positions": 0,
+    "win_amount": 3491.16812663905,
+    "loss_amount": -290.579493,
+    "win_rate": 0.9666666666666667,
+    "total_current_value": 0.014182315000000001,
+    "total_positions": 70,
+    "event_ct": 30,
+    "win_count": 29,
+    "rank": 27049,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
