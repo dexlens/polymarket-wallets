@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 20469,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ad6652f119c2914886d46faa6976b95120ec268",
+    "trader_name": "Etherdeal",
+    "tag": "Overall",
+    "overall_gain": 4505.5,
+    "active_positions": 1,
+    "win_amount": 4821.5,
+    "loss_amount": -316,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 20470,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
