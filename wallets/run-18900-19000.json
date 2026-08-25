@@ -398,5 +398,21 @@
     "win_count": 9,
     "rank": 18925,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x26ca4c4ae7c0b61a6b602e1b36629b0a04bbefc3",
+    "trader_name": "breakpointer",
+    "tag": "Overall",
+    "overall_gain": 4918.224739333114,
+    "active_positions": 5,
+    "win_amount": 12116.120172825056,
+    "loss_amount": -7197.895433491945,
+    "win_rate": 0.7407407407407407,
+    "total_current_value": 0.086103,
+    "total_positions": 28,
+    "event_ct": 27,
+    "win_count": 20,
+    "rank": 18926,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
