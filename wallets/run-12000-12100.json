@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 12029,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0faf3b51c62ce04a4a07b845230c7d0fd29c9dba",
+    "trader_name": "polemikos",
+    "tag": "Overall",
+    "overall_gain": 8571.28618946403,
+    "active_positions": 1,
+    "win_amount": 10634.38366604834,
+    "loss_amount": -2063.09747658431,
+    "win_rate": 0.7,
+    "total_current_value": 2.2531485786331595,
+    "total_positions": 27,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 12030,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
