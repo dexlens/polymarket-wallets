@@ -1182,5 +1182,21 @@
     "win_count": 30,
     "rank": 8074,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xab2d057d2212ee2f016c413e5fee7f1bf2fbb1aa",
+    "trader_name": "slobod",
+    "tag": "Overall",
+    "overall_gain": 13010.579222307622,
+    "active_positions": 11,
+    "win_amount": 15650.945445865325,
+    "loss_amount": -2640.3662235577067,
+    "win_rate": 0.7418478260869565,
+    "total_current_value": 1.0967160000000002,
+    "total_positions": 682,
+    "event_ct": 368,
+    "win_count": 273,
+    "rank": 8075,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
