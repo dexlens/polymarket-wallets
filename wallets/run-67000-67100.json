@@ -366,5 +366,21 @@
     "win_count": 3,
     "rank": 67024,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef5d7e320e7ab97f527bd354cd2f2f24a8afd518",
+    "trader_name": "klimmo",
+    "tag": "Overall",
+    "overall_gain": 888.5436459999995,
+    "active_positions": 1,
+    "win_amount": 7661.078627,
+    "loss_amount": -6772.534981000002,
+    "win_rate": 0.5130434782608696,
+    "total_current_value": 2.16,
+    "total_positions": 348,
+    "event_ct": 345,
+    "win_count": 177,
+    "rank": 67025,
+    "trader_tags": ""
   }
 ]
