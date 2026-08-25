@@ -638,5 +638,21 @@
     "win_count": 8,
     "rank": 8940,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd2e21ce44c7c5dec3cdfe4a26c98734e8cea25c3",
+    "trader_name": "fakerDonaldTrump",
+    "tag": "Overall",
+    "overall_gain": 11718.06582,
+    "active_positions": 0,
+    "win_amount": 11718.06582,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 8941,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
