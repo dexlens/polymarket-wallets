@@ -334,5 +334,21 @@
     "win_count": 5,
     "rank": 7821,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeab37aa3a5c59e3edd85bbacc075e387841ee967",
+    "trader_name": "Syntar",
+    "tag": "Overall",
+    "overall_gain": 13478.60768467186,
+    "active_positions": 4,
+    "win_amount": 14326.149677871155,
+    "loss_amount": -847.541993199294,
+    "win_rate": 0.7391304347826086,
+    "total_current_value": 0.009328,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 17,
+    "rank": 7822,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
