@@ -1134,5 +1134,21 @@
     "win_count": 26,
     "rank": 5371,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x249f840c2a1cabe9fdc4c86a0106c851a695fed3",
+    "trader_name": "YaoXu",
+    "tag": "Overall",
+    "overall_gain": 20156.881272504328,
+    "active_positions": 2,
+    "win_amount": 44314.56038408909,
+    "loss_amount": -24157.679111584763,
+    "win_rate": 0.6176470588235294,
+    "total_current_value": 0.6535100000000001,
+    "total_positions": 356,
+    "event_ct": 204,
+    "win_count": 126,
+    "rank": 5372,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
