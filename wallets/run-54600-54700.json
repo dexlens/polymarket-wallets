@@ -1102,5 +1102,21 @@
     "win_count": 20,
     "rank": 54670,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x75d3c1fad4ec173bcde6516b308392bd8482de26",
+    "trader_name": "gelugon",
+    "tag": "Overall",
+    "overall_gain": 1272.862323991781,
+    "active_positions": 12,
+    "win_amount": 3781.3580433168395,
+    "loss_amount": -2508.495719325058,
+    "win_rate": 0.7,
+    "total_current_value": 4269.580443381501,
+    "total_positions": 221,
+    "event_ct": 160,
+    "win_count": 112,
+    "rank": 54671,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
