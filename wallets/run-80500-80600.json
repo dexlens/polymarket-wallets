@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 80524,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23b5983f0ce038fa9936f72153c706fe5d516333",
+    "trader_name": "MississippiFalcons241",
+    "tag": "Overall",
+    "overall_gain": 621.8058110000002,
+    "active_positions": 3,
+    "win_amount": 2516.36542,
+    "loss_amount": -1894.559609,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 1125.81,
+    "total_positions": 28,
+    "event_ct": 27,
+    "win_count": 15,
+    "rank": 80525,
+    "trader_tags": "< 30 days old"
   }
 ]
