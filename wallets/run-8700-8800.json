@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 8725,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe3956d8f56d9038d7d1a0b87b1ba23e1d8cfb593",
+    "trader_name": "nzaeq",
+    "tag": "Overall",
+    "overall_gain": 12021.761600000002,
+    "active_positions": 0,
+    "win_amount": 12429.996298,
+    "loss_amount": -408.23469800000004,
+    "win_rate": 0.5789473684210527,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 19,
+    "win_count": 11,
+    "rank": 8726,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
