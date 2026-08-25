@@ -830,5 +830,21 @@
     "win_count": 8,
     "rank": 33353,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x91600b8b04bb48c7f3864af28a24321adbe5986f",
+    "trader_name": "Rowenaf",
+    "tag": "Overall",
+    "overall_gain": 2477.5,
+    "active_positions": 1,
+    "win_amount": 6763,
+    "loss_amount": -4285.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 33354,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
