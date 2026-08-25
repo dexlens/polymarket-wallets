@@ -942,5 +942,21 @@
     "win_count": 3,
     "rank": 67760,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xccac0e3311e357b191a8cbf2703b8acd00678a2a",
+    "trader_name": "avhuta",
+    "tag": "Overall",
+    "overall_gain": 867.755061831428,
+    "active_positions": 2,
+    "win_amount": 992.369076,
+    "loss_amount": -124.614014168572,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 67761,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
