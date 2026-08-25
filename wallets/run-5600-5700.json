@@ -1374,5 +1374,21 @@
     "win_count": 6,
     "rank": 5686,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9afcf685bd1d5b85fbba0e2d8840443594c74280",
+    "trader_name": "FOaHMgyE4",
+    "tag": "Overall",
+    "overall_gain": 18976.001323017892,
+    "active_positions": 9,
+    "win_amount": 26763.16032301789,
+    "loss_amount": -7787.159,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 3.058139,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 16,
+    "rank": 5687,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
