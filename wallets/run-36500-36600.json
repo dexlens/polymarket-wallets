@@ -846,5 +846,21 @@
     "win_count": 10,
     "rank": 36554,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x80cf7e7eea90265b23e78aa64e5312ee702e8060",
+    "trader_name": "gtr.ggt",
+    "tag": "Overall",
+    "overall_gain": 2221.298325601562,
+    "active_positions": 2,
+    "win_amount": 3118.238710970665,
+    "loss_amount": -896.940385369103,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 386.480314,
+    "total_positions": 25,
+    "event_ct": 22,
+    "win_count": 18,
+    "rank": 36555,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
