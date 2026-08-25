@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 58579,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3ceed0e10b5a1003b778f72343394e6bc521edcd",
+    "trader_name": "Cayou",
+    "tag": "Overall",
+    "overall_gain": 1122.4516095570093,
+    "active_positions": 1,
+    "win_amount": 1522.9251421151594,
+    "loss_amount": -400.47353255814994,
+    "win_rate": 0.926829268292683,
+    "total_current_value": 619.9892937179998,
+    "total_positions": 471,
+    "event_ct": 246,
+    "win_count": 228,
+    "rank": 58580,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
