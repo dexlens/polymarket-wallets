@@ -1246,5 +1246,21 @@
     "win_count": 4,
     "rank": 6078,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4511d480723bd9264dd9722c5494f8b66f443efe",
+    "trader_name": "Nemior",
+    "tag": "Overall",
+    "overall_gain": 17648.144196461468,
+    "active_positions": 2,
+    "win_amount": 18106.724196461466,
+    "loss_amount": -458.58000000000004,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 7.997988,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 30,
+    "rank": 6079,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
