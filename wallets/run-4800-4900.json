@@ -878,5 +878,21 @@
     "win_count": 12,
     "rank": 4855,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x113829226981f7ab14c263f1a8d6ae350fd4f3da",
+    "trader_name": "Fortysixpercent - 7616",
+    "tag": "Overall",
+    "overall_gain": 22403.424151736825,
+    "active_positions": 2,
+    "win_amount": 33963.00887759067,
+    "loss_amount": -11559.584725853843,
+    "win_rate": 0.603399433427762,
+    "total_current_value": 0.003695773654728138,
+    "total_positions": 427,
+    "event_ct": 353,
+    "win_count": 213,
+    "rank": 4856,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
