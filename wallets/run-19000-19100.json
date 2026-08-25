@@ -702,5 +702,21 @@
     "win_count": 12,
     "rank": 19044,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7f0fff6133e7b1a11a412a146528ea42fe94036",
+    "trader_name": "Mailorder",
+    "tag": "Overall",
+    "overall_gain": 4883.775712468426,
+    "active_positions": 1,
+    "win_amount": 6693.287788951557,
+    "loss_amount": -1809.51207648313,
+    "win_rate": 0.7794117647058824,
+    "total_current_value": 0.034106,
+    "total_positions": 70,
+    "event_ct": 68,
+    "win_count": 53,
+    "rank": 19045,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
