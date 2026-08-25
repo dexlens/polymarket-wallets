@@ -926,5 +926,21 @@
     "win_count": 8,
     "rank": 3658,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdbc14f079caece177e27abe9a14395d38888c434",
+    "trader_name": "Dojustice",
+    "tag": "Overall",
+    "overall_gain": 31169.52431499761,
+    "active_positions": 3,
+    "win_amount": 35931.20431499761,
+    "loss_amount": -4761.68,
+    "win_rate": 0.9655172413793104,
+    "total_current_value": 14.280843344,
+    "total_positions": 104,
+    "event_ct": 29,
+    "win_count": 28,
+    "rank": 3659,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
