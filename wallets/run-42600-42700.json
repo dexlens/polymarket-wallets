@@ -1038,5 +1038,21 @@
     "win_count": 5,
     "rank": 42666,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc9314d7918f8dab926df4325a72dcb3eb647a998",
+    "trader_name": "binance-newbie",
+    "tag": "Overall",
+    "overall_gain": 1838.553026000338,
+    "active_positions": 2,
+    "win_amount": 3139.420997757308,
+    "loss_amount": -1300.86797175697,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 68741.41260341101,
+    "total_positions": 17,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 42667,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
