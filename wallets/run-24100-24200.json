@@ -1550,5 +1550,21 @@
     "win_count": 18,
     "rank": 24198,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf9fcf40166c180738645743974e9c228ace94064",
+    "trader_name": "Brontes",
+    "tag": "Overall",
+    "overall_gain": 3684.5,
+    "active_positions": 1,
+    "win_amount": 4057,
+    "loss_amount": -372.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 24199,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
