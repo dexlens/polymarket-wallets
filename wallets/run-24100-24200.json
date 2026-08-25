@@ -1054,5 +1054,21 @@
     "win_count": 10,
     "rank": 24167,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf4e6639d48f3876f52884b1d1b325102da61de8d",
+    "trader_name": "persym",
+    "tag": "Overall",
+    "overall_gain": 3690.7226072517096,
+    "active_positions": 0,
+    "win_amount": 3690.7226072517096,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005554375,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 24168,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
