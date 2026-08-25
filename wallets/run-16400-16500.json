@@ -1294,5 +1294,21 @@
     "win_count": 3,
     "rank": 16481,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8aaec572570faf58c8c6c423f159ed4e0336419d",
+    "trader_name": "alifeofkai",
+    "tag": "Overall",
+    "overall_gain": 5784.401402158448,
+    "active_positions": 4,
+    "win_amount": 13161.664171636306,
+    "loss_amount": -7377.262769477863,
+    "win_rate": 0.7115384615384616,
+    "total_current_value": 0.09077,
+    "total_positions": 57,
+    "event_ct": 52,
+    "win_count": 37,
+    "rank": 16482,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
