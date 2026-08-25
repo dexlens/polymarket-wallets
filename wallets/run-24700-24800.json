@@ -1550,5 +1550,21 @@
     "win_count": 4,
     "rank": 24798,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd83cf89fa4ce75d1557c75657c9c9cb703ea798c",
+    "trader_name": "TemperanceRefinement",
+    "tag": "Overall",
+    "overall_gain": 3577.277455802571,
+    "active_positions": 30,
+    "win_amount": 4388.5330127360785,
+    "loss_amount": -811.2555569335059,
+    "win_rate": 0.9556786703601108,
+    "total_current_value": 24721.973991449504,
+    "total_positions": 611,
+    "event_ct": 361,
+    "win_count": 345,
+    "rank": 24799,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
