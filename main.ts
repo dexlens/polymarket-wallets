@@ -59,6 +59,7 @@ for (const wallet of realdata.slice(runStart, runEnd)) {
   const indexdata = JSON.parse(await Deno.readTextFile(indexfilename));
   indexdata.wallets++;
   await Deno.writeTextFile(indexfilename, JSON.stringify(indexdata, null, 2));
+  console.log(`Finished ${wallet.trader_name}:${wallet.trader}`);
 }
 
 // read the index.json now
@@ -71,5 +72,5 @@ const readmedata = await Deno.readTextFile(readmefilename);
 // find the {{ number of wallets }}
 const numberFormatted = wallets.toLocaleString(); 
 const newreadmedata = readmedata.replace(/Wallets: \d+/, `Wallets: ${numberFormatted}`);
-console.log(newreadmedata);
+// console.log(newreadmedata);
 await Deno.writeTextFile(readmefilename, newreadmedata);
