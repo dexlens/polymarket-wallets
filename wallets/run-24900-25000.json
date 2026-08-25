@@ -1246,5 +1246,21 @@
     "win_count": 11,
     "rank": 24979,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38cddfa012ba69fb29daadde922f085777c4a557",
+    "trader_name": "Intuition",
+    "tag": "Overall",
+    "overall_gain": 3543.302996950129,
+    "active_positions": 11,
+    "win_amount": 12145.763126372529,
+    "loss_amount": -8602.460129422401,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 428.20554500000003,
+    "total_positions": 286,
+    "event_ct": 195,
+    "win_count": 130,
+    "rank": 24980,
+    "trader_tags": "> 1 year old"
   }
 ]
