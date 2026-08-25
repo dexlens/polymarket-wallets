@@ -782,5 +782,21 @@
     "win_count": 50,
     "rank": 5049,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3e04fbc51adb75418129f6ce2091ae633070564d",
+    "trader_name": "roldy",
+    "tag": "Overall",
+    "overall_gain": 21423.74596063972,
+    "active_positions": 847,
+    "win_amount": 2906520.2332465122,
+    "loss_amount": -2885096.487285872,
+    "win_rate": 0.517217146872804,
+    "total_current_value": 24394.119751821498,
+    "total_positions": 3456,
+    "event_ct": 2846,
+    "win_count": 1472,
+    "rank": 5050,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
