@@ -638,5 +638,21 @@
     "win_count": 599,
     "rank": 8840,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x873103d357c5f8a58b05c22f7820bd0c89f26e64",
+    "trader_name": "gwg3",
+    "tag": "Overall",
+    "overall_gain": 11850.625645,
+    "active_positions": 5,
+    "win_amount": 30970.825645,
+    "loss_amount": -19120.2,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 8841,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
