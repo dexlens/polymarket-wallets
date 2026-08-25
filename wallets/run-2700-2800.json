@@ -254,5 +254,21 @@
     "win_count": 17,
     "rank": 2716,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc642c823ac3810f772687c44ec9355f8f348565e",
+    "trader_name": "kcmm2",
+    "tag": "Overall",
+    "overall_gain": 42852.910822,
+    "active_positions": 0,
+    "win_amount": 128143.474439,
+    "loss_amount": -85290.563617,
+    "win_rate": 0.4074074074074074,
+    "total_current_value": 0,
+    "total_positions": 46,
+    "event_ct": 27,
+    "win_count": 11,
+    "rank": 2717,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
