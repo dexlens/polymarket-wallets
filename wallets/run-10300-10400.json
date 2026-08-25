@@ -1518,5 +1518,21 @@
     "win_count": 32,
     "rank": 10395,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x91268d0ccda62dca52fbf88ac85d303cd880a984",
+    "trader_name": "Emma5544",
+    "tag": "Overall",
+    "overall_gain": 10106.563817701983,
+    "active_positions": 8,
+    "win_amount": 12791.97676054383,
+    "loss_amount": -2685.4129428418482,
+    "win_rate": 0.5757575757575758,
+    "total_current_value": 0.060038,
+    "total_positions": 57,
+    "event_ct": 33,
+    "win_count": 19,
+    "rank": 10396,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
