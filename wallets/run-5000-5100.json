@@ -638,5 +638,21 @@
     "win_count": 31,
     "rank": 5040,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x15b39c77fffa81732258fa19427fe88b5ed79809",
+    "trader_name": "ysdlaob",
+    "tag": "Overall",
+    "overall_gain": 21474.20941812913,
+    "active_positions": 9,
+    "win_amount": 30056.556329982173,
+    "loss_amount": -8582.346911853045,
+    "win_rate": 0.7,
+    "total_current_value": 9.15525866,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 21,
+    "rank": 5041,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
