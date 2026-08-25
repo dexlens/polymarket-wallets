@@ -654,5 +654,21 @@
     "win_count": 8917,
     "rank": 1041,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xf1bb700a67e3e8a45dc8160a92f4e0405f41bf09",
+    "trader_name": "aenews",
+    "tag": "Overall",
+    "overall_gain": 116058.08006594691,
+    "active_positions": 1,
+    "win_amount": 186169.46897582823,
+    "loss_amount": -70111.38890988137,
+    "win_rate": 0.6630669546436285,
+    "total_current_value": 1.1624899999999998,
+    "total_positions": 890,
+    "event_ct": 463,
+    "win_count": 307,
+    "rank": 1042,
+    "trader_tags": "Overall PnL > $100k; > 1 year old"
   }
 ]
