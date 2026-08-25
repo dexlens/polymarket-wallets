@@ -142,5 +142,21 @@
     "win_count": 1,
     "rank": 16009,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x92f759cdf35faddf76c090de3557c1db69d4cb5f",
+    "trader_name": "jobgiver",
+    "tag": "Overall",
+    "overall_gain": 5994.630439343171,
+    "active_positions": 25,
+    "win_amount": 6203.629151419847,
+    "loss_amount": -208.99871207667604,
+    "win_rate": 0.8620689655172413,
+    "total_current_value": 52.4776945585,
+    "total_positions": 85,
+    "event_ct": 58,
+    "win_count": 50,
+    "rank": 16010,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
