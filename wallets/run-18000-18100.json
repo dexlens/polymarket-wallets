@@ -1550,5 +1550,21 @@
     "win_count": 5,
     "rank": 18097,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48e4331485c02a628ff32f5ca3dc81993509663e",
+    "trader_name": "thomasrobinson",
+    "tag": "Overall",
+    "overall_gain": 5146.890534981186,
+    "active_positions": 1,
+    "win_amount": 5296.896099305136,
+    "loss_amount": -150.00556432394995,
+    "win_rate": 0.25,
+    "total_current_value": 0.07376955100000002,
+    "total_positions": 49,
+    "event_ct": 40,
+    "win_count": 10,
+    "rank": 18098,
+    "trader_tags": ""
   }
 ]
