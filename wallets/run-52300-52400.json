@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 52313,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcd109bb8dd08311533edb83c6a5dc56305610d30",
+    "trader_name": "tehpher",
+    "tag": "Overall",
+    "overall_gain": 1377.9658305402968,
+    "active_positions": 1,
+    "win_amount": 2697.5266138537313,
+    "loss_amount": -1319.560783313435,
+    "win_rate": 0.41025641025641024,
+    "total_current_value": 0.061663,
+    "total_positions": 46,
+    "event_ct": 39,
+    "win_count": 16,
+    "rank": 52314,
+    "trader_tags": "> 1 year old"
   }
 ]
