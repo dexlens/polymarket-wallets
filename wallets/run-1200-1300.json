@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 1220,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x4408cc367a713840d92693acd35cc205e59e1b6a",
+    "trader_name": "enesowil",
+    "tag": "Overall",
+    "overall_gain": 100011.02111163095,
+    "active_positions": 91,
+    "win_amount": 790633.944295007,
+    "loss_amount": -690622.9231833757,
+    "win_rate": 0.5560747663551402,
+    "total_current_value": 0.34009291,
+    "total_positions": 256,
+    "event_ct": 214,
+    "win_count": 119,
+    "rank": 1221,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
