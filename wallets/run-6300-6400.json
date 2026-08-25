@@ -1086,5 +1086,21 @@
     "win_count": 149,
     "rank": 6368,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x59c3587a421a334f5655bc35cf13c549566d9a4b",
+    "trader_name": "scsatyo",
+    "tag": "Overall",
+    "overall_gain": 16819.811681839994,
+    "active_positions": 0,
+    "win_amount": 19897.778899839996,
+    "loss_amount": -3077.967218,
+    "win_rate": 0.8,
+    "total_current_value": 0.060000000000000005,
+    "total_positions": 18,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 6369,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
