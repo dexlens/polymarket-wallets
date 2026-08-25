@@ -158,5 +158,21 @@
     "win_count": 7,
     "rank": 5110,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x659074f8b95176e50dbdeb720be78b1666063a26",
+    "trader_name": "FlexPower",
+    "tag": "Overall",
+    "overall_gain": 21196.018872722292,
+    "active_positions": 1215,
+    "win_amount": 24124.72152575775,
+    "loss_amount": -2928.7026530354588,
+    "win_rate": 0.2879221522610189,
+    "total_current_value": 450.6268967060001,
+    "total_positions": 5332,
+    "event_ct": 1747,
+    "win_count": 503,
+    "rank": 5111,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
