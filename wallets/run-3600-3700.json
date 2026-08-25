@@ -1102,5 +1102,21 @@
     "win_count": 26,
     "rank": 3669,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36901eb0f21519cc9055662a6d2483e96da1e16f",
+    "trader_name": "melchior1248",
+    "tag": "Overall",
+    "overall_gain": 31041.768238098954,
+    "active_positions": 1706,
+    "win_amount": 151150.83878823882,
+    "loss_amount": -120109.0705501399,
+    "win_rate": 0.6360601001669449,
+    "total_current_value": 60045.59279799951,
+    "total_positions": 9992,
+    "event_ct": 599,
+    "win_count": 381,
+    "rank": 3670,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
