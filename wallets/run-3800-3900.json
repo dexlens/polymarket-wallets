@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 3899,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd2e226f92bf35152bb04338aa31da8f915ccadf9",
+    "trader_name": "hipposop",
+    "tag": "Overall",
+    "overall_gain": 29044.444142654127,
+    "active_positions": 0,
+    "win_amount": 29044.444142654127,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004538,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 3900,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
