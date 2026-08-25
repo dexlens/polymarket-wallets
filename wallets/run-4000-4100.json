@@ -1406,5 +1406,21 @@
     "win_count": 11,
     "rank": 4088,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x079a7f8bdc662688a5c234f5cfb8ef651430c538",
+    "trader_name": "MonsterTraders",
+    "tag": "Overall",
+    "overall_gain": 27378.497593245433,
+    "active_positions": 6,
+    "win_amount": 32132.077593245434,
+    "loss_amount": -4753.58,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 12.799280071000002,
+    "total_positions": 115,
+    "event_ct": 45,
+    "win_count": 42,
+    "rank": 4089,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
