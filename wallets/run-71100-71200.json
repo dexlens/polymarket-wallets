@@ -126,5 +126,21 @@
     "win_count": 36,
     "rank": 71109,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x601377b5d5251b0dc6b00fd962c6d975c0c7d554",
+    "trader_name": "Spectrumoriel",
+    "tag": "Overall",
+    "overall_gain": 786.01,
+    "active_positions": 2,
+    "win_amount": 786.01,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 71110,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
