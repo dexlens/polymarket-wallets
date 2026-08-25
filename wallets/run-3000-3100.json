@@ -622,5 +622,21 @@
     "win_count": 32,
     "rank": 3039,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x43c692d092454458e5669cd8f248482f071867c0",
+    "trader_name": "Veyna",
+    "tag": "Overall",
+    "overall_gain": 37734.89800355432,
+    "active_positions": 7,
+    "win_amount": 38207.22331129703,
+    "loss_amount": -472.325307742703,
+    "win_rate": 0.8793103448275862,
+    "total_current_value": 8.320033,
+    "total_positions": 63,
+    "event_ct": 58,
+    "win_count": 51,
+    "rank": 3040,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
