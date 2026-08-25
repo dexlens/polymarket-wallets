@@ -462,5 +462,21 @@
     "win_count": 10,
     "rank": 88630,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ad5fdf92a0201910f40d42d110c68a2ef7baa16",
+    "trader_name": "seigj",
+    "tag": "Overall",
+    "overall_gain": 505.809694766665,
+    "active_positions": 4,
+    "win_amount": 507.798578,
+    "loss_amount": -1.988883233335,
+    "win_rate": 0.25,
+    "total_current_value": 4.05065,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 88631,
+    "trader_tags": "> 1 year old"
   }
 ]
