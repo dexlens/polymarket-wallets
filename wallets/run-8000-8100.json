@@ -1118,5 +1118,21 @@
     "win_count": 10,
     "rank": 8070,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc6ccf558eecc3835b1cc70d097fe3b64921f31fd",
+    "trader_name": "Munners",
+    "tag": "Overall",
+    "overall_gain": 13015.048670783206,
+    "active_positions": 4,
+    "win_amount": 57783.075200836945,
+    "loss_amount": -44768.02653005374,
+    "win_rate": 0.5367647058823529,
+    "total_current_value": 6.204783,
+    "total_positions": 267,
+    "event_ct": 136,
+    "win_count": 73,
+    "rank": 8071,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
