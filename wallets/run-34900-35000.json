@@ -542,5 +542,21 @@
     "win_count": 2,
     "rank": 34935,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41e17adc49283306748a8e637e8156a33bf2069e",
+    "trader_name": "JacobMagnusson",
+    "tag": "Overall",
+    "overall_gain": 2346.4594017416885,
+    "active_positions": 115,
+    "win_amount": 5123.7373677993355,
+    "loss_amount": -2777.2779660576475,
+    "win_rate": 0.3236994219653179,
+    "total_current_value": 0.260026,
+    "total_positions": 191,
+    "event_ct": 173,
+    "win_count": 56,
+    "rank": 34936,
+    "trader_tags": "> 1 year old"
   }
 ]
