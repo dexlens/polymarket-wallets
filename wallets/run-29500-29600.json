@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 29550,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a45fd70191687c28403eea9647aa8375e2b24cf",
+    "trader_name": "Spamuo",
+    "tag": "Overall",
+    "overall_gain": 2874.9792025375627,
+    "active_positions": 0,
+    "win_amount": 4271.125445537563,
+    "loss_amount": -1396.1462430000001,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.013951999999999999,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 29551,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
