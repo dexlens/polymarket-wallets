@@ -1054,5 +1054,21 @@
     "win_count": 8,
     "rank": 8066,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x64bb9a573bd9f4cc6a0863139cb00b1524bbe1ca",
+    "trader_name": "ARTHOWELL",
+    "tag": "Overall",
+    "overall_gain": 13016.599987,
+    "active_positions": 5,
+    "win_amount": 19541.099987,
+    "loss_amount": -6524.5,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 8067,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
