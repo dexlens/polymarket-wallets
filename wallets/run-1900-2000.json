@@ -638,5 +638,21 @@
     "win_count": 52,
     "rank": 1940,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd66f79a8d19d4223b6c70dd4e620d4875501a19b",
+    "trader_name": "intrepid",
+    "tag": "Overall",
+    "overall_gain": 62220.360749669286,
+    "active_positions": 5,
+    "win_amount": 100784.62302578644,
+    "loss_amount": -38564.26227611714,
+    "win_rate": 0.6088560885608856,
+    "total_current_value": 111.68542971500001,
+    "total_positions": 1796,
+    "event_ct": 542,
+    "win_count": 330,
+    "rank": 1941,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
