@@ -1502,5 +1502,21 @@
     "win_count": 3,
     "rank": 33895,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0a4928172b67d8de150d869cc055721516fab41b",
+    "trader_name": "golumhoroshev",
+    "tag": "Overall",
+    "overall_gain": 2433.4124600000005,
+    "active_positions": 3,
+    "win_amount": 3530.5700000000006,
+    "loss_amount": -1097.1575400000002,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 21.01514,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 33896,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
