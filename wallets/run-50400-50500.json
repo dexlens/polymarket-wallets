@@ -958,5 +958,21 @@
     "win_count": 2,
     "rank": 50461,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5930a3718fb5589405250a0c02f0cce80efc236a",
+    "trader_name": "fd48",
+    "tag": "Overall",
+    "overall_gain": 1464.208181535525,
+    "active_positions": 1,
+    "win_amount": 2537.8482984404177,
+    "loss_amount": -1073.640116904893,
+    "win_rate": 0.7288135593220338,
+    "total_current_value": 103.98176923550001,
+    "total_positions": 90,
+    "event_ct": 59,
+    "win_count": 43,
+    "rank": 50462,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
