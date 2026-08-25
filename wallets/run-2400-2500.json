@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 2470,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d6b08600c7433db52a476fa8b577c8d51323fc9",
+    "trader_name": "Draeven",
+    "tag": "Overall",
+    "overall_gain": 47483.819341608614,
+    "active_positions": 12,
+    "win_amount": 48669.19375092683,
+    "loss_amount": -1185.3744093182179,
+    "win_rate": 0.803030303030303,
+    "total_current_value": 58.0751918005,
+    "total_positions": 70,
+    "event_ct": 66,
+    "win_count": 53,
+    "rank": 2471,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
