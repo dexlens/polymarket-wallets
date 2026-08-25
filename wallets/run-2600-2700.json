@@ -734,5 +734,21 @@
     "win_count": 138,
     "rank": 2646,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x77e9bbef9d8d8c4aa6b9b0485c99fac03d93d776",
+    "trader_name": "profita-net",
+    "tag": "Overall",
+    "overall_gain": 44087.00009038801,
+    "active_positions": 14,
+    "win_amount": 51032.000030999996,
+    "loss_amount": -6944.99994061198,
+    "win_rate": 0.5161290322580645,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 16,
+    "rank": 2647,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
