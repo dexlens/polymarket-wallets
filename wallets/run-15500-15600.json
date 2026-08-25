@@ -958,5 +958,21 @@
     "win_count": 90,
     "rank": 15560,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1fe37eb614eeb5b8c540ba56e3522563f93fe0fd",
+    "trader_name": "MidasYY",
+    "tag": "Overall",
+    "overall_gain": 6204.832017112061,
+    "active_positions": 80,
+    "win_amount": 81004.56053094575,
+    "loss_amount": -74799.7285138337,
+    "win_rate": 0.4186046511627907,
+    "total_current_value": 1.4058439999999999,
+    "total_positions": 438,
+    "event_ct": 344,
+    "win_count": 144,
+    "rank": 15561,
+    "trader_tags": "> 1 year old"
   }
 ]
