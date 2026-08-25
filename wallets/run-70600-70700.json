@@ -542,5 +542,21 @@
     "win_count": 15,
     "rank": 70635,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x124ba912f75c185b039dae3b7d9ba2d8956b50af",
+    "trader_name": "Driox",
+    "tag": "Overall",
+    "overall_gain": 796.0810282743281,
+    "active_positions": 4,
+    "win_amount": 1402.82325350213,
+    "loss_amount": -606.742225227802,
+    "win_rate": 0.625,
+    "total_current_value": 0.022425,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 70636,
+    "trader_tags": ""
   }
 ]
