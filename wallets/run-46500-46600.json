@@ -878,5 +878,21 @@
     "win_count": 6,
     "rank": 46556,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x277948f6c939469a3f15501b5800e7fc8d4a4635",
+    "trader_name": "anamap",
+    "tag": "Overall",
+    "overall_gain": 1638.032400964895,
+    "active_positions": 1,
+    "win_amount": 2812.466680084867,
+    "loss_amount": -1174.434279119972,
+    "win_rate": 0.8125,
+    "total_current_value": 1105.39969526,
+    "total_positions": 19,
+    "event_ct": 16,
+    "win_count": 13,
+    "rank": 46557,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
