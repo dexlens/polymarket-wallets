@@ -574,5 +574,21 @@
     "win_count": 9,
     "rank": 3536,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x9e35be229d4d96a30e45314103989832853877b4",
+    "trader_name": "dyn2",
+    "tag": "Overall",
+    "overall_gain": 32255.55713057432,
+    "active_positions": 2,
+    "win_amount": 160321.06346257438,
+    "loss_amount": -128065.50633200005,
+    "win_rate": 0.559074299634592,
+    "total_current_value": 215.462099675,
+    "total_positions": 11619,
+    "event_ct": 7389,
+    "win_count": 4131,
+    "rank": 3537,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
