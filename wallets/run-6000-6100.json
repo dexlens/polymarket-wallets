@@ -734,5 +734,21 @@
     "win_count": 35,
     "rank": 6046,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40e291995937fa478c79dbc0c3c154512b97565b",
+    "trader_name": "niftynifty",
+    "tag": "Overall",
+    "overall_gain": 17742.008705947184,
+    "active_positions": 0,
+    "win_amount": 18766.763145626323,
+    "loss_amount": -1024.75443967914,
+    "win_rate": 0.5,
+    "total_current_value": 0.0063083850000000006,
+    "total_positions": 11,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 6047,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
