@@ -542,5 +542,21 @@
     "win_count": 8,
     "rank": 76035,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5e34f73eb8fe9cc43e3172eb3f9b7d7c7de5ab9b",
+    "trader_name": "Tuvvfj",
+    "tag": "Overall",
+    "overall_gain": 698.3185460953079,
+    "active_positions": 6,
+    "win_amount": 1164.3796653153909,
+    "loss_amount": -466.061119220083,
+    "win_rate": 0.7733333333333333,
+    "total_current_value": 16.07918111,
+    "total_positions": 85,
+    "event_ct": 75,
+    "win_count": 58,
+    "rank": 76036,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
