@@ -878,5 +878,21 @@
     "win_count": 65,
     "rank": 7455,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x718a99a4d27faf6b5fb5a2c753fdc76cb9243e1a",
+    "trader_name": "chapp",
+    "tag": "Overall",
+    "overall_gain": 14232.86247022243,
+    "active_positions": 1,
+    "win_amount": 15588.086045198972,
+    "loss_amount": -1355.223574976543,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0.03242175,
+    "total_positions": 20,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 7456,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
