@@ -974,5 +974,21 @@
     "win_count": 120,
     "rank": 3361,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3ebf3effa818d6af3c89a5624ec30f282f2d3b02",
+    "trader_name": "imthecaptain",
+    "tag": "Overall",
+    "overall_gain": 33965.39817884204,
+    "active_positions": 6,
+    "win_amount": 35879.105757692036,
+    "loss_amount": -1913.7075788500003,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 46912.21937299999,
+    "total_positions": 19,
+    "event_ct": 15,
+    "win_count": 13,
+    "rank": 3362,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
