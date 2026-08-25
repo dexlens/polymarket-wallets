@@ -702,5 +702,21 @@
     "win_count": 5,
     "rank": 3444,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f9882a017fac7e1143e9fe7a619268a1a489e1a",
+    "trader_name": "teyice",
+    "tag": "Overall",
+    "overall_gain": 33115.5970887025,
+    "active_positions": 11,
+    "win_amount": 37665.218765702164,
+    "loss_amount": -4549.62167699966,
+    "win_rate": 0.8529411764705882,
+    "total_current_value": 16.334930126000003,
+    "total_positions": 94,
+    "event_ct": 34,
+    "win_count": 29,
+    "rank": 3445,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
