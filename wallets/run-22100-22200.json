@@ -894,5 +894,21 @@
     "win_count": 19,
     "rank": 22156,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x273155d19d0a1fd636b2ecd7a7faccffe7a243b9",
+    "trader_name": "uiuwu",
+    "tag": "Overall",
+    "overall_gain": 4088.481314062756,
+    "active_positions": 1,
+    "win_amount": 4090.481310100055,
+    "loss_amount": -1.999996037299,
+    "win_rate": 0.9,
+    "total_current_value": 0.000155,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 22157,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
