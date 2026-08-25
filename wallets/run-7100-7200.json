@@ -846,5 +846,21 @@
     "win_count": 47,
     "rank": 7153,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa0d66f70eea491a4b315e55c4fe5329ab975eafe",
+    "trader_name": "esperanz",
+    "tag": "Overall",
+    "overall_gain": 14968.672433000002,
+    "active_positions": 1,
+    "win_amount": 14990.122426,
+    "loss_amount": -21.449993,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 7154,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
