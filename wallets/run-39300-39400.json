@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 39332,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x46e086d1db8bdced0f8ed5e2e5d9ff4c774578cb",
+    "trader_name": "SBEVRY4",
+    "tag": "Overall",
+    "overall_gain": 2030.0087148963971,
+    "active_positions": 3,
+    "win_amount": 5063.908714896397,
+    "loss_amount": -3033.9,
+    "win_rate": 0.9117647058823529,
+    "total_current_value": 0.001397,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 31,
+    "rank": 39333,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
