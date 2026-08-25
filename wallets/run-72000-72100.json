@@ -1566,5 +1566,21 @@
     "win_count": 38,
     "rank": 72099,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10cf5415146a14abd0180b7295636f7238fccbac",
+    "trader_name": "dukee",
+    "tag": "Overall",
+    "overall_gain": 764.3135495823171,
+    "active_positions": 0,
+    "win_amount": 827.1035495823171,
+    "loss_amount": -62.79,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.021587000000000002,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 72100,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
