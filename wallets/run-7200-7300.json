@@ -1374,5 +1374,21 @@
     "win_count": 3,
     "rank": 7286,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x33e4abcf63088fea13fd3765d6751d411ddf5017",
+    "trader_name": "horai",
+    "tag": "Overall",
+    "overall_gain": 14657.732888338829,
+    "active_positions": 50,
+    "win_amount": 14724.816319472151,
+    "loss_amount": -67.083431133318,
+    "win_rate": 0.509090909090909,
+    "total_current_value": 3.0783464200000004,
+    "total_positions": 111,
+    "event_ct": 110,
+    "win_count": 56,
+    "rank": 7287,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
