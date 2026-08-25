@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 87355,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a6c6f5c806dd2765fb1c9ef28ce5002c631d0fd",
+    "trader_name": "bazizi",
+    "tag": "Overall",
+    "overall_gain": 520.979486398252,
+    "active_positions": 11,
+    "win_amount": 1411.917588859345,
+    "loss_amount": -890.9381024610931,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 13.976024,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 5,
+    "rank": 87356,
+    "trader_tags": ""
   }
 ]
