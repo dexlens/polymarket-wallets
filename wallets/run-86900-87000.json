@@ -190,5 +190,21 @@
     "win_count": 52,
     "rank": 86913,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x067a4b1453a48810603d7383146c04518047cee0",
+    "trader_name": "botek",
+    "tag": "Overall",
+    "overall_gain": 526.5769641428751,
+    "active_positions": 1,
+    "win_amount": 1894.295454796875,
+    "loss_amount": -1367.718490654,
+    "win_rate": 0.484375,
+    "total_current_value": 0.13580500000000004,
+    "total_positions": 115,
+    "event_ct": 64,
+    "win_count": 31,
+    "rank": 86914,
+    "trader_tags": "> 1 year old"
   }
 ]
