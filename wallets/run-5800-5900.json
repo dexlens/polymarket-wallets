@@ -606,5 +606,21 @@
     "win_count": 19,
     "rank": 5838,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73fd5ccf2bc76679446b85219505ed0cebbe861e",
+    "trader_name": "AlexHUP",
+    "tag": "Overall",
+    "overall_gain": 18432.239314625334,
+    "active_positions": 4,
+    "win_amount": 18432.239314625334,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 162.661333,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 5839,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
