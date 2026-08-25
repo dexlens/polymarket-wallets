@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 11323,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x71520e34137bf9aafce84dcc1e44463d535239ac",
+    "trader_name": "8hsdl",
+    "tag": "Overall",
+    "overall_gain": 9240.767269,
+    "active_positions": 0,
+    "win_amount": 9323.945269,
+    "loss_amount": -83.178,
+    "win_rate": 0.8275862068965517,
+    "total_current_value": 0,
+    "total_positions": 60,
+    "event_ct": 29,
+    "win_count": 24,
+    "rank": 11324,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
