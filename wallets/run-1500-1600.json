@@ -542,5 +542,21 @@
     "win_count": 74,
     "rank": 1534,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x8c16a7555158aba96a709967ea873d6e2d384b37",
+    "trader_name": "fdevb",
+    "tag": "Overall",
+    "overall_gain": 78710.12934005747,
+    "active_positions": 224,
+    "win_amount": 475831.68979036034,
+    "loss_amount": -397121.5604503029,
+    "win_rate": 0.5044692737430168,
+    "total_current_value": 0.040706,
+    "total_positions": 2454,
+    "event_ct": 1790,
+    "win_count": 903,
+    "rank": 1535,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
