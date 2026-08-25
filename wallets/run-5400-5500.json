@@ -174,5 +174,21 @@
     "win_count": 6,
     "rank": 5411,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e1128398409d89cc6e65bdf66635fab53fc27dc",
+    "trader_name": "Zivuliel",
+    "tag": "Overall",
+    "overall_gain": 19999.59547471471,
+    "active_positions": 14,
+    "win_amount": 21012.957313007944,
+    "loss_amount": -1013.361838293232,
+    "win_rate": 0.4090909090909091,
+    "total_current_value": 79.69983592000001,
+    "total_positions": 26,
+    "event_ct": 22,
+    "win_count": 9,
+    "rank": 5412,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
