@@ -1406,5 +1406,21 @@
     "win_count": 25,
     "rank": 3788,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfccec952f9930c74ee7768306552e4e216173e55",
+    "trader_name": "SnakeMaster3",
+    "tag": "Overall",
+    "overall_gain": 30089.57146092295,
+    "active_positions": 2,
+    "win_amount": 46795.11823017552,
+    "loss_amount": -16705.546769252564,
+    "win_rate": 0.3684210526315789,
+    "total_current_value": 0.071217,
+    "total_positions": 54,
+    "event_ct": 38,
+    "win_count": 14,
+    "rank": 3789,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
