@@ -1454,5 +1454,21 @@
     "win_count": 4,
     "rank": 3691,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e3838c3e5a04fcb5b7506ec748010e8d20d5d7f",
+    "trader_name": "Marx.Carney",
+    "tag": "Overall",
+    "overall_gain": 30875.406060678408,
+    "active_positions": 2,
+    "win_amount": 72220.6508010461,
+    "loss_amount": -41345.244740367714,
+    "win_rate": 0.5918367346938775,
+    "total_current_value": 10.311336999999998,
+    "total_positions": 209,
+    "event_ct": 147,
+    "win_count": 87,
+    "rank": 3692,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
