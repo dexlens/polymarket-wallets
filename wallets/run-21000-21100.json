@@ -718,5 +718,21 @@
     "win_count": 5,
     "rank": 21045,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf21bf0be5957b8ec76c57da8f33b22875286b1ff",
+    "trader_name": "lol3",
+    "tag": "Overall",
+    "overall_gain": 4349.598063336418,
+    "active_positions": 2,
+    "win_amount": 4527.878790174025,
+    "loss_amount": -178.28072683760695,
+    "win_rate": 0.6909090909090909,
+    "total_current_value": 62.450716846,
+    "total_positions": 60,
+    "event_ct": 55,
+    "win_count": 38,
+    "rank": 21046,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
