@@ -1326,5 +1326,21 @@
     "win_count": 7,
     "rank": 44284,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x656db114d2e419185397fb5bd8fa8f19f68ede5f",
+    "trader_name": "KIMCHI",
+    "tag": "Overall",
+    "overall_gain": 1749.378410941329,
+    "active_positions": 1,
+    "win_amount": 4585.3157485130305,
+    "loss_amount": -2835.937337571702,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0.035724,
+    "total_positions": 18,
+    "event_ct": 12,
+    "win_count": 7,
+    "rank": 44285,
+    "trader_tags": "> 1 year old"
   }
 ]
