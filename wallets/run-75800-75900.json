@@ -1294,5 +1294,21 @@
     "win_count": 10,
     "rank": 75882,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x82a2f976754bc5271c59c11dac6e3f1ad12cc751",
+    "trader_name": "MIGA",
+    "tag": "Overall",
+    "overall_gain": 700.8192000150669,
+    "active_positions": 1,
+    "win_amount": 710.869180128145,
+    "loss_amount": -10.049980113078,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0.016145,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 75883,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
