@@ -830,5 +830,21 @@
     "win_count": 23,
     "rank": 3452,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18ba5145fba0fd51e68972268f5773175763e68f",
+    "trader_name": "FoldingNuts272",
+    "tag": "Overall",
+    "overall_gain": 32975.21831489561,
+    "active_positions": 18,
+    "win_amount": 39031.27922689561,
+    "loss_amount": -6056.060912000003,
+    "win_rate": 0.9737991266375546,
+    "total_current_value": 0.0040219999999999995,
+    "total_positions": 590,
+    "event_ct": 229,
+    "win_count": 223,
+    "rank": 3453,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
