@@ -622,5 +622,21 @@
     "win_count": 30,
     "rank": 66140,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x31e52c8c9dd504765dce979fee25fa76f3970b07",
+    "trader_name": "prince1pp",
+    "tag": "Overall",
+    "overall_gain": 911.8313050100483,
+    "active_positions": 14,
+    "win_amount": 1232.600108690349,
+    "loss_amount": -320.76880368030095,
+    "win_rate": 0.8844221105527639,
+    "total_current_value": 3319.4885116520013,
+    "total_positions": 692,
+    "event_ct": 398,
+    "win_count": 352,
+    "rank": 66141,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
