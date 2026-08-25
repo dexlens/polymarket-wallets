@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 53254,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f12d8070a539c009c49e248bf91617f98c78211",
+    "trader_name": "MisterAnderson.eth",
+    "tag": "Overall",
+    "overall_gain": 1335.559427879305,
+    "active_positions": 8,
+    "win_amount": 1413.110390465145,
+    "loss_amount": -77.55096258583998,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 5549.763706999,
+    "total_positions": 34,
+    "event_ct": 27,
+    "win_count": 21,
+    "rank": 53255,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
