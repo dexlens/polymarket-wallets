@@ -126,5 +126,21 @@
     "win_count": 1,
     "rank": 86909,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e5932e4efa81e14dfac9bdb442a1c25c75f6dd6",
+    "trader_name": "GeorgeBG",
+    "tag": "Overall",
+    "overall_gain": 526.591846134085,
+    "active_positions": 2,
+    "win_amount": 676.988116635415,
+    "loss_amount": -150.39627050133,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0.049256,
+    "total_positions": 28,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 86910,
+    "trader_tags": "> 1 year old"
   }
 ]
