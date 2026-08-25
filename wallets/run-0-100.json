@@ -142,5 +142,21 @@
     "win_count": 9797,
     "rank": 9,
     "trader_tags": "Overall PnL > $1m; 1k+ Positions; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x94f199fb7789f1aef7fff6b758d6b375100f4c7a",
+    "trader_name": "KeyTransporter",
+    "tag": "Overall",
+    "overall_gain": 5711459.802519928,
+    "active_positions": 4,
+    "win_amount": 6819629.707869131,
+    "loss_amount": -1108169.9053492043,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.0004630000000000001,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 10,
+    "trader_tags": "Overall PnL > $1m; Overall Win Rate > 67%; Sports PnL > $100k"
   }
 ]
