@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 30021,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x129c18a7d8f7afc88908402b6fedb06ee5517362",
+    "trader_name": "sdnsWY",
+    "tag": "Overall",
+    "overall_gain": 2816.3367999999996,
+    "active_positions": 2,
+    "win_amount": 3110.9811899999995,
+    "loss_amount": -294.64439,
+    "win_rate": 0.9393939393939394,
+    "total_current_value": 162.85,
+    "total_positions": 34,
+    "event_ct": 33,
+    "win_count": 31,
+    "rank": 30022,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
