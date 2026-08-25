@@ -334,5 +334,21 @@
     "win_count": 12,
     "rank": 25122,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfcdd55512d405a7c8e4eaba6201a7e0077cb2ca1",
+    "trader_name": "ytgfrc",
+    "tag": "Overall",
+    "overall_gain": 3517.331121960037,
+    "active_positions": 4,
+    "win_amount": 3677.246211960037,
+    "loss_amount": -159.91509000000002,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 182.04003699999998,
+    "total_positions": 35,
+    "event_ct": 33,
+    "win_count": 30,
+    "rank": 25123,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
