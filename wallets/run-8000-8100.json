@@ -1566,5 +1566,21 @@
     "win_count": 7,
     "rank": 8098,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0e02e97428fe137d227dbb7abadf07bb24a5f9f4",
+    "trader_name": "euwiroujweio",
+    "tag": "Overall",
+    "overall_gain": 12989.543792673017,
+    "active_positions": 2,
+    "win_amount": 13006.68644,
+    "loss_amount": -17.142647326983,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 297.24101500000006,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 8099,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
