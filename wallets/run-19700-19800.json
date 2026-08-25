@@ -1038,5 +1038,21 @@
     "win_count": 8,
     "rank": 19765,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x155b680bd2a3918485763b2a1642380a5c107aaf",
+    "trader_name": "SACM",
+    "tag": "Overall",
+    "overall_gain": 4690.244331696251,
+    "active_positions": 24,
+    "win_amount": 5316.138224725568,
+    "loss_amount": -625.8938930293159,
+    "win_rate": 0.4117647058823529,
+    "total_current_value": 1.4051016485,
+    "total_positions": 638,
+    "event_ct": 289,
+    "win_count": 119,
+    "rank": 19766,
+    "trader_tags": ""
   }
 ]
