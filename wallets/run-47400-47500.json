@@ -270,5 +270,21 @@
     "win_count": 19,
     "rank": 47418,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x78b3b038b40c115c6bbb36caf3456f773eaab95a",
+    "trader_name": "altfin",
+    "tag": "Overall",
+    "overall_gain": 1598.0623459501128,
+    "active_positions": 7,
+    "win_amount": 2555.6088968957674,
+    "loss_amount": -957.546550945655,
+    "win_rate": 0.704225352112676,
+    "total_current_value": 2820.350882242,
+    "total_positions": 114,
+    "event_ct": 71,
+    "win_count": 50,
+    "rank": 47419,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
