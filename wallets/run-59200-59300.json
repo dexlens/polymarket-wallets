@@ -254,5 +254,21 @@
     "win_count": 2,
     "rank": 59217,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x22f850a66b01d268f4b81cf1f99db01b6f89898e",
+    "trader_name": "uivlis",
+    "tag": "Overall",
+    "overall_gain": 1101.371173173301,
+    "active_positions": 3,
+    "win_amount": 1508.563979951923,
+    "loss_amount": -407.192806778622,
+    "win_rate": 0.5,
+    "total_current_value": 0.016833,
+    "total_positions": 54,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 59218,
+    "trader_tags": ""
   }
 ]
