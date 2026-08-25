@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 47031,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9edeafe62a196437440a97842b2e36d366c68bb4",
+    "trader_name": "DOWNbet",
+    "tag": "Overall",
+    "overall_gain": 1615.7538334918481,
+    "active_positions": 7,
+    "win_amount": 19529.53361601758,
+    "loss_amount": -17913.779782525737,
+    "win_rate": 0.9661016949152542,
+    "total_current_value": 21260.042342979006,
+    "total_positions": 465,
+    "event_ct": 295,
+    "win_count": 285,
+    "rank": 47032,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
