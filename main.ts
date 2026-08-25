@@ -1,4 +1,5 @@
 // get the passed file from the command line
+import fs from "node:fs";
 const passed_file = Deno.args[0];
 const start = Deno.args[1];
 const end = Deno.args[2];
@@ -28,10 +29,11 @@ const runName = `run-${runStart}-${runEnd}`;
 const thisrunsfilename = `wallets/${runName}.json`;
 
 // check if the run already exists
-if (await Deno.stat(thisrunsfilename)) {
+if (fs.existsSync(thisrunsfilename)) {
   console.log(`Run ${runName} already exists`);
   Deno.exit(0);
 }
+
 // create the file
 await Deno.writeTextFile(thisrunsfilename, JSON.stringify([], null, 2));
 let thisrunsdata = [];

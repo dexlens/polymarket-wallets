@@ -21,7 +21,9 @@
 # Polymarket Wallets 
 This is a json file dataset of wallets have been indexed by DEX Lens for polymarket activity; the data is behind calling the DEX Lens API and we use this as a public good & source of truth if you want to use it for your own research. 
 
-Wallets: 100
+Wallets: 33
+Win amount seen: $850,188,490.82,723,102.95,257,715.08,930,775.74
+Loss amount seen: $-88,844,584.29
 
 # Dislcaimer
 This repo is large and may take a while to clone. Please be patient; or use the dexlens api directly. 
