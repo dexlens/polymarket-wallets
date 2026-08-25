@@ -478,5 +478,21 @@
     "win_count": 116,
     "rank": 2730,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x5e0b017aef88af84fb3897fecce7413c6754981a",
+    "trader_name": "froshoo",
+    "tag": "Overall",
+    "overall_gain": 42563.543574999996,
+    "active_positions": 0,
+    "win_amount": 42565.477575,
+    "loss_amount": -1.934,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 2731,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
