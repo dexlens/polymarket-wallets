@@ -1374,5 +1374,21 @@
     "win_count": 5,
     "rank": 17086,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5db44b74298e444fb8b373dbb2a0e28671765d55",
+    "trader_name": "MarkLuis",
+    "tag": "Overall",
+    "overall_gain": 5513.404949580002,
+    "active_positions": 2,
+    "win_amount": 19122.770991999998,
+    "loss_amount": -13609.366042419999,
+    "win_rate": 0.4375,
+    "total_current_value": 26393.149100000002,
+    "total_positions": 20,
+    "event_ct": 16,
+    "win_count": 7,
+    "rank": 17087,
+    "trader_tags": ""
   }
 ]
