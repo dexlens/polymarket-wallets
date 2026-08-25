@@ -494,5 +494,21 @@
     "win_count": 13,
     "rank": 19931,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x084dde736e07b9e31e3ca7665da7de7476bad966",
+    "trader_name": "quantsss",
+    "tag": "Overall",
+    "overall_gain": 4643.419244193042,
+    "active_positions": 3,
+    "win_amount": 10083.095767385334,
+    "loss_amount": -5439.676523192293,
+    "win_rate": 0.5645933014354066,
+    "total_current_value": 202.599693,
+    "total_positions": 2831,
+    "event_ct": 1463,
+    "win_count": 826,
+    "rank": 19932,
+    "trader_tags": "1k+ Positions"
   }
 ]
