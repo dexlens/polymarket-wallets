@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 49469,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e1ccffd4dcc271a41430b475cc5db5fe39253f2",
+    "trader_name": "PaulXBT",
+    "tag": "Overall",
+    "overall_gain": 1505.5152327379187,
+    "active_positions": 24,
+    "win_amount": 4119.963403697392,
+    "loss_amount": -2614.4481709594734,
+    "win_rate": 0.532258064516129,
+    "total_current_value": 2940.3672277075,
+    "total_positions": 130,
+    "event_ct": 62,
+    "win_count": 33,
+    "rank": 49470,
+    "trader_tags": ""
   }
 ]
