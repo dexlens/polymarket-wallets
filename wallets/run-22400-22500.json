@@ -302,5 +302,21 @@
     "win_count": 5,
     "rank": 22419,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf10010ff4ceaf279c66afdc93090847d8dc0805f",
+    "trader_name": "CCOO",
+    "tag": "Overall",
+    "overall_gain": 4029.9522307441866,
+    "active_positions": 1,
+    "win_amount": 4270.750117744186,
+    "loss_amount": -240.797887,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 9277.262439,
+    "total_positions": 24,
+    "event_ct": 22,
+    "win_count": 20,
+    "rank": 22420,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
