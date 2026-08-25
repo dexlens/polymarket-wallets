@@ -1582,5 +1582,21 @@
     "win_count": 2,
     "rank": 71800,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4816aba297e89d7eddf4659df7918cdb2bd45e9f",
+    "trader_name": "Seviroth",
+    "tag": "Overall",
+    "overall_gain": 771.339333859637,
+    "active_positions": 3,
+    "win_amount": 1382.006282717767,
+    "loss_amount": -610.66694885813,
+    "win_rate": 0.8,
+    "total_current_value": 0.037998000000000004,
+    "total_positions": 56,
+    "event_ct": 40,
+    "win_count": 32,
+    "rank": 71801,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
