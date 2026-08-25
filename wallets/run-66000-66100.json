@@ -494,5 +494,21 @@
     "win_count": 20,
     "rank": 66032,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c61fb4c5d869eb5137bbb757070285d05961451",
+    "trader_name": "korozco",
+    "tag": "Overall",
+    "overall_gain": 915.0193054348971,
+    "active_positions": 0,
+    "win_amount": 970.596623175588,
+    "loss_amount": -55.577317740691,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.08843000000000001,
+    "total_positions": 36,
+    "event_ct": 33,
+    "win_count": 12,
+    "rank": 66033,
+    "trader_tags": "> 1 year old"
   }
 ]
