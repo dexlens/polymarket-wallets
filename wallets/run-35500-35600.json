@@ -430,5 +430,21 @@
     "win_count": 21,
     "rank": 35528,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x38f9d39ec7ec613986e0e4fca9ae3fbf7d9a0bff",
+    "trader_name": "dallasnum",
+    "tag": "Overall",
+    "overall_gain": 2299.56,
+    "active_positions": 1,
+    "win_amount": 2299.56,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 20,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 35529,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
