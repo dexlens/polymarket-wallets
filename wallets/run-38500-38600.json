@@ -926,5 +926,21 @@
     "win_count": 2,
     "rank": 38559,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03f95cecc9ed94b55fb0de7c270547d730be1f57",
+    "trader_name": "OneClick",
+    "tag": "Overall",
+    "overall_gain": 2082.9174781799998,
+    "active_positions": 23,
+    "win_amount": 5370.277512615814,
+    "loss_amount": -3287.360034435818,
+    "win_rate": 0.5920245398773006,
+    "total_current_value": 6690.268185507,
+    "total_positions": 379,
+    "event_ct": 326,
+    "win_count": 193,
+    "rank": 38560,
+    "trader_tags": ""
   }
 ]
