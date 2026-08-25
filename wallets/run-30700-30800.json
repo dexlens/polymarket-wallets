@@ -1438,5 +1438,21 @@
     "win_count": 3,
     "rank": 30791,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x578acbccadba1bf4ef8ca58870116ec5d6448cf0",
+    "trader_name": "py24",
+    "tag": "Overall",
+    "overall_gain": 2725.01035363596,
+    "active_positions": 4,
+    "win_amount": 4884.713197635961,
+    "loss_amount": -2159.702844,
+    "win_rate": 0.8269230769230769,
+    "total_current_value": 1062.345701,
+    "total_positions": 80,
+    "event_ct": 52,
+    "win_count": 43,
+    "rank": 30792,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
