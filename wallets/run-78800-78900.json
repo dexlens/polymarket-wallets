@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 78874,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ca56b03105371839e4a3d98f4c1059d10d784bc",
+    "trader_name": "MyBettingFuture",
+    "tag": "Overall",
+    "overall_gain": 649.809263264701,
+    "active_positions": 0,
+    "win_amount": 675.938564977201,
+    "loss_amount": -26.129301712500002,
+    "win_rate": 0.9971428571428571,
+    "total_current_value": 2.3808360375000004,
+    "total_positions": 564,
+    "event_ct": 350,
+    "win_count": 349,
+    "rank": 78875,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
