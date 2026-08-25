@@ -526,5 +526,21 @@
     "win_count": 143,
     "rank": 79334,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42faa11cd613bd343af9486700f9366f1adb380a",
+    "trader_name": "Bigbrainz",
+    "tag": "Overall",
+    "overall_gain": 641.559772670846,
+    "active_positions": 3,
+    "win_amount": 662.1654741877629,
+    "loss_amount": -20.605701516916998,
+    "win_rate": 0.5,
+    "total_current_value": 0.006698,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 79335,
+    "trader_tags": ""
   }
 ]
