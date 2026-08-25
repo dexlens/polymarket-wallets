@@ -990,5 +990,21 @@
     "win_count": 2,
     "rank": 2762,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x63a3ede63282f92589e388b586950a942b982f1b",
+    "trader_name": "goonthrust",
+    "tag": "Overall",
+    "overall_gain": 41938.31438844991,
+    "active_positions": 0,
+    "win_amount": 174275.4797629649,
+    "loss_amount": -132337.16537451505,
+    "win_rate": 0.5008880994671403,
+    "total_current_value": 6.696265000000001,
+    "total_positions": 8771,
+    "event_ct": 5067,
+    "win_count": 2538,
+    "rank": 2763,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
