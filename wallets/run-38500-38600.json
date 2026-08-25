@@ -446,5 +446,21 @@
     "win_count": 15,
     "rank": 38529,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9110a89e7a6cd3de9847ce2e337a33f37a323819",
+    "trader_name": "FreyaWolfe",
+    "tag": "Overall",
+    "overall_gain": 2084.962905630239,
+    "active_positions": 4,
+    "win_amount": 6299.962905630239,
+    "loss_amount": -4215,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 0.00023900000000000004,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 22,
+    "rank": 38530,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
