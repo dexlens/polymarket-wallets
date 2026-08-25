@@ -1358,5 +1358,21 @@
     "win_count": 16,
     "rank": 55986,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80ec69a2e143f1179ab03842a2836f4f7595fdc0",
+    "trader_name": "EasyBets",
+    "tag": "Overall",
+    "overall_gain": 1219.1831403106657,
+    "active_positions": 4,
+    "win_amount": 3497.666642840924,
+    "loss_amount": -2278.483502530258,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.089431,
+    "total_positions": 58,
+    "event_ct": 55,
+    "win_count": 25,
+    "rank": 55987,
+    "trader_tags": "> 1 year old"
   }
 ]
