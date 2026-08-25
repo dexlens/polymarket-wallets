@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 78644,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86b97d475de6faab6834d70a9ff103d894527d28",
+    "trader_name": "wysg",
+    "tag": "Overall",
+    "overall_gain": 653.2276063239799,
+    "active_positions": 377,
+    "win_amount": 5432.313269598996,
+    "loss_amount": -4779.0856632750165,
+    "win_rate": 0.5518518518518518,
+    "total_current_value": 196.055973,
+    "total_positions": 851,
+    "event_ct": 810,
+    "win_count": 447,
+    "rank": 78645,
+    "trader_tags": "< 30 days old"
   }
 ]
