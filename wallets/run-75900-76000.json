@@ -750,5 +750,21 @@
     "win_count": 3,
     "rank": 75948,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38c8d97296c6a33b0fe384799dcdebfa32f746cb",
+    "trader_name": "effkey",
+    "tag": "Overall",
+    "overall_gain": 699.9449239531939,
+    "active_positions": 5,
+    "win_amount": 2104.048296314925,
+    "loss_amount": -1404.1033723617309,
+    "win_rate": 0.5641025641025641,
+    "total_current_value": 946.4968359999999,
+    "total_positions": 62,
+    "event_ct": 39,
+    "win_count": 22,
+    "rank": 75949,
+    "trader_tags": "> 1 year old"
   }
 ]
