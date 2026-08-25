@@ -414,5 +414,21 @@
     "win_count": 1,
     "rank": 6626,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x80cdb0001bbbdd6285429e9bacea9b1f1e770b23",
+    "trader_name": "polymtrader",
+    "tag": "Overall",
+    "overall_gain": 16197.987706865983,
+    "active_positions": 0,
+    "win_amount": 19521.715134427617,
+    "loss_amount": -3323.7274275616414,
+    "win_rate": 0.7910447761194029,
+    "total_current_value": 0.000016000036615753475,
+    "total_positions": 436,
+    "event_ct": 268,
+    "win_count": 212,
+    "rank": 6627,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
