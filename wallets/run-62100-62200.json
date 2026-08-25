@@ -478,5 +478,21 @@
     "win_count": 10,
     "rank": 62131,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6c0be59d2649b24504ec5acd8c54ab118eab898e",
+    "trader_name": "bericdondarrion",
+    "tag": "Overall",
+    "overall_gain": 1018.6472792973791,
+    "active_positions": 0,
+    "win_amount": 1018.6472792973791,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.010099,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 62132,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
