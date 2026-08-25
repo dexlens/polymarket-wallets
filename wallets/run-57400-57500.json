@@ -1518,5 +1518,21 @@
     "win_count": 3,
     "rank": 57496,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c31880fee96830a0da5fd190b581a2f49ecea4b",
+    "trader_name": "Miau",
+    "tag": "Overall",
+    "overall_gain": 1159.9808770508462,
+    "active_positions": 0,
+    "win_amount": 3279.3618853865055,
+    "loss_amount": -2119.3810083356598,
+    "win_rate": 0.4489795918367347,
+    "total_current_value": 0.024117999999999997,
+    "total_positions": 200,
+    "event_ct": 147,
+    "win_count": 66,
+    "rank": 57497,
+    "trader_tags": "> 1 year old"
   }
 ]
