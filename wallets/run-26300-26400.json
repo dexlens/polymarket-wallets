@@ -878,5 +878,21 @@
     "win_count": 4,
     "rank": 26356,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb9c1e91dc0a2596ec5121cf95be5df32ae8a43fa",
+    "trader_name": "bvtwx",
+    "tag": "Overall",
+    "overall_gain": 3314.5,
+    "active_positions": 2,
+    "win_amount": 4081,
+    "loss_amount": -766.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 26357,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
