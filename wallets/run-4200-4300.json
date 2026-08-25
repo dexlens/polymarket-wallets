@@ -494,5 +494,21 @@
     "win_count": 7,
     "rank": 4231,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xab84466637dfe3d7a75d6509a78b562d0964bc67",
+    "trader_name": "alannaaut",
+    "tag": "Overall",
+    "overall_gain": 26427,
+    "active_positions": 0,
+    "win_amount": 26427,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 4232,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
