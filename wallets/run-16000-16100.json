@@ -270,5 +270,21 @@
     "win_count": 5,
     "rank": 16017,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x406eb57f2a7b90a85401d5864b18310c6c15b243",
+    "trader_name": "ylv",
+    "tag": "Overall",
+    "overall_gain": 5991.927949916091,
+    "active_positions": 1,
+    "win_amount": 6991.924106873092,
+    "loss_amount": -999.996156957,
+    "win_rate": 0.5,
+    "total_current_value": 0.004446,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 16018,
+    "trader_tags": "> 1 year old"
   }
 ]
