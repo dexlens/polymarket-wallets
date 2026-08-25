@@ -750,5 +750,21 @@
     "win_count": 11,
     "rank": 16247,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c866881290c2197960f06448d3a236d9f20d939",
+    "trader_name": "ropetard",
+    "tag": "Overall",
+    "overall_gain": 5888.538281798866,
+    "active_positions": 0,
+    "win_amount": 8390.112106816097,
+    "loss_amount": -2501.5738250172317,
+    "win_rate": 0.43478260869565216,
+    "total_current_value": 0.129294,
+    "total_positions": 57,
+    "event_ct": 23,
+    "win_count": 10,
+    "rank": 16248,
+    "trader_tags": "< 30 days old"
   }
 ]
