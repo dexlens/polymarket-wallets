@@ -766,5 +766,21 @@
     "win_count": 10,
     "rank": 71349,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0d6a2652b8411eecb7bcc8cfdf6f766c2328d35f",
+    "trader_name": "DecentralizeOrDie",
+    "tag": "Overall",
+    "overall_gain": 780.7413706409297,
+    "active_positions": 0,
+    "win_amount": 1248.1670046262789,
+    "loss_amount": -467.42563398534907,
+    "win_rate": 0.42105263157894735,
+    "total_current_value": 0.028385,
+    "total_positions": 37,
+    "event_ct": 19,
+    "win_count": 8,
+    "rank": 71350,
+    "trader_tags": "> 1 year old"
   }
 ]
