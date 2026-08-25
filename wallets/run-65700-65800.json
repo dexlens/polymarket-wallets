@@ -1198,5 +1198,21 @@
     "win_count": 105,
     "rank": 65776,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2d5ba08445d4e70d8063869b2c9fdad84ccbb0c6",
+    "trader_name": "aeubot",
+    "tag": "Overall",
+    "overall_gain": 922.6160090427162,
+    "active_positions": 23,
+    "win_amount": 7435.141378510375,
+    "loss_amount": -6512.525369467658,
+    "win_rate": 0.923598714744734,
+    "total_current_value": 557.9366929999999,
+    "total_positions": 2801,
+    "event_ct": 2801,
+    "win_count": 2587,
+    "rank": 65777,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
