@@ -1198,5 +1198,21 @@
     "win_count": 308,
     "rank": 7475,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xdae2844d5b3070aafb3638b80fa17e562d840dde",
+    "trader_name": "Counteryeg",
+    "tag": "Overall",
+    "overall_gain": 14192.009751788757,
+    "active_positions": 30,
+    "win_amount": 21650.96051969341,
+    "loss_amount": -7458.95076790465,
+    "win_rate": 0.6346153846153846,
+    "total_current_value": 98.84498699999997,
+    "total_positions": 79,
+    "event_ct": 52,
+    "win_count": 33,
+    "rank": 7476,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
