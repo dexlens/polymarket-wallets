@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 9571,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89b5cdaaa4866c1e738406712012a630b4078beb",
+    "trader_name": "ohanism",
+    "tag": "Overall",
+    "overall_gain": 10937.0629185448,
+    "active_positions": 17,
+    "win_amount": 222369.30656299373,
+    "loss_amount": -211432.24364444896,
+    "win_rate": 0.5822529530394699,
+    "total_current_value": 359.067535,
+    "total_positions": 25418,
+    "event_ct": 13884,
+    "win_count": 8084,
+    "rank": 9572,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
