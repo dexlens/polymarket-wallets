@@ -622,5 +622,21 @@
     "win_count": 6,
     "rank": 66640,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b63521cb4bda142db42bb873eb2b7b5a574e4ed",
+    "trader_name": "bitcoinmaxim",
+    "tag": "Overall",
+    "overall_gain": 899.0097615669595,
+    "active_positions": 183,
+    "win_amount": 3735.89160812,
+    "loss_amount": -2836.881846553041,
+    "win_rate": 0.5052910052910053,
+    "total_current_value": 1.572432,
+    "total_positions": 378,
+    "event_ct": 378,
+    "win_count": 191,
+    "rank": 66641,
+    "trader_tags": ""
   }
 ]
