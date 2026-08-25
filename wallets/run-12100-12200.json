@@ -1214,5 +1214,21 @@
     "win_count": 4228,
     "rank": 12176,
     "trader_tags": "1k+ Positions"
+  },
+  {
+    "trader": "0x9e98e2471cf815bfa1133ef55042c4dd4135514d",
+    "trader_name": "ttv2",
+    "tag": "Overall",
+    "overall_gain": 8418.372989688181,
+    "active_positions": 3,
+    "win_amount": 8418.372989688181,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.019361,
+    "total_positions": 13,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 12177,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
