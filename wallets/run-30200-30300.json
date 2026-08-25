@@ -494,5 +494,21 @@
     "win_count": 12,
     "rank": 30232,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xde71cb1b32196575da8f8ace492db0b6e9644308",
+    "trader_name": "MyLige",
+    "tag": "Overall",
+    "overall_gain": 2795.086961919356,
+    "active_positions": 5389,
+    "win_amount": 4082.739668788201,
+    "loss_amount": -1287.6527068688465,
+    "win_rate": 0.016798609770225913,
+    "total_current_value": 71.20504600000001,
+    "total_positions": 5537,
+    "event_ct": 5179,
+    "win_count": 87,
+    "rank": 30233,
+    "trader_tags": "1k+ Positions"
   }
 ]
