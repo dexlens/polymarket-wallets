@@ -158,5 +158,21 @@
     "win_count": 86,
     "rank": 50811,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5ff224383bcef64b67b6ec57340c9d51c75f0a2b",
+    "trader_name": "Stormrid",
+    "tag": "Overall",
+    "overall_gain": 1448.4861464245976,
+    "active_positions": 3,
+    "win_amount": 15525.82163403422,
+    "loss_amount": -14077.335487609624,
+    "win_rate": 0.75,
+    "total_current_value": 4.036222,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 50812,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
