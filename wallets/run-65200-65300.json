@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 65256,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x19cce9e21af170b64d72323849611087304bf260",
+    "trader_name": "Bogdi",
+    "tag": "Overall",
+    "overall_gain": 937.5961592054,
+    "active_positions": 0,
+    "win_amount": 1113.618503,
+    "loss_amount": -176.02234379459998,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 65257,
+    "trader_tags": "> 1 year old"
   }
 ]
