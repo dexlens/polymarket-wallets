@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 50819,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x22d020b25963bd329bc88759ea2860c48095d21c",
+    "trader_name": "gagagougou",
+    "tag": "Overall",
+    "overall_gain": 1448.1224523028184,
+    "active_positions": 0,
+    "win_amount": 1848.0748903028182,
+    "loss_amount": -399.952438,
+    "win_rate": 0.967741935483871,
+    "total_current_value": 0.016007999999999998,
+    "total_positions": 44,
+    "event_ct": 31,
+    "win_count": 30,
+    "rank": 50820,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
