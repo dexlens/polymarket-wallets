@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 65451,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1a1d18b776c297539df61b4f394e3c65d7b051e0",
+    "trader_name": "kundragame",
+    "tag": "Overall",
+    "overall_gain": 931.81522,
+    "active_positions": 0,
+    "win_amount": 931.81522,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 65452,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
