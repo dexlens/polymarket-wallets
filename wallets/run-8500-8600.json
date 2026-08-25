@@ -654,5 +654,21 @@
     "win_count": 18,
     "rank": 8541,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x477938af63a6d32b7edfce6c42ed70140d531ddb",
+    "trader_name": "noemisintpeg",
+    "tag": "Overall",
+    "overall_gain": 12258.6,
+    "active_positions": 1,
+    "win_amount": 14823.800000000001,
+    "loss_amount": -2565.2000000000003,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 8542,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
