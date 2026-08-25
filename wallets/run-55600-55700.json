@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 55655,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x54e9988deeb714c00d6e6dd10f04c12f7188ca8c",
+    "trader_name": "SimonBarton",
+    "tag": "Overall",
+    "overall_gain": 1231.9932155100003,
+    "active_positions": 1,
+    "win_amount": 1738.65361551,
+    "loss_amount": -506.6604,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 29.154425500000002,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 19,
+    "rank": 55656,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
