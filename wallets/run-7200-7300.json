@@ -1454,5 +1454,21 @@
     "win_count": 11,
     "rank": 7291,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1d7b570b1886c96d5e56df657df1e10d87fe124a",
+    "trader_name": "weilong",
+    "tag": "Overall",
+    "overall_gain": 14639.496762,
+    "active_positions": 3,
+    "win_amount": 14766.172909,
+    "loss_amount": -126.67614699999997,
+    "win_rate": 0.7297297297297297,
+    "total_current_value": 22.204420000000002,
+    "total_positions": 39,
+    "event_ct": 37,
+    "win_count": 27,
+    "rank": 7292,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
