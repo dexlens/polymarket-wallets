@@ -1118,5 +1118,21 @@
     "win_count": 3,
     "rank": 19170,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16012c9a4ba177e45efe9bef3458c3739e152841",
+    "trader_name": "YoonSeokYeol",
+    "tag": "Overall",
+    "overall_gain": 4852.603798453293,
+    "active_positions": 0,
+    "win_amount": 16765.497453213193,
+    "loss_amount": -11912.893654759893,
+    "win_rate": 0.5625,
+    "total_current_value": 0.06194000000000001,
+    "total_positions": 40,
+    "event_ct": 32,
+    "win_count": 18,
+    "rank": 19171,
+    "trader_tags": "> 1 year old"
   }
 ]
