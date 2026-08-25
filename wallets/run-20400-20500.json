@@ -1326,5 +1326,21 @@
     "win_count": 5,
     "rank": 20483,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x496cc60757f01f2a3b69eca638cfd406762a55c0",
+    "trader_name": "l1oSPBKF",
+    "tag": "Overall",
+    "overall_gain": 4502.5,
+    "active_positions": 16,
+    "win_amount": 22197,
+    "loss_amount": -17694.5,
+    "win_rate": 0.5428571428571428,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 19,
+    "rank": 20484,
+    "trader_tags": ""
   }
 ]
