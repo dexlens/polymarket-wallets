@@ -1422,5 +1422,21 @@
     "win_count": 6,
     "rank": 47090,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x117d35d61005dce5a320f88c9652f4245b440345",
+    "trader_name": "staalbull",
+    "tag": "Overall",
+    "overall_gain": 1612.601582334791,
+    "active_positions": 4,
+    "win_amount": 1642.601582334791,
+    "loss_amount": -30,
+    "win_rate": 0.9782608695652174,
+    "total_current_value": 0.197264,
+    "total_positions": 95,
+    "event_ct": 46,
+    "win_count": 45,
+    "rank": 47091,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
