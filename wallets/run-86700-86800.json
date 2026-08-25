@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 86778,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfba277382e9f1c8dc2f93ba4eafacfd5d37297c1",
+    "trader_name": "Goodnightnight",
+    "tag": "Overall",
+    "overall_gain": 528.489933006019,
+    "active_positions": 4,
+    "win_amount": 3443.5406800060186,
+    "loss_amount": -2915.0507470000002,
+    "win_rate": 0.5,
+    "total_current_value": 16.1293361875,
+    "total_positions": 675,
+    "event_ct": 622,
+    "win_count": 311,
+    "rank": 86779,
+    "trader_tags": "< 30 days old"
   }
 ]
