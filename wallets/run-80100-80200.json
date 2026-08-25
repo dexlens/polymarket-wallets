@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 80147,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1997d940fed4b0359b43e66c78715abcab590d61",
+    "trader_name": "SignalRider",
+    "tag": "Overall",
+    "overall_gain": 628.2665230000002,
+    "active_positions": 2,
+    "win_amount": 3411.4850930000002,
+    "loss_amount": -2783.21857,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 297,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 10,
+    "rank": 80148,
+    "trader_tags": "< 30 days old"
   }
 ]
