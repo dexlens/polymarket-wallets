@@ -942,5 +942,21 @@
     "win_count": 13,
     "rank": 24360,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3841911689186b8df400ca45e9b5aa7ce5ea4f36",
+    "trader_name": "zulatorph",
+    "tag": "Overall",
+    "overall_gain": 3652.93077,
+    "active_positions": 0,
+    "win_amount": 9105.71077,
+    "loss_amount": -5452.780000000001,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 24361,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
