@@ -1342,5 +1342,21 @@
     "win_count": 3,
     "rank": 60585,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59e6eee7d9dd0404057ce0aa3eda22fffd87e206",
+    "trader_name": "sanlunche",
+    "tag": "Overall",
+    "overall_gain": 1059.129216968147,
+    "active_positions": 1,
+    "win_amount": 1089.795935968147,
+    "loss_amount": -30.666719,
+    "win_rate": 0.7,
+    "total_current_value": 7.432737,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 60586,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
