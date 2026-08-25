@@ -686,5 +686,21 @@
     "win_count": 8,
     "rank": 6743,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x96761f18a9f036dcc9dd854706841a1fabf8e9a5",
+    "trader_name": "marknullaighe",
+    "tag": "Overall",
+    "overall_gain": 15919.687414,
+    "active_positions": 0,
+    "win_amount": 15926.6004,
+    "loss_amount": -6.912986,
+    "win_rate": 0.9,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 20,
+    "win_count": 18,
+    "rank": 6744,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
