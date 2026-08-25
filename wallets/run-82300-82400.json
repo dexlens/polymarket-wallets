@@ -158,5 +158,21 @@
     "win_count": 3,
     "rank": 82311,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x502a67408fed0c6ce8c59f5149bbb95d5d09f623",
+    "trader_name": "dirte",
+    "tag": "Overall",
+    "overall_gain": 593.4557559030741,
+    "active_positions": 0,
+    "win_amount": 1475.7655249999998,
+    "loss_amount": -882.309769096926,
+    "win_rate": 0.6538461538461539,
+    "total_current_value": 0.001537,
+    "total_positions": 104,
+    "event_ct": 104,
+    "win_count": 68,
+    "rank": 82312,
+    "trader_tags": "> 1 year old"
   }
 ]
