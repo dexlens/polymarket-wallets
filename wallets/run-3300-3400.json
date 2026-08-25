@@ -206,5 +206,21 @@
     "win_count": 30,
     "rank": 3313,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4c7c7808fe125e9a4133c9dbfe2757b83036a2c8",
+    "trader_name": "baiwanto",
+    "tag": "Overall",
+    "overall_gain": 34543.163670323054,
+    "active_positions": 1,
+    "win_amount": 54202.62278959263,
+    "loss_amount": -19659.459119269573,
+    "win_rate": 0.875,
+    "total_current_value": 0.005896,
+    "total_positions": 72,
+    "event_ct": 40,
+    "win_count": 35,
+    "rank": 3314,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
