@@ -958,5 +958,21 @@
     "win_count": 25,
     "rank": 35761,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5ced9ce5d837d7a69c68048583ccbc86af876c81",
+    "trader_name": "BigZeke",
+    "tag": "Overall",
+    "overall_gain": 2279.707666717467,
+    "active_positions": 15,
+    "win_amount": 7616.917464139133,
+    "loss_amount": -5337.209797421665,
+    "win_rate": 0.6535433070866141,
+    "total_current_value": 0.2682,
+    "total_positions": 136,
+    "event_ct": 127,
+    "win_count": 83,
+    "rank": 35762,
+    "trader_tags": ""
   }
 ]
