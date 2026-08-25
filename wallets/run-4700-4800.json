@@ -590,5 +590,21 @@
     "win_count": 165,
     "rank": 4737,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x46e29dcb9cd03b9f39bf5bf7759b07ea280ef8bb",
+    "trader_name": "actpool-rely",
+    "tag": "Overall",
+    "overall_gain": 22988.281990103646,
+    "active_positions": 11,
+    "win_amount": 31808.570937276458,
+    "loss_amount": -8820.2889471728,
+    "win_rate": 0.9066874027993779,
+    "total_current_value": 15177.716105867503,
+    "total_positions": 1600,
+    "event_ct": 643,
+    "win_count": 583,
+    "rank": 4738,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
