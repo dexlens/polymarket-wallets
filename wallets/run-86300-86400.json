@@ -686,5 +686,21 @@
     "win_count": 5,
     "rank": 86344,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88eab8e2198721bba4171655d16df4436acb28b0",
+    "trader_name": "Yulion",
+    "tag": "Overall",
+    "overall_gain": 534.4762606044619,
+    "active_positions": 4,
+    "win_amount": 606.2026633913671,
+    "loss_amount": -71.726402786905,
+    "win_rate": 0.574468085106383,
+    "total_current_value": 1.0205659999999999,
+    "total_positions": 50,
+    "event_ct": 47,
+    "win_count": 27,
+    "rank": 86345,
+    "trader_tags": "> 1 year old"
   }
 ]
