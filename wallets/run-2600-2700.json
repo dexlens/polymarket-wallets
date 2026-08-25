@@ -1406,5 +1406,21 @@
     "win_count": 39,
     "rank": 2688,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x331bf91c132af9d921e1908ca0979363fc47193f",
+    "trader_name": "BeefSlayer",
+    "tag": "Overall",
+    "overall_gain": 43253.599798584364,
+    "active_positions": 10,
+    "win_amount": 53254.35114252166,
+    "loss_amount": -10000.75134393727,
+    "win_rate": 0.6637478108581436,
+    "total_current_value": 1452.9274056499999,
+    "total_positions": 1374,
+    "event_ct": 571,
+    "win_count": 379,
+    "rank": 2689,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
