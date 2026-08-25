@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 80292,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb9d2b5b105dc7c0fe651d4015f9627f4007ffb68",
+    "trader_name": "gopay",
+    "tag": "Overall",
+    "overall_gain": 625.7386867471441,
+    "active_positions": 22,
+    "win_amount": 1121.8279075958628,
+    "loss_amount": -496.089220848719,
+    "win_rate": 0.5806451612903226,
+    "total_current_value": 5.727017448000002,
+    "total_positions": 2459,
+    "event_ct": 682,
+    "win_count": 396,
+    "rank": 80293,
+    "trader_tags": "1k+ Positions"
   }
 ]
