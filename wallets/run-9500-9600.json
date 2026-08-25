@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 9538,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x688daea09eb0fe9fec35f53354ee718c9d0459b6",
+    "trader_name": "rooivalk1",
+    "tag": "Overall",
+    "overall_gain": 10980.807816881686,
+    "active_positions": 2,
+    "win_amount": 10980.807816881686,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.04472,
+    "total_positions": 11,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 9539,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
