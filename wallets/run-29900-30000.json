@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 29950,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x728d7235e306aff6d03d962787b272b6208e04e4",
+    "trader_name": "delzennejc",
+    "tag": "Overall",
+    "overall_gain": 2826.300854057589,
+    "active_positions": 0,
+    "win_amount": 2833.300854057589,
+    "loss_amount": -7,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.007859,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 29951,
+    "trader_tags": "> 1 year old"
   }
 ]
