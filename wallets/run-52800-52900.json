@@ -830,5 +830,21 @@
     "win_count": 5,
     "rank": 52853,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8521489404b9fdc3d4307853b8bc8e14e29835b5",
+    "trader_name": "tyriquec",
+    "tag": "Overall",
+    "overall_gain": 1354,
+    "active_positions": 1,
+    "win_amount": 1354,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 52854,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
