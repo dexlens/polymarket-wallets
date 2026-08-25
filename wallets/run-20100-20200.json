@@ -718,5 +718,21 @@
     "win_count": 1,
     "rank": 20145,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3113f986f43d639a2b08fe493c8fc9bc697a4b67",
+    "trader_name": "eugcmx",
+    "tag": "Overall",
+    "overall_gain": 4589.0393451900045,
+    "active_positions": 2,
+    "win_amount": 4672.1778451900045,
+    "loss_amount": -83.1385,
+    "win_rate": 0.9642857142857143,
+    "total_current_value": 165.750005,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 27,
+    "rank": 20146,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
