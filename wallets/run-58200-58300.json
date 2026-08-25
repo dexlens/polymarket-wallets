@@ -190,5 +190,21 @@
     "win_count": 3,
     "rank": 58213,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdd33deffc3fe9d43ab8676e0f8f2bd2732ee9a66",
+    "trader_name": "tricky.eth",
+    "tag": "Overall",
+    "overall_gain": 1134.4659050553698,
+    "active_positions": 1,
+    "win_amount": 1134.4659050553698,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.010469000000000001,
+    "total_positions": 6,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 58214,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
