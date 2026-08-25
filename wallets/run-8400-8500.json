@@ -1294,5 +1294,21 @@
     "win_count": 9,
     "rank": 8481,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f96055fa3adaa3f96413aa854982c8cf46efdb5",
+    "trader_name": "etsbsppvuj",
+    "tag": "Overall",
+    "overall_gain": 12336.076584485687,
+    "active_positions": 2,
+    "win_amount": 12419.045648,
+    "loss_amount": -82.96906351431402,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.107397,
+    "total_positions": 38,
+    "event_ct": 14,
+    "win_count": 4,
+    "rank": 8482,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
