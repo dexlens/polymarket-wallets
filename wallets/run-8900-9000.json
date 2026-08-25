@@ -1262,5 +1262,21 @@
     "win_count": 7,
     "rank": 8979,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4504075fbf66905c160ff39fbf8d8ab9537417ca",
+    "trader_name": "Mcdotirs",
+    "tag": "Overall",
+    "overall_gain": 11668.983636311053,
+    "active_positions": 4,
+    "win_amount": 12475.391495730188,
+    "loss_amount": -806.407859419136,
+    "win_rate": 0.8,
+    "total_current_value": 4.499375,
+    "total_positions": 116,
+    "event_ct": 30,
+    "win_count": 24,
+    "rank": 8980,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
