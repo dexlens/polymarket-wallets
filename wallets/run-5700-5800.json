@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 5732,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xb3044ff56a4507388c0dfad0ed8c92a20a05765e",
+    "trader_name": "qianxing",
+    "tag": "Overall",
+    "overall_gain": 18777.67206685989,
+    "active_positions": 5,
+    "win_amount": 20332.29537800001,
+    "loss_amount": -1554.623311140118,
+    "win_rate": 0.7878787878787878,
+    "total_current_value": 19.947472865,
+    "total_positions": 38,
+    "event_ct": 33,
+    "win_count": 26,
+    "rank": 5733,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
