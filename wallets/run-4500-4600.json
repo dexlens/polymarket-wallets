@@ -1294,5 +1294,21 @@
     "win_count": 33,
     "rank": 4581,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x042971463793b5a9fc327ca4b99a968e7e74db07",
+    "trader_name": "xazb",
+    "tag": "Overall",
+    "overall_gain": 24021.612448446835,
+    "active_positions": 4,
+    "win_amount": 78922.32806397577,
+    "loss_amount": -54900.71561552893,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 247.84763700000002,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 4582,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
