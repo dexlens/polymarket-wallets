@@ -1582,5 +1582,21 @@
     "win_count": 24,
     "rank": 6299,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b358dbc1e4dfddafc05d1c6ea40323a2cc8670d",
+    "trader_name": "tangtangyuan",
+    "tag": "Overall",
+    "overall_gain": 16994.327332279005,
+    "active_positions": 3,
+    "win_amount": 16997.7,
+    "loss_amount": -3.3726677209959997,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 4.984125768,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 6300,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
