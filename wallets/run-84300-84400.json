@@ -414,5 +414,21 @@
     "win_count": 10,
     "rank": 84327,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xe1a139edd0772da0dea836a05977f787ac49301f",
+    "trader_name": "Nnak",
+    "tag": "Overall",
+    "overall_gain": 561.6312102692608,
+    "active_positions": 2,
+    "win_amount": 2661.62686354521,
+    "loss_amount": -2099.995653275949,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.493137,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 84328,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
