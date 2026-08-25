@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 77217,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0ebc3bb0b13e5a56800580c6775880bdf1896bfd",
+    "trader_name": "turtletree",
+    "tag": "Overall",
+    "overall_gain": 677.8939066789401,
+    "active_positions": 2,
+    "win_amount": 803.89372,
+    "loss_amount": -125.99981332105999,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 46,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 77218,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
