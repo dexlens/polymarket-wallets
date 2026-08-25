@@ -638,5 +638,21 @@
     "win_count": 77,
     "rank": 3240,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x22292decebf2e9146b27fe59404d162447ea6bf8",
+    "trader_name": "absol",
+    "tag": "Overall",
+    "overall_gain": 35411.887028340614,
+    "active_positions": 52,
+    "win_amount": 39073.61692046706,
+    "loss_amount": -3661.7298921264405,
+    "win_rate": 0.7878787878787878,
+    "total_current_value": 19285.843978047003,
+    "total_positions": 147,
+    "event_ct": 66,
+    "win_count": 52,
+    "rank": 3241,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
