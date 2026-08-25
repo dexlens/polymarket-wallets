@@ -110,5 +110,21 @@
     "win_count": 1,
     "rank": 9007,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x75b143a81538d293a001a907d18d2fdc614d3e4d",
+    "trader_name": "shsss1",
+    "tag": "Overall",
+    "overall_gain": 11635.582145,
+    "active_positions": 1,
+    "win_amount": 11635.582145,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 200.92642500000002,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 9008,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
