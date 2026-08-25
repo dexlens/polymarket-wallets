@@ -318,5 +318,21 @@
     "win_count": 7,
     "rank": 81521,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd01c6c60e2a4f6b01347b6e55167d1ec08027f9d",
+    "trader_name": "pinnacl",
+    "tag": "Overall",
+    "overall_gain": 605.9436530111504,
+    "active_positions": 267,
+    "win_amount": 24794.691173992287,
+    "loss_amount": -24188.747520981135,
+    "win_rate": 0.5613234455219623,
+    "total_current_value": 11601.118843987004,
+    "total_positions": 4617,
+    "event_ct": 1753,
+    "win_count": 984,
+    "rank": 81522,
+    "trader_tags": "1k+ Positions"
   }
 ]
