@@ -1470,5 +1470,21 @@
     "win_count": 17,
     "rank": 10392,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x13fe52ac961acb9e7f9949874fae43274ea16ff7",
+    "trader_name": "tronis",
+    "tag": "Overall",
+    "overall_gain": 10107.85197923382,
+    "active_positions": 2,
+    "win_amount": 10107.85197923382,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 12.138819999999999,
+    "total_positions": 13,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 10393,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
