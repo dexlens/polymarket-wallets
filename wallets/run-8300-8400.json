@@ -638,5 +638,21 @@
     "win_count": 81,
     "rank": 8340,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x47e8fb8772841163583bc9cbdef1612f7f2818c6",
+    "trader_name": "uliseskingdf",
+    "tag": "Overall",
+    "overall_gain": 12583.086516,
+    "active_positions": 0,
+    "win_amount": 15669.565502,
+    "loss_amount": -3086.478986,
+    "win_rate": 0.68,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 25,
+    "win_count": 17,
+    "rank": 8341,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
