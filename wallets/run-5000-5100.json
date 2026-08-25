@@ -1406,5 +1406,21 @@
     "win_count": 3294,
     "rank": 5088,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x33f243565ef3310f2796f34188801f53efa04e69",
+    "trader_name": "barkinglots",
+    "tag": "Overall",
+    "overall_gain": 21306.274864776307,
+    "active_positions": 2,
+    "win_amount": 48836.30609487297,
+    "loss_amount": -27530.031230096658,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.00817,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 5089,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
