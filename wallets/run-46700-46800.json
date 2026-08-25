@@ -1022,5 +1022,21 @@
     "win_count": 8,
     "rank": 46765,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf4d57b99e21e123fde0011d7d587321a448813ee",
+    "trader_name": "markrypto",
+    "tag": "Overall",
+    "overall_gain": 1627.5032181345255,
+    "active_positions": 168,
+    "win_amount": 9966.477201142732,
+    "loss_amount": -8338.973983008202,
+    "win_rate": 0.7451523545706371,
+    "total_current_value": 986.6227781999999,
+    "total_positions": 782,
+    "event_ct": 722,
+    "win_count": 538,
+    "rank": 46766,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
