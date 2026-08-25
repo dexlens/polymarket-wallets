@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 27870,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x40181334fdcb052b7de5d785fd66c78f2cd81eb6",
+    "trader_name": "hhjsq",
+    "tag": "Overall",
+    "overall_gain": 3083.6660599999996,
+    "active_positions": 0,
+    "win_amount": 3090.2369,
+    "loss_amount": -6.5708400000000005,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 27871,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
