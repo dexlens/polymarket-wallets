@@ -1454,5 +1454,21 @@
     "win_count": 22,
     "rank": 4591,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xf1899a30a2c016941bf4abd77b900ecacd768e47",
+    "trader_name": "Alicia",
+    "tag": "Overall",
+    "overall_gain": 23955.428305355013,
+    "active_positions": 10,
+    "win_amount": 44749.70511631843,
+    "loss_amount": -20794.276810963413,
+    "win_rate": 0.7450331125827815,
+    "total_current_value": 42845.3902526075,
+    "total_positions": 899,
+    "event_ct": 302,
+    "win_count": 225,
+    "rank": 4592,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
