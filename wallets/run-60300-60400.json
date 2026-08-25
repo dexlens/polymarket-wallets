@@ -446,5 +446,21 @@
     "win_count": 147,
     "rank": 60329,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25cc8024e9aa77e58ae10543b17fdab2767746ee",
+    "trader_name": "Kapforut",
+    "tag": "Overall",
+    "overall_gain": 1066.0411971517935,
+    "active_positions": 3,
+    "win_amount": 1066.0411971517935,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3849.1882856800007,
+    "total_positions": 32,
+    "event_ct": 26,
+    "win_count": 26,
+    "rank": 60330,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
