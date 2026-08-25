@@ -574,5 +574,21 @@
     "win_count": 61,
     "rank": 7136,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3bbb00ee6f68793707fff9547d5f1bd302c43607",
+    "trader_name": "Euthorian",
+    "tag": "Overall",
+    "overall_gain": 15000.227038994984,
+    "active_positions": 19,
+    "win_amount": 26174.834073577247,
+    "loss_amount": -11174.607034582265,
+    "win_rate": 0.5918367346938775,
+    "total_current_value": 0.007866,
+    "total_positions": 57,
+    "event_ct": 49,
+    "win_count": 29,
+    "rank": 7137,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
