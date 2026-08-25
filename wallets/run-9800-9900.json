@@ -1438,5 +1438,21 @@
     "win_count": 3,
     "rank": 9890,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfadc99d357da8b69c10b9122cf1917052028472e",
+    "trader_name": "drkmde",
+    "tag": "Overall",
+    "overall_gain": 10598.532617089999,
+    "active_positions": 18,
+    "win_amount": 45028.30877100001,
+    "loss_amount": -34429.776153909996,
+    "win_rate": 0.7352941176470589,
+    "total_current_value": 0,
+    "total_positions": 68,
+    "event_ct": 68,
+    "win_count": 50,
+    "rank": 9891,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
