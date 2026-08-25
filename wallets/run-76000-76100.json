@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 76038,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7dc034887b21f9533aa87e69234108d48cff2c31",
+    "trader_name": "9gvu",
+    "tag": "Overall",
+    "overall_gain": 698.282764801244,
+    "active_positions": 0,
+    "win_amount": 698.282764801244,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0472957075,
+    "total_positions": 13,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 76039,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
