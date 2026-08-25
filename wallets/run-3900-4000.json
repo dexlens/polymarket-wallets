@@ -926,5 +926,21 @@
     "win_count": 6,
     "rank": 3958,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb49f468c15c49783f2664c7198a4949ade1b12e6",
+    "trader_name": "dadadabababab",
+    "tag": "Overall",
+    "overall_gain": 28419.11314891085,
+    "active_positions": 2060,
+    "win_amount": 38799.51543567164,
+    "loss_amount": -10380.40228676078,
+    "win_rate": 0.8133174791914387,
+    "total_current_value": 2608.2425831764995,
+    "total_positions": 18821,
+    "event_ct": 1682,
+    "win_count": 1368,
+    "rank": 3959,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
