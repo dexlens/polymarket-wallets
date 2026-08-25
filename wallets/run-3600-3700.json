@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 3676,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a78baff6f77209c21eab8b3012b8d328f3a2d53",
+    "trader_name": "HupSeng",
+    "tag": "Overall",
+    "overall_gain": 30957.75328179403,
+    "active_positions": 4,
+    "win_amount": 36856.02074899404,
+    "loss_amount": -5898.2674672,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 15.586297799999997,
+    "total_positions": 87,
+    "event_ct": 34,
+    "win_count": 32,
+    "rank": 3677,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
