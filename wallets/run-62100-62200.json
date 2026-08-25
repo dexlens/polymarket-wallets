@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 62184,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7be359dc91c418fdd0feb71da4037d04184b4b75",
+    "trader_name": "RTEIRTI",
+    "tag": "Overall",
+    "overall_gain": 1017.31915,
+    "active_positions": 3,
+    "win_amount": 4041.949150000001,
+    "loss_amount": -3024.63,
+    "win_rate": 0.9032258064516129,
+    "total_current_value": 0.0092,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 28,
+    "rank": 62185,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
