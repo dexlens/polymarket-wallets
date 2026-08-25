@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 2425,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe9bcaac97f80715ac817b3900ee7ff5b4b71b5e8",
+    "trader_name": "AMC44",
+    "tag": "Overall",
+    "overall_gain": 48716.06078590903,
+    "active_positions": 2,
+    "win_amount": 48716.06078590903,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 7000.000093,
+    "total_positions": 17,
+    "event_ct": 11,
+    "win_count": 11,
+    "rank": 2426,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
