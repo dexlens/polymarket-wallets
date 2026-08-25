@@ -718,5 +718,21 @@
     "win_count": 183,
     "rank": 2545,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3b7f9d54730d224f6e4188ac1704d1391d66ed4d",
+    "trader_name": "Kyloen",
+    "tag": "Overall",
+    "overall_gain": 46047.20394281396,
+    "active_positions": 6,
+    "win_amount": 47122.03389970992,
+    "loss_amount": -1074.829956895952,
+    "win_rate": 0.8412698412698413,
+    "total_current_value": 2.084904835,
+    "total_positions": 66,
+    "event_ct": 63,
+    "win_count": 53,
+    "rank": 2546,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
