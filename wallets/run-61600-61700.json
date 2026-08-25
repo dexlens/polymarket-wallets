@@ -942,5 +942,21 @@
     "win_count": 5,
     "rank": 61660,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0778083ab98c5ab4bbe0b11fac034bd0c31c1276",
+    "trader_name": "javierRD",
+    "tag": "Overall",
+    "overall_gain": 1030.4625280904936,
+    "active_positions": 25,
+    "win_amount": 19133.575905119917,
+    "loss_amount": -18103.11337702942,
+    "win_rate": 0.8579545454545454,
+    "total_current_value": 7181.8097462805,
+    "total_positions": 1456,
+    "event_ct": 528,
+    "win_count": 453,
+    "rank": 61661,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
