@@ -1566,5 +1566,21 @@
     "win_count": 366,
     "rank": 5298,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xed44cc55d7393c05466590f34d01c52d56d5a78e",
+    "trader_name": "Obrya",
+    "tag": "Overall",
+    "overall_gain": 20464.515157406648,
+    "active_positions": 8,
+    "win_amount": 21502.385157406647,
+    "loss_amount": -1037.87,
+    "win_rate": 0.9743589743589743,
+    "total_current_value": 126.646141,
+    "total_positions": 39,
+    "event_ct": 39,
+    "win_count": 38,
+    "rank": 5299,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
