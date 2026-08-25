@@ -638,5 +638,21 @@
     "win_count": 17,
     "rank": 9040,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9a2f6520977f3ef9d009577532fd98f262e51f59",
+    "trader_name": "Cronozzz",
+    "tag": "Overall",
+    "overall_gain": 11599.579380997611,
+    "active_positions": 2864,
+    "win_amount": 23393.473135997618,
+    "loss_amount": -11793.893754999997,
+    "win_rate": 0.042105263157894736,
+    "total_current_value": 172.17470901300004,
+    "total_positions": 3672,
+    "event_ct": 1140,
+    "win_count": 48,
+    "rank": 9041,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
