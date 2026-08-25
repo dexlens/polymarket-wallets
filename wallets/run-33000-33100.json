@@ -654,5 +654,21 @@
     "win_count": 6,
     "rank": 33042,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b474d574fc50f1acdd07b0ad769387c7ea84744",
+    "trader_name": "PrudenceThorndike",
+    "tag": "Overall",
+    "overall_gain": 2500,
+    "active_positions": 11,
+    "win_amount": 8500,
+    "loss_amount": -6000,
+    "win_rate": 0.5769230769230769,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 15,
+    "rank": 33043,
+    "trader_tags": ""
   }
 ]
