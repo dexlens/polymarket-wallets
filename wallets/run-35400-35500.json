@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 35455,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08910da8027d82e42d7ef45c0713a3f9d1c91847",
+    "trader_name": "Cloudweft",
+    "tag": "Overall",
+    "overall_gain": 2304.88,
+    "active_positions": 2,
+    "win_amount": 2886.88,
+    "loss_amount": -582,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 35456,
+    "trader_tags": ""
   }
 ]
