@@ -462,5 +462,21 @@
     "win_count": 71,
     "rank": 3129,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77bcf759a5bbbf604a52d839d5f68ead4c78b91b",
+    "trader_name": "Poissonic",
+    "tag": "Overall",
+    "overall_gain": 36534.87497256654,
+    "active_positions": 246,
+    "win_amount": 257028.10571197237,
+    "loss_amount": -220493.23073940587,
+    "win_rate": 0.5420597484276729,
+    "total_current_value": 19009.829896949504,
+    "total_positions": 19556,
+    "event_ct": 2544,
+    "win_count": 1379,
+    "rank": 3130,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
