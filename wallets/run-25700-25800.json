@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 25776,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x869fadf47a2baa8deda52dcfec149c148a71b884",
+    "trader_name": "mnrte",
+    "tag": "Overall",
+    "overall_gain": 3410.775,
+    "active_positions": 10,
+    "win_amount": 15274.05,
+    "loss_amount": -11863.275000000001,
+    "win_rate": 0.48148148148148145,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 27,
+    "win_count": 13,
+    "rank": 25777,
+    "trader_tags": ""
   }
 ]
