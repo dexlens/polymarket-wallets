@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 73051,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f15d350bcec0b652d2cdc4344d12ddae2c7d9de",
+    "trader_name": "wdsa",
+    "tag": "Overall",
+    "overall_gain": 743.8007528388329,
+    "active_positions": 4,
+    "win_amount": 1010.05,
+    "loss_amount": -266.249247161167,
+    "win_rate": 0.25,
+    "total_current_value": 0.014236835500000001,
+    "total_positions": 20,
+    "event_ct": 16,
+    "win_count": 4,
+    "rank": 73052,
+    "trader_tags": ""
   }
 ]
