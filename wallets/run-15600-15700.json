@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 15643,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8b552440eaefeef7d4818e6d74cf5c391a76d74b",
+    "trader_name": "KappaDINGLE",
+    "tag": "Overall",
+    "overall_gain": 6161.228486117766,
+    "active_positions": 72,
+    "win_amount": 53510.92011598196,
+    "loss_amount": -47349.69162986419,
+    "win_rate": 0.49586776859504134,
+    "total_current_value": 5036.419597451,
+    "total_positions": 1413,
+    "event_ct": 1089,
+    "win_count": 540,
+    "rank": 15644,
+    "trader_tags": "1k+ Positions"
   }
 ]
