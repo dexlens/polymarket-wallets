@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 3099,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x15886b5c0245f9c44d71631231f3fc22fac866e4",
+    "trader_name": "Papitolindoo",
+    "tag": "Overall",
+    "overall_gain": 36892.83992774277,
+    "active_positions": 0,
+    "win_amount": 36892.83992774277,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000977,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 3100,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
