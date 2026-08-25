@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 7887,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1027bba6ed921843414caeeaf89831c1def74c27",
+    "trader_name": "Danw",
+    "tag": "Overall",
+    "overall_gain": 13338.453442999999,
+    "active_positions": 0,
+    "win_amount": 13952.198476,
+    "loss_amount": -613.745033,
+    "win_rate": 0.34782608695652173,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 23,
+    "win_count": 8,
+    "rank": 7888,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
