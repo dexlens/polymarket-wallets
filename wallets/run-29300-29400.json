@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 29388,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97b1e552772c6dc6b3a5bb6ae1b6b4750b451f26",
+    "trader_name": "TigerRay",
+    "tag": "Overall",
+    "overall_gain": 2896.9323512103297,
+    "active_positions": 9,
+    "win_amount": 6550.846450925976,
+    "loss_amount": -3653.9140997156464,
+    "win_rate": 0.36764705882352944,
+    "total_current_value": 119.96747056849999,
+    "total_positions": 72,
+    "event_ct": 68,
+    "win_count": 25,
+    "rank": 29389,
+    "trader_tags": "< 30 days old"
   }
 ]
