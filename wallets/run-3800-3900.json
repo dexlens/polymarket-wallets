@@ -878,5 +878,21 @@
     "win_count": 7,
     "rank": 3855,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf39f95171dbdf94756129d7f35fd7685132d1070",
+    "trader_name": "Eldric",
+    "tag": "Overall",
+    "overall_gain": 29422.910585801736,
+    "active_positions": 3,
+    "win_amount": 31203.730989500003,
+    "loss_amount": -1780.820403698269,
+    "win_rate": 0.8939393939393939,
+    "total_current_value": 0.005133,
+    "total_positions": 68,
+    "event_ct": 66,
+    "win_count": 59,
+    "rank": 3856,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
