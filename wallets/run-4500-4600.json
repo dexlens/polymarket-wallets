@@ -206,5 +206,21 @@
     "win_count": 21,
     "rank": 4513,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb705c56905026dbace1abe80b9f3c748eeffe280",
+    "trader_name": "Pebbles",
+    "tag": "Overall",
+    "overall_gain": 24382.424696999995,
+    "active_positions": 1,
+    "win_amount": 30382.158272999997,
+    "loss_amount": -5999.733576,
+    "win_rate": 0.40384615384615385,
+    "total_current_value": 0,
+    "total_positions": 63,
+    "event_ct": 52,
+    "win_count": 21,
+    "rank": 4514,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
