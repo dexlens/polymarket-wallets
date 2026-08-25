@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 62626,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02f34a597773e64dee60726d893f9651151794cb",
+    "trader_name": "motocy365",
+    "tag": "Overall",
+    "overall_gain": 1006.5059999999994,
+    "active_positions": 4,
+    "win_amount": 4615.400000000001,
+    "loss_amount": -3608.8940000000002,
+    "win_rate": 0.75,
+    "total_current_value": 5084.999999999999,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 62627,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
