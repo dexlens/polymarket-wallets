@@ -14,5 +14,21 @@
     "win_count": 4,
     "rank": 7801,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x675216205c2a5726fd9e6e2c6ba42c11c6ff6a18",
+    "trader_name": "stancone",
+    "tag": "Overall",
+    "overall_gain": 13516.182985769938,
+    "active_positions": 0,
+    "win_amount": 13516.182985769938,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008986,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7802,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
