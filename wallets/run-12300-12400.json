@@ -1150,5 +1150,21 @@
     "win_count": 19,
     "rank": 12372,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63c6df1ac110f6bd4c7cd8727287344d39154cc5",
+    "trader_name": "NEle",
+    "tag": "Overall",
+    "overall_gain": 8244.39156234,
+    "active_positions": 6,
+    "win_amount": 15568.431171229999,
+    "loss_amount": -7324.039608889999,
+    "win_rate": 0.6136363636363636,
+    "total_current_value": 0.000037000000000000005,
+    "total_positions": 44,
+    "event_ct": 44,
+    "win_count": 27,
+    "rank": 12373,
+    "trader_tags": "> 1 year old"
   }
 ]
