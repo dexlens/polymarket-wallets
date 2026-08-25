@@ -910,5 +910,21 @@
     "win_count": 1,
     "rank": 84858,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x962eb33ed55b3fc35bf8b55d0e38658c6a3f1d75",
+    "trader_name": "OmeadAzadeh",
+    "tag": "Overall",
+    "overall_gain": 554.1456284098708,
+    "active_positions": 20,
+    "win_amount": 2324.3055529511694,
+    "loss_amount": -1770.159924541298,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 1924.44870925,
+    "total_positions": 64,
+    "event_ct": 62,
+    "win_count": 42,
+    "rank": 84859,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
