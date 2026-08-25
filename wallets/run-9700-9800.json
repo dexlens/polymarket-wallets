@@ -814,5 +814,21 @@
     "win_count": 5,
     "rank": 9751,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f6cbde6ba5e56baa6106097bb575b27e3820082",
+    "trader_name": "assdc",
+    "tag": "Overall",
+    "overall_gain": 10745.661874000001,
+    "active_positions": 1,
+    "win_amount": 10763.191874000002,
+    "loss_amount": -17.53,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 29,
+    "total_positions": 27,
+    "event_ct": 21,
+    "win_count": 19,
+    "rank": 9752,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
