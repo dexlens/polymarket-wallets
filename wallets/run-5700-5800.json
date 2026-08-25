@@ -798,5 +798,21 @@
     "win_count": 25,
     "rank": 5750,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2abca987e5de7bb2eb68c3395b4460653e4e8163",
+    "trader_name": "feederfund",
+    "tag": "Overall",
+    "overall_gain": 18715.34230572202,
+    "active_positions": 0,
+    "win_amount": 31799.31840672202,
+    "loss_amount": -13083.976101,
+    "win_rate": 0.4,
+    "total_current_value": 0.004709,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 4,
+    "rank": 5751,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
