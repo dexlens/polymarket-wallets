@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 16285,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x673eb42ab2734b3e6499610c97e9fce49b0e84fa",
+    "trader_name": "Northwood",
+    "tag": "Overall",
+    "overall_gain": 5871.501959836957,
+    "active_positions": 3,
+    "win_amount": 5876.533531107643,
+    "loss_amount": -5.031571270685999,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 10.9729345995,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 16286,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
