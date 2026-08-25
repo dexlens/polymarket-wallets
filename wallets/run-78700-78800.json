@@ -814,5 +814,21 @@
     "win_count": 4,
     "rank": 78752,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4a60f9da70f4449df7994c4b645c33aa18f4fe54",
+    "trader_name": "1arm",
+    "tag": "Overall",
+    "overall_gain": 651.320299,
+    "active_positions": 5,
+    "win_amount": 652.1691450000001,
+    "loss_amount": -0.8488460000000009,
+    "win_rate": 0.9615384615384616,
+    "total_current_value": 723.4595000000002,
+    "total_positions": 81,
+    "event_ct": 52,
+    "win_count": 50,
+    "rank": 78753,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
