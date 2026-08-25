@@ -622,5 +622,21 @@
     "win_count": 6,
     "rank": 18339,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c2c8cf79f6f84bec7df40753f2c8fd5572379dc",
+    "trader_name": "thehouse2",
+    "tag": "Overall",
+    "overall_gain": 5069.001801387054,
+    "active_positions": 1,
+    "win_amount": 12804.344169999998,
+    "loss_amount": -7735.342368612945,
+    "win_rate": 0.5833536734195753,
+    "total_current_value": 1.4440650000000002,
+    "total_positions": 16376,
+    "event_ct": 8194,
+    "win_count": 4780,
+    "rank": 18340,
+    "trader_tags": "1k+ Positions"
   }
 ]
