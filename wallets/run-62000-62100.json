@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 62054,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x34ebe22f47861d043f29cd5c4250db64a92e47ea",
+    "trader_name": "bvgbnn",
+    "tag": "Overall",
+    "overall_gain": 1020.6678942576928,
+    "active_positions": 4,
+    "win_amount": 5061.462894257694,
+    "loss_amount": -4040.795,
+    "win_rate": 0.8787878787878788,
+    "total_current_value": 0.002693,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 29,
+    "rank": 62055,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
