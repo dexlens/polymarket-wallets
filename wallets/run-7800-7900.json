@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 7882,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x22c63e3c8f9381d8944cf26bcb78f90a78b7cf2a",
+    "trader_name": "miggles.eth",
+    "tag": "Overall",
+    "overall_gain": 13343.546962802267,
+    "active_positions": 1,
+    "win_amount": 50922.281186874054,
+    "loss_amount": -37578.73422407176,
+    "win_rate": 0.6089108910891089,
+    "total_current_value": 1879.8271893500003,
+    "total_positions": 251,
+    "event_ct": 202,
+    "win_count": 123,
+    "rank": 7883,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
