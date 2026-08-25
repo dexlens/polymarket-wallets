@@ -462,5 +462,21 @@
     "win_count": 131,
     "rank": 5429,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x00d9787f2c442a5ee27a6abd3cd64eee01480e0e",
+    "trader_name": "ledgecapital",
+    "tag": "Overall",
+    "overall_gain": 19919.75852621083,
+    "active_positions": 0,
+    "win_amount": 21135.361180146072,
+    "loss_amount": -1215.602653935243,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.136246,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 5430,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
