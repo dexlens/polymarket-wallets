@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 2731,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x5afa18da414db7c1f887e7b36ca37349a184dba8",
+    "trader_name": "Vaedrix",
+    "tag": "Overall",
+    "overall_gain": 42539.56429069803,
+    "active_positions": 5,
+    "win_amount": 43896.50135469803,
+    "loss_amount": -1356.9370640000002,
+    "win_rate": 0.8767123287671232,
+    "total_current_value": 51.426072999999995,
+    "total_positions": 76,
+    "event_ct": 73,
+    "win_count": 64,
+    "rank": 2732,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
