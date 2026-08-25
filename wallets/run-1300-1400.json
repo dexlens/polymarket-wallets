@@ -958,5 +958,21 @@
     "win_count": 117,
     "rank": 1360,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf5e15d3344c35890f1aa716dca88e13eb9065ad0",
+    "trader_name": "Bacc",
+    "tag": "Overall",
+    "overall_gain": 89265.06670635466,
+    "active_positions": 18,
+    "win_amount": 1584540.7728034242,
+    "loss_amount": -1495275.706097069,
+    "win_rate": 0.5082417582417582,
+    "total_current_value": 11132.164546243,
+    "total_positions": 1188,
+    "event_ct": 728,
+    "win_count": 370,
+    "rank": 1361,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
