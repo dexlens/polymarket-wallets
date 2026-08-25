@@ -1582,5 +1582,21 @@
     "win_count": 2,
     "rank": 42100,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd04a3afa125ab31977587245dce2c20b4fca672c",
+    "trader_name": "zeroxbaz-3",
+    "tag": "Overall",
+    "overall_gain": 1871.0403320000014,
+    "active_positions": 0,
+    "win_amount": 9777.045417000003,
+    "loss_amount": -7906.005084999999,
+    "win_rate": 0.9619196661450182,
+    "total_current_value": 0,
+    "total_positions": 1917,
+    "event_ct": 1917,
+    "win_count": 1844,
+    "rank": 42101,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
