@@ -222,5 +222,21 @@
     "win_count": 4,
     "rank": 5214,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd75d96a23515172778d3281f53c9180b985100c8",
+    "trader_name": "Varyag",
+    "tag": "Overall",
+    "overall_gain": 20776.303542643982,
+    "active_positions": 3,
+    "win_amount": 27747.67947496081,
+    "loss_amount": -6971.375932316846,
+    "win_rate": 0.7429111531190926,
+    "total_current_value": 133.32786665000003,
+    "total_positions": 1238,
+    "event_ct": 529,
+    "win_count": 393,
+    "rank": 5215,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
