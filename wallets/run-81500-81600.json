@@ -1518,5 +1518,21 @@
     "win_count": 3,
     "rank": 81596,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x665e91fb0d5e456fb5c6fed89c2530829d4cea7e",
+    "trader_name": "DancingOwl",
+    "tag": "Overall",
+    "overall_gain": 604.633128177986,
+    "active_positions": 12,
+    "win_amount": 1310.3309520349858,
+    "loss_amount": -705.697823857,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 2774.6382569219995,
+    "total_positions": 46,
+    "event_ct": 34,
+    "win_count": 24,
+    "rank": 81597,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
