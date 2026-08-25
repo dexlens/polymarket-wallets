@@ -958,5 +958,21 @@
     "win_count": 29,
     "rank": 81761,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x95b185d0f39706607b06c108be936a0b2a6d4565",
+    "trader_name": "TurkeyTripMoney",
+    "tag": "Overall",
+    "overall_gain": 601.7066724814075,
+    "active_positions": 1,
+    "win_amount": 606.7065464814075,
+    "loss_amount": -4.999874,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 2289.9756651275006,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 81762,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
