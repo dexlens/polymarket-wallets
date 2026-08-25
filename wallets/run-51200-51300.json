@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 51225,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x96ed98f5e22ab822ae75ed084c0ffc191e10a350",
+    "trader_name": "StewPid",
+    "tag": "Overall",
+    "overall_gain": 1428.0663434773162,
+    "active_positions": 28,
+    "win_amount": 2335.886863019693,
+    "loss_amount": -907.8205195423772,
+    "win_rate": 0.2709677419354839,
+    "total_current_value": 101.87912168499999,
+    "total_positions": 178,
+    "event_ct": 155,
+    "win_count": 42,
+    "rank": 51226,
+    "trader_tags": "> 1 year old"
   }
 ]
