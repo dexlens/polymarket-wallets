@@ -1454,5 +1454,21 @@
     "win_count": 256,
     "rank": 48492,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x95dd7a9e04660ecaf23150fc8e3250598327e453",
+    "trader_name": "jackie1987",
+    "tag": "Overall",
+    "overall_gain": 1549.739468894817,
+    "active_positions": 0,
+    "win_amount": 1734.484440894817,
+    "loss_amount": -184.744972,
+    "win_rate": 0.75,
+    "total_current_value": 0.004817,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 48493,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
