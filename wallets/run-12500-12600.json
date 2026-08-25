@@ -286,5 +286,21 @@
     "win_count": 42,
     "rank": 12518,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdf069f44cdf0cfda8b8a1d112a62165519edc9ff",
+    "trader_name": "arm1337",
+    "tag": "Overall",
+    "overall_gain": 8108.243005834011,
+    "active_positions": 75,
+    "win_amount": 21325.996440207033,
+    "loss_amount": -13217.753434373022,
+    "win_rate": 0.6755952380952381,
+    "total_current_value": 611.1505350924999,
+    "total_positions": 559,
+    "event_ct": 336,
+    "win_count": 227,
+    "rank": 12519,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
