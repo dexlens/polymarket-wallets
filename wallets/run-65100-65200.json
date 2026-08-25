@@ -62,5 +62,21 @@
     "win_count": 1,
     "rank": 65105,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb99a0b4cff5c1334154b0be282cafec5887b717",
+    "trader_name": "heth",
+    "tag": "Overall",
+    "overall_gain": 942.1199999999999,
+    "active_positions": 1,
+    "win_amount": 4505.04,
+    "loss_amount": -3562.92,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 65106,
+    "trader_tags": "> 1 year old"
   }
 ]
