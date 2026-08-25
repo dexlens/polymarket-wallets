@@ -990,5 +990,21 @@
     "win_count": 12,
     "rank": 7562,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4012d8527d928fff0af39ac8dd3fa9136289a72d",
+    "trader_name": "Just-Hedging",
+    "tag": "Overall",
+    "overall_gain": 14019.268158827366,
+    "active_positions": 2,
+    "win_amount": 14875.952883304177,
+    "loss_amount": -856.6847244768101,
+    "win_rate": 0.7,
+    "total_current_value": 0.022824,
+    "total_positions": 38,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 7563,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
