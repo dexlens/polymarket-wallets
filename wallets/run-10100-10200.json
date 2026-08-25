@@ -894,5 +894,21 @@
     "win_count": 2,
     "rank": 10156,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x90e3bcd75383a20b76854cfc13c7ddb8ef592846",
+    "trader_name": "Carlitos",
+    "tag": "Overall",
+    "overall_gain": 10345.823117672862,
+    "active_positions": 3,
+    "win_amount": 19005.13871940286,
+    "loss_amount": -8659.315601729999,
+    "win_rate": 0.6,
+    "total_current_value": 0.0031650000000000003,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 10157,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
