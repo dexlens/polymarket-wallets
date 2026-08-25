@@ -894,5 +894,21 @@
     "win_count": 5,
     "rank": 47357,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x08cc4b5b13f15201c2a7e5181bb9089393f5d67a",
+    "trader_name": "zfhguty",
+    "tag": "Overall",
+    "overall_gain": 1600.4808814938617,
+    "active_positions": 5,
+    "win_amount": 4382.158458000001,
+    "loss_amount": -2781.677576506138,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 147.39,
+    "total_positions": 38,
+    "event_ct": 36,
+    "win_count": 33,
+    "rank": 47358,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
