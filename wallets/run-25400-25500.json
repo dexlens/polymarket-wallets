@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 25483,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa3bc0d8304ef8d0287767095f3af3a591a2ae76e",
+    "trader_name": "OETdf",
+    "tag": "Overall",
+    "overall_gain": 3462.7519901848505,
+    "active_positions": 5,
+    "win_amount": 3680.4938843,
+    "loss_amount": -217.74189411515,
+    "win_rate": 0.875,
+    "total_current_value": 214.350002,
+    "total_positions": 42,
+    "event_ct": 40,
+    "win_count": 35,
+    "rank": 25484,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
