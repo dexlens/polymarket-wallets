@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 82748,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf89845a8245353ca8cbc9218972902ecd1e52979",
+    "trader_name": "Kolochka",
+    "tag": "Overall",
+    "overall_gain": 586.4290422246569,
+    "active_positions": 5,
+    "win_amount": 608.9442269932189,
+    "loss_amount": -22.51518476856201,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 2.5246236645000004,
+    "total_positions": 61,
+    "event_ct": 56,
+    "win_count": 32,
+    "rank": 82749,
+    "trader_tags": "> 1 year old"
   }
 ]
