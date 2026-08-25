@@ -910,5 +910,21 @@
     "win_count": 2,
     "rank": 32458,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd14a096961adb77d57a2d5318a9c817ea3f5ab9",
+    "trader_name": "sways-endemic",
+    "tag": "Overall",
+    "overall_gain": 2555.18856274,
+    "active_positions": 1,
+    "win_amount": 15303.676950999998,
+    "loss_amount": -12748.48838826,
+    "win_rate": 0.5039123630672926,
+    "total_current_value": 0,
+    "total_positions": 762,
+    "event_ct": 639,
+    "win_count": 322,
+    "rank": 32459,
+    "trader_tags": ""
   }
 ]
