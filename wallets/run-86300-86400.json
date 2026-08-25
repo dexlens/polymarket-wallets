@@ -1070,5 +1070,21 @@
     "win_count": 9,
     "rank": 86368,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13893bf45d46d30ed0bf27fdf1204638571dcc29",
+    "trader_name": "parkin",
+    "tag": "Overall",
+    "overall_gain": 534.14159484768,
+    "active_positions": 0,
+    "win_amount": 599.405467281892,
+    "loss_amount": -65.263872434212,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.004,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 86369,
+    "trader_tags": "> 1 year old"
   }
 ]
