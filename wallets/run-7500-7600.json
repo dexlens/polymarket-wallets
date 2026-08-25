@@ -718,5 +718,21 @@
     "win_count": 23,
     "rank": 7545,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2e3a0c0de59abbba734d3853ca070d3949b4e2ab",
+    "trader_name": "wiwiwii",
+    "tag": "Overall",
+    "overall_gain": 14055.90212569112,
+    "active_positions": 3,
+    "win_amount": 23104.254061,
+    "loss_amount": -9048.351935308881,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 4,
+    "rank": 7546,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
