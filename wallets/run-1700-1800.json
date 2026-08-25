@@ -1502,5 +1502,21 @@
     "win_count": 5,
     "rank": 1794,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x737a7e98e3ff588481d6e0fa6a14bd16a2a61699",
+    "trader_name": "Aesvion",
+    "tag": "Overall",
+    "overall_gain": 67992.94957036727,
+    "active_positions": 4,
+    "win_amount": 68485.57950600001,
+    "loss_amount": -492.62993563271704,
+    "win_rate": 0.8701298701298701,
+    "total_current_value": 0,
+    "total_positions": 81,
+    "event_ct": 77,
+    "win_count": 67,
+    "rank": 1795,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
