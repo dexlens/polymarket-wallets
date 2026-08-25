@@ -974,5 +974,21 @@
     "win_count": 36,
     "rank": 3061,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x34a0ef38010bb61b2b39328909506e1e817b9ef2",
+    "trader_name": "zzzasdf",
+    "tag": "Overall",
+    "overall_gain": 37467.37277504881,
+    "active_positions": 0,
+    "win_amount": 37467.37277504881,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001561,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3062,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
