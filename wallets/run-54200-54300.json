@@ -766,5 +766,21 @@
     "win_count": 15,
     "rank": 54249,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3b842cbea372fc0bc175ac00a4f64cc7e53ff2b8",
+    "trader_name": "davidlionblue",
+    "tag": "Overall",
+    "overall_gain": 1292.695594717136,
+    "active_positions": 1,
+    "win_amount": 1292.695594717136,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0008800000000000001,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 54250,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
