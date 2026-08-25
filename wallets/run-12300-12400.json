@@ -1070,5 +1070,21 @@
     "win_count": 909,
     "rank": 12367,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x897aaa6002fdf99236b17386776d709cf5efbad8",
+    "trader_name": "Mauritius",
+    "tag": "Overall",
+    "overall_gain": 8253.485851614725,
+    "active_positions": 1,
+    "win_amount": 16529.965814138854,
+    "loss_amount": -8276.479962524128,
+    "win_rate": 0.8933333333333333,
+    "total_current_value": 19.864205000000002,
+    "total_positions": 87,
+    "event_ct": 75,
+    "win_count": 67,
+    "rank": 12368,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
