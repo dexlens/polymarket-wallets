@@ -1438,5 +1438,21 @@
     "win_count": 392,
     "rank": 16090,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10426b952e518809c80f384b25ac1701fa29fe36",
+    "trader_name": "Nikitich",
+    "tag": "Overall",
+    "overall_gain": 5956.779025664245,
+    "active_positions": 4,
+    "win_amount": 7217.353866822254,
+    "loss_amount": -1260.57484115801,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 11361.842726051,
+    "total_positions": 28,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 16091,
+    "trader_tags": "> 1 year old"
   }
 ]
