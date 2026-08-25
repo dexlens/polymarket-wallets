@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 39199,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74829ab690fd3a56fffc9bc57f9bb49df1aadef0",
+    "trader_name": "Dashiellalexander",
+    "tag": "Overall",
+    "overall_gain": 2037.74073738974,
+    "active_positions": 7,
+    "win_amount": 4279.0255369999995,
+    "loss_amount": -2241.28479961026,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 14.63505,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 13,
+    "rank": 39200,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
