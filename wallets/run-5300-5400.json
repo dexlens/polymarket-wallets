@@ -830,5 +830,21 @@
     "win_count": 21,
     "rank": 5352,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa3c262fa4d8d6c00a0d287ccf231436371fda3d6",
+    "trader_name": "Hpp3",
+    "tag": "Overall",
+    "overall_gain": 20221.123729247363,
+    "active_positions": 5,
+    "win_amount": 51012.60877907781,
+    "loss_amount": -30791.48504983044,
+    "win_rate": 0.7819548872180451,
+    "total_current_value": 19039.571323317003,
+    "total_positions": 349,
+    "event_ct": 133,
+    "win_count": 104,
+    "rank": 5353,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
