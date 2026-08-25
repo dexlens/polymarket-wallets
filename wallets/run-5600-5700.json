@@ -1438,5 +1438,21 @@
     "win_count": 53,
     "rank": 5690,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x576bea23df2c67f2dc81b39ec1606fd6893febb1",
+    "trader_name": "Ekliptor1",
+    "tag": "Overall",
+    "overall_gain": 18961.00092155986,
+    "active_positions": 0,
+    "win_amount": 21898.283551146524,
+    "loss_amount": -2937.2826295866676,
+    "win_rate": 0.34146341463414637,
+    "total_current_value": 0.032785999999999996,
+    "total_positions": 46,
+    "event_ct": 41,
+    "win_count": 14,
+    "rank": 5691,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
