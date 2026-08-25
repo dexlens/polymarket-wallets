@@ -1518,5 +1518,21 @@
     "win_count": 22,
     "rank": 2195,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x23f21995b500bd070687698640a46115f804a919",
+    "trader_name": "Mike888",
+    "tag": "Overall",
+    "overall_gain": 54841.051276000006,
+    "active_positions": 0,
+    "win_amount": 60265.177468,
+    "loss_amount": -5424.126192000001,
+    "win_rate": 0.967741935483871,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 31,
+    "win_count": 30,
+    "rank": 2196,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
