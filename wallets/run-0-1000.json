@@ -3262,5 +3262,21 @@
     "win_count": 195,
     "rank": 204,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x5afbafb011df085b8e418aba7c4793cf1bb84511",
+    "trader_name": "lirenTadd",
+    "tag": "Overall",
+    "overall_gain": 599990.8590395044,
+    "active_positions": 0,
+    "win_amount": 6589158.5609322535,
+    "loss_amount": -5989167.70189275,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.002851,
+    "total_positions": 71,
+    "event_ct": 63,
+    "win_count": 27,
+    "rank": 205,
+    "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
   }
 ]
