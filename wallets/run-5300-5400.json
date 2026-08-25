@@ -1342,5 +1342,21 @@
     "win_count": 3,
     "rank": 5384,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51f3a660c9f7e34a4a44043280d078f5737fbb54",
+    "trader_name": "johangra",
+    "tag": "Overall",
+    "overall_gain": 20103.5,
+    "active_positions": 0,
+    "win_amount": 20277,
+    "loss_amount": -173.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 5385,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
