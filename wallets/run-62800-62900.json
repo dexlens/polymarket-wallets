@@ -574,5 +574,21 @@
     "win_count": 1,
     "rank": 62837,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9212f492091afe8d817e27f481e202c360c3f1f8",
+    "trader_name": "pautina",
+    "tag": "Overall",
+    "overall_gain": 1001.6251805888542,
+    "active_positions": 0,
+    "win_amount": 3271.223463588854,
+    "loss_amount": -2269.598283,
+    "win_rate": 0.7254901960784313,
+    "total_current_value": 0.020978,
+    "total_positions": 69,
+    "event_ct": 51,
+    "win_count": 37,
+    "rank": 62838,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
