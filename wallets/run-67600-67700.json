@@ -798,5 +798,21 @@
     "win_count": 15,
     "rank": 67651,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d05ac1456ac53f15f343046e911e10ab552673f",
+    "trader_name": "8MOS",
+    "tag": "Overall",
+    "overall_gain": 870.9592052500799,
+    "active_positions": 3,
+    "win_amount": 1012.3622052500799,
+    "loss_amount": -141.403,
+    "win_rate": 0.4,
+    "total_current_value": 0.002087,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 67652,
+    "trader_tags": "> 1 year old"
   }
 ]
