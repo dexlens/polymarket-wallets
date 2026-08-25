@@ -686,5 +686,21 @@
     "win_count": 5,
     "rank": 22143,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11d5fea1b7551b18eba7f9d7f18535c9177c1b17",
+    "trader_name": "dmgmpm",
+    "tag": "Overall",
+    "overall_gain": 4090.4514904287344,
+    "active_positions": 95,
+    "win_amount": 39179.00305117607,
+    "loss_amount": -35088.55156074732,
+    "win_rate": 0.3,
+    "total_current_value": 309.5358024945,
+    "total_positions": 203,
+    "event_ct": 120,
+    "win_count": 36,
+    "rank": 22144,
+    "trader_tags": ""
   }
 ]
