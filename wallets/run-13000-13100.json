@@ -638,5 +638,21 @@
     "win_count": 3,
     "rank": 13040,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16220ed7253da6b44cfceb441db3843f246019bc",
+    "trader_name": "Ganyak",
+    "tag": "Overall",
+    "overall_gain": 7710.9987249231435,
+    "active_positions": 15,
+    "win_amount": 38673.196836453135,
+    "loss_amount": -30962.19811153,
+    "win_rate": 0.51985559566787,
+    "total_current_value": 149.375095,
+    "total_positions": 336,
+    "event_ct": 277,
+    "win_count": 144,
+    "rank": 13041,
+    "trader_tags": ""
   }
 ]
