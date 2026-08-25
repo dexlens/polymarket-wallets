@@ -1406,5 +1406,21 @@
     "win_count": 88,
     "rank": 26689,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67f5df348df80f1c19696b3a06ff120a19db951c",
+    "trader_name": "adasha",
+    "tag": "Overall",
+    "overall_gain": 3253.958774773236,
+    "active_positions": 1,
+    "win_amount": 5650.024532773236,
+    "loss_amount": -2396.0657579999997,
+    "win_rate": 0.59375,
+    "total_current_value": 0.000387538,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 19,
+    "rank": 26690,
+    "trader_tags": "> 1 year old"
   }
 ]
