@@ -1390,5 +1390,21 @@
     "win_count": 2,
     "rank": 70888,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x08d0d144735a2c12e2b09e07acd8861f2a52a62c",
+    "trader_name": "igfjcvna",
+    "tag": "Overall",
+    "overall_gain": 790.6316949950568,
+    "active_positions": 2,
+    "win_amount": 1063.2501949950567,
+    "loss_amount": -272.61850000000004,
+    "win_rate": 0.967741935483871,
+    "total_current_value": 131.650057,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 30,
+    "rank": 70889,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
