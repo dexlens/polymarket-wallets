@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 8622,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe3e0c1acc254f1881b55e624704edd71ed46167e",
+    "trader_name": "fbmt21",
+    "tag": "Overall",
+    "overall_gain": 12150.082916813682,
+    "active_positions": 3,
+    "win_amount": 12808.093008966505,
+    "loss_amount": -658.0100921528231,
+    "win_rate": 0.6875,
+    "total_current_value": 34374.807727809995,
+    "total_positions": 21,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 8623,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
