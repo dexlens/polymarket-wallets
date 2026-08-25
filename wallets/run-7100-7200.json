@@ -702,5 +702,21 @@
     "win_count": 6,
     "rank": 7144,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x14907d396ae935d389aaaa2aaf39d6385e92e13a",
+    "trader_name": "gogo1",
+    "tag": "Overall",
+    "overall_gain": 14990.948611441885,
+    "active_positions": 2,
+    "win_amount": 15378.805474061788,
+    "loss_amount": -387.85686261990196,
+    "win_rate": 0.3076923076923077,
+    "total_current_value": 0.006665,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 4,
+    "rank": 7145,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
