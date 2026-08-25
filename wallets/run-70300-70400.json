@@ -990,5 +990,21 @@
     "win_count": 75,
     "rank": 70363,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27c1235a86b3229825e36bde3f07786a11e1e882",
+    "trader_name": "ertether",
+    "tag": "Overall",
+    "overall_gain": 802.379964438346,
+    "active_positions": 2,
+    "win_amount": 1103.1025958733,
+    "loss_amount": -300.722631434954,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.011559,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 70364,
+    "trader_tags": ""
   }
 ]
