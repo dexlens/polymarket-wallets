@@ -814,5 +814,21 @@
     "win_count": 330,
     "rank": 4551,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1dfb2a20bbd3354a4ffe369bdfb725dc3a0d02f0",
+    "trader_name": "Grythos",
+    "tag": "Overall",
+    "overall_gain": 24205.789823506257,
+    "active_positions": 4,
+    "win_amount": 24678.7450264099,
+    "loss_amount": -472.955202903639,
+    "win_rate": 0.8431372549019608,
+    "total_current_value": 0.003,
+    "total_positions": 53,
+    "event_ct": 51,
+    "win_count": 43,
+    "rank": 4552,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
