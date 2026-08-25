@@ -590,5 +590,21 @@
     "win_count": 2,
     "rank": 85438,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa872c431fb5beb2575ad10430b1057a7af0ac12f",
+    "trader_name": "HladniSpricer",
+    "tag": "Overall",
+    "overall_gain": 546.098593739739,
+    "active_positions": 18,
+    "win_amount": 725.796970366577,
+    "loss_amount": -179.698376626838,
+    "win_rate": 0.509090909090909,
+    "total_current_value": 977.34898371,
+    "total_positions": 65,
+    "event_ct": 55,
+    "win_count": 28,
+    "rank": 85439,
+    "trader_tags": ""
   }
 ]
