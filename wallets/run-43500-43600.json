@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 43596,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07ddd03115a4546156314bf14a771b741e5d0876",
+    "trader_name": "spironolactone",
+    "tag": "Overall",
+    "overall_gain": 1788.220657529996,
+    "active_positions": 33,
+    "win_amount": 119512.45087165003,
+    "loss_amount": -117724.23021411999,
+    "win_rate": 0.5569035239745812,
+    "total_current_value": 2506.1026749999996,
+    "total_positions": 1968,
+    "event_ct": 1731,
+    "win_count": 964,
+    "rank": 43597,
+    "trader_tags": "1k+ Positions"
   }
 ]
