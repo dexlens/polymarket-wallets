@@ -1438,5 +1438,21 @@
     "win_count": 6,
     "rank": 11790,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa42b43b65adc00bddb88b730e09d39db1f6741cf",
+    "trader_name": "Tickingclocks",
+    "tag": "Overall",
+    "overall_gain": 8790.802475201293,
+    "active_positions": 1,
+    "win_amount": 13471.048381078053,
+    "loss_amount": -4680.245905876761,
+    "win_rate": 0.48,
+    "total_current_value": 0.10142899999999998,
+    "total_positions": 72,
+    "event_ct": 50,
+    "win_count": 24,
+    "rank": 11791,
+    "trader_tags": ""
   }
 ]
