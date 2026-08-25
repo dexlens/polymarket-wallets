@@ -846,5 +846,21 @@
     "win_count": 75,
     "rank": 10253,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc3d638d0236b96e3fdf6a68078d440c401cfc7c6",
+    "trader_name": "Meadowbrook",
+    "tag": "Overall",
+    "overall_gain": 10258.616219884741,
+    "active_positions": 2,
+    "win_amount": 10258.622258069601,
+    "loss_amount": -0.006038184857999784,
+    "win_rate": 0.9,
+    "total_current_value": 7.995911347500001,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 10254,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
