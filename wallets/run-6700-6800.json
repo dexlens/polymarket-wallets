@@ -1150,5 +1150,21 @@
     "win_count": 2046,
     "rank": 6772,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x852a61deac7872fff2c6a80ee82c059d6a8d3188",
+    "trader_name": "BlondBeast",
+    "tag": "Overall",
+    "overall_gain": 15835.494258754756,
+    "active_positions": 33,
+    "win_amount": 31091.75976878169,
+    "loss_amount": -15256.265510026931,
+    "win_rate": 0.6899810964083176,
+    "total_current_value": 5379.472821856499,
+    "total_positions": 1704,
+    "event_ct": 529,
+    "win_count": 365,
+    "rank": 6773,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
