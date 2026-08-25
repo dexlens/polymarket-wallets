@@ -366,5 +366,21 @@
     "win_count": 2,
     "rank": 3723,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x27f32ac0dc49e3a99b76521ba6397e70192e73e5",
+    "trader_name": "ButterBoyBilly",
+    "tag": "Overall",
+    "overall_gain": 30650.09937486353,
+    "active_positions": 3,
+    "win_amount": 33581.672290863535,
+    "loss_amount": -2931.572916,
+    "win_rate": 0.926829268292683,
+    "total_current_value": 0.075908,
+    "total_positions": 134,
+    "event_ct": 41,
+    "win_count": 38,
+    "rank": 3724,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
