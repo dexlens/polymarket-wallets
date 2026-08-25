@@ -30,5 +30,21 @@
     "win_count": 30,
     "rank": 8302,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x388af60fb113e7fb01af7a1439d80444c3f5e87c",
+    "trader_name": "Clarkko",
+    "tag": "Overall",
+    "overall_gain": 12656.427128957612,
+    "active_positions": 14,
+    "win_amount": 43671.94224284853,
+    "loss_amount": -31015.515113890917,
+    "win_rate": 0.4,
+    "total_current_value": 15181.749116201001,
+    "total_positions": 97,
+    "event_ct": 85,
+    "win_count": 34,
+    "rank": 8303,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
