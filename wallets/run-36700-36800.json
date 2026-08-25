@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 36749,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xecfdbeb4b32c61017fa81ed9f080f2ddd93a844b",
+    "trader_name": "tradingabc",
+    "tag": "Overall",
+    "overall_gain": 2207.608991688616,
+    "active_positions": 30,
+    "win_amount": 4268.758598492319,
+    "loss_amount": -2061.149606803702,
+    "win_rate": 0.6024096385542169,
+    "total_current_value": 0.03838,
+    "total_positions": 183,
+    "event_ct": 166,
+    "win_count": 100,
+    "rank": 36750,
+    "trader_tags": ""
   }
 ]
