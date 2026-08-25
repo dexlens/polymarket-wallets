@@ -382,5 +382,21 @@
     "win_count": 6,
     "rank": 68425,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x978899cc39f644aaff64170a133191b6c2c947b1",
+    "trader_name": "rain-maker",
+    "tag": "Overall",
+    "overall_gain": 850.384220298276,
+    "active_positions": 14,
+    "win_amount": 2089.138366652216,
+    "loss_amount": -1238.75414635394,
+    "win_rate": 0.7959183673469388,
+    "total_current_value": 3798.4390126505,
+    "total_positions": 52,
+    "event_ct": 49,
+    "win_count": 39,
+    "rank": 68426,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
