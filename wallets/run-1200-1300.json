@@ -142,5 +142,21 @@
     "win_count": 7,
     "rank": 1209,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10fbc3d2421e002f269089d15be6a56ce6ffc66c",
+    "trader_name": "choohkz23",
+    "tag": "Overall",
+    "overall_gain": 100384.66883123653,
+    "active_positions": 218,
+    "win_amount": 374090.7487547215,
+    "loss_amount": -273706.079923485,
+    "win_rate": 0.6171428571428571,
+    "total_current_value": 77991.663445021,
+    "total_positions": 998,
+    "event_ct": 350,
+    "win_count": 216,
+    "rank": 1210,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Crypto PnL > $100k"
   }
 ]
