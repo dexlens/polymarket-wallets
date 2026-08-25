@@ -670,5 +670,21 @@
     "win_count": 6,
     "rank": 10342,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf030e27fb8ee3dd3aff8baed327f96de0fe5e725",
+    "trader_name": "Xurelia",
+    "tag": "Overall",
+    "overall_gain": 10165.701498483597,
+    "active_positions": 5,
+    "win_amount": 10518.081698483598,
+    "loss_amount": -352.38019999999995,
+    "win_rate": 0.868421052631579,
+    "total_current_value": 0.00010100000000000002,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 33,
+    "rank": 10343,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
