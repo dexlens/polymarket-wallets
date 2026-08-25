@@ -990,5 +990,21 @@
     "win_count": 252,
     "rank": 83863,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x353696fa1440b188e1ce857ba8fe28998d50cb4b",
+    "trader_name": "xqh-vian",
+    "tag": "Overall",
+    "overall_gain": 568.359058108163,
+    "active_positions": 971,
+    "win_amount": 29099.30067954893,
+    "loss_amount": -28530.94162144076,
+    "win_rate": 0.47665056360708535,
+    "total_current_value": 3.287776,
+    "total_positions": 1865,
+    "event_ct": 1863,
+    "win_count": 888,
+    "rank": 83864,
+    "trader_tags": "1k+ Positions"
   }
 ]
