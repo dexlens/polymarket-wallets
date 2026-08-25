@@ -942,5 +942,21 @@
     "win_count": 69,
     "rank": 5559,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x99dd407b80e45874638d783f54b0d8c097544303",
+    "trader_name": "weaklei",
+    "tag": "Overall",
+    "overall_gain": 19444.86781679523,
+    "active_positions": 8,
+    "win_amount": 19622.545164766838,
+    "loss_amount": -177.67734797160801,
+    "win_rate": 0.9295774647887324,
+    "total_current_value": 304446.44278227206,
+    "total_positions": 188,
+    "event_ct": 71,
+    "win_count": 66,
+    "rank": 5560,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
