@@ -766,5 +766,21 @@
     "win_count": 12,
     "rank": 20048,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xae53725380931196e512161dc86eccd8a2d8d80b",
+    "trader_name": "scriptmoney",
+    "tag": "Overall",
+    "overall_gain": 4612.033787439534,
+    "active_positions": 0,
+    "win_amount": 28483.788328756014,
+    "loss_amount": -23871.75454131648,
+    "win_rate": 0.5495978552278821,
+    "total_current_value": 0.09772800000000001,
+    "total_positions": 450,
+    "event_ct": 373,
+    "win_count": 205,
+    "rank": 20049,
+    "trader_tags": "> 1 year old"
   }
 ]
