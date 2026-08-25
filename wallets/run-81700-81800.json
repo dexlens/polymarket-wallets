@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 81720,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4cd611dc8ac0b7e62c453b0fa1eefb6b03673284",
+    "trader_name": "IndiCooper",
+    "tag": "Overall",
+    "overall_gain": 602.556148376981,
+    "active_positions": 1,
+    "win_amount": 619.5055469999999,
+    "loss_amount": -16.949398623019,
+    "win_rate": 0.14814814814814814,
+    "total_current_value": 0.15014700000000003,
+    "total_positions": 39,
+    "event_ct": 27,
+    "win_count": 4,
+    "rank": 81721,
+    "trader_tags": ""
   }
 ]
