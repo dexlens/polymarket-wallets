@@ -46,5 +46,21 @@
     "win_count": 1,
     "rank": 8203,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaf9e007c74c34d0813e7b49f76cb7d8ff435a250",
+    "trader_name": "fatducky",
+    "tag": "Overall",
+    "overall_gain": 12832.841159882242,
+    "active_positions": 90,
+    "win_amount": 628817.176642786,
+    "loss_amount": -615984.3354829036,
+    "win_rate": 0.521505376344086,
+    "total_current_value": 9144.626294505,
+    "total_positions": 197,
+    "event_ct": 186,
+    "win_count": 97,
+    "rank": 8204,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
