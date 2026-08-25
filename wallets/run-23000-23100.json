@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 23033,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x87f7b2719d627280cebba57ee7ec79873e4fbe90",
+    "trader_name": "snezoka",
+    "tag": "Overall",
+    "overall_gain": 3912.1525743222255,
+    "active_positions": 47,
+    "win_amount": 7828.465560630357,
+    "loss_amount": -3916.3129863081303,
+    "win_rate": 0.5700934579439252,
+    "total_current_value": 0.00042199999999999996,
+    "total_positions": 108,
+    "event_ct": 107,
+    "win_count": 61,
+    "rank": 23034,
+    "trader_tags": ""
   }
 ]
