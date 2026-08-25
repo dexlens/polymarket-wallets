@@ -1454,5 +1454,21 @@
     "win_count": 33,
     "rank": 5791,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3eff118d4bc1742903d9516edf2e3c991600ae12",
+    "trader_name": "estradiol",
+    "tag": "Overall",
+    "overall_gain": 18590.111925532292,
+    "active_positions": 48,
+    "win_amount": 134886.13473132084,
+    "loss_amount": -116296.02280578848,
+    "win_rate": 0.5282392026578073,
+    "total_current_value": 1746.9516971985001,
+    "total_positions": 3139,
+    "event_ct": 2408,
+    "win_count": 1272,
+    "rank": 5792,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
