@@ -1038,5 +1038,21 @@
     "win_count": 31,
     "rank": 1565,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc0bff7089f8536447e3d963fcbaa2d07e3e12032",
+    "trader_name": "baran-ludoman",
+    "tag": "Overall",
+    "overall_gain": 77400.14262691431,
+    "active_positions": 46,
+    "win_amount": 103028.20826380556,
+    "loss_amount": -25628.065636891235,
+    "win_rate": 0.5689655172413793,
+    "total_current_value": 81271.26244883251,
+    "total_positions": 170,
+    "event_ct": 58,
+    "win_count": 33,
+    "rank": 1566,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
