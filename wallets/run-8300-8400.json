@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 8334,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x40ac589b783cfff033c0f7026b63d0a24c23ee4b",
+    "trader_name": "SPACE",
+    "tag": "Overall",
+    "overall_gain": 12596.359492586393,
+    "active_positions": 7,
+    "win_amount": 40020.28716559724,
+    "loss_amount": -27423.927673010858,
+    "win_rate": 0.5283687943262412,
+    "total_current_value": 6971.507078841498,
+    "total_positions": 392,
+    "event_ct": 282,
+    "win_count": 149,
+    "rank": 8335,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
