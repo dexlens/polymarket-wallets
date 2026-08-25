@@ -446,5 +446,21 @@
     "win_count": 3,
     "rank": 28729,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd23ea552902852d909e239df9a8a907dc8e0bde9",
+    "trader_name": "Bsit",
+    "tag": "Overall",
+    "overall_gain": 2982.5,
+    "active_positions": 2,
+    "win_amount": 3562.5,
+    "loss_amount": -580,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 28730,
+    "trader_tags": ""
   }
 ]
