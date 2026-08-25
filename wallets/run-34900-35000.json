@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 34944,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41ccd2545b99dc4acefcbc109e1244046ab726ea",
+    "trader_name": "dpkfc7",
+    "tag": "Overall",
+    "overall_gain": 2345.6248327755793,
+    "active_positions": 0,
+    "win_amount": 12608.11912479187,
+    "loss_amount": -10262.494292016294,
+    "win_rate": 0.4740740740740741,
+    "total_current_value": 0.17797896510302508,
+    "total_positions": 276,
+    "event_ct": 270,
+    "win_count": 128,
+    "rank": 34945,
+    "trader_tags": "> 1 year old"
   }
 ]
