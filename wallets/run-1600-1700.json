@@ -270,5 +270,21 @@
     "win_count": 104,
     "rank": 1617,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5b457c828fbd8bb07886c4b939a87160158bb6d0",
+    "trader_name": "SakigiriEffect",
+    "tag": "Overall",
+    "overall_gain": 75703.68160955976,
+    "active_positions": 0,
+    "win_amount": 77962.86366251773,
+    "loss_amount": -2259.182052957951,
+    "win_rate": 0.5,
+    "total_current_value": 0.023887000000000002,
+    "total_positions": 48,
+    "event_ct": 16,
+    "win_count": 8,
+    "rank": 1618,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
