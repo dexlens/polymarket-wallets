@@ -766,5 +766,21 @@
     "win_count": 33,
     "rank": 62849,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x473277e15cba5eee0559a1076b0d1dc9cab09fc9",
+    "trader_name": "triton123",
+    "tag": "Overall",
+    "overall_gain": 1001.37110632,
+    "active_positions": 1,
+    "win_amount": 1001.37110632,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1.04,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 62850,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
