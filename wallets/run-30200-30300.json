@@ -62,5 +62,21 @@
     "win_count": 1,
     "rank": 30205,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c41474672e6a609d1b4279524d108f3ec500c90",
+    "trader_name": "molot",
+    "tag": "Overall",
+    "overall_gain": 2798.677504844084,
+    "active_positions": 1,
+    "win_amount": 3086.918271574513,
+    "loss_amount": -288.240766730429,
+    "win_rate": 0.6136363636363636,
+    "total_current_value": 0.039501038999999995,
+    "total_positions": 47,
+    "event_ct": 44,
+    "win_count": 27,
+    "rank": 30206,
+    "trader_tags": "> 1 year old"
   }
 ]
