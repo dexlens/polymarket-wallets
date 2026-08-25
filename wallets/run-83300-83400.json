@@ -318,5 +318,21 @@
     "win_count": 6,
     "rank": 83321,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4b65976136430f939f40a07001a97fd2246edaf6",
+    "trader_name": "liujie0191b",
+    "tag": "Overall",
+    "overall_gain": 577.0796006844961,
+    "active_positions": 3,
+    "win_amount": 578.4795980971801,
+    "loss_amount": -1.399997412684,
+    "win_rate": 0.9473684210526315,
+    "total_current_value": 13.847575,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 18,
+    "rank": 83322,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
