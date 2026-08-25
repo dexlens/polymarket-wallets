@@ -1438,5 +1438,21 @@
     "win_count": 56,
     "rank": 9690,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2612496ab8f1d774f116f28b50769971936c92de",
+    "trader_name": "pinkuniforms",
+    "tag": "Overall",
+    "overall_gain": 10803.491536,
+    "active_positions": 0,
+    "win_amount": 10803.491536,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 9691,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
