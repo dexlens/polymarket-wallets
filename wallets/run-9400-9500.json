@@ -510,5 +510,21 @@
     "win_count": 45,
     "rank": 9432,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x3244e4c703f5bedfe2843499c530bfd1242e2aad",
+    "trader_name": "lxxsa",
+    "tag": "Overall",
+    "overall_gain": 11108.5,
+    "active_positions": 0,
+    "win_amount": 11108.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 9433,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
