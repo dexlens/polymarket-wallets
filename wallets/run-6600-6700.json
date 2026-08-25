@@ -1486,5 +1486,21 @@
     "win_count": 4,
     "rank": 6693,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97ff9e9affb3acf739161deef10492a96a36d095",
+    "trader_name": "niceShare",
+    "tag": "Overall",
+    "overall_gain": 16039.136643919644,
+    "active_positions": 90,
+    "win_amount": 29311.52927571409,
+    "loss_amount": -13272.392631794459,
+    "win_rate": 0.5849056603773585,
+    "total_current_value": 5029.930381609,
+    "total_positions": 792,
+    "event_ct": 106,
+    "win_count": 62,
+    "rank": 6694,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
