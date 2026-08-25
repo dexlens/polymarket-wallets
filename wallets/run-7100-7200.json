@@ -190,5 +190,21 @@
     "win_count": 50,
     "rank": 7112,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a681a1e83a5f1b49837c7a02ba1bbfd72a56679",
+    "trader_name": "tj69",
+    "tag": "Overall",
+    "overall_gain": 15030.83476601918,
+    "active_positions": 49,
+    "win_amount": 22083.15832810564,
+    "loss_amount": -7052.323562086458,
+    "win_rate": 0.717948717948718,
+    "total_current_value": 13083.92813584651,
+    "total_positions": 513,
+    "event_ct": 195,
+    "win_count": 140,
+    "rank": 7113,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
