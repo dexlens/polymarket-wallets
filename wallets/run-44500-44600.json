@@ -446,5 +446,21 @@
     "win_count": 2,
     "rank": 44529,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b6049d096e400556ca5d94843651a8b72a4ae43",
+    "trader_name": "chase",
+    "tag": "Overall",
+    "overall_gain": 1735.699108217405,
+    "active_positions": 2,
+    "win_amount": 2252.601783377405,
+    "loss_amount": -516.9026751600001,
+    "win_rate": 0.25,
+    "total_current_value": 0.004443,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 44530,
+    "trader_tags": "> 1 year old"
   }
 ]
