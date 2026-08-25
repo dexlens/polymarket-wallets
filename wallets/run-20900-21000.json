@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 20999,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb14971eec434fbba71073421f3094b16b3782804",
+    "trader_name": "Yin",
+    "tag": "Overall",
+    "overall_gain": 4364.8067859498215,
+    "active_positions": 4,
+    "win_amount": 7312.104382217679,
+    "loss_amount": -2947.297596267858,
+    "win_rate": 0.4,
+    "total_current_value": 753.11597157,
+    "total_positions": 18,
+    "event_ct": 15,
+    "win_count": 6,
+    "rank": 21000,
+    "trader_tags": "> 1 year old"
   }
 ]
