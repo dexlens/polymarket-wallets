@@ -1070,5 +1070,21 @@
     "win_count": 3,
     "rank": 84368,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x213d432188603d4f7e16d7e9ffea4ffe988b2978",
+    "trader_name": "YanChoban",
+    "tag": "Overall",
+    "overall_gain": 560.924443876657,
+    "active_positions": 4,
+    "win_amount": 759.5928938769418,
+    "loss_amount": -198.66845000028502,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.048368,
+    "total_positions": 25,
+    "event_ct": 22,
+    "win_count": 14,
+    "rank": 84369,
+    "trader_tags": "> 1 year old"
   }
 ]
