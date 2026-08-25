@@ -1534,5 +1534,21 @@
     "win_count": 6,
     "rank": 15196,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd2afbe5d98a6135a692469c6f9575fc77f5ba542",
+    "trader_name": "cost789",
+    "tag": "Overall",
+    "overall_gain": 6397.261214496574,
+    "active_positions": 145,
+    "win_amount": 16368.738337999997,
+    "loss_amount": -9971.477123503428,
+    "win_rate": 0.42292490118577075,
+    "total_current_value": 0,
+    "total_positions": 260,
+    "event_ct": 253,
+    "win_count": 107,
+    "rank": 15197,
+    "trader_tags": "< 30 days old"
   }
 ]
