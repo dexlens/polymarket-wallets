@@ -1310,5 +1310,21 @@
     "win_count": 16,
     "rank": 7082,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe2dac817b41712ce19d57cd1bf65c76128b1682b",
+    "trader_name": "Zorvith",
+    "tag": "Overall",
+    "overall_gain": 15080.989773956127,
+    "active_positions": 2,
+    "win_amount": 15334.618957956127,
+    "loss_amount": -253.629184,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 10.00018,
+    "total_positions": 55,
+    "event_ct": 51,
+    "win_count": 48,
+    "rank": 7083,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
