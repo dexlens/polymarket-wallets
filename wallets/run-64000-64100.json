@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 64082,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x248a3cf266f3f1bafcd00191d9b27147956eb00d",
+    "trader_name": "997t",
+    "tag": "Overall",
+    "overall_gain": 971.547225757984,
+    "active_positions": 18,
+    "win_amount": 1082.2846279706694,
+    "loss_amount": -110.73740221268501,
+    "win_rate": 0.7976190476190477,
+    "total_current_value": 145.0071516925,
+    "total_positions": 86,
+    "event_ct": 84,
+    "win_count": 67,
+    "rank": 64083,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
