@@ -174,5 +174,21 @@
     "win_count": 3,
     "rank": 9811,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9997479764ce6140bd1ecd935f12d1006cdeaf3b",
+    "trader_name": "yakris",
+    "tag": "Overall",
+    "overall_gain": 10678.07532255615,
+    "active_positions": 6,
+    "win_amount": 118206.30965418031,
+    "loss_amount": -107528.23433162417,
+    "win_rate": 0.7146067415730337,
+    "total_current_value": 0.5369654999999999,
+    "total_positions": 482,
+    "event_ct": 445,
+    "win_count": 318,
+    "rank": 9812,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
