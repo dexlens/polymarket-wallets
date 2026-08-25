@@ -1438,5 +1438,21 @@
     "win_count": 61,
     "rank": 34991,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6a7787cd3c0371767f331a8e3952edcf51cb31fc",
+    "trader_name": "fafgq",
+    "tag": "Overall",
+    "overall_gain": 2342.676245763798,
+    "active_positions": 0,
+    "win_amount": 2342.676245763798,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005798,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 34992,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
