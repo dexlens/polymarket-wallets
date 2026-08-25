@@ -302,5 +302,21 @@
     "win_count": 19,
     "rank": 61020,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x55f4358923fad6275b5e71a4212267df69dc9947",
+    "trader_name": "Druid",
+    "tag": "Overall",
+    "overall_gain": 1047.173801058351,
+    "active_positions": 1,
+    "win_amount": 2533.671557,
+    "loss_amount": -1486.497755941649,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 61021,
+    "trader_tags": "> 1 year old"
   }
 ]
