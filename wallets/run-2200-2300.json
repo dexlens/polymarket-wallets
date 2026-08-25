@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 2213,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9e8ecc4cb3c4e48f544cba2fbbb252a6a65e8db8",
+    "trader_name": "DREAMBIG.",
+    "tag": "Overall",
+    "overall_gain": 54119.56666440149,
+    "active_positions": 116,
+    "win_amount": 62056.48712034857,
+    "loss_amount": -7936.920455947082,
+    "win_rate": 0.8160535117056856,
+    "total_current_value": 32645.781153868505,
+    "total_positions": 1629,
+    "event_ct": 299,
+    "win_count": 244,
+    "rank": 2214,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
