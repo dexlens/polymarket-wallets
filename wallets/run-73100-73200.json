@@ -1198,5 +1198,21 @@
     "win_count": 2,
     "rank": 73176,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1dd26294e00fdc1f8a9f08e606e4612bc7034d78",
+    "trader_name": "uniformbet",
+    "tag": "Overall",
+    "overall_gain": 741.6825478786901,
+    "active_positions": 3,
+    "win_amount": 1141.6109817983252,
+    "loss_amount": -399.928433919635,
+    "win_rate": 0.75,
+    "total_current_value": 1790.3895880860002,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 73177,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
