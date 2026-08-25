@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 9519,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1227d7bdd8d0148700a0a218269620d65a659237",
+    "trader_name": "gamede",
+    "tag": "Overall",
+    "overall_gain": 11005.284000000001,
+    "active_positions": 11,
+    "win_amount": 46791.284,
+    "loss_amount": -35786,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 200,
+    "total_positions": 35,
+    "event_ct": 22,
+    "win_count": 14,
+    "rank": 9520,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
