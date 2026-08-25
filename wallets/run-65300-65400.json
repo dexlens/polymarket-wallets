@@ -542,5 +542,21 @@
     "win_count": 4,
     "rank": 65335,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3ea6ce97953effbae52bc96e69c3522c215d7cfc",
+    "trader_name": "ArcherChristiana",
+    "tag": "Overall",
+    "overall_gain": 935,
+    "active_positions": 0,
+    "win_amount": 935,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 65336,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
