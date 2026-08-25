@@ -894,5 +894,21 @@
     "win_count": 2,
     "rank": 29457,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x36a3cce4aec0d0849f75897d762068cd8142a06d",
+    "trader_name": "purchasable",
+    "tag": "Overall",
+    "overall_gain": 2887.19159888259,
+    "active_positions": 0,
+    "win_amount": 2887.19159888259,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009566,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 29458,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
