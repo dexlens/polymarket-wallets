@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 40877,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f7e1730cf40ff92e95a3c43323a3fe95fabd49b",
+    "trader_name": "Ashurnasirpal",
+    "tag": "Overall",
+    "overall_gain": 1941.445426030002,
+    "active_positions": 5,
+    "win_amount": 5502.993678880002,
+    "loss_amount": -3561.5482528499992,
+    "win_rate": 0.6091954022988506,
+    "total_current_value": 3733.861785,
+    "total_positions": 575,
+    "event_ct": 87,
+    "win_count": 53,
+    "rank": 40878,
+    "trader_tags": ""
   }
 ]
