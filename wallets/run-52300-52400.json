@@ -1422,5 +1422,21 @@
     "win_count": 46,
     "rank": 52390,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x56abd0549f71a2ebd57ba0100f2b0658a96b7f58",
+    "trader_name": "mcdonaldscorporate",
+    "tag": "Overall",
+    "overall_gain": 1374.0633908032396,
+    "active_positions": 1,
+    "win_amount": 1387.6933828032395,
+    "loss_amount": -13.629992,
+    "win_rate": 0.875,
+    "total_current_value": 3057.6912218600005,
+    "total_positions": 12,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 52391,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
