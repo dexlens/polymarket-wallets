@@ -1422,5 +1422,21 @@
     "win_count": 6,
     "rank": 75790,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77c9c34578e880ae802c6158a84d911fd4c88247",
+    "trader_name": "NBT",
+    "tag": "Overall",
+    "overall_gain": 702.6613222607999,
+    "active_positions": 0,
+    "win_amount": 702.6613222607999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004596,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 75791,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
