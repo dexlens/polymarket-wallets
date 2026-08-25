@@ -766,5 +766,21 @@
     "win_count": 18,
     "rank": 67049,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc0fa3c542750d5900aa8f46842f0202baf7353cf",
+    "trader_name": "Klondin",
+    "tag": "Overall",
+    "overall_gain": 887.7024562111183,
+    "active_positions": 3,
+    "win_amount": 10536.87810465341,
+    "loss_amount": -9649.175648442291,
+    "win_rate": 0.5,
+    "total_current_value": 0.010983,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 67050,
+    "trader_tags": ""
   }
 ]
