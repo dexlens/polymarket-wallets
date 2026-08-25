@@ -190,5 +190,21 @@
     "win_count": 15,
     "rank": 8712,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3335de45972fd32e5d8a3b689e772147f2693656",
+    "trader_name": "pablitop",
+    "tag": "Overall",
+    "overall_gain": 12033.207215875484,
+    "active_positions": 2,
+    "win_amount": 22836.222243013828,
+    "loss_amount": -10803.01502713834,
+    "win_rate": 0.5882352941176471,
+    "total_current_value": 0.012104219999999999,
+    "total_positions": 108,
+    "event_ct": 102,
+    "win_count": 60,
+    "rank": 8713,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
