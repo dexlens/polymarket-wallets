@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 33574,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9c58b6a17a4a0ceb2dd87fcdbf41c51cda9dc450",
+    "trader_name": "WB1888",
+    "tag": "Overall",
+    "overall_gain": 2459.5085000000004,
+    "active_positions": 4,
+    "win_amount": 2464.4060000000004,
+    "loss_amount": -4.897500000000001,
+    "win_rate": 0.7,
+    "total_current_value": 14.522499999999999,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 33575,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
