@@ -606,5 +606,21 @@
     "win_count": 9,
     "rank": 10138,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x92a1a4e282e1722443b59d987c6c154187d26535",
+    "trader_name": "rairenter",
+    "tag": "Overall",
+    "overall_gain": 10360.575378078334,
+    "active_positions": 1,
+    "win_amount": 14074.344489709287,
+    "loss_amount": -3713.769111630953,
+    "win_rate": 0.8195488721804511,
+    "total_current_value": 0.229788713,
+    "total_positions": 153,
+    "event_ct": 133,
+    "win_count": 109,
+    "rank": 10139,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
