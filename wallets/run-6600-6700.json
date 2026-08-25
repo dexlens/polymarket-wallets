@@ -1422,5 +1422,21 @@
     "win_count": 2,
     "rank": 6689,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x04ffed21a52e390f1663dc78ac62e3d78bdf718a",
+    "trader_name": "hazlerecusandae",
+    "tag": "Overall",
+    "overall_gain": 16051.134159000001,
+    "active_positions": 0,
+    "win_amount": 16282.484159,
+    "loss_amount": -231.35,
+    "win_rate": 0.78125,
+    "total_current_value": 0,
+    "total_positions": 43,
+    "event_ct": 32,
+    "win_count": 25,
+    "rank": 6690,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
