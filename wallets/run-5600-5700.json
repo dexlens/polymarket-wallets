@@ -622,5 +622,21 @@
     "win_count": 2,
     "rank": 5639,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xea540ba1de0bc3728bc0b300201efe94738dc31f",
+    "trader_name": "chimit",
+    "tag": "Overall",
+    "overall_gain": 19107.919434999996,
+    "active_positions": 0,
+    "win_amount": 19107.919434999996,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 13,
+    "rank": 5640,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
