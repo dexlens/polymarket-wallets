@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 5760,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6fafaad3f5c01bfefa90e64470e8d5694becaaa2",
+    "trader_name": "Fridaywins",
+    "tag": "Overall",
+    "overall_gain": 18682.417354790297,
+    "active_positions": 2,
+    "win_amount": 20081.753782999993,
+    "loss_amount": -1399.3364282096982,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 0.007836,
+    "total_positions": 19,
+    "event_ct": 17,
+    "win_count": 8,
+    "rank": 5761,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
