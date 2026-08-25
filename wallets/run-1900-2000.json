@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 1997,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d395d11014415644fe9a8599fe050e7f3a06053",
+    "trader_name": "minji",
+    "tag": "Overall",
+    "overall_gain": 60609.77202081507,
+    "active_positions": 20,
+    "win_amount": 211476.26029013496,
+    "loss_amount": -150866.48826932,
+    "win_rate": 0.49777777777777776,
+    "total_current_value": 60779.9452055195,
+    "total_positions": 1374,
+    "event_ct": 450,
+    "win_count": 224,
+    "rank": 1998,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
