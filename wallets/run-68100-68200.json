@@ -734,5 +734,21 @@
     "win_count": 8,
     "rank": 68147,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6dcb07be8fa09777f499681925ceb4bca7f368ee",
+    "trader_name": "0xHuffie",
+    "tag": "Overall",
+    "overall_gain": 856.9002897966121,
+    "active_positions": 0,
+    "win_amount": 915.323490944612,
+    "loss_amount": -58.423201148000004,
+    "win_rate": 0.5,
+    "total_current_value": 0.007559,
+    "total_positions": 16,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 68148,
+    "trader_tags": ""
   }
 ]
