@@ -526,5 +526,21 @@
     "win_count": 4,
     "rank": 7633,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7cf04f66a9874466ed465c75badd5a5e56ba0540",
+    "trader_name": "Anh24",
+    "tag": "Overall",
+    "overall_gain": 13859.49562932333,
+    "active_positions": 11,
+    "win_amount": 30445.75929605428,
+    "loss_amount": -16586.263666730945,
+    "win_rate": 0.48148148148148145,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 27,
+    "win_count": 13,
+    "rank": 7634,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
