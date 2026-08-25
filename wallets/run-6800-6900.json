@@ -654,5 +654,21 @@
     "win_count": 11,
     "rank": 6841,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x29938822fc7ec11caa4694dd30fd787c3d2d6121",
+    "trader_name": "fais.eth",
+    "tag": "Overall",
+    "overall_gain": 15660.533233350525,
+    "active_positions": 1,
+    "win_amount": 30286.691696984297,
+    "loss_amount": -14626.158463633776,
+    "win_rate": 0.75,
+    "total_current_value": 0.059309999999999995,
+    "total_positions": 32,
+    "event_ct": 24,
+    "win_count": 18,
+    "rank": 6842,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
