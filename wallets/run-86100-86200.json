@@ -1278,5 +1278,21 @@
     "win_count": 32,
     "rank": 86181,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xa22c6bac0d087d46430a93c4c398e0b59432df16",
+    "trader_name": "Grauen",
+    "tag": "Overall",
+    "overall_gain": 537.0686285995,
+    "active_positions": 0,
+    "win_amount": 602.168174388913,
+    "loss_amount": -65.099545789413,
+    "win_rate": 0.75,
+    "total_current_value": 0.008913,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 86182,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
