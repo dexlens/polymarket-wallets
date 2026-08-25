@@ -718,5 +718,21 @@
     "win_count": 19,
     "rank": 39546,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d398281404d94dc88577fd01bdc49afff1ad075",
+    "trader_name": "Emonomist",
+    "tag": "Overall",
+    "overall_gain": 2018.6321829591561,
+    "active_positions": 1,
+    "win_amount": 3334.086694,
+    "loss_amount": -1315.454511040844,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 39547,
+    "trader_tags": "> 1 year old"
   }
 ]
