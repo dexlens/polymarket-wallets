@@ -1438,5 +1438,21 @@
     "win_count": 4,
     "rank": 7090,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa9c95895ea54d11f922375b197a35352396b224c",
+    "trader_name": "PussInBoosts",
+    "tag": "Overall",
+    "overall_gain": 15063.423362426067,
+    "active_positions": 4,
+    "win_amount": 15097.269341654066,
+    "loss_amount": -33.845979228,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 280.288339758,
+    "total_positions": 19,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 7091,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
