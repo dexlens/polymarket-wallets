@@ -814,5 +814,21 @@
     "win_count": 7070,
     "rank": 2751,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x264cbb7263b0c336c58fb5a5de1773896e6bbaca",
+    "trader_name": "sdhyky",
+    "tag": "Overall",
+    "overall_gain": 42093.86399946783,
+    "active_positions": 54,
+    "win_amount": 76217.61139818591,
+    "loss_amount": -34123.74739871809,
+    "win_rate": 0.6746987951807228,
+    "total_current_value": 25386.794264329008,
+    "total_positions": 524,
+    "event_ct": 332,
+    "win_count": 224,
+    "rank": 2752,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
