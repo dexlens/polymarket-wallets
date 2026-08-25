@@ -414,5 +414,21 @@
     "win_count": 1,
     "rank": 72627,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x850fcc7433355ef1e9fd13b9d5712d98a4ed220c",
+    "trader_name": "chromeone",
+    "tag": "Overall",
+    "overall_gain": 752.1697906374752,
+    "active_positions": 3,
+    "win_amount": 5640.393164476231,
+    "loss_amount": -4888.223373838757,
+    "win_rate": 0.611764705882353,
+    "total_current_value": 965.755954851,
+    "total_positions": 146,
+    "event_ct": 85,
+    "win_count": 52,
+    "rank": 72628,
+    "trader_tags": ""
   }
 ]
