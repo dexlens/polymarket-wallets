@@ -222,5 +222,21 @@
     "win_count": 26,
     "rank": 3514,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaeebea9d42dad8655fb42320d70d688cc847fe95",
+    "trader_name": "chimeras",
+    "tag": "Overall",
+    "overall_gain": 32516.788970999994,
+    "active_positions": 0,
+    "win_amount": 176320.32767699996,
+    "loss_amount": -143803.53870599996,
+    "win_rate": 0.5483333333333333,
+    "total_current_value": 0,
+    "total_positions": 600,
+    "event_ct": 600,
+    "win_count": 329,
+    "rank": 3515,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
