@@ -654,5 +654,21 @@
     "win_count": 7,
     "rank": 71142,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xeebd435dc5def69f61caebc2eacac2ded62816d5",
+    "trader_name": "Litmo",
+    "tag": "Overall",
+    "overall_gain": 785.320049661585,
+    "active_positions": 16,
+    "win_amount": 1937.5370634301482,
+    "loss_amount": -1152.217013768563,
+    "win_rate": 0.7391304347826086,
+    "total_current_value": 4884.793635115,
+    "total_positions": 99,
+    "event_ct": 92,
+    "win_count": 68,
+    "rank": 71143,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
