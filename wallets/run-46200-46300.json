@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 46225,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x69d22dbaa043b7d193946198e51877b0bb4bb066",
+    "trader_name": "151WAF",
+    "tag": "Overall",
+    "overall_gain": 1655.9800354237202,
+    "active_positions": 5,
+    "win_amount": 2907.946676,
+    "loss_amount": -1251.96664057628,
+    "win_rate": 0.5882352941176471,
+    "total_current_value": 0.002637,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 10,
+    "rank": 46226,
+    "trader_tags": "< 30 days old"
   }
 ]
