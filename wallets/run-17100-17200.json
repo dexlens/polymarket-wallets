@@ -1150,5 +1150,21 @@
     "win_count": 15,
     "rank": 17172,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64ecde084edd257c79b6458da274537a8bd0f0fc",
+    "trader_name": "43asdd",
+    "tag": "Overall",
+    "overall_gain": 5482.412044840002,
+    "active_positions": 3,
+    "win_amount": 19408.87233284,
+    "loss_amount": -13926.460287999998,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 4.525,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 9,
+    "rank": 17173,
+    "trader_tags": "> 1 year old"
   }
 ]
