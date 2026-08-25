@@ -798,5 +798,21 @@
     "win_count": 36,
     "rank": 8650,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9a98297afa6c76f73d2493bcd4df922186b08e06",
+    "trader_name": "ytrdgtttewer1",
+    "tag": "Overall",
+    "overall_gain": 12110.541002,
+    "active_positions": 0,
+    "win_amount": 12110.541002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 8651,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
