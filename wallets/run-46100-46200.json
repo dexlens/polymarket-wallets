@@ -766,5 +766,21 @@
     "win_count": 80,
     "rank": 46149,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x119e15fa0af22f7ac785cf3a67ff058669d331bb",
+    "trader_name": "jobby",
+    "tag": "Overall",
+    "overall_gain": 1659.5962000000002,
+    "active_positions": 0,
+    "win_amount": 1703.111,
+    "loss_amount": -43.5148,
+    "win_rate": 0.15789473684210525,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 19,
+    "win_count": 3,
+    "rank": 46150,
+    "trader_tags": "> 1 year old"
   }
 ]
