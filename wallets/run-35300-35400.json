@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 35399,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2daebaa173ba2d1b9749e47468f13a83aff8a09f",
+    "trader_name": "ace333",
+    "tag": "Overall",
+    "overall_gain": 2308.555064666103,
+    "active_positions": 0,
+    "win_amount": 2705.216017683412,
+    "loss_amount": -396.660953017309,
+    "win_rate": 0.6,
+    "total_current_value": 0.05920400000000001,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 35400,
+    "trader_tags": "> 1 year old"
   }
 ]
