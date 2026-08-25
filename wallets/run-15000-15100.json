@@ -990,5 +990,21 @@
     "win_count": 7,
     "rank": 15062,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c387c7a9810a42faa647b290d157bd0248e7f55",
+    "trader_name": "AureoleEpoch",
+    "tag": "Overall",
+    "overall_gain": 6457.5,
+    "active_positions": 3,
+    "win_amount": 6525,
+    "loss_amount": -67.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 15063,
+    "trader_tags": ""
   }
 ]
