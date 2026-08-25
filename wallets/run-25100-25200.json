@@ -1182,5 +1182,21 @@
     "win_count": 20,
     "rank": 25175,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a3033f65bf178eb7d85bdd7bf40ca3230f8debd",
+    "trader_name": "GingFring",
+    "tag": "Overall",
+    "overall_gain": 3507.709237629181,
+    "active_positions": 2,
+    "win_amount": 3507.709237629181,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 111514.27124730549,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 25176,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
