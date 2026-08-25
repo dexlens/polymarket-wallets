@@ -990,5 +990,21 @@
     "win_count": 5,
     "rank": 61763,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x136f9da5395b3184a6b1c08750754fec5233ff55",
+    "trader_name": "kkiosv",
+    "tag": "Overall",
+    "overall_gain": 1028.106882436163,
+    "active_positions": 5,
+    "win_amount": 1083.5066488170557,
+    "loss_amount": -55.399766380893,
+    "win_rate": 0.8536585365853658,
+    "total_current_value": 0.029039000000000002,
+    "total_positions": 41,
+    "event_ct": 41,
+    "win_count": 35,
+    "rank": 61764,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
