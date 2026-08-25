@@ -670,5 +670,21 @@
     "win_count": 8,
     "rank": 41543,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x926e4f6ad02ae509444d12874572f42f51c23140",
+    "trader_name": "zakarylabad",
+    "tag": "Overall",
+    "overall_gain": 1902.22,
+    "active_positions": 1,
+    "win_amount": 1902.22,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 20,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 41544,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
