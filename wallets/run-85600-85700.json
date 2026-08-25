@@ -1246,5 +1246,21 @@
     "win_count": 2,
     "rank": 85679,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3d6100ec8afce53e34c062b2e4b1a8a2cf824a1f",
+    "trader_name": "nimajisnanj",
+    "tag": "Overall",
+    "overall_gain": 543.127101925412,
+    "active_positions": 14,
+    "win_amount": 1001.7353855195948,
+    "loss_amount": -458.60828359418304,
+    "win_rate": 0.851063829787234,
+    "total_current_value": 0.125233,
+    "total_positions": 95,
+    "event_ct": 94,
+    "win_count": 80,
+    "rank": 85680,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
