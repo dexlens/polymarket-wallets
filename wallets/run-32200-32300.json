@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 32293,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x75f00a27bd276b15f573cba22e651cdceebd7e92",
+    "trader_name": "TpRiskTaker",
+    "tag": "Overall",
+    "overall_gain": 2572.1211774103012,
+    "active_positions": 26,
+    "win_amount": 12993.479320787865,
+    "loss_amount": -10421.358143377562,
+    "win_rate": 0.5897435897435898,
+    "total_current_value": 37.76218965249999,
+    "total_positions": 83,
+    "event_ct": 78,
+    "win_count": 46,
+    "rank": 32294,
+    "trader_tags": ""
   }
 ]
