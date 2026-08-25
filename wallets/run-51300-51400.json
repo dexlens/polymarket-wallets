@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 51361,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe579fdc8a8af37b768cc24179f7f89db580aba5e",
+    "trader_name": "micabg3",
+    "tag": "Overall",
+    "overall_gain": 1421.3857597737706,
+    "active_positions": 33,
+    "win_amount": 5291.4085775178655,
+    "loss_amount": -3870.0228177440954,
+    "win_rate": 0.8148584905660378,
+    "total_current_value": 1913.361312,
+    "total_positions": 1104,
+    "event_ct": 848,
+    "win_count": 691,
+    "rank": 51362,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
