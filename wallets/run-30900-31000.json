@@ -782,5 +782,21 @@
     "win_count": 26,
     "rank": 30950,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcc4002191c45e441cee3c1d6dad30a1033b5b43e",
+    "trader_name": "DumpDown",
+    "tag": "Overall",
+    "overall_gain": 2706.1757578287184,
+    "active_positions": 2,
+    "win_amount": 3746.174370676719,
+    "loss_amount": -1039.9986128480004,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 14919.637316801998,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 30951,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
