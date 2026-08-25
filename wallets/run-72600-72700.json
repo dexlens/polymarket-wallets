@@ -350,5 +350,21 @@
     "win_count": 8,
     "rank": 72623,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9c877e6d95d34a296e876a3c6d5959a7e29d38a2",
+    "trader_name": "youlist",
+    "tag": "Overall",
+    "overall_gain": 752.253658827035,
+    "active_positions": 6,
+    "win_amount": 1296.285020044369,
+    "loss_amount": -544.0313612173339,
+    "win_rate": 0.7,
+    "total_current_value": 40.42938783699999,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 72624,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
