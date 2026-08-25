@@ -366,5 +366,21 @@
     "win_count": 30,
     "rank": 20123,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x76b8bc6bf36159bb264fed7ee4f0d35a9213c1d8",
+    "trader_name": "ttKkZTY3",
+    "tag": "Overall",
+    "overall_gain": 4593.285706483991,
+    "active_positions": 10,
+    "win_amount": 6734.785706483992,
+    "loss_amount": -2141.5,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 5.067992,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 18,
+    "rank": 20124,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
