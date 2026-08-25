@@ -1390,5 +1390,21 @@
     "win_count": 38,
     "rank": 7787,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c4a93afb58696532d3d2f03e5065d042dd5f5e6",
+    "trader_name": "Kilocap",
+    "tag": "Overall",
+    "overall_gain": 13551.742752778977,
+    "active_positions": 14,
+    "win_amount": 22885.736053828277,
+    "loss_amount": -9333.993301049297,
+    "win_rate": 0.39473684210526316,
+    "total_current_value": 310.23468996150007,
+    "total_positions": 48,
+    "event_ct": 38,
+    "win_count": 15,
+    "rank": 7788,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
