@@ -1246,5 +1246,21 @@
     "win_count": 13,
     "rank": 2578,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xea4119a7e8d28459740c9a800a34945b1b92badc",
+    "trader_name": "tremaine",
+    "tag": "Overall",
+    "overall_gain": 45220.26,
+    "active_positions": 0,
+    "win_amount": 45220.26,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 2579,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
