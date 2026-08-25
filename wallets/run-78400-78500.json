@@ -206,5 +206,21 @@
     "win_count": 10,
     "rank": 78414,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x308d18f1ca8c631274d94312ca42082884940edc",
+    "trader_name": "nanlong",
+    "tag": "Overall",
+    "overall_gain": 657.5437230300001,
+    "active_positions": 15,
+    "win_amount": 810.2162830000001,
+    "loss_amount": -152.67255996999998,
+    "win_rate": 0.52,
+    "total_current_value": 108.7188,
+    "total_positions": 27,
+    "event_ct": 25,
+    "win_count": 13,
+    "rank": 78415,
+    "trader_tags": ""
   }
 ]
