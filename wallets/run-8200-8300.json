@@ -798,5 +798,21 @@
     "win_count": 20,
     "rank": 8250,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x629c2844d5c0e36774a67fe10dcd43ca31a76c01",
+    "trader_name": "CoffeeDespiser",
+    "tag": "Overall",
+    "overall_gain": 12753.899671827121,
+    "active_positions": 172,
+    "win_amount": 199507.58871274878,
+    "loss_amount": -186753.68904092166,
+    "win_rate": 0.6262798634812287,
+    "total_current_value": 33617.32051692401,
+    "total_positions": 1086,
+    "event_ct": 586,
+    "win_count": 367,
+    "rank": 8251,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
