@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 51842,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98c05e7653ed825cc43baa550bb5650f53bd6b70",
+    "trader_name": "Martaet",
+    "tag": "Overall",
+    "overall_gain": 1399.0404488503418,
+    "active_positions": 1,
+    "win_amount": 2209.312868,
+    "loss_amount": -810.272419149658,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.006665,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 51843,
+    "trader_tags": ""
   }
 ]
