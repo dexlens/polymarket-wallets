@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 4825,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb6e36f7ea46b15ec257f0a872e943527c633a24b",
+    "trader_name": "Ithonel",
+    "tag": "Overall",
+    "overall_gain": 22535.49794056022,
+    "active_positions": 3,
+    "win_amount": 23133.842940560222,
+    "loss_amount": -598.3449999999999,
+    "win_rate": 0.9,
+    "total_current_value": 0.000328,
+    "total_positions": 41,
+    "event_ct": 40,
+    "win_count": 36,
+    "rank": 4826,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
