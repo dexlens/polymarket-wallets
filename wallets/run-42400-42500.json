@@ -958,5 +958,21 @@
     "win_count": 132,
     "rank": 42461,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x625a1985ebe34db9c72903ac59b8989b3e34681e",
+    "trader_name": "timothyjohns",
+    "tag": "Overall",
+    "overall_gain": 1850.5241415921614,
+    "active_positions": 1,
+    "win_amount": 3335.1988720000004,
+    "loss_amount": -1484.674730407839,
+    "win_rate": 0.6511627906976745,
+    "total_current_value": 0,
+    "total_positions": 45,
+    "event_ct": 43,
+    "win_count": 28,
+    "rank": 42462,
+    "trader_tags": "> 1 year old"
   }
 ]
