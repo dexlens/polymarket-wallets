@@ -830,5 +830,21 @@
     "win_count": 40,
     "rank": 7152,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef9245119ff51e1274c7834eb2b33cd412919df5",
+    "trader_name": "pupsya",
+    "tag": "Overall",
+    "overall_gain": 14977.961954323437,
+    "active_positions": 36,
+    "win_amount": 53384.668389452345,
+    "loss_amount": -38406.706435128894,
+    "win_rate": 0.5280898876404494,
+    "total_current_value": 0.024436,
+    "total_positions": 132,
+    "event_ct": 89,
+    "win_count": 47,
+    "rank": 7153,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
