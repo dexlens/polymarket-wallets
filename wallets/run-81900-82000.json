@@ -366,5 +366,21 @@
     "win_count": 18,
     "rank": 81924,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5a36dd39cdd953ee40f2f9a3f61e96bd8c3139aa",
+    "trader_name": "onerway",
+    "tag": "Overall",
+    "overall_gain": 599.37799513167,
+    "active_positions": 8,
+    "win_amount": 604.38594013167,
+    "loss_amount": -5.007945,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 49.17031999999999,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 11,
+    "rank": 81925,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
