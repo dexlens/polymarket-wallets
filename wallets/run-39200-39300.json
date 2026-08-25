@@ -1262,5 +1262,21 @@
     "win_count": 11,
     "rank": 39280,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x89e1c6ed4be5d7ea1eee5ad5af9c2f549f4e8d85",
+    "trader_name": "nakrypto",
+    "tag": "Overall",
+    "overall_gain": 2032.960813,
+    "active_positions": 0,
+    "win_amount": 2032.960813,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00625,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 39281,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
