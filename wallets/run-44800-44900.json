@@ -894,5 +894,21 @@
     "win_count": 3,
     "rank": 44857,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x43c2eba6b30a3fcad5ea9e1f0867bacb0ac64291",
+    "trader_name": "tuttu",
+    "tag": "Overall",
+    "overall_gain": 1720.545952571817,
+    "active_positions": 3,
+    "win_amount": 2319.100204,
+    "loss_amount": -598.554251428183,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 7.825500000000001,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 44858,
+    "trader_tags": ""
   }
 ]
