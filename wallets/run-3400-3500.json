@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 3490,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaadd010a1c8219748fdab15b0de0c8e64c2556db",
+    "trader_name": "AnacondaTate",
+    "tag": "Overall",
+    "overall_gain": 32653.78614225966,
+    "active_positions": 7,
+    "win_amount": 37445.688309961035,
+    "loss_amount": -4791.902167701372,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 12.083816828500002,
+    "total_positions": 86,
+    "event_ct": 28,
+    "win_count": 26,
+    "rank": 3491,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
