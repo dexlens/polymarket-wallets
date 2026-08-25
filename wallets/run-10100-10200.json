@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 10125,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb7c3bd21acac5e63a6191fbb858245af75bbb90",
+    "trader_name": "pvwypl",
+    "tag": "Overall",
+    "overall_gain": 10372.314298980235,
+    "active_positions": 13,
+    "win_amount": 21123.769297980234,
+    "loss_amount": -10751.454999,
+    "win_rate": 0.5862068965517241,
+    "total_current_value": 1.012285,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 17,
+    "rank": 10126,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
