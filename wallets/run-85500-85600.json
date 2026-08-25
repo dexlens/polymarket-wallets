@@ -270,5 +270,21 @@
     "win_count": 1,
     "rank": 85518,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3a49d5e673e3e9403fdcc8b56357987fb109af89",
+    "trader_name": "finikiec",
+    "tag": "Overall",
+    "overall_gain": 544.9657820098041,
+    "active_positions": 2,
+    "win_amount": 544.9657820098041,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 5084.538355000001,
+    "total_positions": 22,
+    "event_ct": 11,
+    "win_count": 11,
+    "rank": 85519,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
