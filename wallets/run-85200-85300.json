@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 85289,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4c86c9575bd8012f9545a6f61442e013a78f6f1b",
+    "trader_name": "Elowen-Gotobed",
+    "tag": "Overall",
+    "overall_gain": 548.0534248559999,
+    "active_positions": 1,
+    "win_amount": 548.0534248559999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1532.303669921,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 85290,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
