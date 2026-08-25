@@ -1486,5 +1486,21 @@
     "win_count": 7769,
     "rank": 2393,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x6ce61e4481377d8ee002be65f9dad04683ac2ab9",
+    "trader_name": "tsafwan39",
+    "tag": "Overall",
+    "overall_gain": 49366.208192000006,
+    "active_positions": 0,
+    "win_amount": 87698.303661,
+    "loss_amount": -38332.095469,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 47,
+    "event_ct": 44,
+    "win_count": 33,
+    "rank": 2394,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
