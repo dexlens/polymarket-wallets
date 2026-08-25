@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 30447,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x0f477080f0a193c0006fca4b89af5b7d06b038c7",
+    "trader_name": "27Fran",
+    "tag": "Overall",
+    "overall_gain": 2766.558100314383,
+    "active_positions": 6,
+    "win_amount": 3069.807629406956,
+    "loss_amount": -303.2495290925729,
+    "win_rate": 0.8222222222222222,
+    "total_current_value": 115.95721289600002,
+    "total_positions": 49,
+    "event_ct": 45,
+    "win_count": 37,
+    "rank": 30448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
