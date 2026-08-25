@@ -1358,5 +1358,21 @@
     "win_count": 82,
     "rank": 77286,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5b03f1eecc33224bec5b44075286a9a4e6f0624f",
+    "trader_name": "Calypson",
+    "tag": "Overall",
+    "overall_gain": 676.654,
+    "active_positions": 2,
+    "win_amount": 1060.374,
+    "loss_amount": -383.72,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 77287,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
