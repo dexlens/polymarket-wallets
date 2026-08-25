@@ -1358,5 +1358,21 @@
     "win_count": 5,
     "rank": 8385,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd3bd98122935b8466d320615b29f6e01858c9081",
+    "trader_name": "Rynvalis",
+    "tag": "Overall",
+    "overall_gain": 12494.581771199031,
+    "active_positions": 0,
+    "win_amount": 13060.11376519903,
+    "loss_amount": -565.531994,
+    "win_rate": 0.9444444444444444,
+    "total_current_value": 0.000183,
+    "total_positions": 39,
+    "event_ct": 36,
+    "win_count": 34,
+    "rank": 8386,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
