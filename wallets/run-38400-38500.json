@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 38466,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63260bc4ef034998b28d5d2fa2f22baa6bf615b3",
+    "trader_name": "Lightseal",
+    "tag": "Overall",
+    "overall_gain": 2088.63,
+    "active_positions": 1,
+    "win_amount": 2088.63,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 13.91,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 38467,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
