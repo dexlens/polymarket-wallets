@@ -622,5 +622,21 @@
     "win_count": 12,
     "rank": 78840,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1f7a0853cc6fecf227510f4a24f0c569dbe37ce9",
+    "trader_name": "NPC68",
+    "tag": "Overall",
+    "overall_gain": 650.2338082958339,
+    "active_positions": 0,
+    "win_amount": 651.2337082958339,
+    "loss_amount": -0.9999,
+    "win_rate": 0.9,
+    "total_current_value": 0.0085353,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 78841,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
