@@ -94,5 +94,21 @@
     "win_count": 8,
     "rank": 8006,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xfed82545df7a98b801cf31f31f430d26a1074c98",
+    "trader_name": "PolyBit",
+    "tag": "Overall",
+    "overall_gain": 13117.209066335674,
+    "active_positions": 1,
+    "win_amount": 15970.4681180552,
+    "loss_amount": -2853.259051719525,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.08557000000000001,
+    "total_positions": 16,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 8007,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
