@@ -1342,5 +1342,21 @@
     "win_count": 32,
     "rank": 7784,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe202bb8f5c8d7f0450b40e040b19dbe6a34c8fa",
+    "trader_name": "Cryptoxiao",
+    "tag": "Overall",
+    "overall_gain": 13559.464353085994,
+    "active_positions": 16,
+    "win_amount": 59914.985589966695,
+    "loss_amount": -46355.521236880704,
+    "win_rate": 0.5,
+    "total_current_value": 0.033305999999999995,
+    "total_positions": 55,
+    "event_ct": 44,
+    "win_count": 22,
+    "rank": 7785,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
