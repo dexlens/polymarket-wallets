@@ -1166,5 +1166,21 @@
     "win_count": 136,
     "rank": 2673,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b19beaaae9eeaa1898cf2910be04fda27eb8521",
+    "trader_name": "Kusume",
+    "tag": "Overall",
+    "overall_gain": 43520.190015347165,
+    "active_positions": 1262,
+    "win_amount": 345626.8804051729,
+    "loss_amount": -302106.69038982573,
+    "win_rate": 0.5514799767846779,
+    "total_current_value": 30593.613710841008,
+    "total_positions": 15550,
+    "event_ct": 8615,
+    "win_count": 4751,
+    "rank": 2674,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
