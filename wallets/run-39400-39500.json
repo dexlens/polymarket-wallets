@@ -846,5 +846,21 @@
     "win_count": 78,
     "rank": 39454,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3f0634a5ef6d672b9a9438fbe21d212b268103e2",
+    "trader_name": "DKGFHKS66R",
+    "tag": "Overall",
+    "overall_gain": 2023.8246900000001,
+    "active_positions": 2,
+    "win_amount": 3035.2546899999998,
+    "loss_amount": -1011.43,
+    "win_rate": 0.9666666666666667,
+    "total_current_value": 10.89,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 29,
+    "rank": 39455,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
