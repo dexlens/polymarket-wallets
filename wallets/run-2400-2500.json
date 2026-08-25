@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 2464,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd980f290f7c6ac2cb4e3ec06a299b48ea5e35be0",
+    "trader_name": "gdebablo",
+    "tag": "Overall",
+    "overall_gain": 47588.987642645625,
+    "active_positions": 274,
+    "win_amount": 76674.7504205947,
+    "loss_amount": -29085.762777949058,
+    "win_rate": 0.24107142857142858,
+    "total_current_value": 2888.6683958419994,
+    "total_positions": 425,
+    "event_ct": 224,
+    "win_count": 54,
+    "rank": 2465,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
