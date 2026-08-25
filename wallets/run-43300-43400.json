@@ -910,5 +910,21 @@
     "win_count": 10,
     "rank": 43358,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28b9842424337f765bb78994259031bf6f678671",
+    "trader_name": "CrownPrince",
+    "tag": "Overall",
+    "overall_gain": 1800.9891398520083,
+    "active_positions": 12,
+    "win_amount": 3585.3000851173547,
+    "loss_amount": -1784.3109452653468,
+    "win_rate": 0.72,
+    "total_current_value": 0.08275600000000002,
+    "total_positions": 89,
+    "event_ct": 75,
+    "win_count": 54,
+    "rank": 43359,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
