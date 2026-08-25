@@ -894,5 +894,21 @@
     "win_count": 12,
     "rank": 16456,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0404bf5d24bfc14f7102930b876d182434a48353",
+    "trader_name": "Ajjooli",
+    "tag": "Overall",
+    "overall_gain": 5795.233862203561,
+    "active_positions": 6,
+    "win_amount": 7881.402095134674,
+    "loss_amount": -2086.168232931113,
+    "win_rate": 0.717948717948718,
+    "total_current_value": 456.43506278300003,
+    "total_positions": 195,
+    "event_ct": 78,
+    "win_count": 56,
+    "rank": 16457,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
