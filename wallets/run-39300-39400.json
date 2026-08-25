@@ -942,5 +942,21 @@
     "win_count": 5,
     "rank": 39360,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x229c00ab275c1b6bc2df4c5c31b0ec73a1a5c75b",
+    "trader_name": "EWTYUTRITR",
+    "tag": "Overall",
+    "overall_gain": 2028.3909759826277,
+    "active_positions": 3,
+    "win_amount": 5059.380975982629,
+    "loss_amount": -3030.99,
+    "win_rate": 0.90625,
+    "total_current_value": 0.002628,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 29,
+    "rank": 39361,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
