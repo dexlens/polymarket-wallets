@@ -334,5 +334,21 @@
     "win_count": 7,
     "rank": 1621,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e3e3375612e45cbd6ba905f955091f08c2db656",
+    "trader_name": "ThePopo",
+    "tag": "Overall",
+    "overall_gain": 75535.64619881466,
+    "active_positions": 3,
+    "win_amount": 251579.288925,
+    "loss_amount": -176043.64272618538,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 148,
+    "event_ct": 136,
+    "win_count": 85,
+    "rank": 1622,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
