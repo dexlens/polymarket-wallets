@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 88629,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x665cdc7965f56de2552bcca8ed01c1f4e7d0a7f6",
+    "trader_name": "Engine.Toward.Luxury",
+    "tag": "Overall",
+    "overall_gain": 505.828886,
+    "active_positions": 2,
+    "win_amount": 540.400992,
+    "loss_amount": -34.572106,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 88630,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
