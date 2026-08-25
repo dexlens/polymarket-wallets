@@ -350,5 +350,21 @@
     "win_count": 36,
     "rank": 15822,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54bd516e6e1273051eef953a5de52d1691baddc3",
+    "trader_name": "Hyperlend",
+    "tag": "Overall",
+    "overall_gain": 6090.689598200001,
+    "active_positions": 0,
+    "win_amount": 6090.689598200001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001615,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 15823,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
