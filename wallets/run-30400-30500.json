@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 30495,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc0b81acfcfedc0fb908ecba98bd3f189147e9272",
+    "trader_name": "Brolans",
+    "tag": "Overall",
+    "overall_gain": 2760.2900294787823,
+    "active_positions": 61,
+    "win_amount": 12358.411642381387,
+    "loss_amount": -9598.121612902603,
+    "win_rate": 0.42045454545454547,
+    "total_current_value": 0.15183600000000003,
+    "total_positions": 116,
+    "event_ct": 88,
+    "win_count": 37,
+    "rank": 30496,
+    "trader_tags": "> 1 year old"
   }
 ]
