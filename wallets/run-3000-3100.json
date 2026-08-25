@@ -942,5 +942,21 @@
     "win_count": 37,
     "rank": 3059,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15c81b35df1404e5f4bacd63dcfa944b70fdd2d0",
+    "trader_name": "rocroi",
+    "tag": "Overall",
+    "overall_gain": 37473.191514585735,
+    "active_positions": 19,
+    "win_amount": 41628.42872028002,
+    "loss_amount": -4155.237205694277,
+    "win_rate": 0.5185185185185185,
+    "total_current_value": 214979.03329003302,
+    "total_positions": 40,
+    "event_ct": 27,
+    "win_count": 14,
+    "rank": 3060,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
