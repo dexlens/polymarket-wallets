@@ -942,5 +942,21 @@
     "win_count": 5,
     "rank": 85760,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5ff40c8d7549f3a2affc9cbd3a21cb320fd59691",
+    "trader_name": "oterapio",
+    "tag": "Overall",
+    "overall_gain": 542.15269981597,
+    "active_positions": 1,
+    "win_amount": 576.38692154,
+    "loss_amount": -34.23422172403,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 85761,
+    "trader_tags": ""
   }
 ]
