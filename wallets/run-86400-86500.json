@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 86474,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8d7f0e76b4ea59259409cd51845b81b65020142c",
+    "trader_name": "h456",
+    "tag": "Overall",
+    "overall_gain": 532.7729469613552,
+    "active_positions": 10,
+    "win_amount": 553.1122748406071,
+    "loss_amount": -20.339327879251996,
+    "win_rate": 0.7631578947368421,
+    "total_current_value": 42.02696985800001,
+    "total_positions": 47,
+    "event_ct": 38,
+    "win_count": 29,
+    "rank": 86475,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
