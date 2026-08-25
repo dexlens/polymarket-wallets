@@ -286,5 +286,21 @@
     "win_count": 5,
     "rank": 118,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x4a38e6e0330c2463fb5ac2188a620634039abfe8",
+    "trader_name": "stonksgoup",
+    "tag": "Overall",
+    "overall_gain": 921626.2187914088,
+    "active_positions": 245,
+    "win_amount": 1365557.422176724,
+    "loss_amount": -443931.20338531566,
+    "win_rate": 0.5654205607476636,
+    "total_current_value": 0.037854,
+    "total_positions": 1700,
+    "event_ct": 214,
+    "win_count": 121,
+    "rank": 119,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
