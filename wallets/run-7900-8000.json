@@ -1438,5 +1438,21 @@
     "win_count": 13,
     "rank": 7990,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x204e14f11a08a465479e437b0e37b7e9e0358d08",
+    "trader_name": "jackenand",
+    "tag": "Overall",
+    "overall_gain": 13138.713378277229,
+    "active_positions": 2,
+    "win_amount": 16688.76403043531,
+    "loss_amount": -3550.050652158083,
+    "win_rate": 0.956271576524741,
+    "total_current_value": 10037.802596,
+    "total_positions": 985,
+    "event_ct": 869,
+    "win_count": 831,
+    "rank": 7991,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
