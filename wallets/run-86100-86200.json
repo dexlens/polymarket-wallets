@@ -654,5 +654,21 @@
     "win_count": 11,
     "rank": 86142,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72c8e38e7e70085b64e6c728d4c4b0817a71cd11",
+    "trader_name": "slater2",
+    "tag": "Overall",
+    "overall_gain": 537.557408330345,
+    "active_positions": 0,
+    "win_amount": 835.516549525857,
+    "loss_amount": -297.959141195512,
+    "win_rate": 0.5,
+    "total_current_value": 0.005857,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 86143,
+    "trader_tags": "> 1 year old"
   }
 ]
