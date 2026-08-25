@@ -974,5 +974,21 @@
     "win_count": 201,
     "rank": 30062,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0550aad063f3192dcd9bba23052600a1bfb2f7b5",
+    "trader_name": "HoraceHerman",
+    "tag": "Overall",
+    "overall_gain": 2812,
+    "active_positions": 2,
+    "win_amount": 3344.5,
+    "loss_amount": -532.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 30063,
+    "trader_tags": ""
   }
 ]
