@@ -1486,5 +1486,21 @@
     "win_count": 6,
     "rank": 23093,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3e9d54f337ca1f65e638cae8afbb5e7fbac73dcd",
+    "trader_name": "DavidGu",
+    "tag": "Overall",
+    "overall_gain": 3900.4595767838628,
+    "active_positions": 22,
+    "win_amount": 16201.459573915372,
+    "loss_amount": -12300.999997131506,
+    "win_rate": 0.7721518987341772,
+    "total_current_value": 4.086371,
+    "total_positions": 80,
+    "event_ct": 79,
+    "win_count": 61,
+    "rank": 23094,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
