@@ -862,5 +862,21 @@
     "win_count": 10,
     "rank": 28255,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0d8065bd761c2a8f9df3853818f3a922a57d3996",
+    "trader_name": "NightParallax",
+    "tag": "Overall",
+    "overall_gain": 3032.87,
+    "active_positions": 1,
+    "win_amount": 3032.87,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 28256,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
