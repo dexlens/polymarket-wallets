@@ -1534,5 +1534,21 @@
     "win_count": 2,
     "rank": 21596,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x346cb33920e4ca00c851130013a94a1451a8a160",
+    "trader_name": "Shahzad",
+    "tag": "Overall",
+    "overall_gain": 4213.280631733294,
+    "active_positions": 6,
+    "win_amount": 63788.740908729254,
+    "loss_amount": -59575.460276995975,
+    "win_rate": 0.6275510204081632,
+    "total_current_value": 1047.4238199999998,
+    "total_positions": 400,
+    "event_ct": 196,
+    "win_count": 123,
+    "rank": 21597,
+    "trader_tags": "> 1 year old"
   }
 ]
