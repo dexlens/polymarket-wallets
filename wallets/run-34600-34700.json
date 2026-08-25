@@ -1470,5 +1470,21 @@
     "win_count": 8,
     "rank": 34693,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9373ac3744c4361327545171743a0661dfe74c6b",
+    "trader_name": "brbrraptors",
+    "tag": "Overall",
+    "overall_gain": 2365.8808719999997,
+    "active_positions": 1,
+    "win_amount": 8759.009037,
+    "loss_amount": -6393.128165,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 14.374999999999998,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 34694,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
