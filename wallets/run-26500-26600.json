@@ -766,5 +766,21 @@
     "win_count": 18,
     "rank": 26549,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x645880b2608a7d6a1df8fdb22f61ac3f1746e9a6",
+    "trader_name": "ben212",
+    "tag": "Overall",
+    "overall_gain": 3279.70206244,
+    "active_positions": 1,
+    "win_amount": 5168.68336172,
+    "loss_amount": -1888.98129928,
+    "win_rate": 0.5,
+    "total_current_value": 0.00838,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 26550,
+    "trader_tags": "> 1 year old"
   }
 ]
