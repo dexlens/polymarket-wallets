@@ -894,5 +894,21 @@
     "win_count": 818,
     "rank": 3356,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xd5c085523e61d715085ad1c93780d22bd279d4ef",
+    "trader_name": "mbdt",
+    "tag": "Overall",
+    "overall_gain": 34032.73154274192,
+    "active_positions": 2,
+    "win_amount": 39053.805403994615,
+    "loss_amount": -5021.073861252695,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 3357,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
