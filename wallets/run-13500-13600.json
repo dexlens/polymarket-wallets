@@ -206,5 +206,21 @@
     "win_count": 5,
     "rank": 13513,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0aeca8780dba348a8b75d8933135012a77e3c817",
+    "trader_name": "ennpl",
+    "tag": "Overall",
+    "overall_gain": 7354.770513000001,
+    "active_positions": 0,
+    "win_amount": 10057.241925000002,
+    "loss_amount": -2702.471412,
+    "win_rate": 0.5897435897435898,
+    "total_current_value": 0,
+    "total_positions": 51,
+    "event_ct": 39,
+    "win_count": 23,
+    "rank": 13514,
+    "trader_tags": "> 1 year old"
   }
 ]
