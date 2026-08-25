@@ -718,5 +718,21 @@
     "win_count": 25,
     "rank": 62346,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e63f534cc661bf16c98bbbe1a4417caf9558bf7",
+    "trader_name": "0xpoly001",
+    "tag": "Overall",
+    "overall_gain": 1013.7619272464432,
+    "active_positions": 11,
+    "win_amount": 2747.068374,
+    "loss_amount": -1733.306446753557,
+    "win_rate": 0.3888888888888889,
+    "total_current_value": 0.000028,
+    "total_positions": 25,
+    "event_ct": 18,
+    "win_count": 7,
+    "rank": 62347,
+    "trader_tags": "> 1 year old"
   }
 ]
