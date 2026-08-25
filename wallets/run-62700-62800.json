@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 62757,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x80e3218b6a515c4f8edb20f59a6bbaeb762c75f3",
+    "trader_name": "SRDVBYD",
+    "tag": "Overall",
+    "overall_gain": 1003.4481228748859,
+    "active_positions": 2,
+    "win_amount": 2122.8179010000003,
+    "loss_amount": -1119.369778125114,
+    "win_rate": 0.9428571428571428,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 33,
+    "rank": 62758,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
