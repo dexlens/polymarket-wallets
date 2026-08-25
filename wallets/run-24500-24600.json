@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 24584,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x36df219e1fe2e4a61ab490f62f8e6ff5b201e412",
+    "trader_name": "hugehydra",
+    "tag": "Overall",
+    "overall_gain": 3613.4300000000003,
+    "active_positions": 5,
+    "win_amount": 5707.14,
+    "loss_amount": -2093.71,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 24585,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
