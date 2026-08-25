@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 80749,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03868fa6e7d1c1a53f601521577de252294ad152",
+    "trader_name": "MadeRossi",
+    "tag": "Overall",
+    "overall_gain": 618.156956362392,
+    "active_positions": 3,
+    "win_amount": 633.410772,
+    "loss_amount": -15.253815637608,
+    "win_rate": 0.14285714285714285,
+    "total_current_value": 9.114329746,
+    "total_positions": 39,
+    "event_ct": 28,
+    "win_count": 4,
+    "rank": 80750,
+    "trader_tags": ""
   }
 ]
