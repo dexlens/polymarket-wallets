@@ -1230,5 +1230,21 @@
     "win_count": 94,
     "rank": 76778,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2dfe57791004e14c6baeeb4802bbdb2b2e475796",
+    "trader_name": "SSS",
+    "tag": "Overall",
+    "overall_gain": 685.732795165999,
+    "active_positions": 1,
+    "win_amount": 711.732753303635,
+    "loss_amount": -25.999958137636,
+    "win_rate": 0.5,
+    "total_current_value": 0.003635,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 76779,
+    "trader_tags": "> 1 year old"
   }
 ]
