@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 17419,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e32adf214856a23e49553f67c62f57564b61207",
+    "trader_name": "MeadowHarrison",
+    "tag": "Overall",
+    "overall_gain": 5386,
+    "active_positions": 2,
+    "win_amount": 5958,
+    "loss_amount": -572,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 17420,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
