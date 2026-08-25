@@ -174,5 +174,21 @@
     "win_count": 30,
     "rank": 28412,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48399335a27cb442e8413aa45a4f8e248de0ccb0",
+    "trader_name": "goozy",
+    "tag": "Overall",
+    "overall_gain": 3013.514704477094,
+    "active_positions": 1,
+    "win_amount": 4180.325151560517,
+    "loss_amount": -1166.8104470834232,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 89.73109000000001,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 20,
+    "rank": 28413,
+    "trader_tags": "> 1 year old"
   }
 ]
