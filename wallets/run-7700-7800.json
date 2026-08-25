@@ -30,5 +30,21 @@
     "win_count": 16,
     "rank": 7702,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x170c8818d0524fc88df8b5eec3bdbd893bda02b8",
+    "trader_name": "PolyBull",
+    "tag": "Overall",
+    "overall_gain": 13722.528884889829,
+    "active_positions": 1,
+    "win_amount": 13741.028623531236,
+    "loss_amount": -18.499738641405997,
+    "win_rate": 0.4,
+    "total_current_value": 0.014833,
+    "total_positions": 13,
+    "event_ct": 10,
+    "win_count": 4,
+    "rank": 7703,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
