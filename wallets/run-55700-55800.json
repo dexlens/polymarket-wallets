@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 55719,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeb630b1d56e0400e43aa3a9151f88bd0a1043ba1",
+    "trader_name": "sh.redisson",
+    "tag": "Overall",
+    "overall_gain": 1229.0193050000003,
+    "active_positions": 1,
+    "win_amount": 4335.53394,
+    "loss_amount": -3106.514635,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 26.006352008,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 8,
+    "rank": 55720,
+    "trader_tags": ""
   }
 ]
