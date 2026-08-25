@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 65655,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4007d841701838d71a47e5c9400fd7b886463a07",
+    "trader_name": "orbixt",
+    "tag": "Overall",
+    "overall_gain": 926.332077110917,
+    "active_positions": 4,
+    "win_amount": 963.332071849351,
+    "loss_amount": -36.999994738434,
+    "win_rate": 0.8636363636363636,
+    "total_current_value": 0.0026325999999999997,
+    "total_positions": 23,
+    "event_ct": 22,
+    "win_count": 19,
+    "rank": 65656,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
