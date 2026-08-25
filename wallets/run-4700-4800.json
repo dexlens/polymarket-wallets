@@ -126,5 +126,21 @@
     "win_count": 138,
     "rank": 4708,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x799942de5b85617d3616808296d2adcfb3ae6af0",
+    "trader_name": "pxclh",
+    "tag": "Overall",
+    "overall_gain": 23123.632688,
+    "active_positions": 0,
+    "win_amount": 23224.078688,
+    "loss_amount": -100.446,
+    "win_rate": 0.631578947368421,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 19,
+    "win_count": 12,
+    "rank": 4709,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
