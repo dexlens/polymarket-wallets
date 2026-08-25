@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 2086,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59cd67a7a9bbede54516474bed6f3bf6069e92d2",
+    "trader_name": "testfinney",
+    "tag": "Overall",
+    "overall_gain": 57611.4310326091,
+    "active_positions": 0,
+    "win_amount": 62628.6357726091,
+    "loss_amount": -5017.20474,
+    "win_rate": 0.9473684210526315,
+    "total_current_value": 0.003315,
+    "total_positions": 27,
+    "event_ct": 19,
+    "win_count": 18,
+    "rank": 2087,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
