@@ -462,5 +462,21 @@
     "win_count": 16,
     "rank": 7629,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84bdebeefed20aaedc3e6b5f1c20de2f59246d83",
+    "trader_name": "xyiqian",
+    "tag": "Overall",
+    "overall_gain": 13870.875312274522,
+    "active_positions": 5,
+    "win_amount": 16080.930095620446,
+    "loss_amount": -2210.0547833459273,
+    "win_rate": 0.7878787878787878,
+    "total_current_value": 21.502322636000002,
+    "total_positions": 36,
+    "event_ct": 33,
+    "win_count": 26,
+    "rank": 7630,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
