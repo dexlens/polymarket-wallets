@@ -750,5 +750,21 @@
     "win_count": 8,
     "rank": 11147,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7770221269a5720f84fcb9bf81a7ae6140c4fb0c",
+    "trader_name": "bradlind",
+    "tag": "Overall",
+    "overall_gain": 9435.438776228417,
+    "active_positions": 2,
+    "win_amount": 11295.977103,
+    "loss_amount": -1860.538326771582,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 3,
+    "rank": 11148,
+    "trader_tags": "> 1 year old"
   }
 ]
