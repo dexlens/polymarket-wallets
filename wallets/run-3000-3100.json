@@ -638,5 +638,21 @@
     "win_count": 51,
     "rank": 3040,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xffb0b9b292e406fd250854a35a0c9bd5612afa37",
+    "trader_name": "BloodyMummer",
+    "tag": "Overall",
+    "overall_gain": 37729.81600413191,
+    "active_positions": 55,
+    "win_amount": 50626.26860703074,
+    "loss_amount": -12896.452602898838,
+    "win_rate": 0.7845744680851063,
+    "total_current_value": 34306.39963079849,
+    "total_positions": 620,
+    "event_ct": 376,
+    "win_count": 295,
+    "rank": 3041,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
