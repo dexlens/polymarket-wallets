@@ -1470,5 +1470,21 @@
     "win_count": 6,
     "rank": 42593,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x76e84ccb4968dc1ec9bc04939aec8a8ab5ec6ad5",
+    "trader_name": "Ray-Taylor",
+    "tag": "Overall",
+    "overall_gain": 1843.092101994281,
+    "active_positions": 43,
+    "win_amount": 17578.458519620362,
+    "loss_amount": -15735.366417626085,
+    "win_rate": 0.7725563909774437,
+    "total_current_value": 0.526425,
+    "total_positions": 1146,
+    "event_ct": 1064,
+    "win_count": 822,
+    "rank": 42594,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
