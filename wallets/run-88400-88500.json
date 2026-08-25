@@ -1118,5 +1118,21 @@
     "win_count": 46,
     "rank": 88471,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7e7899a094fd7689b398ffd14102467cf852f6a9",
+    "trader_name": "Saadjutt",
+    "tag": "Overall",
+    "overall_gain": 507.61664649270995,
+    "active_positions": 9,
+    "win_amount": 1068.2428379109379,
+    "loss_amount": -560.6261914182279,
+    "win_rate": 0.9529411764705882,
+    "total_current_value": 479.2981599999999,
+    "total_positions": 331,
+    "event_ct": 255,
+    "win_count": 243,
+    "rank": 88472,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
