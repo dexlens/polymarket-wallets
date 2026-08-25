@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 73521,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0e901bbe39a2badb37f77fc7b772ddcc9acd9ae5",
+    "trader_name": "Jajik",
+    "tag": "Overall",
+    "overall_gain": 735.2043815929111,
+    "active_positions": 4,
+    "win_amount": 738.0217105929112,
+    "loss_amount": -2.817329,
+    "win_rate": 0.9534883720930233,
+    "total_current_value": 478.2154252225,
+    "total_positions": 119,
+    "event_ct": 43,
+    "win_count": 41,
+    "rank": 73522,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
