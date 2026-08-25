@@ -366,5 +366,21 @@
     "win_count": 3,
     "rank": 56824,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x63b5f39b5baca1b16dcbbfeedb6927ad8eb71e6f",
+    "trader_name": "DaisySnuggle",
+    "tag": "Overall",
+    "overall_gain": 1186.180449,
+    "active_positions": 4,
+    "win_amount": 2123.880449,
+    "loss_amount": -937.7,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 56825,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
