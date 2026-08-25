@@ -1118,5 +1118,21 @@
     "win_count": 5,
     "rank": 44471,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x29170d3d0bfdb77b46ebac4f7a3033fba68ebe8f",
+    "trader_name": "arttheking",
+    "tag": "Overall",
+    "overall_gain": 1738.505814951499,
+    "active_positions": 1,
+    "win_amount": 54542.17415801848,
+    "loss_amount": -52803.66834306698,
+    "win_rate": 0.70625,
+    "total_current_value": 29.79253249099999,
+    "total_positions": 483,
+    "event_ct": 320,
+    "win_count": 226,
+    "rank": 44472,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
