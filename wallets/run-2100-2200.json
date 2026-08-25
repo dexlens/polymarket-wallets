@@ -1150,5 +1150,21 @@
     "win_count": 6,
     "rank": 2172,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x28ae987b7b8441bf0d70d020f56188887e5315e0",
+    "trader_name": "vladonix",
+    "tag": "Overall",
+    "overall_gain": 55373.694065524076,
+    "active_positions": 5,
+    "win_amount": 69431.70449757925,
+    "loss_amount": -14058.010432055176,
+    "win_rate": 0.2727272727272727,
+    "total_current_value": 0.021198,
+    "total_positions": 20,
+    "event_ct": 11,
+    "win_count": 3,
+    "rank": 2173,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
