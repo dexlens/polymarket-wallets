@@ -1054,5 +1054,21 @@
     "win_count": 8,
     "rank": 64767,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbfe25e271a57d6e4a425d66baa96050245c6e954",
+    "trader_name": "bfv",
+    "tag": "Overall",
+    "overall_gain": 952.092561782674,
+    "active_positions": 0,
+    "win_amount": 952.092561782674,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.040859,
+    "total_positions": 19,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 64768,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
