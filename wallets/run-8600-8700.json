@@ -1278,5 +1278,21 @@
     "win_count": 256,
     "rank": 8680,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1414bd067daef74cce35cccffef572d4f4b2454d",
+    "trader_name": "321nahte",
+    "tag": "Overall",
+    "overall_gain": 12076.392717922286,
+    "active_positions": 1,
+    "win_amount": 12237.87563279819,
+    "loss_amount": -161.48291487590402,
+    "win_rate": 0.6,
+    "total_current_value": 0.008901,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 8681,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
