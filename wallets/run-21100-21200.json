@@ -254,5 +254,21 @@
     "win_count": 2,
     "rank": 21116,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x22b0c3f65b54850006aac5aa5775fd5fb4b8ccf7",
+    "trader_name": "mvcnysg",
+    "tag": "Overall",
+    "overall_gain": 4333.614924075483,
+    "active_positions": 3,
+    "win_amount": 4487.694170617483,
+    "loss_amount": -154.07924654200002,
+    "win_rate": 0.9032258064516129,
+    "total_current_value": 152.650767,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 28,
+    "rank": 21117,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
