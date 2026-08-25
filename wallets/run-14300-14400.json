@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 14373,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5af01f743d058642925b3efce2e9cf8b0a355c59",
+    "trader_name": "ufc-kfc-btc-lakers-in-5",
+    "tag": "Overall",
+    "overall_gain": 6840.780815091861,
+    "active_positions": 40,
+    "win_amount": 7004.398404852981,
+    "loss_amount": -163.61758976111898,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 87.74795422350002,
+    "total_positions": 90,
+    "event_ct": 60,
+    "win_count": 50,
+    "rank": 14374,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
