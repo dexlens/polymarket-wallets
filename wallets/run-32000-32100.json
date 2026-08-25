@@ -366,5 +366,21 @@
     "win_count": 2,
     "rank": 32024,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8a095bfd903667d350d2699ca1ed50c2fe34ea5e",
+    "trader_name": "kkjs",
+    "tag": "Overall",
+    "overall_gain": 2598.140489,
+    "active_positions": 0,
+    "win_amount": 2598.140489,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 32025,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
