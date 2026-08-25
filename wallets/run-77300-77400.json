@@ -446,5 +446,21 @@
     "win_count": 13,
     "rank": 77329,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb43d3caab3ad47dc5db0ec043b941c022bfe11d9",
+    "trader_name": "Apollo",
+    "tag": "Overall",
+    "overall_gain": 675.7282810654157,
+    "active_positions": 10,
+    "win_amount": 4313.9544853359985,
+    "loss_amount": -3638.226204270581,
+    "win_rate": 0.8301886792452831,
+    "total_current_value": 27.507809,
+    "total_positions": 57,
+    "event_ct": 53,
+    "win_count": 44,
+    "rank": 77330,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
