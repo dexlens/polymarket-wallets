@@ -286,5 +286,21 @@
     "win_count": 199,
     "rank": 88119,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x23685ad794019842adeb7b7d95a894adee52ef4a",
+    "trader_name": "Romma",
+    "tag": "Overall",
+    "overall_gain": 511.5133979536324,
+    "active_positions": 12,
+    "win_amount": 531.3801501076351,
+    "loss_amount": -19.866752154002583,
+    "win_rate": 0.8974358974358975,
+    "total_current_value": 11.312297999999998,
+    "total_positions": 79,
+    "event_ct": 78,
+    "win_count": 70,
+    "rank": 88120,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
