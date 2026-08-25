@@ -958,5 +958,21 @@
     "win_count": 449,
     "rank": 11960,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x79876a9864340abe39053a5fe6913afda8c7e367",
+    "trader_name": "Boekanier",
+    "tag": "Overall",
+    "overall_gain": 8635.142812625143,
+    "active_positions": 10,
+    "win_amount": 13753.211797384238,
+    "loss_amount": -5118.068984759095,
+    "win_rate": 0.5166666666666667,
+    "total_current_value": 356.2274158,
+    "total_positions": 77,
+    "event_ct": 60,
+    "win_count": 31,
+    "rank": 11961,
+    "trader_tags": "> 1 year old"
   }
 ]
