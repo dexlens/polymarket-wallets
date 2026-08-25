@@ -334,5 +334,21 @@
     "win_count": 3,
     "rank": 3421,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5376f4a3a01470da50ee8471b395a98df5dfac82",
+    "trader_name": "hed0nist",
+    "tag": "Overall",
+    "overall_gain": 33339.7188569991,
+    "active_positions": 4,
+    "win_amount": 33339.7188569991,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3422,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
