@@ -222,5 +222,21 @@
     "win_count": 17,
     "rank": 17914,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x72826f87b55f8a4dae9d1bd7aef0d4a782d49a96",
+    "trader_name": "gobro",
+    "tag": "Overall",
+    "overall_gain": 5208.300817853704,
+    "active_positions": 2,
+    "win_amount": 15211.37234125867,
+    "loss_amount": -10003.071523404968,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0.127784,
+    "total_positions": 35,
+    "event_ct": 33,
+    "win_count": 27,
+    "rank": 17915,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
