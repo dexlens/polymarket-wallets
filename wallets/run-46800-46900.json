@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 46813,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02b0e128fba86db12acc02ce1c042569dbd91a25",
+    "trader_name": "DTMG",
+    "tag": "Overall",
+    "overall_gain": 1625.2133415134351,
+    "active_positions": 9,
+    "win_amount": 1872.0307147042029,
+    "loss_amount": -246.81737319076802,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 2360.30775801,
+    "total_positions": 18,
+    "event_ct": 15,
+    "win_count": 8,
+    "rank": 46814,
+    "trader_tags": ""
   }
 ]
