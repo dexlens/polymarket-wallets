@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 27528,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x09c7a56024abaf25d33d9511cd8463edbd44017b",
+    "trader_name": "Kandang",
+    "tag": "Overall",
+    "overall_gain": 3129.506242415518,
+    "active_positions": 0,
+    "win_amount": 3518.5831449933003,
+    "loss_amount": -389.07690257778205,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.017062,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 27529,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
