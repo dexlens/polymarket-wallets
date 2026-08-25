@@ -478,5 +478,21 @@
     "win_count": 4,
     "rank": 82331,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d3a9bebecf34cc013e3b976f90b15934b870be1",
+    "trader_name": "fightlya",
+    "tag": "Overall",
+    "overall_gain": 593.006583,
+    "active_positions": 1,
+    "win_amount": 848.006583,
+    "loss_amount": -255,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 82332,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
