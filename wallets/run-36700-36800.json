@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 36717,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcec1c3e1d71d4cf66981bf5f55e1887049409c0c",
+    "trader_name": "Verfer",
+    "tag": "Overall",
+    "overall_gain": 2210.3451607788784,
+    "active_positions": 108,
+    "win_amount": 28183.52842682325,
+    "loss_amount": -25973.183266044365,
+    "win_rate": 0.49029126213592233,
+    "total_current_value": 5599.697007165501,
+    "total_positions": 371,
+    "event_ct": 206,
+    "win_count": 101,
+    "rank": 36718,
+    "trader_tags": "< 30 days old"
   }
 ]
