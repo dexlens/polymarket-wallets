@@ -1006,5 +1006,21 @@
     "win_count": 2,
     "rank": 64564,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2ab3e572c80cb5936a9e39fc96e27463152107bc",
+    "trader_name": "romanew-3-15",
+    "tag": "Overall",
+    "overall_gain": 957.292580104608,
+    "active_positions": 25,
+    "win_amount": 1531.2200519990447,
+    "loss_amount": -573.927471894437,
+    "win_rate": 0.741042345276873,
+    "total_current_value": 44.55779683649999,
+    "total_positions": 1207,
+    "event_ct": 614,
+    "win_count": 455,
+    "rank": 64565,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
