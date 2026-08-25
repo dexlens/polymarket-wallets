@@ -46,5 +46,21 @@
     "win_count": 4,
     "rank": 44804,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f48b37690fc2dc891a627ef24683e3d3a36d2bb",
+    "trader_name": "Lucius-Mata",
+    "tag": "Overall",
+    "overall_gain": 1723.3761560000003,
+    "active_positions": 15,
+    "win_amount": 9522.693529,
+    "loss_amount": -7799.317372999999,
+    "win_rate": 0.9419734151329243,
+    "total_current_value": 1147.07945,
+    "total_positions": 8284,
+    "event_ct": 7824,
+    "win_count": 7370,
+    "rank": 44805,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
