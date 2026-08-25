@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 15250,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d425bc844a40b1ea8411d39f6ac94c4cd05cd7c",
+    "trader_name": "fortniteTrickshot90",
+    "tag": "Overall",
+    "overall_gain": 6365.285968549641,
+    "active_positions": 0,
+    "win_amount": 6365.285968549641,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000021000000000000002,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 15251,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
