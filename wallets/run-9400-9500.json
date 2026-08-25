@@ -862,5 +862,21 @@
     "win_count": 1678,
     "rank": 9454,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x619039090a995d352ff3ed6245f143703b3b0e7a",
+    "trader_name": "Lyrveth",
+    "tag": "Overall",
+    "overall_gain": 11088.093256869099,
+    "active_positions": 4,
+    "win_amount": 11975.299020869099,
+    "loss_amount": -887.2057639999999,
+    "win_rate": 0.7872340425531915,
+    "total_current_value": 0.000276,
+    "total_positions": 50,
+    "event_ct": 47,
+    "win_count": 37,
+    "rank": 9455,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
