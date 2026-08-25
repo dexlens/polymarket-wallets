@@ -1278,5 +1278,21 @@
     "win_count": 9,
     "rank": 33981,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x511b0f9862caa7d9ae6191290c5cda4052d2be35",
+    "trader_name": "Tatlas",
+    "tag": "Overall",
+    "overall_gain": 2426.017151176058,
+    "active_positions": 0,
+    "win_amount": 4731.9678957340475,
+    "loss_amount": -2305.950744557989,
+    "win_rate": 0.3888888888888889,
+    "total_current_value": 0.023935849999999998,
+    "total_positions": 35,
+    "event_ct": 18,
+    "win_count": 7,
+    "rank": 33982,
+    "trader_tags": "> 1 year old"
   }
 ]
