@@ -1038,5 +1038,21 @@
     "win_count": 12,
     "rank": 10465,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x95a4a2df54cd489e8846fc4b2bdbac1ff9e67b64",
+    "trader_name": "ThomasGeng",
+    "tag": "Overall",
+    "overall_gain": 10048.861724453538,
+    "active_positions": 0,
+    "win_amount": 10215.526201341318,
+    "loss_amount": -166.664476887779,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.009942,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 10466,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
