@@ -1454,5 +1454,21 @@
     "win_count": 13,
     "rank": 20791,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02438f43bd5f2b1b25eefa4c474370cad9cc8ccc",
+    "trader_name": "Yarrowfield",
+    "tag": "Overall",
+    "overall_gain": 4417.358187028449,
+    "active_positions": 4,
+    "win_amount": 4424.23844671503,
+    "loss_amount": -6.880259686581001,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 4.136920713,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 15,
+    "rank": 20792,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
