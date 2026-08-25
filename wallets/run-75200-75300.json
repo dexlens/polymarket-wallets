@@ -894,5 +894,21 @@
     "win_count": 716,
     "rank": 75257,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54db70ce439b1fbc873d3ac87755ff4641ea5a9b",
+    "trader_name": "Hikles",
+    "tag": "Overall",
+    "overall_gain": 710.8378996663862,
+    "active_positions": 0,
+    "win_amount": 1438.754301658423,
+    "loss_amount": -727.916401992037,
+    "win_rate": 0.3684210526315789,
+    "total_current_value": 0.012535000000000001,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 7,
+    "rank": 75258,
+    "trader_tags": "> 1 year old"
   }
 ]
