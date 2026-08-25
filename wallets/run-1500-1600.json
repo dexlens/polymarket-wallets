@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 1537,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74b7937435e1b3c392520e6defbe588bf6d8cdcf",
+    "trader_name": "lowellqua",
+    "tag": "Overall",
+    "overall_gain": 78625.886686,
+    "active_positions": 1,
+    "win_amount": 80214.49668600001,
+    "loss_amount": -1588.6100000000001,
+    "win_rate": 0.8,
+    "total_current_value": 6.686,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 1538,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
