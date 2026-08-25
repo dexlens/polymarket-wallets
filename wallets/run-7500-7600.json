@@ -238,5 +238,21 @@
     "win_count": 1,
     "rank": 7515,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x581f49f55340711e67ae0264aecbcac9e980d9c4",
+    "trader_name": "selmeradayo",
+    "tag": "Overall",
+    "overall_gain": 14112.415505,
+    "active_positions": 0,
+    "win_amount": 14137.845505000001,
+    "loss_amount": -25.43,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 17,
+    "win_count": 15,
+    "rank": 7516,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
