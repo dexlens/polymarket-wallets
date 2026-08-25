@@ -830,5 +830,21 @@
     "win_count": 66,
     "rank": 60253,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x09281b4d22bab03f13b0030ad543367ec30e879a",
+    "trader_name": "jojopp2",
+    "tag": "Overall",
+    "overall_gain": 1068.5531039983994,
+    "active_positions": 2,
+    "win_amount": 1068.5531039983994,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 110.21039900000001,
+    "total_positions": 204,
+    "event_ct": 137,
+    "win_count": 137,
+    "rank": 60254,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
