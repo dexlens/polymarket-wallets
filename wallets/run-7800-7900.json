@@ -30,5 +30,21 @@
     "win_count": 1,
     "rank": 7802,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdc16718af9f04590b38a8e8aa32dedcd034740a5",
+    "trader_name": "ELESTUDIO",
+    "tag": "Overall",
+    "overall_gain": 13513.270254943844,
+    "active_positions": 9,
+    "win_amount": 261173.79386361295,
+    "loss_amount": -247660.52360866923,
+    "win_rate": 0.4474885844748858,
+    "total_current_value": 2709.4049780950004,
+    "total_positions": 857,
+    "event_ct": 657,
+    "win_count": 294,
+    "rank": 7803,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
