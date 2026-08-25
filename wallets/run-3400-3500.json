@@ -654,5 +654,21 @@
     "win_count": 6,
     "rank": 3441,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0918d20cebeacbf6d9b6a6ba7b51b7cb70cb79c4",
+    "trader_name": "LIHOTea",
+    "tag": "Overall",
+    "overall_gain": 33146.509092363274,
+    "active_positions": 9,
+    "win_amount": 38043.53221830294,
+    "loss_amount": -4897.023125939667,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 21.985627845499998,
+    "total_positions": 82,
+    "event_ct": 30,
+    "win_count": 28,
+    "rank": 3442,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
