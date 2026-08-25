@@ -1486,5 +1486,21 @@
     "win_count": 14,
     "rank": 6093,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8507124d416dd181ea552e01a0dfed19ab0b1086",
+    "trader_name": "madurowilllose",
+    "tag": "Overall",
+    "overall_gain": 17596.635472,
+    "active_positions": 0,
+    "win_amount": 17596.635472,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6094,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
