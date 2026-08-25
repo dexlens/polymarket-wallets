@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 19464,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6bf2adaf0046e0c42d723b6d99a5725c892124d7",
+    "trader_name": "nhlBoss",
+    "tag": "Overall",
+    "overall_gain": 4772.11847353434,
+    "active_positions": 48,
+    "win_amount": 7664.938092666229,
+    "loss_amount": -2892.8196191318875,
+    "win_rate": 0.3486238532110092,
+    "total_current_value": 0.009716,
+    "total_positions": 158,
+    "event_ct": 109,
+    "win_count": 38,
+    "rank": 19465,
+    "trader_tags": ""
   }
 ]
