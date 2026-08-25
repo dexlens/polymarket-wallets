@@ -718,5 +718,21 @@
     "win_count": 202,
     "rank": 9145,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8d46113e2634fc9fd48b8c14d06e206748f7cf8b",
+    "trader_name": "sj49dk2",
+    "tag": "Overall",
+    "overall_gain": 11461.867594929845,
+    "active_positions": 190,
+    "win_amount": 68745.67041511938,
+    "loss_amount": -57283.802820189536,
+    "win_rate": 0.842925659472422,
+    "total_current_value": 19892.831158510493,
+    "total_positions": 2096,
+    "event_ct": 834,
+    "win_count": 703,
+    "rank": 9146,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
