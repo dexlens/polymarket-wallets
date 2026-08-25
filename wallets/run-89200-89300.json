@@ -1438,5 +1438,21 @@
     "win_count": 8,
     "rank": 89291,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x600156a001f52789e417d85f22304e2d9b6ac446",
+    "trader_name": "noseLetter",
+    "tag": "Overall",
+    "overall_gain": 498.25958599999996,
+    "active_positions": 2,
+    "win_amount": 500.441586,
+    "loss_amount": -2.182,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 0.199,
+    "total_positions": 20,
+    "event_ct": 17,
+    "win_count": 15,
+    "rank": 89292,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
