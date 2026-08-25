@@ -750,5 +750,21 @@
     "win_count": 2,
     "rank": 2847,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x456d7e1295b785ba37725a0db29436b056b11fe1",
+    "trader_name": "biadab",
+    "tag": "Overall",
+    "overall_gain": 40412.1339468417,
+    "active_positions": 1,
+    "win_amount": 44282.17394684171,
+    "loss_amount": -3870.04,
+    "win_rate": 0.9818181818181818,
+    "total_current_value": 10.19695604,
+    "total_positions": 112,
+    "event_ct": 55,
+    "win_count": 54,
+    "rank": 2848,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
