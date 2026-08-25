@@ -958,5 +958,21 @@
     "win_count": 8,
     "rank": 30061,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8554b7c4ed91e094c6bae823394e19056762975c",
+    "trader_name": "sabobaka",
+    "tag": "Overall",
+    "overall_gain": 2812.0281266829343,
+    "active_positions": 5,
+    "win_amount": 3172.2348551329337,
+    "loss_amount": -360.20672845,
+    "win_rate": 0.95260663507109,
+    "total_current_value": 62.98089254,
+    "total_positions": 219,
+    "event_ct": 211,
+    "win_count": 201,
+    "rank": 30062,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
