@@ -1182,5 +1182,21 @@
     "win_count": 11,
     "rank": 5074,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x828b733fa41273e74d54835cd7467279d315fa8a",
+    "trader_name": "AuroraAuro",
+    "tag": "Overall",
+    "overall_gain": 21343.215269999997,
+    "active_positions": 0,
+    "win_amount": 21662.13527,
+    "loss_amount": -318.91999999999996,
+    "win_rate": 0.78125,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 25,
+    "rank": 5075,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
