@@ -254,5 +254,21 @@
     "win_count": 4,
     "rank": 77517,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4405bfeeabfcab1445a4fa9503cbd85fcfe96a37",
+    "trader_name": "Septen",
+    "tag": "Overall",
+    "overall_gain": 672.4851035204283,
+    "active_positions": 11,
+    "win_amount": 2658.0500670182882,
+    "loss_amount": -1985.5649634978597,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 1517.7106777389997,
+    "total_positions": 82,
+    "event_ct": 65,
+    "win_count": 45,
+    "rank": 77518,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
