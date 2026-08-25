@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 10220,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x22252583a38120e40095fe3f34f2adb2d45f6725",
+    "trader_name": "gm69",
+    "tag": "Overall",
+    "overall_gain": 10286.95675732559,
+    "active_positions": 0,
+    "win_amount": 10286.95675732559,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002141,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 10221,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
