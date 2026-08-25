@@ -798,5 +798,21 @@
     "win_count": 5,
     "rank": 62251,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x665ef23dc7125545d5bb503c378e6899ac4b712b",
+    "trader_name": "syens",
+    "tag": "Overall",
+    "overall_gain": 1015.4473322085693,
+    "active_positions": 9,
+    "win_amount": 2046.2844757008052,
+    "loss_amount": -1030.8371434922358,
+    "win_rate": 0.5,
+    "total_current_value": 2.163593745,
+    "total_positions": 17,
+    "event_ct": 16,
+    "win_count": 8,
+    "rank": 62252,
+    "trader_tags": ""
   }
 ]
