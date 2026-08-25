@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 13083,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59c49a09e5335430833b96d96af9e581b0a9b517",
+    "trader_name": "DarrenSRS",
+    "tag": "Overall",
+    "overall_gain": 7675.05128374388,
+    "active_positions": 2,
+    "win_amount": 11529.85421152014,
+    "loss_amount": -3854.8029277762575,
+    "win_rate": 0.6756756756756757,
+    "total_current_value": 0.045913999999999996,
+    "total_positions": 53,
+    "event_ct": 37,
+    "win_count": 25,
+    "rank": 13084,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
