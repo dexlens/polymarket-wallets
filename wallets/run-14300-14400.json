@@ -1086,5 +1086,21 @@
     "win_count": 11,
     "rank": 14368,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f72d6c91c9f2a6e0a1efdce848830d2940b2f89",
+    "trader_name": "Fayeg",
+    "tag": "Overall",
+    "overall_gain": 6842.832939,
+    "active_positions": 0,
+    "win_amount": 7226.032939,
+    "loss_amount": -383.20000000000005,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 25,
+    "win_count": 15,
+    "rank": 14369,
+    "trader_tags": "> 1 year old"
   }
 ]
