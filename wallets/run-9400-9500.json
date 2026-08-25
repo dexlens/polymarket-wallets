@@ -1246,5 +1246,21 @@
     "win_count": 13,
     "rank": 9478,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42c08ed83bdf743c444b07535eeaa50c2603268c",
+    "trader_name": "piplex",
+    "tag": "Overall",
+    "overall_gain": 11058.685563033141,
+    "active_positions": 1,
+    "win_amount": 12858.0683,
+    "loss_amount": -1799.3827369668602,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 9479,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
