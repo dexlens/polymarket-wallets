@@ -574,5 +574,21 @@
     "win_count": 6,
     "rank": 66237,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x882c4a44078a5460623f3fc0499efffe83efa26f",
+    "trader_name": "jedajame",
+    "tag": "Overall",
+    "overall_gain": 909.334654282954,
+    "active_positions": 0,
+    "win_amount": 17040.711306835627,
+    "loss_amount": -16131.376652552672,
+    "win_rate": 0.7025171624713958,
+    "total_current_value": 0.8620619999999999,
+    "total_positions": 765,
+    "event_ct": 437,
+    "win_count": 307,
+    "rank": 66238,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
