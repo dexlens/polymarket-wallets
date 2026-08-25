@@ -622,5 +622,21 @@
     "win_count": 28,
     "rank": 3239,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c55621871b5cedb336bc509dd93e61568f6dbb9",
+    "trader_name": "Chucklehuck",
+    "tag": "Overall",
+    "overall_gain": 35414.6025430662,
+    "active_positions": 48,
+    "win_amount": 43822.61441558389,
+    "loss_amount": -8408.011872517698,
+    "win_rate": 0.6015625,
+    "total_current_value": 20218.282039689995,
+    "total_positions": 220,
+    "event_ct": 128,
+    "win_count": 77,
+    "rank": 3240,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
