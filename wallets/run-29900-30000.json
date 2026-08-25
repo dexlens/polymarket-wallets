@@ -366,5 +366,21 @@
     "win_count": 3,
     "rank": 29924,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x81eaee011e60b8a14c36633dacee090d572f668b",
+    "trader_name": "randydigital",
+    "tag": "Overall",
+    "overall_gain": 2829.7170605884685,
+    "active_positions": 2,
+    "win_amount": 7322.317097643341,
+    "loss_amount": -4492.600037054873,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 2.752269,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 16,
+    "rank": 29925,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
