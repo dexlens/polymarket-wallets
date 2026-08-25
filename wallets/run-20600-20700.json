@@ -622,5 +622,21 @@
     "win_count": 66,
     "rank": 20639,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54e4334af887b05de65dae935858bf104d2c152e",
+    "trader_name": "ArenaSDJJT",
+    "tag": "Overall",
+    "overall_gain": 4460,
+    "active_positions": 3,
+    "win_amount": 6091.5,
+    "loss_amount": -1631.5,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 20640,
+    "trader_tags": ""
   }
 ]
