@@ -1582,5 +1582,21 @@
     "win_count": 282,
     "rank": 31300,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbeef7646afd2c908036e1994b2921d6438934f50",
+    "trader_name": "AwaitFuture",
+    "tag": "Overall",
+    "overall_gain": 2670.174842499614,
+    "active_positions": 0,
+    "win_amount": 2670.174842499614,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.019614,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 31301,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
