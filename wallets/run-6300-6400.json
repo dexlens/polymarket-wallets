@@ -734,5 +734,21 @@
     "win_count": 13,
     "rank": 6346,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8bbbf0be20aafc891e0a5f7f46fb6fd68c50381e",
+    "trader_name": "xiaolongbao2",
+    "tag": "Overall",
+    "overall_gain": 16876.266093608814,
+    "active_positions": 366,
+    "win_amount": 101288.13566816188,
+    "loss_amount": -84411.8695745531,
+    "win_rate": 0.517814726840855,
+    "total_current_value": 0.10685000000000001,
+    "total_positions": 875,
+    "event_ct": 842,
+    "win_count": 436,
+    "rank": 6347,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
