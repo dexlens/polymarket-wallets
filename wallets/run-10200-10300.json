@@ -1006,5 +1006,21 @@
     "win_count": 150,
     "rank": 10263,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b7a0488f3a5373ee7b197a243850103976f1a35",
+    "trader_name": "Trumpvicc",
+    "tag": "Overall",
+    "overall_gain": 10250.239842856065,
+    "active_positions": 1,
+    "win_amount": 37192.59234200434,
+    "loss_amount": -26942.352499148285,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 0.008346,
+    "total_positions": 133,
+    "event_ct": 34,
+    "win_count": 28,
+    "rank": 10264,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
