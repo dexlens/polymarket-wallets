@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 22681,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x711262ab4d18fa7e192f8cb89620cbf445c41345",
+    "trader_name": "iyrytvh",
+    "tag": "Overall",
+    "overall_gain": 3984.8499748770646,
+    "active_positions": 3,
+    "win_amount": 4332.962274877064,
+    "loss_amount": -348.1123,
+    "win_rate": 0.9393939393939394,
+    "total_current_value": 138.530064,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 31,
+    "rank": 22682,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
