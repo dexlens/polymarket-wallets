@@ -1198,5 +1198,21 @@
     "win_count": 25,
     "rank": 5075,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f4f9145904c7b3261c3bbe05fcea64d9d91b4b3",
+    "trader_name": "UxorSatanas",
+    "tag": "Overall",
+    "overall_gain": 21342.448321255903,
+    "active_positions": 0,
+    "win_amount": 33969.812910185494,
+    "loss_amount": -12627.36458892959,
+    "win_rate": 0.6283484496941574,
+    "total_current_value": 10.352705258999997,
+    "total_positions": 10678,
+    "event_ct": 4741,
+    "win_count": 2979,
+    "rank": 5076,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
