@@ -1006,5 +1006,21 @@
     "win_count": 99,
     "rank": 56364,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x321187dfa8d4ec0d8cd1cea726acf47dd853fdd9",
+    "trader_name": "Leilall5",
+    "tag": "Overall",
+    "overall_gain": 1202.4627826221263,
+    "active_positions": 3,
+    "win_amount": 2561.5254671492867,
+    "loss_amount": -1359.0626845271597,
+    "win_rate": 0.6,
+    "total_current_value": 0.030244,
+    "total_positions": 25,
+    "event_ct": 20,
+    "win_count": 12,
+    "rank": 56365,
+    "trader_tags": ""
   }
 ]
