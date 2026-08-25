@@ -46,5 +46,21 @@
     "win_count": 8,
     "rank": 8103,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7dba0d0141e7d0627b599984848e57d1a1d17013",
+    "trader_name": "rollinlaudan",
+    "tag": "Overall",
+    "overall_gain": 12984.769999999999,
+    "active_positions": 0,
+    "win_amount": 12984.769999999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 8104,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
