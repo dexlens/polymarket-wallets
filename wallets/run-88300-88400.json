@@ -318,5 +318,21 @@
     "win_count": 4,
     "rank": 88321,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x609bb634292bc465f894e63231cf053ded9c27ee",
+    "trader_name": "DiamondStanley",
+    "tag": "Overall",
+    "overall_gain": 509.21500000000003,
+    "active_positions": 19,
+    "win_amount": 4285.5,
+    "loss_amount": -3776.285,
+    "win_rate": 0.5476190476190477,
+    "total_current_value": 0,
+    "total_positions": 42,
+    "event_ct": 42,
+    "win_count": 23,
+    "rank": 88322,
+    "trader_tags": ""
   }
 ]
