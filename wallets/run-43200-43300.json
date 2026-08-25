@@ -846,5 +846,21 @@
     "win_count": 31,
     "rank": 43254,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f6df0ca963ebeef751087270d2623e248912900",
+    "trader_name": "leonreilly",
+    "tag": "Overall",
+    "overall_gain": 1807.003683,
+    "active_positions": 1,
+    "win_amount": 1918.003683,
+    "loss_amount": -111,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 3.683,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 43255,
+    "trader_tags": ""
   }
 ]
