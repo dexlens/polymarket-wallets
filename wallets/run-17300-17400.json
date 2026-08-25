@@ -1182,5 +1182,21 @@
     "win_count": 3,
     "rank": 17374,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x24ee5deced1cd10e7ccaf732f76b9092eaedcf7c",
+    "trader_name": "Alistairember",
+    "tag": "Overall",
+    "overall_gain": 5405.24437639109,
+    "active_positions": 7,
+    "win_amount": 5417.711032795536,
+    "loss_amount": -12.466656404446999,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 16.1788767,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 17375,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
