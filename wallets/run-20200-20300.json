@@ -638,5 +638,21 @@
     "win_count": 3,
     "rank": 20240,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xae3d8a0a4c0802cd88b7e19900e140bf01b9b0f0",
+    "trader_name": "Dagurk",
+    "tag": "Overall",
+    "overall_gain": 4565.5,
+    "active_positions": 1,
+    "win_amount": 4847,
+    "loss_amount": -281.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 20241,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
