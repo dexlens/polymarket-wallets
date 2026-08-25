@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 32322,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07227dfb40c06f10b77f1fd3a8e872b5f328d131",
+    "trader_name": "Anvegarch",
+    "tag": "Overall",
+    "overall_gain": 2569.3391397172527,
+    "active_positions": 50,
+    "win_amount": 8573.852984386405,
+    "loss_amount": -6004.513844669156,
+    "win_rate": 0.7203883495145631,
+    "total_current_value": 13.654409000000008,
+    "total_positions": 647,
+    "event_ct": 515,
+    "win_count": 371,
+    "rank": 32323,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
