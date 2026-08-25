@@ -350,5 +350,21 @@
     "win_count": 17,
     "rank": 4422,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeec0ff7341b297051504d67324c7dc84127934c8",
+    "trader_name": "STV31",
+    "tag": "Overall",
+    "overall_gain": 25127.433935620877,
+    "active_positions": 1,
+    "win_amount": 30055.67063503362,
+    "loss_amount": -4928.236699412743,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0.041154,
+    "total_positions": 16,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 4423,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
