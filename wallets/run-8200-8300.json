@@ -1454,5 +1454,21 @@
     "win_count": 2,
     "rank": 8291,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe67012b1e57067952172cfc5ca5df1173440dcbf",
+    "trader_name": "JackRaman",
+    "tag": "Overall",
+    "overall_gain": 12682,
+    "active_positions": 5,
+    "win_amount": 22740,
+    "loss_amount": -10058,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 8292,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
