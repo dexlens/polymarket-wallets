@@ -462,5 +462,21 @@
     "win_count": 4,
     "rank": 48030,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5f1ed95c51b1120624f8c82f33036ab088c3a6dd",
+    "trader_name": "ah0.1",
+    "tag": "Overall",
+    "overall_gain": 1571.1645551127642,
+    "active_positions": 1,
+    "win_amount": 1784.4912563035364,
+    "loss_amount": -213.326701190772,
+    "win_rate": 0.9855595667870036,
+    "total_current_value": 2810.4812755000003,
+    "total_positions": 406,
+    "event_ct": 277,
+    "win_count": 273,
+    "rank": 48031,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
