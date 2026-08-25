@@ -478,5 +478,21 @@
     "win_count": 29,
     "rank": 8830,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd14015609f9474178fe2bba3340c709bb35ebbbd",
+    "trader_name": "HLEGumaUZI",
+    "tag": "Overall",
+    "overall_gain": 11863.018227695504,
+    "active_positions": 0,
+    "win_amount": 46602.85114063895,
+    "loss_amount": -34739.83291294344,
+    "win_rate": 0.9685362517099864,
+    "total_current_value": 0.137088,
+    "total_positions": 2206,
+    "event_ct": 1462,
+    "win_count": 1416,
+    "rank": 8831,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
