@@ -926,5 +926,21 @@
     "win_count": 42,
     "rank": 84859,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb3472a1ff7ebc53e2ecda6680a9ed50f1516accd",
+    "trader_name": "bit100k",
+    "tag": "Overall",
+    "overall_gain": 554.1387798960001,
+    "active_positions": 22,
+    "win_amount": 862.429337896,
+    "loss_amount": -308.290558,
+    "win_rate": 0.6813186813186813,
+    "total_current_value": 304.40793997599997,
+    "total_positions": 95,
+    "event_ct": 91,
+    "win_count": 62,
+    "rank": 84860,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
