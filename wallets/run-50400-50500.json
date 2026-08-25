@@ -334,5 +334,21 @@
     "win_count": 79,
     "rank": 50422,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f64c8bfcb27536be3f486e10cc566560b955715",
+    "trader_name": "pasisd",
+    "tag": "Overall",
+    "overall_gain": 1465.5920833322575,
+    "active_positions": 0,
+    "win_amount": 10511.833827999999,
+    "loss_amount": -9046.241744667743,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.016875,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 50423,
+    "trader_tags": "> 1 year old"
   }
 ]
