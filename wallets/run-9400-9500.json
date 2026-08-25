@@ -158,5 +158,21 @@
     "win_count": 1,
     "rank": 9410,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x50e266b2f1f434cee8a212526d3fa517f3fa3699",
+    "trader_name": "jgliohapk",
+    "tag": "Overall",
+    "overall_gain": 11133.248173945864,
+    "active_positions": 3,
+    "win_amount": 11206.515187002848,
+    "loss_amount": -73.26701305698299,
+    "win_rate": 0.35,
+    "total_current_value": 0.164652,
+    "total_positions": 50,
+    "event_ct": 20,
+    "win_count": 7,
+    "rank": 9411,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
