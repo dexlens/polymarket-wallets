@@ -958,5 +958,21 @@
     "win_count": 4,
     "rank": 3660,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x76e598080c937bac21f0c3f79f1e55c2e8fa6115",
+    "trader_name": "go8pl",
+    "tag": "Overall",
+    "overall_gain": 31147.734314,
+    "active_positions": 0,
+    "win_amount": 31203.624314,
+    "loss_amount": -55.89,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 28,
+    "win_count": 18,
+    "rank": 3661,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
