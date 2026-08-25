@@ -142,5 +142,21 @@
     "win_count": 77,
     "rank": 9909,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x64b27d133ca6ff242358ca3babf6a5469d03e9e8",
+    "trader_name": "Solvian",
+    "tag": "Overall",
+    "overall_gain": 10581.335010666231,
+    "active_positions": 2,
+    "win_amount": 37081.8700064,
+    "loss_amount": -26500.53499573377,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0.0022495124999999997,
+    "total_positions": 69,
+    "event_ct": 66,
+    "win_count": 54,
+    "rank": 9910,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
