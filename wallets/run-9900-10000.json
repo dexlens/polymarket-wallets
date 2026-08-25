@@ -1182,5 +1182,21 @@
     "win_count": 4,
     "rank": 9974,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x735a6a93194a2b4a34bce36e9810e6645d100187",
+    "trader_name": "SuperDsd",
+    "tag": "Overall",
+    "overall_gain": 10508.380000000001,
+    "active_positions": 1,
+    "win_amount": 10608.380000000001,
+    "loss_amount": -100,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 9975,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
