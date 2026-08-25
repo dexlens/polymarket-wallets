@@ -1326,5 +1326,21 @@
     "win_count": 6,
     "rank": 5683,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf56ef042ee1f10c52273555f25e3c045030b9b79",
+    "trader_name": "BessD",
+    "tag": "Overall",
+    "overall_gain": 18986.916154,
+    "active_positions": 1,
+    "win_amount": 19182.506154,
+    "loss_amount": -195.59,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 22,
+    "win_count": 18,
+    "rank": 5684,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
