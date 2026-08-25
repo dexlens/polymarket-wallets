@@ -526,5 +526,21 @@
     "win_count": 20,
     "rank": 6833,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe37d2fbd034542881a43765cddad617215a51d0b",
+    "trader_name": "cotyschil",
+    "tag": "Overall",
+    "overall_gain": 15682,
+    "active_positions": 1,
+    "win_amount": 15888.5,
+    "loss_amount": -206.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 6834,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
