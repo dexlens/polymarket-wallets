@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 1189,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election ; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x606d65fca4f80b75926c106d0ac8d3ce90bf1aaf",
+    "trader_name": "timebrotime",
+    "tag": "Overall",
+    "overall_gain": 102051.63066927443,
+    "active_positions": 28,
+    "win_amount": 256730.13303208494,
+    "loss_amount": -154678.50236281045,
+    "win_rate": 0.6714285714285714,
+    "total_current_value": 120027.83408262995,
+    "total_positions": 1398,
+    "event_ct": 1120,
+    "win_count": 752,
+    "rank": 1190,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
