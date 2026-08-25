@@ -1438,5 +1438,21 @@
     "win_count": 737,
     "rank": 66891,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x265392ce79155ed752441b980494cd197728d0f4",
+    "trader_name": "Obarik",
+    "tag": "Overall",
+    "overall_gain": 892.2848568459331,
+    "active_positions": 17,
+    "win_amount": 1580.3488549767899,
+    "loss_amount": -688.0639981308569,
+    "win_rate": 0.10526315789473684,
+    "total_current_value": 0.013262,
+    "total_positions": 24,
+    "event_ct": 19,
+    "win_count": 2,
+    "rank": 66892,
+    "trader_tags": "> 1 year old"
   }
 ]
