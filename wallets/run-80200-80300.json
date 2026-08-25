@@ -1182,5 +1182,21 @@
     "win_count": 24,
     "rank": 80275,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8aaed1cf32a7ecdbb87ce9f0db137f7de10b2fe7",
+    "trader_name": "Portland98Lake",
+    "tag": "Overall",
+    "overall_gain": 626.180544,
+    "active_positions": 0,
+    "win_amount": 2127.868515,
+    "loss_amount": -1501.6879709999998,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 24,
+    "event_ct": 21,
+    "win_count": 14,
+    "rank": 80276,
+    "trader_tags": "< 30 days old"
   }
 ]
