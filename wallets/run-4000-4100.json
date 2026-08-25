@@ -1278,5 +1278,21 @@
     "win_count": 32,
     "rank": 4080,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb8a717fed80eab7258a9ff6ba9961908691d7674",
+    "trader_name": "pugdev",
+    "tag": "Overall",
+    "overall_gain": 27453.1389826109,
+    "active_positions": 9,
+    "win_amount": 31798.47402568336,
+    "loss_amount": -4345.335043072456,
+    "win_rate": 0.6037735849056604,
+    "total_current_value": 139506.112945676,
+    "total_positions": 56,
+    "event_ct": 53,
+    "win_count": 32,
+    "rank": 4081,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
