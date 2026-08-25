@@ -702,5 +702,21 @@
     "win_count": 48,
     "rank": 3144,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44024c135b77ccfb73ba99fd98b53485c4736334",
+    "trader_name": "neghina",
+    "tag": "Overall",
+    "overall_gain": 36368.75686757095,
+    "active_positions": 1,
+    "win_amount": 37879.114529,
+    "loss_amount": -1510.3576614290532,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.006119,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 3145,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
