@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 8256,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf0d020705c5ccdaeacf494646b299ea97c48f32d",
+    "trader_name": "aveai",
+    "tag": "Overall",
+    "overall_gain": 12743.135956420001,
+    "active_positions": 8,
+    "win_amount": 15303.109079,
+    "loss_amount": -2559.97312258,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 299.3,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 11,
+    "rank": 8257,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
