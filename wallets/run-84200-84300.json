@@ -350,5 +350,21 @@
     "win_count": 2,
     "rank": 84223,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6bc37f1b519a0b777ac2e562741a758ffd804972",
+    "trader_name": "xFEUx",
+    "tag": "Overall",
+    "overall_gain": 563.3021254474513,
+    "active_positions": 472,
+    "win_amount": 4027.1573813418704,
+    "loss_amount": -3463.855255894416,
+    "win_rate": 0.7729357798165137,
+    "total_current_value": 1287.2537772250002,
+    "total_positions": 1720,
+    "event_ct": 872,
+    "win_count": 674,
+    "rank": 84224,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
