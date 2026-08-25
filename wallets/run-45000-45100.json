@@ -814,5 +814,21 @@
     "win_count": 4,
     "rank": 45052,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8bc1582ac98178fd793062c8598327db953c6237",
+    "trader_name": "Fast30Slot",
+    "tag": "Overall",
+    "overall_gain": 1710.9980072925114,
+    "active_positions": 6,
+    "win_amount": 1715.6105532658164,
+    "loss_amount": -4.612545973305,
+    "win_rate": 0.75,
+    "total_current_value": 16.9888980235,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 15,
+    "rank": 45053,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
