@@ -1486,5 +1486,21 @@
     "win_count": 21,
     "rank": 84594,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7821b04db06715740ca0116ca4aa1a11890c144e",
+    "trader_name": "AlvinHouse",
+    "tag": "Overall",
+    "overall_gain": 557.8459880000005,
+    "active_positions": 54,
+    "win_amount": 13500.795988,
+    "loss_amount": -12942.95,
+    "win_rate": 0.5645161290322581,
+    "total_current_value": 0,
+    "total_positions": 124,
+    "event_ct": 124,
+    "win_count": 70,
+    "rank": 84595,
+    "trader_tags": ""
   }
 ]
