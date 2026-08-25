@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 3498,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1a20ee68ba7320a0e410de266661460e33b9101c",
+    "trader_name": "cmoesn",
+    "tag": "Overall",
+    "overall_gain": 32592.256388376114,
+    "active_positions": 0,
+    "win_amount": 43689.88341317412,
+    "loss_amount": -11097.627024798001,
+    "win_rate": 0.4576271186440678,
+    "total_current_value": 0.341935,
+    "total_positions": 488,
+    "event_ct": 236,
+    "win_count": 108,
+    "rank": 3499,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
