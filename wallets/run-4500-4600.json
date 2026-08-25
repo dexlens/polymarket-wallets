@@ -1422,5 +1422,21 @@
     "win_count": 31,
     "rank": 4589,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4e74c929a03ef19012622e8976dee3cb10da0376",
+    "trader_name": "harryjac",
+    "tag": "Overall",
+    "overall_gain": 23968,
+    "active_positions": 0,
+    "win_amount": 23968,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 4590,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
