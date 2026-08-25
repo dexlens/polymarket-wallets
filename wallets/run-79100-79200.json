@@ -830,5 +830,21 @@
     "win_count": 2,
     "rank": 79153,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x322d7b65ed1c9b2936eab09d169875158a07acae",
+    "trader_name": "aloh",
+    "tag": "Overall",
+    "overall_gain": 644.5691924268181,
+    "active_positions": 1,
+    "win_amount": 644.5691924268181,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 640.5961545415,
+    "total_positions": 19,
+    "event_ct": 12,
+    "win_count": 12,
+    "rank": 79154,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
