@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 52056,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3506b03ecb5f3140405bd7a76483071b4f95a7ec",
+    "trader_name": "Yuki7",
+    "tag": "Overall",
+    "overall_gain": 1389.5635236234343,
+    "active_positions": 2,
+    "win_amount": 2951.1447937861894,
+    "loss_amount": -1561.5812701627551,
+    "win_rate": 0.9024390243902439,
+    "total_current_value": 6185.483657000001,
+    "total_positions": 237,
+    "event_ct": 82,
+    "win_count": 74,
+    "rank": 52057,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
