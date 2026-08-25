@@ -430,5 +430,21 @@
     "win_count": 41,
     "rank": 67028,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x258ba2ad425fce7f612b6a39bfea849084e4eb44",
+    "trader_name": "HX333",
+    "tag": "Overall",
+    "overall_gain": 888.3967631229181,
+    "active_positions": 6,
+    "win_amount": 1341.996755226808,
+    "loss_amount": -453.59999210389003,
+    "win_rate": 0.5,
+    "total_current_value": 0.015152555000000002,
+    "total_positions": 19,
+    "event_ct": 18,
+    "win_count": 9,
+    "rank": 67029,
+    "trader_tags": ""
   }
 ]
