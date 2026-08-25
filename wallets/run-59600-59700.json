@@ -398,5 +398,21 @@
     "win_count": 30,
     "rank": 59626,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6497cb5d21edd78ead889add1c509347c48b192f",
+    "trader_name": "MDCAP",
+    "tag": "Overall",
+    "overall_gain": 1088.717054713637,
+    "active_positions": 4,
+    "win_amount": 1096.217054713637,
+    "loss_amount": -7.5,
+    "win_rate": 0.8,
+    "total_current_value": 1207.776999424,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 59627,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
