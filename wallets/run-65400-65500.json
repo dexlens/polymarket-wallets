@@ -878,5 +878,21 @@
     "win_count": 2,
     "rank": 65456,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe69ffe30240203a26e6a3f3d5361bbcd36554900",
+    "trader_name": "failedhfanalyst",
+    "tag": "Overall",
+    "overall_gain": 931.630857735766,
+    "active_positions": 5,
+    "win_amount": 1064.4329386244378,
+    "loss_amount": -132.802080888672,
+    "win_rate": 0.8297872340425532,
+    "total_current_value": 3386.5245899274996,
+    "total_positions": 60,
+    "event_ct": 47,
+    "win_count": 39,
+    "rank": 65457,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
