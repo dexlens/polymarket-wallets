@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 63188,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x508c3ca7dfaca3799c0c4862ae7ad3331d246771",
+    "trader_name": "LiamGallall",
+    "tag": "Overall",
+    "overall_gain": 996.1056419143993,
+    "active_positions": 2,
+    "win_amount": 1008.9408040000001,
+    "loss_amount": -12.835162085601006,
+    "win_rate": 0.2413793103448276,
+    "total_current_value": 4.929941249999999,
+    "total_positions": 40,
+    "event_ct": 29,
+    "win_count": 7,
+    "rank": 63189,
+    "trader_tags": ""
   }
 ]
