@@ -126,5 +126,21 @@
     "win_count": 5,
     "rank": 17008,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xee020dcfbef95da22745db0fd0a0637099708132",
+    "trader_name": "fedsiq",
+    "tag": "Overall",
+    "overall_gain": 5549.4541090508565,
+    "active_positions": 3,
+    "win_amount": 9362.124500825226,
+    "loss_amount": -3812.6703917743675,
+    "win_rate": 0.5604395604395604,
+    "total_current_value": 200.11854633500002,
+    "total_positions": 253,
+    "event_ct": 182,
+    "win_count": 102,
+    "rank": 17009,
+    "trader_tags": ""
   }
 ]
