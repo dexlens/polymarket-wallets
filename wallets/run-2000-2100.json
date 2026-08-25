@@ -62,5 +62,21 @@
     "win_count": 54,
     "rank": 2004,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30af6a4f675f3b90adace43141ed6e6de37b1879",
+    "trader_name": "xok52-3-4-5",
+    "tag": "Overall",
+    "overall_gain": 60299.61802842385,
+    "active_positions": 62,
+    "win_amount": 81883.61771479121,
+    "loss_amount": -21583.999686367355,
+    "win_rate": 0.2823529411764706,
+    "total_current_value": 53.76865,
+    "total_positions": 87,
+    "event_ct": 85,
+    "win_count": 24,
+    "rank": 2005,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
