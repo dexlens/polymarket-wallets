@@ -1246,5 +1246,21 @@
     "win_count": 41,
     "rank": 3978,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x8d5c7253de0b6cd0790d80adf679532d6cc77d29",
+    "trader_name": "Fakemode",
+    "tag": "Overall",
+    "overall_gain": 28245.52625152133,
+    "active_positions": 78,
+    "win_amount": 96801.69311651571,
+    "loss_amount": -68556.16686499439,
+    "win_rate": 0.3111111111111111,
+    "total_current_value": 2500.4984757355,
+    "total_positions": 192,
+    "event_ct": 90,
+    "win_count": 28,
+    "rank": 3979,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
