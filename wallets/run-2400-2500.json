@@ -142,5 +142,21 @@
     "win_count": 1,
     "rank": 2409,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x05374492e37f036fb751d708fe487aeca60b5b0f",
+    "trader_name": "Frigg",
+    "tag": "Overall",
+    "overall_gain": 48961.1679506455,
+    "active_positions": 90,
+    "win_amount": 54996.81605406405,
+    "loss_amount": -6035.648103418562,
+    "win_rate": 0.7423076923076923,
+    "total_current_value": 350.31841041099995,
+    "total_positions": 1044,
+    "event_ct": 260,
+    "win_count": 193,
+    "rank": 2410,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
