@@ -1486,5 +1486,21 @@
     "win_count": 5,
     "rank": 31294,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5fdea984110138670aebb574c83a23b81ee6cbbe",
+    "trader_name": "rx78",
+    "tag": "Overall",
+    "overall_gain": 2670.7221356545538,
+    "active_positions": 294,
+    "win_amount": 12981.619317131577,
+    "loss_amount": -10310.89718147702,
+    "win_rate": 0.4796084828711256,
+    "total_current_value": 1370.3364110160005,
+    "total_positions": 1492,
+    "event_ct": 613,
+    "win_count": 294,
+    "rank": 31295,
+    "trader_tags": "1k+ Positions"
   }
 ]
