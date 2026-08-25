@@ -1198,5 +1198,21 @@
     "win_count": 16,
     "rank": 3275,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xde4f32b834a55eb00ddd1702331f211ff9584ba9",
+    "trader_name": "KingCrabLand",
+    "tag": "Overall",
+    "overall_gain": 35049.8137221881,
+    "active_positions": 16,
+    "win_amount": 40572.0835481881,
+    "loss_amount": -5522.269826,
+    "win_rate": 0.9032258064516129,
+    "total_current_value": 33.3019636445,
+    "total_positions": 92,
+    "event_ct": 31,
+    "win_count": 28,
+    "rank": 3276,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
