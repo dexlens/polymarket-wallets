@@ -750,5 +750,21 @@
     "win_count": 12,
     "rank": 50448,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x12313aa6965395261f8cb1d11e1fa9d95632796f",
+    "trader_name": "Unibalancer",
+    "tag": "Overall",
+    "overall_gain": 1464.5982,
+    "active_positions": 0,
+    "win_amount": 1492.848751,
+    "loss_amount": -28.250551,
+    "win_rate": 0.75,
+    "total_current_value": 0.0085,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 50449,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
