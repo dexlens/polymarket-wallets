@@ -1118,5 +1118,21 @@
     "win_count": 80,
     "rank": 1970,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x10e1ae1bb2a3a495ab471c36068ad54b900ec51f",
+    "trader_name": "Gjpeso",
+    "tag": "Overall",
+    "overall_gain": 61235.02287397821,
+    "active_positions": 0,
+    "win_amount": 72867.27472300001,
+    "loss_amount": -11632.2518490218,
+    "win_rate": 0.5,
+    "total_current_value": 0.00923,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 1971,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
