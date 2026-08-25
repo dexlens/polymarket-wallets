@@ -174,5 +174,21 @@
     "win_count": 4,
     "rank": 26112,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9d79fc426579cb7eb738a72fcc7e9930655b5e4c",
+    "trader_name": "urtjfgjhmv",
+    "tag": "Overall",
+    "overall_gain": 3350.722730174512,
+    "active_positions": 4,
+    "win_amount": 3540.632837859684,
+    "loss_amount": -189.91010768517197,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 176.871684,
+    "total_positions": 36,
+    "event_ct": 33,
+    "win_count": 27,
+    "rank": 26113,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
