@@ -670,5 +670,21 @@
     "win_count": 39,
     "rank": 3042,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x06dce511b649d7dd7b4230aa730614ba1a0ffd72",
+    "trader_name": "asdafa",
+    "tag": "Overall",
+    "overall_gain": 37711.04774125882,
+    "active_positions": 2,
+    "win_amount": 38131.21324296522,
+    "loss_amount": -420.16550170640005,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.00739,
+    "total_positions": 12,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 3043,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
