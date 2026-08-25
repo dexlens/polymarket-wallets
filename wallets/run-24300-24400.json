@@ -1230,5 +1230,21 @@
     "win_count": 3,
     "rank": 24378,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x26d627d58e3d7af02ff68520c334d99bc57e78ad",
+    "trader_name": "RadiantRdhapsod",
+    "tag": "Overall",
+    "overall_gain": 3649.5,
+    "active_positions": 1,
+    "win_amount": 4261.5,
+    "loss_amount": -612,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 24379,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
