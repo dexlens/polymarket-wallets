@@ -1470,5 +1470,21 @@
     "win_count": 3,
     "rank": 75593,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9bb64391de24181d127d86acc66dbfc20f0f5154",
+    "trader_name": "snqlcn",
+    "tag": "Overall",
+    "overall_gain": 705.8396047698909,
+    "active_positions": 238,
+    "win_amount": 4506.82329203127,
+    "loss_amount": -3800.98368726138,
+    "win_rate": 0.4567307692307692,
+    "total_current_value": 0.25390850000000004,
+    "total_positions": 674,
+    "event_ct": 624,
+    "win_count": 285,
+    "rank": 75594,
+    "trader_tags": "> 1 year old"
   }
 ]
