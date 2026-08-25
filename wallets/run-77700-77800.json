@@ -1214,5 +1214,21 @@
     "win_count": 9,
     "rank": 77777,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f1b82280a30ab0b804a6375af7cc1a67f11d1ec",
+    "trader_name": "sacramento",
+    "tag": "Overall",
+    "overall_gain": 667.761956837417,
+    "active_positions": 7,
+    "win_amount": 1006.872206846338,
+    "loss_amount": -339.11025000892107,
+    "win_rate": 0.7666666666666667,
+    "total_current_value": 0.006813,
+    "total_positions": 98,
+    "event_ct": 60,
+    "win_count": 46,
+    "rank": 77778,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
