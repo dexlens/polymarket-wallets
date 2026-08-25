@@ -814,5 +814,21 @@
     "win_count": 6,
     "rank": 9151,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x875adac707f7909bb410f47ce34f65cefe1af34d",
+    "trader_name": "DZaRU41h",
+    "tag": "Overall",
+    "overall_gain": 11453,
+    "active_positions": 7,
+    "win_amount": 20664,
+    "loss_amount": -9211,
+    "win_rate": 0.6111111111111112,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 11,
+    "rank": 9152,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
