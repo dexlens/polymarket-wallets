@@ -478,5 +478,21 @@
     "win_count": 9,
     "rank": 42631,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x009a692ea2d5a94be2cb175841d8db2fa6982b8e",
+    "trader_name": "kielbasa",
+    "tag": "Overall",
+    "overall_gain": 1840.885496391228,
+    "active_positions": 12,
+    "win_amount": 2321.314540304386,
+    "loss_amount": -480.42904391315795,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 1642.0153004425,
+    "total_positions": 60,
+    "event_ct": 42,
+    "win_count": 12,
+    "rank": 42632,
+    "trader_tags": ""
   }
 ]
