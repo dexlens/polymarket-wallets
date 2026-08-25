@@ -302,5 +302,21 @@
     "win_count": 5,
     "rank": 5319,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8c1b9c4412cdf596d97d36632ff9b6e8ac960c85",
+    "trader_name": "Novera",
+    "tag": "Overall",
+    "overall_gain": 20385.434961680083,
+    "active_positions": 4,
+    "win_amount": 20969.644961680086,
+    "loss_amount": -584.21,
+    "win_rate": 0.9,
+    "total_current_value": 7.00008,
+    "total_positions": 31,
+    "event_ct": 30,
+    "win_count": 27,
+    "rank": 5320,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
