@@ -1054,5 +1054,21 @@
     "win_count": 3,
     "rank": 24567,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d3ef633fd0fc793da691570b83fe5d11c2e8204",
+    "trader_name": "coinsavedmylife",
+    "tag": "Overall",
+    "overall_gain": 3615.9359010138996,
+    "active_positions": 2,
+    "win_amount": 5090.62900335,
+    "loss_amount": -1474.6931023361,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.001495,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 24568,
+    "trader_tags": "< 30 days old"
   }
 ]
