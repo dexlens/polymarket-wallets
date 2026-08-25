@@ -462,5 +462,21 @@
     "win_count": 2,
     "rank": 68030,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1588b5b8dba505dfb8bb01339fb60caaa02ec68a",
+    "trader_name": "MarS168",
+    "tag": "Overall",
+    "overall_gain": 859.629554,
+    "active_positions": 2,
+    "win_amount": 935.009814,
+    "loss_amount": -75.38026,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 68031,
+    "trader_tags": ""
   }
 ]
