@@ -974,5 +974,21 @@
     "win_count": 13,
     "rank": 79062,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8d029f9c7761c0450b1c1df3feadfbf93cc13b06",
+    "trader_name": "laopi9",
+    "tag": "Overall",
+    "overall_gain": 646.1624000677331,
+    "active_positions": 3,
+    "win_amount": 652.531746489733,
+    "loss_amount": -6.369346422,
+    "win_rate": 0.6875,
+    "total_current_value": 59.996712136,
+    "total_positions": 40,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 79063,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
