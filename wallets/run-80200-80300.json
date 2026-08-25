@@ -1102,5 +1102,21 @@
     "win_count": 189,
     "rank": 80270,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e5da5cc844deeab44d5ba89cf8fe601127c3d25",
+    "trader_name": "Zhii",
+    "tag": "Overall",
+    "overall_gain": 626.263856306669,
+    "active_positions": 14,
+    "win_amount": 685.3376408404681,
+    "loss_amount": -59.073784533799,
+    "win_rate": 0.5897435897435898,
+    "total_current_value": 22.3581137435,
+    "total_positions": 54,
+    "event_ct": 39,
+    "win_count": 23,
+    "rank": 80271,
+    "trader_tags": ""
   }
 ]
