@@ -590,5 +590,21 @@
     "win_count": 2,
     "rank": 5937,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xab59f72d09bb25c9a37627ebb04ccc1577eeea9a",
+    "trader_name": "Li-ming",
+    "tag": "Overall",
+    "overall_gain": 18066.001088495505,
+    "active_positions": 6,
+    "win_amount": 22205.074369204733,
+    "loss_amount": -4139.073280709227,
+    "win_rate": 0.6416666666666667,
+    "total_current_value": 341.13484650000004,
+    "total_positions": 241,
+    "event_ct": 120,
+    "win_count": 77,
+    "rank": 5938,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
