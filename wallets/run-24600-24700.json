@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 24676,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xba719bc61412d2a2fe663920770b1c0642481fb0",
+    "trader_name": "burnley",
+    "tag": "Overall",
+    "overall_gain": 3598.8988987499997,
+    "active_positions": 1,
+    "win_amount": 5119.732487,
+    "loss_amount": -1520.83358825,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.007825,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 5,
+    "rank": 24677,
+    "trader_tags": ""
   }
 ]
