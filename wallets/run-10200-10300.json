@@ -350,5 +350,21 @@
     "win_count": 61,
     "rank": 10222,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0f2f4784a0a1278ca39bc9b9985b48f901410bae",
+    "trader_name": "alexwong",
+    "tag": "Overall",
+    "overall_gain": 10284.866465876032,
+    "active_positions": 95,
+    "win_amount": 10979.971556133307,
+    "loss_amount": -695.105090257272,
+    "win_rate": 0.36231884057971014,
+    "total_current_value": 0.014228000000000001,
+    "total_positions": 145,
+    "event_ct": 138,
+    "win_count": 50,
+    "rank": 10223,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
