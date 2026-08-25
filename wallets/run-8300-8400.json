@@ -686,5 +686,21 @@
     "win_count": 13,
     "rank": 8343,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6372e5c4a4717367b5adf70e7b97ca2362a1dbeb",
+    "trader_name": "jwekdbeqni",
+    "tag": "Overall",
+    "overall_gain": 12576.364233351993,
+    "active_positions": 9,
+    "win_amount": 13782.546152229357,
+    "loss_amount": -1206.181918877368,
+    "win_rate": 0.5588235294117647,
+    "total_current_value": 0.07583100000000001,
+    "total_positions": 55,
+    "event_ct": 34,
+    "win_count": 19,
+    "rank": 8344,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
