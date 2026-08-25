@@ -1086,5 +1086,21 @@
     "win_count": 14,
     "rank": 51169,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x407031585338899d19ac95c5eb0328517e189a8b",
+    "trader_name": "unlockiest",
+    "tag": "Overall",
+    "overall_gain": 1430.564547371866,
+    "active_positions": 0,
+    "win_amount": 1430.564547371866,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009552999999999999,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 51170,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
