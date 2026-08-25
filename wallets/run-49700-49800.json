@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 49799,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb14b64fa88298ce520f78596ac1bdaeaa20644bd",
+    "trader_name": "bin1377",
+    "tag": "Overall",
+    "overall_gain": 1492.2452783199994,
+    "active_positions": 10,
+    "win_amount": 6523.541101999999,
+    "loss_amount": -5031.29582368,
+    "win_rate": 0.9322033898305084,
+    "total_current_value": 0,
+    "total_positions": 237,
+    "event_ct": 236,
+    "win_count": 220,
+    "rank": 49800,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
