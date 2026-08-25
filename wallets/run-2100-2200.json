@@ -478,5 +478,21 @@
     "win_count": 20,
     "rank": 2130,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e131d6c61216b4a5ec571db332ad3226e7fa801",
+    "trader_name": "Luffy3",
+    "tag": "Overall",
+    "overall_gain": 56689.76453274768,
+    "active_positions": 3,
+    "win_amount": 57294.41508858767,
+    "loss_amount": -604.6505558399999,
+    "win_rate": 0.8,
+    "total_current_value": 8663.9583518,
+    "total_positions": 14,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 2131,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
