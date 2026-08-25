@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 35088,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x796e98a496f14fc145bd9c83759a7c0c464ac99e",
+    "trader_name": "bob.the.builder",
+    "tag": "Overall",
+    "overall_gain": 2334.064614563165,
+    "active_positions": 2,
+    "win_amount": 2957.720839,
+    "loss_amount": -623.6562244368351,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 35089,
+    "trader_tags": "> 1 year old"
   }
 ]
