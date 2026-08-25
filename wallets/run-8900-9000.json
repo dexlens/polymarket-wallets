@@ -302,5 +302,21 @@
     "win_count": 160,
     "rank": 8919,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2da4fd3a1031dd11accce7637070ac36a4c4ebb3",
+    "trader_name": "Fanqie",
+    "tag": "Overall",
+    "overall_gain": 11745.979052362527,
+    "active_positions": 0,
+    "win_amount": 18579.419164362527,
+    "loss_amount": -6833.440112,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.002944,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 8920,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
