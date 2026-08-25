@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 35500,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe9faf1c9881cd0047f59429381fae610b0a1315f",
+    "trader_name": "Perpetuum-Mobile",
+    "tag": "Overall",
+    "overall_gain": 2301.3362114862553,
+    "active_positions": 5,
+    "win_amount": 2809.7807633262546,
+    "loss_amount": -508.44455184000003,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 1360.4922900000001,
+    "total_positions": 52,
+    "event_ct": 22,
+    "win_count": 12,
+    "rank": 35501,
+    "trader_tags": ""
   }
 ]
