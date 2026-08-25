@@ -686,5 +686,21 @@
     "win_count": 10,
     "rank": 52644,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4b20f181ed09f97676be6481bbee23e9245575d3",
+    "trader_name": "twanvb",
+    "tag": "Overall",
+    "overall_gain": 1362.580695514439,
+    "active_positions": 6,
+    "win_amount": 3560.2435604844427,
+    "loss_amount": -2197.6628649700037,
+    "win_rate": 0.7407407407407407,
+    "total_current_value": 0.11505500000000002,
+    "total_positions": 75,
+    "event_ct": 27,
+    "win_count": 20,
+    "rank": 52645,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
