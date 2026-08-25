@@ -942,5 +942,21 @@
     "win_count": 580,
     "rank": 2159,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xfed8ff0b541ce9a66d632aedebe81bdd1b2c4388",
+    "trader_name": "JudgeLance",
+    "tag": "Overall",
+    "overall_gain": 55886.75312619897,
+    "active_positions": 3,
+    "win_amount": 58002.33294283247,
+    "loss_amount": -2115.5798166335,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 189540.059917456,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 2160,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
