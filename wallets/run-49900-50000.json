@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 49952,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x425fd3a47350122a70532365ffc51ef0e396d78d",
+    "trader_name": "Frostcinder",
+    "tag": "Overall",
+    "overall_gain": 1486.5,
+    "active_positions": 1,
+    "win_amount": 2087,
+    "loss_amount": -600.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 49953,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
