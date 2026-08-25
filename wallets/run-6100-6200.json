@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 6129,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3499642d704e7c634e032c1889f8a8f615cb4f27",
+    "trader_name": "Ulvenor",
+    "tag": "Overall",
+    "overall_gain": 17481.758692968688,
+    "active_positions": 4,
+    "win_amount": 20964.42869296869,
+    "loss_amount": -3482.67,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 6.1986870000000005,
+    "total_positions": 43,
+    "event_ct": 42,
+    "win_count": 36,
+    "rank": 6130,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
