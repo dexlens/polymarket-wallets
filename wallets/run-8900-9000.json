@@ -1550,5 +1550,21 @@
     "win_count": 3,
     "rank": 8997,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x980ac1f854ee783b77c1490c95ea52b3be4b66bd",
+    "trader_name": "qwdfwsdv",
+    "tag": "Overall",
+    "overall_gain": 11653.543506290545,
+    "active_positions": 6,
+    "win_amount": 13900.135,
+    "loss_amount": -2246.591493709455,
+    "win_rate": 0.6,
+    "total_current_value": 4.40843524,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 8998,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
