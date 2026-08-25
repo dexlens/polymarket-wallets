@@ -1358,5 +1358,21 @@
     "win_count": 135,
     "rank": 3685,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5e73afb20c2b27caccdaad9e49b97fd336576697",
+    "trader_name": "Newshound",
+    "tag": "Overall",
+    "overall_gain": 30912.446459644005,
+    "active_positions": 417,
+    "win_amount": 82648.25885747175,
+    "loss_amount": -51735.81239782775,
+    "win_rate": 0.5901639344262295,
+    "total_current_value": 31184.280758116493,
+    "total_positions": 1459,
+    "event_ct": 915,
+    "win_count": 540,
+    "rank": 3686,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
