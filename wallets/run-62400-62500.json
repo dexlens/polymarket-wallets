@@ -702,5 +702,21 @@
     "win_count": 25,
     "rank": 62445,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbbd2939540a31a675c7b2e68a8ca61ec9e402bf1",
+    "trader_name": "BetKingTallinn",
+    "tag": "Overall",
+    "overall_gain": 1010.8771151766601,
+    "active_positions": 13,
+    "win_amount": 2696.0588053422575,
+    "loss_amount": -1685.1816901655975,
+    "win_rate": 0.9378531073446328,
+    "total_current_value": 0.27681900000000004,
+    "total_positions": 377,
+    "event_ct": 354,
+    "win_count": 332,
+    "rank": 62446,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
