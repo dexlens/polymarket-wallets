@@ -430,5 +430,21 @@
     "win_count": 15,
     "rank": 56128,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3cb14b888cdea3d77e3057e680b7e0eef8728d41",
+    "trader_name": "zexal01",
+    "tag": "Overall",
+    "overall_gain": 1212.708703528314,
+    "active_positions": 442,
+    "win_amount": 25135.795233099794,
+    "loss_amount": -23923.08652957148,
+    "win_rate": 0.7909407665505227,
+    "total_current_value": 1180.3681990000005,
+    "total_positions": 884,
+    "event_ct": 861,
+    "win_count": 681,
+    "rank": 56129,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
