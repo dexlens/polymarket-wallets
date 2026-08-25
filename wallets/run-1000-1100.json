@@ -286,5 +286,21 @@
     "win_count": 9,
     "rank": 1018,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x5fc814d89c2aa979bd987add20d6eb39eb0439ef",
+    "trader_name": "Breezy-Entrance",
+    "tag": "Overall",
+    "overall_gain": 119673.22758036392,
+    "active_positions": 42,
+    "win_amount": 762236.6811538177,
+    "loss_amount": -642563.4535734539,
+    "win_rate": 0.723384030418251,
+    "total_current_value": 37802.30327042599,
+    "total_positions": 1976,
+    "event_ct": 1052,
+    "win_count": 761,
+    "rank": 1019,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
