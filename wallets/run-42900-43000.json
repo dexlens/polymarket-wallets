@@ -718,5 +718,21 @@
     "win_count": 1,
     "rank": 42946,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74cd38bf7d6345e649a66a57ebef470357dee38f",
+    "trader_name": "hereforbonds",
+    "tag": "Overall",
+    "overall_gain": 1822.250942549796,
+    "active_positions": 0,
+    "win_amount": 1822.250942549796,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00607347,
+    "total_positions": 26,
+    "event_ct": 24,
+    "win_count": 24,
+    "rank": 42947,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
