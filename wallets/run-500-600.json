@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 597,
     "trader_tags": "Overall PnL > $100k; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x88f46b9e5d86b4fb85be55ab0ec4004264b9d4db",
+    "trader_name": "PBot1",
+    "tag": "Overall",
+    "overall_gain": 216320.6177060182,
+    "active_positions": 3981,
+    "win_amount": 2363799.424022154,
+    "loss_amount": -2147478.8063161373,
+    "win_rate": 0.5101021481147664,
+    "total_current_value": 791.5072032640002,
+    "total_positions": 37150,
+    "event_ct": 26628,
+    "win_count": 13583,
+    "rank": 598,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
