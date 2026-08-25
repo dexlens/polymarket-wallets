@@ -1070,5 +1070,21 @@
     "win_count": 5,
     "rank": 70168,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc29b626a2e9eaac16812405599c27bac035b8ba3",
+    "trader_name": "VASAW",
+    "tag": "Overall",
+    "overall_gain": 806.7252418228479,
+    "active_positions": 0,
+    "win_amount": 806.7252418228479,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000576,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 70169,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
