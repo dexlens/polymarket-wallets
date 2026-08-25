@@ -1134,5 +1134,21 @@
     "win_count": 8639,
     "rank": 9071,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x0b7d49143278f0837c4ccd71d497a73d247521b1",
+    "trader_name": "lmts",
+    "tag": "Overall",
+    "overall_gain": 11559.497135000001,
+    "active_positions": 0,
+    "win_amount": 11622.614585,
+    "loss_amount": -63.11744999999999,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 26,
+    "win_count": 22,
+    "rank": 9072,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
