@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 6816,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9b853977cd5fd900573022deae4c9d5d82e1cd3a",
+    "trader_name": "yieldfarmer",
+    "tag": "Overall",
+    "overall_gain": 15744.542852107523,
+    "active_positions": 18,
+    "win_amount": 26031.109849973553,
+    "loss_amount": -10286.566997866024,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 17569.978563032,
+    "total_positions": 41,
+    "event_ct": 31,
+    "win_count": 21,
+    "rank": 6817,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
