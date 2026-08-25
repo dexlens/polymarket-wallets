@@ -478,5 +478,21 @@
     "win_count": 90,
     "rank": 3430,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49c3b6d40e3c08dbbcf3bd58cc4a802bd380fb55",
+    "trader_name": "Gulrix",
+    "tag": "Overall",
+    "overall_gain": 33246.76562153431,
+    "active_positions": 1,
+    "win_amount": 34365.32321653431,
+    "loss_amount": -1118.557595,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.004313842000000001,
+    "total_positions": 42,
+    "event_ct": 42,
+    "win_count": 35,
+    "rank": 3431,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
