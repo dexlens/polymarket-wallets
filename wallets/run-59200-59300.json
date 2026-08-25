@@ -382,5 +382,21 @@
     "win_count": 41,
     "rank": 59225,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d38372449b17d8a09c9c0752289933265ddb49c",
+    "trader_name": "G4m",
+    "tag": "Overall",
+    "overall_gain": 1101.0681601599065,
+    "active_positions": 16,
+    "win_amount": 2493.3255681193255,
+    "loss_amount": -1392.257407959419,
+    "win_rate": 0.2777777777777778,
+    "total_current_value": 0.019326000000000003,
+    "total_positions": 25,
+    "event_ct": 18,
+    "win_count": 5,
+    "rank": 59226,
+    "trader_tags": ""
   }
 ]
