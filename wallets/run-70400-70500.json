@@ -782,5 +782,21 @@
     "win_count": 19,
     "rank": 70450,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x05a1fe057d693ab20e1e0569b741435883b289f9",
+    "trader_name": "shadowboxer",
+    "tag": "Overall",
+    "overall_gain": 800.382423686021,
+    "active_positions": 27,
+    "win_amount": 3142.159106189425,
+    "loss_amount": -2341.7766825034037,
+    "win_rate": 0.48484848484848486,
+    "total_current_value": 1213.9688717785002,
+    "total_positions": 149,
+    "event_ct": 99,
+    "win_count": 48,
+    "rank": 70451,
+    "trader_tags": ""
   }
 ]
