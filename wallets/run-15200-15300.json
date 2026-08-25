@@ -942,5 +942,21 @@
     "win_count": 19,
     "rank": 15259,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2b62353ac4d960105acef2a265928ffcdb77438c",
+    "trader_name": "TheOne777",
+    "tag": "Overall",
+    "overall_gain": 6357.355493914207,
+    "active_positions": 262,
+    "win_amount": 7504.202074670687,
+    "loss_amount": -1146.8465807564767,
+    "win_rate": 0.7987421383647799,
+    "total_current_value": 9253.071539205002,
+    "total_positions": 569,
+    "event_ct": 318,
+    "win_count": 254,
+    "rank": 15260,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
