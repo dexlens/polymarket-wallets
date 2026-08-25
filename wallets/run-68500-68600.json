@@ -1358,5 +1358,21 @@
     "win_count": 232,
     "rank": 68586,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6c95f54cfcb0f1bb586cdcde01c9411e4fc4315c",
+    "trader_name": "lessgow",
+    "tag": "Overall",
+    "overall_gain": 845.8771909793788,
+    "active_positions": 22,
+    "win_amount": 1205.33108368,
+    "loss_amount": -359.453892700621,
+    "win_rate": 0.6865671641791045,
+    "total_current_value": 0.011114,
+    "total_positions": 111,
+    "event_ct": 67,
+    "win_count": 46,
+    "rank": 68587,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
