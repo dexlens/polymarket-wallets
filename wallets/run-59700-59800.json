@@ -926,5 +926,21 @@
     "win_count": 5,
     "rank": 59759,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcb7b212f2836a13ccfa07b47accc158324dd5a7c",
+    "trader_name": "CautiousTrader",
+    "tag": "Overall",
+    "overall_gain": 1083.8427630078638,
+    "active_positions": 1,
+    "win_amount": 2142.134950869206,
+    "loss_amount": -1058.292187861342,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.015472,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 59760,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
