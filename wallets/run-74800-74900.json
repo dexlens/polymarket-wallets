@@ -1278,5 +1278,21 @@
     "win_count": 5,
     "rank": 74881,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c166c2e35e68a4f8d8238ea0048ea775ae46bd1",
+    "trader_name": "Arminking",
+    "tag": "Overall",
+    "overall_gain": 714.958978800611,
+    "active_positions": 0,
+    "win_amount": 6802.637955930346,
+    "loss_amount": -6087.678977129735,
+    "win_rate": 0.7528089887640449,
+    "total_current_value": 0.313897,
+    "total_positions": 106,
+    "event_ct": 89,
+    "win_count": 67,
+    "rank": 74882,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
