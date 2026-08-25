@@ -942,5 +942,21 @@
     "win_count": 3,
     "rank": 9959,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x8024caabaafad9f3d998f642617c43429bf21368",
+    "trader_name": "BettingFox",
+    "tag": "Overall",
+    "overall_gain": 10529.08514541999,
+    "active_positions": 1,
+    "win_amount": 14224.623874999039,
+    "loss_amount": -3695.5387295790506,
+    "win_rate": 0.5,
+    "total_current_value": 0.092819,
+    "total_positions": 38,
+    "event_ct": 18,
+    "win_count": 9,
+    "rank": 9960,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
