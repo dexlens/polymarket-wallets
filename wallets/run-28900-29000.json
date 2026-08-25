@@ -1438,5 +1438,21 @@
     "win_count": 12,
     "rank": 28991,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x321c9acd41ad2c956f63f2d5129f7d1510f9f00e",
+    "trader_name": "laixiannv",
+    "tag": "Overall",
+    "overall_gain": 2948.56638433432,
+    "active_positions": 1345,
+    "win_amount": 36126.28657456,
+    "loss_amount": -33177.72019022568,
+    "win_rate": 0.5335355578024941,
+    "total_current_value": 77.52946600000001,
+    "total_positions": 2967,
+    "event_ct": 2967,
+    "win_count": 1583,
+    "rank": 28992,
+    "trader_tags": "1k+ Positions"
   }
 ]
