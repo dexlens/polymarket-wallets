@@ -382,5 +382,21 @@
     "win_count": 29,
     "rank": 50925,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x221fb9269f60a94a81668159968737ff97aafca7",
+    "trader_name": "mstrmnd",
+    "tag": "Overall",
+    "overall_gain": 1442.970521744357,
+    "active_positions": 13,
+    "win_amount": 12115.666890141938,
+    "loss_amount": -10672.696368397581,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.07164700000000002,
+    "total_positions": 122,
+    "event_ct": 36,
+    "win_count": 20,
+    "rank": 50926,
+    "trader_tags": ""
   }
 ]
