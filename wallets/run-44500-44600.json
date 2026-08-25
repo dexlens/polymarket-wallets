@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 44520,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7f6de76ede795aa75f9757ddbed8e41e4930a28",
+    "trader_name": "pasketii",
+    "tag": "Overall",
+    "overall_gain": 1736.2823418283688,
+    "active_positions": 22,
+    "win_amount": 2818.044608886361,
+    "loss_amount": -1081.762267057992,
+    "win_rate": 0.5871559633027523,
+    "total_current_value": 89.604363627,
+    "total_positions": 140,
+    "event_ct": 109,
+    "win_count": 64,
+    "rank": 44521,
+    "trader_tags": "< 30 days old"
   }
 ]
