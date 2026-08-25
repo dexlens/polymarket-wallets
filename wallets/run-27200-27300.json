@@ -510,5 +510,21 @@
     "win_count": 29,
     "rank": 27233,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x50929d7126b6eb7c9b55f4ac72714a0fb0d27395",
+    "trader_name": "Ladnd11",
+    "tag": "Overall",
+    "overall_gain": 3172.5,
+    "active_positions": 2,
+    "win_amount": 3766,
+    "loss_amount": -593.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 27234,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
