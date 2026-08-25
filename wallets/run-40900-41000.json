@@ -446,5 +446,21 @@
     "win_count": 108,
     "rank": 40929,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc96bee8a6ecce517cfb6b02890b8e935f7e85fe5",
+    "trader_name": "mru33",
+    "tag": "Overall",
+    "overall_gain": 1938.3623601761408,
+    "active_positions": 1,
+    "win_amount": 1941.5523601761408,
+    "loss_amount": -3.19,
+    "win_rate": 0.8,
+    "total_current_value": 2945.803379118,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 40930,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
