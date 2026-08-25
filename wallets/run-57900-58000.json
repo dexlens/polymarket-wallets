@@ -222,5 +222,21 @@
     "win_count": 52,
     "rank": 57915,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x19f3c1940a93753bc21ef1d7befa4449ba9696c9",
+    "trader_name": "strategy225",
+    "tag": "Overall",
+    "overall_gain": 1145.7913712180411,
+    "active_positions": 111,
+    "win_amount": 12666.62787248866,
+    "loss_amount": -11520.83650127062,
+    "win_rate": 0.5,
+    "total_current_value": 11604.128262703502,
+    "total_positions": 461,
+    "event_ct": 58,
+    "win_count": 29,
+    "rank": 57916,
+    "trader_tags": ""
   }
 ]
