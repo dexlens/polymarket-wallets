@@ -1534,5 +1534,21 @@
     "win_count": 5,
     "rank": 80997,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf4b161318ffc4abd35abd1721bbd2dad77b28ece",
+    "trader_name": "blacktimbs",
+    "tag": "Overall",
+    "overall_gain": 614.230876811376,
+    "active_positions": 3,
+    "win_amount": 711.913871128152,
+    "loss_amount": -97.682994316776,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 808.293396306,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 80998,
+    "trader_tags": "< 30 days old"
   }
 ]
