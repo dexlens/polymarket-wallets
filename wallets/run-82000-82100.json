@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 82062,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38f3106660512a47f0313219d04bf189e90393ca",
+    "trader_name": "re1n",
+    "tag": "Overall",
+    "overall_gain": 597.3683409999999,
+    "active_positions": 2,
+    "win_amount": 2513.9319889999997,
+    "loss_amount": -1916.5636479999998,
+    "win_rate": 0.42105263157894735,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 8,
+    "rank": 82063,
+    "trader_tags": ""
   }
 ]
