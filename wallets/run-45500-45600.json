@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 45524,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24abb09452cf26d4a05af70094668c4e5cf1a84d",
+    "trader_name": "KingGD2",
+    "tag": "Overall",
+    "overall_gain": 1689.6746178960486,
+    "active_positions": 5,
+    "win_amount": 4188.59141632,
+    "loss_amount": -2498.916798423951,
+    "win_rate": 0.5,
+    "total_current_value": 0.003799,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 45525,
+    "trader_tags": "> 1 year old"
   }
 ]
