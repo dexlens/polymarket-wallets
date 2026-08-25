@@ -766,5 +766,21 @@
     "win_count": 791,
     "rank": 4748,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x9cb98fc57fe8a3bdf75c3b48bd419e5d262f7b80",
+    "trader_name": "Giorgio2",
+    "tag": "Overall",
+    "overall_gain": 22921.360317059272,
+    "active_positions": 77,
+    "win_amount": 27245.33198569086,
+    "loss_amount": -4323.971668631589,
+    "win_rate": 0.7910447761194029,
+    "total_current_value": 10972.0508501225,
+    "total_positions": 874,
+    "event_ct": 469,
+    "win_count": 371,
+    "rank": 4749,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
