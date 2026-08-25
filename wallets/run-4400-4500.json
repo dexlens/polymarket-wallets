@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 4472,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7f6c68150912be2e97e61f6ef70dfb9c260eb40c",
+    "trader_name": "smunk",
+    "tag": "Overall",
+    "overall_gain": 24727.244560803614,
+    "active_positions": 17,
+    "win_amount": 41064.369298000005,
+    "loss_amount": -16337.124737196384,
+    "win_rate": 0.5161290322580645,
+    "total_current_value": 9589.595,
+    "total_positions": 34,
+    "event_ct": 31,
+    "win_count": 16,
+    "rank": 4473,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
