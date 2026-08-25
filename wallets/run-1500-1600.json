@@ -814,5 +814,21 @@
     "win_count": 98,
     "rank": 1551,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x86a29f88fcc23ea2b0e01b4e186b043e26c873a8",
+    "trader_name": "justinbeaver",
+    "tag": "Overall",
+    "overall_gain": 78165.79183844438,
+    "active_positions": 594,
+    "win_amount": 350918.28393409884,
+    "loss_amount": -272752.49209565454,
+    "win_rate": 0.519281045751634,
+    "total_current_value": 4.999488999999999,
+    "total_positions": 35722,
+    "event_ct": 18360,
+    "win_count": 9534,
+    "rank": 1552,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
