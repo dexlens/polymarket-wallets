@@ -686,5 +686,21 @@
     "win_count": 88,
     "rank": 63944,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x004517f17b49f9bb96008fbf9c9aa35281665f91",
+    "trader_name": "MENGWIN",
+    "tag": "Overall",
+    "overall_gain": 975.507070529472,
+    "active_positions": 0,
+    "win_amount": 975.507070529472,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006032,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 63945,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
