@@ -158,5 +158,21 @@
     "win_count": 2,
     "rank": 2610,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x801ed774db6a5981945a825074a6b91788f6ad90",
+    "trader_name": "Darwinsfish",
+    "tag": "Overall",
+    "overall_gain": 44567.27124273735,
+    "active_positions": 105,
+    "win_amount": 921965.4712995938,
+    "loss_amount": -877398.2000568565,
+    "win_rate": 0.5434782608695652,
+    "total_current_value": 21512.222002000002,
+    "total_positions": 216,
+    "event_ct": 184,
+    "win_count": 100,
+    "rank": 2611,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
