@@ -830,5 +830,21 @@
     "win_count": 2,
     "rank": 83353,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2a2bb118af46bd8f0e10b72bf762ffceb24427e6",
+    "trader_name": "mushess2",
+    "tag": "Overall",
+    "overall_gain": 576.637140988596,
+    "active_positions": 3,
+    "win_amount": 577.9675359885961,
+    "loss_amount": -1.3303949999999989,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 40.896241,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 83354,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
