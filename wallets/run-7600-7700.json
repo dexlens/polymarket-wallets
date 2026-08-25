@@ -846,5 +846,21 @@
     "win_count": 85,
     "rank": 7653,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a055c47ef41ced7a39e8239cd2f8f4c7221d282",
+    "trader_name": "Yub88888",
+    "tag": "Overall",
+    "overall_gain": 13818.786171528101,
+    "active_positions": 206,
+    "win_amount": 138158.71575352867,
+    "loss_amount": -124339.92958200048,
+    "win_rate": 0.5404040404040404,
+    "total_current_value": 479.85046400000004,
+    "total_positions": 8513,
+    "event_ct": 4356,
+    "win_count": 2354,
+    "rank": 7654,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
