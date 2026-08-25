@@ -846,5 +846,21 @@
     "win_count": 19,
     "rank": 8653,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6586fb56a335aeb953b09b299eb181de3ffd497c",
+    "trader_name": "yzhaobk-nrt",
+    "tag": "Overall",
+    "overall_gain": 12104.81838388333,
+    "active_positions": 8863,
+    "win_amount": 14026.572135222867,
+    "loss_amount": -1921.7537513395346,
+    "win_rate": 0.8041504539559015,
+    "total_current_value": 11357.182870376499,
+    "total_positions": 16386,
+    "event_ct": 771,
+    "win_count": 620,
+    "rank": 8654,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
