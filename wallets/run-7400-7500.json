@@ -718,5 +718,21 @@
     "win_count": 59,
     "rank": 7445,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5b1a2c18e2531e2cec5de137b02c5733b7db75b1",
+    "trader_name": "georgette",
+    "tag": "Overall",
+    "overall_gain": 14255.331192,
+    "active_positions": 0,
+    "win_amount": 14292.171425999999,
+    "loss_amount": -36.840234,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 18,
+    "win_count": 10,
+    "rank": 7446,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
