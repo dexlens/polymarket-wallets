@@ -830,5 +830,21 @@
     "win_count": 1,
     "rank": 46553,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x620bab0ed62c1ffa54cb3aeb6c6f267d35d5cbfb",
+    "trader_name": "Nseal1",
+    "tag": "Overall",
+    "overall_gain": 1638.5,
+    "active_positions": 2,
+    "win_amount": 2450,
+    "loss_amount": -811.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 46554,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
