@@ -990,5 +990,21 @@
     "win_count": 18,
     "rank": 6062,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c063bf5a71a1235780ada0c61d2fc65266a078a",
+    "trader_name": "geopolitical-expert",
+    "tag": "Overall",
+    "overall_gain": 17694.861144264385,
+    "active_positions": 56,
+    "win_amount": 18253.068889775415,
+    "loss_amount": -558.2077455110257,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 12108.594174644999,
+    "total_positions": 83,
+    "event_ct": 36,
+    "win_count": 28,
+    "rank": 6063,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
