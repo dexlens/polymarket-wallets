@@ -1086,5 +1086,21 @@
     "win_count": 2,
     "rank": 65969,
     "trader_tags": "Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xfc8ae9fd7cc79a73be6e3b85e17a946bc7b0135c",
+    "trader_name": "lkmi",
+    "tag": "Overall",
+    "overall_gain": 916.9503626962642,
+    "active_positions": 5,
+    "win_amount": 1788.97858163956,
+    "loss_amount": -872.0282189432961,
+    "win_rate": 0.7450980392156863,
+    "total_current_value": 0.040088,
+    "total_positions": 75,
+    "event_ct": 51,
+    "win_count": 38,
+    "rank": 65970,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
