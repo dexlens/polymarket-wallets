@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 79871,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbb2ffbe17bfeda643015d013f259a594004c3c50",
+    "trader_name": "zardex",
+    "tag": "Overall",
+    "overall_gain": 632.9910923077331,
+    "active_positions": 58,
+    "win_amount": 2616.3362768085703,
+    "loss_amount": -1983.3451845008367,
+    "win_rate": 0.5573770491803278,
+    "total_current_value": 11.58751,
+    "total_positions": 183,
+    "event_ct": 183,
+    "win_count": 102,
+    "rank": 79872,
+    "trader_tags": "> 1 year old"
   }
 ]
