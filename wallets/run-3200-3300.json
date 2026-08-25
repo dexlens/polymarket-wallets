@@ -606,5 +606,21 @@
     "win_count": 16,
     "rank": 3238,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x181654cecfc637ee663803de9066fd108ae29dc8",
+    "trader_name": "YoutubeMusic",
+    "tag": "Overall",
+    "overall_gain": 35417.24477784901,
+    "active_positions": 3,
+    "win_amount": 39771.63993178376,
+    "loss_amount": -4354.395153934743,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 10.390808863999998,
+    "total_positions": 86,
+    "event_ct": 30,
+    "win_count": 28,
+    "rank": 3239,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
