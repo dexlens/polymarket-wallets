@@ -1502,5 +1502,21 @@
     "win_count": 2,
     "rank": 71095,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04fb8c082ba8ecee098f9a1a99608f0cc28ee909",
+    "trader_name": "pedlecon2",
+    "tag": "Overall",
+    "overall_gain": 786.5079139581761,
+    "active_positions": 10,
+    "win_amount": 5358.119001999999,
+    "loss_amount": -4571.611088041824,
+    "win_rate": 0.5091324200913242,
+    "total_current_value": 32.8821151,
+    "total_positions": 1755,
+    "event_ct": 1314,
+    "win_count": 669,
+    "rank": 71096,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
