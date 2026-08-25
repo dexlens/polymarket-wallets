@@ -430,5 +430,21 @@
     "win_count": 5,
     "rank": 28228,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x27ee15794e374913def81b30b6d4e19c32c73280",
+    "trader_name": "Jeroen.eth",
+    "tag": "Overall",
+    "overall_gain": 3035.5687932204987,
+    "active_positions": 0,
+    "win_amount": 3035.5687932204987,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006411,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 28229,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
