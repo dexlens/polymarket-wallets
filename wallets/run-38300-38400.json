@@ -670,5 +670,21 @@
     "win_count": 13,
     "rank": 38343,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2887fe8c94ea35e97dd3b066bda1b19e0d37dc69",
+    "trader_name": "besobadzaghua",
+    "tag": "Overall",
+    "overall_gain": 2096.402522107287,
+    "active_positions": 67,
+    "win_amount": 17737.77253498071,
+    "loss_amount": -15641.370012873424,
+    "win_rate": 0.4724099099099099,
+    "total_current_value": 696.0440046215001,
+    "total_positions": 1889,
+    "event_ct": 1776,
+    "win_count": 839,
+    "rank": 38344,
+    "trader_tags": "1k+ Positions"
   }
 ]
