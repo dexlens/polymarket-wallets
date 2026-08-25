@@ -94,5 +94,21 @@
     "win_count": 1,
     "rank": 41607,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x754f35be876ab62c55489e04117d7f74c5c9460d",
+    "trader_name": "Alembic",
+    "tag": "Overall",
+    "overall_gain": 1899.5,
+    "active_positions": 4,
+    "win_amount": 3264,
+    "loss_amount": -1364.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 41608,
+    "trader_tags": ""
   }
 ]
