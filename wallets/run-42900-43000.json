@@ -1486,5 +1486,21 @@
     "win_count": 16,
     "rank": 42994,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c2f71eb241d65b3806239501f1a501af2fe1a88",
+    "trader_name": "basedd",
+    "tag": "Overall",
+    "overall_gain": 1819.4353533841354,
+    "active_positions": 13,
+    "win_amount": 4830.134559051275,
+    "loss_amount": -3010.6992056671393,
+    "win_rate": 0.8,
+    "total_current_value": 61082.792676,
+    "total_positions": 144,
+    "event_ct": 70,
+    "win_count": 56,
+    "rank": 42995,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
