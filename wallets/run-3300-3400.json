@@ -174,5 +174,21 @@
     "win_count": 28,
     "rank": 3311,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xad2b18343919cf24b56b6f822360937ab322f091",
+    "trader_name": "b324u",
+    "tag": "Overall",
+    "overall_gain": 34555.40283978488,
+    "active_positions": 15,
+    "win_amount": 94603.63899658296,
+    "loss_amount": -60048.23615679807,
+    "win_rate": 0.391304347826087,
+    "total_current_value": 592.9120004745001,
+    "total_positions": 25,
+    "event_ct": 23,
+    "win_count": 9,
+    "rank": 3312,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
