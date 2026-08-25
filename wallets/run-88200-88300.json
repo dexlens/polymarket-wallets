@@ -1422,5 +1422,21 @@
     "win_count": 21,
     "rank": 88290,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd01358afcbb1de91bd134edbd90affcc054ec6d7",
+    "trader_name": "JaneStreetIsrael",
+    "tag": "Overall",
+    "overall_gain": 509.6228673968361,
+    "active_positions": 48,
+    "win_amount": 1294.9651855000004,
+    "loss_amount": -785.3423181031641,
+    "win_rate": 0.37398373983739835,
+    "total_current_value": 48.25,
+    "total_positions": 175,
+    "event_ct": 123,
+    "win_count": 46,
+    "rank": 88291,
+    "trader_tags": "< 30 days old"
   }
 ]
