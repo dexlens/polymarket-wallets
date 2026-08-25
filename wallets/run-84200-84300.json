@@ -1262,5 +1262,21 @@
     "win_count": 5,
     "rank": 84280,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd7985a7d47f6ffc8ebe4625888ff7923cff1b210",
+    "trader_name": "shopkeeper001",
+    "tag": "Overall",
+    "overall_gain": 562.3189880010001,
+    "active_positions": 10,
+    "win_amount": 1452.998899,
+    "loss_amount": -890.679910999,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 23,
+    "win_count": 13,
+    "rank": 84281,
+    "trader_tags": ""
   }
 ]
