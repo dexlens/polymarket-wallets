@@ -894,5 +894,21 @@
     "win_count": 17,
     "rank": 28857,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x24f2cbef4efe33fdeb4b262ad00a50fcaade7603",
+    "trader_name": "rhtstrj",
+    "tag": "Overall",
+    "overall_gain": 2966.6825769548,
+    "active_positions": 3,
+    "win_amount": 3047.962448,
+    "loss_amount": -81.2798710452,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 28858,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
