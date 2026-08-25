@@ -30,5 +30,21 @@
     "win_count": 13,
     "rank": 8802,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd66d7ed45d7962ad009e669cdaec9319e38fb6d",
+    "trader_name": "ghostbtc",
+    "tag": "Overall",
+    "overall_gain": 11904.007053995349,
+    "active_positions": 338,
+    "win_amount": 229499.92657970678,
+    "loss_amount": -217595.91952571145,
+    "win_rate": 0.29062957540263545,
+    "total_current_value": 15245.25426017,
+    "total_positions": 1582,
+    "event_ct": 1366,
+    "win_count": 397,
+    "rank": 8803,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
