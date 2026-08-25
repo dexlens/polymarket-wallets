@@ -382,5 +382,21 @@
     "win_count": 13,
     "rank": 13324,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x1a98bbb94446e07de021092af5214bb54759a3f4",
+    "trader_name": "guillermod",
+    "tag": "Overall",
+    "overall_gain": 7498.4,
+    "active_positions": 1,
+    "win_amount": 7555.9,
+    "loss_amount": -57.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 13325,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
