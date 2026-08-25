@@ -1566,5 +1566,21 @@
     "win_count": 331,
     "rank": 2898,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x668d85d791049bf0100e557a72c7ed4dc97297d2",
+    "trader_name": "BeN",
+    "tag": "Overall",
+    "overall_gain": 39668.52774959045,
+    "active_positions": 618,
+    "win_amount": 88561.70785435465,
+    "loss_amount": -48893.18010476418,
+    "win_rate": 0.6823069403714564,
+    "total_current_value": 49139.89886060949,
+    "total_positions": 2596,
+    "event_ct": 1023,
+    "win_count": 698,
+    "rank": 2899,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
