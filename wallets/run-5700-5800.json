@@ -702,5 +702,21 @@
     "win_count": 6,
     "rank": 5744,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ce85a4ca21de08355a1eaa2b23a98e5d3b17772",
+    "trader_name": "Flipbandit",
+    "tag": "Overall",
+    "overall_gain": 18735.13001453631,
+    "active_positions": 3,
+    "win_amount": 18971.13001453631,
+    "loss_amount": -236,
+    "win_rate": 0.96875,
+    "total_current_value": 37080.76202599351,
+    "total_positions": 34,
+    "event_ct": 32,
+    "win_count": 31,
+    "rank": 5745,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
