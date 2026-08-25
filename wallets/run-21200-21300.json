@@ -1470,5 +1470,21 @@
     "win_count": 2,
     "rank": 21292,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0d6a4c42efe6af0a81632dcfe0e8d1e76d1d4ada",
+    "trader_name": "kuuski",
+    "tag": "Overall",
+    "overall_gain": 4285.704852394695,
+    "active_positions": 31,
+    "win_amount": 7176.109359826894,
+    "loss_amount": -2890.4045074322016,
+    "win_rate": 0.6859083191850595,
+    "total_current_value": 0.4515280000000001,
+    "total_positions": 682,
+    "event_ct": 589,
+    "win_count": 404,
+    "rank": 21293,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
