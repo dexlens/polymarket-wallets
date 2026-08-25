@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 5243,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93cef461c0907a46e9fe466cd30be001ad5ae4d3",
+    "trader_name": "Jomelin",
+    "tag": "Overall",
+    "overall_gain": 20699.680508410733,
+    "active_positions": 7,
+    "win_amount": 21614.4505012971,
+    "loss_amount": -914.769992886365,
+    "win_rate": 0.868421052631579,
+    "total_current_value": 7.0000990000000005,
+    "total_positions": 40,
+    "event_ct": 38,
+    "win_count": 33,
+    "rank": 5244,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
