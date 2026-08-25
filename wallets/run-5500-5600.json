@@ -686,5 +686,21 @@
     "win_count": 4,
     "rank": 5543,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5553c18d7b4db73ce67fbe79a7c44cbb83bc6d2e",
+    "trader_name": "mickor",
+    "tag": "Overall",
+    "overall_gain": 19498.15024402772,
+    "active_positions": 17,
+    "win_amount": 30353.555362291838,
+    "loss_amount": -10855.405118264121,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 4257.007236,
+    "total_positions": 47,
+    "event_ct": 39,
+    "win_count": 24,
+    "rank": 5544,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
