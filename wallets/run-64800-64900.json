@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 64844,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x47f7894de87b028d51939e2d8c658f269f618d38",
+    "trader_name": "UnstoppableLoxodont",
+    "tag": "Overall",
+    "overall_gain": 950.206215104893,
+    "active_positions": 11,
+    "win_amount": 3005.7606764963934,
+    "loss_amount": -2055.5544613915013,
+    "win_rate": 0.7885057471264367,
+    "total_current_value": 22650.765213970997,
+    "total_positions": 731,
+    "event_ct": 435,
+    "win_count": 343,
+    "rank": 64845,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
