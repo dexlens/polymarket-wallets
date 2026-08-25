@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 25520,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07d9f2f6a24ae4901068fc6b5d07a79fe61ba32e",
+    "trader_name": "mxdness",
+    "tag": "Overall",
+    "overall_gain": 3456.0710467769213,
+    "active_positions": 2,
+    "win_amount": 4448.0701229999995,
+    "loss_amount": -991.999076223078,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 25521,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
