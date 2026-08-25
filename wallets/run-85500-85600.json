@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 85583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3a81fac4890ede52826419a97bc49472f3d7d962",
+    "trader_name": "chuyenmj",
+    "tag": "Overall",
+    "overall_gain": 544.255097441496,
+    "active_positions": 3,
+    "win_amount": 544.988268728315,
+    "loss_amount": -0.7331712868189999,
+    "win_rate": 0.8,
+    "total_current_value": 38.93065927850001,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 85584,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
