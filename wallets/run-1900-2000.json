@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 1982,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5c14eb6a6d5083c003daa8241ed559d2dc82cc49",
+    "trader_name": "forinnerpsandr1x11222",
+    "tag": "Overall",
+    "overall_gain": 60930.7339241083,
+    "active_positions": 35,
+    "win_amount": 73868.28915101477,
+    "loss_amount": -12937.555226906474,
+    "win_rate": 0.9159663865546218,
+    "total_current_value": 504753.71594369056,
+    "total_positions": 238,
+    "event_ct": 119,
+    "win_count": 109,
+    "rank": 1983,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
