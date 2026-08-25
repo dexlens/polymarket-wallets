@@ -478,5 +478,21 @@
     "win_count": 5,
     "rank": 14330,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x816507212b9c4d3539f8b4074bc2e9b5b78f59d0",
+    "trader_name": "YuLoki",
+    "tag": "Overall",
+    "overall_gain": 6867.343472414877,
+    "active_positions": 16,
+    "win_amount": 16250.768580615146,
+    "loss_amount": -9383.425108200268,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0.108323,
+    "total_positions": 65,
+    "event_ct": 55,
+    "win_count": 30,
+    "rank": 14331,
+    "trader_tags": "> 1 year old"
   }
 ]
