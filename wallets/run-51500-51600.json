@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 51594,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70583712926ef67d7b60ca0c38714a82719126b2",
+    "trader_name": "Sos4",
+    "tag": "Overall",
+    "overall_gain": 1411.2118519662813,
+    "active_positions": 25,
+    "win_amount": 3459.519972429379,
+    "loss_amount": -2048.308120463098,
+    "win_rate": 0.7596153846153846,
+    "total_current_value": 71.811391,
+    "total_positions": 106,
+    "event_ct": 104,
+    "win_count": 79,
+    "rank": 51595,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
