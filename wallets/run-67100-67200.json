@@ -1246,5 +1246,21 @@
     "win_count": 2,
     "rank": 67179,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4af297a58b82c5b74f13eec1578718c6574d8d3a",
+    "trader_name": "jb21",
+    "tag": "Overall",
+    "overall_gain": 884.228825323146,
+    "active_positions": 0,
+    "win_amount": 996.226225323146,
+    "loss_amount": -111.9974,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.008434,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 67180,
+    "trader_tags": "> 1 year old"
   }
 ]
