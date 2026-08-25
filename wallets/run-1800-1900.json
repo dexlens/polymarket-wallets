@@ -622,5 +622,21 @@
     "win_count": 19,
     "rank": 1839,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f7680a4b985eea55979955b4c3d153208388e57",
+    "trader_name": "braveB",
+    "tag": "Overall",
+    "overall_gain": 66247.22004981259,
+    "active_positions": 1,
+    "win_amount": 87351.95713320571,
+    "loss_amount": -21104.73708339313,
+    "win_rate": 0.5,
+    "total_current_value": 0.21583599999999997,
+    "total_positions": 284,
+    "event_ct": 78,
+    "win_count": 39,
+    "rank": 1840,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
