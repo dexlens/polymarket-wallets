@@ -1246,5 +1246,21 @@
     "win_count": 274,
     "rank": 3378,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x17a89c0a76b163276b77a7a85ef5079f7e20e61f",
+    "trader_name": "sorcerer.09",
+    "tag": "Overall",
+    "overall_gain": 33750.62033414217,
+    "active_positions": 6,
+    "win_amount": 36462.67693861476,
+    "loss_amount": -2712.0566044725924,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.21621922799999999,
+    "total_positions": 137,
+    "event_ct": 72,
+    "win_count": 56,
+    "rank": 3379,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
