@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 70960,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21e1d7d3ad6c9eac2181d091873106d5da5af16d",
+    "trader_name": "lusdbest",
+    "tag": "Overall",
+    "overall_gain": 789.132958401174,
+    "active_positions": 3,
+    "win_amount": 832.393311748182,
+    "loss_amount": -43.260353347008,
+    "win_rate": 0.6,
+    "total_current_value": 105.454316737,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 70961,
+    "trader_tags": "> 1 year old"
   }
 ]
