@@ -702,5 +702,21 @@
     "win_count": 150,
     "rank": 10344,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4b19efe6203f2352c6fe6dc83cd0822e213f30ae",
+    "trader_name": "retyrth",
+    "tag": "Overall",
+    "overall_gain": 10164.156626879818,
+    "active_positions": 4,
+    "win_amount": 10335.252482,
+    "loss_amount": -171.09585512018398,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 110.198816924,
+    "total_positions": 18,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 10345,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
