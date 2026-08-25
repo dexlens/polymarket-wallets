@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 25356,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3279458e8fbff760a422afe5b14745dfaf4c0565",
+    "trader_name": "carl79",
+    "tag": "Overall",
+    "overall_gain": 3483.2053656834173,
+    "active_positions": 1,
+    "win_amount": 3564.0930390000017,
+    "loss_amount": -80.88767331658299,
+    "win_rate": 0.5084745762711864,
+    "total_current_value": 0.004,
+    "total_positions": 62,
+    "event_ct": 59,
+    "win_count": 30,
+    "rank": 25357,
+    "trader_tags": "> 1 year old"
   }
 ]
