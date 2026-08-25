@@ -1246,5 +1246,21 @@
     "win_count": 9,
     "rank": 44279,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c1b70d668d5665966197db77a90ce751ca40244",
+    "trader_name": "Elrix",
+    "tag": "Overall",
+    "overall_gain": 1749.632,
+    "active_positions": 1,
+    "win_amount": 1762.392,
+    "loss_amount": -12.76,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 44280,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
