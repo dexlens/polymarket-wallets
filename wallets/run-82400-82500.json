@@ -1310,5 +1310,21 @@
     "win_count": 4,
     "rank": 82483,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x352dbb3398ec4a9d78ffc82d9a8f8732b836cb9e",
+    "trader_name": "Tianhe",
+    "tag": "Overall",
+    "overall_gain": 590.4736297346531,
+    "active_positions": 1,
+    "win_amount": 663.4813916577722,
+    "loss_amount": -73.007761923119,
+    "win_rate": 0.6419753086419753,
+    "total_current_value": 1635.4415441600001,
+    "total_positions": 91,
+    "event_ct": 81,
+    "win_count": 52,
+    "rank": 82484,
+    "trader_tags": ""
   }
 ]
