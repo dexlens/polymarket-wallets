@@ -750,5 +750,21 @@
     "win_count": 46,
     "rank": 70248,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x81a2a82b55e551f1a849d3472172a0b847d49179",
+    "trader_name": "Majestia",
+    "tag": "Overall",
+    "overall_gain": 804.829585,
+    "active_positions": 1,
+    "win_amount": 1173.974585,
+    "loss_amount": -369.145,
+    "win_rate": 0.75,
+    "total_current_value": 0.007814999999999999,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 70249,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
