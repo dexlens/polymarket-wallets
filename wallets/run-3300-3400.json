@@ -926,5 +926,21 @@
     "win_count": 198,
     "rank": 3358,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1cd24cc49782240413903b4b7e7694779f917f85",
+    "trader_name": "bitterfish",
+    "tag": "Overall",
+    "overall_gain": 34001.97454562698,
+    "active_positions": 36,
+    "win_amount": 36275.537976558335,
+    "loss_amount": -2273.563430931342,
+    "win_rate": 0.34545454545454546,
+    "total_current_value": 24551.42340883,
+    "total_positions": 60,
+    "event_ct": 55,
+    "win_count": 19,
+    "rank": 3359,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
