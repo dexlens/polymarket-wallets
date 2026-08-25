@@ -1022,5 +1022,21 @@
     "win_count": 15,
     "rank": 87365,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xebb71360897bcb65857d437e77f802c77f68ac1d",
+    "trader_name": "Domam",
+    "tag": "Overall",
+    "overall_gain": 520.7338044794449,
+    "active_positions": 18,
+    "win_amount": 822.451299216712,
+    "loss_amount": -301.71749473726703,
+    "win_rate": 0.8478260869565217,
+    "total_current_value": 256.846664625,
+    "total_positions": 110,
+    "event_ct": 46,
+    "win_count": 39,
+    "rank": 87366,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
