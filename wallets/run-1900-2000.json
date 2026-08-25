@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 1912,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xc9469fbe92ab22600d6e198bb1fd25c2d87d1825",
+    "trader_name": "FUTBALL",
+    "tag": "Overall",
+    "overall_gain": 63199.482570395194,
+    "active_positions": 24,
+    "win_amount": 181820.88166411172,
+    "loss_amount": -118621.39909371657,
+    "win_rate": 0.7325581395348837,
+    "total_current_value": 5500.054488000002,
+    "total_positions": 317,
+    "event_ct": 172,
+    "win_count": 126,
+    "rank": 1913,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
