@@ -974,5 +974,21 @@
     "win_count": 6,
     "rank": 16661,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f4f411de06dcf9d78eae51ae76852ff0a4c7039",
+    "trader_name": "FoolingAround",
+    "tag": "Overall",
+    "overall_gain": 5711.330330573938,
+    "active_positions": 6,
+    "win_amount": 6961.529443426419,
+    "loss_amount": -1250.1991128524792,
+    "win_rate": 0.43478260869565216,
+    "total_current_value": 6302.312508184999,
+    "total_positions": 33,
+    "event_ct": 23,
+    "win_count": 10,
+    "rank": 16662,
+    "trader_tags": ""
   }
 ]
