@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 37360,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x34ff13492f676efc63fd394788ced0f1448f5007",
+    "trader_name": "berkut",
+    "tag": "Overall",
+    "overall_gain": 2163.707625918197,
+    "active_positions": 10,
+    "win_amount": 2686.910219642948,
+    "loss_amount": -523.2025937247511,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.014484,
+    "total_positions": 19,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 37361,
+    "trader_tags": "> 1 year old"
   }
 ]
