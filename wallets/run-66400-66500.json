@@ -1038,5 +1038,21 @@
     "win_count": 3,
     "rank": 66466,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x511f6ff03cb0b39ee7964147b450e1f81c679511",
+    "trader_name": "SNGLRT",
+    "tag": "Overall",
+    "overall_gain": 903.511933386879,
+    "active_positions": 13,
+    "win_amount": 2155.765304017352,
+    "loss_amount": -1252.2533706304728,
+    "win_rate": 0.5797101449275363,
+    "total_current_value": 2821.9624544525004,
+    "total_positions": 204,
+    "event_ct": 138,
+    "win_count": 80,
+    "rank": 66467,
+    "trader_tags": "> 1 year old"
   }
 ]
