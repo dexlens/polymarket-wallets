@@ -1374,5 +1374,21 @@
     "win_count": 20,
     "rank": 89287,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x94d7988307a14f9cb61ce23565a4db221aaae34b",
+    "trader_name": "bjosds",
+    "tag": "Overall",
+    "overall_gain": 498.32000000000016,
+    "active_positions": 2,
+    "win_amount": 498.32000000000016,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.700000000000001,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 89288,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
