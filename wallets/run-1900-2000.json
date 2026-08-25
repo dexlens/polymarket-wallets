@@ -862,5 +862,21 @@
     "win_count": 28,
     "rank": 1954,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5fc17eb1028bb74887a6f3da4899737a861070bc",
+    "trader_name": "YGHUI",
+    "tag": "Overall",
+    "overall_gain": 61800.50941074601,
+    "active_positions": 23,
+    "win_amount": 150414.08310600003,
+    "loss_amount": -88613.57369525399,
+    "win_rate": 0.6805555555555556,
+    "total_current_value": 20.715,
+    "total_positions": 73,
+    "event_ct": 72,
+    "win_count": 49,
+    "rank": 1955,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
