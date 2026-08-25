@@ -750,5 +750,21 @@
     "win_count": 18,
     "rank": 54348,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7581c1f43cab53d744978b74cb29fed7793a4e42",
+    "trader_name": "tichj",
+    "tag": "Overall",
+    "overall_gain": 1288.5861079211272,
+    "active_positions": 9,
+    "win_amount": 1922.0108474129295,
+    "loss_amount": -633.424739491802,
+    "win_rate": 0.8691588785046729,
+    "total_current_value": 259.1499580000001,
+    "total_positions": 114,
+    "event_ct": 107,
+    "win_count": 93,
+    "rank": 54349,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
