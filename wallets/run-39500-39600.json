@@ -126,5 +126,21 @@
     "win_count": 12,
     "rank": 39509,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7114044892c8c1dba2d165d906a5eee64aa3155",
+    "trader_name": "honsu",
+    "tag": "Overall",
+    "overall_gain": 2020.3296460666697,
+    "active_positions": 4,
+    "win_amount": 2240.327252674631,
+    "loss_amount": -219.997606607961,
+    "win_rate": 0.8,
+    "total_current_value": 13.334631,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 39510,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
