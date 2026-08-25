@@ -1198,5 +1198,21 @@
     "win_count": 22,
     "rank": 5375,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7df93a4f035a8249cce98950ae7a4293b48603b2",
+    "trader_name": "Metagross",
+    "tag": "Overall",
+    "overall_gain": 20146.151463127015,
+    "active_positions": 1,
+    "win_amount": 22258.109446467366,
+    "loss_amount": -2111.9579833403504,
+    "win_rate": 0.6,
+    "total_current_value": 0.04425,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 5376,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
