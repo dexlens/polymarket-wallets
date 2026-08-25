@@ -1518,5 +1518,21 @@
     "win_count": 31,
     "rank": 35396,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5696b785aa4b08fc68dadd06dbdf2f349a8ab3aa",
+    "trader_name": "Dimes3",
+    "tag": "Overall",
+    "overall_gain": 2308.711026436035,
+    "active_positions": 10,
+    "win_amount": 63277.530743120325,
+    "loss_amount": -60968.81971668429,
+    "win_rate": 0.5296482412060302,
+    "total_current_value": 1335.469244685,
+    "total_positions": 1040,
+    "event_ct": 995,
+    "win_count": 527,
+    "rank": 35397,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
