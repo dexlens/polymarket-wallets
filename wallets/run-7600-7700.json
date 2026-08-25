@@ -286,5 +286,21 @@
     "win_count": 185,
     "rank": 7618,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01ead3e9c7f665f955074d4bd74839fcb464cd93",
+    "trader_name": "amyabatzvpn",
+    "tag": "Overall",
+    "overall_gain": 13893.4,
+    "active_positions": 0,
+    "win_amount": 15175.899999999998,
+    "loss_amount": -1282.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 7619,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
