@@ -1150,5 +1150,21 @@
     "win_count": 23,
     "rank": 9872,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x87759d85b293bc20bc360094dd512525716ba018",
+    "trader_name": "Kryptonitew",
+    "tag": "Overall",
+    "overall_gain": 10623.458442735493,
+    "active_positions": 2,
+    "win_amount": 10623.458442735493,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 8.118834684,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 11,
+    "rank": 9873,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
