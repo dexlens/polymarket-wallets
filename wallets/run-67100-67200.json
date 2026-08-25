@@ -1502,5 +1502,21 @@
     "win_count": 176,
     "rank": 67195,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x120121361a98417c0b9e908140a8a2a57a600924",
+    "trader_name": "Shemward",
+    "tag": "Overall",
+    "overall_gain": 883.6186199999999,
+    "active_positions": 3,
+    "win_amount": 1786.7450000000001,
+    "loss_amount": -903.12638,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 67196,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
