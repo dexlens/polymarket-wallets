@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 14865,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08026ab5055e0bbf1e3793d65b0c5f8408978cb0",
+    "trader_name": "CDO-Manager",
+    "tag": "Overall",
+    "overall_gain": 6574.959993786484,
+    "active_positions": 0,
+    "win_amount": 9875.769625909015,
+    "loss_amount": -3300.8096321225316,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.109608,
+    "total_positions": 87,
+    "event_ct": 65,
+    "win_count": 45,
+    "rank": 14866,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
