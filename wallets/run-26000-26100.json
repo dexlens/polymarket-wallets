@@ -1390,5 +1390,21 @@
     "win_count": 255,
     "rank": 26088,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10308ecc9d5be360591ba5411aabaeb482d4d8cf",
+    "trader_name": "Breezedoor",
+    "tag": "Overall",
+    "overall_gain": 3354.5,
+    "active_positions": 1,
+    "win_amount": 3935,
+    "loss_amount": -580.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 26089,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
