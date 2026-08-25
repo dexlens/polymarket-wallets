@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 74024,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23d4b23cd19441d2156c35c545650c8bff485607",
+    "trader_name": "neelchop",
+    "tag": "Overall",
+    "overall_gain": 727.9618338907311,
+    "active_positions": 11,
+    "win_amount": 33244.417049254625,
+    "loss_amount": -32516.45521536389,
+    "win_rate": 0.4594222833562586,
+    "total_current_value": 4.930405930000001,
+    "total_positions": 1541,
+    "event_ct": 1454,
+    "win_count": 668,
+    "rank": 74025,
+    "trader_tags": "1k+ Positions"
   }
 ]
