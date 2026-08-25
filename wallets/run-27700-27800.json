@@ -142,5 +142,21 @@
     "win_count": 10,
     "rank": 27710,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55b721af9b6323ddc994db71878e1e0be5133775",
+    "trader_name": "GreatSage",
+    "tag": "Overall",
+    "overall_gain": 3102.8908291845814,
+    "active_positions": 11,
+    "win_amount": 6123.673009633597,
+    "loss_amount": -3020.782180449016,
+    "win_rate": 0.9361702127659575,
+    "total_current_value": 16692.501894915,
+    "total_positions": 68,
+    "event_ct": 47,
+    "win_count": 44,
+    "rank": 27711,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
