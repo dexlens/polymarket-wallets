@@ -1390,5 +1390,21 @@
     "win_count": 4,
     "rank": 38388,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51eabc200df1b301ecc26fb14cbd457f839123df",
+    "trader_name": "mlog",
+    "tag": "Overall",
+    "overall_gain": 2093.0960051041743,
+    "active_positions": 60,
+    "win_amount": 3303.419300610967,
+    "loss_amount": -1210.323295506793,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 74.95966723600002,
+    "total_positions": 78,
+    "event_ct": 44,
+    "win_count": 16,
+    "rank": 38389,
+    "trader_tags": ""
   }
 ]
