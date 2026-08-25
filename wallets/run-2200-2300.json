@@ -926,5 +926,21 @@
     "win_count": 329,
     "rank": 2258,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x490e807c5a431752bee1a5b48cbfbcb4a45773ad",
+    "trader_name": "TheBall",
+    "tag": "Overall",
+    "overall_gain": 52811.03185494819,
+    "active_positions": 2,
+    "win_amount": 83350.9927345391,
+    "loss_amount": -30539.960879590933,
+    "win_rate": 0.6938271604938272,
+    "total_current_value": 1.181406,
+    "total_positions": 719,
+    "event_ct": 405,
+    "win_count": 281,
+    "rank": 2259,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
