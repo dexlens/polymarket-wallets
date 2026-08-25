@@ -302,5 +302,21 @@
     "win_count": 148,
     "rank": 2119,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ba1bb6aa2490adbbbbb314bc07ff21a8cc71ce4",
+    "trader_name": "0xBigSun",
+    "tag": "Overall",
+    "overall_gain": 56883.941716000016,
+    "active_positions": 0,
+    "win_amount": 89966.89886300001,
+    "loss_amount": -33082.957147,
+    "win_rate": 0.7391304347826086,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 17,
+    "rank": 2120,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
