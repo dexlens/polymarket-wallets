@@ -366,5 +366,21 @@
     "win_count": 13,
     "rank": 27424,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xda3a2b7e6de1e4b91a687af1e225d50b4c8c5ad1",
+    "trader_name": "Asylum",
+    "tag": "Overall",
+    "overall_gain": 3145.021502089897,
+    "active_positions": 4,
+    "win_amount": 4440.001252331427,
+    "loss_amount": -1294.9797502415302,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 3,
+    "rank": 27425,
+    "trader_tags": "> 1 year old"
   }
 ]
