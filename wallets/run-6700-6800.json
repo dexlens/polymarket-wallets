@@ -334,5 +334,21 @@
     "win_count": 85,
     "rank": 6721,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe15b6e93e13b22819c9150b04dd18307e11b620b",
+    "trader_name": "JK12",
+    "tag": "Overall",
+    "overall_gain": 15971.226173002879,
+    "active_positions": 0,
+    "win_amount": 15971.226173002879,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002896,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 6722,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
