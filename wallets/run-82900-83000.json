@@ -814,5 +814,21 @@
     "win_count": 31,
     "rank": 82952,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x43602bb456bdefb0f73f4c36651bcc58c379d74f",
+    "trader_name": "manes-archaea",
+    "tag": "Overall",
+    "overall_gain": 582.88804901,
+    "active_positions": 111,
+    "win_amount": 6130.287349999999,
+    "loss_amount": -5547.399300989999,
+    "win_rate": 0.7925170068027211,
+    "total_current_value": 0,
+    "total_positions": 588,
+    "event_ct": 588,
+    "win_count": 466,
+    "rank": 82953,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
