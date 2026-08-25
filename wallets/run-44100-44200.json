@@ -1422,5 +1422,21 @@
     "win_count": 4,
     "rank": 44190,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71fa0acc436ecdc9c36d007060d559604a44da19",
+    "trader_name": "leocm",
+    "tag": "Overall",
+    "overall_gain": 1754.6110497959087,
+    "active_positions": 181,
+    "win_amount": 92332.2347743299,
+    "loss_amount": -90577.62372453399,
+    "win_rate": 0.7813538403114023,
+    "total_current_value": 163.1832246,
+    "total_positions": 12425,
+    "event_ct": 10533,
+    "win_count": 8230,
+    "rank": 44191,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
