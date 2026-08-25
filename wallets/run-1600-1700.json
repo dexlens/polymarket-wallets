@@ -1118,5 +1118,21 @@
     "win_count": 29,
     "rank": 1670,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6daed63285060cd088a050162cb3df8350484688",
+    "trader_name": "Beepob",
+    "tag": "Overall",
+    "overall_gain": 73624.62518481133,
+    "active_positions": 20,
+    "win_amount": 317559.5666442022,
+    "loss_amount": -243934.94145939092,
+    "win_rate": 0.5507246376811594,
+    "total_current_value": 0.008100999999999999,
+    "total_positions": 147,
+    "event_ct": 138,
+    "win_count": 76,
+    "rank": 1671,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
