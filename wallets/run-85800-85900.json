@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 85900,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2c32d9eca4b8e43cc9d93cd6c38eb9ff605ed55f",
+    "trader_name": "platini",
+    "tag": "Overall",
+    "overall_gain": 540.3876937529624,
+    "active_positions": 86,
+    "win_amount": 8577.655647794481,
+    "loss_amount": -8037.267954041518,
+    "win_rate": 0.9297979797979798,
+    "total_current_value": 404.6161974260001,
+    "total_positions": 2097,
+    "event_ct": 1980,
+    "win_count": 1841,
+    "rank": 85901,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
