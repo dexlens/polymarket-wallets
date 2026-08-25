@@ -654,5 +654,21 @@
     "win_count": 4,
     "rank": 6641,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c03f6a2a678bc68b25d732b58971a278bc5d894",
+    "trader_name": "kimpressions",
+    "tag": "Overall",
+    "overall_gain": 16165.014148656745,
+    "active_positions": 1,
+    "win_amount": 61748.03236911007,
+    "loss_amount": -45583.01822045334,
+    "win_rate": 0.6194029850746269,
+    "total_current_value": 697.25769,
+    "total_positions": 140,
+    "event_ct": 134,
+    "win_count": 83,
+    "rank": 6642,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
