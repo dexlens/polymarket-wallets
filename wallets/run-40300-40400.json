@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 40336,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa14dc7165980f8a368e018393b064c97b1f22563",
+    "trader_name": "rkrypt",
+    "tag": "Overall",
+    "overall_gain": 1975.9252006046318,
+    "active_positions": 45,
+    "win_amount": 3219.132966713923,
+    "loss_amount": -1243.2077661092912,
+    "win_rate": 0.5230769230769231,
+    "total_current_value": 742.3947497225,
+    "total_positions": 193,
+    "event_ct": 65,
+    "win_count": 34,
+    "rank": 40337,
+    "trader_tags": ""
   }
 ]
