@@ -526,5 +526,21 @@
     "win_count": 5,
     "rank": 7433,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x054985752a867351ba4d02c49e18a701743b5c0c",
+    "trader_name": "toosmall",
+    "tag": "Overall",
+    "overall_gain": 14290.228841816557,
+    "active_positions": 0,
+    "win_amount": 15085.949696887625,
+    "loss_amount": -795.720855071066,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.001275,
+    "total_positions": 21,
+    "event_ct": 18,
+    "win_count": 6,
+    "rank": 7434,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
