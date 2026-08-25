@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 54368,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5d14a05632ac0ea514b1ca434e084dabd419f8bd",
+    "trader_name": "grustniyTanec",
+    "tag": "Overall",
+    "overall_gain": 1287.7663633267284,
+    "active_positions": 19,
+    "win_amount": 2288.1837140185257,
+    "loss_amount": -1000.4173506917978,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 3540.488831165,
+    "total_positions": 141,
+    "event_ct": 78,
+    "win_count": 65,
+    "rank": 54369,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
