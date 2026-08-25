@@ -606,5 +606,21 @@
     "win_count": 31,
     "rank": 9338,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x795173772d871733c3110a5695d9638e4b50bb41",
+    "trader_name": "HELIOS-ONE",
+    "tag": "Overall",
+    "overall_gain": 11220.854198182582,
+    "active_positions": 303,
+    "win_amount": 49539.82118297217,
+    "loss_amount": -38318.96698478955,
+    "win_rate": 0.6307106598984772,
+    "total_current_value": 1611.231942869,
+    "total_positions": 1220,
+    "event_ct": 788,
+    "win_count": 497,
+    "rank": 9339,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
