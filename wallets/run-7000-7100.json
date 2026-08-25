@@ -926,5 +926,21 @@
     "win_count": 119,
     "rank": 7058,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xff34c2cc46e7624310f3549ea355540d57a4694b",
+    "trader_name": "fatdog",
+    "tag": "Overall",
+    "overall_gain": 15126.508936742948,
+    "active_positions": 6,
+    "win_amount": 586507.1778585357,
+    "loss_amount": -571380.6689217924,
+    "win_rate": 0.467426846650457,
+    "total_current_value": 412.9423544404999,
+    "total_positions": 18808,
+    "event_ct": 11927,
+    "win_count": 5575,
+    "rank": 7059,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
