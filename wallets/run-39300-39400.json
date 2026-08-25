@@ -318,5 +318,21 @@
     "win_count": 3,
     "rank": 39321,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71fe44d1a4e471f72e857de6ef186a02586317f3",
+    "trader_name": "koltay",
+    "tag": "Overall",
+    "overall_gain": 2030.7551,
+    "active_positions": 1,
+    "win_amount": 3338.8323000000005,
+    "loss_amount": -1308.0772,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 39322,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
