@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 46500,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02912efc6ff393db6eb3add7d43e49a4aaba7eb6",
+    "trader_name": "Cinsfder",
+    "tag": "Overall",
+    "overall_gain": 1641.5,
+    "active_positions": 2,
+    "win_amount": 2820,
+    "loss_amount": -1178.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 46501,
+    "trader_tags": ""
   }
 ]
