@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 81442,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1deda7b6ec2155def1aaa368f0c47ce901d7507a",
+    "trader_name": "kjuik",
+    "tag": "Overall",
+    "overall_gain": 607.243658,
+    "active_positions": 2,
+    "win_amount": 614.243658,
+    "loss_amount": -7,
+    "win_rate": 0.8,
+    "total_current_value": 1000,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 81443,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
