@@ -542,5 +542,21 @@
     "win_count": 4,
     "rank": 75935,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d68a72c598704053301c6b1afb0f0c62e491e49",
+    "trader_name": "HarlanTuttle",
+    "tag": "Overall",
+    "overall_gain": 700.0448369999999,
+    "active_positions": 2,
+    "win_amount": 1200.044837,
+    "loss_amount": -500,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 75936,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
