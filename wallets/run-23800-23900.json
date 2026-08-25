@@ -862,5 +862,21 @@
     "win_count": 4,
     "rank": 23855,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc1b0052e6ecc09a6948f4481f1889dd8be76ce2c",
+    "trader_name": "U.XO",
+    "tag": "Overall",
+    "overall_gain": 3747.3060517465105,
+    "active_positions": 6,
+    "win_amount": 4425.469695830157,
+    "loss_amount": -678.1636440836481,
+    "win_rate": 0.7555555555555555,
+    "total_current_value": 4146.903012671501,
+    "total_positions": 76,
+    "event_ct": 45,
+    "win_count": 34,
+    "rank": 23856,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
