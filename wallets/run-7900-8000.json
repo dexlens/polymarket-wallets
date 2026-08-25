@@ -1422,5 +1422,21 @@
     "win_count": 388,
     "rank": 7989,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcc936bcc4687340e37447865754c841e82008afb",
+    "trader_name": "VanCity",
+    "tag": "Overall",
+    "overall_gain": 13143.963823440008,
+    "active_positions": 5,
+    "win_amount": 18358.649271703318,
+    "loss_amount": -5214.685448263309,
+    "win_rate": 0.5909090909090909,
+    "total_current_value": 0.10591800000000001,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 13,
+    "rank": 7990,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
