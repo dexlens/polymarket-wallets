@@ -526,5 +526,21 @@
     "win_count": 128,
     "rank": 6433,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x11a62ae3bbd6e9c51579fa4a38f430a7b1ab588b",
+    "trader_name": "mhass33",
+    "tag": "Overall",
+    "overall_gain": 16655.491888560613,
+    "active_positions": 10,
+    "win_amount": 22228.22301176375,
+    "loss_amount": -5572.731123203132,
+    "win_rate": 0.1111111111111111,
+    "total_current_value": 446.89201916,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 1,
+    "rank": 6434,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
