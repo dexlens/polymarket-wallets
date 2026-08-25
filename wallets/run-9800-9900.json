@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 9849,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8f3516289add8d806da0cc7769b1c8301711094e",
+    "trader_name": "JANETBELMONTE",
+    "tag": "Overall",
+    "overall_gain": 10638.815476813057,
+    "active_positions": 59,
+    "win_amount": 25239.286710003056,
+    "loss_amount": -14600.471233190001,
+    "win_rate": 0.528,
+    "total_current_value": 0.008057,
+    "total_positions": 125,
+    "event_ct": 125,
+    "win_count": 66,
+    "rank": 9850,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
