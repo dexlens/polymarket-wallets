@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 7488,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x297c1ae4495b32d27a3eef9528c53b885cf4deb9",
+    "trader_name": "jesto",
+    "tag": "Overall",
+    "overall_gain": 14166.743859081298,
+    "active_positions": 1,
+    "win_amount": 29375.603561999997,
+    "loss_amount": -15208.8597029187,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 7489,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
