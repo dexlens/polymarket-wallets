@@ -958,5 +958,21 @@
     "win_count": 8,
     "rank": 31261,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x118fd01976dfa74b99ef0122ef70590f5ef44f4b",
+    "trader_name": "Trendo",
+    "tag": "Overall",
+    "overall_gain": 2674.56200314809,
+    "active_positions": 2,
+    "win_amount": 3753.83687224248,
+    "loss_amount": -1079.27486909439,
+    "win_rate": 0.4,
+    "total_current_value": 0.032883,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 31262,
+    "trader_tags": ""
   }
 ]
