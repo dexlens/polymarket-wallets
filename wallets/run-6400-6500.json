@@ -766,5 +766,21 @@
     "win_count": 70,
     "rank": 6448,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x889c5a2d5cdb73bb20c88c79b1931b93d7e1e375",
+    "trader_name": "kikomarkets",
+    "tag": "Overall",
+    "overall_gain": 16595.532327798057,
+    "active_positions": 546,
+    "win_amount": 252288.22328426523,
+    "loss_amount": -235692.69095646715,
+    "win_rate": 0.534804753820034,
+    "total_current_value": 3420.4471216139996,
+    "total_positions": 1227,
+    "event_ct": 1178,
+    "win_count": 630,
+    "rank": 6449,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
