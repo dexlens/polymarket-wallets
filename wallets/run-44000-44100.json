@@ -1038,5 +1038,21 @@
     "win_count": 4,
     "rank": 44066,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3beade664166c393cd4f31b137aa59fcb4ce1c4b",
+    "trader_name": "xiangyan",
+    "tag": "Overall",
+    "overall_gain": 1762.3736800000001,
+    "active_positions": 3,
+    "win_amount": 3515.80531,
+    "loss_amount": -1753.43163,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 20.439999999999998,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 28,
+    "rank": 44067,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
