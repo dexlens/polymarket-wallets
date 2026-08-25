@@ -830,5 +830,21 @@
     "win_count": 15,
     "rank": 7552,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7791d207069f8824b303a03c82116828e8ac3c27",
+    "trader_name": "AlexSchlamminger",
+    "tag": "Overall",
+    "overall_gain": 14043.473632,
+    "active_positions": 0,
+    "win_amount": 14043.473632,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7553,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
