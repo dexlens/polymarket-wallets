@@ -638,5 +638,21 @@
     "win_count": 4,
     "rank": 39041,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x03291a3ebd33c32204752dc20c4a89a5e9d88519",
+    "trader_name": "BIGSUKYEOL",
+    "tag": "Overall",
+    "overall_gain": 2050.10173226577,
+    "active_positions": 0,
+    "win_amount": 2139.4611502657704,
+    "loss_amount": -89.359418,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0.021116000000000003,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 39042,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
