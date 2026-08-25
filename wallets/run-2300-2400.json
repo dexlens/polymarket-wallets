@@ -1534,5 +1534,21 @@
     "win_count": 23,
     "rank": 2396,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x759b08ec1f779efd31eef03c88a719182cf52ab3",
+    "trader_name": "BuckleUp",
+    "tag": "Overall",
+    "overall_gain": 49294.64982427171,
+    "active_positions": 11,
+    "win_amount": 157649.60884303728,
+    "loss_amount": -108354.95901876553,
+    "win_rate": 0.696969696969697,
+    "total_current_value": 0.13686749999999998,
+    "total_positions": 40,
+    "event_ct": 33,
+    "win_count": 23,
+    "rank": 2397,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
