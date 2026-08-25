@@ -302,5 +302,21 @@
     "win_count": 120,
     "rank": 3919,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x189e8b0783894bbfbf671b2edc4b2a91cf270434",
+    "trader_name": "trunks",
+    "tag": "Overall",
+    "overall_gain": 28831.875396835032,
+    "active_positions": 9,
+    "win_amount": 40715.10618849436,
+    "loss_amount": -11883.230791659336,
+    "win_rate": 0.5957446808510638,
+    "total_current_value": 958.7676200200001,
+    "total_positions": 55,
+    "event_ct": 47,
+    "win_count": 28,
+    "rank": 3920,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
