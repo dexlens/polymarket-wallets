@@ -654,5 +654,21 @@
     "win_count": 2,
     "rank": 8441,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x75bb84e896eeb03911f3bcdd64cec1caaa180ac5",
+    "trader_name": "ryzt",
+    "tag": "Overall",
+    "overall_gain": 12406.62100537128,
+    "active_positions": 23,
+    "win_amount": 72590.85212649015,
+    "loss_amount": -60184.23112111886,
+    "win_rate": 0.6150442477876106,
+    "total_current_value": 985.0322529999999,
+    "total_positions": 455,
+    "event_ct": 226,
+    "win_count": 139,
+    "rank": 8442,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
