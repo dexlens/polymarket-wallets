@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 33951,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x301553a6b814a478e43ade88370f7cd367265648",
+    "trader_name": "Ludnor",
+    "tag": "Overall",
+    "overall_gain": 2427.8060000000005,
+    "active_positions": 3,
+    "win_amount": 2427.8060000000005,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 12,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 33952,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
