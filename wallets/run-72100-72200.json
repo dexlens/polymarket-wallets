@@ -158,5 +158,21 @@
     "win_count": 5,
     "rank": 72111,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4708d5f8409f1c34f5cf10d43731a6cd8c584d3d",
+    "trader_name": "dvcvc",
+    "tag": "Overall",
+    "overall_gain": 764.069875352364,
+    "active_positions": 12,
+    "win_amount": 1559.0738247073639,
+    "loss_amount": -795.003949355,
+    "win_rate": 0.4878048780487805,
+    "total_current_value": 40.170607028,
+    "total_positions": 73,
+    "event_ct": 41,
+    "win_count": 20,
+    "rank": 72112,
+    "trader_tags": ""
   }
 ]
