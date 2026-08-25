@@ -894,5 +894,21 @@
     "win_count": 10,
     "rank": 6156,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xff79613fa1dd9ff068b9a402ce0fce8af60faf9b",
+    "trader_name": "benisato",
+    "tag": "Overall",
+    "overall_gain": 17410.418171848156,
+    "active_positions": 0,
+    "win_amount": 60254.77998984816,
+    "loss_amount": -42844.36181799999,
+    "win_rate": 0.75,
+    "total_current_value": 0.027385,
+    "total_positions": 15,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 6157,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
