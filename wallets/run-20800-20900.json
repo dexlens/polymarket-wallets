@@ -494,5 +494,21 @@
     "win_count": 10,
     "rank": 20831,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa53c26443fb636d8ae31ac24f62fc1d5ef8f67a5",
+    "trader_name": "Oddn",
+    "tag": "Overall",
+    "overall_gain": 4404.8225256337855,
+    "active_positions": 2871,
+    "win_amount": 8108.294779656617,
+    "loss_amount": -3703.472254022828,
+    "win_rate": 0.0421792618629174,
+    "total_current_value": 20.3205399235,
+    "total_positions": 3381,
+    "event_ct": 1138,
+    "win_count": 48,
+    "rank": 20832,
+    "trader_tags": "1k+ Positions"
   }
 ]
