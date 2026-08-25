@@ -1406,5 +1406,21 @@
     "win_count": 11,
     "rank": 85589,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaba7467846e0dc0bd02c4a7bd456be4ba1de355e",
+    "trader_name": "SynedRLS",
+    "tag": "Overall",
+    "overall_gain": 544.1341240228628,
+    "active_positions": 0,
+    "win_amount": 1118.0637141954392,
+    "loss_amount": -573.929590172576,
+    "win_rate": 0.8513513513513513,
+    "total_current_value": 0.31838799999999995,
+    "total_positions": 105,
+    "event_ct": 74,
+    "win_count": 63,
+    "rank": 85590,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
