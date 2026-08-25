@@ -1486,5 +1486,21 @@
     "win_count": 34,
     "rank": 50194,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3a777d5b59c3b73b5a5cd13e28818a4fe7e221cf",
+    "trader_name": "essjay",
+    "tag": "Overall",
+    "overall_gain": 1475.9340155874697,
+    "active_positions": 9,
+    "win_amount": 2032.053380756347,
+    "loss_amount": -556.119365168877,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 105.7832295155,
+    "total_positions": 52,
+    "event_ct": 23,
+    "win_count": 16,
+    "rank": 50195,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
