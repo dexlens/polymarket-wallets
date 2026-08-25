@@ -350,5 +350,21 @@
     "win_count": 4,
     "rank": 66023,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d21d19ecf76e57e4320f0136c35dd5fc3763842",
+    "trader_name": "Chikago1",
+    "tag": "Overall",
+    "overall_gain": 915.2748948891889,
+    "active_positions": 1,
+    "win_amount": 1338.6278196759995,
+    "loss_amount": -423.35292478681,
+    "win_rate": 0.6590909090909091,
+    "total_current_value": 51.010465960000005,
+    "total_positions": 125,
+    "event_ct": 88,
+    "win_count": 58,
+    "rank": 66024,
+    "trader_tags": "> 1 year old"
   }
 ]
