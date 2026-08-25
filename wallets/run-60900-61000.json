@@ -830,5 +830,21 @@
     "win_count": 6,
     "rank": 60953,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2467abf307683a65ed3733d1a670a56cbff38407",
+    "trader_name": "caiyanxia",
+    "tag": "Overall",
+    "overall_gain": 1049.123479031708,
+    "active_positions": 1,
+    "win_amount": 1193.3092080000001,
+    "loss_amount": -144.185728968292,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 60954,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
