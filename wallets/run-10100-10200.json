@@ -910,5 +910,21 @@
     "win_count": 3,
     "rank": 10157,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xce8bd04b33ef21f82e6d9d7c5d6471d8b1f46bc7",
+    "trader_name": "moxigan111",
+    "tag": "Overall",
+    "overall_gain": 10344.548289575245,
+    "active_positions": 57,
+    "win_amount": 49409.10758795787,
+    "loss_amount": -39064.55929838261,
+    "win_rate": 0.6510067114093959,
+    "total_current_value": 188.05203,
+    "total_positions": 154,
+    "event_ct": 149,
+    "win_count": 97,
+    "rank": 10158,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
