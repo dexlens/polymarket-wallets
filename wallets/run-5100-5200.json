@@ -1502,5 +1502,21 @@
     "win_count": 19,
     "rank": 5194,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b7fa837dcf44f6557996cbac2ac38549eeafddf",
+    "trader_name": "recorbw",
+    "tag": "Overall",
+    "overall_gain": 20840.26626850417,
+    "active_positions": 2,
+    "win_amount": 20840.26626850417,
+    "loss_amount": -9.094947017729282e-13,
+    "win_rate": 0.5,
+    "total_current_value": 21838.031893,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 5195,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
