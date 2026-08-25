@@ -622,5 +622,21 @@
     "win_count": 5,
     "rank": 9139,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa5f226665f16c421d612c476516b74904396678e",
+    "trader_name": "dablenov",
+    "tag": "Overall",
+    "overall_gain": 11470.534361703463,
+    "active_positions": 23,
+    "win_amount": 12141.349337858903,
+    "loss_amount": -670.814976155439,
+    "win_rate": 0.6507936507936508,
+    "total_current_value": 208.03542546950004,
+    "total_positions": 91,
+    "event_ct": 63,
+    "win_count": 41,
+    "rank": 9140,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
