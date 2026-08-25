@@ -30,5 +30,21 @@
     "win_count": 19,
     "rank": 10002,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x49246801d6386092d8d3bcef175e504b498d7cba",
+    "trader_name": "dorothy",
+    "tag": "Overall",
+    "overall_gain": 10482.06223380491,
+    "active_positions": 0,
+    "win_amount": 10482.06223380491,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00541,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 10003,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
