@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 19354,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x45bbcabaceb8add3a020793340b450100bb859c3",
+    "trader_name": "cbyuuik",
+    "tag": "Overall",
+    "overall_gain": 4798.95550519877,
+    "active_positions": 4,
+    "win_amount": 5022.19660019877,
+    "loss_amount": -223.241095,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 160.511769,
+    "total_positions": 38,
+    "event_ct": 33,
+    "win_count": 30,
+    "rank": 19355,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
