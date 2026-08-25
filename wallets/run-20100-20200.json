@@ -654,5 +654,21 @@
     "win_count": 10,
     "rank": 20141,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71f698baab42ab859e2e49546a155d8ab7b8c0ef",
+    "trader_name": "SignalX1",
+    "tag": "Overall",
+    "overall_gain": 4589.863001775954,
+    "active_positions": 6,
+    "win_amount": 6071.66419262577,
+    "loss_amount": -1481.801190849815,
+    "win_rate": 0.75,
+    "total_current_value": 0.016114,
+    "total_positions": 41,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 20142,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
