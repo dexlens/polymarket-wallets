@@ -1230,5 +1230,21 @@
     "win_count": 41,
     "rank": 2377,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d77d12b78d0184b25715f71b4c97b608b14c92f",
+    "trader_name": "gurcaninhesap",
+    "tag": "Overall",
+    "overall_gain": 49704.9561244998,
+    "active_positions": 1,
+    "win_amount": 50721.89508061245,
+    "loss_amount": -1016.938956112653,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.004448,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 2378,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
