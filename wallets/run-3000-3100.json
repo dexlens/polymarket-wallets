@@ -1550,5 +1550,21 @@
     "win_count": 204,
     "rank": 3097,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x15960581ec91592c8090c59f4f6d4de12c8c3c02",
+    "trader_name": "GodTrador",
+    "tag": "Overall",
+    "overall_gain": 36939.50074480995,
+    "active_positions": 16,
+    "win_amount": 41696.944306402474,
+    "loss_amount": -4757.443561592524,
+    "win_rate": 0.88,
+    "total_current_value": 30.523743707499996,
+    "total_positions": 74,
+    "event_ct": 25,
+    "win_count": 22,
+    "rank": 3098,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
