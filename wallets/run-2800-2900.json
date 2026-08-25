@@ -1214,5 +1214,21 @@
     "win_count": 4,
     "rank": 2876,
     "trader_tags": "Overall PnL > $10k; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x62cf46cd4c3af254dccfc37a7f93de265b4b5826",
+    "trader_name": "eCash",
+    "tag": "Overall",
+    "overall_gain": 39955.704140980146,
+    "active_positions": 41,
+    "win_amount": 611076.0419736446,
+    "loss_amount": -571120.3378326648,
+    "win_rate": 0.6226415094339622,
+    "total_current_value": 181159.34607948898,
+    "total_positions": 386,
+    "event_ct": 212,
+    "win_count": 132,
+    "rank": 2877,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
