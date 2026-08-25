@@ -798,5 +798,21 @@
     "win_count": 5,
     "rank": 80051,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0100c847dec527464523d712dc7e305673f5c58a",
+    "trader_name": "Macalin14",
+    "tag": "Overall",
+    "overall_gain": 629.849984376599,
+    "active_positions": 63,
+    "win_amount": 1706.4986427993329,
+    "loss_amount": -1076.648658422734,
+    "win_rate": 0.32051282051282054,
+    "total_current_value": 261.47501734800005,
+    "total_positions": 208,
+    "event_ct": 78,
+    "win_count": 25,
+    "rank": 80052,
+    "trader_tags": "> 1 year old"
   }
 ]
