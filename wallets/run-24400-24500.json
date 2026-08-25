@@ -958,5 +958,21 @@
     "win_count": 6,
     "rank": 24461,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x064e0aed5a3bad3ee926374e8fceade88f5c2ab8",
+    "trader_name": "Popp768",
+    "tag": "Overall",
+    "overall_gain": 3633.8868391683623,
+    "active_positions": 560,
+    "win_amount": 124322.97857665384,
+    "loss_amount": -120689.09173748546,
+    "win_rate": 0.5305603186016926,
+    "total_current_value": 15154.6725236655,
+    "total_positions": 35877,
+    "event_ct": 18079,
+    "win_count": 9592,
+    "rank": 24462,
+    "trader_tags": "1k+ Positions"
   }
 ]
