@@ -110,5 +110,21 @@
     "win_count": 2,
     "rank": 61508,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3dc85600dc1f4aba69e12b7d20d6bf41abd619b7",
+    "trader_name": "traderriper",
+    "tag": "Overall",
+    "overall_gain": 1034.4631394476091,
+    "active_positions": 26,
+    "win_amount": 3231.493133,
+    "loss_amount": -2197.029993552391,
+    "win_rate": 0.5737704918032787,
+    "total_current_value": 0,
+    "total_positions": 61,
+    "event_ct": 61,
+    "win_count": 35,
+    "rank": 61509,
+    "trader_tags": ""
   }
 ]
