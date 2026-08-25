@@ -334,5 +334,21 @@
     "win_count": 11,
     "rank": 22221,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2633d7a1ce1e876074e548c4ad6da64903941930",
+    "trader_name": "multimarket",
+    "tag": "Overall",
+    "overall_gain": 4071.1674957476653,
+    "active_positions": 3,
+    "win_amount": 9218.328413058991,
+    "loss_amount": -5147.160917311324,
+    "win_rate": 0.5576923076923077,
+    "total_current_value": 0.08002399999999998,
+    "total_positions": 55,
+    "event_ct": 52,
+    "win_count": 29,
+    "rank": 22222,
+    "trader_tags": ""
   }
 ]
