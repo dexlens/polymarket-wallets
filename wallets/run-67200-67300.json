@@ -910,5 +910,21 @@
     "win_count": 134,
     "rank": 67258,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3f4f2d09c941f4204bbe82633200b97993449971",
+    "trader_name": "semenrodshtein",
+    "tag": "Overall",
+    "overall_gain": 882.0766450859808,
+    "active_positions": 6,
+    "win_amount": 1744.9090420137347,
+    "loss_amount": -862.832396927754,
+    "win_rate": 0.6764705882352942,
+    "total_current_value": 0.033921,
+    "total_positions": 39,
+    "event_ct": 34,
+    "win_count": 23,
+    "rank": 67259,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
