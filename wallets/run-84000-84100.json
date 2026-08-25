@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 84100,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38f5f75fba62cee285dff249d9bb1ad35d250050",
+    "trader_name": "BigBoyBega",
+    "tag": "Overall",
+    "overall_gain": 564.9694709799315,
+    "active_positions": 1,
+    "win_amount": 2689.93128224144,
+    "loss_amount": -2124.961811261508,
+    "win_rate": 0.3020833333333333,
+    "total_current_value": 0.074553,
+    "total_positions": 175,
+    "event_ct": 96,
+    "win_count": 29,
+    "rank": 84101,
+    "trader_tags": "> 1 year old"
   }
 ]
