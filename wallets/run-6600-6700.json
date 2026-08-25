@@ -1566,5 +1566,21 @@
     "win_count": 5,
     "rank": 6698,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20fc2ba04ab11a30387e8d6554ed30ad1590e4e6",
+    "trader_name": "Darealteo",
+    "tag": "Overall",
+    "overall_gain": 16015.049680040664,
+    "active_positions": 6,
+    "win_amount": 25231.717222164032,
+    "loss_amount": -9216.667542123365,
+    "win_rate": 0.3958333333333333,
+    "total_current_value": 19.0282665035,
+    "total_positions": 65,
+    "event_ct": 48,
+    "win_count": 19,
+    "rank": 6699,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
