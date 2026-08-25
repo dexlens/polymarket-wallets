@@ -1182,5 +1182,21 @@
     "win_count": 256,
     "rank": 1574,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcbba64cddd05171925ffd05d8f8abd38c83fdbff",
+    "trader_name": "Tresdin",
+    "tag": "Overall",
+    "overall_gain": 77202.33540550747,
+    "active_positions": 397,
+    "win_amount": 101066.78378324857,
+    "loss_amount": -23864.448377741097,
+    "win_rate": 0.6008064516129032,
+    "total_current_value": 11226.081829599001,
+    "total_positions": 1132,
+    "event_ct": 248,
+    "win_count": 149,
+    "rank": 1575,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
