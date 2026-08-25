@@ -478,5 +478,21 @@
     "win_count": 75,
     "rank": 10130,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xce9282ccee2b5083e222707cbe4a0e321621a2c1",
+    "trader_name": "minitrumpdonald",
+    "tag": "Overall",
+    "overall_gain": 10368.487384541773,
+    "active_positions": 1,
+    "win_amount": 10652.830342771775,
+    "loss_amount": -284.34295823,
+    "win_rate": 0.9142857142857143,
+    "total_current_value": 803.4243555270001,
+    "total_positions": 44,
+    "event_ct": 35,
+    "win_count": 32,
+    "rank": 10131,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
