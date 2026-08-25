@@ -494,5 +494,21 @@
     "win_count": 32,
     "rank": 3731,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x991a4d823a31b341239ba2b1b16d60b1336e2411",
+    "trader_name": "befr",
+    "tag": "Overall",
+    "overall_gain": 30601.32662208168,
+    "active_positions": 3,
+    "win_amount": 61645.566477598084,
+    "loss_amount": -31044.239855516393,
+    "win_rate": 0.5590551181102362,
+    "total_current_value": 7.5049970355,
+    "total_positions": 201,
+    "event_ct": 127,
+    "win_count": 71,
+    "rank": 3732,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
