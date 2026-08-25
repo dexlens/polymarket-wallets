@@ -414,5 +414,21 @@
     "win_count": 1,
     "rank": 46627,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c0c7e2ed30512b9d88f37bc14bf80ea9682ad7c",
+    "trader_name": "FreedomGundam",
+    "tag": "Overall",
+    "overall_gain": 1633.9457548203636,
+    "active_positions": 16,
+    "win_amount": 62018.39374835117,
+    "loss_amount": -60384.44799353078,
+    "win_rate": 0.5611285266457681,
+    "total_current_value": 0.414912,
+    "total_positions": 358,
+    "event_ct": 319,
+    "win_count": 179,
+    "rank": 46628,
+    "trader_tags": "> 1 year old"
   }
 ]
