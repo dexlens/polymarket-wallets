@@ -158,5 +158,21 @@
     "win_count": 1,
     "rank": 71011,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc5d2d97922bdf41491b032f7ff44df24b009ef30",
+    "trader_name": "lofts",
+    "tag": "Overall",
+    "overall_gain": 788.1197821179619,
+    "active_positions": 11,
+    "win_amount": 1797.3386524452346,
+    "loss_amount": -1009.218870327273,
+    "win_rate": 0.8,
+    "total_current_value": 335.026272,
+    "total_positions": 76,
+    "event_ct": 70,
+    "win_count": 56,
+    "rank": 71012,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
