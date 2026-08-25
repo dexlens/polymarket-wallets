@@ -414,5 +414,21 @@
     "win_count": 36,
     "rank": 5426,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x082605596b7aaa4e1883d16219de123a5a0ee098",
+    "trader_name": "grok-4",
+    "tag": "Overall",
+    "overall_gain": 19937.792002196806,
+    "active_positions": 1251,
+    "win_amount": 186845.13549203402,
+    "loss_amount": -166907.34348983725,
+    "win_rate": 0.5458138699245418,
+    "total_current_value": 0.037658,
+    "total_positions": 2785,
+    "event_ct": 2783,
+    "win_count": 1519,
+    "rank": 5427,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
