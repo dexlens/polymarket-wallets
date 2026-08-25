@@ -830,5 +830,21 @@
     "win_count": 9,
     "rank": 74553,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x320f9fa21720bf31bce31ad6b6fc2247764fb4a3",
+    "trader_name": "YoshidaEmi",
+    "tag": "Overall",
+    "overall_gain": 720.9658200000001,
+    "active_positions": 1,
+    "win_amount": 5789.588165999998,
+    "loss_amount": -5068.622345999999,
+    "win_rate": 0.5672514619883041,
+    "total_current_value": 48.1,
+    "total_positions": 387,
+    "event_ct": 342,
+    "win_count": 194,
+    "rank": 74554,
+    "trader_tags": ""
   }
 ]
