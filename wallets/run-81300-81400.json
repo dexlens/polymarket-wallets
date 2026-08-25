@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 81344,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x650694d5f7f5725cdaee553f5728935c413fe40c",
+    "trader_name": "RandomNonsense",
+    "tag": "Overall",
+    "overall_gain": 608.8299999999999,
+    "active_positions": 2,
+    "win_amount": 856.3499999999999,
+    "loss_amount": -247.52,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 400,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 81345,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
