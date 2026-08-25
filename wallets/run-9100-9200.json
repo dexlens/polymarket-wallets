@@ -782,5 +782,21 @@
     "win_count": 15,
     "rank": 9149,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20c1ad9f9a8210daecea96c63ca83b7cceaf4017",
+    "trader_name": "forestk",
+    "tag": "Overall",
+    "overall_gain": 11453.405099517446,
+    "active_positions": 29,
+    "win_amount": 13581.177741327463,
+    "loss_amount": -2127.7726418100183,
+    "win_rate": 0.7380952380952381,
+    "total_current_value": 2.5920746864999993,
+    "total_positions": 155,
+    "event_ct": 84,
+    "win_count": 62,
+    "rank": 9150,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
