@@ -350,5 +350,21 @@
     "win_count": 15,
     "rank": 47323,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0cb51de659f7a4c4f154c91de5c5797ec8a94e68",
+    "trader_name": "Orange.gold",
+    "tag": "Overall",
+    "overall_gain": 1601.6140243303923,
+    "active_positions": 2,
+    "win_amount": 3415.6174547815,
+    "loss_amount": -1814.0034304511078,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 1596.339541009,
+    "total_positions": 31,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 47324,
+    "trader_tags": ""
   }
 ]
