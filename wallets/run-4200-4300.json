@@ -702,5 +702,21 @@
     "win_count": 25,
     "rank": 4244,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d4346127a9f0acbdaeba55d0bbad55435abce68",
+    "trader_name": "iloveRonaldo67",
+    "tag": "Overall",
+    "overall_gain": 26330.62679772289,
+    "active_positions": 3,
+    "win_amount": 71478.79664834947,
+    "loss_amount": -45148.16985062659,
+    "win_rate": 0.5747126436781609,
+    "total_current_value": 3571.953325580001,
+    "total_positions": 94,
+    "event_ct": 87,
+    "win_count": 50,
+    "rank": 4245,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
