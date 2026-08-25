@@ -174,5 +174,21 @@
     "win_count": 1,
     "rank": 7511,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x941e9756c3588cdc806d9e1005528a5cdcfa1fbf",
+    "trader_name": "yarrOsfec2",
+    "tag": "Overall",
+    "overall_gain": 14119.489178611033,
+    "active_positions": 15,
+    "win_amount": 146351.2366840393,
+    "loss_amount": -132231.74750542827,
+    "win_rate": 0.5801552220394737,
+    "total_current_value": 231.20158400000003,
+    "total_positions": 73102,
+    "event_ct": 38912,
+    "win_count": 22575,
+    "rank": 7512,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
