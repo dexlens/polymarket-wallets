@@ -1534,5 +1534,21 @@
     "win_count": 25,
     "rank": 28397,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x65b638e0a1a1334ee85a5f0b8d21eb347705ab99",
+    "trader_name": "NorthStar",
+    "tag": "Overall",
+    "overall_gain": 3015.58278609369,
+    "active_positions": 0,
+    "win_amount": 4144.29242977659,
+    "loss_amount": -1128.7096436829,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.006173,
+    "total_positions": 11,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 28398,
+    "trader_tags": "> 1 year old"
   }
 ]
