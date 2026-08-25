@@ -1358,5 +1358,21 @@
     "win_count": 14,
     "rank": 76686,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x219d159908ceef06f490381f353ed07e00084d43",
+    "trader_name": "ToucanPorous",
+    "tag": "Overall",
+    "overall_gain": 687.4140458799999,
+    "active_positions": 102,
+    "win_amount": 6365.125184999999,
+    "loss_amount": -5677.711139120001,
+    "win_rate": 0.7953410981697171,
+    "total_current_value": 0,
+    "total_positions": 601,
+    "event_ct": 601,
+    "win_count": 478,
+    "rank": 76687,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
