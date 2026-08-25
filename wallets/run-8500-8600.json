@@ -1214,5 +1214,21 @@
     "win_count": 4,
     "rank": 8576,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf58f8fc5a74e5c1a3e39f6d26ed4352a396737a4",
+    "trader_name": "runningBTC",
+    "tag": "Overall",
+    "overall_gain": 12214.941001717818,
+    "active_positions": 1,
+    "win_amount": 16907.71531837856,
+    "loss_amount": -4692.7743166607415,
+    "win_rate": 0.5,
+    "total_current_value": 0.045674,
+    "total_positions": 17,
+    "event_ct": 16,
+    "win_count": 8,
+    "rank": 8577,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
