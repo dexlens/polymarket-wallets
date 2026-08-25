@@ -40,62 +40,21 @@ let thisrunsdata = [];
 if (await Deno.stat(thisrunsfilename)) {
   thisrunsdata = JSON.parse(await Deno.readTextFile(thisrunsfilename));
 }
-// for (const wallet of realdata.slice(runStart, runEnd)) {
-//   const address = wallet.trader; // Adjust this if data structure is different
-//   const rank = wallet.rank;
-//   const trader_name = wallet.trader_name;
+for (const wallet of realdata.slice(runStart, runEnd)) {
+  const address = wallet.trader; // Adjust this if data structure is different
+  const rank = wallet.rank;
+  const trader_name = wallet.trader_name;
   
-//   thisrunsdata.push(wallet);
-//   await Deno.writeTextFile(thisrunsfilename, JSON.stringify(thisrunsdata, null, 2));
-//   // commit the changes
-//   const p = Deno.run({
-//     cmd: ["git", "add", thisrunsfilename],
-//     stdout: "piped",
-//     stderr: "piped"
-//   });
-//   await p.status();
-//   const commitMessage = `Add ${trader_name}:${address}`;
-//   const c = Deno.run({
-//     cmd: ["git", "commit", "-m", commitMessage],
-//     stdout: "piped",
-//     stderr: "piped"
-//   });
-//   await c.status();
-
-//   // increase the index
-//   const indexfilename = `index.json`;
-//   const indexdata = JSON.parse(await Deno.readTextFile(indexfilename));
-//   indexdata.wallets++;
-//   await Deno.writeTextFile(indexfilename, JSON.stringify(indexdata, null, 2));
-//   // console.log(`Finished ${wallet.trader_name}:${wallet.trader}`);
-// }
-
-
-// slice the 300,000 into runs of 100 
-const runs = [];
-for (let i = 0; i < 300000; i += 100) {
-  runs.push({ start: i, end: i + 100 });
-}
-
-console.log(runs.length);
-
-for (const run of runs.slice(0, 2)) {
-  const runName = `run-${run.start}-${run.end}`;
-  const thisrunsfilename = `wallets/${runName}.json`;
-  if (fs.existsSync(thisrunsfilename)) {
-    console.log(`Run ${runName} already exists`);
-    continue;
-  }
-  await Deno.writeTextFile(thisrunsfilename, JSON.stringify([], null, 2));
-  let thisrunsdata = [];
-  if (await Deno.stat(thisrunsfilename)) {
-    thisrunsdata = JSON.parse(await Deno.readTextFile(thisrunsfilename));
-  }
-  for (const wallet of realdata.slice(run.start, run.end)) {
-    thisrunsdata.push(wallet);
-  }
+  thisrunsdata.push(wallet);
   await Deno.writeTextFile(thisrunsfilename, JSON.stringify(thisrunsdata, null, 2));
-  const commitMessage = `Add run ${runName}`;
+  // commit the changes
+  const p = Deno.run({
+    cmd: ["git", "add", thisrunsfilename],
+    stdout: "piped",
+    stderr: "piped"
+  });
+  await p.status();
+  const commitMessage = `Add ${trader_name}:${address}`;
   const c = Deno.run({
     cmd: ["git", "commit", "-m", commitMessage],
     stdout: "piped",
@@ -103,13 +62,12 @@ for (const run of runs.slice(0, 2)) {
   });
   await c.status();
 
-  // wait 5 seconds
-  await new Promise(resolve => setTimeout(resolve, 5000));
   // increase the index
   const indexfilename = `index.json`;
   const indexdata = JSON.parse(await Deno.readTextFile(indexfilename));
-  indexdata.wallets += 100;
+  indexdata.wallets++;
   await Deno.writeTextFile(indexfilename, JSON.stringify(indexdata, null, 2));
+  // console.log(`Finished ${wallet.trader_name}:${wallet.trader}`);
 }
 
 // read the index.json now
