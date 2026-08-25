@@ -1566,5 +1566,21 @@
     "win_count": 89,
     "rank": 86999,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2f11bb5e56e2b3307ecb822bea53365c4f2522d7",
+    "trader_name": "uj67u",
+    "tag": "Overall",
+    "overall_gain": 525.5500126005329,
+    "active_positions": 7,
+    "win_amount": 1186.706722,
+    "loss_amount": -661.156709399467,
+    "win_rate": 0.6818181818181818,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 15,
+    "rank": 87000,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
