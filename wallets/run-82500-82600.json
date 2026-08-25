@@ -1070,5 +1070,21 @@
     "win_count": 69,
     "rank": 82568,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4318e079259a36a0ced41fd53139bea4955efbeb",
+    "trader_name": "ubty",
+    "tag": "Overall",
+    "overall_gain": 589.1614833781441,
+    "active_positions": 2,
+    "win_amount": 589.1614833781441,
+    "loss_amount": 0,
+    "win_rate": 0.8,
+    "total_current_value": 2500.027686268,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 82569,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
