@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 56839,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb5f029bf6bde283c22941bae3075ba93cf8dffeb",
+    "trader_name": "Sourcerer",
+    "tag": "Overall",
+    "overall_gain": 1185.4412629361877,
+    "active_positions": 3,
+    "win_amount": 2281.465902780166,
+    "loss_amount": -1096.024639843978,
+    "win_rate": 0.5,
+    "total_current_value": 0.018247,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 56840,
+    "trader_tags": "> 1 year old"
   }
 ]
