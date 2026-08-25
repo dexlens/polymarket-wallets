@@ -798,5 +798,21 @@
     "win_count": 3,
     "rank": 54251,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x31451c1347e48719652a798d2b866f31c9fc8c57",
+    "trader_name": "dev68",
+    "tag": "Overall",
+    "overall_gain": 1292.6856500000001,
+    "active_positions": 1,
+    "win_amount": 1292.6856500000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3249.18285,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 54252,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
