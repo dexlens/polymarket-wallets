@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 52661,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x496d5384da50943daaf8c4436eb6c317f70c45a2",
+    "trader_name": "hrost",
+    "tag": "Overall",
+    "overall_gain": 1361.89923252781,
+    "active_positions": 1,
+    "win_amount": 1491.2792325218097,
+    "loss_amount": -129.379999994,
+    "win_rate": 0.75,
+    "total_current_value": 0.011810000000000001,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 52662,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
