@@ -958,5 +958,21 @@
     "win_count": 15,
     "rank": 8260,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9fce89f18534b1ca6f2ea359f32bf87e13ef95c5",
+    "trader_name": "anseldolord",
+    "tag": "Overall",
+    "overall_gain": 12737.5,
+    "active_positions": 0,
+    "win_amount": 15737.5,
+    "loss_amount": -3000,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 8261,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
