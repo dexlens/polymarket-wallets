@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 83455,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd33e9635f6b5d3486152765648925db1bdfbb954",
+    "trader_name": "AJsdw",
+    "tag": "Overall",
+    "overall_gain": 575.001105108043,
+    "active_positions": 3,
+    "win_amount": 584.841105108043,
+    "loss_amount": -9.84,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 16.382843,
+    "total_positions": 51,
+    "event_ct": 23,
+    "win_count": 16,
+    "rank": 83456,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
