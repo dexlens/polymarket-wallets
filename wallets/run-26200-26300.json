@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 26223,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18ca71d4767cc75a460892dff5e557c47e1abf9d",
+    "trader_name": "DiscoChino",
+    "tag": "Overall",
+    "overall_gain": 3334.011036939874,
+    "active_positions": 11,
+    "win_amount": 10002.94585157212,
+    "loss_amount": -6668.93481463225,
+    "win_rate": 0.5357142857142857,
+    "total_current_value": 0.09893622399999999,
+    "total_positions": 66,
+    "event_ct": 56,
+    "win_count": 30,
+    "rank": 26224,
+    "trader_tags": ""
   }
 ]
