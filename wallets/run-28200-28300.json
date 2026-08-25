@@ -702,5 +702,21 @@
     "win_count": 7,
     "rank": 28245,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67b62bd144af16844038daefece5d050ce6632fa",
+    "trader_name": "EES23",
+    "tag": "Overall",
+    "overall_gain": 3033.724102968428,
+    "active_positions": 5,
+    "win_amount": 8089.450376997258,
+    "loss_amount": -5055.726274028829,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0.002257,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 32,
+    "rank": 28246,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
