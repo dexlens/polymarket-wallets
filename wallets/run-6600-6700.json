@@ -1086,5 +1086,21 @@
     "win_count": 6,
     "rank": 6668,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4afdbb1075f2cc505eac22ed745f8dbad47f11ff",
+    "trader_name": "kristofferve",
+    "tag": "Overall",
+    "overall_gain": 16102.5,
+    "active_positions": 0,
+    "win_amount": 16102.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 6669,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
