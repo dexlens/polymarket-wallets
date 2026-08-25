@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 79665,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x927bd90a18f6b99cac89541d67dc2de73247a4f3",
+    "trader_name": "Ogozi",
+    "tag": "Overall",
+    "overall_gain": 635.9989057641078,
+    "active_positions": 1,
+    "win_amount": 635.9989057641078,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 232.34801992450002,
+    "total_positions": 67,
+    "event_ct": 36,
+    "win_count": 36,
+    "rank": 79666,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
