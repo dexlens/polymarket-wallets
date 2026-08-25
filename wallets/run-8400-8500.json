@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 8450,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf143e056e11a8f341908779853eedc5d60affdb3",
+    "trader_name": "air3",
+    "tag": "Overall",
+    "overall_gain": 12394.073555800402,
+    "active_positions": 15,
+    "win_amount": 20401.232018366223,
+    "loss_amount": -8007.15846256582,
+    "win_rate": 0.8064516129032258,
+    "total_current_value": 32140.076417016502,
+    "total_positions": 46,
+    "event_ct": 31,
+    "win_count": 25,
+    "rank": 8451,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
