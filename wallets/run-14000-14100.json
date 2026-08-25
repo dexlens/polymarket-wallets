@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 14077,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a38e2974647c8c372830387d5c689f90417fee0",
+    "trader_name": "NikMain1",
+    "tag": "Overall",
+    "overall_gain": 7013.941276779426,
+    "active_positions": 46,
+    "win_amount": 27295.713742292348,
+    "loss_amount": -20281.772465512928,
+    "win_rate": 0.5145631067961165,
+    "total_current_value": 0.14016199999999998,
+    "total_positions": 213,
+    "event_ct": 103,
+    "win_count": 53,
+    "rank": 14078,
+    "trader_tags": ""
   }
 ]
