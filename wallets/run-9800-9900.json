@@ -542,5 +542,21 @@
     "win_count": 4,
     "rank": 9834,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f35e91675de4a860a58ff46cd3b56d90e5f3888",
+    "trader_name": "Syncisto",
+    "tag": "Overall",
+    "overall_gain": 10651.762050905709,
+    "active_positions": 1,
+    "win_amount": 10983.453752999998,
+    "loss_amount": -331.691702094287,
+    "win_rate": 0.8148148148148148,
+    "total_current_value": 0.0015,
+    "total_positions": 121,
+    "event_ct": 27,
+    "win_count": 22,
+    "rank": 9835,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
