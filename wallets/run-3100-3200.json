@@ -1518,5 +1518,21 @@
     "win_count": 18,
     "rank": 3195,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xa947fde5fa0e27dbc7d8778bcf34728cde3c16b1",
+    "trader_name": "Touyi",
+    "tag": "Overall",
+    "overall_gain": 35848.71464452159,
+    "active_positions": 10,
+    "win_amount": 40781.90625130874,
+    "loss_amount": -4933.19160678715,
+    "win_rate": 0.9032258064516129,
+    "total_current_value": 17.823292793500002,
+    "total_positions": 86,
+    "event_ct": 31,
+    "win_count": 28,
+    "rank": 3196,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
