@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 47115,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb0ff6a2b0d54b56186c66c650fa6714244c6e8cf",
+    "trader_name": "ExecEngine",
+    "tag": "Overall",
+    "overall_gain": 1611.5698956947008,
+    "active_positions": 1,
+    "win_amount": 4637.008392898893,
+    "loss_amount": -3025.438497204193,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.039665332000000005,
+    "total_positions": 87,
+    "event_ct": 66,
+    "win_count": 22,
+    "rank": 47116,
+    "trader_tags": ""
   }
 ]
