@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 44720,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d3f1b990a0b5269e0d4999fe35be8f623468e27",
+    "trader_name": "terrorg",
+    "tag": "Overall",
+    "overall_gain": 1726.900551434843,
+    "active_positions": 3,
+    "win_amount": 2652.374191748605,
+    "loss_amount": -925.473640313762,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0.022343375,
+    "total_positions": 16,
+    "event_ct": 13,
+    "win_count": 8,
+    "rank": 44721,
+    "trader_tags": "> 1 year old"
   }
 ]
