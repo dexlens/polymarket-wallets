@@ -1342,5 +1342,21 @@
     "win_count": 58,
     "rank": 2084,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x380002b00394456c8a247bcf115b5ee665f72325",
+    "trader_name": "Occasionalbettor",
+    "tag": "Overall",
+    "overall_gain": 57673.52273664302,
+    "active_positions": 0,
+    "win_amount": 75276.06555380659,
+    "loss_amount": -17602.54281716358,
+    "win_rate": 0.9302325581395349,
+    "total_current_value": 0.168899,
+    "total_positions": 173,
+    "event_ct": 129,
+    "win_count": 120,
+    "rank": 2085,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
