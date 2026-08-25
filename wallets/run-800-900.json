@@ -1070,5 +1070,21 @@
     "win_count": 39,
     "rank": 867,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x6baf05d193692bb208d616709e27442c910a94c5",
+    "trader_name": "SBet365",
+    "tag": "Overall",
+    "overall_gain": 141619.927064,
+    "active_positions": 1,
+    "win_amount": 145619.927064,
+    "loss_amount": -4000,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 868,
+    "trader_tags": "Overall PnL > $100k; Politics PnL > $100k"
   }
 ]
