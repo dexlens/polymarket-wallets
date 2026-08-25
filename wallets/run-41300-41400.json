@@ -1470,5 +1470,21 @@
     "win_count": 4,
     "rank": 41393,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8de85fb26ca07d01b28b81557c7540c241f4fc01",
+    "trader_name": "0xKLB",
+    "tag": "Overall",
+    "overall_gain": 1911.6438013591437,
+    "active_positions": 1,
+    "win_amount": 2838.20966042655,
+    "loss_amount": -926.5658590674061,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 0.011466069999999998,
+    "total_positions": 14,
+    "event_ct": 13,
+    "win_count": 7,
+    "rank": 41394,
+    "trader_tags": "> 1 year old"
   }
 ]
