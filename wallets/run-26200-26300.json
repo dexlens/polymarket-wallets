@@ -1406,5 +1406,21 @@
     "win_count": 8,
     "rank": 26289,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x51f8fe8e67bd3c74db80b58ef7c36c0a9332e23e",
+    "trader_name": "difficaltbutstrong",
+    "tag": "Overall",
+    "overall_gain": 3324.553496615523,
+    "active_positions": 5,
+    "win_amount": 3812.447282223126,
+    "loss_amount": -487.893785607604,
+    "win_rate": 0.7547169811320755,
+    "total_current_value": 180.84549600000003,
+    "total_positions": 66,
+    "event_ct": 53,
+    "win_count": 40,
+    "rank": 26290,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
