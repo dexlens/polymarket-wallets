@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 4420,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc41198ef71f85b489ce1c6150733e5a7b824caa7",
+    "trader_name": "lronmexico",
+    "tag": "Overall",
+    "overall_gain": 25153.750108458487,
+    "active_positions": 0,
+    "win_amount": 67771.0073064886,
+    "loss_amount": -42617.25719803013,
+    "win_rate": 0.2757009345794392,
+    "total_current_value": 0.029914,
+    "total_positions": 353,
+    "event_ct": 214,
+    "win_count": 59,
+    "rank": 4421,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
