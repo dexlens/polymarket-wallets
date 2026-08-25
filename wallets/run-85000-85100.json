@@ -238,5 +238,21 @@
     "win_count": 5,
     "rank": 85016,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f6ef3f235b08a71d58db11dbe8054fee48a6ccc",
+    "trader_name": "vnsifn2",
+    "tag": "Overall",
+    "overall_gain": 552.1557142246149,
+    "active_positions": 0,
+    "win_amount": 576.6407989999999,
+    "loss_amount": -24.485084775385,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.000061000000000000005,
+    "total_positions": 16,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 85017,
+    "trader_tags": "> 1 year old"
   }
 ]
