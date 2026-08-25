@@ -190,5 +190,21 @@
     "win_count": 16,
     "rank": 9212,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ec4295fcbcd51699c396b8e1930daa674fedefa",
+    "trader_name": "Charger.zzz",
+    "tag": "Overall",
+    "overall_gain": 11378.004532381154,
+    "active_positions": 944,
+    "win_amount": 90585.52026687787,
+    "loss_amount": -79207.51573449673,
+    "win_rate": 0.47128245476003144,
+    "total_current_value": 9787.868385637497,
+    "total_positions": 3262,
+    "event_ct": 2542,
+    "win_count": 1198,
+    "rank": 9213,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
