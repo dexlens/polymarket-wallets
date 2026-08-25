@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 70720,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d15278d792b70193ab74cb976694520efce6914",
+    "trader_name": "BCIGROUP",
+    "tag": "Overall",
+    "overall_gain": 794.4755130276898,
+    "active_positions": 175,
+    "win_amount": 3277.1264586285,
+    "loss_amount": -2482.65094560081,
+    "win_rate": 0.5372670807453416,
+    "total_current_value": 13.597381018,
+    "total_positions": 380,
+    "event_ct": 322,
+    "win_count": 173,
+    "rank": 70721,
+    "trader_tags": ""
   }
 ]
