@@ -510,5 +510,21 @@
     "win_count": 25,
     "rank": 3932,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c11715ac346bea7e373114a23147b9482201791",
+    "trader_name": "HalWalton",
+    "tag": "Overall",
+    "overall_gain": 28714.854896999997,
+    "active_positions": 0,
+    "win_amount": 28780.024897,
+    "loss_amount": -65.16999999999999,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0,
+    "total_positions": 29,
+    "event_ct": 24,
+    "win_count": 14,
+    "rank": 3933,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
