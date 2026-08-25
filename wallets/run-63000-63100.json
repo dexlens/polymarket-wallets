@@ -766,5 +766,21 @@
     "win_count": 29,
     "rank": 63049,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x263b47ca1a1f20546507557581323ce92562b5f2",
+    "trader_name": "1ofOne",
+    "tag": "Overall",
+    "overall_gain": 998.684877091315,
+    "active_positions": 2,
+    "win_amount": 1003.684817286824,
+    "loss_amount": -4.999940195509,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 2622.827745335,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 63050,
+    "trader_tags": "< 30 days old"
   }
 ]
