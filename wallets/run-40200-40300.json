@@ -830,5 +830,21 @@
     "win_count": 8,
     "rank": 40253,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5cd0c692cf1a5b4ae1a9e0c90539b6a4bf84a0fc",
+    "trader_name": "trollf",
+    "tag": "Overall",
+    "overall_gain": 1980.56653315,
+    "active_positions": 4,
+    "win_amount": 2183.56571415,
+    "loss_amount": -202.999181,
+    "win_rate": 0.8,
+    "total_current_value": 901.0090150000001,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 40254,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
