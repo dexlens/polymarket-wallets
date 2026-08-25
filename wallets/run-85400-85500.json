@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 85444,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4af5cfbaba0223064dbec48096cb8f49f71db563",
+    "trader_name": "ivanmbdg",
+    "tag": "Overall",
+    "overall_gain": 546.0129005117881,
+    "active_positions": 5,
+    "win_amount": 1523.57322360048,
+    "loss_amount": -977.5603230886919,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 1669.8926030300001,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 85445,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
