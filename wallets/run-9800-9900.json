@@ -1310,5 +1310,21 @@
     "win_count": 13,
     "rank": 9882,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0fe93d332bb8a1854e1153541867ed70cbc3d3ef",
+    "trader_name": "ericksusc",
+    "tag": "Overall",
+    "overall_gain": 10609,
+    "active_positions": 0,
+    "win_amount": 10609,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9883,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
