@@ -286,5 +286,21 @@
     "win_count": 55,
     "rank": 8918,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf00af79ecef146b9330607e4b008a20f1e1bc77c",
+    "trader_name": "Thebeast7",
+    "tag": "Overall",
+    "overall_gain": 11745.983412347985,
+    "active_positions": 19,
+    "win_amount": 23187.192671431363,
+    "loss_amount": -11441.209259083367,
+    "win_rate": 0.6986899563318777,
+    "total_current_value": 3983.9572064335007,
+    "total_positions": 283,
+    "event_ct": 229,
+    "win_count": 160,
+    "rank": 8919,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
