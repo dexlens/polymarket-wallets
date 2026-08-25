@@ -206,5 +206,21 @@
     "win_count": 9,
     "rank": 38014,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5dd0a9feb5d344f9d6eec789fd72023c58f5e1b5",
+    "trader_name": "qcvv",
+    "tag": "Overall",
+    "overall_gain": 2118,
+    "active_positions": 1,
+    "win_amount": 2162,
+    "loss_amount": -44,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 38015,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
