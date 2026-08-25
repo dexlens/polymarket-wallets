@@ -206,5 +206,21 @@
     "win_count": 149,
     "rank": 20913,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2508405719f7b1767686ab33aaa39b409818dd7d",
+    "trader_name": "Shadowmark",
+    "tag": "Overall",
+    "overall_gain": 4386.5,
+    "active_positions": 1,
+    "win_amount": 4585.5,
+    "loss_amount": -199,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 20914,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
