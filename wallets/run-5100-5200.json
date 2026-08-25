@@ -1454,5 +1454,21 @@
     "win_count": 93,
     "rank": 5191,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xece92a65b8c847f775c6b806891c6bd90ef975a4",
+    "trader_name": "Lenvic",
+    "tag": "Overall",
+    "overall_gain": 20849.849599009016,
+    "active_positions": 4,
+    "win_amount": 21925.131799009017,
+    "loss_amount": -1075.2822,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 11.470017,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 34,
+    "rank": 5192,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
