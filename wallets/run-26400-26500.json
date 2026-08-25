@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 26454,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8cca85e9da21913e8968adb0b1360dd81aeaa619",
+    "trader_name": "ArdenValley",
+    "tag": "Overall",
+    "overall_gain": 3295.9189170000004,
+    "active_positions": 8,
+    "win_amount": 6492.5468169999995,
+    "loss_amount": -3196.6279,
+    "win_rate": 0.7,
+    "total_current_value": 3236.81925,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 26455,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
