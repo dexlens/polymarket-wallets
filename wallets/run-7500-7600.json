@@ -1038,5 +1038,21 @@
     "win_count": 144,
     "rank": 7565,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xecf1a060d5442e2cc42e48db6d9eb8c44e9992c9",
+    "trader_name": "tututu1a",
+    "tag": "Overall",
+    "overall_gain": 14017.910041,
+    "active_positions": 1,
+    "win_amount": 14017.910041,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 200.29800000000003,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 7566,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
