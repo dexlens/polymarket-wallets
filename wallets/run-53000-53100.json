@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 53094,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b704bf9e12cbb077693b72b9032b8168a832fd5",
+    "trader_name": "bbsbot",
+    "tag": "Overall",
+    "overall_gain": 1343.2766919100002,
+    "active_positions": 3,
+    "win_amount": 1665.096283,
+    "loss_amount": -321.81959108999996,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 15,
+    "rank": 53095,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
