@@ -1102,5 +1102,21 @@
     "win_count": 204,
     "rank": 3869,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbfd770b7ff07fb2ece41b0e7c593db65a84cf0bf",
+    "trader_name": "valnech",
+    "tag": "Overall",
+    "overall_gain": 29313.005063526154,
+    "active_positions": 123,
+    "win_amount": 323547.01877307624,
+    "loss_amount": -294234.01370955014,
+    "win_rate": 0.49185914426353655,
+    "total_current_value": 12148.846998291505,
+    "total_positions": 25529,
+    "event_ct": 10564,
+    "win_count": 5196,
+    "rank": 3870,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
