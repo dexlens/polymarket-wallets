@@ -190,5 +190,21 @@
     "win_count": 3,
     "rank": 9112,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa703c12e0c23af20d867ae5aa13c7e5a347484d6",
+    "trader_name": "loyalautnefs",
+    "tag": "Overall",
+    "overall_gain": 11498.640076,
+    "active_positions": 0,
+    "win_amount": 11499.340076,
+    "loss_amount": -0.7,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 13,
+    "rank": 9113,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
