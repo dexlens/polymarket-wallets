@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 9450,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x09c91e28d2d9779bf44fe4d51094218660106c2e",
+    "trader_name": "CCSEEYOU",
+    "tag": "Overall",
+    "overall_gain": 11093.9107911968,
+    "active_positions": 1,
+    "win_amount": 14191.818642000002,
+    "loss_amount": -3097.9078508032,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 9451,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
