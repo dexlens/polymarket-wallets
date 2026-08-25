@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 29274,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbe805aea4636a3da41e71fc6c76cec9053550784",
+    "trader_name": "Berbis",
+    "tag": "Overall",
+    "overall_gain": 2911.740226460204,
+    "active_positions": 9,
+    "win_amount": 21684.939625621304,
+    "loss_amount": -18773.1993991611,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 3105.641306,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 8,
+    "rank": 29275,
+    "trader_tags": "< 30 days old"
   }
 ]
