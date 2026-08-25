@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 23971,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf4efe00100e855fd272b7052ed72d556cf21a03c",
+    "trader_name": "wsedrt",
+    "tag": "Overall",
+    "overall_gain": 3724.2469869999995,
+    "active_positions": 3,
+    "win_amount": 4587.671387,
+    "loss_amount": -863.4244000000001,
+    "win_rate": 0.9318181818181818,
+    "total_current_value": 182.85,
+    "total_positions": 48,
+    "event_ct": 44,
+    "win_count": 41,
+    "rank": 23972,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
