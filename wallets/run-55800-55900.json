@@ -238,5 +238,21 @@
     "win_count": 3,
     "rank": 55816,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x77fc9cdaea8b408a30e5b11c98d5efbf2d5a0eac",
+    "trader_name": "cluemster",
+    "tag": "Overall",
+    "overall_gain": 1225.0293512237429,
+    "active_positions": 4,
+    "win_amount": 1240.257045222305,
+    "loss_amount": -15.227693998562001,
+    "win_rate": 0.7037037037037037,
+    "total_current_value": 927.761343205,
+    "total_positions": 52,
+    "event_ct": 27,
+    "win_count": 19,
+    "rank": 55817,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
