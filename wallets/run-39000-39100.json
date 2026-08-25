@@ -1470,5 +1470,21 @@
     "win_count": 32,
     "rank": 39093,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d0c779e8b20103bfdb8a691064feeb8844759bb",
+    "trader_name": "TideClover",
+    "tag": "Overall",
+    "overall_gain": 2046.313198,
+    "active_positions": 14,
+    "win_amount": 3683.193198,
+    "loss_amount": -1636.88,
+    "win_rate": 0.5625,
+    "total_current_value": 133,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 18,
+    "rank": 39094,
+    "trader_tags": ""
   }
 ]
