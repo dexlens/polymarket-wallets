@@ -814,5 +814,21 @@
     "win_count": 10,
     "rank": 34652,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x82ede2792d599d11d612718c5086f7994e1e90b2",
+    "trader_name": "applefre",
+    "tag": "Overall",
+    "overall_gain": 2368.8235534540822,
+    "active_positions": 0,
+    "win_amount": 2368.8235534540822,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007098,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 34653,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
