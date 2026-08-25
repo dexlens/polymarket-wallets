@@ -1406,5 +1406,21 @@
     "win_count": 3,
     "rank": 9588,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6342828ea3cd35910b09b0e7b50a137cc6227bd4",
+    "trader_name": "sas22233",
+    "tag": "Overall",
+    "overall_gain": 10921.9477898,
+    "active_positions": 8,
+    "win_amount": 17649.493298,
+    "loss_amount": -6727.5455082,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0.16,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 9,
+    "rank": 9589,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
