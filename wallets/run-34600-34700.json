@@ -830,5 +830,21 @@
     "win_count": 1,
     "rank": 34653,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88911ee8caf1aabd510bd7d427f7955b7a24b5fc",
+    "trader_name": "UN-Sure",
+    "tag": "Overall",
+    "overall_gain": 2368.7955278069267,
+    "active_positions": 175,
+    "win_amount": 3747.8479825648374,
+    "loss_amount": -1379.0524547579098,
+    "win_rate": 0.8727076591154261,
+    "total_current_value": 1883.923085163,
+    "total_positions": 3508,
+    "event_ct": 927,
+    "win_count": 809,
+    "rank": 34654,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
