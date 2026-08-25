@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 49289,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d88fe16309528e59d5802ff92cf5e3d680e81a0",
+    "trader_name": "Polyuser1",
+    "tag": "Overall",
+    "overall_gain": 1514.509666382944,
+    "active_positions": 22,
+    "win_amount": 4170.036150306178,
+    "loss_amount": -2655.526483923234,
+    "win_rate": 0.584070796460177,
+    "total_current_value": 389.41893316150004,
+    "total_positions": 171,
+    "event_ct": 113,
+    "win_count": 66,
+    "rank": 49290,
+    "trader_tags": "> 1 year old"
   }
 ]
