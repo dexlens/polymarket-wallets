@@ -1342,5 +1342,21 @@
     "win_count": 5,
     "rank": 20384,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2de9549cf6dfd617407f9807fb79ae7d17424b3f",
+    "trader_name": "ntzuur",
+    "tag": "Overall",
+    "overall_gain": 4527.266369893602,
+    "active_positions": 5,
+    "win_amount": 13326.056968784296,
+    "loss_amount": -8798.790598890697,
+    "win_rate": 0.85,
+    "total_current_value": 0.021972,
+    "total_positions": 27,
+    "event_ct": 20,
+    "win_count": 17,
+    "rank": 20385,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
