@@ -62,5 +62,21 @@
     "win_count": 1,
     "rank": 4204,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93f49816b40bed3a2bf1e6236c058dddc0dde6a5",
+    "trader_name": "paehc",
+    "tag": "Overall",
+    "overall_gain": 26539.88575748667,
+    "active_positions": 0,
+    "win_amount": 28186.082431477676,
+    "loss_amount": -1646.196673991,
+    "win_rate": 0.5967741935483871,
+    "total_current_value": 0.152281,
+    "total_positions": 146,
+    "event_ct": 62,
+    "win_count": 37,
+    "rank": 4205,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
