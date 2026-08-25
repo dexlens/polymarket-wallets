@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 83650,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6819aebd633e819648f6d8c2875f487d00454e98",
+    "trader_name": "toonzcraft",
+    "tag": "Overall",
+    "overall_gain": 571.7410662113289,
+    "active_positions": 15,
+    "win_amount": 1755.7474128860626,
+    "loss_amount": -1184.0063466747342,
+    "win_rate": 0.757396449704142,
+    "total_current_value": 0.37256999999999996,
+    "total_positions": 213,
+    "event_ct": 169,
+    "win_count": 128,
+    "rank": 83651,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
