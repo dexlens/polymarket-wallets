@@ -238,5 +238,21 @@
     "win_count": 5,
     "rank": 24116,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc602e34792d9a5e129f3404daef2df43d1d37fc1",
+    "trader_name": "Dr.PNL",
+    "tag": "Overall",
+    "overall_gain": 3700.472327532001,
+    "active_positions": 425,
+    "win_amount": 31457.127337291422,
+    "loss_amount": -27756.655009759426,
+    "win_rate": 0.23309608540925267,
+    "total_current_value": 27499.0861920805,
+    "total_positions": 7079,
+    "event_ct": 2248,
+    "win_count": 524,
+    "rank": 24117,
+    "trader_tags": "1k+ Positions"
   }
 ]
