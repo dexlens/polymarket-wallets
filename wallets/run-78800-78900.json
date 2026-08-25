@@ -1486,5 +1486,21 @@
     "win_count": 10,
     "rank": 78894,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb4356e225c6dd389dca8013ef619d3bf2d42f399",
+    "trader_name": "cosmin.t",
+    "tag": "Overall",
+    "overall_gain": 649.507691546028,
+    "active_positions": 3,
+    "win_amount": 879.50520372836,
+    "loss_amount": -229.997512182332,
+    "win_rate": 0.25,
+    "total_current_value": 0.002635,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 78895,
+    "trader_tags": ""
   }
 ]
