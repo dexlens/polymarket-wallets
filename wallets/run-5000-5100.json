@@ -30,5 +30,21 @@
     "win_count": 1,
     "rank": 5002,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04ac5a7bf317decb74d41fba56f006288f5576de",
+    "trader_name": "FFterminal",
+    "tag": "Overall",
+    "overall_gain": 21656.481198769776,
+    "active_positions": 1,
+    "win_amount": 23026.278943004003,
+    "loss_amount": -1369.7977442342299,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.004963,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 5003,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
