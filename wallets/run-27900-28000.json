@@ -446,5 +446,21 @@
     "win_count": 37,
     "rank": 27929,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x5b3b011261b63fc569bd8ff7ff8e0f87ad5a15f6",
+    "trader_name": "trading123",
+    "tag": "Overall",
+    "overall_gain": 3076.943656,
+    "active_positions": 0,
+    "win_amount": 3076.943656,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 27930,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
