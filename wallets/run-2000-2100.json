@@ -1582,5 +1582,21 @@
     "win_count": 23,
     "rank": 2099,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x931bccc9667f7290988f5da68fab38e1395253e0",
+    "trader_name": "le3s",
+    "tag": "Overall",
+    "overall_gain": 57227.7262021615,
+    "active_positions": 20,
+    "win_amount": 62364.05279200001,
+    "loss_amount": -5136.326589838508,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0,
+    "total_positions": 52,
+    "event_ct": 52,
+    "win_count": 32,
+    "rank": 2100,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
