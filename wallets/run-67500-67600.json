@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 67551,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ee45c466e7e9745a637c42a2f198e86e35dace2",
+    "trader_name": "Keusku",
+    "tag": "Overall",
+    "overall_gain": 873.6551206540711,
+    "active_positions": 10,
+    "win_amount": 2346.810410410279,
+    "loss_amount": -1473.155289756208,
+    "win_rate": 0.375,
+    "total_current_value": 0.033438,
+    "total_positions": 35,
+    "event_ct": 32,
+    "win_count": 12,
+    "rank": 67552,
+    "trader_tags": ""
   }
 ]
