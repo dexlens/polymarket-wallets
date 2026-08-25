@@ -1438,5 +1438,21 @@
     "win_count": 20,
     "rank": 31891,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7e8386a72287557f459476d40e176f8f4f598e20",
+    "trader_name": "ofdwr",
+    "tag": "Overall",
+    "overall_gain": 2610.600446,
+    "active_positions": 1,
+    "win_amount": 3254.600446,
+    "loss_amount": -644,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 31892,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
