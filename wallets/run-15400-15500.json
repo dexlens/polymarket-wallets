@@ -1230,5 +1230,21 @@
     "win_count": 19,
     "rank": 15477,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7fc1a38f93fe38a55bb8d37e537fe7c7850f774e",
+    "trader_name": "WallisShaw",
+    "tag": "Overall",
+    "overall_gain": 6249.01754194055,
+    "active_positions": 36,
+    "win_amount": 16251.037523916732,
+    "loss_amount": -10002.019981976184,
+    "win_rate": 0.6464646464646465,
+    "total_current_value": 2.0377730000000005,
+    "total_positions": 99,
+    "event_ct": 99,
+    "win_count": 64,
+    "rank": 15478,
+    "trader_tags": ""
   }
 ]
