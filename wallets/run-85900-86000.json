@@ -1486,5 +1486,21 @@
     "win_count": 63,
     "rank": 85994,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x28f00da35b66af4f60bbd68111dc0150fa7eb69d",
+    "trader_name": "clearr",
+    "tag": "Overall",
+    "overall_gain": 539.2522358599999,
+    "active_positions": 1,
+    "win_amount": 721.365259,
+    "loss_amount": -182.11302314,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 123.24963799999999,
+    "total_positions": 35,
+    "event_ct": 26,
+    "win_count": 20,
+    "rank": 85995,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
