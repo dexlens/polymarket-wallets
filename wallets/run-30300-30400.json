@@ -718,5 +718,21 @@
     "win_count": 4,
     "rank": 30346,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e3e49819a4edf1a73036259347dad05eb6a5443",
+    "trader_name": "BrooklynDash",
+    "tag": "Overall",
+    "overall_gain": 2779.2965839999997,
+    "active_positions": 0,
+    "win_amount": 3621.996835,
+    "loss_amount": -842.7002510000001,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 30347,
+    "trader_tags": "< 30 days old"
   }
 ]
