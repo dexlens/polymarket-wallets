@@ -542,5 +542,21 @@
     "win_count": 90,
     "rank": 15734,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17f1888478009327ed2120be48153f7268770528",
+    "trader_name": "InsideR5",
+    "tag": "Overall",
+    "overall_gain": 6126.63507476353,
+    "active_positions": 4,
+    "win_amount": 11340.372406703997,
+    "loss_amount": -5213.737331940464,
+    "win_rate": 0.7073170731707317,
+    "total_current_value": 155.0053253365,
+    "total_positions": 254,
+    "event_ct": 41,
+    "win_count": 29,
+    "rank": 15735,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
