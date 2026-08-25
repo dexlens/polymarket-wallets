@@ -894,5 +894,21 @@
     "win_count": 11,
     "rank": 8456,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x210197435c48902cf20f1b85e6b2cc38d61e1deb",
+    "trader_name": "ElizabethAnderson4",
+    "tag": "Overall",
+    "overall_gain": 12379.866263000002,
+    "active_positions": 0,
+    "win_amount": 84523.553997,
+    "loss_amount": -72143.687734,
+    "win_rate": 0.5300546448087432,
+    "total_current_value": 0,
+    "total_positions": 549,
+    "event_ct": 549,
+    "win_count": 291,
+    "rank": 8457,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
