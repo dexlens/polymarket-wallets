@@ -862,5 +862,21 @@
     "win_count": 2,
     "rank": 45655,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb7118f26824cfbc472aa512c798f31b665410cd",
+    "trader_name": "GooberThaGooner",
+    "tag": "Overall",
+    "overall_gain": 1683.12288887341,
+    "active_positions": 424,
+    "win_amount": 79399.1969571552,
+    "loss_amount": -77716.0740682818,
+    "win_rate": 0.3197278911564626,
+    "total_current_value": 10.188900432999999,
+    "total_positions": 1423,
+    "event_ct": 882,
+    "win_count": 282,
+    "rank": 45656,
+    "trader_tags": "1k+ Positions"
   }
 ]
