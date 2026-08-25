@@ -1486,5 +1486,21 @@
     "win_count": 3,
     "rank": 62294,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4665ade11a890c7d4cf96796935102df22b51593",
+    "trader_name": "Cloud9",
+    "tag": "Overall",
+    "overall_gain": 1014.61278277119,
+    "active_positions": 1,
+    "win_amount": 1073.8127079370342,
+    "loss_amount": -59.19992516584399,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0.002221,
+    "total_positions": 21,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 62295,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
