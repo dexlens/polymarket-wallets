@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 44236,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ea13aa637c8700b3840c441fd0a1720f280c0e4",
+    "trader_name": "moondk",
+    "tag": "Overall",
+    "overall_gain": 1752.151368209881,
+    "active_positions": 0,
+    "win_amount": 2852.7295011232163,
+    "loss_amount": -1100.578132913335,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.025407,
+    "total_positions": 14,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 44237,
+    "trader_tags": ""
   }
 ]
