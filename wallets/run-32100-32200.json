@@ -1278,5 +1278,21 @@
     "win_count": 3,
     "rank": 32181,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x018d645ece7b8580f60f369805486e7df0f86a8f",
+    "trader_name": "CAC02",
+    "tag": "Overall",
+    "overall_gain": 2583.125805466787,
+    "active_positions": 24,
+    "win_amount": 7280.278386272355,
+    "loss_amount": -4697.152580805569,
+    "win_rate": 0.5196078431372549,
+    "total_current_value": 2.227596,
+    "total_positions": 114,
+    "event_ct": 102,
+    "win_count": 53,
+    "rank": 32182,
+    "trader_tags": ""
   }
 ]
