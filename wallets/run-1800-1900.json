@@ -590,5 +590,21 @@
     "win_count": 17,
     "rank": 1837,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc4567fe2a835b23f40db07f567ba0efbbdc98996",
+    "trader_name": "gydmasg",
+    "tag": "Overall",
+    "overall_gain": 66421.94747665744,
+    "active_positions": 45,
+    "win_amount": 88203.87894311233,
+    "loss_amount": -21781.931466454884,
+    "win_rate": 0.6818181818181818,
+    "total_current_value": 58474.464528394994,
+    "total_positions": 664,
+    "event_ct": 242,
+    "win_count": 165,
+    "rank": 1838,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
