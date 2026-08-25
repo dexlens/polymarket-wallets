@@ -670,5 +670,21 @@
     "win_count": 48,
     "rank": 4042,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x260d5c353f70c6169510d96e462da9b86ddd36c1",
+    "trader_name": "atoddf",
+    "tag": "Overall",
+    "overall_gain": 27752.789141,
+    "active_positions": 0,
+    "win_amount": 27832.419124000004,
+    "loss_amount": -79.62998299999998,
+    "win_rate": 0.4583333333333333,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 24,
+    "win_count": 11,
+    "rank": 4043,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
