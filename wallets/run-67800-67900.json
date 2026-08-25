@@ -830,5 +830,21 @@
     "win_count": 51,
     "rank": 67853,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfbc599cfbc822211f90d8e9b67eb7107837c53c3",
+    "trader_name": "cryptbets",
+    "tag": "Overall",
+    "overall_gain": 864.8555530839868,
+    "active_positions": 5,
+    "win_amount": 15370.188928827203,
+    "loss_amount": -14505.33337574322,
+    "win_rate": 0.6597222222222222,
+    "total_current_value": 0.045767,
+    "total_positions": 155,
+    "event_ct": 144,
+    "win_count": 95,
+    "rank": 67854,
+    "trader_tags": ""
   }
 ]
