@@ -1422,5 +1422,21 @@
     "win_count": 18,
     "rank": 52490,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0b95fbb8b56c13c3d3c24f71ac8faf941ab12ea8",
+    "trader_name": "GoldDigger07",
+    "tag": "Overall",
+    "overall_gain": 1369.9931848430356,
+    "active_positions": 30,
+    "win_amount": 26701.964898185015,
+    "loss_amount": -25331.97171334198,
+    "win_rate": 0.7343358395989975,
+    "total_current_value": 38.306823000000016,
+    "total_positions": 480,
+    "event_ct": 399,
+    "win_count": 293,
+    "rank": 52491,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
