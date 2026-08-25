@@ -974,5 +974,21 @@
     "win_count": 45,
     "rank": 4861,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d8a36a2e263508bebb67bc65a13125450e91324",
+    "trader_name": "Revrec2",
+    "tag": "Overall",
+    "overall_gain": 22370.253038,
+    "active_positions": 0,
+    "win_amount": 22370.253038,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 4862,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
