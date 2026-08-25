@@ -30,5 +30,21 @@
     "win_count": 7,
     "rank": 77003,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x635a12fdf3c93b38b0810c80b9bd733958cd0386",
+    "trader_name": "IsitFive",
+    "tag": "Overall",
+    "overall_gain": 681.9237690325975,
+    "active_positions": 1,
+    "win_amount": 3482.491689260167,
+    "loss_amount": -2800.567920227569,
+    "win_rate": 0.6025118805159538,
+    "total_current_value": 160.02341599999994,
+    "total_positions": 2946,
+    "event_ct": 2946,
+    "win_count": 1775,
+    "rank": 77004,
+    "trader_tags": "1k+ Positions"
   }
 ]
