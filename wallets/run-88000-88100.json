@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 88028,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8ad3e492a7c56a8632cd3f874002422294fa22bb",
+    "trader_name": "Forcaster",
+    "tag": "Overall",
+    "overall_gain": 512.588489047698,
+    "active_positions": 1,
+    "win_amount": 738.69725737439,
+    "loss_amount": -226.108768326692,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 15.864159,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 88029,
+    "trader_tags": "> 1 year old"
   }
 ]
