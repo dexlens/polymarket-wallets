@@ -558,5 +558,21 @@
     "win_count": 15,
     "rank": 9035,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9da5b4e12f35a11aa8ec39f06814f0a5a9b1ee30",
+    "trader_name": "Xiaolong",
+    "tag": "Overall",
+    "overall_gain": 11606.21861896117,
+    "active_positions": 0,
+    "win_amount": 11606.21861896117,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00041,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 9036,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
