@@ -1406,5 +1406,21 @@
     "win_count": 1984,
     "rank": 1388,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x91654fd592ea5339fc0b1b2f2b30bfffa5e75b98",
+    "trader_name": "C.SIN",
+    "tag": "Overall",
+    "overall_gain": 87491.65935308632,
+    "active_positions": 0,
+    "win_amount": 15405492.58915885,
+    "loss_amount": -15318000.929805761,
+    "win_rate": 0.5153846153846153,
+    "total_current_value": 0.000161,
+    "total_positions": 518,
+    "event_ct": 390,
+    "win_count": 201,
+    "rank": 1389,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
