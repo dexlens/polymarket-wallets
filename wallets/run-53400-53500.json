@@ -862,5 +862,21 @@
     "win_count": 2,
     "rank": 53455,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x2e1e98d912e97cb3d8f587487a042f7f853037eb",
+    "trader_name": "PhantomWaypoint",
+    "tag": "Overall",
+    "overall_gain": 1326.465,
+    "active_positions": 3,
+    "win_amount": 1870.645,
+    "loss_amount": -544.1800000000001,
+    "win_rate": 0.75,
+    "total_current_value": 11.235000000000001,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 53456,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
