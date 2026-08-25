@@ -686,5 +686,21 @@
     "win_count": 4,
     "rank": 23443,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x34aa0929ca70ccf1442a9428581a9ec1641f3ae7",
+    "trader_name": "edybunc",
+    "tag": "Overall",
+    "overall_gain": 3831.4927979633717,
+    "active_positions": 2,
+    "win_amount": 3982.2986179157606,
+    "loss_amount": -150.805819952389,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 156.349332,
+    "total_positions": 36,
+    "event_ct": 33,
+    "win_count": 30,
+    "rank": 23444,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
