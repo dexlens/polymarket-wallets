@@ -190,5 +190,21 @@
     "win_count": 3,
     "rank": 23112,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91001004a10b22ab66cdf61729b1910105ef9a4c",
+    "trader_name": "Ikkyu1",
+    "tag": "Overall",
+    "overall_gain": 3896.5343855905503,
+    "active_positions": 0,
+    "win_amount": 24872.159127946794,
+    "loss_amount": -20975.62474235624,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0.003769,
+    "total_positions": 48,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 23113,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
