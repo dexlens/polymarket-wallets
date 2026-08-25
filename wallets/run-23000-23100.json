@@ -558,5 +558,21 @@
     "win_count": 8,
     "rank": 23035,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x340b8d8eaf03c0b7aa477ab68e27fd3a2a1af8dc",
+    "trader_name": "striksij",
+    "tag": "Overall",
+    "overall_gain": 3912.120232639762,
+    "active_positions": 14,
+    "win_amount": 4701.811373781377,
+    "loss_amount": -789.691141141616,
+    "win_rate": 0.7349397590361446,
+    "total_current_value": 420.0708350609999,
+    "total_positions": 127,
+    "event_ct": 83,
+    "win_count": 61,
+    "rank": 23036,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
