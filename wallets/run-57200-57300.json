@@ -974,5 +974,21 @@
     "win_count": 3,
     "rank": 57262,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x439b095eac5d164a7cc39f58966d245b9b8a47d0",
+    "trader_name": "frr421",
+    "tag": "Overall",
+    "overall_gain": 1169.27369141043,
+    "active_positions": 0,
+    "win_amount": 1169.27369141043,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000015000000000000002,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 57263,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
