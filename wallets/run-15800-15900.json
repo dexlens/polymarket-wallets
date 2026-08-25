@@ -1166,5 +1166,21 @@
     "win_count": 12,
     "rank": 15873,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa450e0d53476de04f775d238d22ba736d43b452f",
+    "trader_name": "wimpi",
+    "tag": "Overall",
+    "overall_gain": 6066.00293606245,
+    "active_positions": 76,
+    "win_amount": 7211.620733985603,
+    "loss_amount": -1145.6177979231527,
+    "win_rate": 0.8032786885245902,
+    "total_current_value": 443.293010056,
+    "total_positions": 203,
+    "event_ct": 61,
+    "win_count": 49,
+    "rank": 15874,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
