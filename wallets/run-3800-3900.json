@@ -1470,5 +1470,21 @@
     "win_count": 14,
     "rank": 3892,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2c7f59edbcfdd5d8b7d640ffddb0ee716461be25",
+    "trader_name": "Trumputin",
+    "tag": "Overall",
+    "overall_gain": 29069.163477750248,
+    "active_positions": 9,
+    "win_amount": 38893.75213294359,
+    "loss_amount": -9824.588655193342,
+    "win_rate": 0.6811594202898551,
+    "total_current_value": 480.250333765,
+    "total_positions": 749,
+    "event_ct": 552,
+    "win_count": 376,
+    "rank": 3893,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
