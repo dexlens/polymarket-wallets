@@ -894,5 +894,21 @@
     "win_count": 3,
     "rank": 44357,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x60f100f5112b42e2ef89036d8b9c6877757dcb3e",
+    "trader_name": "mingxyz",
+    "tag": "Overall",
+    "overall_gain": 1745.117942284431,
+    "active_positions": 7,
+    "win_amount": 5771.592218082157,
+    "loss_amount": -4026.4742757977247,
+    "win_rate": 0.581081081081081,
+    "total_current_value": 1452.8725817949994,
+    "total_positions": 271,
+    "event_ct": 74,
+    "win_count": 43,
+    "rank": 44358,
+    "trader_tags": ""
   }
 ]
