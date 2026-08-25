@@ -990,5 +990,21 @@
     "win_count": 7,
     "rank": 85163,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x63d0daaa8a5772ac56d9886d1848f1444afb2f7e",
+    "trader_name": "bjulik",
+    "tag": "Overall",
+    "overall_gain": 549.9860527559061,
+    "active_positions": 2,
+    "win_amount": 594.1385307559061,
+    "loss_amount": -44.152478,
+    "win_rate": 0.918918918918919,
+    "total_current_value": 433.217148735,
+    "total_positions": 97,
+    "event_ct": 37,
+    "win_count": 34,
+    "rank": 85164,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
