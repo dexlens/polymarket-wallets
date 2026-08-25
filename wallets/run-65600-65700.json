@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 65649,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7946e8af46c75baec9bd1e7e726c5e0bd3b11c01",
+    "trader_name": "ArtuBao",
+    "tag": "Overall",
+    "overall_gain": 926.6463830000001,
+    "active_positions": 2,
+    "win_amount": 5098.715775000001,
+    "loss_amount": -4172.069391999999,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 33,
+    "win_count": 18,
+    "rank": 65650,
+    "trader_tags": "> 1 year old"
   }
 ]
