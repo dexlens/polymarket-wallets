@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 38700,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1a97ff3a9170c38ad02308afebb95a70fe59c326",
+    "trader_name": "helmer",
+    "tag": "Overall",
+    "overall_gain": 2073.5243420000006,
+    "active_positions": 0,
+    "win_amount": 4600.294841,
+    "loss_amount": -2526.770499,
+    "win_rate": 0.725,
+    "total_current_value": 0,
+    "total_positions": 51,
+    "event_ct": 40,
+    "win_count": 29,
+    "rank": 38701,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
