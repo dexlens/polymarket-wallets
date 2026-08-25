@@ -1262,5 +1262,21 @@
     "win_count": 23,
     "rank": 74880,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7c7a40fefe3c570b7086df6589d04fdc88882cd2",
+    "trader_name": "kuinji",
+    "tag": "Overall",
+    "overall_gain": 714.987562,
+    "active_positions": 2,
+    "win_amount": 714.987562,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3082.959105,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 74881,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
