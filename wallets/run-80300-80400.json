@@ -1294,5 +1294,21 @@
     "win_count": 369,
     "rank": 80382,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8c0c47e70f10d2dd62b7e2ff2d49702bfcfd79b5",
+    "trader_name": "genj",
+    "tag": "Overall",
+    "overall_gain": 624.2376962310001,
+    "active_positions": 12,
+    "win_amount": 628.6128362310002,
+    "loss_amount": -4.37514,
+    "win_rate": 0.9565217391304348,
+    "total_current_value": 514.4561452070001,
+    "total_positions": 90,
+    "event_ct": 69,
+    "win_count": 66,
+    "rank": 80383,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
