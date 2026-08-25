@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 15174,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x468a5a8378e1e9509d69c851975763be3694d87e",
+    "trader_name": "heyyou",
+    "tag": "Overall",
+    "overall_gain": 6406.754429826517,
+    "active_positions": 1,
+    "win_amount": 7333.975453396516,
+    "loss_amount": -927.2210235699999,
+    "win_rate": 0.85,
+    "total_current_value": 0.008516,
+    "total_positions": 21,
+    "event_ct": 20,
+    "win_count": 17,
+    "rank": 15175,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
