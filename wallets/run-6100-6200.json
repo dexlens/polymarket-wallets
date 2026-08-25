@@ -1502,5 +1502,21 @@
     "win_count": 16768,
     "rank": 6194,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x21d6ca1a07d186a196dc632088ce1e9d852286fd",
+    "trader_name": "YuriyOmelchenko",
+    "tag": "Overall",
+    "overall_gain": 17288.447430144697,
+    "active_positions": 41,
+    "win_amount": 73794.37839008783,
+    "loss_amount": -56505.93095994316,
+    "win_rate": 0.475,
+    "total_current_value": 0.13251,
+    "total_positions": 183,
+    "event_ct": 160,
+    "win_count": 76,
+    "rank": 6195,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
