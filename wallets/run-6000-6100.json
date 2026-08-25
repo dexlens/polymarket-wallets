@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 6020,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1d56cdc458f373847e1e5ee31090c76abb747486",
+    "trader_name": "KPSingh",
+    "tag": "Overall",
+    "overall_gain": 17813.102519000007,
+    "active_positions": 0,
+    "win_amount": 552886.1447350001,
+    "loss_amount": -535073.042216,
+    "win_rate": 0.7464358452138493,
+    "total_current_value": 0,
+    "total_positions": 1510,
+    "event_ct": 982,
+    "win_count": 733,
+    "rank": 6021,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
