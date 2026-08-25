@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 87250,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaf9eabf6cbacc38b36e57d20152d2e718431dcf3",
+    "trader_name": "Galeentry",
+    "tag": "Overall",
+    "overall_gain": 522.5,
+    "active_positions": 4,
+    "win_amount": 1818.5,
+    "loss_amount": -1296,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 87251,
+    "trader_tags": ""
   }
 ]
