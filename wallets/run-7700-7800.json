@@ -718,5 +718,21 @@
     "win_count": 4,
     "rank": 7745,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa06cf99b7dced07765e2b605c31698550b090861",
+    "trader_name": "Aeoluss",
+    "tag": "Overall",
+    "overall_gain": 13629.222302441416,
+    "active_positions": 15,
+    "win_amount": 44470.767567437906,
+    "loss_amount": -30841.545264996494,
+    "win_rate": 0.24260355029585798,
+    "total_current_value": 437.8173186029999,
+    "total_positions": 814,
+    "event_ct": 338,
+    "win_count": 82,
+    "rank": 7746,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
