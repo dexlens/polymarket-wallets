@@ -142,5 +142,21 @@
     "win_count": 2,
     "rank": 20109,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x81aaa4095e632b358fdee61abcfa9f2c64d4c075",
+    "trader_name": "dlgochan",
+    "tag": "Overall",
+    "overall_gain": 4597.924098664882,
+    "active_positions": 1,
+    "win_amount": 4598.124595666216,
+    "loss_amount": -0.200497001334,
+    "win_rate": 0.96,
+    "total_current_value": 5425.3920831115,
+    "total_positions": 26,
+    "event_ct": 25,
+    "win_count": 24,
+    "rank": 20110,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
