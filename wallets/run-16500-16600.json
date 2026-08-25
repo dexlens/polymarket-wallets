@@ -1582,5 +1582,21 @@
     "win_count": 23,
     "rank": 16599,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x57617edeb3b3840a1cb14b115a80033cdb760c28",
+    "trader_name": "therugdude",
+    "tag": "Overall",
+    "overall_gain": 5734.700879417402,
+    "active_positions": 1,
+    "win_amount": 6214.291253280189,
+    "loss_amount": -479.590373862787,
+    "win_rate": 0.9130434782608695,
+    "total_current_value": 0.07071699999999999,
+    "total_positions": 58,
+    "event_ct": 46,
+    "win_count": 42,
+    "rank": 16600,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
