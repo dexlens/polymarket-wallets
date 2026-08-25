@@ -638,5 +638,21 @@
     "win_count": 7,
     "rank": 4440,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64e93f87d8a0c1b2cde6f20d71f211372a95eb4c",
+    "trader_name": "oudine2",
+    "tag": "Overall",
+    "overall_gain": 24989.34180417258,
+    "active_positions": 5,
+    "win_amount": 39258.91806333666,
+    "loss_amount": -14269.576259164076,
+    "win_rate": 0.7126865671641791,
+    "total_current_value": 9132.6526314505,
+    "total_positions": 1272,
+    "event_ct": 804,
+    "win_count": 573,
+    "rank": 4441,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
