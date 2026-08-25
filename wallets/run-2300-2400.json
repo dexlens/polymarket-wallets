@@ -878,5 +878,21 @@
     "win_count": 249,
     "rank": 2355,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ab6ac0f0d6ca5a15ec57abeaf413d31c8cdfa77",
+    "trader_name": "ACara",
+    "tag": "Overall",
+    "overall_gain": 50115.24590926175,
+    "active_positions": 962,
+    "win_amount": 75143.51572352767,
+    "loss_amount": -25028.269814265925,
+    "win_rate": 0.4020979020979021,
+    "total_current_value": 9302.047805664999,
+    "total_positions": 5495,
+    "event_ct": 2002,
+    "win_count": 805,
+    "rank": 2356,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
