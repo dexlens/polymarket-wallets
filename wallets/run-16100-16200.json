@@ -174,5 +174,21 @@
     "win_count": 2,
     "rank": 16111,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdf974b8db371482e34ff44b0fbfce11a0abf4653",
+    "trader_name": "menGo",
+    "tag": "Overall",
+    "overall_gain": 5947.288259467976,
+    "active_positions": 11,
+    "win_amount": 8230.03714502448,
+    "loss_amount": -2282.7488855565084,
+    "win_rate": 0.7726161369193154,
+    "total_current_value": 9164.340140166001,
+    "total_positions": 955,
+    "event_ct": 409,
+    "win_count": 316,
+    "rank": 16112,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
