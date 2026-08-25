@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 6750,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37c17fbde930439676805f5cd8c102d72bd7b9fe",
+    "trader_name": "beatingheart",
+    "tag": "Overall",
+    "overall_gain": 15897.042827049072,
+    "active_positions": 4,
+    "win_amount": 25023.069810999998,
+    "loss_amount": -9126.026983950926,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 10.972970699999998,
+    "total_positions": 21,
+    "event_ct": 18,
+    "win_count": 14,
+    "rank": 6751,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
