@@ -622,5 +622,21 @@
     "win_count": 8,
     "rank": 31440,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdebd00a4f23faf0419b583d9499d47e0fb27416a",
+    "trader_name": "fdkkl",
+    "tag": "Overall",
+    "overall_gain": 2656.671192426692,
+    "active_positions": 6,
+    "win_amount": 4060.984764126,
+    "loss_amount": -1404.3135716993079,
+    "win_rate": 0.8933333333333333,
+    "total_current_value": 257.02974664,
+    "total_positions": 88,
+    "event_ct": 75,
+    "win_count": 67,
+    "rank": 31441,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
