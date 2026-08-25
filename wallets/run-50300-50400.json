@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 50365,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d221ea65a9c22eebc234713b2b1847e90b65e03",
+    "trader_name": "Ifithhj",
+    "tag": "Overall",
+    "overall_gain": 1468.3198674023292,
+    "active_positions": 128,
+    "win_amount": 13317.248179191733,
+    "loss_amount": -11848.928311789405,
+    "win_rate": 0.5805369127516778,
+    "total_current_value": 949.3557231009999,
+    "total_positions": 482,
+    "event_ct": 298,
+    "win_count": 173,
+    "rank": 50366,
+    "trader_tags": "< 30 days old"
   }
 ]
