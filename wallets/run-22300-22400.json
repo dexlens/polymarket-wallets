@@ -1470,5 +1470,21 @@
     "win_count": 2,
     "rank": 22392,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6761c2a2ae4a195fc3182065b47722d40b0bb785",
+    "trader_name": "GL1",
+    "tag": "Overall",
+    "overall_gain": 4034.682552,
+    "active_positions": 0,
+    "win_amount": 4034.682552,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 22393,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
