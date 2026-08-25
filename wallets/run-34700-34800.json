@@ -702,5 +702,21 @@
     "win_count": 3,
     "rank": 34745,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xddec10b2bd4d97b2c457fa4bfd4ffb917dc50015",
+    "trader_name": "bigbossnba",
+    "tag": "Overall",
+    "overall_gain": 2362.09718359813,
+    "active_positions": 5,
+    "win_amount": 6063.26168,
+    "loss_amount": -3701.16449640187,
+    "win_rate": 0.7391304347826086,
+    "total_current_value": 0,
+    "total_positions": 24,
+    "event_ct": 23,
+    "win_count": 17,
+    "rank": 34746,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
