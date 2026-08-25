@@ -1214,5 +1214,21 @@
     "win_count": 123,
     "rank": 52677,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x024bb21c41737ac5b6da5fd51d2bf6e3da3ab2c8",
+    "trader_name": "RollOnRollOff",
+    "tag": "Overall",
+    "overall_gain": 1361.24739507854,
+    "active_positions": 2,
+    "win_amount": 1363.44739507854,
+    "loss_amount": -2.2,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 52678,
+    "trader_tags": "> 1 year old"
   }
 ]
