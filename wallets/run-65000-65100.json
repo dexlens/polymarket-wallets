@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 65092,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6515b74d6c8198df5e5b295fe2a333a8dd2da2b2",
+    "trader_name": "MetraComp",
+    "tag": "Overall",
+    "overall_gain": 942.7905773344219,
+    "active_positions": 4,
+    "win_amount": 3384.701072349377,
+    "loss_amount": -2441.910495014955,
+    "win_rate": 0.7166666666666667,
+    "total_current_value": 0.748665706,
+    "total_positions": 65,
+    "event_ct": 60,
+    "win_count": 43,
+    "rank": 65093,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
