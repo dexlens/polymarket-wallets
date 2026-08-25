@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 7582,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbf09feccd73a1cac4a19c079e976de1ec99fadb2",
+    "trader_name": "davide4217",
+    "tag": "Overall",
+    "overall_gain": 13982.867110142,
+    "active_positions": 2,
+    "win_amount": 14822.675255,
+    "loss_amount": -839.808144858,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 7583,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
