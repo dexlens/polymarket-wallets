@@ -622,5 +622,21 @@
     "win_count": 18,
     "rank": 5439,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x80c6401d9d3f7a43b2083a3ee5d4e88198e24d8a",
+    "trader_name": "aze",
+    "tag": "Overall",
+    "overall_gain": 19889.718911617212,
+    "active_positions": 1,
+    "win_amount": 40208.51165165598,
+    "loss_amount": -20318.79274003876,
+    "win_rate": 0.35294117647058826,
+    "total_current_value": 0.013531999999999999,
+    "total_positions": 19,
+    "event_ct": 17,
+    "win_count": 6,
+    "rank": 5440,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
