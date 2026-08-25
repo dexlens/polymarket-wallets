@@ -830,5 +830,21 @@
     "win_count": 5,
     "rank": 86653,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x43d78974cf585d0e5361f866a63e7e4c26fbfc39",
+    "trader_name": "Cosminmd",
+    "tag": "Overall",
+    "overall_gain": 530.1967258799999,
+    "active_positions": 0,
+    "win_amount": 530.1967258799999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006458,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 86654,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
