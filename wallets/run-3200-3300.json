@@ -1406,5 +1406,21 @@
     "win_count": 6,
     "rank": 3288,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9564e90a1b86222cfde0cae901ea009f02ef3a32",
+    "trader_name": "Armin-1Q",
+    "tag": "Overall",
+    "overall_gain": 34842.02447645604,
+    "active_positions": 6,
+    "win_amount": 60841.06057084911,
+    "loss_amount": -25999.036094393057,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 29664.236723734506,
+    "total_positions": 47,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 3289,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
