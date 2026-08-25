@@ -1038,5 +1038,21 @@
     "win_count": 5,
     "rank": 26066,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e5c5ba419bd2a57bf3ed08e8933dd442490a2bd",
+    "trader_name": "cjjbehb",
+    "tag": "Overall",
+    "overall_gain": 3358.39229667,
+    "active_positions": 2,
+    "win_amount": 4078.39229667,
+    "loss_amount": -720,
+    "win_rate": 0.8,
+    "total_current_value": 2120.989997,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 26067,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
