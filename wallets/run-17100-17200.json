@@ -462,5 +462,21 @@
     "win_count": 5,
     "rank": 17129,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7ec6b824e7756c395ea1f01ac2751f70d5daf169",
+    "trader_name": "Gplp",
+    "tag": "Overall",
+    "overall_gain": 5496.9612616461845,
+    "active_positions": 5,
+    "win_amount": 5519.2043950694615,
+    "loss_amount": -22.243133423277,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 56.833156755,
+    "total_positions": 13,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 17130,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
