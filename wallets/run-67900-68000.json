@@ -14,5 +14,21 @@
     "win_count": 5,
     "rank": 67902,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf2be1c7b53567706288a25ee3b5d2abc58754c9f",
+    "trader_name": "tpb1",
+    "tag": "Overall",
+    "overall_gain": 863.13293161378,
+    "active_positions": 225,
+    "win_amount": 22445.969018099477,
+    "loss_amount": -21582.836086485684,
+    "win_rate": 0.8049650449422171,
+    "total_current_value": 14.660164999999992,
+    "total_positions": 14009,
+    "event_ct": 7009,
+    "win_count": 5642,
+    "rank": 67903,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
