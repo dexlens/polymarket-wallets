@@ -382,5 +382,21 @@
     "win_count": 56,
     "rank": 12224,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6ac993703f3e5c5a0925558afd1d1095735501ab",
+    "trader_name": "kbvkjfdvbk",
+    "tag": "Overall",
+    "overall_gain": 8376,
+    "active_positions": 1,
+    "win_amount": 9858.5,
+    "loss_amount": -1482.5,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 12225,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
