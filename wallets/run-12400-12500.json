@@ -382,5 +382,21 @@
     "win_count": 23,
     "rank": 12424,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7789a1800ffdf54dd47a400ff7de1757e2e810c8",
+    "trader_name": "AlexHunter",
+    "tag": "Overall",
+    "overall_gain": 8190.312256567343,
+    "active_positions": 4,
+    "win_amount": 9698.624741024707,
+    "loss_amount": -1508.3124844573651,
+    "win_rate": 0.44,
+    "total_current_value": 0.045065,
+    "total_positions": 50,
+    "event_ct": 25,
+    "win_count": 11,
+    "rank": 12425,
+    "trader_tags": "> 1 year old"
   }
 ]
