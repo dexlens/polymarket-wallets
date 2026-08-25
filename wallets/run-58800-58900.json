@@ -1550,5 +1550,21 @@
     "win_count": 5,
     "rank": 58898,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x80f318d04aef45f845a10fc17b343351f2080bbe",
+    "trader_name": "bundaberry",
+    "tag": "Overall",
+    "overall_gain": 1112.036445841156,
+    "active_positions": 0,
+    "win_amount": 1112.036445841156,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001156,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 58899,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
