@@ -510,5 +510,21 @@
     "win_count": 100,
     "rank": 64333,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b43e26ee60aefc1f55e8c661b1c8c59e85c0674",
+    "trader_name": "shaaa",
+    "tag": "Overall",
+    "overall_gain": 964.141401887968,
+    "active_positions": 4,
+    "win_amount": 1552.740378,
+    "loss_amount": -588.598976112032,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 14,
+    "rank": 64334,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
