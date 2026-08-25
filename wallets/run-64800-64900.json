@@ -830,5 +830,21 @@
     "win_count": 2,
     "rank": 64853,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x46bd9e1a0b964e7deb6a85ef9f0142e17f78500d",
+    "trader_name": "RiverWhite",
+    "tag": "Overall",
+    "overall_gain": 949.940998990492,
+    "active_positions": 1,
+    "win_amount": 969,
+    "loss_amount": -19.059001009508,
+    "win_rate": 0.2,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 1,
+    "rank": 64854,
+    "trader_tags": "> 1 year old"
   }
 ]
