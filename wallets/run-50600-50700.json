@@ -1582,5 +1582,21 @@
     "win_count": 19,
     "rank": 50700,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x21cea947b1232a506ffeed0fe3b5b64159967d30",
+    "trader_name": "HhR8fZNz1",
+    "tag": "Overall",
+    "overall_gain": 1453.7484023111065,
+    "active_positions": 15,
+    "win_amount": 15103.24840231111,
+    "loss_amount": -13649.5,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 5.017106999999998,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 21,
+    "rank": 50701,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
