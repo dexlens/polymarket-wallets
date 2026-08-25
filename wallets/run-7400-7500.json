@@ -1550,5 +1550,21 @@
     "win_count": 36,
     "rank": 7497,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x593103c6d80ec322f401a76cf957c140de742877",
+    "trader_name": "2tuSYZOm",
+    "tag": "Overall",
+    "overall_gain": 14148.146104999998,
+    "active_positions": 14,
+    "win_amount": 27429.646104999996,
+    "loss_amount": -13281.5,
+    "win_rate": 0.5625,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 18,
+    "rank": 7498,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
