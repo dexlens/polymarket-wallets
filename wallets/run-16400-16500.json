@@ -1198,5 +1198,21 @@
     "win_count": 7,
     "rank": 16475,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x188cfcf6f42f952e1907a5b1d0211a061aa13d31",
+    "trader_name": "WHORY",
+    "tag": "Overall",
+    "overall_gain": 5785.480759915553,
+    "active_positions": 1,
+    "win_amount": 7700.438968334519,
+    "loss_amount": -1914.958208418966,
+    "win_rate": 0.5882352941176471,
+    "total_current_value": 0.04119400000000001,
+    "total_positions": 36,
+    "event_ct": 34,
+    "win_count": 20,
+    "rank": 16476,
+    "trader_tags": "> 1 year old"
   }
 ]
