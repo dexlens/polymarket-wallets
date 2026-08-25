@@ -1534,5 +1534,21 @@
     "win_count": 5,
     "rank": 78897,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33109d90f902f50374a8dc0e3ca820757c892f4a",
+    "trader_name": "nvm932",
+    "tag": "Overall",
+    "overall_gain": 649.467160172636,
+    "active_positions": 1,
+    "win_amount": 649.648499172636,
+    "loss_amount": -0.181339,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 7.222856,
+    "total_positions": 24,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 78898,
+    "trader_tags": "> 1 year old"
   }
 ]
