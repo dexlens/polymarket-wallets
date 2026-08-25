@@ -382,5 +382,21 @@
     "win_count": 26,
     "rank": 14324,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x54e2b86bc5ce72f6c39797f5e2aa734cbe0034fb",
+    "trader_name": "Flancho",
+    "tag": "Overall",
+    "overall_gain": 6872.351192496587,
+    "active_positions": 3,
+    "win_amount": 12718.363008386948,
+    "loss_amount": -5846.0118158903615,
+    "win_rate": 0.9785714285714285,
+    "total_current_value": 32689.157848026494,
+    "total_positions": 1236,
+    "event_ct": 560,
+    "win_count": 548,
+    "rank": 14325,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
