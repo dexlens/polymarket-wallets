@@ -878,5 +878,21 @@
     "win_count": 32,
     "rank": 88256,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x336f5eb5e628573711ef6bce7eae6b961c0e2a38",
+    "trader_name": "tbgrfverv",
+    "tag": "Overall",
+    "overall_gain": 510.00003,
+    "active_positions": 0,
+    "win_amount": 510.00003,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.01,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 88257,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
