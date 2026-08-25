@@ -670,5 +670,21 @@
     "win_count": 12,
     "rank": 5542,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe3b74b92be3d0b445331377c1e15bf5d6ce8041e",
+    "trader_name": "katrinak",
+    "tag": "Overall",
+    "overall_gain": 19502.5,
+    "active_positions": 0,
+    "win_amount": 19603.5,
+    "loss_amount": -101,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 5543,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
