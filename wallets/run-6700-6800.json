@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 6764,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3c6687b682f7a9ea14930e9d594f734f6c9969fb",
+    "trader_name": "NoahCummings",
+    "tag": "Overall",
+    "overall_gain": 15864.059838,
+    "active_positions": 5,
+    "win_amount": 20887.059838,
+    "loss_amount": -5023,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 6765,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
