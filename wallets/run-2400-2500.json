@@ -1342,5 +1342,21 @@
     "win_count": 6,
     "rank": 2484,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b6022ae41ad7a0b387a88c17885c754436ca55b",
+    "trader_name": "Outsmarter",
+    "tag": "Overall",
+    "overall_gain": 47302.05338080423,
+    "active_positions": 3,
+    "win_amount": 47567.11694138684,
+    "loss_amount": -265.06356058261105,
+    "win_rate": 0.625,
+    "total_current_value": 934.9374417270001,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 2485,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
