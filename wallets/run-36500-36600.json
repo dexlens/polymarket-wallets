@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 36525,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9732f622c04d7d91dc0637fe0b6c7ae02d62cd57",
+    "trader_name": "EarlHickey",
+    "tag": "Overall",
+    "overall_gain": 2223.584381993091,
+    "active_positions": 16,
+    "win_amount": 2366.374488459527,
+    "loss_amount": -142.79010646643601,
+    "win_rate": 0.7582417582417582,
+    "total_current_value": 5.762219042000001,
+    "total_positions": 102,
+    "event_ct": 91,
+    "win_count": 69,
+    "rank": 36526,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
