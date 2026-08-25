@@ -366,5 +366,21 @@
     "win_count": 12,
     "rank": 6223,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf2ce1505d357ab32a3e7191f9b7a5575a73fd0ee",
+    "trader_name": "zelini",
+    "tag": "Overall",
+    "overall_gain": 17208.15837200001,
+    "active_positions": 3,
+    "win_amount": 33161.207217,
+    "loss_amount": -15953.048844999998,
+    "win_rate": 0.7090909090909091,
+    "total_current_value": 2457.1205,
+    "total_positions": 59,
+    "event_ct": 55,
+    "win_count": 39,
+    "rank": 6224,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
