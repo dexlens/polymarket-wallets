@@ -1406,5 +1406,21 @@
     "win_count": 29,
     "rank": 21288,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25f3958b79afc1943a49258d16d52225ed6f20b8",
+    "trader_name": "LucidLoom",
+    "tag": "Overall",
+    "overall_gain": 4286.5,
+    "active_positions": 3,
+    "win_amount": 5050,
+    "loss_amount": -763.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 21289,
+    "trader_tags": ""
   }
 ]
