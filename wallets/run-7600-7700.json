@@ -430,5 +430,21 @@
     "win_count": 6,
     "rank": 7627,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5b9867e2e6aef9e5e67b7e424cdc5d09a868b26a",
+    "trader_name": "HoleraMike",
+    "tag": "Overall",
+    "overall_gain": 13879.760997105026,
+    "active_positions": 0,
+    "win_amount": 14907.660451703248,
+    "loss_amount": -1027.899454598222,
+    "win_rate": 0.25,
+    "total_current_value": 0.033063,
+    "total_positions": 16,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 7628,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
