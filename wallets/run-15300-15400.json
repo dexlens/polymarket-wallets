@@ -750,5 +750,21 @@
     "win_count": 3,
     "rank": 15347,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x308cf1c248d19c8401bffc7e800d686f47974e7e",
+    "trader_name": "LiamGG",
+    "tag": "Overall",
+    "overall_gain": 6310.399310198,
+    "active_positions": 1,
+    "win_amount": 6561.090545,
+    "loss_amount": -250.691234802,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 1504.002247622,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 15348,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
