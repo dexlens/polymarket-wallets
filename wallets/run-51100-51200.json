@@ -142,5 +142,21 @@
     "win_count": 3,
     "rank": 51110,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb155a5dbb7ba5fef7c89db413ee95b67e8bbbe5",
+    "trader_name": "wearet",
+    "tag": "Overall",
+    "overall_gain": 1433.429276755713,
+    "active_positions": 2,
+    "win_amount": 1621.667452,
+    "loss_amount": -188.23817524428694,
+    "win_rate": 0.10309278350515463,
+    "total_current_value": 50,
+    "total_positions": 185,
+    "event_ct": 97,
+    "win_count": 10,
+    "rank": 51111,
+    "trader_tags": "> 1 year old"
   }
 ]
