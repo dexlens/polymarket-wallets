@@ -1518,5 +1518,21 @@
     "win_count": 75,
     "rank": 23295,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4aaa1d3fbcaea443d074ffd3af5c234bfc2c089",
+    "trader_name": "phineais",
+    "tag": "Overall",
+    "overall_gain": 3860,
+    "active_positions": 2,
+    "win_amount": 4513,
+    "loss_amount": -653,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 23296,
+    "trader_tags": ""
   }
 ]
