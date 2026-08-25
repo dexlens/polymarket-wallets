@@ -174,5 +174,21 @@
     "win_count": 4,
     "rank": 55512,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0422b78d9779767122ec48601bfac042e5f043cd",
+    "trader_name": "KnucklesXBT",
+    "tag": "Overall",
+    "overall_gain": 1237.967650657938,
+    "active_positions": 2,
+    "win_amount": 1472.5808366153142,
+    "loss_amount": -234.613185957376,
+    "win_rate": 0.85,
+    "total_current_value": 0.041757,
+    "total_positions": 30,
+    "event_ct": 20,
+    "win_count": 17,
+    "rank": 55513,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
