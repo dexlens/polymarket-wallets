@@ -846,5 +846,21 @@
     "win_count": 8,
     "rank": 17353,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2cf5d189cd35f84c3779def393b2942e91a91c08",
+    "trader_name": "janeskjn",
+    "tag": "Overall",
+    "overall_gain": 5413.183178705024,
+    "active_positions": 1,
+    "win_amount": 5413.183178705024,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 17354,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
