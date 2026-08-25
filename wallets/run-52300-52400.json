@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 52393,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0bf8c8d5d7ccc61cc11c876d50798aaae3aef145",
+    "trader_name": "TDFDG",
+    "tag": "Overall",
+    "overall_gain": 1373.9364015104998,
+    "active_positions": 3,
+    "win_amount": 1405.660344,
+    "loss_amount": -31.7239424895,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0.024499999999999997,
+    "total_positions": 24,
+    "event_ct": 17,
+    "win_count": 9,
+    "rank": 52394,
+    "trader_tags": ""
   }
 ]
