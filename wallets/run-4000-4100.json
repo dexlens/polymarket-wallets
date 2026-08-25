@@ -1470,5 +1470,21 @@
     "win_count": 55,
     "rank": 4092,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x15fdd6a159788bd7d382f5669a047ad0fcb2cc95",
+    "trader_name": "PolBandit",
+    "tag": "Overall",
+    "overall_gain": 27365.327795592453,
+    "active_positions": 4,
+    "win_amount": 37727.87166824245,
+    "loss_amount": -10362.54387265,
+    "win_rate": 0.9523809523809523,
+    "total_current_value": 135354.3011496425,
+    "total_positions": 23,
+    "event_ct": 21,
+    "win_count": 20,
+    "rank": 4093,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
