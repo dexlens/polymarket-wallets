@@ -142,5 +142,21 @@
     "win_count": 31,
     "rank": 5209,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98c44c4390e3502a1ce6f91eb916ed7d4fd77022",
+    "trader_name": "BearDuckCat",
+    "tag": "Overall",
+    "overall_gain": 20791.61133,
+    "active_positions": 0,
+    "win_amount": 21281.840981999998,
+    "loss_amount": -490.229652,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 5210,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
