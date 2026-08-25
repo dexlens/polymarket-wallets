@@ -1246,5 +1246,21 @@
     "win_count": 108,
     "rank": 79279,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86bf208ec2078d3fe820d0ace15c8f38e35a2cca",
+    "trader_name": "DCG",
+    "tag": "Overall",
+    "overall_gain": 642.5973169369361,
+    "active_positions": 3,
+    "win_amount": 1271.9713607369451,
+    "loss_amount": -629.374043800009,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0.01786,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 7,
+    "rank": 79280,
+    "trader_tags": "> 1 year old"
   }
 ]
