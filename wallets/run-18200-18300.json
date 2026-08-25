@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 18229,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f847329428bd0dcb014ad63c284f20ab6d1be5b",
+    "trader_name": "KrisMei",
+    "tag": "Overall",
+    "overall_gain": 5103.4522282994385,
+    "active_positions": 4,
+    "win_amount": 5123.5110742075485,
+    "loss_amount": -20.058845908110985,
+    "win_rate": 0.875,
+    "total_current_value": 127.47801627100002,
+    "total_positions": 19,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 18230,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
