@@ -798,5 +798,21 @@
     "win_count": 10,
     "rank": 20550,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x547bd8140d2350fe4a726357852506b1a65e8492",
+    "trader_name": "whatgogo11",
+    "tag": "Overall",
+    "overall_gain": 4481.41157802306,
+    "active_positions": 0,
+    "win_amount": 4481.41157802306,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00306,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 20551,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
