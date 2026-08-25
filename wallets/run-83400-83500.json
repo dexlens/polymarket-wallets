@@ -734,5 +734,21 @@
     "win_count": 7,
     "rank": 83447,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe2c7c633e8f449b3eebd7ae656ead956fdf10694",
+    "trader_name": "lukaspodoslky",
+    "tag": "Overall",
+    "overall_gain": 575.095508817687,
+    "active_positions": 0,
+    "win_amount": 576.095504817687,
+    "loss_amount": -0.999996,
+    "win_rate": 0.75,
+    "total_current_value": 0.00984,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 83448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
