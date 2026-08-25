@@ -1262,5 +1262,21 @@
     "win_count": 34,
     "rank": 4679,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x18c53a93372ccfd80f4015e4e0f93db7e122d389",
+    "trader_name": "xieke",
+    "tag": "Overall",
+    "overall_gain": 23308.443980777793,
+    "active_positions": 3,
+    "win_amount": 23708.787598882165,
+    "loss_amount": -400.34361810437304,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 16.658016109000002,
+    "total_positions": 36,
+    "event_ct": 34,
+    "win_count": 28,
+    "rank": 4680,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
