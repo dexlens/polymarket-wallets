@@ -430,5 +430,21 @@
     "win_count": 45,
     "rank": 85228,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x79d3212f3c9ef7a9367ac072a86a78777053c34a",
+    "trader_name": "alex4ever",
+    "tag": "Overall",
+    "overall_gain": 548.949886072606,
+    "active_positions": 1,
+    "win_amount": 598.94965851988,
+    "loss_amount": -49.999772447274005,
+    "win_rate": 0.75,
+    "total_current_value": 0.011040999999999999,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 85229,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
