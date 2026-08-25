@@ -142,5 +142,21 @@
     "win_count": 2,
     "rank": 29610,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1061e84306b0fd790e899b8d6f68d67e8f6936a6",
+    "trader_name": "HEskihvin",
+    "tag": "Overall",
+    "overall_gain": 2866.048438298595,
+    "active_positions": 33,
+    "win_amount": 21932.764898085577,
+    "loss_amount": -19066.71645978698,
+    "win_rate": 0.676923076923077,
+    "total_current_value": 36.03087891999999,
+    "total_positions": 65,
+    "event_ct": 65,
+    "win_count": 44,
+    "rank": 29611,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
