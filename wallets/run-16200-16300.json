@@ -1022,5 +1022,21 @@
     "win_count": 18,
     "rank": 16264,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb6b35018178ab2e8c6a2b8dc69c9fcde50b455c3",
+    "trader_name": "antonequ",
+    "tag": "Overall",
+    "overall_gain": 5881.876727000001,
+    "active_positions": 2,
+    "win_amount": 6373.376727000001,
+    "loss_amount": -491.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 6950.385,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 16265,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
