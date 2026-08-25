@@ -94,5 +94,21 @@
     "win_count": 2,
     "rank": 82807,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4872b06f20b59bb41ee3291ec961333b601edfa9",
+    "trader_name": "oowi",
+    "tag": "Overall",
+    "overall_gain": 585.3782640584121,
+    "active_positions": 2,
+    "win_amount": 626.2914447102411,
+    "loss_amount": -40.913180651829,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 20.126242,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 82808,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
