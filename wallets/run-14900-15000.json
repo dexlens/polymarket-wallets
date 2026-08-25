@@ -158,5 +158,21 @@
     "win_count": 10,
     "rank": 14910,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37f3f10837935e5806c0aaf57ea325bbe2c79a28",
+    "trader_name": "Adzpex",
+    "tag": "Overall",
+    "overall_gain": 6547.5,
+    "active_positions": 0,
+    "win_amount": 6547.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 14911,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
