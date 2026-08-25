@@ -302,5 +302,21 @@
     "win_count": 20,
     "rank": 30420,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8e0f4d1bd57c6206a8d31faae4b2ab012ef6fdf7",
+    "trader_name": "Martinfrogers",
+    "tag": "Overall",
+    "overall_gain": 2770.2082273765886,
+    "active_positions": 2,
+    "win_amount": 14140.258266931072,
+    "loss_amount": -11370.050039554482,
+    "win_rate": 0.5,
+    "total_current_value": 0.007137,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 30421,
+    "trader_tags": "> 1 year old"
   }
 ]
