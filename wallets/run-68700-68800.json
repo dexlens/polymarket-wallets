@@ -174,5 +174,21 @@
     "win_count": 1,
     "rank": 68712,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8e48b81f1303ff97c276c8ac6915c84687af63ea",
+    "trader_name": "RRSAE2",
+    "tag": "Overall",
+    "overall_gain": 842.4784849244782,
+    "active_positions": 4,
+    "win_amount": 1441.936432557673,
+    "loss_amount": -599.457947633195,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.013911,
+    "total_positions": 13,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 68713,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
