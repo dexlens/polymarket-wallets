@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 88263,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13de55243f73ec345b1ccbe655dc483abfa187d2",
+    "trader_name": "StephenMeln",
+    "tag": "Overall",
+    "overall_gain": 509.9866489078718,
+    "active_positions": 8,
+    "win_amount": 640.6833513032238,
+    "loss_amount": -130.69670239535202,
+    "win_rate": 0.59375,
+    "total_current_value": 869.142098817,
+    "total_positions": 39,
+    "event_ct": 32,
+    "win_count": 19,
+    "rank": 88264,
+    "trader_tags": "> 1 year old"
   }
 ]
