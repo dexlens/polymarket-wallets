@@ -606,5 +606,21 @@
     "win_count": 3,
     "rank": 2638,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x257ccc9c7642d3e13c355805630fe3169f752cfe",
+    "trader_name": "Evenshade",
+    "tag": "Overall",
+    "overall_gain": 44170.38050719177,
+    "active_positions": 8,
+    "win_amount": 45037.527155015974,
+    "loss_amount": -867.146647824207,
+    "win_rate": 0.8783783783783784,
+    "total_current_value": 10.6695778125,
+    "total_positions": 79,
+    "event_ct": 74,
+    "win_count": 65,
+    "rank": 2639,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
