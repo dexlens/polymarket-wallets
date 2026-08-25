@@ -1134,5 +1134,21 @@
     "win_count": 8,
     "rank": 41172,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x28260923774c27a30679e73cde7cd88663f538d9",
+    "trader_name": "Lunair",
+    "tag": "Overall",
+    "overall_gain": 1924.5900000000001,
+    "active_positions": 1,
+    "win_amount": 1924.5900000000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 41173,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
