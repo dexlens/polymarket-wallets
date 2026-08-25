@@ -1246,5 +1246,21 @@
     "win_count": 11,
     "rank": 61479,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x56443321c077eb0c90d9b19385584d982d67f6be",
+    "trader_name": "carambol",
+    "tag": "Overall",
+    "overall_gain": 1035.106761247891,
+    "active_positions": 4,
+    "win_amount": 1380.7840729999998,
+    "loss_amount": -345.677311752109,
+    "win_rate": 0.8,
+    "total_current_value": 0.00001,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 61480,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
