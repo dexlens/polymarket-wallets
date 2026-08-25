@@ -1326,5 +1326,21 @@
     "win_count": 30,
     "rank": 4983,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e5f8e7f94d7ba04eab64451b5efc762f486c4c0",
+    "trader_name": "ABBETS",
+    "tag": "Overall",
+    "overall_gain": 21753.971087,
+    "active_positions": 0,
+    "win_amount": 21753.971087,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 4984,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
