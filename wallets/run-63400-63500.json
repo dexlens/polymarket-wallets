@@ -750,5 +750,21 @@
     "win_count": 54,
     "rank": 63448,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1c00107ebc287f98617fb75453d2405c6bc7cddf",
+    "trader_name": "GetFunky",
+    "tag": "Overall",
+    "overall_gain": 988.6119386732705,
+    "active_positions": 38,
+    "win_amount": 2706.5456179809385,
+    "loss_amount": -1717.9336793076684,
+    "win_rate": 0.803030303030303,
+    "total_current_value": 1370.572036043,
+    "total_positions": 124,
+    "event_ct": 66,
+    "win_count": 53,
+    "rank": 63449,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
