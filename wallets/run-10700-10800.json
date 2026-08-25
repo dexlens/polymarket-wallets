@@ -670,5 +670,21 @@
     "win_count": 3,
     "rank": 10742,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5444354b38dc85ff5299152ec543bcb8ccdd26b1",
+    "trader_name": "marlo",
+    "tag": "Overall",
+    "overall_gain": 9858.711095567767,
+    "active_positions": 3,
+    "win_amount": 17866.352050339996,
+    "loss_amount": -8007.640954772233,
+    "win_rate": 0.618421052631579,
+    "total_current_value": 0.022011999999999997,
+    "total_positions": 87,
+    "event_ct": 76,
+    "win_count": 47,
+    "rank": 10743,
+    "trader_tags": "> 1 year old"
   }
 ]
