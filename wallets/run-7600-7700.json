@@ -366,5 +366,21 @@
     "win_count": 5,
     "rank": 7623,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xdbde14998961cc652ae0117a78a48104372b6a77",
+    "trader_name": "Alorix",
+    "tag": "Overall",
+    "overall_gain": 13885.109332732796,
+    "active_positions": 5,
+    "win_amount": 15509.30909632008,
+    "loss_amount": -1624.1997635872842,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 5.10508,
+    "total_positions": 27,
+    "event_ct": 26,
+    "win_count": 20,
+    "rank": 7624,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
