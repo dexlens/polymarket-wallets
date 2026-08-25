@@ -526,5 +526,21 @@
     "win_count": 1276,
     "rank": 74834,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x61ece03fc76c10261199ce80d0afdcc8ab9007ee",
+    "trader_name": "NoneWallet",
+    "tag": "Overall",
+    "overall_gain": 715.9539140096365,
+    "active_positions": 6,
+    "win_amount": 1134.1824842818082,
+    "loss_amount": -418.22857027217196,
+    "win_rate": 0.776595744680851,
+    "total_current_value": 5132.5902140045,
+    "total_positions": 110,
+    "event_ct": 94,
+    "win_count": 73,
+    "rank": 74835,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
