@@ -1246,5 +1246,21 @@
     "win_count": 11,
     "rank": 48879,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3755129f034752e52164be9f310fdf570ca44bed",
+    "trader_name": "cordoba",
+    "tag": "Overall",
+    "overall_gain": 1533.5144814523019,
+    "active_positions": 3,
+    "win_amount": 4466.710652,
+    "loss_amount": -2933.1961705476983,
+    "win_rate": 0.4666666666666667,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 7,
+    "rank": 48880,
+    "trader_tags": ""
   }
 ]
