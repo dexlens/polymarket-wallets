@@ -1486,5 +1486,21 @@
     "win_count": 7,
     "rank": 6393,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1191fabce7781f4179ddd3c205ad665cba79c092",
+    "trader_name": "qmmar",
+    "tag": "Overall",
+    "overall_gain": 16762.012840717514,
+    "active_positions": 7,
+    "win_amount": 47331.87416974875,
+    "loss_amount": -30569.861329031235,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 65.263582516,
+    "total_positions": 21,
+    "event_ct": 14,
+    "win_count": 6,
+    "rank": 6394,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
