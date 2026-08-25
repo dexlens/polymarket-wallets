@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 1931,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x5a1cd342c117a4edb1e283a306ccfd60a3d4970a",
+    "trader_name": "SchrodingerBet",
+    "tag": "Overall",
+    "overall_gain": 62511.8564250335,
+    "active_positions": 3,
+    "win_amount": 77485.82434189522,
+    "loss_amount": -14973.967916861766,
+    "win_rate": 0.8840579710144928,
+    "total_current_value": 85571.698515575,
+    "total_positions": 98,
+    "event_ct": 69,
+    "win_count": 61,
+    "rank": 1932,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
