@@ -542,5 +542,21 @@
     "win_count": 4,
     "rank": 58435,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7340eb6baca0387384d97c79f979bb0d65139233",
+    "trader_name": "fLunrix",
+    "tag": "Overall",
+    "overall_gain": 1127.7903899999997,
+    "active_positions": 1,
+    "win_amount": 2039.9203899999998,
+    "loss_amount": -912.13,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 58436,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
