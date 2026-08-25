@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 17120,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38ec26b74200a244a1209b1d1afad7cabfbee7cb",
+    "trader_name": "EvanElla",
+    "tag": "Overall",
+    "overall_gain": 5500,
+    "active_positions": 1,
+    "win_amount": 7000,
+    "loss_amount": -1500,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 17121,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
