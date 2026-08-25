@@ -606,5 +606,21 @@
     "win_count": 115,
     "rank": 89239,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70c3090c7c57707d1dadb50ac308a7b1a9fd88e8",
+    "trader_name": "naza426za",
+    "tag": "Overall",
+    "overall_gain": 498.970018290474,
+    "active_positions": 20,
+    "win_amount": 803.031676438698,
+    "loss_amount": -304.061658148224,
+    "win_rate": 0.65625,
+    "total_current_value": 22.690099695,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 21,
+    "rank": 89240,
+    "trader_tags": "< 30 days old"
   }
 ]
