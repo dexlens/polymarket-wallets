@@ -1022,5 +1022,21 @@
     "win_count": 10,
     "rank": 10064,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x10363affe195cd394b87e2509479a9ea9f6dd0ee",
+    "trader_name": "kiline",
+    "tag": "Overall",
+    "overall_gain": 10422.733347564983,
+    "active_positions": 77,
+    "win_amount": 10857.435648445344,
+    "loss_amount": -434.70230088036607,
+    "win_rate": 0.4090909090909091,
+    "total_current_value": 0.9038459999999999,
+    "total_positions": 133,
+    "event_ct": 132,
+    "win_count": 54,
+    "rank": 10065,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
