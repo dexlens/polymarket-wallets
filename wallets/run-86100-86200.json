@@ -958,5 +958,21 @@
     "win_count": 32,
     "rank": 86161,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8fd3d9d7f8fbb96adc5f98a0f3aa2a0b55d36c31",
+    "trader_name": "journes",
+    "tag": "Overall",
+    "overall_gain": 537.3718109550568,
+    "active_positions": 5,
+    "win_amount": 568.5515290144949,
+    "loss_amount": -31.179718059438006,
+    "win_rate": 0.7183098591549296,
+    "total_current_value": 1.6188160000000003,
+    "total_positions": 87,
+    "event_ct": 71,
+    "win_count": 51,
+    "rank": 86162,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
