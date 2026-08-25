@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 83453,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4bed85494bce444e13ab3436c9aba039284c4c1",
+    "trader_name": "splicing",
+    "tag": "Overall",
+    "overall_gain": 575.017921052625,
+    "active_positions": 46,
+    "win_amount": 1445.586673836321,
+    "loss_amount": -870.568752783696,
+    "win_rate": 0.8508771929824561,
+    "total_current_value": 15.018441,
+    "total_positions": 584,
+    "event_ct": 342,
+    "win_count": 291,
+    "rank": 83454,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
