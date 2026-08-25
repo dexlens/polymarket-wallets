@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 8141,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x71b456c5cea5612fa0b964794613c8f283deb311",
+    "trader_name": "gamebreaker",
+    "tag": "Overall",
+    "overall_gain": 12922.706941,
+    "active_positions": 0,
+    "win_amount": 15700.583023,
+    "loss_amount": -2777.876082,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 8142,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
