@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 72600,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44614bbfeefe01d74e9aaf2ba5eb482dec8f71af",
+    "trader_name": "GingerKing",
+    "tag": "Overall",
+    "overall_gain": 752.725867297805,
+    "active_positions": 23,
+    "win_amount": 6147.828166113926,
+    "loss_amount": -5395.10229881612,
+    "win_rate": 0.5585585585585585,
+    "total_current_value": 174.58303683000003,
+    "total_positions": 153,
+    "event_ct": 111,
+    "win_count": 62,
+    "rank": 72601,
+    "trader_tags": ""
   }
 ]
