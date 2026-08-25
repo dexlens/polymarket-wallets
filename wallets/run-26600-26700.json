@@ -1534,5 +1534,21 @@
     "win_count": 4,
     "rank": 26697,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7fb4ad3f3091a27b18cbe638864ceae844aac704",
+    "trader_name": "Poker.Phantom",
+    "tag": "Overall",
+    "overall_gain": 3252.404455957757,
+    "active_positions": 0,
+    "win_amount": 3252.404455957757,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002295,
+    "total_positions": 10,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 26698,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
