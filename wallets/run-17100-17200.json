@@ -366,5 +366,21 @@
     "win_count": 11,
     "rank": 17123,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7165f0a5049209cff44699acc63a1e7cc5145d69",
+    "trader_name": "StanGodly",
+    "tag": "Overall",
+    "overall_gain": 5499.6408864264395,
+    "active_positions": 29,
+    "win_amount": 28600.64088355795,
+    "loss_amount": -23100.99999713151,
+    "win_rate": 0.6823529411764706,
+    "total_current_value": 3.0251016785000004,
+    "total_positions": 90,
+    "event_ct": 85,
+    "win_count": 58,
+    "rank": 17124,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
