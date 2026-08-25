@@ -494,5 +494,21 @@
     "win_count": 41,
     "rank": 82032,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x0edcafca72a6b135892ee2210d1d84ced78559b1",
+    "trader_name": "Arbet",
+    "tag": "Overall",
+    "overall_gain": 597.822365792546,
+    "active_positions": 8,
+    "win_amount": 1725.151283954031,
+    "loss_amount": -1127.328918161485,
+    "win_rate": 0.725,
+    "total_current_value": 0.051423,
+    "total_positions": 46,
+    "event_ct": 40,
+    "win_count": 29,
+    "rank": 82033,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
