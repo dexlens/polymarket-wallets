@@ -878,5 +878,21 @@
     "win_count": 29,
     "rank": 58856,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61731c81e7dcb313ef35e02795fa3934a73a64d2",
+    "trader_name": "direction2024",
+    "tag": "Overall",
+    "overall_gain": 1113.295691970628,
+    "active_positions": 146,
+    "win_amount": 14312.266549685852,
+    "loss_amount": -13198.970857715221,
+    "win_rate": 0.932788374205268,
+    "total_current_value": 60.05297,
+    "total_positions": 2549,
+    "event_ct": 2202,
+    "win_count": 2054,
+    "rank": 58857,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
