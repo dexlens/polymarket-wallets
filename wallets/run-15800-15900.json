@@ -686,5 +686,21 @@
     "win_count": 7,
     "rank": 15843,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x66d0b5670845dd0ca1d6ac355acc91b60c73532a",
+    "trader_name": "GeryaldineOptimistic",
+    "tag": "Overall",
+    "overall_gain": 6081.5,
+    "active_positions": 2,
+    "win_amount": 6630.5,
+    "loss_amount": -549,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 15844,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
