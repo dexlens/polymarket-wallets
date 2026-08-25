@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 80920,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x681a702e6a97a6a2d559b7774b6e1150e6a4b22d",
+    "trader_name": "OliveNewman",
+    "tag": "Overall",
+    "overall_gain": 615.612,
+    "active_positions": 3,
+    "win_amount": 919.112,
+    "loss_amount": -303.5,
+    "win_rate": 0.7,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 80921,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
