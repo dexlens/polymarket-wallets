@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 13568,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0c2a8a4d0bcc7236013d66ebb32284fbc3c0807e",
+    "trader_name": "Godzilla",
+    "tag": "Overall",
+    "overall_gain": 7312.950253501688,
+    "active_positions": 1,
+    "win_amount": 7513.444936351506,
+    "loss_amount": -200.494682849818,
+    "win_rate": 0.35714285714285715,
+    "total_current_value": 1.2664457519999999,
+    "total_positions": 114,
+    "event_ct": 98,
+    "win_count": 35,
+    "rank": 13569,
+    "trader_tags": "> 1 year old"
   }
 ]
