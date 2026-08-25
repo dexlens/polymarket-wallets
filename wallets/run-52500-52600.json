@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 52549,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x396ae75c9579f7bbfb8f505fb8b5680fbfc70c3e",
+    "trader_name": "Gekkoghost",
+    "tag": "Overall",
+    "overall_gain": 1367.1586525471548,
+    "active_positions": 3,
+    "win_amount": 4227.9120922324055,
+    "loss_amount": -2860.75343968525,
+    "win_rate": 0.7,
+    "total_current_value": 3342.818859265,
+    "total_positions": 14,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 52550,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
