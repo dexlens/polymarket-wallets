@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 2873,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xce3f7cbde19fb8d8c2814c9c8198f9c316711c42",
+    "trader_name": "suleym4n",
+    "tag": "Overall",
+    "overall_gain": 39976.78448819232,
+    "active_positions": 19,
+    "win_amount": 50030.90200087235,
+    "loss_amount": -10054.117512680032,
+    "win_rate": 0.3548387096774194,
+    "total_current_value": 5.882351,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 11,
+    "rank": 2874,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
