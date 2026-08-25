@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 45877,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0bf406490210fb5e1515ad2e4dcce9d2e01cfde8",
+    "trader_name": "rhino46",
+    "tag": "Overall",
+    "overall_gain": 1672.3258338426047,
+    "active_positions": 37,
+    "win_amount": 34780.49565125557,
+    "loss_amount": -33108.16981741296,
+    "win_rate": 0.5562779357984559,
+    "total_current_value": 12112.1172123,
+    "total_positions": 7925,
+    "event_ct": 4922,
+    "win_count": 2738,
+    "rank": 45878,
+    "trader_tags": "1k+ Positions"
   }
 ]
