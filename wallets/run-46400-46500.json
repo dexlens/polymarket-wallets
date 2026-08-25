@@ -734,5 +734,21 @@
     "win_count": 3,
     "rank": 46447,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3a337058f59d6d0549b1bea7c3311e53433c3980",
+    "trader_name": "aradg",
+    "tag": "Overall",
+    "overall_gain": 1643.9326521155535,
+    "active_positions": 1,
+    "win_amount": 3694.9189785822214,
+    "loss_amount": -2050.986326466668,
+    "win_rate": 0.5,
+    "total_current_value": 0.001863,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 46448,
+    "trader_tags": "> 1 year old"
   }
 ]
