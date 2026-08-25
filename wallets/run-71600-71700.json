@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 71700,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x666b7c815bba67e540b716dcca6f63a3f4fe8de8",
+    "trader_name": "dagera",
+    "tag": "Overall",
+    "overall_gain": 773.2360409519999,
+    "active_positions": 0,
+    "win_amount": 773.2360409519999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000028,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 9,
+    "rank": 71701,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
