@@ -270,5 +270,21 @@
     "win_count": 3,
     "rank": 10217,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a3051610fed486c6f21e04a89bddaf22dfc8abd",
+    "trader_name": "heyi8",
+    "tag": "Overall",
+    "overall_gain": 10289.208406014597,
+    "active_positions": 305,
+    "win_amount": 181173.77785796652,
+    "loss_amount": -170884.5694519519,
+    "win_rate": 0.5138888888888888,
+    "total_current_value": 10402.188262520001,
+    "total_positions": 637,
+    "event_ct": 576,
+    "win_count": 296,
+    "rank": 10218,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
