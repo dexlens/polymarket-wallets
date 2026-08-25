@@ -62,5 +62,21 @@
     "win_count": 1,
     "rank": 15104,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e5465e25719b49afd7764fc721474fcf4868222",
+    "trader_name": "Pyatnashkka",
+    "tag": "Overall",
+    "overall_gain": 6440.028708973,
+    "active_positions": 1,
+    "win_amount": 6602.778708973,
+    "loss_amount": -162.7500000000001,
+    "win_rate": 0.75,
+    "total_current_value": 875.7570579999998,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 15105,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
