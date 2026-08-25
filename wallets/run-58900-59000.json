@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 58995,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48f9c5a6454e9d8c761bff367976a1f31655ef8a",
+    "trader_name": "dominionKing",
+    "tag": "Overall",
+    "overall_gain": 1109.0306517417328,
+    "active_positions": 0,
+    "win_amount": 1318.6475427417329,
+    "loss_amount": -209.616891,
+    "win_rate": 0.625,
+    "total_current_value": 0.01905948,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 58996,
+    "trader_tags": ""
   }
 ]
