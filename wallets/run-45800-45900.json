@@ -1070,5 +1070,21 @@
     "win_count": 161,
     "rank": 45868,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x763355a8000d2203d59ab3822d6f27f349131a22",
+    "trader_name": "jorric",
+    "tag": "Overall",
+    "overall_gain": 1672.6840474829212,
+    "active_positions": 23,
+    "win_amount": 3529.046121541943,
+    "loss_amount": -1856.3620740590216,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 958.38908874,
+    "total_positions": 69,
+    "event_ct": 65,
+    "win_count": 35,
+    "rank": 45869,
+    "trader_tags": "> 1 year old"
   }
 ]
