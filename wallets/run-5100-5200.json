@@ -702,5 +702,21 @@
     "win_count": 171,
     "rank": 5144,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1922cd2683cd92a8a9c67430059deae50a363f90",
+    "trader_name": "MelchiorRoss",
+    "tag": "Overall",
+    "overall_gain": 21032.917482999997,
+    "active_positions": 0,
+    "win_amount": 23399.180483000004,
+    "loss_amount": -2366.2630000000004,
+    "win_rate": 0.6206896551724138,
+    "total_current_value": 0,
+    "total_positions": 40,
+    "event_ct": 29,
+    "win_count": 18,
+    "rank": 5145,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
