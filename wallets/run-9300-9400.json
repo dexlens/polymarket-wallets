@@ -1550,5 +1550,21 @@
     "win_count": 6,
     "rank": 9397,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeb84baf7fc0697d860587433fba6e33416915685",
+    "trader_name": "Niromero",
+    "tag": "Overall",
+    "overall_gain": 11150.92872186718,
+    "active_positions": 59,
+    "win_amount": 14675.918624425623,
+    "loss_amount": -3524.989902558445,
+    "win_rate": 0.1810344827586207,
+    "total_current_value": 293.24031008450004,
+    "total_positions": 229,
+    "event_ct": 116,
+    "win_count": 21,
+    "rank": 9398,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
