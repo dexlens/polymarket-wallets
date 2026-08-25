@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 31772,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x017eb202b0b01f506bc01acf173fd78194b51bf7",
+    "trader_name": "Michael0123",
+    "tag": "Overall",
+    "overall_gain": 2623.5238079072287,
+    "active_positions": 9,
+    "win_amount": 5110.025308761325,
+    "loss_amount": -2486.501500854095,
+    "win_rate": 0.631578947368421,
+    "total_current_value": 0.036555449999999996,
+    "total_positions": 25,
+    "event_ct": 19,
+    "win_count": 12,
+    "rank": 31773,
+    "trader_tags": "> 1 year old"
   }
 ]
