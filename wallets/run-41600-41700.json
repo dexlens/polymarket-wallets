@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 41639,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ce4cf570875e5b9aa205e96866528db79e3d500",
+    "trader_name": "Elvids2g",
+    "tag": "Overall",
+    "overall_gain": 1896.73,
+    "active_positions": 0,
+    "win_amount": 1896.73,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 41640,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
