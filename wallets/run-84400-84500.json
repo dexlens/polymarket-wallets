@@ -1118,5 +1118,21 @@
     "win_count": 3,
     "rank": 84471,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29eae9ca0c19f5ba8eb05e143534e0d1715f0d00",
+    "trader_name": "kendevis",
+    "tag": "Overall",
+    "overall_gain": 559.620545638616,
+    "active_positions": 2,
+    "win_amount": 565.493704970233,
+    "loss_amount": -5.873159331616995,
+    "win_rate": 0.9387755102040817,
+    "total_current_value": 4.014825438,
+    "total_positions": 65,
+    "event_ct": 49,
+    "win_count": 46,
+    "rank": 84472,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
