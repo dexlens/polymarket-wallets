@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 42435,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36c9d34b5659873357df40c750c56dc2339f3073",
+    "trader_name": "Galehowl",
+    "tag": "Overall",
+    "overall_gain": 1852.33,
+    "active_positions": 2,
+    "win_amount": 2204.33,
+    "loss_amount": -352,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 42436,
+    "trader_tags": ""
   }
 ]
