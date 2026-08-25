@@ -1134,5 +1134,21 @@
     "win_count": 3,
     "rank": 45372,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8d69a153feb20816229272bf8c3ef377a825d6f1",
+    "trader_name": "Oppormir",
+    "tag": "Overall",
+    "overall_gain": 1695.5743899001786,
+    "active_positions": 5,
+    "win_amount": 2984.723155119048,
+    "loss_amount": -1289.1487652188694,
+    "win_rate": 0.5350877192982456,
+    "total_current_value": 22.767045857000006,
+    "total_positions": 123,
+    "event_ct": 114,
+    "win_count": 61,
+    "rank": 45373,
+    "trader_tags": "> 1 year old"
   }
 ]
