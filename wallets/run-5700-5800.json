@@ -1278,5 +1278,21 @@
     "win_count": 9,
     "rank": 5780,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7d201efe2698c2257a96b6718277624d4e1eb063",
+    "trader_name": "CZiITLg6",
+    "tag": "Overall",
+    "overall_gain": 18618.595508,
+    "active_positions": 13,
+    "win_amount": 31202.595508,
+    "loss_amount": -12584,
+    "win_rate": 0.6578947368421053,
+    "total_current_value": 0,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 25,
+    "rank": 5781,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
