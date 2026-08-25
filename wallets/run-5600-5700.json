@@ -510,5 +510,21 @@
     "win_count": 9,
     "rank": 5632,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x09d2c8bed32c8ba868f3119697679386239dcc27",
+    "trader_name": "taco-321",
+    "tag": "Overall",
+    "overall_gain": 19136.85084038211,
+    "active_positions": 1237,
+    "win_amount": 145022.38868027405,
+    "loss_amount": -125885.53783989185,
+    "win_rate": 0.5109098394400988,
+    "total_current_value": 4.310188999999999,
+    "total_positions": 4001,
+    "event_ct": 2429,
+    "win_count": 1241,
+    "rank": 5633,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
