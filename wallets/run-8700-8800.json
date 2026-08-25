@@ -846,5 +846,21 @@
     "win_count": 80,
     "rank": 8753,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7d1bb9f000e5fce13db3a0927b64aa38e69de75c",
+    "trader_name": "kolfich",
+    "tag": "Overall",
+    "overall_gain": 11973.838684775481,
+    "active_positions": 86,
+    "win_amount": 15544.66617598979,
+    "loss_amount": -3570.827491214306,
+    "win_rate": 0.6486486486486487,
+    "total_current_value": 12406.264061498,
+    "total_positions": 304,
+    "event_ct": 74,
+    "win_count": 48,
+    "rank": 8754,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
