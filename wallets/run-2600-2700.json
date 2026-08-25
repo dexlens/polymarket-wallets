@@ -366,5 +366,21 @@
     "win_count": 8,
     "rank": 2623,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x869f68ca4c2ad4062e2e7b29a147f7a0413a7a8b",
+    "trader_name": "kidpoker42",
+    "tag": "Overall",
+    "overall_gain": 44329.59419916246,
+    "active_positions": 9,
+    "win_amount": 262716.11625900003,
+    "loss_amount": -218386.52205983756,
+    "win_rate": 0.5531914893617021,
+    "total_current_value": 0,
+    "total_positions": 63,
+    "event_ct": 47,
+    "win_count": 26,
+    "rank": 2624,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
