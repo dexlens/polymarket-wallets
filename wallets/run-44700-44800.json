@@ -958,5 +958,21 @@
     "win_count": 4,
     "rank": 44761,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5adca03130898a04585feaf6cde94d46963ee711",
+    "trader_name": "gem2019",
+    "tag": "Overall",
+    "overall_gain": 1725.3561710000001,
+    "active_positions": 30,
+    "win_amount": 5363.826170999999,
+    "loss_amount": -3638.47,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 70,
+    "event_ct": 70,
+    "win_count": 40,
+    "rank": 44762,
+    "trader_tags": "> 1 year old"
   }
 ]
