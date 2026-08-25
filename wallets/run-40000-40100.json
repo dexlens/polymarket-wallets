@@ -94,5 +94,21 @@
     "win_count": 1,
     "rank": 40007,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x75c27da8b8ae4138c4e7c392b7456afecbae20c7",
+    "trader_name": "RegPater",
+    "tag": "Overall",
+    "overall_gain": 1994.711736104436,
+    "active_positions": 82,
+    "win_amount": 26998.711716425205,
+    "loss_amount": -25003.999980320776,
+    "win_rate": 0.6043956043956044,
+    "total_current_value": 10.61326,
+    "total_positions": 189,
+    "event_ct": 182,
+    "win_count": 110,
+    "rank": 40008,
+    "trader_tags": ""
   }
 ]
