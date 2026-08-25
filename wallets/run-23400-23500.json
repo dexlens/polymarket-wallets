@@ -1550,5 +1550,21 @@
     "win_count": 14,
     "rank": 23497,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ecfd49ccb86c1d53c48d441727b99d84fef0712",
+    "trader_name": "CoinForge",
+    "tag": "Overall",
+    "overall_gain": 3817.9660049999998,
+    "active_positions": 0,
+    "win_amount": 7580.1860050000005,
+    "loss_amount": -3762.22,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 16,
+    "rank": 23498,
+    "trader_tags": "> 1 year old"
   }
 ]
