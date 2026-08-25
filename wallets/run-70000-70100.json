@@ -462,5 +462,21 @@
     "win_count": 3,
     "rank": 70030,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb93b0944900186b6d8c6951402503eeb849f96b5",
+    "trader_name": "Octaff",
+    "tag": "Overall",
+    "overall_gain": 809.974251182761,
+    "active_positions": 1,
+    "win_amount": 817.305355615293,
+    "loss_amount": -7.331104432532,
+    "win_rate": 0.4,
+    "total_current_value": 0.004844,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 70031,
+    "trader_tags": ""
   }
 ]
