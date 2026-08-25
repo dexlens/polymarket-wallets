@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 60750,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa1568bb614ca2c1374c2b736a421c4425b99014c",
+    "trader_name": "jianjiao",
+    "tag": "Overall",
+    "overall_gain": 1054.553995005333,
+    "active_positions": 0,
+    "win_amount": 1086.975028,
+    "loss_amount": -32.421032994667,
+    "win_rate": 0.5,
+    "total_current_value": 0.013833,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 60751,
+    "trader_tags": "> 1 year old"
   }
 ]
