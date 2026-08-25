@@ -366,5 +366,21 @@
     "win_count": 22,
     "rank": 3823,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7397dd633b7455a947c2a4676096c3fc5bcf6aef",
+    "trader_name": "WhackyJoey",
+    "tag": "Overall",
+    "overall_gain": 29771.00183420239,
+    "active_positions": 9,
+    "win_amount": 31240.271834202387,
+    "loss_amount": -1469.2700000000002,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 13.437881153000001,
+    "total_positions": 74,
+    "event_ct": 30,
+    "win_count": 28,
+    "rank": 3824,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
