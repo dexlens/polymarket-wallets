@@ -1550,5 +1550,21 @@
     "win_count": 3,
     "rank": 64198,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x290135fda4de4a66e0bc77bb77d3b75fe8c0df66",
+    "trader_name": "Sonoracv",
+    "tag": "Overall",
+    "overall_gain": 968.5,
+    "active_positions": 1,
+    "win_amount": 1563,
+    "loss_amount": -594.5,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 64199,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
