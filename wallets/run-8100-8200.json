@@ -1454,5 +1454,21 @@
     "win_count": 25,
     "rank": 8191,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x02ed455e8f8025edc17e388cf31bdb2dedb8cce3",
+    "trader_name": "bey",
+    "tag": "Overall",
+    "overall_gain": 12856.611259380586,
+    "active_positions": 1,
+    "win_amount": 14940.0731266638,
+    "loss_amount": -2083.4618672832144,
+    "win_rate": 0.625,
+    "total_current_value": 40.058159,
+    "total_positions": 772,
+    "event_ct": 64,
+    "win_count": 40,
+    "rank": 8192,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
