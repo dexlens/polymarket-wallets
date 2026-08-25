@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 44557,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdd1db2f6caa04a8bc5c7b86b340ff7a64ceebbf0",
+    "trader_name": "QWETR12345",
+    "tag": "Overall",
+    "overall_gain": 1734.259112817196,
+    "active_positions": 15,
+    "win_amount": 3348.189023857582,
+    "loss_amount": -1613.9299110403854,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 212485.72282983302,
+    "total_positions": 25,
+    "event_ct": 24,
+    "win_count": 20,
+    "rank": 44558,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
