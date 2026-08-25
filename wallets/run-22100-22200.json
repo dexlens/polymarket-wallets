@@ -1230,5 +1230,21 @@
     "win_count": 2,
     "rank": 22177,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b124a55732901ea949b8ae524fd625e24b7a77e",
+    "trader_name": "hotero001",
+    "tag": "Overall",
+    "overall_gain": 4083.673188842444,
+    "active_positions": 30,
+    "win_amount": 11321.453854172629,
+    "loss_amount": -7237.780665330185,
+    "win_rate": 0.9064935064935065,
+    "total_current_value": 1025.1501200575,
+    "total_positions": 1082,
+    "event_ct": 770,
+    "win_count": 698,
+    "rank": 22178,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
