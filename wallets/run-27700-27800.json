@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 27740,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3cc9d14a3be050d8976bc4917e56c32db33eeeb2",
+    "trader_name": "realpump",
+    "tag": "Overall",
+    "overall_gain": 3099.835729788,
+    "active_positions": 3,
+    "win_amount": 4043.330185,
+    "loss_amount": -943.4944552120002,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 316.53893668,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 27741,
+    "trader_tags": ""
   }
 ]
