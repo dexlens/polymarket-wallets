@@ -526,5 +526,21 @@
     "win_count": 3,
     "rank": 20233,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcc96af37e5cddcacf73e9cc57a166199f3e01b94",
+    "trader_name": "randomHurts",
+    "tag": "Overall",
+    "overall_gain": 4567.332048224518,
+    "active_positions": 0,
+    "win_amount": 4567.349360613805,
+    "loss_amount": -0.017312389287,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.094675885,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 20234,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
