@@ -1358,5 +1358,21 @@
     "win_count": 19,
     "rank": 4385,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14b38da90d6e4bea1e84bb9a0cea2490dd554297",
+    "trader_name": "Evoneth",
+    "tag": "Overall",
+    "overall_gain": 25329.819724000004,
+    "active_positions": 3,
+    "win_amount": 26260.846550000006,
+    "loss_amount": -931.0268259999999,
+    "win_rate": 0.8787878787878788,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 33,
+    "win_count": 29,
+    "rank": 4386,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
