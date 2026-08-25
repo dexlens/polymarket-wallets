@@ -1246,5 +1246,21 @@
     "win_count": 12,
     "rank": 5378,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b87d38577b2811179b7aa8f2cddc65d7046b6bd",
+    "trader_name": "Eknih",
+    "tag": "Overall",
+    "overall_gain": 20135.53122114377,
+    "active_positions": 38,
+    "win_amount": 30174.391002678734,
+    "loss_amount": -10038.859781534979,
+    "win_rate": 0.6847722204523734,
+    "total_current_value": 465.07228499999997,
+    "total_positions": 12526,
+    "event_ct": 6278,
+    "win_count": 4299,
+    "rank": 5379,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
