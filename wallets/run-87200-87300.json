@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 87224,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf26f34b2ee1accace3a68692da9841613921407f",
+    "trader_name": "EEAS",
+    "tag": "Overall",
+    "overall_gain": 522.942728095926,
+    "active_positions": 9,
+    "win_amount": 523.942728095926,
+    "loss_amount": -1,
+    "win_rate": 0.9,
+    "total_current_value": 8.688884,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 87225,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
