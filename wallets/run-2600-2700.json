@@ -334,5 +334,21 @@
     "win_count": 12,
     "rank": 2621,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6c16abad96d6989efe1b0333cb9af9158f548bfa",
+    "trader_name": "XPredicter1",
+    "tag": "Overall",
+    "overall_gain": 44341.74114003994,
+    "active_positions": 24,
+    "win_amount": 536787.3896638487,
+    "loss_amount": -492445.6485238087,
+    "win_rate": 0.5546623794212219,
+    "total_current_value": 70505.4627475935,
+    "total_positions": 848,
+    "event_ct": 622,
+    "win_count": 345,
+    "rank": 2622,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
