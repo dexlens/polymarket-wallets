@@ -798,5 +798,21 @@
     "win_count": 10,
     "rank": 16550,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x857ad6e919dba82957c08f2f1273af6c26fc2623",
+    "trader_name": "WalterDSAD",
+    "tag": "Overall",
+    "overall_gain": 5755.5,
+    "active_positions": 2,
+    "win_amount": 7822.5,
+    "loss_amount": -2067,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 16551,
+    "trader_tags": ""
   }
 ]
