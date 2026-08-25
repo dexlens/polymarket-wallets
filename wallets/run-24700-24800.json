@@ -702,5 +702,21 @@
     "win_count": 15,
     "rank": 24745,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4b51a51fff1ab8e69324ee1b7ac2b95c84b24d56",
+    "trader_name": "Sparklings11",
+    "tag": "Overall",
+    "overall_gain": 3588.5,
+    "active_positions": 1,
+    "win_amount": 4177.5,
+    "loss_amount": -589,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 24746,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
