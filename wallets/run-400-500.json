@@ -1486,5 +1486,21 @@
     "win_count": 363,
     "rank": 493,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x60073655845c95014a540ae3f7375b15801647a3",
+    "trader_name": "AnonHorse",
+    "tag": "Overall",
+    "overall_gain": 257309.83716985982,
+    "active_positions": 5,
+    "win_amount": 562773.123921,
+    "loss_amount": -305463.28675114014,
+    "win_rate": 0.375,
+    "total_current_value": 3881.0823894669998,
+    "total_positions": 12,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 494,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
   }
 ]
