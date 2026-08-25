@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 65438,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84cb6b215539631e30541cb7919c29706e981298",
+    "trader_name": "Radster",
+    "tag": "Overall",
+    "overall_gain": 932.013039729134,
+    "active_positions": 0,
+    "win_amount": 951.944939,
+    "loss_amount": -19.931899270865998,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 65439,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
