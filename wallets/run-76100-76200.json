@@ -1006,5 +1006,21 @@
     "win_count": 5,
     "rank": 76164,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe76585beaeb6bce49081933224c4b777aec7603c",
+    "trader_name": "Simis",
+    "tag": "Overall",
+    "overall_gain": 696.0443907939896,
+    "active_positions": 10,
+    "win_amount": 4361.977537008353,
+    "loss_amount": -3665.9331462143614,
+    "win_rate": 0.7625,
+    "total_current_value": 791.6630538395,
+    "total_positions": 210,
+    "event_ct": 160,
+    "win_count": 122,
+    "rank": 76165,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
