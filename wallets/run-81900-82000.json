@@ -462,5 +462,21 @@
     "win_count": 32,
     "rank": 81930,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01e985daede640b3f44764c2fdc8f2dcb26ce865",
+    "trader_name": "ccbniu",
+    "tag": "Overall",
+    "overall_gain": 599.303208808959,
+    "active_positions": 10,
+    "win_amount": 604.3212223426739,
+    "loss_amount": -5.018013533715,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 57.584709,
+    "total_positions": 12,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 81931,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
