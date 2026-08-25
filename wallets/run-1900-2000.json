@@ -398,5 +398,21 @@
     "win_count": 137,
     "rank": 1925,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41ac00f13900fe5852c310aa8dae45c5883d3900",
+    "trader_name": "nyypug",
+    "tag": "Overall",
+    "overall_gain": 62738,
+    "active_positions": 15,
+    "win_amount": 76400,
+    "loss_amount": -13662,
+    "win_rate": 0.5588235294117647,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 19,
+    "rank": 1926,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
