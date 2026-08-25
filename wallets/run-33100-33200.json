@@ -126,5 +126,21 @@
     "win_count": 1,
     "rank": 33109,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1eb7249d3b4c33ca2a01afa1b8d9734ffc741546",
+    "trader_name": "qudcc",
+    "tag": "Overall",
+    "overall_gain": 2495.628477,
+    "active_positions": 1,
+    "win_amount": 3197.628477,
+    "loss_amount": -702,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 33110,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
