@@ -718,5 +718,21 @@
     "win_count": 46,
     "rank": 32646,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6d11b28f00ab946da76bdaa1eafe9a0e70719d09",
+    "trader_name": "FFEASA",
+    "tag": "Overall",
+    "overall_gain": 2536.539560826545,
+    "active_positions": 7,
+    "win_amount": 2858.574325703249,
+    "loss_amount": -322.034764876704,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 0.051189,
+    "total_positions": 27,
+    "event_ct": 17,
+    "win_count": 15,
+    "rank": 32647,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
