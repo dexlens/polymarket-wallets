@@ -1198,5 +1198,21 @@
     "win_count": 13,
     "rank": 40076,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x5f14935d6e60787724a13074ceb29192b25f1262",
+    "trader_name": "valuegptbot",
+    "tag": "Overall",
+    "overall_gain": 1990.4459701492049,
+    "active_positions": 1,
+    "win_amount": 6155.699232588552,
+    "loss_amount": -4165.253262439348,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.032896,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 40077,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
