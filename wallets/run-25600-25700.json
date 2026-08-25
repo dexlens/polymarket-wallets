@@ -1166,5 +1166,21 @@
     "win_count": 8,
     "rank": 25674,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2efc36f404a12bc6dacae5386e06f4bb1fb9da7c",
+    "trader_name": "urtdgf",
+    "tag": "Overall",
+    "overall_gain": 3428.6066710990785,
+    "active_positions": 2,
+    "win_amount": 3563.165771099078,
+    "loss_amount": -134.5591,
+    "win_rate": 0.9487179487179487,
+    "total_current_value": 171.70088800000002,
+    "total_positions": 41,
+    "event_ct": 39,
+    "win_count": 37,
+    "rank": 25675,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
