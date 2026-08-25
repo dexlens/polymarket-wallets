@@ -1358,5 +1358,21 @@
     "win_count": 3,
     "rank": 8185,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xc139038491da1e6039a88a4395bf1325ffa62fab",
+    "trader_name": "Evandor",
+    "tag": "Overall",
+    "overall_gain": 12861.736881016746,
+    "active_positions": 18,
+    "win_amount": 14372.920181016745,
+    "loss_amount": -1511.1833,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 82.848599,
+    "total_positions": 55,
+    "event_ct": 54,
+    "win_count": 48,
+    "rank": 8186,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
