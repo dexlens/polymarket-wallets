@@ -1294,5 +1294,21 @@
     "win_count": 4,
     "rank": 4181,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaccb1149dc70c80bc0cfd5dabc9a2896624861dc",
+    "trader_name": "nbakinggg",
+    "tag": "Overall",
+    "overall_gain": 26670.190763715524,
+    "active_positions": 26,
+    "win_amount": 84879.06579413527,
+    "loss_amount": -58208.87503041977,
+    "win_rate": 0.5087719298245614,
+    "total_current_value": 0.029121,
+    "total_positions": 66,
+    "event_ct": 57,
+    "win_count": 29,
+    "rank": 4182,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
