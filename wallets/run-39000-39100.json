@@ -334,5 +334,21 @@
     "win_count": 5,
     "rank": 39022,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c865202529e466ed310ab3730c43689d3bfc427",
+    "trader_name": "SuAlteza",
+    "tag": "Overall",
+    "overall_gain": 2051.344981487257,
+    "active_positions": 22,
+    "win_amount": 14439.52863809051,
+    "loss_amount": -12388.183656603253,
+    "win_rate": 0.863481228668942,
+    "total_current_value": 8860.915697909,
+    "total_positions": 436,
+    "event_ct": 293,
+    "win_count": 253,
+    "rank": 39023,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
