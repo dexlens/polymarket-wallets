@@ -1134,5 +1134,21 @@
     "win_count": 33,
     "rank": 12971,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x924103442c5eb774a27ce1e661ab0dc3bb7db519",
+    "trader_name": "Lickin",
+    "tag": "Overall",
+    "overall_gain": 7770.336544830111,
+    "active_positions": 7,
+    "win_amount": 7782.752709244188,
+    "loss_amount": -12.416164414077,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.028573,
+    "total_positions": 22,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 12972,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
