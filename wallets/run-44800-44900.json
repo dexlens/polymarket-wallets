@@ -590,5 +590,21 @@
     "win_count": 9,
     "rank": 44838,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcef4da01576f72909d27575439d7f9a3816d256e",
+    "trader_name": "Windcall",
+    "tag": "Overall",
+    "overall_gain": 1721.45,
+    "active_positions": 1,
+    "win_amount": 1721.45,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 44839,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
