@@ -1294,5 +1294,21 @@
     "win_count": 4,
     "rank": 73482,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x6ec5617f7f553968cefaba972385ca66a1b7257e",
+    "trader_name": "twokey",
+    "tag": "Overall",
+    "overall_gain": 735.5321644918944,
+    "active_positions": 21,
+    "win_amount": 8878.304962610311,
+    "loss_amount": -8142.772798118417,
+    "win_rate": 0.7662835249042146,
+    "total_current_value": 16648.65064008,
+    "total_positions": 414,
+    "event_ct": 261,
+    "win_count": 200,
+    "rank": 73483,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
