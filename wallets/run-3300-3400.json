@@ -990,5 +990,21 @@
     "win_count": 13,
     "rank": 3362,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe9abe9b41b6c53691392ecb2b53e0fc1e2f0e269",
+    "trader_name": "Seraphion",
+    "tag": "Overall",
+    "overall_gain": 33955.45393113824,
+    "active_positions": 10,
+    "win_amount": 35992.66204663823,
+    "loss_amount": -2037.2081155,
+    "win_rate": 0.8813559322033898,
+    "total_current_value": 35.52439950000001,
+    "total_positions": 61,
+    "event_ct": 59,
+    "win_count": 52,
+    "rank": 3363,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
