@@ -574,5 +574,21 @@
     "win_count": 21,
     "rank": 46537,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b16e835800398094ed6c598124e4bde743a1b2c",
+    "trader_name": "whishperf",
+    "tag": "Overall",
+    "overall_gain": 1639.4151499999998,
+    "active_positions": 2,
+    "win_amount": 1727.25515,
+    "loss_amount": -87.84000000000015,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 2.575,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 46538,
+    "trader_tags": ""
   }
 ]
