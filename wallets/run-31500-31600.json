@@ -334,5 +334,21 @@
     "win_count": 5,
     "rank": 31522,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d585f281a267077e79b3deca40447c9e17ce2db",
+    "trader_name": "kyrgyzstan",
+    "tag": "Overall",
+    "overall_gain": 2648.926908718291,
+    "active_positions": 2,
+    "win_amount": 2988.7689861578997,
+    "loss_amount": -339.842077439609,
+    "win_rate": 0.2,
+    "total_current_value": 0.004054,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 1,
+    "rank": 31523,
+    "trader_tags": "> 1 year old"
   }
 ]
