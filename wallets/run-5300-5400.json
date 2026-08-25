@@ -878,5 +878,21 @@
     "win_count": 37,
     "rank": 5355,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x28b255ed9747765be4f44ce484532d4b6bdfa74f",
+    "trader_name": "Allinnothing",
+    "tag": "Overall",
+    "overall_gain": 20204.979913079722,
+    "active_positions": 6,
+    "win_amount": 25634.904663064368,
+    "loss_amount": -5429.924749984649,
+    "win_rate": 0.9785553047404063,
+    "total_current_value": 0.210662,
+    "total_positions": 1765,
+    "event_ct": 886,
+    "win_count": 867,
+    "rank": 5356,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
