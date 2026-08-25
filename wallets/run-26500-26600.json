@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 26600,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x457cb4f17ffea8685aaffd77744318e08a46fa41",
+    "trader_name": "yrcnjd",
+    "tag": "Overall",
+    "overall_gain": 3270.3497832480425,
+    "active_positions": 4,
+    "win_amount": 11025.957307508197,
+    "loss_amount": -7755.607524260153,
+    "win_rate": 0.6530612244897959,
+    "total_current_value": 0.000183,
+    "total_positions": 49,
+    "event_ct": 49,
+    "win_count": 32,
+    "rank": 26601,
+    "trader_tags": "> 1 year old"
   }
 ]
