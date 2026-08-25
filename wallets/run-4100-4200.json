@@ -1102,5 +1102,21 @@
     "win_count": 16,
     "rank": 4169,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xafdd8e9951099014307315bbec0461a0194f13c0",
+    "trader_name": "liudapao1",
+    "tag": "Overall",
+    "overall_gain": 26765.49853753726,
+    "active_positions": 0,
+    "win_amount": 26765.49853753726,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001258205,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 4170,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
