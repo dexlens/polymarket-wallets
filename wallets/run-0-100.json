@@ -750,5 +750,21 @@
     "win_count": 9,
     "rank": 47,
     "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+    "trader_name": "gatorr",
+    "tag": "Overall",
+    "overall_gain": 1897165.9180867246,
+    "active_positions": 30,
+    "win_amount": 6272642.533784694,
+    "loss_amount": -4375476.61569797,
+    "win_rate": 0.5014084507042254,
+    "total_current_value": 62368.79393969249,
+    "total_positions": 539,
+    "event_ct": 355,
+    "win_count": 178,
+    "rank": 48,
+    "trader_tags": "Overall PnL > $1m; Sports PnL > $100k"
   }
 ]
