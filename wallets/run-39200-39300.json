@@ -1342,5 +1342,21 @@
     "win_count": 35,
     "rank": 39285,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x470cdc96962496b844d62b93e303a76eebe0758c",
+    "trader_name": "cbraley",
+    "tag": "Overall",
+    "overall_gain": 2032.681051636511,
+    "active_positions": 1,
+    "win_amount": 2332.680680636511,
+    "loss_amount": -299.999629,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.592869,
+    "total_positions": 18,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 39286,
+    "trader_tags": "> 1 year old"
   }
 ]
