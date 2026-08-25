@@ -990,5 +990,21 @@
     "win_count": 68,
     "rank": 10062,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf955d41db8af489f75d8361e0ae13cc48a335e06",
+    "trader_name": "kayan",
+    "tag": "Overall",
+    "overall_gain": 10423.6445643,
+    "active_positions": 2,
+    "win_amount": 10463.6445643,
+    "loss_amount": -40,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 20.806815,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 10063,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
