@@ -974,5 +974,21 @@
     "win_count": 103,
     "rank": 25762,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbc509c8b10e79786322640c2ce568c783b7465fc",
+    "trader_name": "VermilionOracle",
+    "tag": "Overall",
+    "overall_gain": 3412.87,
+    "active_positions": 0,
+    "win_amount": 3412.87,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 25763,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
