@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 28089,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d5e32dc9a054f4e4da123353dded3e2ac379a5e",
+    "trader_name": "polybettor",
+    "tag": "Overall",
+    "overall_gain": 3054.270651325879,
+    "active_positions": 45,
+    "win_amount": 7361.0995243348225,
+    "loss_amount": -4306.828873008946,
+    "win_rate": 0.7707006369426752,
+    "total_current_value": 21652.618535483503,
+    "total_positions": 430,
+    "event_ct": 157,
+    "win_count": 121,
+    "rank": 28090,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
