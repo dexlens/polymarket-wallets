@@ -1438,5 +1438,21 @@
     "win_count": 29,
     "rank": 65991,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4dc0ad139adc9a18e3f109ff42b74a060ca10f20",
+    "trader_name": "Beelzebub",
+    "tag": "Overall",
+    "overall_gain": 916.325733584185,
+    "active_positions": 1,
+    "win_amount": 1153.27785796,
+    "loss_amount": -236.952124375815,
+    "win_rate": 0.4090909090909091,
+    "total_current_value": 2.6522639999999997,
+    "total_positions": 77,
+    "event_ct": 66,
+    "win_count": 27,
+    "rank": 65992,
+    "trader_tags": "> 1 year old"
   }
 ]
