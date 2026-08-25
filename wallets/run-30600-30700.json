@@ -1470,5 +1470,21 @@
     "win_count": 13,
     "rank": 30693,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29902c1d27b8336fa6e2bbce687841219787bc23",
+    "trader_name": "bdrw",
+    "tag": "Overall",
+    "overall_gain": 2735.868075414392,
+    "active_positions": 0,
+    "win_amount": 2735.868075414392,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006392,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 30694,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
