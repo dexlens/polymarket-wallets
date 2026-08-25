@@ -1070,5 +1070,21 @@
     "win_count": 2,
     "rank": 66068,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8470534c5fa80f0ed4773c4a03e52736326b4c14",
+    "trader_name": "graind48",
+    "tag": "Overall",
+    "overall_gain": 914,
+    "active_positions": 3,
+    "win_amount": 1870,
+    "loss_amount": -956,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 66069,
+    "trader_tags": ""
   }
 ]
