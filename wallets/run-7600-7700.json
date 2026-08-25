@@ -1582,5 +1582,21 @@
     "win_count": 6,
     "rank": 7699,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x924459f9dbdac960edfc02ac45e0db92df2f4b6e",
+    "trader_name": "pabrikduit",
+    "tag": "Overall",
+    "overall_gain": 13736.846359789717,
+    "active_positions": 20,
+    "win_amount": 22022.91519678544,
+    "loss_amount": -8286.068836995726,
+    "win_rate": 0.7205240174672489,
+    "total_current_value": 63026.167014037506,
+    "total_positions": 344,
+    "event_ct": 229,
+    "win_count": 165,
+    "rank": 7700,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
