@@ -1566,5 +1566,21 @@
     "win_count": 4,
     "rank": 53799,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2de9dc89e000501134e4d43a179e763bbbf729e2",
+    "trader_name": "richmonde",
+    "tag": "Overall",
+    "overall_gain": 1311.9613269999998,
+    "active_positions": 0,
+    "win_amount": 1573.0613219999998,
+    "loss_amount": -261.099995,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 53800,
+    "trader_tags": "> 1 year old"
   }
 ]
