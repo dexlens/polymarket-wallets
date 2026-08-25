@@ -942,5 +942,21 @@
     "win_count": 120,
     "rank": 34960,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd290c61298d0a0424bb95ce3151489b6c602e49d",
+    "trader_name": "Leavent",
+    "tag": "Overall",
+    "overall_gain": 2344.565754774312,
+    "active_positions": 4,
+    "win_amount": 3223.4765547743123,
+    "loss_amount": -878.9108,
+    "win_rate": 0.7741935483870968,
+    "total_current_value": 1300.003137,
+    "total_positions": 34,
+    "event_ct": 31,
+    "win_count": 24,
+    "rank": 34961,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
