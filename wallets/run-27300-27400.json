@@ -1310,5 +1310,21 @@
     "win_count": 8,
     "rank": 27383,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73c0620b557c873514af10d4332adf4700223733",
+    "trader_name": "zhupercycle",
+    "tag": "Overall",
+    "overall_gain": 3150.271538614374,
+    "active_positions": 18,
+    "win_amount": 10082.843839056808,
+    "loss_amount": -6932.5723004424335,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 6517.387743755,
+    "total_positions": 59,
+    "event_ct": 45,
+    "win_count": 25,
+    "rank": 27384,
+    "trader_tags": "> 1 year old"
   }
 ]
