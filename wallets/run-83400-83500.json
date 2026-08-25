@@ -94,5 +94,21 @@
     "win_count": 26,
     "rank": 83407,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0ae03f9e743dbac9b9309c8768614830ff82d44c",
+    "trader_name": "governmentBG",
+    "tag": "Overall",
+    "overall_gain": 575.6341263230539,
+    "active_positions": 3,
+    "win_amount": 575.6341263230539,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 20.684053999999996,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 83408,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
