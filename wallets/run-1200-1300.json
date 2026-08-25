@@ -1422,5 +1422,21 @@
     "win_count": 4,
     "rank": 1289,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x687349b551df31c4a330bbaf1519458cb521d9e5",
+    "trader_name": "ihatedmyself",
+    "tag": "Overall",
+    "overall_gain": 93734.86964440095,
+    "active_positions": 0,
+    "win_amount": 105102.21008233554,
+    "loss_amount": -11367.340437934567,
+    "win_rate": 0.6578947368421053,
+    "total_current_value": 0.0158783427342369,
+    "total_positions": 472,
+    "event_ct": 266,
+    "win_count": 175,
+    "rank": 1290,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
