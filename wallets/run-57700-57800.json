@@ -142,5 +142,21 @@
     "win_count": 44,
     "rank": 57710,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4fa72d25f95998b7b1defce58e46a1c09ecab0e4",
+    "trader_name": "dajin-one",
+    "tag": "Overall",
+    "overall_gain": 1153.598271627131,
+    "active_positions": 133,
+    "win_amount": 30258.040347839815,
+    "loss_amount": -29104.44207621269,
+    "win_rate": 0.8044280442804428,
+    "total_current_value": 1.9958860000000014,
+    "total_positions": 2098,
+    "event_ct": 1626,
+    "win_count": 1308,
+    "rank": 57711,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
