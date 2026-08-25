@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 67726,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0abb7262153a6d9dec3b943ba82bcb5c6a6d1185",
+    "trader_name": "GoldenTokens",
+    "tag": "Overall",
+    "overall_gain": 869.029356,
+    "active_positions": 0,
+    "win_amount": 869.029356,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 67727,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
