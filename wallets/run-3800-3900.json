@@ -638,5 +638,21 @@
     "win_count": 596,
     "rank": 3840,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x0eefd093ab587a31dc9fa4dbb3623297953176bb",
+    "trader_name": "BouncyBob",
+    "tag": "Overall",
+    "overall_gain": 29576.926370712292,
+    "active_positions": 14,
+    "win_amount": 39375.18982360413,
+    "loss_amount": -9798.263452891835,
+    "win_rate": 0.725,
+    "total_current_value": 710.0299647840001,
+    "total_positions": 55,
+    "event_ct": 40,
+    "win_count": 29,
+    "rank": 3841,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
