@@ -190,5 +190,21 @@
     "win_count": 19,
     "rank": 28013,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6dfca3258bc58a135b5f95bbb64bc356ae0880a5",
+    "trader_name": "Pixy",
+    "tag": "Overall",
+    "overall_gain": 3064.4196530523745,
+    "active_positions": 1,
+    "win_amount": 3929.8956026462606,
+    "loss_amount": -865.4759495938861,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.029004,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 4,
+    "rank": 28014,
+    "trader_tags": "> 1 year old"
   }
 ]
