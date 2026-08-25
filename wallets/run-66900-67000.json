@@ -1566,5 +1566,21 @@
     "win_count": 40,
     "rank": 66999,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xafd42d2ebe264034e51677245265b5ccd114de01",
+    "trader_name": "wehagrb",
+    "tag": "Overall",
+    "overall_gain": 889.311947794203,
+    "active_positions": 4,
+    "win_amount": 1258.4084500400559,
+    "loss_amount": -369.096502245853,
+    "win_rate": 0.8,
+    "total_current_value": 0.000056,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 67000,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
