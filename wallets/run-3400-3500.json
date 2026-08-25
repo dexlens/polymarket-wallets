@@ -734,5 +734,21 @@
     "win_count": 192,
     "rank": 3446,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd529dd5115ea1d2835f1af6ac80f10117e59f0d4",
+    "trader_name": "AmphibiousCaldwellPope",
+    "tag": "Overall",
+    "overall_gain": 33082.83776651974,
+    "active_positions": 12,
+    "win_amount": 194365.45091441556,
+    "loss_amount": -161282.61314789575,
+    "win_rate": 0.5520361990950227,
+    "total_current_value": 15980.882453446004,
+    "total_positions": 1048,
+    "event_ct": 442,
+    "win_count": 244,
+    "rank": 3447,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
