@@ -318,5 +318,21 @@
     "win_count": 66,
     "rank": 2020,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb5b8eb95db0c651af2b83fb804cc0b700ce5f0cb",
+    "trader_name": "Astera",
+    "tag": "Overall",
+    "overall_gain": 59851.99516904478,
+    "active_positions": 0,
+    "win_amount": 156925.13955163912,
+    "loss_amount": -97073.14438259439,
+    "win_rate": 0.7464788732394366,
+    "total_current_value": 0.20286200000000001,
+    "total_positions": 118,
+    "event_ct": 71,
+    "win_count": 53,
+    "rank": 2021,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
