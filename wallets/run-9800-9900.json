@@ -206,5 +206,21 @@
     "win_count": 591,
     "rank": 9813,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07251175378f6feccd07fd4536f77a098436431b",
+    "trader_name": "Questa",
+    "tag": "Overall",
+    "overall_gain": 10676.734338,
+    "active_positions": 0,
+    "win_amount": 10697.914316,
+    "loss_amount": -21.179978,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 27,
+    "win_count": 21,
+    "rank": 9814,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
