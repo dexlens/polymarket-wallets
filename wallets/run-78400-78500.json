@@ -430,5 +430,21 @@
     "win_count": 3,
     "rank": 78428,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe046552f86564076b0387545dc2b84726fea40dc",
+    "trader_name": "Romul",
+    "tag": "Overall",
+    "overall_gain": 657.2619772494189,
+    "active_positions": 1,
+    "win_amount": 1061.8655935891081,
+    "loss_amount": -404.60361633968904,
+    "win_rate": 0.8307692307692308,
+    "total_current_value": 113.65691576450003,
+    "total_positions": 88,
+    "event_ct": 65,
+    "win_count": 54,
+    "rank": 78429,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
