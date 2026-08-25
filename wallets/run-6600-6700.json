@@ -542,5 +542,21 @@
     "win_count": 35,
     "rank": 6634,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c0e2d2af001345bbde21a4d3a9ba84b01353f36",
+    "trader_name": "timur1144",
+    "tag": "Overall",
+    "overall_gain": 16177.774305312323,
+    "active_positions": 9,
+    "win_amount": 18778.42572014578,
+    "loss_amount": -2600.651414833458,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 0.010703,
+    "total_positions": 16,
+    "event_ct": 12,
+    "win_count": 5,
+    "rank": 6635,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
