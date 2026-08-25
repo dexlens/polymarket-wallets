@@ -334,5 +334,21 @@
     "win_count": 11,
     "rank": 24522,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x621c1c6da8fb821f14b6c77b5386ab49f22c1192",
+    "trader_name": "xAce-1",
+    "tag": "Overall",
+    "overall_gain": 3624.551465825652,
+    "active_positions": 7,
+    "win_amount": 5667.608305787532,
+    "loss_amount": -2043.056839961881,
+    "win_rate": 0.5,
+    "total_current_value": 0.030206999999999998,
+    "total_positions": 21,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 24523,
+    "trader_tags": ""
   }
 ]
