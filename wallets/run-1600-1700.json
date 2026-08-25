@@ -366,5 +366,21 @@
     "win_count": 198,
     "rank": 1623,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xef75262a7aa508735c9461c6ce3370376d585d78",
+    "trader_name": "mulino",
+    "tag": "Overall",
+    "overall_gain": 75487.45359046954,
+    "active_positions": 73,
+    "win_amount": 268803.3911528912,
+    "loss_amount": -193315.93756242172,
+    "win_rate": 0.5198749441715051,
+    "total_current_value": 0.037368,
+    "total_positions": 3438,
+    "event_ct": 2239,
+    "win_count": 1164,
+    "rank": 1624,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
