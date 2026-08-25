@@ -542,5 +542,21 @@
     "win_count": 16,
     "rank": 73135,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x826e94fef267708bf18aa5733c5c78be143eb8e2",
+    "trader_name": "datapredictor",
+    "tag": "Overall",
+    "overall_gain": 742.595339859189,
+    "active_positions": 0,
+    "win_amount": 742.595339859189,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007733,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 73136,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
