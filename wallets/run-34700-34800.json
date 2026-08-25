@@ -1278,5 +1278,21 @@
     "win_count": 185,
     "rank": 34781,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1a6c9f0cb7cae5c4c2d3ed4b0adf196f26abc6a8",
+    "trader_name": "Hazerhythm",
+    "tag": "Overall",
+    "overall_gain": 2359.5299999999997,
+    "active_positions": 1,
+    "win_amount": 2359.5299999999997,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 34782,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
