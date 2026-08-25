@@ -862,5 +862,21 @@
     "win_count": 323,
     "rank": 1654,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb40e89677d59665d5188541ad860450a6e2a7cc9",
+    "trader_name": "Poligarch",
+    "tag": "Overall",
+    "overall_gain": 74116.3805196857,
+    "active_positions": 936,
+    "win_amount": 112504.62936239362,
+    "loss_amount": -38388.248842707915,
+    "win_rate": 0.6104835065521916,
+    "total_current_value": 8821.658882341002,
+    "total_positions": 14542,
+    "event_ct": 2213,
+    "win_count": 1351,
+    "rank": 1655,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
