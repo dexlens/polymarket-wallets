@@ -1182,5 +1182,21 @@
     "win_count": 19,
     "rank": 66775,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6948e5c3e355d7fa0bfed7828ac52b1dc034136c",
+    "trader_name": "Phonemc",
+    "tag": "Overall",
+    "overall_gain": 895.0505170789303,
+    "active_positions": 2,
+    "win_amount": 1201.2897485099902,
+    "loss_amount": -306.23923143106,
+    "win_rate": 0.723404255319149,
+    "total_current_value": 1008.2812586980001,
+    "total_positions": 72,
+    "event_ct": 47,
+    "win_count": 34,
+    "rank": 66776,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
