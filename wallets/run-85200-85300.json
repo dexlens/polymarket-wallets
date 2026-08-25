@@ -926,5 +926,21 @@
     "win_count": 7,
     "rank": 85259,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x726142108f5bf483676f6db9cdced5886fd192f9",
+    "trader_name": "Manuglnb",
+    "tag": "Overall",
+    "overall_gain": 548.552774719773,
+    "active_positions": 159,
+    "win_amount": 4043.5129448103316,
+    "loss_amount": -3494.960170090558,
+    "win_rate": 0.9453310159582873,
+    "total_current_value": 333.6115371335002,
+    "total_positions": 6496,
+    "event_ct": 6329,
+    "win_count": 5983,
+    "rank": 85260,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
