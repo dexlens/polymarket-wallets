@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 58044,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xeeec909363d3d4dd0effa519e871c3b01a178c82",
+    "trader_name": "Seshinre",
+    "tag": "Overall",
+    "overall_gain": 1141.2090614326803,
+    "active_positions": 13,
+    "win_amount": 1885.567195892405,
+    "loss_amount": -744.358134459725,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 2961.2000983085004,
+    "total_positions": 109,
+    "event_ct": 102,
+    "win_count": 90,
+    "rank": 58045,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
