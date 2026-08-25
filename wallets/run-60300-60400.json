@@ -1166,5 +1166,21 @@
     "win_count": 26,
     "rank": 60374,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32fea2a35a8b3b2a5a5e110e02c2825200f1bd0b",
+    "trader_name": "Flocculus",
+    "tag": "Overall",
+    "overall_gain": 1065.08,
+    "active_positions": 1,
+    "win_amount": 1362.92,
+    "loss_amount": -297.84000000000003,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 60375,
+    "trader_tags": "< 30 days old"
   }
 ]
