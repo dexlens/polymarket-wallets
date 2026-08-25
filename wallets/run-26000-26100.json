@@ -1550,5 +1550,21 @@
     "win_count": 3,
     "rank": 26098,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8490470199ef67e4c526b66973182c0dcd7e5db5",
+    "trader_name": "ysnr",
+    "tag": "Overall",
+    "overall_gain": 3353.18,
+    "active_positions": 2,
+    "win_amount": 3914.5,
+    "loss_amount": -561.32,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 26099,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
