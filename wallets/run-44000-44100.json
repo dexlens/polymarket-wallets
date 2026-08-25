@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 44047,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xed5324ecbd225f698a718d396030aa2b5353db02",
+    "trader_name": "delmer-qui",
+    "tag": "Overall",
+    "overall_gain": 1763.655845133708,
+    "active_positions": 32,
+    "win_amount": 2096.784109939758,
+    "loss_amount": -333.12826480604997,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 7533.156562,
+    "total_positions": 32,
+    "event_ct": 19,
+    "win_count": 10,
+    "rank": 44048,
+    "trader_tags": ""
   }
 ]
