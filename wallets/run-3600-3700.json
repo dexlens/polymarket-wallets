@@ -254,5 +254,21 @@
     "win_count": 34,
     "rank": 3616,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x317ad84517203596fcfde8d9b8bb99697133ac42",
+    "trader_name": "BankrollTraders",
+    "tag": "Overall",
+    "overall_gain": 31458.84135699774,
+    "active_positions": 13,
+    "win_amount": 36849.16007393354,
+    "loss_amount": -5390.3187169358,
+    "win_rate": 0.8787878787878788,
+    "total_current_value": 21.0289610515,
+    "total_positions": 78,
+    "event_ct": 33,
+    "win_count": 29,
+    "rank": 3617,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
