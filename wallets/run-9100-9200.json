@@ -702,5 +702,21 @@
     "win_count": 3,
     "rank": 9144,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf6f79fb0b579918f101bb6d0a264a492ce9de0da",
+    "trader_name": "cyberkurajber",
+    "tag": "Overall",
+    "overall_gain": 11462.350051957816,
+    "active_positions": 58,
+    "win_amount": 17993.832873392985,
+    "loss_amount": -6531.482821435183,
+    "win_rate": 0.4139344262295082,
+    "total_current_value": 754.9249742519996,
+    "total_positions": 933,
+    "event_ct": 488,
+    "win_count": 202,
+    "rank": 9145,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
