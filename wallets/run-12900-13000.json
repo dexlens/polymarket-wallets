@@ -1150,5 +1150,21 @@
     "win_count": 7,
     "rank": 12972,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2839048dddd9776efb8a07d5282e0181ec910efe",
+    "trader_name": "kandiwin",
+    "tag": "Overall",
+    "overall_gain": 7770.103216210353,
+    "active_positions": 58,
+    "win_amount": 83136.66043150463,
+    "loss_amount": -75366.55721529426,
+    "win_rate": 0.46296296296296297,
+    "total_current_value": 0.20353,
+    "total_positions": 110,
+    "event_ct": 108,
+    "win_count": 50,
+    "rank": 12973,
+    "trader_tags": ""
   }
 ]
