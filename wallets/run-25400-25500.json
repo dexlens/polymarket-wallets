@@ -78,5 +78,21 @@
     "win_count": 5,
     "rank": 25406,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2467f2d9fe20174fb679a0d143bf2341611dbd17",
+    "trader_name": "liquidate",
+    "tag": "Overall",
+    "overall_gain": 3475.4427874587723,
+    "active_positions": 5,
+    "win_amount": 14753.160570642753,
+    "loss_amount": -11277.717783183976,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 5.492498625,
+    "total_positions": 106,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 25407,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
