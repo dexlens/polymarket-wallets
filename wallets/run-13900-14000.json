@@ -398,5 +398,21 @@
     "win_count": 9,
     "rank": 13925,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7aecc2908553ea90de639b5ba2ab72662e1cb487",
+    "trader_name": "Life-Gamble",
+    "tag": "Overall",
+    "overall_gain": 7086.068038503375,
+    "active_positions": 4,
+    "win_amount": 12022.233575909804,
+    "loss_amount": -4936.16553740643,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 139.007365,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 13926,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
