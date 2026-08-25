@@ -670,5 +670,21 @@
     "win_count": 10,
     "rank": 9242,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x93143e6f8c098fe8b2e558b618523dea9b486bd7",
+    "trader_name": "monkmood",
+    "tag": "Overall",
+    "overall_gain": 11346.371385957777,
+    "active_positions": 231,
+    "win_amount": 20662.984030653166,
+    "loss_amount": -9316.612644695393,
+    "win_rate": 0.3176470588235294,
+    "total_current_value": 1075.0566301249996,
+    "total_positions": 366,
+    "event_ct": 85,
+    "win_count": 27,
+    "rank": 9243,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
