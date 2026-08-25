@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 19364,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6bed673d5ee05f0a6086e129cdf226eb0604427e",
+    "trader_name": "wynvsf",
+    "tag": "Overall",
+    "overall_gain": 4796.846172,
+    "active_positions": 2,
+    "win_amount": 4929.370728,
+    "loss_amount": -132.524556,
+    "win_rate": 0.9259259259259259,
+    "total_current_value": 135.42,
+    "total_positions": 29,
+    "event_ct": 27,
+    "win_count": 25,
+    "rank": 19365,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
