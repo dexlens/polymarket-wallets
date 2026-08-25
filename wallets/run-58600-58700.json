@@ -974,5 +974,21 @@
     "win_count": 43,
     "rank": 58662,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x2988a050ff0f96acffc53f793163e851973ee46b",
+    "trader_name": "bffd",
+    "tag": "Overall",
+    "overall_gain": 1119.2022843328414,
+    "active_positions": 3,
+    "win_amount": 1378.8505313195092,
+    "loss_amount": -259.648246986668,
+    "win_rate": 0.8928571428571429,
+    "total_current_value": 0.01933,
+    "total_positions": 30,
+    "event_ct": 28,
+    "win_count": 25,
+    "rank": 58663,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
