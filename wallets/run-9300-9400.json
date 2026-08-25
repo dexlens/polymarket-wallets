@@ -510,5 +510,21 @@
     "win_count": 1309,
     "rank": 9332,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x0bfb8009df6c46c1fdd79b65896cf224dc4526a7",
+    "trader_name": "melganis",
+    "tag": "Overall",
+    "overall_gain": 11226.254315118642,
+    "active_positions": 186,
+    "win_amount": 33838.87681389592,
+    "loss_amount": -22612.62249877727,
+    "win_rate": 0.7616387337057728,
+    "total_current_value": 25698.839256283998,
+    "total_positions": 1358,
+    "event_ct": 537,
+    "win_count": 409,
+    "rank": 9333,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
