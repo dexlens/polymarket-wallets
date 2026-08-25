@@ -366,5 +366,21 @@
     "win_count": 43,
     "rank": 34024,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x991359f5b67703fd1994151627b2e1abb6883873",
+    "trader_name": "SBTA",
+    "tag": "Overall",
+    "overall_gain": 2423.20276775972,
+    "active_positions": 7,
+    "win_amount": 4826.857190736681,
+    "loss_amount": -2403.654422976962,
+    "win_rate": 0.2972972972972973,
+    "total_current_value": 0.0157984375,
+    "total_positions": 47,
+    "event_ct": 37,
+    "win_count": 11,
+    "rank": 34025,
+    "trader_tags": ""
   }
 ]
