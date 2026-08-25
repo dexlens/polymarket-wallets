@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 26656,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40b168cd39b88c225938254793515e0870fbd3c9",
+    "trader_name": "FACTZ",
+    "tag": "Overall",
+    "overall_gain": 3260.3871414817227,
+    "active_positions": 32,
+    "win_amount": 43855.2854893159,
+    "loss_amount": -40594.89834783418,
+    "win_rate": 0.459412780656304,
+    "total_current_value": 4960.563407154498,
+    "total_positions": 815,
+    "event_ct": 579,
+    "win_count": 266,
+    "rank": 26657,
+    "trader_tags": "> 1 year old"
   }
 ]
