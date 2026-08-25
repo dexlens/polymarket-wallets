@@ -1454,5 +1454,21 @@
     "win_count": 3,
     "rank": 10891,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf74d1fbb6ed7c044d3b572ba0a8b4ee987b49930",
+    "trader_name": "Slow25k",
+    "tag": "Overall",
+    "overall_gain": 9697.716195404051,
+    "active_positions": 1,
+    "win_amount": 61232.56265844495,
+    "loss_amount": -51534.84646304089,
+    "win_rate": 0.6006825938566553,
+    "total_current_value": 605.723769865,
+    "total_positions": 297,
+    "event_ct": 293,
+    "win_count": 176,
+    "rank": 10892,
+    "trader_tags": ""
   }
 ]
