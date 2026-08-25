@@ -430,5 +430,21 @@
     "win_count": 27,
     "rank": 37328,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74cccf1009c4efcc7280cf2e994288d7979ef578",
+    "trader_name": "istvan.sol",
+    "tag": "Overall",
+    "overall_gain": 2165.2900593022996,
+    "active_positions": 3,
+    "win_amount": 2984.8917460837515,
+    "loss_amount": -819.601686781452,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.0231479365,
+    "total_positions": 14,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 37329,
+    "trader_tags": ""
   }
 ]
