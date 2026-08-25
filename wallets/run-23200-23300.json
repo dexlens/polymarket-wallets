@@ -606,5 +606,21 @@
     "win_count": 52,
     "rank": 23238,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x05c49ddb523ceb8d1b6296d2aeb96f53826b47de",
+    "trader_name": "ShadowBeacon",
+    "tag": "Overall",
+    "overall_gain": 3870.6099999999997,
+    "active_positions": 2,
+    "win_amount": 4141.135,
+    "loss_amount": -270.525,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 206.925,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 23239,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
