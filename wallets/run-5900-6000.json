@@ -206,5 +206,21 @@
     "win_count": 4,
     "rank": 5913,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcd2204582b8cb59de5cb0b295e4c128b2ac819bc",
+    "trader_name": "earnworld",
+    "tag": "Overall",
+    "overall_gain": 18168.43089581376,
+    "active_positions": 0,
+    "win_amount": 21277.031757783217,
+    "loss_amount": -3108.600861969461,
+    "win_rate": 0.9207317073170732,
+    "total_current_value": 0.021006,
+    "total_positions": 180,
+    "event_ct": 164,
+    "win_count": 151,
+    "rank": 5914,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
