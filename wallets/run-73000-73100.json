@@ -638,5 +638,21 @@
     "win_count": 3,
     "rank": 73041,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0aa8d37bebd05922b593685894631511f418fbd4",
+    "trader_name": "lex500",
+    "tag": "Overall",
+    "overall_gain": 744.120555184154,
+    "active_positions": 0,
+    "win_amount": 744.120555184154,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00035800000000000003,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 73042,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
