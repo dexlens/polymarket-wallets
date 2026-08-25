@@ -270,5 +270,21 @@
     "win_count": 15,
     "rank": 24118,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xeb3342689033074b902ef071a562cf5ad871c377",
+    "trader_name": "Kyoraku",
+    "tag": "Overall",
+    "overall_gain": 3700.2624756572027,
+    "active_positions": 32,
+    "win_amount": 4737.177051831095,
+    "loss_amount": -1036.914576173893,
+    "win_rate": 0.75,
+    "total_current_value": 7646.579650873001,
+    "total_positions": 61,
+    "event_ct": 32,
+    "win_count": 24,
+    "rank": 24119,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
