@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 68991,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7f472f0c8527cb6304bea28e8d451c50e490367c",
+    "trader_name": "spiderxyz",
+    "tag": "Overall",
+    "overall_gain": 835.0498987935001,
+    "active_positions": 104,
+    "win_amount": 9801.420268793501,
+    "loss_amount": -8966.370369999997,
+    "win_rate": 0.6461538461538462,
+    "total_current_value": 962.6155868835,
+    "total_positions": 1211,
+    "event_ct": 910,
+    "win_count": 588,
+    "rank": 68992,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
