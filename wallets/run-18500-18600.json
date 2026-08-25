@@ -654,5 +654,21 @@
     "win_count": 55,
     "rank": 18541,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2dfe65e9ee31b001c5e0d631735dd011870cc730",
+    "trader_name": "QuarryQuery",
+    "tag": "Overall",
+    "overall_gain": 5010.5,
+    "active_positions": 3,
+    "win_amount": 6113,
+    "loss_amount": -1102.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 18542,
+    "trader_tags": ""
   }
 ]
