@@ -318,5 +318,21 @@
     "win_count": 9,
     "rank": 11620,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8cf2a95212ecb2abc4b6de4b9586ec336cf847d8",
+    "trader_name": "Coleslaw",
+    "tag": "Overall",
+    "overall_gain": 8951.646449647926,
+    "active_positions": 1,
+    "win_amount": 10522.962391249324,
+    "loss_amount": -1571.3159416014,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.020224,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 11621,
+    "trader_tags": "> 1 year old"
   }
 ]
