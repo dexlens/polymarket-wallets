@@ -1342,5 +1342,21 @@
     "win_count": 18,
     "rank": 77385,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x87a9fdf974e597b0371d7bac9716d7d3b97c167f",
+    "trader_name": "All-in-or-nothing",
+    "tag": "Overall",
+    "overall_gain": 674.557650425383,
+    "active_positions": 0,
+    "win_amount": 674.557650425383,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 77386,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
