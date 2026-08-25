@@ -1422,5 +1422,21 @@
     "win_count": 9,
     "rank": 4889,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd980cc41fc033ea674fb136b0187275ec9dca0c",
+    "trader_name": "oftgk",
+    "tag": "Overall",
+    "overall_gain": 22238.311677859336,
+    "active_positions": 1,
+    "win_amount": 22425.731677859334,
+    "loss_amount": -187.42,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 6.860333,
+    "total_positions": 28,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 4890,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
