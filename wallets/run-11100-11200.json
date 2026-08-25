@@ -1262,5 +1262,21 @@
     "win_count": 71,
     "rank": 11179,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x866348638c9ed5b21a417e9392fa4818c5033fff",
+    "trader_name": "LORR",
+    "tag": "Overall",
+    "overall_gain": 9391.919410800234,
+    "active_positions": 0,
+    "win_amount": 11746.127973453204,
+    "loss_amount": -2354.20856265297,
+    "win_rate": 0.5125,
+    "total_current_value": 2.7338273069999994,
+    "total_positions": 142,
+    "event_ct": 80,
+    "win_count": 41,
+    "rank": 11180,
+    "trader_tags": "> 1 year old"
   }
 ]
