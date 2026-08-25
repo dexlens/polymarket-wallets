@@ -974,5 +974,21 @@
     "win_count": 30,
     "rank": 12961,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x46a559c7b8712182ee2f48fab408e3b238bac05c",
+    "trader_name": "talam",
+    "tag": "Overall",
+    "overall_gain": 7778.78255987,
+    "active_positions": 866,
+    "win_amount": 123203.26704000004,
+    "loss_amount": -115424.48448012999,
+    "win_rate": 0.5439705107951553,
+    "total_current_value": 125.5,
+    "total_positions": 1899,
+    "event_ct": 1899,
+    "win_count": 1033,
+    "rank": 12962,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
