@@ -782,5 +782,21 @@
     "win_count": 20,
     "rank": 9349,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4bb2547d10d4af0c3366ab96988fb06102b26c95",
+    "trader_name": "longtern",
+    "tag": "Overall",
+    "overall_gain": 11207.477426424823,
+    "active_positions": 54,
+    "win_amount": 12724.231208439824,
+    "loss_amount": -1516.7537820149994,
+    "win_rate": 0.9561091340450771,
+    "total_current_value": 2944.2285350000006,
+    "total_positions": 1552,
+    "event_ct": 843,
+    "win_count": 806,
+    "rank": 9350,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
