@@ -446,5 +446,21 @@
     "win_count": 14,
     "rank": 3128,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaefb869afaf1864e64c7e849baa45c195857a0ef",
+    "trader_name": "Starsee",
+    "tag": "Overall",
+    "overall_gain": 36587.58078738703,
+    "active_positions": 2,
+    "win_amount": 75479.25170268632,
+    "loss_amount": -38891.670915299284,
+    "win_rate": 0.6826923076923077,
+    "total_current_value": 3717.7584583850016,
+    "total_positions": 145,
+    "event_ct": 104,
+    "win_count": 71,
+    "rank": 3129,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
