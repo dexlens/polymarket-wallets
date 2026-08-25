@@ -1198,5 +1198,21 @@
     "win_count": 110,
     "rank": 59276,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3ec533361701916eb4c0372b50ed846670cf6086",
+    "trader_name": "t1forwin",
+    "tag": "Overall",
+    "overall_gain": 1099.533248410276,
+    "active_positions": 0,
+    "win_amount": 1099.533248410276,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002062,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 59277,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
