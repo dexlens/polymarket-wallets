@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 79638,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5ff2dba21f4ce897b5fc95ff94970fd2371a30a6",
+    "trader_name": "wtues",
+    "tag": "Overall",
+    "overall_gain": 636.5598575240109,
+    "active_positions": 6,
+    "win_amount": 815.2722419999999,
+    "loss_amount": -178.71238447598907,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 1682.7853440735,
+    "total_positions": 25,
+    "event_ct": 21,
+    "win_count": 18,
+    "rank": 79639,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
