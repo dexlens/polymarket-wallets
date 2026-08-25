@@ -1118,5 +1118,21 @@
     "win_count": 10,
     "rank": 4770,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaf67179b2e592737936eb8dbdad90f639e0deee6",
+    "trader_name": "Sihr",
+    "tag": "Overall",
+    "overall_gain": 22817.561558459995,
+    "active_positions": 33,
+    "win_amount": 58567.900885589996,
+    "loss_amount": -35750.33932713,
+    "win_rate": 0.5609756097560976,
+    "total_current_value": 0.000033,
+    "total_positions": 82,
+    "event_ct": 82,
+    "win_count": 46,
+    "rank": 4771,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
