@@ -926,5 +926,21 @@
     "win_count": 2,
     "rank": 48459,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3423d9b10cbdf7a7007bc0385759692c55f71c2e",
+    "trader_name": "AntiFragileFathom",
+    "tag": "Overall",
+    "overall_gain": 1551,
+    "active_positions": 1,
+    "win_amount": 1684.5,
+    "loss_amount": -133.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 48460,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
