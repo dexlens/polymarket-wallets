@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 89360,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x286e6b1652b63ca05823f7f0f5d0397074bcf192",
+    "trader_name": "yellowsh",
+    "tag": "Overall",
+    "overall_gain": 497.46921900533306,
+    "active_positions": 1,
+    "win_amount": 548.8247319999999,
+    "loss_amount": -51.355512994667,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.015583,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 89361,
+    "trader_tags": "> 1 year old"
   }
 ]
