@@ -1486,5 +1486,21 @@
     "win_count": 55,
     "rank": 10293,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf05eb591cbca73139a00b0ef1d3ef121f724e4ca",
+    "trader_name": "MarkKayla",
+    "tag": "Overall",
+    "overall_gain": 10221.593422,
+    "active_positions": 0,
+    "win_amount": 10292.526616,
+    "loss_amount": -70.933194,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 40,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 10294,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
