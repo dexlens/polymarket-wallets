@@ -1470,5 +1470,21 @@
     "win_count": 3,
     "rank": 5992,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xdf847cafeb0da5b4f882e9e9c31266f9e725d0a0",
+    "trader_name": "Nonomomo",
+    "tag": "Overall",
+    "overall_gain": 17903.431690365516,
+    "active_positions": 1,
+    "win_amount": 22229.847731365513,
+    "loss_amount": -4326.416041,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 0.0075,
+    "total_positions": 110,
+    "event_ct": 45,
+    "win_count": 42,
+    "rank": 5993,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
