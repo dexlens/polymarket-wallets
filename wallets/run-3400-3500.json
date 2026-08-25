@@ -910,5 +910,21 @@
     "win_count": 3090,
     "rank": 3457,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x5978fdbcb252b4c0f90f0e342451d16f15cd5e50",
+    "trader_name": "SwineLord",
+    "tag": "Overall",
+    "overall_gain": 32906.52545978813,
+    "active_positions": 5,
+    "win_amount": 51373.27360555329,
+    "loss_amount": -18466.748145765167,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 3458,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
