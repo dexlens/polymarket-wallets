@@ -1262,5 +1262,21 @@
     "win_count": 10,
     "rank": 8079,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x83d6df1c91111ced5c389a07d9c7368899b5984c",
+    "trader_name": "Samuelov",
+    "tag": "Overall",
+    "overall_gain": 13007.425961676747,
+    "active_positions": 7,
+    "win_amount": 13873.425579553998,
+    "loss_amount": -865.999617877253,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0.031902,
+    "total_positions": 19,
+    "event_ct": 13,
+    "win_count": 8,
+    "rank": 8080,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
