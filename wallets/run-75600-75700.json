@@ -1262,5 +1262,21 @@
     "win_count": 32,
     "rank": 75680,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbf13934a1fec7d3211fc15c138d84ac2a691b91a",
+    "trader_name": "Bilberry",
+    "tag": "Overall",
+    "overall_gain": 704.8470370252887,
+    "active_positions": 0,
+    "win_amount": 1553.811553304315,
+    "loss_amount": -848.9645162790262,
+    "win_rate": 0.8266666666666667,
+    "total_current_value": 0.065459,
+    "total_positions": 381,
+    "event_ct": 75,
+    "win_count": 62,
+    "rank": 75681,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
