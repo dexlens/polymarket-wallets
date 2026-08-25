@@ -958,5 +958,21 @@
     "win_count": 5,
     "rank": 12260,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x612743508321f21c22b0419c69aa2119e165a4cd",
+    "trader_name": "Rigelstarw",
+    "tag": "Overall",
+    "overall_gain": 8342.248408146306,
+    "active_positions": 3,
+    "win_amount": 8342.248408146306,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 16.2857415335,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 12261,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
