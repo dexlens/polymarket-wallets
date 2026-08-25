@@ -590,5 +590,21 @@
     "win_count": 235,
     "rank": 10037,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf1f4f6287886dca085c99d51f25dc7526ab0bc5a",
+    "trader_name": "ardenipsamtq",
+    "tag": "Overall",
+    "overall_gain": 10449.654,
+    "active_positions": 1,
+    "win_amount": 10449.654,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 22,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 10038,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
