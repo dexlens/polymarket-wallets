@@ -398,5 +398,21 @@
     "win_count": 1207,
     "rank": 3525,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x6111335632d75cca323f05cf202bce3645a7cbff",
+    "trader_name": "gamblers55",
+    "tag": "Overall",
+    "overall_gain": 32381.342729586133,
+    "active_positions": 4,
+    "win_amount": 37513.31930896453,
+    "loss_amount": -5131.976579378397,
+    "win_rate": 0.25,
+    "total_current_value": 0.059754,
+    "total_positions": 9,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 3526,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
