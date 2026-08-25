@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 8568,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x94816b365d0d4c7b22be79e0b7ec623f6812b947",
+    "trader_name": "jack.c",
+    "tag": "Overall",
+    "overall_gain": 12230.528363805122,
+    "active_positions": 2,
+    "win_amount": 362993.6714298053,
+    "loss_amount": -350763.1430660001,
+    "win_rate": 0.6522192716236722,
+    "total_current_value": 3200.00512,
+    "total_positions": 24244,
+    "event_ct": 21088,
+    "win_count": 13754,
+    "rank": 8569,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
