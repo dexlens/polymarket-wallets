@@ -46,5 +46,21 @@
     "win_count": 11,
     "rank": 4803,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3d7710f91dbc7efcaaf0a37f305c42a6deacabd5",
+    "trader_name": "Mewin",
+    "tag": "Overall",
+    "overall_gain": 22629.739482128116,
+    "active_positions": 4,
+    "win_amount": 50374.00095051188,
+    "loss_amount": -27744.261468383764,
+    "win_rate": 0.6178343949044586,
+    "total_current_value": 1.371994,
+    "total_positions": 208,
+    "event_ct": 157,
+    "win_count": 97,
+    "rank": 4804,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
