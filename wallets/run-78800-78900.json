@@ -942,5 +942,21 @@
     "win_count": 35,
     "rank": 78860,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2c99849fcfefdb46e8328681fb318aea16cc1d11",
+    "trader_name": "burgess-caftans",
+    "tag": "Overall",
+    "overall_gain": 649.9767798814196,
+    "active_positions": 133,
+    "win_amount": 7620.253539219,
+    "loss_amount": -6970.276759337584,
+    "win_rate": 0.7900874635568513,
+    "total_current_value": 0.0011528299999999999,
+    "total_positions": 692,
+    "event_ct": 686,
+    "win_count": 542,
+    "rank": 78861,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
