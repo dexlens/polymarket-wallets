@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 7724,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4458eea0088e45472e284b20b9ed41ad46111be5",
+    "trader_name": "degoat",
+    "tag": "Overall",
+    "overall_gain": 13667.787175241197,
+    "active_positions": 2,
+    "win_amount": 15667.755500182384,
+    "loss_amount": -1999.968324941186,
+    "win_rate": 0.5,
+    "total_current_value": 0.002504,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 7725,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
