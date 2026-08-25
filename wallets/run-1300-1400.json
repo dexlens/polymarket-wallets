@@ -734,5 +734,21 @@
     "win_count": 79,
     "rank": 1346,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x49ce7f43e9977b275b8b5876d1e7a1d63c149968",
+    "trader_name": "CCPig",
+    "tag": "Overall",
+    "overall_gain": 90028.42125660912,
+    "active_positions": 4,
+    "win_amount": 186675.2108047066,
+    "loss_amount": -96646.7895480975,
+    "win_rate": 0.7297297297297297,
+    "total_current_value": 0.017917,
+    "total_positions": 41,
+    "event_ct": 37,
+    "win_count": 27,
+    "rank": 1347,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
