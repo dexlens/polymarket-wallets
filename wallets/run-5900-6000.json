@@ -270,5 +270,21 @@
     "win_count": 514,
     "rank": 5917,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x2f4b16c21191bb9497b7099206291a511b50651e",
+    "trader_name": "Jovrix",
+    "tag": "Overall",
+    "overall_gain": 18147.36155091838,
+    "active_positions": 7,
+    "win_amount": 18819.292922928213,
+    "loss_amount": -671.9313720098321,
+    "win_rate": 0.8292682926829268,
+    "total_current_value": 0.019267429000000003,
+    "total_positions": 44,
+    "event_ct": 41,
+    "win_count": 34,
+    "rank": 5918,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
