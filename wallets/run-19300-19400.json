@@ -46,5 +46,21 @@
     "win_count": 8,
     "rank": 19303,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0842471954f196b92474f7e5c3a0c1c617c40f97",
+    "trader_name": "reflexive",
+    "tag": "Overall",
+    "overall_gain": 4810.563210534132,
+    "active_positions": 0,
+    "win_amount": 7504.381959793652,
+    "loss_amount": -2693.81874925952,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.07998399999999999,
+    "total_positions": 50,
+    "event_ct": 33,
+    "win_count": 21,
+    "rank": 19304,
+    "trader_tags": "> 1 year old"
   }
 ]
