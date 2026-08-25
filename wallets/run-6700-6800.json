@@ -462,5 +462,21 @@
     "win_count": 9,
     "rank": 6729,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08310db64ab7d40556dd8cf6f4f0c2fe56661a7e",
+    "trader_name": "ethforever420",
+    "tag": "Overall",
+    "overall_gain": 15954.693492934417,
+    "active_positions": 4,
+    "win_amount": 39267.437153362895,
+    "loss_amount": -23312.743660428478,
+    "win_rate": 0.5,
+    "total_current_value": 0.04625,
+    "total_positions": 10,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 6730,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
