@@ -318,5 +318,21 @@
     "win_count": 45,
     "rank": 4020,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbac47f23412c6e0d9d714458f534c972e148f7d4",
+    "trader_name": "PoorTurnRich",
+    "tag": "Overall",
+    "overall_gain": 27888.922612688482,
+    "active_positions": 10,
+    "win_amount": 34322.92925068848,
+    "loss_amount": -6434.006638,
+    "win_rate": 0.8787878787878788,
+    "total_current_value": 28.478819945999998,
+    "total_positions": 88,
+    "event_ct": 33,
+    "win_count": 29,
+    "rank": 4021,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
