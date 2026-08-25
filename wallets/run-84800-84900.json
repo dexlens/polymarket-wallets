@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 84886,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8d3e609d81eac46ccd929f2956952e5073457b9d",
+    "trader_name": "Shangkou",
+    "tag": "Overall",
+    "overall_gain": 553.8472572559999,
+    "active_positions": 1,
+    "win_amount": 575.752559006,
+    "loss_amount": -21.905301750000003,
+    "win_rate": 0.639344262295082,
+    "total_current_value": 10.91614625,
+    "total_positions": 72,
+    "event_ct": 61,
+    "win_count": 39,
+    "rank": 84887,
+    "trader_tags": "> 1 year old"
   }
 ]
