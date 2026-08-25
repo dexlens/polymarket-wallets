@@ -718,5 +718,21 @@
     "win_count": 5,
     "rank": 12945,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x34364fe3133807049c9fc4e688e4f0d54f4a4c8d",
+    "trader_name": "Tuporia",
+    "tag": "Overall",
+    "overall_gain": 7787.408326648102,
+    "active_positions": 6,
+    "win_amount": 9425.279045199484,
+    "loss_amount": -1637.870718551381,
+    "win_rate": 0.696969696969697,
+    "total_current_value": 0.080185,
+    "total_positions": 48,
+    "event_ct": 33,
+    "win_count": 23,
+    "rank": 12946,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
