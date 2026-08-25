@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 78485,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6fe012bb74a48dd04cd3853cd2e811c5669f54f3",
+    "trader_name": "baobao149",
+    "tag": "Overall",
+    "overall_gain": 656.194226512209,
+    "active_positions": 0,
+    "win_amount": 656.194226512209,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004209,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 78486,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
