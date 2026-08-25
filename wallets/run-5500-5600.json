@@ -1470,5 +1470,21 @@
     "win_count": 69,
     "rank": 5592,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3b2fa0f8cf64005eb9cf8a06d906b2faf67484e9",
+    "trader_name": "tw6g",
+    "tag": "Overall",
+    "overall_gain": 19290.06592400226,
+    "active_positions": 10,
+    "win_amount": 43956.00868200531,
+    "loss_amount": -24665.942758003053,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.065219,
+    "total_positions": 24,
+    "event_ct": 22,
+    "win_count": 10,
+    "rank": 5593,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
