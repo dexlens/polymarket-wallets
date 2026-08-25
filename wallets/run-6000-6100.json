@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 6047,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc2dcbee4819a0f649214f6e4c1713e076827a050",
+    "trader_name": "Wanwin",
+    "tag": "Overall",
+    "overall_gain": 17739.649605000002,
+    "active_positions": 1,
+    "win_amount": 17739.649605000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 19.5,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 6048,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
