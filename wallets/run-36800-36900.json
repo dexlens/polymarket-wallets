@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 36882,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84de29e083b3136eaec1de79f6527a3b0ff3b018",
+    "trader_name": "Tireless",
+    "tag": "Overall",
+    "overall_gain": 2198.659738493555,
+    "active_positions": 0,
+    "win_amount": 3252.839565228098,
+    "loss_amount": -1054.179826734543,
+    "win_rate": 0.4,
+    "total_current_value": 0.03453799999999999,
+    "total_positions": 32,
+    "event_ct": 15,
+    "win_count": 6,
+    "rank": 36883,
+    "trader_tags": "> 1 year old"
   }
 ]
