@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 81133,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b50fa910a5ce9fb64b9e84f43a32400b407ea47",
+    "trader_name": "lif3styl3",
+    "tag": "Overall",
+    "overall_gain": 612.0573241604258,
+    "active_positions": 3,
+    "win_amount": 11855.284402206586,
+    "loss_amount": -11243.227078046157,
+    "win_rate": 0.38333333333333336,
+    "total_current_value": 400.33256377000004,
+    "total_positions": 388,
+    "event_ct": 240,
+    "win_count": 92,
+    "rank": 81134,
+    "trader_tags": ""
   }
 ]
