@@ -1038,5 +1038,21 @@
     "win_count": 54,
     "rank": 10365,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x28a42116432cc7bb5935d86366bd948d95fba94d",
+    "trader_name": "Eso5x",
+    "tag": "Overall",
+    "overall_gain": 10139.86404716935,
+    "active_positions": 0,
+    "win_amount": 10139.86404716935,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008655,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 10366,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
