@@ -958,5 +958,21 @@
     "win_count": 5,
     "rank": 23060,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5beaf0c969374ff5ec3dd0bfd2fac8776614ce7a",
+    "trader_name": "Corroornament",
+    "tag": "Overall",
+    "overall_gain": 3907.1499999999996,
+    "active_positions": 0,
+    "win_amount": 3907.1499999999996,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 23061,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
