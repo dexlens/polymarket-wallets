@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 4762,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b1703dab1a2ac89f81aef02e644a8eb20d2d74e",
+    "trader_name": "austinlangw",
+    "tag": "Overall",
+    "overall_gain": 22843.124430000003,
+    "active_positions": 0,
+    "win_amount": 22952.745430000003,
+    "loss_amount": -109.62100000000001,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 38,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 4763,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
