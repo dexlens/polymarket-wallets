@@ -638,5 +638,21 @@
     "win_count": 3,
     "rank": 50341,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57341fbe811a5d844d68b3c3843a2890073d60c7",
+    "trader_name": "pede",
+    "tag": "Overall",
+    "overall_gain": 1469.5245609381805,
+    "active_positions": 1,
+    "win_amount": 1469.5245609381805,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 18598.51594042,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 50342,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
