@@ -1102,5 +1102,21 @@
     "win_count": 105,
     "rank": 79270,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x09050eeaa670227d0f244f54694a4de9f77c99ad",
+    "trader_name": "cryptoganto",
+    "tag": "Overall",
+    "overall_gain": 642.6760747273848,
+    "active_positions": 10,
+    "win_amount": 3589.5589744020667,
+    "loss_amount": -2946.88289967468,
+    "win_rate": 0.6336405529953917,
+    "total_current_value": 1005.9268391649999,
+    "total_positions": 1074,
+    "event_ct": 434,
+    "win_count": 275,
+    "rank": 79271,
+    "trader_tags": "1k+ Positions"
   }
 ]
