@@ -830,5 +830,21 @@
     "win_count": 14,
     "rank": 13052,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb2d671e6c9b623d83f0e7d467e067ea9ff5962cd",
+    "trader_name": "Julean",
+    "tag": "Overall",
+    "overall_gain": 7700.741832480246,
+    "active_positions": 1,
+    "win_amount": 14547.799463119809,
+    "loss_amount": -6847.057630639563,
+    "win_rate": 0.75,
+    "total_current_value": 0.006137,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 13053,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
