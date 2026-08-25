@@ -142,5 +142,21 @@
     "win_count": 1,
     "rank": 73210,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x070a3dbb6029791326524f8d512c75b36f0331aa",
+    "trader_name": "gandglogs",
+    "tag": "Overall",
+    "overall_gain": 741.0433495693488,
+    "active_positions": 31,
+    "win_amount": 1423.361686140911,
+    "loss_amount": -682.318336571562,
+    "win_rate": 0.5,
+    "total_current_value": 0.014045,
+    "total_positions": 72,
+    "event_ct": 42,
+    "win_count": 21,
+    "rank": 73211,
+    "trader_tags": ""
   }
 ]
