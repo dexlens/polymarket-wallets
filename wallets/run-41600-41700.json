@@ -1230,5 +1230,21 @@
     "win_count": 14,
     "rank": 41678,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2dabb1be74a4291fb2dff7376c341051208138fa",
+    "trader_name": "MuskWillMakeMeRich",
+    "tag": "Overall",
+    "overall_gain": 1894.5288549287125,
+    "active_positions": 37,
+    "win_amount": 3153.5558775157233,
+    "loss_amount": -1259.0270225870108,
+    "win_rate": 0.6910569105691057,
+    "total_current_value": 0.23568697449999998,
+    "total_positions": 182,
+    "event_ct": 123,
+    "win_count": 85,
+    "rank": 41679,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
