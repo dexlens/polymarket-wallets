@@ -590,5 +590,21 @@
     "win_count": 4,
     "rank": 4237,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23fb584149842867060cabb352427687e476fe50",
+    "trader_name": "hepi216",
+    "tag": "Overall",
+    "overall_gain": 26402.418708342837,
+    "active_positions": 26,
+    "win_amount": 102612.54257024199,
+    "loss_amount": -76210.12386189916,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 0,
+    "total_positions": 64,
+    "event_ct": 46,
+    "win_count": 26,
+    "rank": 4238,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
