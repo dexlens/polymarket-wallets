@@ -462,5 +462,21 @@
     "win_count": 3,
     "rank": 65030,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x71d6b5bfd8f987e667ebe1ba3c317afe27a8d7ea",
+    "trader_name": "polymarketsa",
+    "tag": "Overall",
+    "overall_gain": 944.922357492364,
+    "active_positions": 2,
+    "win_amount": 1482.572917560352,
+    "loss_amount": -537.650560067988,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.016239999999999997,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 65031,
+    "trader_tags": "> 1 year old"
   }
 ]
