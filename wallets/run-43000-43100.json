@@ -1070,5 +1070,21 @@
     "win_count": 2,
     "rank": 43068,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8f573bc8598492bf916811d7ce4c56ed57f2bf51",
+    "trader_name": "pandaman",
+    "tag": "Overall",
+    "overall_gain": 1815.8277192015253,
+    "active_positions": 4,
+    "win_amount": 3312.9525545388387,
+    "loss_amount": -1497.1248353373137,
+    "win_rate": 0.6497175141242938,
+    "total_current_value": 232.59655800000002,
+    "total_positions": 216,
+    "event_ct": 177,
+    "win_count": 115,
+    "rank": 43069,
+    "trader_tags": "> 1 year old"
   }
 ]
