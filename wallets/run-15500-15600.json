@@ -478,5 +478,21 @@
     "win_count": 98,
     "rank": 15530,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3f41deac8fd778f262ae09b55299b12cf9624884",
+    "trader_name": "Valeyt",
+    "tag": "Overall",
+    "overall_gain": 6221.5,
+    "active_positions": 2,
+    "win_amount": 6293,
+    "loss_amount": -71.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 15531,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
