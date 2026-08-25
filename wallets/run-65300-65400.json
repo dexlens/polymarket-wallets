@@ -750,5 +750,21 @@
     "win_count": 7,
     "rank": 65348,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xca58c06a729f0649df362f1f30928f004470b87d",
+    "trader_name": "valky",
+    "tag": "Overall",
+    "overall_gain": 934.7549411912299,
+    "active_positions": 0,
+    "win_amount": 944.0045371912299,
+    "loss_amount": -9.249596,
+    "win_rate": 0.75,
+    "total_current_value": 0.00669,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 65349,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
