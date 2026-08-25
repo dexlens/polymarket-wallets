@@ -158,5 +158,21 @@
     "win_count": 948,
     "rank": 4210,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x0886ee1ffe98af85ef62cc75c83dfce978d16072",
+    "trader_name": "tibimarket",
+    "tag": "Overall",
+    "overall_gain": 26526.79199844061,
+    "active_positions": 0,
+    "win_amount": 80533.78910407824,
+    "loss_amount": -54006.99710563764,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.0092,
+    "total_positions": 14,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 4211,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
