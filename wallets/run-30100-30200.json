@@ -158,5 +158,21 @@
     "win_count": 3,
     "rank": 30111,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4b7b8044ec42ddba60f530a5769f087350f3bd1",
+    "trader_name": "mayberug",
+    "tag": "Overall",
+    "overall_gain": 2807.782749686335,
+    "active_positions": 1,
+    "win_amount": 4299.900825558017,
+    "loss_amount": -1492.1180758716812,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.6152612900000001,
+    "total_positions": 110,
+    "event_ct": 90,
+    "win_count": 50,
+    "rank": 30112,
+    "trader_tags": "> 1 year old"
   }
 ]
