@@ -206,5 +206,21 @@
     "win_count": 4,
     "rank": 81214,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85b063aee546d57e38d9d16d18f9bd5cab82b663",
+    "trader_name": "Amt.",
+    "tag": "Overall",
+    "overall_gain": 610.74949280284,
+    "active_positions": 42,
+    "win_amount": 1325.487296901633,
+    "loss_amount": -714.737804098793,
+    "win_rate": 0.3584905660377358,
+    "total_current_value": 33.277001,
+    "total_positions": 61,
+    "event_ct": 53,
+    "win_count": 19,
+    "rank": 81215,
+    "trader_tags": "< 30 days old"
   }
 ]
