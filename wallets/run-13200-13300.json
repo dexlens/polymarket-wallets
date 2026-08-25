@@ -622,5 +622,21 @@
     "win_count": 43,
     "rank": 13239,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x323814d100f90091400e24d57f9a3dab4e3f5e77",
+    "trader_name": "shortVega",
+    "tag": "Overall",
+    "overall_gain": 7578.480286314655,
+    "active_positions": 2,
+    "win_amount": 9078.791962014106,
+    "loss_amount": -1500.311675699452,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 879.9364560000001,
+    "total_positions": 60,
+    "event_ct": 28,
+    "win_count": 20,
+    "rank": 13240,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
