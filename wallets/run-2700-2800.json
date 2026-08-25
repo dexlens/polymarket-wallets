@@ -590,5 +590,21 @@
     "win_count": 13,
     "rank": 2737,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa02b34d4811c01d9b7682c8bc14769a48c6170d6",
+    "trader_name": "8up",
+    "tag": "Overall",
+    "overall_gain": 42429.25882035818,
+    "active_positions": 13,
+    "win_amount": 59662.44186940798,
+    "loss_amount": -17233.18304904981,
+    "win_rate": 0.7151335311572701,
+    "total_current_value": 7925.703445546503,
+    "total_positions": 461,
+    "event_ct": 337,
+    "win_count": 241,
+    "rank": 2738,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
