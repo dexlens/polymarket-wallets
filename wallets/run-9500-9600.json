@@ -510,5 +510,21 @@
     "win_count": 10,
     "rank": 9532,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8c58ca0aa244274d589cbd502167983d4c1de330",
+    "trader_name": "degenm",
+    "tag": "Overall",
+    "overall_gain": 10988.981012025157,
+    "active_positions": 159,
+    "win_amount": 61207.78791420391,
+    "loss_amount": -50218.80690217872,
+    "win_rate": 0.5502008032128514,
+    "total_current_value": 0.08991099999999999,
+    "total_positions": 694,
+    "event_ct": 249,
+    "win_count": 137,
+    "rank": 9533,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
