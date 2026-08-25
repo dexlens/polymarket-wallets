@@ -286,5 +286,21 @@
     "win_count": 1,
     "rank": 13718,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f06d7ba5b4f9d8e7a215c0143568e55dfff216e",
+    "trader_name": "nymujth",
+    "tag": "Overall",
+    "overall_gain": 7213.239165206,
+    "active_positions": 9,
+    "win_amount": 11110.877155,
+    "loss_amount": -3897.637989794,
+    "win_rate": 0.6,
+    "total_current_value": 86,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 12,
+    "rank": 13719,
+    "trader_tags": "< 30 days old"
   }
 ]
