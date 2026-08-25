@@ -558,5 +558,21 @@
     "win_count": 266,
     "rank": 7135,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3e8c5adbf0dfd7fd0a3877e3b13b469f9bd2540a",
+    "trader_name": "RoyArthur",
+    "tag": "Overall",
+    "overall_gain": 15000.916129834957,
+    "active_positions": 52,
+    "win_amount": 36250.916129834965,
+    "loss_amount": -21250,
+    "win_rate": 0.782051282051282,
+    "total_current_value": 49.827184999999986,
+    "total_positions": 85,
+    "event_ct": 78,
+    "win_count": 61,
+    "rank": 7136,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
