@@ -670,5 +670,21 @@
     "win_count": 61,
     "rank": 7542,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70e5ec9801436537f3415b7d8b9cfccdf15ee989",
+    "trader_name": "ylandros",
+    "tag": "Overall",
+    "overall_gain": 14062.205026423686,
+    "active_positions": 4,
+    "win_amount": 14111.817323996067,
+    "loss_amount": -49.612297572382,
+    "win_rate": 0.875,
+    "total_current_value": 0.000141,
+    "total_positions": 61,
+    "event_ct": 56,
+    "win_count": 49,
+    "rank": 7543,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
