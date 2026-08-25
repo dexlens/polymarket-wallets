@@ -174,5 +174,21 @@
     "win_count": 1,
     "rank": 75512,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x50de73cfd8ed993da2a34e92f9ffdfc726cbc098",
+    "trader_name": "Baitfish",
+    "tag": "Overall",
+    "overall_gain": 706.5913172878338,
+    "active_positions": 1,
+    "win_amount": 1279.4772464737998,
+    "loss_amount": -572.885929185966,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.002582,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 75513,
+    "trader_tags": "> 1 year old"
   }
 ]
