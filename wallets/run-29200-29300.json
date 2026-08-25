@@ -590,5 +590,21 @@
     "win_count": 4,
     "rank": 29238,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x72aba86b25242d0f641deb0083ddf0e95bff1a3e",
+    "trader_name": "333tdd",
+    "tag": "Overall",
+    "overall_gain": 2916.749501629586,
+    "active_positions": 120,
+    "win_amount": 10043.021931243076,
+    "loss_amount": -7126.27242961349,
+    "win_rate": 0.632824427480916,
+    "total_current_value": 1122.3651464334998,
+    "total_positions": 2972,
+    "event_ct": 1310,
+    "win_count": 829,
+    "rank": 29239,
+    "trader_tags": "1k+ Positions"
   }
 ]
