@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 58341,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2874c148ab9682de4871acc35e92ff0e6b27c2e7",
+    "trader_name": "Algordi",
+    "tag": "Overall",
+    "overall_gain": 1130.946322413752,
+    "active_positions": 2,
+    "win_amount": 3738.049606642894,
+    "loss_amount": -2607.1032842291415,
+    "win_rate": 0.5,
+    "total_current_value": 271.56321299999996,
+    "total_positions": 42,
+    "event_ct": 26,
+    "win_count": 13,
+    "rank": 58342,
+    "trader_tags": "> 1 year old"
   }
 ]
