@@ -1502,5 +1502,21 @@
     "win_count": 2,
     "rank": 49395,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8cab81361443dfa70c168dfbfca0f728e7a1417a",
+    "trader_name": "findcs",
+    "tag": "Overall",
+    "overall_gain": 1509.334251770625,
+    "active_positions": 22,
+    "win_amount": 2177.519323648837,
+    "loss_amount": -668.185071878211,
+    "win_rate": 0.6885245901639344,
+    "total_current_value": 2028.1761950520004,
+    "total_positions": 79,
+    "event_ct": 61,
+    "win_count": 42,
+    "rank": 49396,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
