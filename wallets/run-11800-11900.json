@@ -1166,5 +1166,21 @@
     "win_count": 9,
     "rank": 11873,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80ef161fe98b7fb43296654da062c6c212257b81",
+    "trader_name": "thrackle",
+    "tag": "Overall",
+    "overall_gain": 8718.141699999998,
+    "active_positions": 0,
+    "win_amount": 9691.246893,
+    "loss_amount": -973.105193,
+    "win_rate": 0.88,
+    "total_current_value": 0.0048,
+    "total_positions": 44,
+    "event_ct": 25,
+    "win_count": 22,
+    "rank": 11874,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
