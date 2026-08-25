@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 47241,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x810118fddc4ede471dba00eb9f0ca011cd4ceb5a",
+    "trader_name": "enuff",
+    "tag": "Overall",
+    "overall_gain": 1605,
+    "active_positions": 2,
+    "win_amount": 1805,
+    "loss_amount": -200,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 47242,
+    "trader_tags": ""
   }
 ]
