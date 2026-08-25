@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 14742,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70521a69f0c7fd440f5128b4fb59821671f4d7b0",
+    "trader_name": "ncce",
+    "tag": "Overall",
+    "overall_gain": 6653.89121,
+    "active_positions": 0,
+    "win_amount": 6753.403,
+    "loss_amount": -99.51179,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 13,
+    "win_count": 8,
+    "rank": 14743,
+    "trader_tags": "> 1 year old"
   }
 ]
