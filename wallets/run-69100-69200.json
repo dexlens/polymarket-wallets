@@ -1342,5 +1342,21 @@
     "win_count": 31,
     "rank": 69185,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6a849c2cb20cff6d721346d409105e89b2a1a46b",
+    "trader_name": "Opal6000",
+    "tag": "Overall",
+    "overall_gain": 829.2917001169901,
+    "active_positions": 50,
+    "win_amount": 1629.60736135375,
+    "loss_amount": -800.3156612367599,
+    "win_rate": 0.6875,
+    "total_current_value": 0.059371999999999994,
+    "total_positions": 147,
+    "event_ct": 32,
+    "win_count": 22,
+    "rank": 69186,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
