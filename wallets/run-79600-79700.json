@@ -1310,5 +1310,21 @@
     "win_count": 8,
     "rank": 79683,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3585dcebee41a3adff495ce5d550e94d64a784fd",
+    "trader_name": "Lekim420",
+    "tag": "Overall",
+    "overall_gain": 635.61030301994,
+    "active_positions": 72,
+    "win_amount": 2297.0707955059333,
+    "loss_amount": -1661.4604924859932,
+    "win_rate": 0.5608108108108109,
+    "total_current_value": 20.684466362,
+    "total_positions": 154,
+    "event_ct": 148,
+    "win_count": 83,
+    "rank": 79684,
+    "trader_tags": "< 30 days old"
   }
 ]
