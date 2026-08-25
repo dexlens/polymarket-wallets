@@ -1406,5 +1406,21 @@
     "win_count": 7,
     "rank": 63189,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3e9b85f76bb3b5cbbbdc2fcc8e444027c1dc8106",
+    "trader_name": "LinkBets",
+    "tag": "Overall",
+    "overall_gain": 996.1006814053653,
+    "active_positions": 4,
+    "win_amount": 1524.7894970634202,
+    "loss_amount": -528.688815658055,
+    "win_rate": 0.6896551724137931,
+    "total_current_value": 6.164712000000001,
+    "total_positions": 33,
+    "event_ct": 29,
+    "win_count": 20,
+    "rank": 63190,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
