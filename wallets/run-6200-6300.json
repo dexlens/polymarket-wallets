@@ -718,5 +718,21 @@
     "win_count": 572,
     "rank": 6245,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x902808842d5aeb2d1b9ee3a6903ebd26f3e0dc3b",
+    "trader_name": "JustinBloor",
+    "tag": "Overall",
+    "overall_gain": 17158,
+    "active_positions": 1,
+    "win_amount": 25416,
+    "loss_amount": -8258,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 6246,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
