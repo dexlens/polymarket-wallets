@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 52598,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80d5dfaa06b73225db47dbba8381452b4d90124b",
+    "trader_name": "emaVAZ",
+    "tag": "Overall",
+    "overall_gain": 1364.8051700800002,
+    "active_positions": 4,
+    "win_amount": 4120.469168080001,
+    "loss_amount": -2755.6639979999995,
+    "win_rate": 0.4482758620689655,
+    "total_current_value": 13.350088,
+    "total_positions": 32,
+    "event_ct": 29,
+    "win_count": 13,
+    "rank": 52599,
+    "trader_tags": "> 1 year old"
   }
 ]
