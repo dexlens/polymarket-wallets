@@ -1310,5 +1310,21 @@
     "win_count": 146,
     "rank": 1682,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9e0357ca6b8b232165ce5981c500212befc66f34",
+    "trader_name": "HomelessBum",
+    "tag": "Overall",
+    "overall_gain": 73103.65691876001,
+    "active_positions": 0,
+    "win_amount": 78659.27331876001,
+    "loss_amount": -5555.6164,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.009973,
+    "total_positions": 13,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 1683,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
