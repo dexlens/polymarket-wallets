@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 73050,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x556f1fbf7cbbfaa73fdf2fbe8d8b0531dedd1658",
+    "trader_name": "polarb",
+    "tag": "Overall",
+    "overall_gain": 743.862707764892,
+    "active_positions": 0,
+    "win_amount": 743.862707764892,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004892,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 73051,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
