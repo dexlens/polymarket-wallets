@@ -1038,5 +1038,21 @@
     "win_count": 207,
     "rank": 2365,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb53265f82ce244d4517747500c2991c5abeb84a4",
+    "trader_name": "LFG2025",
+    "tag": "Overall",
+    "overall_gain": 49963.08553187505,
+    "active_positions": 31,
+    "win_amount": 81063.71202630502,
+    "loss_amount": -31100.62649442998,
+    "win_rate": 0.3939393939393939,
+    "total_current_value": 3588.02506936,
+    "total_positions": 44,
+    "event_ct": 33,
+    "win_count": 13,
+    "rank": 2366,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
