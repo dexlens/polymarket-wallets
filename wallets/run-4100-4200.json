@@ -1278,5 +1278,21 @@
     "win_count": 16,
     "rank": 4180,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5a74a0516915bb6432207c86ea6e3974b0d1b2a9",
+    "trader_name": "dwightidcpoh",
+    "tag": "Overall",
+    "overall_gain": 26681,
+    "active_positions": 0,
+    "win_amount": 26681,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 4181,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
