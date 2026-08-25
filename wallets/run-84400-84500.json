@@ -270,5 +270,21 @@
     "win_count": 3,
     "rank": 84418,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5cfd3298ba7ac795fa914084a5514cc952cfa50e",
+    "trader_name": "jiujiunine",
+    "tag": "Overall",
+    "overall_gain": 560.281326056696,
+    "active_positions": 0,
+    "win_amount": 760.929043257021,
+    "loss_amount": -200.647717200325,
+    "win_rate": 0.5,
+    "total_current_value": 0.026737,
+    "total_positions": 19,
+    "event_ct": 16,
+    "win_count": 8,
+    "rank": 84419,
+    "trader_tags": "> 1 year old"
   }
 ]
