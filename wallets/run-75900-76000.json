@@ -942,5 +942,21 @@
     "win_count": 9,
     "rank": 75960,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb9a1c9904a09901833fa37b495f5ee8d765d46fa",
+    "trader_name": "GeneralH",
+    "tag": "Overall",
+    "overall_gain": 699.673468972438,
+    "active_positions": 403,
+    "win_amount": 2859.8865109999992,
+    "loss_amount": -2160.213042027562,
+    "win_rate": 0.9380896226415094,
+    "total_current_value": 0,
+    "total_positions": 6862,
+    "event_ct": 6784,
+    "win_count": 6364,
+    "rank": 75961,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
