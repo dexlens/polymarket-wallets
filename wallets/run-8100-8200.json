@@ -1246,5 +1246,21 @@
     "win_count": 10,
     "rank": 8178,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd1dee063c0590d204ec973c323f266c36d475834",
+    "trader_name": "ImKitaNow",
+    "tag": "Overall",
+    "overall_gain": 12874.742891119691,
+    "active_positions": 10,
+    "win_amount": 27705.606142598517,
+    "loss_amount": -14830.863251478828,
+    "win_rate": 0.5882352941176471,
+    "total_current_value": 0.11239800000000001,
+    "total_positions": 74,
+    "event_ct": 51,
+    "win_count": 30,
+    "rank": 8179,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
