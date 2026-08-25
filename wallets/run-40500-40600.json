@@ -990,5 +990,21 @@
     "win_count": 790,
     "rank": 40563,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2af01e4fc932ee75292ead6245778f54bc1791e1",
+    "trader_name": "ocean2025",
+    "tag": "Overall",
+    "overall_gain": 1961.9565860980965,
+    "active_positions": 2,
+    "win_amount": 3523.6649690142453,
+    "loss_amount": -1561.708382916149,
+    "win_rate": 0.4,
+    "total_current_value": 0.026826435,
+    "total_positions": 9,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 40564,
+    "trader_tags": ""
   }
 ]
