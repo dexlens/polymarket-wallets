@@ -190,5 +190,21 @@
     "win_count": 16,
     "rank": 20912,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfe9658e910d956a3feaa32572e7a67a1930bc6e6",
+    "trader_name": "SayHello24",
+    "tag": "Overall",
+    "overall_gain": 4386.874973377125,
+    "active_positions": 4,
+    "win_amount": 7988.019952877125,
+    "loss_amount": -3601.1449795000003,
+    "win_rate": 0.9675324675324676,
+    "total_current_value": 453.3,
+    "total_positions": 197,
+    "event_ct": 154,
+    "win_count": 149,
+    "rank": 20913,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
