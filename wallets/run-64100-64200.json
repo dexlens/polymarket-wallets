@@ -1566,5 +1566,21 @@
     "win_count": 3,
     "rank": 64199,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5470469e38c2fc81a850fce290a92ab0f7157c41",
+    "trader_name": "nag1bot0r228",
+    "tag": "Overall",
+    "overall_gain": 968.4504400000001,
+    "active_positions": 1,
+    "win_amount": 4116.18044,
+    "loss_amount": -3147.73,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 22.0002,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 6,
+    "rank": 64200,
+    "trader_tags": ""
   }
 ]
