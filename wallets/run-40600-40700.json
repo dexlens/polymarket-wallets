@@ -910,5 +910,21 @@
     "win_count": 11,
     "rank": 40658,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x46d71effd6db51ffebe5243efb9b4afdb8729802",
+    "trader_name": "xhello123",
+    "tag": "Overall",
+    "overall_gain": 1956.4495844039504,
+    "active_positions": 200,
+    "win_amount": 44076.37111500001,
+    "loss_amount": -42119.921530596046,
+    "win_rate": 0.9258351210542446,
+    "total_current_value": 0,
+    "total_positions": 3305,
+    "event_ct": 3263,
+    "win_count": 3021,
+    "rank": 40659,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
