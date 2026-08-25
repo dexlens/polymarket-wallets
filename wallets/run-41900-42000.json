@@ -766,5 +766,21 @@
     "win_count": 16,
     "rank": 41949,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9f66375f4aa7537585c359289033ae9482acd223",
+    "trader_name": "neimu",
+    "tag": "Overall",
+    "overall_gain": 1880.1239277455052,
+    "active_positions": 2,
+    "win_amount": 2136.798713321269,
+    "loss_amount": -256.674785575764,
+    "win_rate": 0.75,
+    "total_current_value": 760.015998,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 41950,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
