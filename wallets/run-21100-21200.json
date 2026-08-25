@@ -1054,5 +1054,21 @@
     "win_count": 5,
     "rank": 21166,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48e312acc881309fd4a8e6174368709f9599c148",
+    "trader_name": "fuli",
+    "tag": "Overall",
+    "overall_gain": 4319.255406055944,
+    "active_positions": 588,
+    "win_amount": 44265.24872352105,
+    "loss_amount": -39945.993317465094,
+    "win_rate": 0.33978234582829503,
+    "total_current_value": 848.4329115365,
+    "total_positions": 891,
+    "event_ct": 827,
+    "win_count": 281,
+    "rank": 21167,
+    "trader_tags": ""
   }
 ]
