@@ -670,5 +670,21 @@
     "win_count": 16,
     "rank": 1742,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x24d8f4cade61075b15c1ec9c66cb99bff003e8a8",
+    "trader_name": "ojislejc",
+    "tag": "Overall",
+    "overall_gain": 70667.28525812669,
+    "active_positions": 32,
+    "win_amount": 189825.25961640215,
+    "loss_amount": -119157.97435827546,
+    "win_rate": 0.6149584487534626,
+    "total_current_value": 0.14693100000000003,
+    "total_positions": 1056,
+    "event_ct": 361,
+    "win_count": 222,
+    "rank": 1743,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
