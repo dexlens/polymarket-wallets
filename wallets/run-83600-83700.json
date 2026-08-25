@@ -462,5 +462,21 @@
     "win_count": 7,
     "rank": 83630,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24ce2b7ccb25b93f391d9e90e60d3125f8067b7c",
+    "trader_name": "SETTWARE",
+    "tag": "Overall",
+    "overall_gain": 571.9689373548351,
+    "active_positions": 13,
+    "win_amount": 3928.6740809999997,
+    "loss_amount": -3356.705143645165,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.006665,
+    "total_positions": 42,
+    "event_ct": 39,
+    "win_count": 26,
+    "rank": 83631,
+    "trader_tags": "> 1 year old"
   }
 ]
