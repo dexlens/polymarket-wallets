@@ -382,5 +382,21 @@
     "win_count": 590,
     "rank": 824,
     "trader_tags": "Overall PnL > $100k; 1k+ Positions; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x6bd4f813091dc404809bdcd065cc81103bdc8aca",
+    "trader_name": "GetEvenOrGetEvenWorse",
+    "tag": "Overall",
+    "overall_gain": 151631.36864944955,
+    "active_positions": 8,
+    "win_amount": 391905.7842646876,
+    "loss_amount": -240274.415615238,
+    "win_rate": 0.5476190476190477,
+    "total_current_value": 0.18144899999999997,
+    "total_positions": 172,
+    "event_ct": 84,
+    "win_count": 46,
+    "rank": 825,
+    "trader_tags": "Overall PnL > $100k; > 1 year old"
   }
 ]
