@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 20667,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x899020601c4449d0fb8b447dd496f70f871bbc80",
+    "trader_name": "borderless",
+    "tag": "Overall",
+    "overall_gain": 4452.377434,
+    "active_positions": 0,
+    "win_amount": 4452.377434,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 20668,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
