@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 21235,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd90db7ace84ee694090c4869fd18195319f27c84",
+    "trader_name": "SilentAlarm",
+    "tag": "Overall",
+    "overall_gain": 4299.3460000000005,
+    "active_positions": 4,
+    "win_amount": 13291.85,
+    "loss_amount": -8992.504,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 21236,
+    "trader_tags": ""
   }
 ]
