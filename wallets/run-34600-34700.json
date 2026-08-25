@@ -622,5 +622,21 @@
     "win_count": 4,
     "rank": 34640,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x02e83362826f5cb22fde3044ddbdf261f4d08e7a",
+    "trader_name": "Goldephoenix",
+    "tag": "Overall",
+    "overall_gain": 2369.5,
+    "active_positions": 1,
+    "win_amount": 3024,
+    "loss_amount": -654.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 34641,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
