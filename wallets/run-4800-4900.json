@@ -1086,5 +1086,21 @@
     "win_count": 4,
     "rank": 4868,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1e68b87a5c51bcacf9d9eccde39d19262b753215",
+    "trader_name": "Purebet",
+    "tag": "Overall",
+    "overall_gain": 22341.908577065202,
+    "active_positions": 19,
+    "win_amount": 70476.82695746531,
+    "loss_amount": -48134.9183804001,
+    "win_rate": 0.5056179775280899,
+    "total_current_value": 0.020591999999999996,
+    "total_positions": 392,
+    "event_ct": 356,
+    "win_count": 180,
+    "rank": 4869,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
