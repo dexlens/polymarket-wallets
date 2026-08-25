@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 31843,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeb967127147bd9d82b90c07daf8cb88f7ace38d6",
+    "trader_name": "Ispolnitel",
+    "tag": "Overall",
+    "overall_gain": 2614.715209973341,
+    "active_positions": 3,
+    "win_amount": 8281.304602,
+    "loss_amount": -5666.589392026659,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 55,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 14,
+    "rank": 31844,
+    "trader_tags": ""
   }
 ]
