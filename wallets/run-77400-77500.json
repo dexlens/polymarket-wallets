@@ -990,5 +990,21 @@
     "win_count": 3,
     "rank": 77463,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93b79914dc7bd92f7ab9f4f3ec81d7e142b9ac2c",
+    "trader_name": "alexxtrades",
+    "tag": "Overall",
+    "overall_gain": 673.3142011032729,
+    "active_positions": 3,
+    "win_amount": 686.5743811032731,
+    "loss_amount": -13.260180000000002,
+    "win_rate": 0.9701492537313433,
+    "total_current_value": 1.0281410000000006,
+    "total_positions": 68,
+    "event_ct": 67,
+    "win_count": 65,
+    "rank": 77464,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
