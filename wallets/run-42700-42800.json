@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 42800,
     "trader_tags": "< 30 days old; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x69cfc0a332c9a73933c22e4844f4a0b00e4d6d14",
+    "trader_name": "mableter",
+    "tag": "Overall",
+    "overall_gain": 1830.77,
+    "active_positions": 0,
+    "win_amount": 1830.77,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 42801,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
