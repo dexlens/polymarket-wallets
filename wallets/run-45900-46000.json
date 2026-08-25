@@ -1550,5 +1550,21 @@
     "win_count": 4,
     "rank": 45998,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8713d32354902feebae88ba51217c1a173704007",
+    "trader_name": "Moneyminter.365",
+    "tag": "Overall",
+    "overall_gain": 1666.3493192182918,
+    "active_positions": 9,
+    "win_amount": 9120.746043156663,
+    "loss_amount": -7454.396723938374,
+    "win_rate": 0.78125,
+    "total_current_value": 1644.0980985000003,
+    "total_positions": 64,
+    "event_ct": 64,
+    "win_count": 50,
+    "rank": 45999,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
