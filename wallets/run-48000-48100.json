@@ -622,5 +622,21 @@
     "win_count": 30,
     "rank": 48040,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd087c72cf14d37b345e9a4dd02359d2bef9ab390",
+    "trader_name": "dory",
+    "tag": "Overall",
+    "overall_gain": 1570.871351335145,
+    "active_positions": 4,
+    "win_amount": 3900.696259027545,
+    "loss_amount": -2329.8249076924,
+    "win_rate": 0.5641025641025641,
+    "total_current_value": 0.105899,
+    "total_positions": 71,
+    "event_ct": 39,
+    "win_count": 22,
+    "rank": 48041,
+    "trader_tags": "> 1 year old"
   }
 ]
