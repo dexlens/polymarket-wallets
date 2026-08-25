@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 31548,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1cb8e9bf34616290ca7bf2e644f8b797de83f5e5",
+    "trader_name": "ashtonbauchup",
+    "tag": "Overall",
+    "overall_gain": 2645.6072090000007,
+    "active_positions": 1,
+    "win_amount": 17682.462209,
+    "loss_amount": -15036.855000000001,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 21,
+    "win_count": 14,
+    "rank": 31549,
+    "trader_tags": "> 1 year old"
   }
 ]
