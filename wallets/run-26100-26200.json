@@ -1566,5 +1566,21 @@
     "win_count": 3,
     "rank": 26199,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1286fd2deefa5d5f2abd1479f917fa738ee65559",
+    "trader_name": "ErnestinoeJanet",
+    "tag": "Overall",
+    "overall_gain": 3339.0800000000004,
+    "active_positions": 1,
+    "win_amount": 3339.0800000000004,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 26200,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
