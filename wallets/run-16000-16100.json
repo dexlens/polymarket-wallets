@@ -798,5 +798,21 @@
     "win_count": 6,
     "rank": 16050,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54af6568af97664b8c2a6370d21110469ad1a9ef",
+    "trader_name": "Knark",
+    "tag": "Overall",
+    "overall_gain": 5977.571871334941,
+    "active_positions": 3,
+    "win_amount": 17216.891244930415,
+    "loss_amount": -11239.31937359547,
+    "win_rate": 0.5865724381625441,
+    "total_current_value": 1656.5990694989998,
+    "total_positions": 302,
+    "event_ct": 283,
+    "win_count": 166,
+    "rank": 16051,
+    "trader_tags": ""
   }
 ]
