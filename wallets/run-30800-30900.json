@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 30855,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x725c4f32f7fb92524bc14b1ed4f0fc26011a01a1",
+    "trader_name": "Murdockfarm",
+    "tag": "Overall",
+    "overall_gain": 2717.075836649313,
+    "active_positions": 34,
+    "win_amount": 4131.10653790191,
+    "loss_amount": -1414.030701252596,
+    "win_rate": 0.43243243243243246,
+    "total_current_value": 1039.6576426230001,
+    "total_positions": 49,
+    "event_ct": 37,
+    "win_count": 16,
+    "rank": 30856,
+    "trader_tags": ""
   }
 ]
