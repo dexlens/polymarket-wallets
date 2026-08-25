@@ -1406,5 +1406,21 @@
     "win_count": 5,
     "rank": 14688,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x249d78f68853cdebb56a65d021746b725bed5df1",
+    "trader_name": "Anhfb",
+    "tag": "Overall",
+    "overall_gain": 6683.720285330064,
+    "active_positions": 11,
+    "win_amount": 20836.192122258137,
+    "loss_amount": -14152.471836928076,
+    "win_rate": 0.4383561643835616,
+    "total_current_value": 3866.431795898,
+    "total_positions": 106,
+    "event_ct": 73,
+    "win_count": 32,
+    "rank": 14689,
+    "trader_tags": ""
   }
 ]
