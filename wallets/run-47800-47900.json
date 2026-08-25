@@ -1582,5 +1582,21 @@
     "win_count": 682,
     "rank": 47900,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x937f89c1227eae4d9400afa0ec26ba34edabe168",
+    "trader_name": "polandelection",
+    "tag": "Overall",
+    "overall_gain": 1577.02324432607,
+    "active_positions": 0,
+    "win_amount": 1577.02324432607,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00607,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 47901,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
