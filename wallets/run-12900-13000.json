@@ -1262,5 +1262,21 @@
     "win_count": 2,
     "rank": 12979,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d6c5f585f3463613a73907a2366793f9db62500",
+    "trader_name": "elwyns",
+    "tag": "Overall",
+    "overall_gain": 7763.259746,
+    "active_positions": 1,
+    "win_amount": 7895.106746,
+    "loss_amount": -131.847,
+    "win_rate": 0.631578947368421,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 19,
+    "win_count": 12,
+    "rank": 12980,
+    "trader_tags": "> 1 year old"
   }
 ]
