@@ -1294,5 +1294,21 @@
     "win_count": 20,
     "rank": 79682,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x4781bd1e727fd3800ac44b3ed99c0d83c4d13f79",
+    "trader_name": "controlm",
+    "tag": "Overall",
+    "overall_gain": 635.6383290343281,
+    "active_positions": 2,
+    "win_amount": 974.4877893771879,
+    "loss_amount": -338.84946034285997,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0.024243999999999998,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 79683,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
