@@ -1406,5 +1406,21 @@
     "win_count": 38,
     "rank": 8388,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x578f78e6d312d081f0406150158a0bbe0b6df112",
+    "trader_name": "cryptohedge",
+    "tag": "Overall",
+    "overall_gain": 12491.150185725799,
+    "active_positions": 17,
+    "win_amount": 18463.698124109418,
+    "loss_amount": -5972.547938383617,
+    "win_rate": 0.8048048048048048,
+    "total_current_value": 1347.1843787784999,
+    "total_positions": 988,
+    "event_ct": 333,
+    "win_count": 268,
+    "rank": 8389,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
