@@ -382,5 +382,21 @@
     "win_count": 3,
     "rank": 21224,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x063199030fcb8424618f5b29ccaf847b6718e034",
+    "trader_name": "majesticking",
+    "tag": "Overall",
+    "overall_gain": 4301.924208490867,
+    "active_positions": 2,
+    "win_amount": 6535.084199490867,
+    "loss_amount": -2233.159991,
+    "win_rate": 0.85,
+    "total_current_value": 27.103839,
+    "total_positions": 82,
+    "event_ct": 20,
+    "win_count": 17,
+    "rank": 21225,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
