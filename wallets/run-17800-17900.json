@@ -942,5 +942,21 @@
     "win_count": 10,
     "rank": 17859,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14fa383655c171ad9cc55914c8097315ca4b73f0",
+    "trader_name": "pitoneth",
+    "tag": "Overall",
+    "overall_gain": 5228.116329810284,
+    "active_positions": 90,
+    "win_amount": 40301.50638470797,
+    "loss_amount": -35073.39005489771,
+    "win_rate": 0.5335195530726257,
+    "total_current_value": 0.7310029999999998,
+    "total_positions": 437,
+    "event_ct": 358,
+    "win_count": 191,
+    "rank": 17860,
+    "trader_tags": ""
   }
 ]
