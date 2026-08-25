@@ -942,5 +942,21 @@
     "win_count": 408,
     "rank": 1559,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x87da2f16cf98af9b3e2f6ba6d9c4c470815b53d1",
+    "trader_name": "Comebackbot",
+    "tag": "Overall",
+    "overall_gain": 77681.00934512727,
+    "active_positions": 182,
+    "win_amount": 278856.2979683187,
+    "loss_amount": -201175.28862319142,
+    "win_rate": 0.6130653266331658,
+    "total_current_value": 766.6227599374998,
+    "total_positions": 1004,
+    "event_ct": 597,
+    "win_count": 366,
+    "rank": 1560,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
