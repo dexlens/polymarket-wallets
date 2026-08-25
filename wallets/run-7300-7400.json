@@ -206,5 +206,21 @@
     "win_count": 7,
     "rank": 7313,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x8e92a31e16ac0d5719322f88118429ac9aa726de",
+    "trader_name": "Efrag",
+    "tag": "Overall",
+    "overall_gain": 14577.998388571146,
+    "active_positions": 2,
+    "win_amount": 22379.34918986613,
+    "loss_amount": -7801.35080129499,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 0.024668000000000002,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 11,
+    "rank": 7314,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
