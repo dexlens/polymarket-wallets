@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 80190,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b57164a50353bd29d707b5c39f5d9e722176eff",
+    "trader_name": "qhscurv",
+    "tag": "Overall",
+    "overall_gain": 627.499981348634,
+    "active_positions": 14,
+    "win_amount": 4620.792621474269,
+    "loss_amount": -3993.292640125634,
+    "win_rate": 0.43243243243243246,
+    "total_current_value": 0.056829000000000005,
+    "total_positions": 39,
+    "event_ct": 37,
+    "win_count": 16,
+    "rank": 80191,
+    "trader_tags": "< 30 days old"
   }
 ]
