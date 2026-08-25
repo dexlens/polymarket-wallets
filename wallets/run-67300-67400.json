@@ -46,5 +46,21 @@
     "win_count": 8,
     "rank": 67304,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3db5b5b3c8f560be9a502cad17d0549ca59b7094",
+    "trader_name": "lsix",
+    "tag": "Overall",
+    "overall_gain": 880.6319772354129,
+    "active_positions": 5,
+    "win_amount": 5033.294921000001,
+    "loss_amount": -4152.662943764586,
+    "win_rate": 0.2894736842105263,
+    "total_current_value": 0.046372525000000005,
+    "total_positions": 40,
+    "event_ct": 38,
+    "win_count": 11,
+    "rank": 67305,
+    "trader_tags": "> 1 year old"
   }
 ]
