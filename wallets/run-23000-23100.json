@@ -942,5 +942,21 @@
     "win_count": 3,
     "rank": 23059,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1161127edad4e701732854cceb27af5223767897",
+    "trader_name": "tomtrs",
+    "tag": "Overall",
+    "overall_gain": 3907.2883984899995,
+    "active_positions": 5,
+    "win_amount": 7897.080191000001,
+    "loss_amount": -3989.79179251,
+    "win_rate": 0.625,
+    "total_current_value": 210,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 23060,
+    "trader_tags": ""
   }
 ]
