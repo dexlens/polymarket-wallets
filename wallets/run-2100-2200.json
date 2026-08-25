@@ -270,5 +270,21 @@
     "win_count": 130,
     "rank": 2117,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2bf309dd001df4f9b1f90c26432d6ff457a38c3d",
+    "trader_name": "BlackSky123",
+    "tag": "Overall",
+    "overall_gain": 56930.33279017992,
+    "active_positions": 145,
+    "win_amount": 144371.3476212792,
+    "loss_amount": -87441.01483109928,
+    "win_rate": 0.8230277185501066,
+    "total_current_value": 400.01887569999997,
+    "total_positions": 1631,
+    "event_ct": 938,
+    "win_count": 772,
+    "rank": 2118,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
