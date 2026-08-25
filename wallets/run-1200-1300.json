@@ -814,5 +814,21 @@
     "win_count": 122,
     "rank": 1251,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x5ad5c4608c4661361b91c92e1091d2c5b43c37b9",
+    "trader_name": "roberto73",
+    "tag": "Overall",
+    "overall_gain": 96656.01757529838,
+    "active_positions": 987,
+    "win_amount": 109561.45475766469,
+    "loss_amount": -12905.437182366257,
+    "win_rate": 0.48851590106007065,
+    "total_current_value": 30734.197449000003,
+    "total_positions": 1769,
+    "event_ct": 1132,
+    "win_count": 553,
+    "rank": 1252,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
