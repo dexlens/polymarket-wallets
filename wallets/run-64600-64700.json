@@ -1310,5 +1310,21 @@
     "win_count": 35,
     "rank": 64683,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x20e5a2edc60c40f52ad61e423c66af3937040821",
+    "trader_name": "Gogomonad",
+    "tag": "Overall",
+    "overall_gain": 954.32777446111,
+    "active_positions": 0,
+    "win_amount": 954.32777446111,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00567,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 64684,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
