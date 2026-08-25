@@ -1150,5 +1150,21 @@
     "win_count": 11,
     "rank": 26173,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x44e0ad439e1d1e6146ddb47b3be32888b6e4b68b",
+    "trader_name": "kgoy6t",
+    "tag": "Overall",
+    "overall_gain": 3342.07627260004,
+    "active_positions": 2,
+    "win_amount": 3492.3864326000403,
+    "loss_amount": -150.31016,
+    "win_rate": 0.92,
+    "total_current_value": 153.63004,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 23,
+    "rank": 26174,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
