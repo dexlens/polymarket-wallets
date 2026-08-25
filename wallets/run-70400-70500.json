@@ -862,5 +862,21 @@
     "win_count": 17,
     "rank": 70455,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97966b7135b329feab8c16198cca52ea7baed24f",
+    "trader_name": "Coldan",
+    "tag": "Overall",
+    "overall_gain": 800.25,
+    "active_positions": 2,
+    "win_amount": 1378,
+    "loss_amount": -577.75,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 70456,
+    "trader_tags": ""
   }
 ]
