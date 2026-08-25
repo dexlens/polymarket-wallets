@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 87400,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb94d8f3ada03c773df10799e971de38bbfe3ff9",
+    "trader_name": "cleopant",
+    "tag": "Overall",
+    "overall_gain": 520.2920559869618,
+    "active_positions": 7,
+    "win_amount": 569.406377804018,
+    "loss_amount": -49.114321817056,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 1.434058,
+    "total_positions": 94,
+    "event_ct": 69,
+    "win_count": 39,
+    "rank": 87401,
+    "trader_tags": "> 1 year old"
   }
 ]
