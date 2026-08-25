@@ -606,5 +606,21 @@
     "win_count": 7,
     "rank": 13438,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x05d48593c06b70a59f213f4fe390ed92dbaa92f5",
+    "trader_name": "skyw",
+    "tag": "Overall",
+    "overall_gain": 7402.726088943427,
+    "active_positions": 17,
+    "win_amount": 8710.220423058194,
+    "loss_amount": -1307.4943341147662,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 1215.2062011199998,
+    "total_positions": 50,
+    "event_ct": 26,
+    "win_count": 20,
+    "rank": 13439,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
