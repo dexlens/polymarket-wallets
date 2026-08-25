@@ -1198,5 +1198,21 @@
     "win_count": 11,
     "rank": 875,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x63f8eb9f5f902f6637f75f10fc185e77b0f660ac",
+    "trader_name": "hmm ok",
+    "tag": "Overall",
+    "overall_gain": 140331.5077272964,
+    "active_positions": 5,
+    "win_amount": 169927.5790026465,
+    "loss_amount": -29596.07127535011,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 1110.8661580000078,
+    "total_positions": 1595,
+    "event_ct": 782,
+    "win_count": 598,
+    "rank": 876,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
