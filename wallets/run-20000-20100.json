@@ -1166,5 +1166,21 @@
     "win_count": 136,
     "rank": 20073,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59e2c246af4aba08b3271cb11d7a856bf1c2f74f",
+    "trader_name": "SHA1024",
+    "tag": "Overall",
+    "overall_gain": 4606.042334684826,
+    "active_positions": 1,
+    "win_amount": 8909.822695,
+    "loss_amount": -4303.780360315174,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 1300,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 20074,
+    "trader_tags": "< 30 days old"
   }
 ]
