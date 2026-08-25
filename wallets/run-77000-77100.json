@@ -830,5 +830,21 @@
     "win_count": 6,
     "rank": 77053,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc06fed6c3e3cfdff1400afe191d977cfd9c8ac41",
+    "trader_name": "Bert22",
+    "tag": "Overall",
+    "overall_gain": 681.1884311991349,
+    "active_positions": 1,
+    "win_amount": 942.2232679570229,
+    "loss_amount": -261.034836757888,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.027702,
+    "total_positions": 21,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 77054,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
