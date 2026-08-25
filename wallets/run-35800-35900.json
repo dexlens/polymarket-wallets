@@ -894,5 +894,21 @@
     "win_count": 3,
     "rank": 35857,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x473b264c863afecd62c404a54f5daf7509a12175",
+    "trader_name": "xrbb",
+    "tag": "Overall",
+    "overall_gain": 2272.2420264740617,
+    "active_positions": 6,
+    "win_amount": 2755.217688474062,
+    "loss_amount": -482.97566199999994,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 73.009147,
+    "total_positions": 34,
+    "event_ct": 33,
+    "win_count": 24,
+    "rank": 35858,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
