@@ -1262,5 +1262,21 @@
     "win_count": 11,
     "rank": 44080,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x81b0148ff301558a653f0f199d6abf9aeb8552a8",
+    "trader_name": "noMoarPoor",
+    "tag": "Overall",
+    "overall_gain": 1761.661814,
+    "active_positions": 2,
+    "win_amount": 2933.898167,
+    "loss_amount": -1172.236353,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 22,
+    "rank": 44081,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
