@@ -1454,5 +1454,21 @@
     "win_count": 27,
     "rank": 6091,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36cc3021735185234c149002718fcc0fb14048dc",
+    "trader_name": "Sterling02",
+    "tag": "Overall",
+    "overall_gain": 17612.749151497712,
+    "active_positions": 16,
+    "win_amount": 19241.613020694873,
+    "loss_amount": -1628.863869197153,
+    "win_rate": 0.5,
+    "total_current_value": 7.161275999999999,
+    "total_positions": 21,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 6092,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
