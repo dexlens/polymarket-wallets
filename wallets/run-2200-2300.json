@@ -1534,5 +1534,21 @@
     "win_count": 4,
     "rank": 2296,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xeede126b67fc64bc36ca5adea94531ebb3708a73",
+    "trader_name": "bizarroworld",
+    "tag": "Overall",
+    "overall_gain": 51763.2939156604,
+    "active_positions": 2,
+    "win_amount": 68461.33245665932,
+    "loss_amount": -16698.03854099891,
+    "win_rate": 0.7603305785123967,
+    "total_current_value": 8806.2769002565,
+    "total_positions": 163,
+    "event_ct": 121,
+    "win_count": 92,
+    "rank": 2297,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
