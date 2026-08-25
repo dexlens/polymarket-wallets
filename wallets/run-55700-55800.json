@@ -638,5 +638,21 @@
     "win_count": 8,
     "rank": 55741,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9cd5a046bd65f2236ff889ace8e86dc26b7d1b21",
+    "trader_name": "BUtthead",
+    "tag": "Overall",
+    "overall_gain": 1228.301777053094,
+    "active_positions": 1,
+    "win_amount": 1762.311777053094,
+    "loss_amount": -534.01,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.004094,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 55742,
+    "trader_tags": "> 1 year old"
   }
 ]
