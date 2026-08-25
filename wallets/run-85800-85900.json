@@ -766,5 +766,21 @@
     "win_count": 4196,
     "rank": 85849,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x36e83b5d2a064d4c546d267e991ec2af1324ea21",
+    "trader_name": "rxbt",
+    "tag": "Overall",
+    "overall_gain": 541.0625432206759,
+    "active_positions": 0,
+    "win_amount": 551.7766883017559,
+    "loss_amount": -10.71414508108,
+    "win_rate": 0.5,
+    "total_current_value": 0.007308,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 85850,
+    "trader_tags": "> 1 year old"
   }
 ]
