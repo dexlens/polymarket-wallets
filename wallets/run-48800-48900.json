@@ -1310,5 +1310,21 @@
     "win_count": 5,
     "rank": 48883,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x03d9743f90fab9f3bee62b8cd7b52ce3c623fe29",
+    "trader_name": "phsinfeads2",
+    "tag": "Overall",
+    "overall_gain": 1533.48,
+    "active_positions": 2,
+    "win_amount": 1671.72,
+    "loss_amount": -138.24,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 48884,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
