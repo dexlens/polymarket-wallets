@@ -862,5 +862,21 @@
     "win_count": 330,
     "rank": 9354,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x61350db364d5b05529e531c20047274201b0efc3",
+    "trader_name": "SUAE",
+    "tag": "Overall",
+    "overall_gain": 11200.591323025112,
+    "active_positions": 1,
+    "win_amount": 11787.992309518331,
+    "loss_amount": -587.40098649322,
+    "win_rate": 0.8787878787878788,
+    "total_current_value": 394.230785,
+    "total_positions": 36,
+    "event_ct": 33,
+    "win_count": 29,
+    "rank": 9355,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
