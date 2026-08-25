@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 46961,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x505e4d60824f27747cedeebe1b89b7b30f7b5634",
+    "trader_name": "Npuerw",
+    "tag": "Overall",
+    "overall_gain": 1619.0132125715143,
+    "active_positions": 3,
+    "win_amount": 2861.315573884132,
+    "loss_amount": -1242.3023613126181,
+    "win_rate": 0.5,
+    "total_current_value": 4.435352999999999,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 15,
+    "rank": 46962,
+    "trader_tags": "> 1 year old"
   }
 ]
