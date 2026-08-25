@@ -590,5 +590,21 @@
     "win_count": 2,
     "rank": 52838,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9fe5ed35d6f1ee3c6398a5a5c76255612c5a0183",
+    "trader_name": "Nobunaga",
+    "tag": "Overall",
+    "overall_gain": 1354.645601452255,
+    "active_positions": 2,
+    "win_amount": 1873.997360873863,
+    "loss_amount": -519.351759421608,
+    "win_rate": 0.25,
+    "total_current_value": 0.002863,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 52839,
+    "trader_tags": "> 1 year old"
   }
 ]
