@@ -1038,5 +1038,21 @@
     "win_count": 49,
     "rank": 8165,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x26a9db0464b0223ec750d64db9c8f3b27dc2f6b7",
+    "trader_name": "CZZZX",
+    "tag": "Overall",
+    "overall_gain": 12888.419836524106,
+    "active_positions": 225,
+    "win_amount": 25116.683834515017,
+    "loss_amount": -12228.263997990894,
+    "win_rate": 0.7416267942583732,
+    "total_current_value": 45526.88083791699,
+    "total_positions": 680,
+    "event_ct": 209,
+    "win_count": 155,
+    "rank": 8166,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
