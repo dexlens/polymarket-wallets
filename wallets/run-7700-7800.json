@@ -1566,5 +1566,21 @@
     "win_count": 27,
     "rank": 7798,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f2a7151d557fb657677c6446503750ccd8358af",
+    "trader_name": "piedsur",
+    "tag": "Overall",
+    "overall_gain": 13527.2833809515,
+    "active_positions": 17,
+    "win_amount": 39534.55175288348,
+    "loss_amount": -26007.26837193196,
+    "win_rate": 0.5609756097560976,
+    "total_current_value": 15.295037221000001,
+    "total_positions": 634,
+    "event_ct": 287,
+    "win_count": 161,
+    "rank": 7799,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
