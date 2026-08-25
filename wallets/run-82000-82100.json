@@ -526,5 +526,21 @@
     "win_count": 13,
     "rank": 82034,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x28304ec62e6d645b4458f86a24b9fe583a7f0584",
+    "trader_name": "500TOD",
+    "tag": "Overall",
+    "overall_gain": 597.80590246756,
+    "active_positions": 0,
+    "win_amount": 605.80590246756,
+    "loss_amount": -8,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 0.00804,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 10,
+    "rank": 82035,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
