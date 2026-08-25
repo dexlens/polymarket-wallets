@@ -606,5 +606,21 @@
     "win_count": 52,
     "rank": 86339,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xee3cbf70ebb0c9cbd8a7918e745581a3d74059d8",
+    "trader_name": "WrightWyatt",
+    "tag": "Overall",
+    "overall_gain": 534.5126910198571,
+    "active_positions": 3,
+    "win_amount": 4949.676032712604,
+    "loss_amount": -4415.163341692748,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 3.704730768,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 86340,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
