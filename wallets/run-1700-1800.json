@@ -1390,5 +1390,21 @@
     "win_count": 18,
     "rank": 1787,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90a50913050e7320799ca2f51aed42f37684c3f1",
+    "trader_name": "AgamemAnon",
+    "tag": "Overall",
+    "overall_gain": 68525.16479521319,
+    "active_positions": 6,
+    "win_amount": 82537.60250243498,
+    "loss_amount": -14012.43770722184,
+    "win_rate": 0.8431372549019608,
+    "total_current_value": 43.98949984299999,
+    "total_positions": 2874,
+    "event_ct": 714,
+    "win_count": 602,
+    "rank": 1788,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
