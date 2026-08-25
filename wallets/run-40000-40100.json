@@ -606,5 +606,21 @@
     "win_count": 2,
     "rank": 40039,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdfca06bd868f6c4c2ded8091e627305e6fadaced",
+    "trader_name": "ssnoalz",
+    "tag": "Overall",
+    "overall_gain": 1992.5913184469011,
+    "active_positions": 5,
+    "win_amount": 3647.6759519945113,
+    "loss_amount": -1655.08463354761,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 0.051456075000000004,
+    "total_positions": 61,
+    "event_ct": 46,
+    "win_count": 32,
+    "rank": 40040,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
