@@ -190,5 +190,21 @@
     "win_count": 402,
     "rank": 3412,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x44a070fd4cb4385ede1fc78ed72b824becc573f7",
+    "trader_name": "OneNightSit",
+    "tag": "Overall",
+    "overall_gain": 33411.514057404296,
+    "active_positions": 13,
+    "win_amount": 38908.522288998385,
+    "loss_amount": -5497.008231594083,
+    "win_rate": 0.8409090909090909,
+    "total_current_value": 54.2906337465,
+    "total_positions": 103,
+    "event_ct": 44,
+    "win_count": 37,
+    "rank": 3413,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
