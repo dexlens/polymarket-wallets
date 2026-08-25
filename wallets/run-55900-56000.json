@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 55975,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8fcd9fb6936f73f64c6b1920342679009b028c5d",
+    "trader_name": "barin",
+    "tag": "Overall",
+    "overall_gain": 1219.6482925320001,
+    "active_positions": 0,
+    "win_amount": 1630.6982925319999,
+    "loss_amount": -411.05000000000007,
+    "win_rate": 0.72,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 25,
+    "win_count": 18,
+    "rank": 55976,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
