@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 88593,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb336f3a9a65a4b396dd2d76d29491a5007415091",
+    "trader_name": "sociedad",
+    "tag": "Overall",
+    "overall_gain": 506.354934063908,
+    "active_positions": 32,
+    "win_amount": 1132.7094099999997,
+    "loss_amount": -626.354475936092,
+    "win_rate": 0.7159090909090909,
+    "total_current_value": 1778.2806249999999,
+    "total_positions": 93,
+    "event_ct": 88,
+    "win_count": 63,
+    "rank": 88594,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
