@@ -494,5 +494,21 @@
     "win_count": 8,
     "rank": 7331,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36d0fe387978b90c7a558306748638ea6215daff",
+    "trader_name": "aloysius",
+    "tag": "Overall",
+    "overall_gain": 14512.453539028467,
+    "active_positions": 24,
+    "win_amount": 14551.703107028468,
+    "loss_amount": -39.249568000000004,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 44.156088,
+    "total_positions": 102,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 7332,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
