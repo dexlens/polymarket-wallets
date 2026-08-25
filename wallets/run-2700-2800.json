@@ -654,5 +654,21 @@
     "win_count": 532,
     "rank": 2741,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d5ebe07e4ef91beef558605383cef07d4347004",
+    "trader_name": "mscleo",
+    "tag": "Overall",
+    "overall_gain": 42363.11158905724,
+    "active_positions": 195,
+    "win_amount": 75592.64268731892,
+    "loss_amount": -33229.531098261694,
+    "win_rate": 0.4845528455284553,
+    "total_current_value": 0.111456,
+    "total_positions": 819,
+    "event_ct": 615,
+    "win_count": 298,
+    "rank": 2742,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
