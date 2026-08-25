@@ -1054,5 +1054,21 @@
     "win_count": 7,
     "rank": 10366,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x135b9e237eb0588b09579929deb58505fa17dcaf",
+    "trader_name": "kalebbeckerw",
+    "tag": "Overall",
+    "overall_gain": 10139.76,
+    "active_positions": 2,
+    "win_amount": 10156.68,
+    "loss_amount": -16.919999999999998,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 11203.31,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 10367,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
