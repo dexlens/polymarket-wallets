@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 81759,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x45b8d981abc5479f0ce3e67fdb61d16306c71e0e",
+    "trader_name": "daxnamyg",
+    "tag": "Overall",
+    "overall_gain": 601.74,
+    "active_positions": 1,
+    "win_amount": 1327.02,
+    "loss_amount": -725.28,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 81760,
+    "trader_tags": "< 30 days old"
   }
 ]
