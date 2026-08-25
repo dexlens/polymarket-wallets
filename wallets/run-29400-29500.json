@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 29432,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64b3d990e7df74bb28ad7cdf7b255dbf82d54364",
+    "trader_name": "tifakers",
+    "tag": "Overall",
+    "overall_gain": 2890.976353083688,
+    "active_positions": 1,
+    "win_amount": 3000.286682,
+    "loss_amount": -109.31032891631185,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 73157.25441540651,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 12,
+    "rank": 29433,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
