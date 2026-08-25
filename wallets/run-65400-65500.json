@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 65440,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0c7ca96ff62b28b4196a159f475084e9e563e254",
+    "trader_name": "lmihai",
+    "tag": "Overall",
+    "overall_gain": 931.983930042944,
+    "active_positions": 1,
+    "win_amount": 940.677236,
+    "loss_amount": -8.693305957056,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 65441,
+    "trader_tags": ""
   }
 ]
