@@ -62,5 +62,21 @@
     "win_count": 23,
     "rank": 50805,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3cb1a3631e49257e311d40051066ab074c765e96",
+    "trader_name": "okada",
+    "tag": "Overall",
+    "overall_gain": 1448.8463764134854,
+    "active_positions": 6,
+    "win_amount": 3408.809906676927,
+    "loss_amount": -1959.963530263442,
+    "win_rate": 0.6896551724137931,
+    "total_current_value": 4689.429726218,
+    "total_positions": 34,
+    "event_ct": 29,
+    "win_count": 20,
+    "rank": 50806,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
