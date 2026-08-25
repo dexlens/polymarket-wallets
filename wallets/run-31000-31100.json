@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 31036,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e6c7f5b35781cb8a9ccac4b8325197b0a15cfa0",
+    "trader_name": "muzz",
+    "tag": "Overall",
+    "overall_gain": 2697.1706621924245,
+    "active_positions": 1,
+    "win_amount": 3270.5380970665046,
+    "loss_amount": -573.36743487408,
+    "win_rate": 0.6571428571428571,
+    "total_current_value": 79.73715000000001,
+    "total_positions": 37,
+    "event_ct": 35,
+    "win_count": 23,
+    "rank": 31037,
+    "trader_tags": "> 1 year old"
   }
 ]
