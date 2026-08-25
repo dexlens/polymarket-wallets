@@ -1374,5 +1374,21 @@
     "win_count": 24,
     "rank": 7086,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d90eea0ac4a5cff20b5a4ad1d472cf9bcea6cdf",
+    "trader_name": "xianji",
+    "tag": "Overall",
+    "overall_gain": 15070.267057,
+    "active_positions": 0,
+    "win_amount": 15070.267057,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7087,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
