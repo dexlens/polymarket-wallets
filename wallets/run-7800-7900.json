@@ -686,5 +686,21 @@
     "win_count": 25,
     "rank": 7843,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a86353a4c7d93f7a68fb802656a253824602220",
+    "trader_name": "bourn22",
+    "tag": "Overall",
+    "overall_gain": 13435.443012420095,
+    "active_positions": 292,
+    "win_amount": 26901.60618135658,
+    "loss_amount": -13466.16316893649,
+    "win_rate": 0.4470588235294118,
+    "total_current_value": 4198.0029950075,
+    "total_positions": 558,
+    "event_ct": 85,
+    "win_count": 38,
+    "rank": 7844,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
