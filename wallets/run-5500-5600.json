@@ -1374,5 +1374,21 @@
     "win_count": 75,
     "rank": 5586,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d6d0a9bc54077dc674b2ba2af01ff41f0490a6c",
+    "trader_name": "AmsterdamTrader",
+    "tag": "Overall",
+    "overall_gain": 19310.511691388332,
+    "active_positions": 59,
+    "win_amount": 21202.39776186951,
+    "loss_amount": -1891.8860704811748,
+    "win_rate": 0.5813953488372093,
+    "total_current_value": 1689.462813116,
+    "total_positions": 134,
+    "event_ct": 43,
+    "win_count": 25,
+    "rank": 5587,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
