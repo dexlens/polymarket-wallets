@@ -798,5 +798,21 @@
     "win_count": 195,
     "rank": 61251,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x23077adea999efed9ad806b9af9a55eeb85dd0ba",
+    "trader_name": "llyy1",
+    "tag": "Overall",
+    "overall_gain": 1041.193197,
+    "active_positions": 6,
+    "win_amount": 3574.193197,
+    "loss_amount": -2533,
+    "win_rate": 0.7391304347826086,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 17,
+    "rank": 61252,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
