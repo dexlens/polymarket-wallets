@@ -846,5 +846,21 @@
     "win_count": 9,
     "rank": 9053,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xdd4912de64fdf265faf065ae0be43d23003fca83",
+    "trader_name": "ParaNormal",
+    "tag": "Overall",
+    "overall_gain": 11576.184098633286,
+    "active_positions": 13,
+    "win_amount": 11847.008420940248,
+    "loss_amount": -270.824322306961,
+    "win_rate": 0.9646017699115044,
+    "total_current_value": 30502.687883190505,
+    "total_positions": 177,
+    "event_ct": 113,
+    "win_count": 109,
+    "rank": 9054,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
