@@ -750,5 +750,21 @@
     "win_count": 10,
     "rank": 8547,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a543d80b99215b9d35a61650cd652b2e59d43fc",
+    "trader_name": "woofdog",
+    "tag": "Overall",
+    "overall_gain": 12250.79376769371,
+    "active_positions": 0,
+    "win_amount": 15494.15218004457,
+    "loss_amount": -3243.358412350858,
+    "win_rate": 0.7,
+    "total_current_value": 0.009274,
+    "total_positions": 13,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 8548,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
