@@ -94,5 +94,21 @@
     "win_count": 9,
     "rank": 55607,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xc00fe74158802e38688cba5498f9b78c68ea0f52",
+    "trader_name": "NGAM",
+    "tag": "Overall",
+    "overall_gain": 1233.807682690409,
+    "active_positions": 0,
+    "win_amount": 2142.9360751307127,
+    "loss_amount": -909.128392440304,
+    "win_rate": 0.6785714285714286,
+    "total_current_value": 0.0112844,
+    "total_positions": 41,
+    "event_ct": 28,
+    "win_count": 19,
+    "rank": 55608,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
