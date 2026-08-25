@@ -238,5 +238,21 @@
     "win_count": 1,
     "rank": 17715,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x072715365c7e09e6ade0283a9938e24e99409e53",
+    "trader_name": "BasicQuantGuy",
+    "tag": "Overall",
+    "overall_gain": 5280.186697722665,
+    "active_positions": 167,
+    "win_amount": 50228.586875759196,
+    "loss_amount": -44948.400178036514,
+    "win_rate": 0.750406063887385,
+    "total_current_value": 221.67812799999996,
+    "total_positions": 10858,
+    "event_ct": 7388,
+    "win_count": 5544,
+    "rank": 17716,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
