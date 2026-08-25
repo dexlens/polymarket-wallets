@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 78895,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x057ae0a6a2978a5a85d0225ccaa72f73c23fe42d",
+    "trader_name": "meiyouaiqing",
+    "tag": "Overall",
+    "overall_gain": 649.5036739196661,
+    "active_positions": 4,
+    "win_amount": 649.523377592621,
+    "loss_amount": -0.019703672954998197,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 40.4352713025,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 78896,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
