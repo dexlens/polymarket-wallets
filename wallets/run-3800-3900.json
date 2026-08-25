@@ -382,5 +382,21 @@
     "win_count": 28,
     "rank": 3824,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x68fe494c5ca794f3f247f4ec2a8bf95e3ef28792",
+    "trader_name": "yameteV9",
+    "tag": "Overall",
+    "overall_gain": 29754.53436621817,
+    "active_positions": 8,
+    "win_amount": 89558.0864834931,
+    "loss_amount": -59803.55211727492,
+    "win_rate": 0.4339622641509434,
+    "total_current_value": 110455.83244714099,
+    "total_positions": 169,
+    "event_ct": 106,
+    "win_count": 46,
+    "rank": 3825,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
