@@ -510,5 +510,21 @@
     "win_count": 3,
     "rank": 15432,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x742a39a93b76365fe1b67d525b25fc0e3c6fa38f",
+    "trader_name": "Ophalia",
+    "tag": "Overall",
+    "overall_gain": 6273.157043731213,
+    "active_positions": 5,
+    "win_amount": 10273.149199113961,
+    "loss_amount": -3999.992155382748,
+    "win_rate": 0.9,
+    "total_current_value": 15.142485907999998,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 15433,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
