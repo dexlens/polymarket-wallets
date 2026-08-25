@@ -526,5 +526,21 @@
     "win_count": 3,
     "rank": 15633,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x952b6c168765ce7a895ef1bfb2c47e9b4089edfa",
+    "trader_name": "Anathis",
+    "tag": "Overall",
+    "overall_gain": 6165.1572211874145,
+    "active_positions": 11,
+    "win_amount": 14172.514101687955,
+    "loss_amount": -8007.3568805005425,
+    "win_rate": 0.5740740740740741,
+    "total_current_value": 12506.978917977996,
+    "total_positions": 175,
+    "event_ct": 54,
+    "win_count": 31,
+    "rank": 15634,
+    "trader_tags": ""
   }
 ]
