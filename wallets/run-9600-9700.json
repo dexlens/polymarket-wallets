@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 9660,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x763b5c3088dd348363ec7860723f894d9383f5ce",
+    "trader_name": "TCB.",
+    "tag": "Overall",
+    "overall_gain": 10833.185276220294,
+    "active_positions": 3,
+    "win_amount": 19286.981234968887,
+    "loss_amount": -8453.795958748588,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.008884,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 9661,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
