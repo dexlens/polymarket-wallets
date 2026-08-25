@@ -510,5 +510,21 @@
     "win_count": 9,
     "rank": 67233,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6718edeb32676842cd608e4b9a254b512854e623",
+    "trader_name": "vtx",
+    "tag": "Overall",
+    "overall_gain": 882.64527590995,
+    "active_positions": 4,
+    "win_amount": 2281.0145036945505,
+    "loss_amount": -1398.3692277846,
+    "win_rate": 0.8392857142857143,
+    "total_current_value": 1208.5439673775,
+    "total_positions": 81,
+    "event_ct": 56,
+    "win_count": 47,
+    "rank": 67234,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
