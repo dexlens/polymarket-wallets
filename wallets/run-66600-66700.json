@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 66621,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9eca100ab646615fd0ba3d7ed1d13f5e0c15e653",
+    "trader_name": "tdsa",
+    "tag": "Overall",
+    "overall_gain": 899.6355920000001,
+    "active_positions": 0,
+    "win_amount": 1049.5953009999998,
+    "loss_amount": -149.959709,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 66622,
+    "trader_tags": "> 1 year old"
   }
 ]
