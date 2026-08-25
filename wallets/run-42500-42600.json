@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 42583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8446a652bad8ebbbe70b49efb8cf274556051a47",
+    "trader_name": "Greed004",
+    "tag": "Overall",
+    "overall_gain": 1843.9375766599992,
+    "active_positions": 53,
+    "win_amount": 96960.88583466,
+    "loss_amount": -95116.94825800002,
+    "win_rate": 0.5528756957328386,
+    "total_current_value": 1068.21983,
+    "total_positions": 600,
+    "event_ct": 539,
+    "win_count": 298,
+    "rank": 42584,
+    "trader_tags": ""
   }
 ]
