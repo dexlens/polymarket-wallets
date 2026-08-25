@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 5250,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa3a417e434923aeaf97afe9a61b10ff9364e5106",
+    "trader_name": "Bakelite",
+    "tag": "Overall",
+    "overall_gain": 20653.329825214245,
+    "active_positions": 585,
+    "win_amount": 20836.891746388133,
+    "loss_amount": -183.56192117388775,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 3160.497976347,
+    "total_positions": 742,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 5251,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
