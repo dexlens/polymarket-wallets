@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 14230,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x699896b06cd0c2205de8f8e13112aadcfc29ae95",
+    "trader_name": "G-onu",
+    "tag": "Overall",
+    "overall_gain": 6924.513155421059,
+    "active_positions": 1,
+    "win_amount": 8260.693132651459,
+    "loss_amount": -1336.1799772303991,
+    "win_rate": 0.711340206185567,
+    "total_current_value": 0.43370405000000006,
+    "total_positions": 499,
+    "event_ct": 194,
+    "win_count": 138,
+    "rank": 14231,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
