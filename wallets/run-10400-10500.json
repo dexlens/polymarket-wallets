@@ -1518,5 +1518,21 @@
     "win_count": 7,
     "rank": 10495,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcce092a201a02d5373488aef2c74dd2fe316b0ef",
+    "trader_name": "XIAOLA",
+    "tag": "Overall",
+    "overall_gain": 10026.87386340149,
+    "active_positions": 1,
+    "win_amount": 10028.87386340149,
+    "loss_amount": -2,
+    "win_rate": 0.5,
+    "total_current_value": 59.70149,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 10496,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
