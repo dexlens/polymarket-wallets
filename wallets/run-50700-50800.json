@@ -1310,5 +1310,21 @@
     "win_count": 5,
     "rank": 50783,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc29babf4508dada89290daeb2c4ae80576fc2873",
+    "trader_name": "HelloKitty",
+    "tag": "Overall",
+    "overall_gain": 1449.8696729848828,
+    "active_positions": 0,
+    "win_amount": 1489.8695709848828,
+    "loss_amount": -39.999898,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.004883,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 50784,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
