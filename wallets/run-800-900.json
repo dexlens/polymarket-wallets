@@ -590,5 +590,21 @@
     "win_count": 2,
     "rank": 837,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x8e8cf968a888c72a45627be3660d1c815d4c6657",
+    "trader_name": "donjo",
+    "tag": "Overall",
+    "overall_gain": 147318.37646313116,
+    "active_positions": 87,
+    "win_amount": 249927.0764368512,
+    "loss_amount": -102608.6999737201,
+    "win_rate": 0.6737668161434978,
+    "total_current_value": 52962.44824113048,
+    "total_positions": 1417,
+    "event_ct": 892,
+    "win_count": 601,
+    "rank": 838,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
