@@ -734,5 +734,21 @@
     "win_count": 4,
     "rank": 7546,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdf501b23d35d137fb59651cbe1fee89104dd4c59",
+    "trader_name": "Est.1111",
+    "tag": "Overall",
+    "overall_gain": 14055.584808,
+    "active_positions": 0,
+    "win_amount": 14055.584808,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7547,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
