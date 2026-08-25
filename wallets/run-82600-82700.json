@@ -942,5 +942,21 @@
     "win_count": 65,
     "rank": 82660,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x528773249040f529bd5052ef762277333a7624a4",
+    "trader_name": "mihai02t",
+    "tag": "Overall",
+    "overall_gain": 587.840778659695,
+    "active_positions": 0,
+    "win_amount": 587.840778659695,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009695,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 82661,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
