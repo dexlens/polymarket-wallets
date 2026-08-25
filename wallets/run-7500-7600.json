@@ -958,5 +958,21 @@
     "win_count": 38,
     "rank": 7560,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfa19df8edbd8d9eff6fb4b23a8fd760de130fb67",
+    "trader_name": "superbock",
+    "tag": "Overall",
+    "overall_gain": 14022.710107210796,
+    "active_positions": 58,
+    "win_amount": 21602.2256144085,
+    "loss_amount": -7579.515507197705,
+    "win_rate": 0.597457627118644,
+    "total_current_value": 287.424688514,
+    "total_positions": 1094,
+    "event_ct": 472,
+    "win_count": 282,
+    "rank": 7561,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
