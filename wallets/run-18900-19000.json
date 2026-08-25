@@ -574,5 +574,21 @@
     "win_count": 1,
     "rank": 18936,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x203d95621bebe61be9471aaec84c75bca49dc5ce",
+    "trader_name": "iwkgmx",
+    "tag": "Overall",
+    "overall_gain": 4913.056730950029,
+    "active_positions": 2,
+    "win_amount": 5100.892900950029,
+    "loss_amount": -187.83616999999998,
+    "win_rate": 0.9629629629629629,
+    "total_current_value": 229.67080500000003,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 26,
+    "rank": 18937,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
