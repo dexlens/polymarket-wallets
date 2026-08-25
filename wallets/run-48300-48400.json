@@ -1406,5 +1406,21 @@
     "win_count": 4,
     "rank": 48389,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8f42d25624a5cc1e5b1b86266a9bbf2b8cfd472f",
+    "trader_name": "ExitLiquidated",
+    "tag": "Overall",
+    "overall_gain": 1554.488529895526,
+    "active_positions": 205,
+    "win_amount": 11314.441947999998,
+    "loss_amount": -9759.953418104473,
+    "win_rate": 0.5502183406113537,
+    "total_current_value": 15.95775,
+    "total_positions": 458,
+    "event_ct": 458,
+    "win_count": 252,
+    "rank": 48390,
+    "trader_tags": "< 30 days old"
   }
 ]
