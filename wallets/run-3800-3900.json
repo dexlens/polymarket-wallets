@@ -1214,5 +1214,21 @@
     "win_count": 649,
     "rank": 3876,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x1128c8e5fbb826c269cacb40da5539039abaed15",
+    "trader_name": "AverageScalper",
+    "tag": "Overall",
+    "overall_gain": 29248.365477305393,
+    "active_positions": 11,
+    "win_amount": 35111.729462011834,
+    "loss_amount": -5863.3639847064405,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 32.7775304605,
+    "total_positions": 77,
+    "event_ct": 28,
+    "win_count": 26,
+    "rank": 3877,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
