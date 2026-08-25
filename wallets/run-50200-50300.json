@@ -366,5 +366,21 @@
     "win_count": 86,
     "rank": 50224,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5b0167a87c22594e40775370c1bff9f2e8b6e356",
+    "trader_name": "dakygf",
+    "tag": "Overall",
+    "overall_gain": 1474.586277261775,
+    "active_positions": 0,
+    "win_amount": 1474.586277261775,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.011775,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 50225,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
