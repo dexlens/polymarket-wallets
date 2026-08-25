@@ -78,5 +78,21 @@
     "win_count": 2,
     "rank": 84906,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11c1bf9a7131de9e8f6534759fa9afe1f1c482f8",
+    "trader_name": "Kohor",
+    "tag": "Overall",
+    "overall_gain": 553.5587040285801,
+    "active_positions": 2,
+    "win_amount": 622.5263736696551,
+    "loss_amount": -68.96766964107499,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 53.284359499999994,
+    "total_positions": 53,
+    "event_ct": 44,
+    "win_count": 36,
+    "rank": 84907,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
