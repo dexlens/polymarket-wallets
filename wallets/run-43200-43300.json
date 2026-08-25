@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 43279,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x43f6b56232dc711f54822ae1f531986706fabb1e",
+    "trader_name": "metalevels",
+    "tag": "Overall",
+    "overall_gain": 1805.430464,
+    "active_positions": 17,
+    "win_amount": 3540.010835000001,
+    "loss_amount": -1734.5803710000002,
+    "win_rate": 0.5,
+    "total_current_value": 3814.9615,
+    "total_positions": 93,
+    "event_ct": 82,
+    "win_count": 41,
+    "rank": 43280,
+    "trader_tags": ""
   }
 ]
