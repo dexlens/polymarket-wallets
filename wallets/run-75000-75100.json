@@ -62,5 +62,21 @@
     "win_count": 5,
     "rank": 75005,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6374eb52fdbd2483626e3135d80db7164cb2847c",
+    "trader_name": "MsVermillion",
+    "tag": "Overall",
+    "overall_gain": 713.6947318286229,
+    "active_positions": 4,
+    "win_amount": 876.648848755768,
+    "loss_amount": -162.95411692714504,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.013676,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 75006,
+    "trader_tags": "> 1 year old"
   }
 ]
