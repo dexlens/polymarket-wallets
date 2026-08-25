@@ -1438,5 +1438,21 @@
     "win_count": 10,
     "rank": 3590,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xbf09d6280b78ab99f0973fb64b6902c24de1be63",
+    "trader_name": "Stuart24",
+    "tag": "Overall",
+    "overall_gain": 31683.538405,
+    "active_positions": 0,
+    "win_amount": 31899.378405,
+    "loss_amount": -215.84,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 24,
+    "win_count": 18,
+    "rank": 3591,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
