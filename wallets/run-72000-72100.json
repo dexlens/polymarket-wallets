@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 72084,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c2551eff9ace337c83d64ae46b3cc773597ecaa",
+    "trader_name": "DegenAgent",
+    "tag": "Overall",
+    "overall_gain": 764.6468030000001,
+    "active_positions": 2,
+    "win_amount": 770.6468030000001,
+    "loss_amount": -6,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 72085,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
