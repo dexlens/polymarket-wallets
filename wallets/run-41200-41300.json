@@ -1534,5 +1534,21 @@
     "win_count": 6,
     "rank": 41297,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9e4fdfe32f78e3d3ab021577c137539e7db46868",
+    "trader_name": "BTCBTCBTC",
+    "tag": "Overall",
+    "overall_gain": 1917.1092517510608,
+    "active_positions": 2,
+    "win_amount": 3951.1987771481918,
+    "loss_amount": -2034.0895253971303,
+    "win_rate": 0.8,
+    "total_current_value": 553.1586577329999,
+    "total_positions": 19,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 41298,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
