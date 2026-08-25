@@ -974,5 +974,21 @@
     "win_count": 16,
     "rank": 9461,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1c3a43493cacb44d36b3b929850bfa1ee4c46aad",
+    "trader_name": "PatriciaBrowns",
+    "tag": "Overall",
+    "overall_gain": 11079.875601999998,
+    "active_positions": 0,
+    "win_amount": 78468.46458900002,
+    "loss_amount": -67388.588987,
+    "win_rate": 0.5378698224852071,
+    "total_current_value": 0,
+    "total_positions": 1695,
+    "event_ct": 1690,
+    "win_count": 909,
+    "rank": 9462,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
