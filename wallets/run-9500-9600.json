@@ -1486,5 +1486,21 @@
     "win_count": 28,
     "rank": 9593,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc72dba2621862c8a263227729c045725e547625f",
+    "trader_name": "jaedenjohn",
+    "tag": "Overall",
+    "overall_gain": 10918,
+    "active_positions": 0,
+    "win_amount": 10918,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9594,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
