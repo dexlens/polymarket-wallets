@@ -302,5 +302,21 @@
     "win_count": 4,
     "rank": 7619,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xaf1da0e294218bf2c423f9e14e1eb805ed71f795",
+    "trader_name": "BitV",
+    "tag": "Overall",
+    "overall_gain": 13892.80251782609,
+    "active_positions": 59,
+    "win_amount": 26639.15598407399,
+    "loss_amount": -12746.353466247881,
+    "win_rate": 0.8347613219094248,
+    "total_current_value": 151.148601976,
+    "total_positions": 2835,
+    "event_ct": 2451,
+    "win_count": 2046,
+    "rank": 7620,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
