@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 59057,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xaaac38d14bbe24db68c64beb7d1ce6bdc2d78b6f",
+    "trader_name": "e5y",
+    "tag": "Overall",
+    "overall_gain": 1107.0021249932747,
+    "active_positions": 10,
+    "win_amount": 1114.8757746337678,
+    "loss_amount": -7.873649640492999,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 54.236041871,
+    "total_positions": 30,
+    "event_ct": 26,
+    "win_count": 20,
+    "rank": 59058,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
