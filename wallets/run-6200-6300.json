@@ -1390,5 +1390,21 @@
     "win_count": 71,
     "rank": 6287,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x464e56bd1656931279b7e1006f50c2abc2d51a67",
+    "trader_name": "vacoolaaa",
+    "tag": "Overall",
+    "overall_gain": 17018.380535681343,
+    "active_positions": 29,
+    "win_amount": 145307.42944616912,
+    "loss_amount": -128289.04891048776,
+    "win_rate": 0.6802721088435374,
+    "total_current_value": 202463.314474882,
+    "total_positions": 218,
+    "event_ct": 147,
+    "win_count": 100,
+    "rank": 6288,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
