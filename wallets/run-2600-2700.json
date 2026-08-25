@@ -830,5 +830,21 @@
     "win_count": 1,
     "rank": 2652,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe732156a2d84cdfb4de831d3f11a22899e49898f",
+    "trader_name": "Nostdam",
+    "tag": "Overall",
+    "overall_gain": 43993.4150873013,
+    "active_positions": 220,
+    "win_amount": 89413.21399838339,
+    "loss_amount": -45419.79891108211,
+    "win_rate": 0.6038291605301914,
+    "total_current_value": 1993.3636765440003,
+    "total_positions": 2631,
+    "event_ct": 1358,
+    "win_count": 820,
+    "rank": 2653,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
