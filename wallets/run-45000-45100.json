@@ -830,5 +830,21 @@
     "win_count": 15,
     "rank": 45053,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x498abb90c40df06537c614dc97f78935317a5e7b",
+    "trader_name": "revanchist",
+    "tag": "Overall",
+    "overall_gain": 1710.9474624234024,
+    "active_positions": 16,
+    "win_amount": 2970.742701766832,
+    "loss_amount": -1259.79523934343,
+    "win_rate": 0.6,
+    "total_current_value": 8717.00291689,
+    "total_positions": 24,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 45054,
+    "trader_tags": ""
   }
 ]
