@@ -1198,5 +1198,21 @@
     "win_count": 8,
     "rank": 84776,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a90544292fd453b503997e73531e59000e007f7",
+    "trader_name": "bxc3",
+    "tag": "Overall",
+    "overall_gain": 555.257999843109,
+    "active_positions": 1,
+    "win_amount": 747.1280578431091,
+    "loss_amount": -191.87005800000003,
+    "win_rate": 0.8636363636363636,
+    "total_current_value": 124.020585,
+    "total_positions": 45,
+    "event_ct": 22,
+    "win_count": 19,
+    "rank": 84777,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
