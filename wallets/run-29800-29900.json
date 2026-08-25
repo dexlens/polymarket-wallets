@@ -1406,5 +1406,21 @@
     "win_count": 180,
     "rank": 29889,
     "trader_tags": "1k+ Positions"
+  },
+  {
+    "trader": "0x62ee380366e97cd603b5d738959b3346a9928250",
+    "trader_name": "onemys",
+    "tag": "Overall",
+    "overall_gain": 2832.9664930000004,
+    "active_positions": 5,
+    "win_amount": 6284.966493000001,
+    "loss_amount": -3452,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 179,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 29890,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
