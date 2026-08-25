@@ -302,5 +302,21 @@
     "win_count": 3,
     "rank": 25220,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ae789db10bd559da57641484ad6e1e7a30512bc",
+    "trader_name": "petergrace",
+    "tag": "Overall",
+    "overall_gain": 3500.6846399834667,
+    "active_positions": 0,
+    "win_amount": 3654.534436025828,
+    "loss_amount": -153.849796042362,
+    "win_rate": 0.2727272727272727,
+    "total_current_value": 0.020129,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 3,
+    "rank": 25221,
+    "trader_tags": "> 1 year old"
   }
 ]
