@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 50744,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9f65e9b47ef54127ae739a3c160f4b1c74b03db6",
+    "trader_name": "Infoapex",
+    "tag": "Overall",
+    "overall_gain": 1451.745065517048,
+    "active_positions": 0,
+    "win_amount": 1451.745065517048,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002681,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 50745,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
