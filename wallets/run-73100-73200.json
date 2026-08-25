@@ -782,5 +782,21 @@
     "win_count": 9,
     "rank": 73150,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x25f68ddd0bb290f78886ad712afaa6bfbc6980c9",
+    "trader_name": "intec",
+    "tag": "Overall",
+    "overall_gain": 742.426615,
+    "active_positions": 0,
+    "win_amount": 742.426615,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 73151,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
