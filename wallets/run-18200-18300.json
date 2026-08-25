@@ -1278,5 +1278,21 @@
     "win_count": 9,
     "rank": 18280,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd14785cbc82186eaa99f01f005c99674628d20ab",
+    "trader_name": "btc1eth",
+    "tag": "Overall",
+    "overall_gain": 5089.951614146757,
+    "active_positions": 1,
+    "win_amount": 5089.951614146757,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 15.051926,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 9,
+    "rank": 18281,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
