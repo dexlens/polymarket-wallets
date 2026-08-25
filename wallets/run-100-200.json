@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 131,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x6e82b93eb57b01a63027bd0c6d2f3f04934a752c",
+    "trader_name": "DLEK",
+    "tag": "Overall",
+    "overall_gain": 855319.9540008702,
+    "active_positions": 457,
+    "win_amount": 5854281.338048543,
+    "loss_amount": -4998961.384047674,
+    "win_rate": 0.5337620578778135,
+    "total_current_value": 525190.986394016,
+    "total_positions": 1509,
+    "event_ct": 933,
+    "win_count": 498,
+    "rank": 132,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions; Sports PnL > $100k"
   }
 ]
