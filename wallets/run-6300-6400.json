@@ -14,5 +14,21 @@
     "win_count": 3,
     "rank": 6301,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c37bf5eedfd7093bb59c06d182da2ee01ef92a4",
+    "trader_name": "JSoon",
+    "tag": "Overall",
+    "overall_gain": 16987.161495524815,
+    "active_positions": 40,
+    "win_amount": 47739.19401576599,
+    "loss_amount": -30752.032520241177,
+    "win_rate": 0.5838150289017341,
+    "total_current_value": 3621.0135748674993,
+    "total_positions": 267,
+    "event_ct": 173,
+    "win_count": 101,
+    "rank": 6302,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
