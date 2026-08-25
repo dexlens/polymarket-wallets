@@ -878,5 +878,21 @@
     "win_count": 5,
     "rank": 81856,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd039a484d67b03e6698cac419e89d4cdb1834deb",
+    "trader_name": "Folium",
+    "tag": "Overall",
+    "overall_gain": 600.1362919999999,
+    "active_positions": 1,
+    "win_amount": 804.7224289999999,
+    "loss_amount": -204.586137,
+    "win_rate": 0.94,
+    "total_current_value": 13,
+    "total_positions": 50,
+    "event_ct": 50,
+    "win_count": 47,
+    "rank": 81857,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
