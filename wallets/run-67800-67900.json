@@ -1390,5 +1390,21 @@
     "win_count": 5,
     "rank": 67888,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb129253e8e9a7d867bad7dea0b6fab45b9f4874f",
+    "trader_name": "BraveWhirlpool511",
+    "tag": "Overall",
+    "overall_gain": 863.6460682953881,
+    "active_positions": 4,
+    "win_amount": 2779.2655120957497,
+    "loss_amount": -1915.6194438003618,
+    "win_rate": 0.55,
+    "total_current_value": 0.025750000000000002,
+    "total_positions": 40,
+    "event_ct": 40,
+    "win_count": 22,
+    "rank": 67889,
+    "trader_tags": ""
   }
 ]
