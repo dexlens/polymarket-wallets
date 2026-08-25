@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 16778,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x94a6dc3eeb4ee2a2225e221ffe06a1acfd06a0c7",
+    "trader_name": "R47",
+    "tag": "Overall",
+    "overall_gain": 5650.868206310666,
+    "active_positions": 9,
+    "win_amount": 36745.51773000413,
+    "loss_amount": -31094.64952369346,
+    "win_rate": 0.9933014354066986,
+    "total_current_value": 0.329996,
+    "total_positions": 2091,
+    "event_ct": 2090,
+    "win_count": 2076,
+    "rank": 16779,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
