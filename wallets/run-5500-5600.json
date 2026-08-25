@@ -1006,5 +1006,21 @@
     "win_count": 8,
     "rank": 5563,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf8adbf3f5f93001decd43f885aaa9908de1c12d4",
+    "trader_name": "MagicianThor",
+    "tag": "Overall",
+    "overall_gain": 19422.34474389863,
+    "active_positions": 17,
+    "win_amount": 19923.54103389863,
+    "loss_amount": -501.19629,
+    "win_rate": 0.9354838709677419,
+    "total_current_value": 92.79136525,
+    "total_positions": 106,
+    "event_ct": 31,
+    "win_count": 29,
+    "rank": 5564,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
