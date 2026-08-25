@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 1673,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x05ff6e0a5596c0e65f91d7a48d66fbe278e66e4f",
+    "trader_name": "Malrik",
+    "tag": "Overall",
+    "overall_gain": 73417.04012045465,
+    "active_positions": 6,
+    "win_amount": 74147.6693461974,
+    "loss_amount": -730.6292257427659,
+    "win_rate": 0.8548387096774194,
+    "total_current_value": 12.774711750000002,
+    "total_positions": 63,
+    "event_ct": 62,
+    "win_count": 53,
+    "rank": 1674,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
