@@ -622,5 +622,21 @@
     "win_count": 59,
     "rank": 4539,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7902d085d4d1ebdda6584867d94e958c6f24170c",
+    "trader_name": "AcidPunk",
+    "tag": "Overall",
+    "overall_gain": 24265.026246260237,
+    "active_positions": 109,
+    "win_amount": 107585.4687422127,
+    "loss_amount": -83320.44249595249,
+    "win_rate": 0.8582677165354331,
+    "total_current_value": 38425.24371971401,
+    "total_positions": 342,
+    "event_ct": 254,
+    "win_count": 218,
+    "rank": 4540,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
