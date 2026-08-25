@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 44800,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13585300388c3669ac0eea81e81c175926831af4",
+    "trader_name": "SERD",
+    "tag": "Overall",
+    "overall_gain": 1723.5420098750003,
+    "active_positions": 2,
+    "win_amount": 14596.715312675002,
+    "loss_amount": -12873.173302800002,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.003494,
+    "total_positions": 59,
+    "event_ct": 55,
+    "win_count": 35,
+    "rank": 44801,
+    "trader_tags": "> 1 year old"
   }
 ]
