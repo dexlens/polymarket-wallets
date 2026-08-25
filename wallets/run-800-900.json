@@ -974,5 +974,21 @@
     "win_count": 14,
     "rank": 861,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x3471a897e56a8d3621ca79af87dae4325977f17e",
+    "trader_name": "xytest",
+    "tag": "Overall",
+    "overall_gain": 142422.6799551193,
+    "active_positions": 20,
+    "win_amount": 387494.1623391195,
+    "loss_amount": -245071.48238400006,
+    "win_rate": 0.5585365853658537,
+    "total_current_value": 92487.85175614,
+    "total_positions": 1887,
+    "event_ct": 410,
+    "win_count": 229,
+    "rank": 862,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Sports PnL > $100k"
   }
 ]
