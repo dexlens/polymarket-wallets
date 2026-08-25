@@ -1582,5 +1582,21 @@
     "win_count": 94,
     "rank": 4199,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b698f70112f28cf7e9537214330cfdbf84f38d3",
+    "trader_name": "betforthewin",
+    "tag": "Overall",
+    "overall_gain": 26572.456418512425,
+    "active_positions": 4,
+    "win_amount": 26572.456418512425,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 181278.19479778898,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 9,
+    "rank": 4200,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
