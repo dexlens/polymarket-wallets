@@ -1198,5 +1198,21 @@
     "win_count": 19,
     "rank": 2175,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe6c9eee27de792a9fdcdd322822452625d0f975e",
+    "trader_name": "Zaya",
+    "tag": "Overall",
+    "overall_gain": 55293.804201251965,
+    "active_positions": 36,
+    "win_amount": 65849.51242677744,
+    "loss_amount": -10555.708225525495,
+    "win_rate": 0.6044071353620147,
+    "total_current_value": 223.95645261349998,
+    "total_positions": 5079,
+    "event_ct": 953,
+    "win_count": 576,
+    "rank": 2176,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
