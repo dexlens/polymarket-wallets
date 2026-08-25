@@ -414,5 +414,21 @@
     "win_count": 11,
     "rank": 17326,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c62f7e21d251e3788f227d4ed15dcb67880b098",
+    "trader_name": "unthinkable",
+    "tag": "Overall",
+    "overall_gain": 5419.834526848694,
+    "active_positions": 2,
+    "win_amount": 9317.968202,
+    "loss_amount": -3898.133675151306,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 17327,
+    "trader_tags": "> 1 year old"
   }
 ]
