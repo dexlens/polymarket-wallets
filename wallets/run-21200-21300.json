@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 21238,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e9310360cc92f8b00c381e9fa64df77f419c5c4",
+    "trader_name": "lostitall1500",
+    "tag": "Overall",
+    "overall_gain": 4298.142132713269,
+    "active_positions": 4,
+    "win_amount": 5997.533993090886,
+    "loss_amount": -1699.391860377616,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.006294,
+    "total_positions": 7,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 21239,
+    "trader_tags": ""
   }
 ]
