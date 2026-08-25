@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 5270,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xe74d4976e5e034182d708a3b9df602e72d4722fd",
+    "trader_name": "Pump",
+    "tag": "Overall",
+    "overall_gain": 20584.855127567815,
+    "active_positions": 6,
+    "win_amount": 46392.61847795264,
+    "loss_amount": -25807.763350384837,
+    "win_rate": 0.4595744680851064,
+    "total_current_value": 7645.709043897501,
+    "total_positions": 386,
+    "event_ct": 235,
+    "win_count": 108,
+    "rank": 5271,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
