@@ -30,5 +30,21 @@
     "win_count": 14,
     "rank": 17902,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x31d6732d2ca161cf595ed03ce11b9da26417ac91",
+    "trader_name": "Bilibili2",
+    "tag": "Overall",
+    "overall_gain": 5212.144917860238,
+    "active_positions": 6,
+    "win_amount": 5239.564229428704,
+    "loss_amount": -27.419311568466,
+    "win_rate": 0.7,
+    "total_current_value": 108.84091919900001,
+    "total_positions": 22,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 17903,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
