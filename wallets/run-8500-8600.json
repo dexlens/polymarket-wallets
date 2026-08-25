@@ -782,5 +782,21 @@
     "win_count": 574,
     "rank": 8549,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x5567486d87d8fd69c875eb36208386128516aeed",
+    "trader_name": "depeer",
+    "tag": "Overall",
+    "overall_gain": 12249.835347393031,
+    "active_positions": 34,
+    "win_amount": 24267.1056775845,
+    "loss_amount": -12017.270330191472,
+    "win_rate": 0.5352941176470588,
+    "total_current_value": 1316.2153827794998,
+    "total_positions": 2070,
+    "event_ct": 850,
+    "win_count": 455,
+    "rank": 8550,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
