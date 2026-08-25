@@ -398,5 +398,21 @@
     "win_count": 51,
     "rank": 16225,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x81d90fcbd2e76d319a8d5a97ac30854818bd60f1",
+    "trader_name": "donmaximi",
+    "tag": "Overall",
+    "overall_gain": 5896.328603400876,
+    "active_positions": 9,
+    "win_amount": 17488.650423679414,
+    "loss_amount": -11592.321820278536,
+    "win_rate": 0.8076923076923077,
+    "total_current_value": 9932.339473812499,
+    "total_positions": 61,
+    "event_ct": 26,
+    "win_count": 21,
+    "rank": 16226,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
