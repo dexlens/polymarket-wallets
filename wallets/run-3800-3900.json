@@ -910,5 +910,21 @@
     "win_count": 252,
     "rank": 3857,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x85b9e9226c56d4f2a3ff92c56b745f42498f906d",
+    "trader_name": "thefakenick",
+    "tag": "Overall",
+    "overall_gain": 29408.60519863615,
+    "active_positions": 209,
+    "win_amount": 50177.78139333884,
+    "loss_amount": -20769.17619470267,
+    "win_rate": 0.7049891540130152,
+    "total_current_value": 19774.642731577496,
+    "total_positions": 2048,
+    "event_ct": 461,
+    "win_count": 325,
+    "rank": 3858,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
