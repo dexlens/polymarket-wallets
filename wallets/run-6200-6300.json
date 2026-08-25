@@ -286,5 +286,21 @@
     "win_count": 12,
     "rank": 6218,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9be39d0a0b3dfd6e3b3f93dacad41a8096c0c64f",
+    "trader_name": "EXOSMAN",
+    "tag": "Overall",
+    "overall_gain": 17232.30681490707,
+    "active_positions": 1,
+    "win_amount": 29940.14402183746,
+    "loss_amount": -12707.83720693039,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.041897000000000004,
+    "total_positions": 31,
+    "event_ct": 11,
+    "win_count": 4,
+    "rank": 6219,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
