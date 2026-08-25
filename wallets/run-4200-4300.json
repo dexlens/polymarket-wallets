@@ -286,5 +286,21 @@
     "win_count": 1,
     "rank": 4218,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xeb90f772bf2e5f0257b7e8a90859241b5a2d9026",
+    "trader_name": "WYATT",
+    "tag": "Overall",
+    "overall_gain": 26484.223972000003,
+    "active_positions": 0,
+    "win_amount": 26497.640454,
+    "loss_amount": -13.416481999999998,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 0,
+    "total_positions": 42,
+    "event_ct": 23,
+    "win_count": 20,
+    "rank": 4219,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
