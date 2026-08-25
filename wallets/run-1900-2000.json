@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 1937,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbd0923420f3bbe8580237cd8fadb25a46cd2a188",
+    "trader_name": "Saivestor",
+    "tag": "Overall",
+    "overall_gain": 62316.487035719634,
+    "active_positions": 558,
+    "win_amount": 1625166.5684285557,
+    "loss_amount": -1562850.0813928351,
+    "win_rate": 0.4780701754385965,
+    "total_current_value": 18321.1100561465,
+    "total_positions": 1268,
+    "event_ct": 1140,
+    "win_count": 545,
+    "rank": 1938,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
