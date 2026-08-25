@@ -1534,5 +1534,21 @@
     "win_count": 12,
     "rank": 18096,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x44c261158c892ae6f1aaece9463af5cba48fec6c",
+    "trader_name": "ofvqwk",
+    "tag": "Overall",
+    "overall_gain": 5147,
+    "active_positions": 2,
+    "win_amount": 5234.5,
+    "loss_amount": -87.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 18097,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
