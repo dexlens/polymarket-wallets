@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 58550,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d7b3c8167b44ad09aa97535e843c39f1753c3f9",
+    "trader_name": "dsicoew",
+    "tag": "Overall",
+    "overall_gain": 1123.4666394937558,
+    "active_positions": 6,
+    "win_amount": 8425.474164,
+    "loss_amount": -7302.007524506244,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 58551,
+    "trader_tags": "< 30 days old"
   }
 ]
