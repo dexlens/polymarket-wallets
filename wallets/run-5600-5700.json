@@ -1422,5 +1422,21 @@
     "win_count": 405,
     "rank": 5689,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa8462a75a12138f45ec910d7e2720bee90f6ad47",
+    "trader_name": "iniquityFlex",
+    "tag": "Overall",
+    "overall_gain": 18966.053180040453,
+    "active_positions": 28,
+    "win_amount": 35701.448548320346,
+    "loss_amount": -16735.395368279897,
+    "win_rate": 0.6463414634146342,
+    "total_current_value": 224.039114,
+    "total_positions": 101,
+    "event_ct": 82,
+    "win_count": 53,
+    "rank": 5690,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
