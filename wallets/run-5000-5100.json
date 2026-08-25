@@ -78,5 +78,21 @@
     "win_count": 2,
     "rank": 5005,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1bde63277421da2b576d373abcbfb2549b42ca3a",
+    "trader_name": "whispersz",
+    "tag": "Overall",
+    "overall_gain": 21641.976565000004,
+    "active_positions": 13,
+    "win_amount": 60962.033064999996,
+    "loss_amount": -39320.0565,
+    "win_rate": 0.5471698113207547,
+    "total_current_value": 0,
+    "total_positions": 55,
+    "event_ct": 53,
+    "win_count": 29,
+    "rank": 5006,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
