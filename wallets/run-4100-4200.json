@@ -974,5 +974,21 @@
     "win_count": 10,
     "rank": 4161,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5ef22d20b4a452dcadbd0e59e7309a43e2fbf473",
+    "trader_name": "booboo",
+    "tag": "Overall",
+    "overall_gain": 26820.890264332887,
+    "active_positions": 129,
+    "win_amount": 276180.1430832334,
+    "loss_amount": -249359.25281890036,
+    "win_rate": 0.3970037453183521,
+    "total_current_value": 3212.5947378700002,
+    "total_positions": 395,
+    "event_ct": 267,
+    "win_count": 106,
+    "rank": 4162,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
