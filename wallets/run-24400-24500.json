@@ -926,5 +926,21 @@
     "win_count": 15,
     "rank": 24459,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe4ca3841ade21e05cbd5786dd5feea5d65c01383",
+    "trader_name": "BASSATS01",
+    "tag": "Overall",
+    "overall_gain": 3634.021636015027,
+    "active_positions": 660,
+    "win_amount": 23791.644193183398,
+    "loss_amount": -20157.62255716837,
+    "win_rate": 0.45149657410746485,
+    "total_current_value": 5918.0153983665,
+    "total_positions": 6016,
+    "event_ct": 2773,
+    "win_count": 1252,
+    "rank": 24460,
+    "trader_tags": "1k+ Positions"
   }
 ]
