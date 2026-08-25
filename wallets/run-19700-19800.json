@@ -1022,5 +1022,21 @@
     "win_count": 77,
     "rank": 19764,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x21e1263dd1717e3c340d19fa2c10ca74c0cfd646",
+    "trader_name": "AscendEs",
+    "tag": "Overall",
+    "overall_gain": 4690.370566207831,
+    "active_positions": 4,
+    "win_amount": 4967.51398020783,
+    "loss_amount": -277.14341399999995,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 2911.604326165,
+    "total_positions": 16,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 19765,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
