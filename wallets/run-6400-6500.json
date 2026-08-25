@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 6483,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdec0e67d716f6edb450adacf33790e61b81af941",
+    "trader_name": "SearcherGenevieve",
+    "tag": "Overall",
+    "overall_gain": 16524.498312,
+    "active_positions": 1,
+    "win_amount": 16603.565312,
+    "loss_amount": -79.067,
+    "win_rate": 0.7931034482758621,
+    "total_current_value": 11,
+    "total_positions": 55,
+    "event_ct": 29,
+    "win_count": 23,
+    "rank": 6484,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
