@@ -1454,5 +1454,21 @@
     "win_count": 216,
     "rank": 6691,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4d0121458bb2f96c6440c0f3835d675ad3ce1645",
+    "trader_name": "knrad",
+    "tag": "Overall",
+    "overall_gain": 16048.51414652974,
+    "active_positions": 265,
+    "win_amount": 29381.375357877598,
+    "loss_amount": -13332.861211347852,
+    "win_rate": 0.7947368421052632,
+    "total_current_value": 37920.81026504,
+    "total_positions": 1050,
+    "event_ct": 380,
+    "win_count": 302,
+    "rank": 6692,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
