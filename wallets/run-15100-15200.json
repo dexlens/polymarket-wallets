@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 15134,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5415c298dde8c84f4ba726d36b411df6e9a72a6e",
+    "trader_name": "-Dominus-",
+    "tag": "Overall",
+    "overall_gain": 6429.203583693854,
+    "active_positions": 14,
+    "win_amount": 11115.994727096479,
+    "loss_amount": -4686.791143402625,
+    "win_rate": 0.7627118644067796,
+    "total_current_value": 31876.361312508998,
+    "total_positions": 482,
+    "event_ct": 236,
+    "win_count": 180,
+    "rank": 15135,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
