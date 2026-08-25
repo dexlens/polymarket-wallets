@@ -878,5 +878,21 @@
     "win_count": 10,
     "rank": 35856,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x4aafc13d70420c57dc40620c9065030390945750",
+    "trader_name": "Windfetter",
+    "tag": "Overall",
+    "overall_gain": 2272.346,
+    "active_positions": 2,
+    "win_amount": 2273.246,
+    "loss_amount": -0.899999999999995,
+    "win_rate": 0.75,
+    "total_current_value": 27.900000000000002,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 35857,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
