@@ -302,5 +302,21 @@
     "win_count": 3,
     "rank": 32920,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x977bbf693fbd3bf0af6349212dd5a641f33f40f6",
+    "trader_name": "Komhd",
+    "tag": "Overall",
+    "overall_gain": 2511.2180651497392,
+    "active_positions": 89,
+    "win_amount": 4293.609652803873,
+    "loss_amount": -1782.3915876541337,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0.157079,
+    "total_positions": 518,
+    "event_ct": 192,
+    "win_count": 136,
+    "rank": 32921,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
