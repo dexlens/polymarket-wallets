@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 754,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x208e7d17e83f757e68bc0d0aecfca9d67c3ebcb3",
+    "trader_name": "dalailama",
+    "tag": "Overall",
+    "overall_gain": 170129.9408055412,
+    "active_positions": 13,
+    "win_amount": 193185.48845342093,
+    "loss_amount": -23055.54764787968,
+    "win_rate": 0.6949152542372882,
+    "total_current_value": 80.16519600000001,
+    "total_positions": 143,
+    "event_ct": 59,
+    "win_count": 41,
+    "rank": 755,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Crypto PnL > $100k"
   }
 ]
