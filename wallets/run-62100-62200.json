@@ -606,5 +606,21 @@
     "win_count": 26,
     "rank": 62139,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51d76fbda2e2261132dcc5352b60132508684b48",
+    "trader_name": "mercado",
+    "tag": "Overall",
+    "overall_gain": 1018.433597014283,
+    "active_positions": 1,
+    "win_amount": 1362.0829890000002,
+    "loss_amount": -343.649391985717,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 62140,
+    "trader_tags": "> 1 year old"
   }
 ]
