@@ -1454,5 +1454,21 @@
     "win_count": 5,
     "rank": 32392,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x834bc04214034781ee64c2ba17dbc43f1d841f64",
+    "trader_name": "maanuskalda6",
+    "tag": "Overall",
+    "overall_gain": 2561.49572,
+    "active_positions": 0,
+    "win_amount": 4605.60572,
+    "loss_amount": -2044.1100000000001,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 32393,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
