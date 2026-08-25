@@ -718,5 +718,21 @@
     "win_count": 13,
     "rank": 3645,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f9d98203e991e0e95cc846a596d71d649ce3836",
+    "trader_name": "mainpyke",
+    "tag": "Overall",
+    "overall_gain": 31266.658421928165,
+    "active_positions": 2,
+    "win_amount": 32266.65725179518,
+    "loss_amount": -999.9988298670149,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 3646,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
