@@ -1566,5 +1566,21 @@
     "win_count": 28,
     "rank": 83399,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x60e9117bf982e8294403e17c13d04ef2262d5b91",
+    "trader_name": "wonderyou",
+    "tag": "Overall",
+    "overall_gain": 575.799104769865,
+    "active_positions": 6,
+    "win_amount": 578.875462941191,
+    "loss_amount": -3.0763581713259995,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 18.668938901,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 22,
+    "rank": 83400,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
