@@ -766,5 +766,21 @@
     "win_count": 21,
     "rank": 7448,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb402858ce22f0d07a5fc4f9cc7ad71b87c4dd8b4",
+    "trader_name": "MonicaHenderson",
+    "tag": "Overall",
+    "overall_gain": 14251.798729793692,
+    "active_positions": 96,
+    "win_amount": 135835.76366022,
+    "loss_amount": -121583.9649304263,
+    "win_rate": 0.5192307692307693,
+    "total_current_value": 0.007038,
+    "total_positions": 209,
+    "event_ct": 208,
+    "win_count": 108,
+    "rank": 7449,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
