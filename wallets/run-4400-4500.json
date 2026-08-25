@@ -1054,5 +1054,21 @@
     "win_count": 2,
     "rank": 4466,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3846fc0dc5a70635929301a26c7ddf623ce1c908",
+    "trader_name": "OPMSucks",
+    "tag": "Overall",
+    "overall_gain": 24786.992932815545,
+    "active_positions": 17,
+    "win_amount": 169590.1383566848,
+    "loss_amount": -144803.14542386917,
+    "win_rate": 0.6435786435786436,
+    "total_current_value": 5184.989173680002,
+    "total_positions": 1827,
+    "event_ct": 693,
+    "win_count": 446,
+    "rank": 4467,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
