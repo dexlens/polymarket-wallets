@@ -302,5 +302,21 @@
     "win_count": 12,
     "rank": 68720,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52c4d3e8d5f0b4f6db543f13cb3318212f50631f",
+    "trader_name": "sockfart",
+    "tag": "Overall",
+    "overall_gain": 842.3359419560351,
+    "active_positions": 0,
+    "win_amount": 1176.855508428841,
+    "loss_amount": -334.519566472806,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 0.119579,
+    "total_positions": 49,
+    "event_ct": 36,
+    "win_count": 15,
+    "rank": 68721,
+    "trader_tags": ""
   }
 ]
