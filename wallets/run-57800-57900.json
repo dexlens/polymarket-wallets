@@ -1038,5 +1038,21 @@
     "win_count": 7,
     "rank": 57866,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x381d098ed13759ea0a55f43c863381f56ae773d3",
+    "trader_name": "delabs",
+    "tag": "Overall",
+    "overall_gain": 1147.917951207471,
+    "active_positions": 62,
+    "win_amount": 2155.0646505211794,
+    "loss_amount": -1007.1466993137079,
+    "win_rate": 0.7925925925925926,
+    "total_current_value": 2750.1333024785004,
+    "total_positions": 242,
+    "event_ct": 135,
+    "win_count": 107,
+    "rank": 57867,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
