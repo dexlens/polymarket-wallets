@@ -974,5 +974,21 @@
     "win_count": 3,
     "rank": 71362,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f3bc6b43dc2d6ba1b2a0640088df3a176f156ba",
+    "trader_name": "Eregbus",
+    "tag": "Overall",
+    "overall_gain": 780.5,
+    "active_positions": 1,
+    "win_amount": 1055,
+    "loss_amount": -274.5,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 71363,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
