@@ -750,5 +750,21 @@
     "win_count": 63,
     "rank": 70148,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4d076d0f37e916c468709e6d8a0e4814cc080349",
+    "trader_name": "fragzar",
+    "tag": "Overall",
+    "overall_gain": 807.402465756325,
+    "active_positions": 2,
+    "win_amount": 903.402465756325,
+    "loss_amount": -96,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.006325,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 70149,
+    "trader_tags": ""
   }
 ]
