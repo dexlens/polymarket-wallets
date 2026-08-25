@@ -462,5 +462,21 @@
     "win_count": 2,
     "rank": 5529,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcebf3d8a92b3c3c2fd2accc8391b1f6e28730706",
+    "trader_name": "viggykazama",
+    "tag": "Overall",
+    "overall_gain": 19544.1,
+    "active_positions": 9,
+    "win_amount": 33185.5,
+    "loss_amount": -13641.4,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 10,
+    "rank": 5530,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
