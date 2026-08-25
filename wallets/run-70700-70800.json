@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 70780,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c018a2db4faab514595bf0e0d571eaf64676eb8",
+    "trader_name": "kluska",
+    "tag": "Overall",
+    "overall_gain": 793.093617429443,
+    "active_positions": 1,
+    "win_amount": 1153.811136,
+    "loss_amount": -360.717518570557,
+    "win_rate": 0.5,
+    "total_current_value": 154.70177713500001,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 70781,
+    "trader_tags": ""
   }
 ]
