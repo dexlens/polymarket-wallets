@@ -174,5 +174,21 @@
     "win_count": 1,
     "rank": 83512,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84fee50c947fbc7ae1c1698ddf9ef41470a770a6",
+    "trader_name": "monkmode",
+    "tag": "Overall",
+    "overall_gain": 573.930225859326,
+    "active_positions": 2,
+    "win_amount": 22883.273988601864,
+    "loss_amount": -22309.34376274255,
+    "win_rate": 0.5255813953488372,
+    "total_current_value": 9.050346791,
+    "total_positions": 2500,
+    "event_ct": 1720,
+    "win_count": 904,
+    "rank": 83513,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
