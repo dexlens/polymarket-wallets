@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 50143,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89a7e045fb8983202eaff9dc557ae220c7f0e4c8",
+    "trader_name": "Bagdasik",
+    "tag": "Overall",
+    "overall_gain": 1478.4409949383619,
+    "active_positions": 3,
+    "win_amount": 2101.7518266620573,
+    "loss_amount": -623.3108317236951,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.080957,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 22,
+    "rank": 50144,
+    "trader_tags": "> 1 year old"
   }
 ]
