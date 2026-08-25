@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 3779,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6717b32d18ce6a262514544ac80dc02b48c30054",
+    "trader_name": "Balrya",
+    "tag": "Overall",
+    "overall_gain": 30122.002272775233,
+    "active_positions": 5,
+    "win_amount": 31460.791569775236,
+    "loss_amount": -1338.789297,
+    "win_rate": 0.8108108108108109,
+    "total_current_value": 0.005284,
+    "total_positions": 39,
+    "event_ct": 37,
+    "win_count": 30,
+    "rank": 3780,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
