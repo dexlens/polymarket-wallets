@@ -990,5 +990,21 @@
     "win_count": 91,
     "rank": 84463,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f4d8171d43e23fbebde56f31d1f4cabcd89d77f",
+    "trader_name": "BacaratPunch",
+    "tag": "Overall",
+    "overall_gain": 559.72129498967,
+    "active_positions": 1,
+    "win_amount": 725.23309898967,
+    "loss_amount": -165.51180399999998,
+    "win_rate": 0.5,
+    "total_current_value": 0.003622,
+    "total_positions": 9,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 84464,
+    "trader_tags": ""
   }
 ]
