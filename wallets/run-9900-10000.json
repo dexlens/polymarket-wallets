@@ -78,5 +78,21 @@
     "win_count": 11,
     "rank": 9905,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe670f0eab96fc5006c1eec70d4db70037fd77905",
+    "trader_name": "BKB1",
+    "tag": "Overall",
+    "overall_gain": 10585.28142418,
+    "active_positions": 3,
+    "win_amount": 11240.089739000001,
+    "loss_amount": -654.80831482,
+    "win_rate": 0.47368421052631576,
+    "total_current_value": 0,
+    "total_positions": 48,
+    "event_ct": 19,
+    "win_count": 9,
+    "rank": 9906,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
