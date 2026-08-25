@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 62624,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa37edac28ec505fafda3e587389cbd6d436e3891",
+    "trader_name": "Bookie",
+    "tag": "Overall",
+    "overall_gain": 1006.5446784955968,
+    "active_positions": 4,
+    "win_amount": 2191.225325774237,
+    "loss_amount": -1184.6806472786398,
+    "win_rate": 0.7694915254237288,
+    "total_current_value": 23.666328999999994,
+    "total_positions": 625,
+    "event_ct": 590,
+    "win_count": 454,
+    "rank": 62625,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
