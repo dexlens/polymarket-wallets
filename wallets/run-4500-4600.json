@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 4585,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x54c4031c4b22ecb12580bf155d6780cf59c814f1",
+    "trader_name": "cleo3",
+    "tag": "Overall",
+    "overall_gain": 23987.7401819927,
+    "active_positions": 0,
+    "win_amount": 24629.3373109927,
+    "loss_amount": -641.597129,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0.001427,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 6,
+    "rank": 4586,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
