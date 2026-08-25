@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 6042,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf7b827e1e36e291893e4a2d4b2a1541cabf36b7c",
+    "trader_name": "reaccru",
+    "tag": "Overall",
+    "overall_gain": 17758.5,
+    "active_positions": 6,
+    "win_amount": 23010,
+    "loss_amount": -5251.5,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 13,
+    "rank": 6043,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
