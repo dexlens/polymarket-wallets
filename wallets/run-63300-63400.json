@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 63359,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x688ec23bd601c713752e5fbddb5ec684056f148d",
+    "trader_name": "reko13",
+    "tag": "Overall",
+    "overall_gain": 991.0095087769852,
+    "active_positions": 12,
+    "win_amount": 5767.811941884409,
+    "loss_amount": -4776.802433107423,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 542.672777,
+    "total_positions": 38,
+    "event_ct": 30,
+    "win_count": 20,
+    "rank": 63360,
+    "trader_tags": "< 30 days old"
   }
 ]
