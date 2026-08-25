@@ -638,5 +638,21 @@
     "win_count": 88,
     "rank": 8040,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e0a2668bcd0f26eed9d053b5ceb0d809c2ee4e6",
+    "trader_name": "wuxian9999",
+    "tag": "Overall",
+    "overall_gain": 13052.784280329537,
+    "active_positions": 19,
+    "win_amount": 166021.10059375176,
+    "loss_amount": -152968.31631342226,
+    "win_rate": 0.5045155993431856,
+    "total_current_value": 1185.3254621214999,
+    "total_positions": 7903,
+    "event_ct": 4872,
+    "win_count": 2458,
+    "rank": 8041,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
