@@ -510,5 +510,21 @@
     "win_count": 2,
     "rank": 28133,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x426227d4a9c4ad5a1aae7f2706238f2154b9abaa",
+    "trader_name": "Kuomintang",
+    "tag": "Overall",
+    "overall_gain": 3048.3769325691605,
+    "active_positions": 42,
+    "win_amount": 4398.990211735553,
+    "loss_amount": -1350.613279166394,
+    "win_rate": 0.8083989501312336,
+    "total_current_value": 3673.0460147600006,
+    "total_positions": 616,
+    "event_ct": 381,
+    "win_count": 308,
+    "rank": 28134,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
