@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 68447,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x652bae2a6e33bda6de39d731c55c4a14684e19c4",
+    "trader_name": "thedogpete",
+    "tag": "Overall",
+    "overall_gain": 849.7933490635578,
+    "active_positions": 3,
+    "win_amount": 3512.0317584467975,
+    "loss_amount": -2662.23840938324,
+    "win_rate": 0.569620253164557,
+    "total_current_value": 10.068257000000001,
+    "total_positions": 536,
+    "event_ct": 158,
+    "win_count": 90,
+    "rank": 68448,
+    "trader_tags": "> 1 year old"
   }
 ]
