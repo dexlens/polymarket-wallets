@@ -1342,5 +1342,21 @@
     "win_count": 3,
     "rank": 67985,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89d1fb0a9667950777570278cf952542a7e7d195",
+    "trader_name": "PennyHutt",
+    "tag": "Overall",
+    "overall_gain": 861,
+    "active_positions": 8,
+    "win_amount": 1636,
+    "loss_amount": -775,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 12,
+    "rank": 67986,
+    "trader_tags": ""
   }
 ]
