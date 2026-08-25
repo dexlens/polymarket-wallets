@@ -1150,5 +1150,21 @@
     "win_count": 5,
     "rank": 20072,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd86d264660459541fceb820478dd96b1db4d9ce1",
+    "trader_name": "Master-bettor",
+    "tag": "Overall",
+    "overall_gain": 4606.259520277494,
+    "active_positions": 5,
+    "win_amount": 4728.98762542351,
+    "loss_amount": -122.72810514601608,
+    "win_rate": 0.912751677852349,
+    "total_current_value": 6010.286436054999,
+    "total_positions": 212,
+    "event_ct": 149,
+    "win_count": 136,
+    "rank": 20073,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
