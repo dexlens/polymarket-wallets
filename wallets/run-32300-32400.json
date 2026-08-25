@@ -494,5 +494,21 @@
     "win_count": 4,
     "rank": 32332,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xecbd8fcb3ed78c009a3b127d45831900617a8d64",
+    "trader_name": "gfd62",
+    "tag": "Overall",
+    "overall_gain": 2568.589256123355,
+    "active_positions": 11,
+    "win_amount": 4427.583281027135,
+    "loss_amount": -1858.99402490378,
+    "win_rate": 0.625,
+    "total_current_value": 67.610554555,
+    "total_positions": 34,
+    "event_ct": 32,
+    "win_count": 20,
+    "rank": 32333,
+    "trader_tags": "> 1 year old"
   }
 ]
