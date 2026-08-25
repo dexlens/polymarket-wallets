@@ -1374,5 +1374,21 @@
     "win_count": 19,
     "rank": 1986,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x6c54a6328bd2b8dc8a79bc238d83573364328e76",
+    "trader_name": "AlexDo",
+    "tag": "Overall",
+    "overall_gain": 60878.484020913194,
+    "active_positions": 0,
+    "win_amount": 60878.484020913194,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0036,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 1987,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
