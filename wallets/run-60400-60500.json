@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 60499,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdcd28b399f1643df577ed313d1ff6ba4ef2187c9",
+    "trader_name": "ccc00",
+    "tag": "Overall",
+    "overall_gain": 1061.8768464064412,
+    "active_positions": 8,
+    "win_amount": 1139.7714442515892,
+    "loss_amount": -77.8945978451481,
+    "win_rate": 0.7178683385579937,
+    "total_current_value": 1252.2736809439998,
+    "total_positions": 479,
+    "event_ct": 319,
+    "win_count": 229,
+    "rank": 60500,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
