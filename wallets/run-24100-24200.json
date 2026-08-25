@@ -1070,5 +1070,21 @@
     "win_count": 4,
     "rank": 24168,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80fcb27d26ceb20f6fd8a8e924fc02daf736d404",
+    "trader_name": "Tumors",
+    "tag": "Overall",
+    "overall_gain": 3690.58390451295,
+    "active_positions": 44,
+    "win_amount": 4326.00307056477,
+    "loss_amount": -635.4191660518189,
+    "win_rate": 0.6984126984126984,
+    "total_current_value": 1272.7909299820003,
+    "total_positions": 136,
+    "event_ct": 126,
+    "win_count": 88,
+    "rank": 24169,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
