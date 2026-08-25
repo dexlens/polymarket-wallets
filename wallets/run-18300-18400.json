@@ -478,5 +478,21 @@
     "win_count": 4,
     "rank": 18330,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44b5be14e6e9491cc136481bc2009e38ee5f11a3",
+    "trader_name": "beefun1108",
+    "tag": "Overall",
+    "overall_gain": 5071.428009883288,
+    "active_positions": 39,
+    "win_amount": 18161.274847292858,
+    "loss_amount": -13089.846837409577,
+    "win_rate": 0.5379023883696781,
+    "total_current_value": 1404.5706466564998,
+    "total_positions": 1679,
+    "event_ct": 963,
+    "win_count": 518,
+    "rank": 18331,
+    "trader_tags": "1k+ Positions"
   }
 ]
