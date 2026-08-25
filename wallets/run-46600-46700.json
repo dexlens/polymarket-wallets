@@ -206,5 +206,21 @@
     "win_count": 6,
     "rank": 46614,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x19a4fe42368df6ea0860845c152914d5a80f06e5",
+    "trader_name": "olinokune",
+    "tag": "Overall",
+    "overall_gain": 1634.7,
+    "active_positions": 1,
+    "win_amount": 1694.22,
+    "loss_amount": -59.519999999999996,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 46615,
+    "trader_tags": "< 30 days old"
   }
 ]
