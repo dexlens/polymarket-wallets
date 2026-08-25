@@ -510,5 +510,21 @@
     "win_count": 5,
     "rank": 15232,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x87439f6497bfe1da5d3e6b9efc66c7d99bbdf541",
+    "trader_name": "Mdomus",
+    "tag": "Overall",
+    "overall_gain": 6375.012000000001,
+    "active_positions": 1,
+    "win_amount": 6416.872,
+    "loss_amount": -41.8599999999999,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 544.1800000000001,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 15233,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
