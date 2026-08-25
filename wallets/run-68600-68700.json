@@ -1278,5 +1278,21 @@
     "win_count": 3,
     "rank": 68681,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x856d8c533da17cc9667112254c36b27cb7c62223",
+    "trader_name": "BasedM",
+    "tag": "Overall",
+    "overall_gain": 843.2899841976853,
+    "active_positions": 18,
+    "win_amount": 1033.80338270719,
+    "loss_amount": -190.513398509505,
+    "win_rate": 0.7017543859649122,
+    "total_current_value": 21.296655,
+    "total_positions": 150,
+    "event_ct": 114,
+    "win_count": 80,
+    "rank": 68682,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
