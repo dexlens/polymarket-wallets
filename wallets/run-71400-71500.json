@@ -1502,5 +1502,21 @@
     "win_count": 11,
     "rank": 71495,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x22fcb563e0a5e2aca64732cc8a0c7a50c53b2db9",
+    "trader_name": "iraq",
+    "tag": "Overall",
+    "overall_gain": 777.5582271839328,
+    "active_positions": 32,
+    "win_amount": 7480.742682468117,
+    "loss_amount": -6703.184455284184,
+    "win_rate": 0.640625,
+    "total_current_value": 145.37447,
+    "total_positions": 73,
+    "event_ct": 64,
+    "win_count": 41,
+    "rank": 71496,
+    "trader_tags": ""
   }
 ]
