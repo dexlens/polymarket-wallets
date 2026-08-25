@@ -414,5 +414,21 @@
     "win_count": 45,
     "rank": 29027,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf20c4c948168f40a05717f15c388fa7ff3563305",
+    "trader_name": "DotAdd",
+    "tag": "Overall",
+    "overall_gain": 2944.544248014515,
+    "active_positions": 182,
+    "win_amount": 7732.753590238983,
+    "loss_amount": -4788.20934222447,
+    "win_rate": 0.7120418848167539,
+    "total_current_value": 536.3506695600001,
+    "total_positions": 399,
+    "event_ct": 382,
+    "win_count": 272,
+    "rank": 29028,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
