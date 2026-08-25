@@ -1342,5 +1342,21 @@
     "win_count": 10,
     "rank": 44685,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9f10b95d472fde360b62d23cd2cf34ac0d2bfd8d",
+    "trader_name": "muiopa",
+    "tag": "Overall",
+    "overall_gain": 1728.2331517745824,
+    "active_positions": 74,
+    "win_amount": 12740.447135541164,
+    "loss_amount": -11012.21398376658,
+    "win_rate": 0.6902654867256637,
+    "total_current_value": 54.9528754855,
+    "total_positions": 256,
+    "event_ct": 226,
+    "win_count": 156,
+    "rank": 44686,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
