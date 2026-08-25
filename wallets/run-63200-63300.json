@@ -1326,5 +1326,21 @@
     "win_count": 34,
     "rank": 63284,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0aa334f53bd7e39715130d4ca9cb0068b5b411af",
+    "trader_name": "Scaga",
+    "tag": "Overall",
+    "overall_gain": 993.7320000000002,
+    "active_positions": 4,
+    "win_amount": 1908.1820000000002,
+    "loss_amount": -914.45,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 114.81,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 63285,
+    "trader_tags": ""
   }
 ]
