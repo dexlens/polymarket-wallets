@@ -174,5 +174,21 @@
     "win_count": 589,
     "rank": 8311,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x1eddefe25677495546fe638b8ee13aa6a61df380",
+    "trader_name": "trgtfgb",
+    "tag": "Overall",
+    "overall_gain": 12641.707600000003,
+    "active_positions": 1,
+    "win_amount": 14539.361600000004,
+    "loss_amount": -1897.654,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 29,
+    "total_positions": 53,
+    "event_ct": 45,
+    "win_count": 24,
+    "rank": 8312,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
