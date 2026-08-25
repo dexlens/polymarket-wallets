@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 16062,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x31e0aed0e3fd03ad8916ff1867a09bacb43294b0",
+    "trader_name": "Bookies89",
+    "tag": "Overall",
+    "overall_gain": 5972.382447650102,
+    "active_positions": 2,
+    "win_amount": 7858.139517277264,
+    "loss_amount": -1885.757069627161,
+    "win_rate": 0.8,
+    "total_current_value": 0.04160699999999999,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 16063,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
