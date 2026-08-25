@@ -718,5 +718,21 @@
     "win_count": 234,
     "rank": 36646,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x17cbed2663220473e955435261cd2ced4f7b8f50",
+    "trader_name": "klong",
+    "tag": "Overall",
+    "overall_gain": 2215.199668882528,
+    "active_positions": 1,
+    "win_amount": 2255.199634882528,
+    "loss_amount": -39.999966,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.002528,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 36647,
+    "trader_tags": "> 1 year old"
   }
 ]
