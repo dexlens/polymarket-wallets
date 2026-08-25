@@ -1150,5 +1150,21 @@
     "win_count": 14,
     "rank": 9372,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x73a8e0e229a466e80147293be209cf27ff305506",
+    "trader_name": "DandyDino1967",
+    "tag": "Overall",
+    "overall_gain": 11180.962209078689,
+    "active_positions": 6,
+    "win_amount": 17989.522425928688,
+    "loss_amount": -6808.560216849999,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 16240.5266339775,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 9373,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
