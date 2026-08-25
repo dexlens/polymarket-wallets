@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 74145,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x43b8c53cab434937fc303167b03e47d9259069f2",
+    "trader_name": "badweather",
+    "tag": "Overall",
+    "overall_gain": 726.4986756274419,
+    "active_positions": 5,
+    "win_amount": 1235.266271627442,
+    "loss_amount": -508.767596,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 697.543273,
+    "total_positions": 26,
+    "event_ct": 22,
+    "win_count": 16,
+    "rank": 74146,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
