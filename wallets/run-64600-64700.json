@@ -526,5 +526,21 @@
     "win_count": 8,
     "rank": 64634,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7b23e5d73677117daee7554b90ce20b6e9a3fe31",
+    "trader_name": "0xcidy",
+    "tag": "Overall",
+    "overall_gain": 955.357474553688,
+    "active_positions": 13,
+    "win_amount": 1543.2529510272402,
+    "loss_amount": -587.895476473552,
+    "win_rate": 0.7195121951219512,
+    "total_current_value": 1582.1561451310006,
+    "total_positions": 90,
+    "event_ct": 82,
+    "win_count": 59,
+    "rank": 64635,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
