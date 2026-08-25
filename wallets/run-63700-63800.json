@@ -1470,5 +1470,21 @@
     "win_count": 41,
     "rank": 63793,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71e2a6fc82f75c7e613b83202f00e610f0c54f07",
+    "trader_name": "mrnone",
+    "tag": "Overall",
+    "overall_gain": 979.41324590959,
+    "active_positions": 0,
+    "win_amount": 979.41324590959,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00959,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 63794,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
