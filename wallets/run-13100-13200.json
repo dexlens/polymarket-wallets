@@ -1534,5 +1534,21 @@
     "win_count": 5,
     "rank": 13196,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5d55e3cf7a108e462186bedb04e090d4cd033bdf",
+    "trader_name": "shelly12",
+    "tag": "Overall",
+    "overall_gain": 7601.30796175,
+    "active_positions": 1,
+    "win_amount": 7601.30796175,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 15988.17,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 13197,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
