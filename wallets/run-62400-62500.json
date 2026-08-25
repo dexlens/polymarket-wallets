@@ -126,5 +126,21 @@
     "win_count": 1,
     "rank": 62409,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x390f02a53b6207fb0f180b554e860d841f5e357b",
+    "trader_name": "ISLAND9527",
+    "tag": "Overall",
+    "overall_gain": 1011.8972244941142,
+    "active_positions": 23,
+    "win_amount": 4721.640119370058,
+    "loss_amount": -3709.7428948759452,
+    "win_rate": 0.8523002421307506,
+    "total_current_value": 104.38697438000003,
+    "total_positions": 7308,
+    "event_ct": 6195,
+    "win_count": 5280,
+    "rank": 62410,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
