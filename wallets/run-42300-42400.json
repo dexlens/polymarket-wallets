@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 42371,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f3c41545a7c62635ed0077db46cc038698be863",
+    "trader_name": "dr-croco",
+    "tag": "Overall",
+    "overall_gain": 1856.2927575925407,
+    "active_positions": 8,
+    "win_amount": 2747.067821647116,
+    "loss_amount": -890.7750640545759,
+    "win_rate": 0.3,
+    "total_current_value": 0.27513736999999994,
+    "total_positions": 143,
+    "event_ct": 70,
+    "win_count": 21,
+    "rank": 42372,
+    "trader_tags": ""
   }
 ]
