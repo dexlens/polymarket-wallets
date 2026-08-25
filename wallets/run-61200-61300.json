@@ -1310,5 +1310,21 @@
     "win_count": 4,
     "rank": 61283,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74b3d391e9610b1d72008d13248a392461a8490e",
+    "trader_name": "mzaa",
+    "tag": "Overall",
+    "overall_gain": 1040.379197540456,
+    "active_positions": 0,
+    "win_amount": 8090.891938027209,
+    "loss_amount": -7050.5127404867535,
+    "win_rate": 0.45161290322580644,
+    "total_current_value": 0.033726000000000006,
+    "total_positions": 37,
+    "event_ct": 31,
+    "win_count": 14,
+    "rank": 61284,
+    "trader_tags": "> 1 year old"
   }
 ]
