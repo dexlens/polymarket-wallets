@@ -1582,5 +1582,21 @@
     "win_count": 4,
     "rank": 78900,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91eb833d49afea71cca334bd3c2e66d8cc741cad",
+    "trader_name": "LBergold",
+    "tag": "Overall",
+    "overall_gain": 649.3824821438241,
+    "active_positions": 0,
+    "win_amount": 1073.06592688782,
+    "loss_amount": -423.683444743996,
+    "win_rate": 0.5,
+    "total_current_value": 0.007663,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 78901,
+    "trader_tags": "> 1 year old"
   }
 ]
