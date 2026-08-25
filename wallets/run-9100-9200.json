@@ -606,5 +606,21 @@
     "win_count": 68,
     "rank": 9138,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd7c428447c50431f4087f98e0c3fa96e5cfbea4d",
+    "trader_name": "kkj1",
+    "tag": "Overall",
+    "overall_gain": 11472,
+    "active_positions": 0,
+    "win_amount": 11472,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 9139,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
