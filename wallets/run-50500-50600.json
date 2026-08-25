@@ -654,5 +654,21 @@
     "win_count": 7,
     "rank": 50542,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4c7808ce2c444f763138c9dd7a5496e4d52f9cb6",
+    "trader_name": "FhIwd265ofmag1",
+    "tag": "Overall",
+    "overall_gain": 1460.239258,
+    "active_positions": 2,
+    "win_amount": 2307.839258,
+    "loss_amount": -847.6,
+    "win_rate": 0.75,
+    "total_current_value": 4.629,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 50543,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
