@@ -1118,5 +1118,21 @@
     "win_count": 4,
     "rank": 16270,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x24d04df4d84321066a68e28359473e8c3fcee10f",
+    "trader_name": "QuillQuester",
+    "tag": "Overall",
+    "overall_gain": 5878.9,
+    "active_positions": 2,
+    "win_amount": 6946.9,
+    "loss_amount": -1068,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 16271,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
