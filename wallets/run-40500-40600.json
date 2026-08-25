@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 40570,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x69ed8f0f9de9d90e80fc7bca6db2b3f36468e937",
+    "trader_name": "DVD-sdot",
+    "tag": "Overall",
+    "overall_gain": 1961.7548,
+    "active_positions": 1,
+    "win_amount": 2267.6000000000004,
+    "loss_amount": -305.84520000000003,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 40571,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
