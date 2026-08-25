@@ -1582,5 +1582,21 @@
     "win_count": 16,
     "rank": 26300,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x89e91751be76642db64b01934d4286f3d9de602f",
+    "trader_name": "financelosser",
+    "tag": "Overall",
+    "overall_gain": 3322.7595280000014,
+    "active_positions": 0,
+    "win_amount": 4250.810944999999,
+    "loss_amount": -928.0514170000001,
+    "win_rate": 0.733102253032929,
+    "total_current_value": 0,
+    "total_positions": 1154,
+    "event_ct": 577,
+    "win_count": 423,
+    "rank": 26301,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
