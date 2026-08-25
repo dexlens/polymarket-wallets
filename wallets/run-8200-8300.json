@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 8299,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x581d4108ba018d56e573f424c2971c16efe1b2e3",
+    "trader_name": "Krass",
+    "tag": "Overall",
+    "overall_gain": 12657.984641920535,
+    "active_positions": 123,
+    "win_amount": 25515.410662615057,
+    "loss_amount": -12857.426020694516,
+    "win_rate": 0.7516339869281046,
+    "total_current_value": 58197.24491356049,
+    "total_positions": 900,
+    "event_ct": 459,
+    "win_count": 345,
+    "rank": 8300,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
