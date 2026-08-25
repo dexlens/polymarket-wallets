@@ -110,5 +110,21 @@
     "win_count": 19,
     "rank": 61108,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xac5cfb5d76db524c070b2ab1412ca684cd1e7b5b",
+    "trader_name": "boatswain-m",
+    "tag": "Overall",
+    "overall_gain": 1044.872698687309,
+    "active_positions": 4,
+    "win_amount": 1803.250541952517,
+    "loss_amount": -758.377843265208,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 16230.565071679499,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 2,
+    "rank": 61109,
+    "trader_tags": "< 30 days old"
   }
 ]
