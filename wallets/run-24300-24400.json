@@ -1582,5 +1582,21 @@
     "win_count": 8,
     "rank": 24400,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x69d5d72b3a275b401bbde023b8c857bfe1f5e38e",
+    "trader_name": "acdui",
+    "tag": "Overall",
+    "overall_gain": 3645.941904177201,
+    "active_positions": 48,
+    "win_amount": 16586.083247454986,
+    "loss_amount": -12940.141343277784,
+    "win_rate": 0.41745283018867924,
+    "total_current_value": 133.88578600000002,
+    "total_positions": 858,
+    "event_ct": 848,
+    "win_count": 354,
+    "rank": 24401,
+    "trader_tags": "< 30 days old"
   }
 ]
