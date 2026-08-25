@@ -1102,5 +1102,21 @@
     "win_count": 31,
     "rank": 67070,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x590cf7a1339bdec0933b05e3fd6582ce846af0de",
+    "trader_name": "coffeecali",
+    "tag": "Overall",
+    "overall_gain": 887.0490308620714,
+    "active_positions": 15,
+    "win_amount": 1620.6641778495548,
+    "loss_amount": -733.6151469874839,
+    "win_rate": 0.988050784167289,
+    "total_current_value": 95.979805,
+    "total_positions": 1339,
+    "event_ct": 1339,
+    "win_count": 1323,
+    "rank": 67071,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
