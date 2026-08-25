@@ -1198,5 +1198,21 @@
     "win_count": 5,
     "rank": 17975,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58bcd90da7c9f5a9b0bbdbacdba9d594190b1fdb",
+    "trader_name": "Bok34",
+    "tag": "Overall",
+    "overall_gain": 5192.34874461416,
+    "active_positions": 4,
+    "win_amount": 5968.995233194585,
+    "loss_amount": -776.6464885804261,
+    "win_rate": 0.4421052631578947,
+    "total_current_value": 160.06009500000002,
+    "total_positions": 146,
+    "event_ct": 95,
+    "win_count": 42,
+    "rank": 17976,
+    "trader_tags": ""
   }
 ]
