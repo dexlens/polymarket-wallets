@@ -638,5 +638,21 @@
     "win_count": 15,
     "rank": 8240,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6ddc6559313bcc819f1df1b3647f3930da998ee",
+    "trader_name": "DonMegalodon",
+    "tag": "Overall",
+    "overall_gain": 12774.088559232776,
+    "active_positions": 274,
+    "win_amount": 22848.972541462663,
+    "loss_amount": -10074.883982229887,
+    "win_rate": 0.37083993660855785,
+    "total_current_value": 750.9328899999999,
+    "total_positions": 2654,
+    "event_ct": 631,
+    "win_count": 234,
+    "rank": 8241,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
