@@ -1390,5 +1390,21 @@
     "win_count": 4,
     "rank": 52288,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x81100229224b2d7f96012a07b58f9348a6dac1ba",
+    "trader_name": "Aclimatao",
+    "tag": "Overall",
+    "overall_gain": 1379.4842959152543,
+    "active_positions": 11,
+    "win_amount": 6343.7938076178,
+    "loss_amount": -4964.309511702542,
+    "win_rate": 0.8726708074534162,
+    "total_current_value": 2151.539944807,
+    "total_positions": 406,
+    "event_ct": 322,
+    "win_count": 281,
+    "rank": 52289,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
