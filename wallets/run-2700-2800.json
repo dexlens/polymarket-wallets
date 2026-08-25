@@ -1470,5 +1470,21 @@
     "win_count": 11,
     "rank": 2792,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x78c54ecbe85c945b8f366aee36db5be8f6ebc09f",
+    "trader_name": "jirobas",
+    "tag": "Overall",
+    "overall_gain": 41494.960152916836,
+    "active_positions": 32,
+    "win_amount": 51570.96001691903,
+    "loss_amount": -10075.99986400219,
+    "win_rate": 0.44,
+    "total_current_value": 22.549013000000002,
+    "total_positions": 50,
+    "event_ct": 50,
+    "win_count": 22,
+    "rank": 2793,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
