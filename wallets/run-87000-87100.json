@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 87094,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x78f1390ac0e52cbdcbdcaafe315240f25f347416",
+    "trader_name": "jusate",
+    "tag": "Overall",
+    "overall_gain": 524.5116974465141,
+    "active_positions": 3,
+    "win_amount": 585.088360244014,
+    "loss_amount": -60.576662797500006,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 592.8342746325,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 15,
+    "rank": 87095,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
