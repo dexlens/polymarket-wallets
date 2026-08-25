@@ -286,5 +286,21 @@
     "win_count": 5,
     "rank": 54719,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xff43796be35952dc7ee419baa1bb1a4d7fe95911",
+    "trader_name": "hueiis",
+    "tag": "Overall",
+    "overall_gain": 1271.160481110065,
+    "active_positions": 4,
+    "win_amount": 1272.176984434055,
+    "loss_amount": -1.0165033239900003,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 27.135885475000002,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 54720,
+    "trader_tags": "< 30 days old"
   }
 ]
