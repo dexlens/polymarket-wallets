@@ -286,5 +286,21 @@
     "win_count": 18,
     "rank": 6518,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x700c071fb9178b3847270bad258af0b750ee9368",
+    "trader_name": "branman",
+    "tag": "Overall",
+    "overall_gain": 16446.879978175006,
+    "active_positions": 1,
+    "win_amount": 32477.1666301075,
+    "loss_amount": -16030.28665193249,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 0.246643392,
+    "total_positions": 156,
+    "event_ct": 120,
+    "win_count": 64,
+    "rank": 6519,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
