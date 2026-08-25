@@ -942,5 +942,21 @@
     "win_count": 6,
     "rank": 35660,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe196f409e71330371e9b9b7a4e09596ac04a0ab5",
+    "trader_name": "FlashTradeOracle",
+    "tag": "Overall",
+    "overall_gain": 2289.5332339979395,
+    "active_positions": 776,
+    "win_amount": 3400.4450376630584,
+    "loss_amount": -1110.9118036651191,
+    "win_rate": 0.8484848484848485,
+    "total_current_value": 27091.449242731,
+    "total_positions": 2962,
+    "event_ct": 726,
+    "win_count": 616,
+    "rank": 35661,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
