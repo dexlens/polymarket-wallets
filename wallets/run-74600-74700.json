@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 74613,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8608933b11d4f8066a5f75bf67d3f9881961c1bc",
+    "trader_name": "heeja",
+    "tag": "Overall",
+    "overall_gain": 720.0069471174021,
+    "active_positions": 1,
+    "win_amount": 752.9069471174021,
+    "loss_amount": -32.9,
+    "win_rate": 0.8,
+    "total_current_value": 0.012737,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 74614,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
