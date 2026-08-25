@@ -1102,5 +1102,21 @@
     "win_count": 47,
     "rank": 6769,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x669acdd85fe15e269b944a14548ba8bf22fddd31",
+    "trader_name": "gamba1",
+    "tag": "Overall",
+    "overall_gain": 15846.007309165545,
+    "active_positions": 3,
+    "win_amount": 25095.350628867054,
+    "loss_amount": -9249.343319701511,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.028029,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 6770,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
