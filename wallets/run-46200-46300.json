@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 46271,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08597394dd9f3543341e7367e2f7ecda0a96caec",
+    "trader_name": "zxcvbn8",
+    "tag": "Overall",
+    "overall_gain": 1653.501243630783,
+    "active_positions": 18,
+    "win_amount": 5170.571241,
+    "loss_amount": -3517.0699973692167,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 45,
+    "event_ct": 45,
+    "win_count": 27,
+    "rank": 46272,
+    "trader_tags": "> 1 year old"
   }
 ]
