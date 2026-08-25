@@ -414,5 +414,21 @@
     "win_count": 4,
     "rank": 33227,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5c40180a368badd76f26b7361278af1c34b84a5e",
+    "trader_name": "Engsuppdir",
+    "tag": "Overall",
+    "overall_gain": 2486.873843187795,
+    "active_positions": 0,
+    "win_amount": 2486.873843187795,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.013774999999999999,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 33228,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
