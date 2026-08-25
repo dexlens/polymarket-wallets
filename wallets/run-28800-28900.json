@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 28845,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x94ff5ec9437f13f8a1c5520c022329ceebc498eb",
+    "trader_name": "dkpoly",
+    "tag": "Overall",
+    "overall_gain": 2967.7800584140023,
+    "active_positions": 3,
+    "win_amount": 3753.267037486681,
+    "loss_amount": -785.4869790726789,
+    "win_rate": 0.5,
+    "total_current_value": 0.004148,
+    "total_positions": 13,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 28846,
+    "trader_tags": "> 1 year old; 67%+ Positions in US Election "
   }
 ]
