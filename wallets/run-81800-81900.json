@@ -334,5 +334,21 @@
     "win_count": 24,
     "rank": 81822,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xaf70008ebdb283aaee8af860a57c16eccbd7f957",
+    "trader_name": "Bullspread",
+    "tag": "Overall",
+    "overall_gain": 600.8157569450188,
+    "active_positions": 0,
+    "win_amount": 624.876323997,
+    "loss_amount": -24.060567051981,
+    "win_rate": 0.7894736842105263,
+    "total_current_value": 0.096196097,
+    "total_positions": 100,
+    "event_ct": 76,
+    "win_count": 60,
+    "rank": 81823,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
