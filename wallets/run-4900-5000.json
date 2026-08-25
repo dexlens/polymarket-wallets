@@ -510,5 +510,21 @@
     "win_count": 165,
     "rank": 4932,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x11e343f7ba51b34b9591b1f47993db199728f94f",
+    "trader_name": "Tristad",
+    "tag": "Overall",
+    "overall_gain": 21995.046446000004,
+    "active_positions": 0,
+    "win_amount": 22201.386446,
+    "loss_amount": -206.34,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 4933,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
