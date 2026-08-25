@@ -1406,5 +1406,21 @@
     "win_count": 3,
     "rank": 41089,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x15f218eef190b2219053ed49ddaaa3e78ddf971f",
+    "trader_name": "dQuop",
+    "tag": "Overall",
+    "overall_gain": 1929.65,
+    "active_positions": 0,
+    "win_amount": 1929.65,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 41090,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
