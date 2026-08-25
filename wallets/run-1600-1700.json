@@ -686,5 +686,21 @@
     "win_count": 7,
     "rank": 1643,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e00ce71d933fd3ad48928911ef95c7327c8d1ff",
+    "trader_name": "luckyAugust1975",
+    "tag": "Overall",
+    "overall_gain": 74484.89581828522,
+    "active_positions": 83,
+    "win_amount": 77038.69067909951,
+    "loss_amount": -2553.7948608142856,
+    "win_rate": 0.19607843137254902,
+    "total_current_value": 55.800951000000005,
+    "total_positions": 113,
+    "event_ct": 102,
+    "win_count": 20,
+    "rank": 1644,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
