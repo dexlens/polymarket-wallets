@@ -654,5 +654,21 @@
     "win_count": 20,
     "rank": 26242,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3fbd7a5738d11f1c3bb9903f7d6bbdfa427b0cd0",
+    "trader_name": "rosezhang",
+    "tag": "Overall",
+    "overall_gain": 3332.4458914868837,
+    "active_positions": 2,
+    "win_amount": 3872.4443544868836,
+    "loss_amount": -539.998463,
+    "win_rate": 0.75,
+    "total_current_value": 503.49975444999995,
+    "total_positions": 23,
+    "event_ct": 20,
+    "win_count": 15,
+    "rank": 26243,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
