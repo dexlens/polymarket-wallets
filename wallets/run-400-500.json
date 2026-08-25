@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 490,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election ; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x7485d661b858b117a66e1b4fcbecfaea87ac1393",
+    "trader_name": "1TickWonder2",
+    "tag": "Overall",
+    "overall_gain": 259290.88795591707,
+    "active_positions": 406,
+    "win_amount": 648508.9743368549,
+    "loss_amount": -389218.0863809374,
+    "win_rate": 0.5592172145035581,
+    "total_current_value": 0.14,
+    "total_positions": 22659,
+    "event_ct": 11804,
+    "win_count": 6601,
+    "rank": 491,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
