@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 47080,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf6cc02c83da272a8f0b715a66a86e2d7452cd0b4",
+    "trader_name": "candy1",
+    "tag": "Overall",
+    "overall_gain": 1613.027773306113,
+    "active_positions": 0,
+    "win_amount": 1613.050826327171,
+    "loss_amount": -0.023053021058,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.017378,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 47081,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
