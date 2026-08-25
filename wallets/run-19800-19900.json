@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 19899,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59c988b35bd1d07088ac93031e7fa12cf92ff283",
+    "trader_name": "Chthoanic",
+    "tag": "Overall",
+    "overall_gain": 4653.5,
+    "active_positions": 1,
+    "win_amount": 5064.5,
+    "loss_amount": -411,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 19900,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
