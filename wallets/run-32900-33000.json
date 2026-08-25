@@ -1502,5 +1502,21 @@
     "win_count": 27,
     "rank": 32995,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x092520d61e1883b1e5a2a65fe7d9e8983a67077a",
+    "trader_name": "lin-lin",
+    "tag": "Overall",
+    "overall_gain": 2505.315387289472,
+    "active_positions": 1,
+    "win_amount": 4097.214814289472,
+    "loss_amount": -1591.899427,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 904.595039,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 32996,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
