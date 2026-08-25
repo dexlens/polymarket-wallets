@@ -1326,5 +1326,21 @@
     "win_count": 15,
     "rank": 3883,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa0c37cb0587b0dd1542f794bcfa345762bba5b9a",
+    "trader_name": "kukubaja",
+    "tag": "Overall",
+    "overall_gain": 29140.128733735608,
+    "active_positions": 16,
+    "win_amount": 56431.88217298977,
+    "loss_amount": -27291.753439254164,
+    "win_rate": 0.7946768060836502,
+    "total_current_value": 32959.148285653006,
+    "total_positions": 531,
+    "event_ct": 263,
+    "win_count": 209,
+    "rank": 3884,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
