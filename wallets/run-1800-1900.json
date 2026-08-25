@@ -1470,5 +1470,21 @@
     "win_count": 56,
     "rank": 1892,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x028f0762a67dd4df3cbfd71f05dc6c579a71f5ab",
+    "trader_name": "Besiege",
+    "tag": "Overall",
+    "overall_gain": 64130.63261366824,
+    "active_positions": 27,
+    "win_amount": 269832.2749258597,
+    "loss_amount": -205701.6423121916,
+    "win_rate": 0.7380952380952381,
+    "total_current_value": 0.189298,
+    "total_positions": 623,
+    "event_ct": 210,
+    "win_count": 155,
+    "rank": 1893,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
