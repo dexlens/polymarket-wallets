@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 31349,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67028df0a5d5a3bec42130ec15fe7c89b1433a05",
+    "trader_name": "cold2",
+    "tag": "Overall",
+    "overall_gain": 2665.955945523781,
+    "active_positions": 0,
+    "win_amount": 2965.955945523781,
+    "loss_amount": -300,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.005504,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 31350,
+    "trader_tags": "> 1 year old"
   }
 ]
