@@ -1086,5 +1086,21 @@
     "win_count": 3,
     "rank": 30769,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57179f3d2850f236b033b7a1da25d43f34ff1842",
+    "trader_name": "MMM99",
+    "tag": "Overall",
+    "overall_gain": 2727.0242877034716,
+    "active_positions": 1,
+    "win_amount": 2826.72,
+    "loss_amount": -99.69571229652799,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 30770,
+    "trader_tags": ""
   }
 ]
