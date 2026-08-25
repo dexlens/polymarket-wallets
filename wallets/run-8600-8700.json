@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 8679,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x154ab7f1cdc467996404747ebdd5277a4baba903",
+    "trader_name": "greyireland",
+    "tag": "Overall",
+    "overall_gain": 12079.76608118709,
+    "active_positions": 67,
+    "win_amount": 14913.975748793508,
+    "loss_amount": -2834.20966760641,
+    "win_rate": 0.8561872909698997,
+    "total_current_value": 1011.968658869,
+    "total_positions": 479,
+    "event_ct": 299,
+    "win_count": 256,
+    "rank": 8680,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
