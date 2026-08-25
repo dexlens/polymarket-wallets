@@ -638,5 +638,21 @@
     "win_count": 13,
     "rank": 8740,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x73fcc50c21c4b429bab9fb82a2d13df3a9ca334e",
+    "trader_name": "otwo2",
+    "tag": "Overall",
+    "overall_gain": 11998.401887000002,
+    "active_positions": 0,
+    "win_amount": 18005.479647,
+    "loss_amount": -6007.07776,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0,
+    "total_positions": 90,
+    "event_ct": 21,
+    "win_count": 9,
+    "rank": 8741,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
