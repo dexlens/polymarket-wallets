@@ -1278,5 +1278,21 @@
     "win_count": 12,
     "rank": 5880,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7fa9fbee349b9ac4c48fbc36ec947eff68e2846c",
+    "trader_name": "NSYGG",
+    "tag": "Overall",
+    "overall_gain": 18281.872264414138,
+    "active_positions": 0,
+    "win_amount": 18894.769804940115,
+    "loss_amount": -612.897540525978,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.036635,
+    "total_positions": 16,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 5881,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
