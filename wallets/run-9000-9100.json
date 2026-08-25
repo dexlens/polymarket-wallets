@@ -1550,5 +1550,21 @@
     "win_count": 31,
     "rank": 9097,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x11ee2a3a2023fa9a926227b44c41eeb5ba9985fe",
+    "trader_name": "RAZ",
+    "tag": "Overall",
+    "overall_gain": 11516.469049990144,
+    "active_positions": 27,
+    "win_amount": 33131.214587436756,
+    "loss_amount": -21614.74553744661,
+    "win_rate": 0.2878787878787879,
+    "total_current_value": 439.42464506449994,
+    "total_positions": 77,
+    "event_ct": 66,
+    "win_count": 19,
+    "rank": 9098,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
