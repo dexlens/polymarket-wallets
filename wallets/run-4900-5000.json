@@ -1438,5 +1438,21 @@
     "win_count": 2,
     "rank": 4990,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ef281289c5a7958deec0d5f30cef92273309d0d",
+    "trader_name": "maggie0516",
+    "tag": "Overall",
+    "overall_gain": 21699.55491,
+    "active_positions": 5,
+    "win_amount": 36981.956,
+    "loss_amount": -15282.40109,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 4991,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
