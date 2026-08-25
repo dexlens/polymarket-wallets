@@ -574,5 +574,21 @@
     "win_count": 1,
     "rank": 40037,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8da938375df6c8cdef31522237e78499f249a537",
+    "trader_name": "SarahWashing",
+    "tag": "Overall",
+    "overall_gain": 1992.7497312467467,
+    "active_positions": 56,
+    "win_amount": 17492.68049004675,
+    "loss_amount": -15499.9307588,
+    "win_rate": 0.6016260162601627,
+    "total_current_value": 9.053335999999998,
+    "total_positions": 124,
+    "event_ct": 123,
+    "win_count": 74,
+    "rank": 40038,
+    "trader_tags": ""
   }
 ]
