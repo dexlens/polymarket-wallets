@@ -606,5 +606,21 @@
     "win_count": 20,
     "rank": 16538,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x7aa74ec219979644ed9192be7ad9b2ca0115ff1b",
+    "trader_name": "AllDayAllNight",
+    "tag": "Overall",
+    "overall_gain": 5761.27975185226,
+    "active_positions": 76,
+    "win_amount": 10124.268893999999,
+    "loss_amount": -4362.989142147737,
+    "win_rate": 0.8780864197530864,
+    "total_current_value": 0,
+    "total_positions": 654,
+    "event_ct": 648,
+    "win_count": 569,
+    "rank": 16539,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
