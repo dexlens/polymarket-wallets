@@ -206,5 +206,21 @@
     "win_count": 31,
     "rank": 3713,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x78813bcf6f6876e892ec193e0cdb159fbe734568",
+    "trader_name": "Fl4256",
+    "tag": "Overall",
+    "overall_gain": 30705.310440186146,
+    "active_positions": 2,
+    "win_amount": 43625.41308159911,
+    "loss_amount": -12920.10264141295,
+    "win_rate": 0.6129032258064516,
+    "total_current_value": 0.12237700000000001,
+    "total_positions": 90,
+    "event_ct": 31,
+    "win_count": 19,
+    "rank": 3714,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
