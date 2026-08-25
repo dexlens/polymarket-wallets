@@ -366,5 +366,21 @@
     "win_count": 7,
     "rank": 23423,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef2d36dfb1c83c2b64baf306e0c9438271032a45",
+    "trader_name": "PF100X",
+    "tag": "Overall",
+    "overall_gain": 3834.969403913051,
+    "active_positions": 1,
+    "win_amount": 3844.969368960294,
+    "loss_amount": -9.999965047243,
+    "win_rate": 0.5,
+    "total_current_value": 0.009721,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 23424,
+    "trader_tags": "> 1 year old"
   }
 ]
