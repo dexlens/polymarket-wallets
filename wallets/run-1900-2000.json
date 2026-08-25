@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 1987,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x31fc1ea26a74aafac1dc52289a86e919a9b44e30",
+    "trader_name": "SagiNahor",
+    "tag": "Overall",
+    "overall_gain": 60834.192252455745,
+    "active_positions": 13,
+    "win_amount": 83208.55798187014,
+    "loss_amount": -22374.36572941441,
+    "win_rate": 0.41025641025641024,
+    "total_current_value": 2091.21365321,
+    "total_positions": 137,
+    "event_ct": 78,
+    "win_count": 32,
+    "rank": 1988,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
