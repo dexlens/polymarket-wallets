@@ -686,5 +686,21 @@
     "win_count": 52,
     "rank": 22843,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x56b3dcc6bb69139b7a0c8066fe43195d82a44cd9",
+    "trader_name": "RazorComet",
+    "tag": "Overall",
+    "overall_gain": 3951.5,
+    "active_positions": 1,
+    "win_amount": 4263,
+    "loss_amount": -311.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 22844,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
