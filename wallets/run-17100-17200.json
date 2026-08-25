@@ -62,5 +62,21 @@
     "win_count": 20,
     "rank": 17104,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0a7e48047bfdece269cd3cc519af230b5cf155a0",
+    "trader_name": "daydreaming",
+    "tag": "Overall",
+    "overall_gain": 5506.738988645924,
+    "active_positions": 1,
+    "win_amount": 6026.922689658482,
+    "loss_amount": -520.1837010125589,
+    "win_rate": 0.8,
+    "total_current_value": 0.038666000000000006,
+    "total_positions": 22,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 17105,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
