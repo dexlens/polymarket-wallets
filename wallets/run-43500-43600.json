@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 43515,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ca9a42cb3aec6673cb4f3bec7a586518e33f70b",
+    "trader_name": "MarkHutt",
+    "tag": "Overall",
+    "overall_gain": 1793.3931882600002,
+    "active_positions": 1,
+    "win_amount": 2018.1026882600001,
+    "loss_amount": -224.7095,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 22.420874,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 43516,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
