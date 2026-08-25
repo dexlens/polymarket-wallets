@@ -1022,5 +1022,21 @@
     "win_count": 35,
     "rank": 34365,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe77afc6e144a8c75fa1af67ed406977b71ce75d",
+    "trader_name": "nypo",
+    "tag": "Overall",
+    "overall_gain": 2391.7182474044052,
+    "active_positions": 14,
+    "win_amount": 2809.216238,
+    "loss_amount": -417.497990595594,
+    "win_rate": 0.3,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 6,
+    "rank": 34366,
+    "trader_tags": ""
   }
 ]
