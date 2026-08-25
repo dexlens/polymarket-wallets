@@ -862,5 +862,21 @@
     "win_count": 21,
     "rank": 85355,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41ea33d2504525a14592a07c8833528ffdc218f9",
+    "trader_name": "PepeLolo",
+    "tag": "Overall",
+    "overall_gain": 547.283394373182,
+    "active_positions": 17,
+    "win_amount": 666.3270128093261,
+    "loss_amount": -119.04361843614399,
+    "win_rate": 0.2962962962962963,
+    "total_current_value": 0.01537,
+    "total_positions": 29,
+    "event_ct": 27,
+    "win_count": 8,
+    "rank": 85356,
+    "trader_tags": "> 1 year old"
   }
 ]
