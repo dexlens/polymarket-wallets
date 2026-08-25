@@ -126,5 +126,21 @@
     "win_count": 3,
     "rank": 38209,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1218a1565cc0aac2dbc0a9cdcf4d399b1819366b",
+    "trader_name": "solomony",
+    "tag": "Overall",
+    "overall_gain": 2104.960666060789,
+    "active_positions": 7,
+    "win_amount": 4492.771395940789,
+    "loss_amount": -2387.81072988,
+    "win_rate": 0.5806451612903226,
+    "total_current_value": 0.057123,
+    "total_positions": 65,
+    "event_ct": 62,
+    "win_count": 36,
+    "rank": 38210,
+    "trader_tags": "> 1 year old"
   }
 ]
