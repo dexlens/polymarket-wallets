@@ -590,5 +590,21 @@
     "win_count": 6,
     "rank": 21937,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4911c8914149cf8cfbceb6393dedcd1ffbfa59d9",
+    "trader_name": "CoDDS7ri1",
+    "tag": "Overall",
+    "overall_gain": 4134.758454674269,
+    "active_positions": 13,
+    "win_amount": 18480.25845467427,
+    "loss_amount": -14345.5,
+    "win_rate": 0.71875,
+    "total_current_value": 4.016419,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 23,
+    "rank": 21938,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
