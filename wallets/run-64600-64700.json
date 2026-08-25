@@ -1406,5 +1406,21 @@
     "win_count": 440,
     "rank": 64689,
     "trader_tags": "1k+ Positions"
+  },
+  {
+    "trader": "0x31768dbd689c5509e8709121a5d0823270d8d8cc",
+    "trader_name": "AssafAm",
+    "tag": "Overall",
+    "overall_gain": 954.0824563683091,
+    "active_positions": 0,
+    "win_amount": 1039.841628642596,
+    "loss_amount": -85.759172274287,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.03218,
+    "total_positions": 36,
+    "event_ct": 21,
+    "win_count": 18,
+    "rank": 64690,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
