@@ -1422,5 +1422,21 @@
     "win_count": 40,
     "rank": 26290,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc7eddfdf6e121cf6929b6357e883b00aaaeec296",
+    "trader_name": "ythjsm",
+    "tag": "Overall",
+    "overall_gain": 3324.553046383041,
+    "active_positions": 6,
+    "win_amount": 4325.481226383041,
+    "loss_amount": -1000.92818,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 53265.327015923,
+    "total_positions": 16,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 26291,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
