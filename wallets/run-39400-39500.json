@@ -302,5 +302,21 @@
     "win_count": 4,
     "rank": 39420,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2855eeff701562e21558d36d3dd28cbd739bafff",
+    "trader_name": "Tanguero",
+    "tag": "Overall",
+    "overall_gain": 2025.5487090206402,
+    "active_positions": 1,
+    "win_amount": 4861.966886260522,
+    "loss_amount": -2836.4181772398824,
+    "win_rate": 0.5824742268041238,
+    "total_current_value": 0.6573629999999999,
+    "total_positions": 601,
+    "event_ct": 194,
+    "win_count": 113,
+    "rank": 39421,
+    "trader_tags": "> 1 year old"
   }
 ]
