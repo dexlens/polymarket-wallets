@@ -1438,5 +1438,21 @@
     "win_count": 90,
     "rank": 60591,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x43db78cceb501817381c499e1683195adf8e133e",
+    "trader_name": "Johnson36",
+    "tag": "Overall",
+    "overall_gain": 1058.958290715762,
+    "active_positions": 10,
+    "win_amount": 1437.8462907157618,
+    "loss_amount": -378.88800000000003,
+    "win_rate": 0.7,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 60592,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
