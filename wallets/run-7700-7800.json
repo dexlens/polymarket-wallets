@@ -462,5 +462,21 @@
     "win_count": 7,
     "rank": 7729,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4481fbf69aa23f0a069c136d1c593676884672d0",
+    "trader_name": "asmodeus - 1197",
+    "tag": "Overall",
+    "overall_gain": 13660.817726365147,
+    "active_positions": 0,
+    "win_amount": 22669.36721763153,
+    "loss_amount": -9008.549491266389,
+    "win_rate": 0.6896551724137931,
+    "total_current_value": 0.8759330343596663,
+    "total_positions": 36,
+    "event_ct": 29,
+    "win_count": 20,
+    "rank": 7730,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
