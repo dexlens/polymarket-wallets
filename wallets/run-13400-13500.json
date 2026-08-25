@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 13448,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3cc501d94675f449c753be69232c162a987b5fcb",
+    "trader_name": "Mikey22",
+    "tag": "Overall",
+    "overall_gain": 7396.434350977441,
+    "active_positions": 46,
+    "win_amount": 24446.661237085023,
+    "loss_amount": -17050.226886107583,
+    "win_rate": 0.4342105263157895,
+    "total_current_value": 0.018132,
+    "total_positions": 80,
+    "event_ct": 76,
+    "win_count": 33,
+    "rank": 13449,
+    "trader_tags": "> 1 year old"
   }
 ]
