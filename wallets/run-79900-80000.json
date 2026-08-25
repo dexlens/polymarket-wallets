@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 79941,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0036cd93924519866eb561b75093933ab08f0770",
+    "trader_name": "kaethol",
+    "tag": "Overall",
+    "overall_gain": 631.4934170000001,
+    "active_positions": 0,
+    "win_amount": 1391.9770480000002,
+    "loss_amount": -760.4836309999998,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 79942,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
