@@ -622,5 +622,21 @@
     "win_count": 824,
     "rank": 6639,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x4f859b98d091fb78985aed9499ddbb320466bd8c",
+    "trader_name": "Angel21",
+    "tag": "Overall",
+    "overall_gain": 16168.31505922006,
+    "active_positions": 2,
+    "win_amount": 54242.71657964283,
+    "loss_amount": -38074.401520422776,
+    "win_rate": 0.54337899543379,
+    "total_current_value": 1484.1406626869998,
+    "total_positions": 233,
+    "event_ct": 219,
+    "win_count": 119,
+    "rank": 6640,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
