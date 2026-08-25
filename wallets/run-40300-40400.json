@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 40328,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3237dc616318809aa5b578650be44ceb2066a823",
+    "trader_name": "Mneonic",
+    "tag": "Overall",
+    "overall_gain": 1976.5,
+    "active_positions": 0,
+    "win_amount": 1976.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 40329,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
