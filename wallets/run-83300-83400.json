@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 83355,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8b594d5eefa1360db301f18dbbc01cdf77d61ecb",
+    "trader_name": "bitcrab",
+    "tag": "Overall",
+    "overall_gain": 576.574360244004,
+    "active_positions": 21,
+    "win_amount": 2196.1468684314577,
+    "loss_amount": -1619.572508187454,
+    "win_rate": 0.7948717948717948,
+    "total_current_value": 0.0009490000000000001,
+    "total_positions": 98,
+    "event_ct": 78,
+    "win_count": 62,
+    "rank": 83356,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
