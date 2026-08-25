@@ -558,5 +558,21 @@
     "win_count": 50,
     "rank": 3635,
     "trader_tags": "Overall PnL > $10k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x77875ad750547b92524257336699e599382e582d",
+    "trader_name": "loefah",
+    "tag": "Overall",
+    "overall_gain": 31354.658407,
+    "active_positions": 0,
+    "win_amount": 31354.658407,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0037,
+    "total_positions": 6,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 3636,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
