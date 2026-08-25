@@ -1262,5 +1262,21 @@
     "win_count": 4,
     "rank": 25080,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x2ab849615d4636f73b4f6f0acf8dfd59c7b76daa",
+    "trader_name": "kfrenxc",
+    "tag": "Overall",
+    "overall_gain": 3522.9482011180735,
+    "active_positions": 2,
+    "win_amount": 3645.9806011180735,
+    "loss_amount": -123.0324,
+    "win_rate": 0.9032258064516129,
+    "total_current_value": 159.074073,
+    "total_positions": 33,
+    "event_ct": 31,
+    "win_count": 28,
+    "rank": 25081,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
