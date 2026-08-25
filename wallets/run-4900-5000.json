@@ -766,5 +766,21 @@
     "win_count": 6,
     "rank": 4948,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70405d7b775f5b342b1bff47b52b01dc2c1781fa",
+    "trader_name": "KRIS93",
+    "tag": "Overall",
+    "overall_gain": 21903.22226382342,
+    "active_positions": 113,
+    "win_amount": 37614.44862425163,
+    "loss_amount": -15711.2263604282,
+    "win_rate": 0.26666666666666666,
+    "total_current_value": 6642.409115244499,
+    "total_positions": 227,
+    "event_ct": 90,
+    "win_count": 24,
+    "rank": 4949,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
