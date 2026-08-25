@@ -1422,5 +1422,21 @@
     "win_count": 16,
     "rank": 74590,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5cf6b60a3506bbf7da3f28c14525dfd7571e8efa",
+    "trader_name": "KEStrategies",
+    "tag": "Overall",
+    "overall_gain": 720.2574193414252,
+    "active_positions": 3,
+    "win_amount": 1018.2604936665002,
+    "loss_amount": -298.003074325075,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 1807.4459150000002,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 74591,
+    "trader_tags": ""
   }
 ]
