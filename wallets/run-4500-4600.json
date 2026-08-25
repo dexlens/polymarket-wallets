@@ -126,5 +126,21 @@
     "win_count": 8,
     "rank": 4508,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9897c9bbe6c7775ed3f682a32f4f0430673e503c",
+    "trader_name": "larontoylpw",
+    "tag": "Overall",
+    "overall_gain": 24415.719999999998,
+    "active_positions": 0,
+    "win_amount": 24415.719999999998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 4509,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
