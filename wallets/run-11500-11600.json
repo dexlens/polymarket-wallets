@@ -206,5 +206,21 @@
     "win_count": 76,
     "rank": 11513,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c266db0f8529b1f25b77123e9c0c918ac2f6e31",
+    "trader_name": "5atka",
+    "tag": "Overall",
+    "overall_gain": 9061.26454555716,
+    "active_positions": 2948,
+    "win_amount": 35412.49176471982,
+    "loss_amount": -26351.22721916265,
+    "win_rate": 0.5173894375268355,
+    "total_current_value": 56748.92476518149,
+    "total_positions": 5900,
+    "event_ct": 2329,
+    "win_count": 1205,
+    "rank": 11514,
+    "trader_tags": "1k+ Positions"
   }
 ]
