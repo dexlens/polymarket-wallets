@@ -270,5 +270,21 @@
     "win_count": 1,
     "rank": 5817,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7df61ca342c9b53ba9b4c60745718ed48a77ac3b",
+    "trader_name": "trashtier",
+    "tag": "Overall",
+    "overall_gain": 18510.55414629103,
+    "active_positions": 801,
+    "win_amount": 41680.26018496426,
+    "loss_amount": -23169.706038673226,
+    "win_rate": 0.6530194472876152,
+    "total_current_value": 12445.558594915,
+    "total_positions": 4193,
+    "event_ct": 1954,
+    "win_count": 1276,
+    "rank": 5818,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
