@@ -1582,5 +1582,21 @@
     "win_count": 6,
     "rank": 29300,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7f34cc7e46373a6e74022181a3de47065674d254",
+    "trader_name": "tylz",
+    "tag": "Overall",
+    "overall_gain": 2908.584464619082,
+    "active_positions": 0,
+    "win_amount": 2908.584464619082,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007382,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 29301,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
