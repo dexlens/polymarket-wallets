@@ -1182,5 +1182,21 @@
     "win_count": 15,
     "rank": 30175,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7eed3dcd157fe1b2e065a51c2757e090bcd00558",
+    "trader_name": "ColdWaypoint",
+    "tag": "Overall",
+    "overall_gain": 2801.2450000000003,
+    "active_positions": 2,
+    "win_amount": 3319.15,
+    "loss_amount": -517.9050000000001,
+    "win_rate": 0.6,
+    "total_current_value": 23.585,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 30176,
+    "trader_tags": ""
   }
 ]
