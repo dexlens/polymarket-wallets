@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 78694,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5072d862dafe98f90434e0dbe4c744a5aae60bb5",
+    "trader_name": "sleep16",
+    "tag": "Overall",
+    "overall_gain": 652.357208,
+    "active_positions": 2,
+    "win_amount": 652.357208,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 173.00010000000003,
+    "total_positions": 65,
+    "event_ct": 35,
+    "win_count": 35,
+    "rank": 78695,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
