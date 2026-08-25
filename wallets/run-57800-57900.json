@@ -1294,5 +1294,21 @@
     "win_count": 7,
     "rank": 57882,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x715fc1844849ca84212fc4cc1e5fb1a2c7d5ddd9",
+    "trader_name": "shiblano",
+    "tag": "Overall",
+    "overall_gain": 1147.4487850040177,
+    "active_positions": 11,
+    "win_amount": 25527.007301012305,
+    "loss_amount": -24379.558516008285,
+    "win_rate": 0.6703296703296703,
+    "total_current_value": 381.20246537500003,
+    "total_positions": 6799,
+    "event_ct": 4914,
+    "win_count": 3294,
+    "rank": 57883,
+    "trader_tags": "1k+ Positions"
   }
 ]
