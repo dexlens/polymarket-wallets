@@ -1358,5 +1358,21 @@
     "win_count": 6,
     "rank": 16385,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0c9075f0d9a0dfffef8a1baf03c65c41bad05bac",
+    "trader_name": "tombac",
+    "tag": "Overall",
+    "overall_gain": 5826.293384636224,
+    "active_positions": 14,
+    "win_amount": 6511.197381254465,
+    "loss_amount": -684.9039966182401,
+    "win_rate": 0.7,
+    "total_current_value": 14895.714706342998,
+    "total_positions": 37,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 16386,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
