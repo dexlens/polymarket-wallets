@@ -462,5 +462,21 @@
     "win_count": 6,
     "rank": 10229,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x404901527d3af94bcfdb84a62d7e0cb68cd5a418",
+    "trader_name": "SoulSpider",
+    "tag": "Overall",
+    "overall_gain": 10277.417431572603,
+    "active_positions": 4,
+    "win_amount": 10277.454034381273,
+    "loss_amount": -0.03660280867097754,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 257.34907542750005,
+    "total_positions": 34,
+    "event_ct": 17,
+    "win_count": 15,
+    "rank": 10230,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
