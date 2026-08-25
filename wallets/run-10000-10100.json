@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 10089,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x714b8a6e115fe36061a2b5922964b654b82a6c2f",
+    "trader_name": "benj002",
+    "tag": "Overall",
+    "overall_gain": 10406.19977999162,
+    "active_positions": 3,
+    "win_amount": 10592.053196148372,
+    "loss_amount": -185.8534161567511,
+    "win_rate": 0.5,
+    "total_current_value": 17731.384457235,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 10090,
+    "trader_tags": "< 30 days old"
   }
 ]
