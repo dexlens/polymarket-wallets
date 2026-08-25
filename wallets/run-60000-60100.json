@@ -1534,5 +1534,21 @@
     "win_count": 11,
     "rank": 60097,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9e28c93201f67d0d1f1ba04939755a37e4259c67",
+    "trader_name": "lostsoulplayer",
+    "tag": "Overall",
+    "overall_gain": 1073.489941,
+    "active_positions": 3,
+    "win_amount": 1132.9906299999998,
+    "loss_amount": -59.500689,
+    "win_rate": 0.8837209302325582,
+    "total_current_value": 31.490000000000002,
+    "total_positions": 45,
+    "event_ct": 43,
+    "win_count": 38,
+    "rank": 60098,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
