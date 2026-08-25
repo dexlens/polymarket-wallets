@@ -1198,5 +1198,21 @@
     "win_count": 14,
     "rank": 10175,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9deb0a57c9512ceda5ab8fa1f5142cfbcbff0165",
+    "trader_name": "lovesweet",
+    "tag": "Overall",
+    "overall_gain": 10323.013028140535,
+    "active_positions": 54,
+    "win_amount": 10382.50337448672,
+    "loss_amount": -59.49034634618302,
+    "win_rate": 0.5528455284552846,
+    "total_current_value": 0.6873816850000001,
+    "total_positions": 124,
+    "event_ct": 123,
+    "win_count": 68,
+    "rank": 10176,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
