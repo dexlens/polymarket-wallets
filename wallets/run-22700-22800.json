@@ -366,5 +366,21 @@
     "win_count": 4,
     "rank": 22723,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x83887d6eafb95ac07b218606fab3d8b16fa225db",
+    "trader_name": "Zevrodn",
+    "tag": "Overall",
+    "overall_gain": 3976.136,
+    "active_positions": 0,
+    "win_amount": 3976.136,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 22724,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
