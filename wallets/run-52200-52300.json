@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 52272,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42085f225c549e20043aced871b423813a53bb45",
+    "trader_name": "xcvswe",
+    "tag": "Overall",
+    "overall_gain": 1379.9502995980167,
+    "active_positions": 1,
+    "win_amount": 1431.250453639683,
+    "loss_amount": -51.300154041666005,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 0.06586491950000001,
+    "total_positions": 46,
+    "event_ct": 34,
+    "win_count": 16,
+    "rank": 52273,
+    "trader_tags": "> 1 year old"
   }
 ]
