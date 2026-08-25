@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 67317,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x69330a7148540d58239d67dbd524593287cd0f16",
+    "trader_name": "ChES",
+    "tag": "Overall",
+    "overall_gain": 880.2348764867187,
+    "active_positions": 43,
+    "win_amount": 1426.83495796067,
+    "loss_amount": -546.6000814739511,
+    "win_rate": 0.6463414634146342,
+    "total_current_value": 419.52724971950005,
+    "total_positions": 706,
+    "event_ct": 82,
+    "win_count": 53,
+    "rank": 67318,
+    "trader_tags": "> 1 year old"
   }
 ]
