@@ -302,5 +302,21 @@
     "win_count": 39,
     "rank": 5119,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3fb1533bb6c8e3116d966543beeb8afaee9d1d2d",
+    "trader_name": "MonaLisa",
+    "tag": "Overall",
+    "overall_gain": 21150.527496571074,
+    "active_positions": 1,
+    "win_amount": 25105.150694780023,
+    "loss_amount": -3954.623198208947,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.019977,
+    "total_positions": 27,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 5120,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
