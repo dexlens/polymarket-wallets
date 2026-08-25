@@ -126,5 +126,21 @@
     "win_count": 1,
     "rank": 45509,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9fd3cf74cbd9d3b931212cdbda746a9794443684",
+    "trader_name": "lgtnb24",
+    "tag": "Overall",
+    "overall_gain": 1690.1392000000005,
+    "active_positions": 1,
+    "win_amount": 3430.1392,
+    "loss_amount": -1739.9999999999998,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 45510,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
