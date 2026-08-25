@@ -1454,5 +1454,21 @@
     "win_count": 3,
     "rank": 60892,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3643564e3ab8e5ff90b422c0d2593b1b92351b93",
+    "trader_name": "bdr643256234req3",
+    "tag": "Overall",
+    "overall_gain": 1050.5,
+    "active_positions": 0,
+    "win_amount": 1050.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 60893,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
