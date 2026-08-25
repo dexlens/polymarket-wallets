@@ -1390,5 +1390,21 @@
     "win_count": 3,
     "rank": 77088,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe591207b6b178a760904ff1e5414d16965510f80",
+    "trader_name": "dk1",
+    "tag": "Overall",
+    "overall_gain": 680.4192711460021,
+    "active_positions": 1,
+    "win_amount": 695.341318925178,
+    "loss_amount": -14.922047779176001,
+    "win_rate": 0.75,
+    "total_current_value": 113.655946,
+    "total_positions": 12,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 77089,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
