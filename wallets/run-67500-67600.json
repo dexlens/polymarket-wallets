@@ -638,5 +638,21 @@
     "win_count": 64,
     "rank": 67541,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9027224243cb5865899c2e6a36bc0f39154701fc",
+    "trader_name": "saniksin",
+    "tag": "Overall",
+    "overall_gain": 873.9523935286479,
+    "active_positions": 2,
+    "win_amount": 873.9523935286479,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 67542,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
