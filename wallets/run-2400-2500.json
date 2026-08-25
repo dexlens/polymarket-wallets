@@ -830,5 +830,21 @@
     "win_count": 107,
     "rank": 2452,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0833b22c24995343357f32378cffcf0081977191",
+    "trader_name": "Sylvaren",
+    "tag": "Overall",
+    "overall_gain": 47994.904843824384,
+    "active_positions": 11,
+    "win_amount": 53312.032920824386,
+    "loss_amount": -5317.128077,
+    "win_rate": 0.9066666666666666,
+    "total_current_value": 139.676208,
+    "total_positions": 79,
+    "event_ct": 75,
+    "win_count": 68,
+    "rank": 2453,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
