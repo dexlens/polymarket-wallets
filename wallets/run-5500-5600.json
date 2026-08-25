@@ -526,5 +526,21 @@
     "win_count": 125,
     "rank": 5533,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x519b0d49a99c794e2c721b6ad8bc010fdc20624e",
+    "trader_name": "dpk",
+    "tag": "Overall",
+    "overall_gain": 19526.468636,
+    "active_positions": 0,
+    "win_amount": 28585.035445000005,
+    "loss_amount": -9058.566809,
+    "win_rate": 0.8260869565217391,
+    "total_current_value": 0.409795,
+    "total_positions": 119,
+    "event_ct": 92,
+    "win_count": 76,
+    "rank": 5534,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
