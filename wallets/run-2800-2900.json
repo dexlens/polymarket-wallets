@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 2813,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57ee4242571f72830ff74f936bd40e19f8e3ba2a",
+    "trader_name": "mejojo",
+    "tag": "Overall",
+    "overall_gain": 41161.61521866977,
+    "active_positions": 1,
+    "win_amount": 41161.61521866977,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 206465.1258524235,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 2814,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
