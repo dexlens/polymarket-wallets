@@ -718,5 +718,21 @@
     "win_count": 18,
     "rank": 15145,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7af0515790acddb3cf7b9adb0f809d43efdf509d",
+    "trader_name": "lolpredict",
+    "tag": "Overall",
+    "overall_gain": 6421.768386368446,
+    "active_positions": 60,
+    "win_amount": 17610.434430679437,
+    "loss_amount": -11188.666044310994,
+    "win_rate": 0.7157894736842105,
+    "total_current_value": 494.62511704199983,
+    "total_positions": 251,
+    "event_ct": 190,
+    "win_count": 136,
+    "rank": 15146,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
