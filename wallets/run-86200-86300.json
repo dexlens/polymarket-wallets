@@ -942,5 +942,21 @@
     "win_count": 2,
     "rank": 86260,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98eb8592fde07db1149cf4121b41564050b13970",
+    "trader_name": "2026A10",
+    "tag": "Overall",
+    "overall_gain": 535.6989282356851,
+    "active_positions": 5,
+    "win_amount": 1383.875876002128,
+    "loss_amount": -848.176947766443,
+    "win_rate": 0.5,
+    "total_current_value": 13.149443,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 86261,
+    "trader_tags": ""
   }
 ]
