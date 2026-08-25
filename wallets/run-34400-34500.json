@@ -1550,5 +1550,21 @@
     "win_count": 25,
     "rank": 34498,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7cf9e89206612d9cb7bd0d2cc4ac4f0537116e54",
+    "trader_name": "MeNeverLoose",
+    "tag": "Overall",
+    "overall_gain": 2381.92435,
+    "active_positions": 0,
+    "win_amount": 2417.254301,
+    "loss_amount": -35.329951,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 34499,
+    "trader_tags": "> 1 year old"
   }
 ]
