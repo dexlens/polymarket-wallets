@@ -702,5 +702,21 @@
     "win_count": 2,
     "rank": 14244,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9af4d9a56cf4e88eab51c2a04223a58e3ed79fc5",
+    "trader_name": "BillyRayV",
+    "tag": "Overall",
+    "overall_gain": 6915.797752610816,
+    "active_positions": 3,
+    "win_amount": 14375.29431891005,
+    "loss_amount": -7459.496566299233,
+    "win_rate": 0.75,
+    "total_current_value": 0.050002,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 14245,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
