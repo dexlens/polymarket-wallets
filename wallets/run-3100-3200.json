@@ -526,5 +526,21 @@
     "win_count": 8,
     "rank": 3133,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x418b4070bd7f4c9e741bd7dfe06b1c72ef01b774",
+    "trader_name": "daoistimmortal",
+    "tag": "Overall",
+    "overall_gain": 36499.654792214445,
+    "active_positions": 0,
+    "win_amount": 36499.654792214445,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 3134,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
