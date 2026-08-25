@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 77875,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb2813278c9d8205e2a2ee2902f8681814d4bf47e",
+    "trader_name": "phebe1",
+    "tag": "Overall",
+    "overall_gain": 666.03259468,
+    "active_positions": 5,
+    "win_amount": 1720.63259468,
+    "loss_amount": -1054.6,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 149.957548,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 77876,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
