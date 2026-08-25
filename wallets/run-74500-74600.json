@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 74587,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ed3d1d5de6986e710eb0cf1c180d0f12ff6aa51",
+    "trader_name": "Cosmicge",
+    "tag": "Overall",
+    "overall_gain": 720.2900000000001,
+    "active_positions": 10,
+    "win_amount": 735.8700000000001,
+    "loss_amount": -15.58,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 74588,
+    "trader_tags": ""
   }
 ]
