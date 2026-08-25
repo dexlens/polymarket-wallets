@@ -142,5 +142,21 @@
     "win_count": 47,
     "rank": 43410,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1fa886bc7a382c080b7fafbdd61ca793f3ec2c4f",
+    "trader_name": "VoidSentra",
+    "tag": "Overall",
+    "overall_gain": 1798.5119999999997,
+    "active_positions": 2,
+    "win_amount": 2386.5119999999997,
+    "loss_amount": -588,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 43411,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
