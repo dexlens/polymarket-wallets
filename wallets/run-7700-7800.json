@@ -558,5 +558,21 @@
     "win_count": 50,
     "rank": 7735,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xda24c9358d1dc8447683b14ec5ee066167181975",
+    "trader_name": "Elvora",
+    "tag": "Overall",
+    "overall_gain": 13642.944502592469,
+    "active_positions": 7,
+    "win_amount": 14262.2644713,
+    "loss_amount": -619.319968707532,
+    "win_rate": 0.7741935483870968,
+    "total_current_value": 0.0001,
+    "total_positions": 36,
+    "event_ct": 31,
+    "win_count": 24,
+    "rank": 7736,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
