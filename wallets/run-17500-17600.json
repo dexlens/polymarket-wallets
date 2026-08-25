@@ -510,5 +510,21 @@
     "win_count": 14,
     "rank": 17532,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc33d05041c15570829f6a28195dba8538df41b02",
+    "trader_name": "BetZilla",
+    "tag": "Overall",
+    "overall_gain": 5347.102371820804,
+    "active_positions": 9,
+    "win_amount": 25370.93930300123,
+    "loss_amount": -20023.836931180427,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 15008.976431066,
+    "total_positions": 85,
+    "event_ct": 63,
+    "win_count": 35,
+    "rank": 17533,
+    "trader_tags": "> 1 year old"
   }
 ]
