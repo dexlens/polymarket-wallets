@@ -782,5 +782,21 @@
     "win_count": 2,
     "rank": 87550,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x43a3f04c31bb364766de9da078dab9ed9fc4a4ec",
+    "trader_name": "orcACR",
+    "tag": "Overall",
+    "overall_gain": 518.2791788499998,
+    "active_positions": 177,
+    "win_amount": 2381.6459090000003,
+    "loss_amount": -1863.36673015,
+    "win_rate": 0.5902777777777778,
+    "total_current_value": 0.95,
+    "total_positions": 432,
+    "event_ct": 432,
+    "win_count": 255,
+    "rank": 87551,
+    "trader_tags": "< 30 days old"
   }
 ]
