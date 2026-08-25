@@ -894,5 +894,21 @@
     "win_count": 7,
     "rank": 7156,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd7443a844585b4fc5ef4da7c5363fdd69094526f",
+    "trader_name": "smolbets",
+    "tag": "Overall",
+    "overall_gain": 14965.190393897014,
+    "active_positions": 1,
+    "win_amount": 82648.82658873234,
+    "loss_amount": -67683.63619483532,
+    "win_rate": 0.39751552795031053,
+    "total_current_value": 544.9681349705,
+    "total_positions": 168,
+    "event_ct": 161,
+    "win_count": 64,
+    "rank": 7157,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
