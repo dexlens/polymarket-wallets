@@ -270,5 +270,21 @@
     "win_count": 36,
     "rank": 4017,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x373a949d617e60cbb25ca6df3f68018d573bf4c1",
+    "trader_name": "funplayer-",
+    "tag": "Overall",
+    "overall_gain": 27894.270099396956,
+    "active_positions": 170,
+    "win_amount": 51094.455694950906,
+    "loss_amount": -23200.185595553958,
+    "win_rate": 0.6611570247933884,
+    "total_current_value": 24030.100850728002,
+    "total_positions": 2027,
+    "event_ct": 726,
+    "win_count": 480,
+    "rank": 4018,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
