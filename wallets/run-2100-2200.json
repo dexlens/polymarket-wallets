@@ -94,5 +94,21 @@
     "win_count": 1,
     "rank": 2106,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a181a656f089ad649d4500a67c4a94cc25abc9d",
+    "trader_name": "BlueCactus7",
+    "tag": "Overall",
+    "overall_gain": 57108.68631465996,
+    "active_positions": 2699,
+    "win_amount": 413964.484457065,
+    "loss_amount": -356855.79814240494,
+    "win_rate": 0.507641689662492,
+    "total_current_value": 5372.679395,
+    "total_positions": 37227,
+    "event_ct": 18844,
+    "win_count": 9566,
+    "rank": 2107,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
