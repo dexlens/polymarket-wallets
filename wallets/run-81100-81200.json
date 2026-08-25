@@ -942,5 +942,21 @@
     "win_count": 16,
     "rank": 81160,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x14384cc51e2661f49bb294f710b9e5a9dd461c4a",
+    "trader_name": "Imnottrynaruinyourfun",
+    "tag": "Overall",
+    "overall_gain": 611.605275999996,
+    "active_positions": 0,
+    "win_amount": 611.605275999996,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.012468,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 81161,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
