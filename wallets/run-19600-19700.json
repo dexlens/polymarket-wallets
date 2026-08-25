@@ -1038,5 +1038,21 @@
     "win_count": 4,
     "rank": 19665,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe80ee05df7917d674612cc6ef616fcb1c8168f85",
+    "trader_name": "xhash006",
+    "tag": "Overall",
+    "overall_gain": 4717.127472764691,
+    "active_positions": 2,
+    "win_amount": 11335.273130764697,
+    "loss_amount": -6618.1456579999995,
+    "win_rate": 0.591988821611551,
+    "total_current_value": 179.88976293000002,
+    "total_positions": 12857,
+    "event_ct": 6441,
+    "win_count": 3813,
+    "rank": 19666,
+    "trader_tags": "1k+ Positions"
   }
 ]
