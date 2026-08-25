@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 53474,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x354d603f9419c3af38d1ef6cb9503a7887d0eb8f",
+    "trader_name": "SwingProphet",
+    "tag": "Overall",
+    "overall_gain": 1325.2951030114707,
+    "active_positions": 409,
+    "win_amount": 6536.823981479727,
+    "loss_amount": -5211.528878468257,
+    "win_rate": 0.27992957746478875,
+    "total_current_value": 19.898743721000002,
+    "total_positions": 741,
+    "event_ct": 568,
+    "win_count": 159,
+    "rank": 53475,
+    "trader_tags": ""
   }
 ]
