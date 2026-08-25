@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 31774,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x33e7f01e9375bc3eb2b97125bb695d12375ddd1d",
+    "trader_name": "CloudKeystone",
+    "tag": "Overall",
+    "overall_gain": 2623.38,
+    "active_positions": 0,
+    "win_amount": 2623.38,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 31775,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
