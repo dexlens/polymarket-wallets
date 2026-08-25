@@ -638,5 +638,21 @@
     "win_count": 3,
     "rank": 42041,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88fac4b4c088ebf6b67401f79c0600893741a8c1",
+    "trader_name": "alice_shinoji",
+    "tag": "Overall",
+    "overall_gain": 1874.3976823959679,
+    "active_positions": 6,
+    "win_amount": 4655.3259526981365,
+    "loss_amount": -2780.928270302167,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 0.040942325,
+    "total_positions": 33,
+    "event_ct": 23,
+    "win_count": 13,
+    "rank": 42042,
+    "trader_tags": "> 1 year old"
   }
 ]
