@@ -686,5 +686,21 @@
     "win_count": 4,
     "rank": 27644,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6a429540c87a7d030f7fccca149fcc396734d2db",
+    "trader_name": "Dantisto",
+    "tag": "Overall",
+    "overall_gain": 3112.263834816256,
+    "active_positions": 12,
+    "win_amount": 4257.58044905646,
+    "loss_amount": -1145.3166142402035,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 107143.2696268955,
+    "total_positions": 23,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 27645,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
