@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 2029,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2cc0cd338a2ce6a17f6c398f4a2c671e3885f722",
+    "trader_name": "H1SOkA",
+    "tag": "Overall",
+    "overall_gain": 59482.84029984263,
+    "active_positions": 0,
+    "win_amount": 690552.1433209844,
+    "loss_amount": -631069.3030211417,
+    "win_rate": 0.6187683284457478,
+    "total_current_value": 0.011594,
+    "total_positions": 405,
+    "event_ct": 341,
+    "win_count": 211,
+    "rank": 2030,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Sports PnL > $100k"
   }
 ]
