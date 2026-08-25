@@ -1390,5 +1390,21 @@
     "win_count": 7,
     "rank": 5287,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c57f67ac7cc69a4cf96be5747cb2ed63dc9f939",
+    "trader_name": "mm4ker",
+    "tag": "Overall",
+    "overall_gain": 20501.36618521452,
+    "active_positions": 13,
+    "win_amount": 26049.287474194796,
+    "loss_amount": -5547.92128898028,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 27493.053556722,
+    "total_positions": 90,
+    "event_ct": 69,
+    "win_count": 46,
+    "rank": 5288,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
