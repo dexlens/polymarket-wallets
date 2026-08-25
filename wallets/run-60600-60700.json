@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 60653,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d5dbfa8f4b30a2e571dcd0aace2cb17c4a16c3b",
+    "trader_name": "Prismfenestration",
+    "tag": "Overall",
+    "overall_gain": 1057.0900000000001,
+    "active_positions": 2,
+    "win_amount": 1057.0900000000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 60654,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
