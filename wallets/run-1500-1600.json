@@ -286,5 +286,21 @@
     "win_count": 9,
     "rank": 1518,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84571f1bf97a5c710cbe51daff2dd4556cc887fd",
+    "trader_name": "ZhangMuZhi..",
+    "tag": "Overall",
+    "overall_gain": 79493.07172977082,
+    "active_positions": 800,
+    "win_amount": 79671.3052657708,
+    "loss_amount": -178.233536,
+    "win_rate": 0.9990286546867412,
+    "total_current_value": 77779.61711999998,
+    "total_positions": 6479,
+    "event_ct": 2059,
+    "win_count": 2057,
+    "rank": 1519,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
