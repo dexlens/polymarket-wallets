@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 5728,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa9aca75fb5d8f04c2ec9eeb0eb0c30d2e526c5d1",
+    "trader_name": "suraxy",
+    "tag": "Overall",
+    "overall_gain": 18793.09799474944,
+    "active_positions": 39,
+    "win_amount": 65064.42063785002,
+    "loss_amount": -46271.32264310059,
+    "win_rate": 0.4264099037138927,
+    "total_current_value": 15338.637536066493,
+    "total_positions": 1267,
+    "event_ct": 727,
+    "win_count": 310,
+    "rank": 5729,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
