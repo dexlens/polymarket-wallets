@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 24047,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa60bb142539d9dd64f0c1308f7dd7f96475ac728",
+    "trader_name": "make888",
+    "tag": "Overall",
+    "overall_gain": 3712.022460208363,
+    "active_positions": 28,
+    "win_amount": 60369.64291330836,
+    "loss_amount": -56657.620453100004,
+    "win_rate": 0.5070808588396528,
+    "total_current_value": 969.2627140000001,
+    "total_positions": 3464,
+    "event_ct": 2189,
+    "win_count": 1110,
+    "rank": 24048,
+    "trader_tags": "1k+ Positions"
   }
 ]
