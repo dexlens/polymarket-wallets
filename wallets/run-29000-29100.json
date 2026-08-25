@@ -590,5 +590,21 @@
     "win_count": 11,
     "rank": 29038,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x91a1e17f8cf0967c566cfa9feee419841fca8fc3",
+    "trader_name": "sakha1",
+    "tag": "Overall",
+    "overall_gain": 2943.126460500686,
+    "active_positions": 0,
+    "win_amount": 2943.126460500686,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001366,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 29039,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
