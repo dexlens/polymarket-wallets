@@ -990,5 +990,21 @@
     "win_count": 3,
     "rank": 81663,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4351efc716a52e2a82bfba16edfc300a7183bebe",
+    "trader_name": "ZAX001",
+    "tag": "Overall",
+    "overall_gain": 603.5377867213011,
+    "active_positions": 0,
+    "win_amount": 603.5377867213011,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.028467000000000003,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 81664,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
