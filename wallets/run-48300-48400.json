@@ -686,5 +686,21 @@
     "win_count": 16,
     "rank": 48344,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd49db242e62cea7f9655fa97185b97841a41fdeb",
+    "trader_name": "offec",
+    "tag": "Overall",
+    "overall_gain": 1556.5860902536979,
+    "active_positions": 1,
+    "win_amount": 1652.585946240117,
+    "loss_amount": -95.999855986419,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 0.00011700000000000001,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 12,
+    "rank": 48345,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
