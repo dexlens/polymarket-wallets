@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 62524,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8bfa6c0c387c71e4ca30613945fbb41c8d937eb1",
+    "trader_name": "satuki",
+    "tag": "Overall",
+    "overall_gain": 1009,
+    "active_positions": 0,
+    "win_amount": 1009,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 62525,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
