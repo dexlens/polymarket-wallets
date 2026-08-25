@@ -766,5 +766,21 @@
     "win_count": 10,
     "rank": 87449,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x0e5945eb5003ec0edbc3f97d5c3aac4de36415f8",
+    "trader_name": "Koushan",
+    "tag": "Overall",
+    "overall_gain": 519.559697886344,
+    "active_positions": 0,
+    "win_amount": 519.559697886344,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.018888,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 87450,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
