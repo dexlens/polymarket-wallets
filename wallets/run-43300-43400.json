@@ -958,5 +958,21 @@
     "win_count": 8,
     "rank": 43361,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6283a67a32da3da7ac88023dac0bd6fa7b4c0cf9",
+    "trader_name": "samsungpay",
+    "tag": "Overall",
+    "overall_gain": 1800.795314467082,
+    "active_positions": 2,
+    "win_amount": 5632.945458000001,
+    "loss_amount": -3832.150143532918,
+    "win_rate": 0.6268656716417911,
+    "total_current_value": 0.004125,
+    "total_positions": 67,
+    "event_ct": 67,
+    "win_count": 42,
+    "rank": 43362,
+    "trader_tags": "> 1 year old"
   }
 ]
