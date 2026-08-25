@@ -414,5 +414,21 @@
     "win_count": 44,
     "rank": 20126,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74f831dd79f3c4dfc59ab3a8a582b2e791fe4974",
+    "trader_name": "BoughtMamdaniAt11Cents",
+    "tag": "Overall",
+    "overall_gain": 4593.159610120367,
+    "active_positions": 116,
+    "win_amount": 7965.055125185467,
+    "loss_amount": -3371.8955150651036,
+    "win_rate": 0.3440514469453376,
+    "total_current_value": 5.238985443,
+    "total_positions": 354,
+    "event_ct": 311,
+    "win_count": 107,
+    "rank": 20127,
+    "trader_tags": ""
   }
 ]
