@@ -1182,5 +1182,21 @@
     "win_count": 15,
     "rank": 3674,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5fb612e97054420a04ff906933be0ef457fca986",
+    "trader_name": "Predicc",
+    "tag": "Overall",
+    "overall_gain": 30979.240534027074,
+    "active_positions": 12,
+    "win_amount": 41382.0011575557,
+    "loss_amount": -10402.760623528651,
+    "win_rate": 0.5853658536585366,
+    "total_current_value": 0.071813,
+    "total_positions": 45,
+    "event_ct": 41,
+    "win_count": 24,
+    "rank": 3675,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
