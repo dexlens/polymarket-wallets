@@ -270,5 +270,21 @@
     "win_count": 28,
     "rank": 21117,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4cbdafb04ee0da33031be6749197ccd2f80dd700",
+    "trader_name": "panamaXBT",
+    "tag": "Overall",
+    "overall_gain": 4333.428502551362,
+    "active_positions": 4,
+    "win_amount": 14405.969385768625,
+    "loss_amount": -10072.540883217262,
+    "win_rate": 0.3,
+    "total_current_value": 0.008624,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 3,
+    "rank": 21118,
+    "trader_tags": "> 1 year old"
   }
 ]
