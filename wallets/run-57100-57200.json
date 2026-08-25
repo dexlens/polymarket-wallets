@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 57183,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xff76dd29f8376dfdaac3aa470467d6ca38c59c05",
+    "trader_name": "Gmoas",
+    "tag": "Overall",
+    "overall_gain": 1172.1820148013169,
+    "active_positions": 6,
+    "win_amount": 51921.03390016574,
+    "loss_amount": -50748.85188536443,
+    "win_rate": 0.4117647058823529,
+    "total_current_value": 0.053512,
+    "total_positions": 47,
+    "event_ct": 34,
+    "win_count": 14,
+    "rank": 57184,
+    "trader_tags": "> 1 year old"
   }
 ]
