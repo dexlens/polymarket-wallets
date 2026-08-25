@@ -1086,5 +1086,21 @@
     "win_count": 12,
     "rank": 2968,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xcfb8b7e312686df0b566bfe86a0f4836573ab04c",
+    "trader_name": "Tongling",
+    "tag": "Overall",
+    "overall_gain": 38598.61168255425,
+    "active_positions": 17,
+    "win_amount": 38598.61168255425,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 27.398773368000004,
+    "total_positions": 94,
+    "event_ct": 30,
+    "win_count": 30,
+    "rank": 2969,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
