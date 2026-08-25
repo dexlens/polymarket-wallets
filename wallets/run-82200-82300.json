@@ -526,5 +526,21 @@
     "win_count": 4,
     "rank": 82234,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xcab73accac0400eefc8f6827cfbb2694b1043af7",
+    "trader_name": "Necyra",
+    "tag": "Overall",
+    "overall_gain": 594.7425539868439,
+    "active_positions": 4,
+    "win_amount": 1529.3075539868441,
+    "loss_amount": -934.565,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 0.006844,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 13,
+    "rank": 82235,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
