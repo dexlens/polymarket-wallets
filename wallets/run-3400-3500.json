@@ -718,5 +718,21 @@
     "win_count": 29,
     "rank": 3445,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7e31a5e9c31638483614e9fd9f945bb34692454d",
+    "trader_name": "Odysseus7",
+    "tag": "Overall",
+    "overall_gain": 33098.08194111812,
+    "active_positions": 27,
+    "win_amount": 43492.630335623755,
+    "loss_amount": -10394.548394505633,
+    "win_rate": 0.7111111111111111,
+    "total_current_value": 35604.601463212006,
+    "total_positions": 487,
+    "event_ct": 270,
+    "win_count": 192,
+    "rank": 3446,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
