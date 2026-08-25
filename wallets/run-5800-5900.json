@@ -478,5 +478,21 @@
     "win_count": 6,
     "rank": 5830,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd250226c405a3bd6491713eb8e35a5c5a90e5e4c",
+    "trader_name": "Louises",
+    "tag": "Overall",
+    "overall_gain": 18448.890284999998,
+    "active_positions": 0,
+    "win_amount": 18554.520285,
+    "loss_amount": -105.63,
+    "win_rate": 0.8125,
+    "total_current_value": 0,
+    "total_positions": 64,
+    "event_ct": 32,
+    "win_count": 26,
+    "rank": 5831,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
