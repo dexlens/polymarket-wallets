@@ -1118,5 +1118,21 @@
     "win_count": 9,
     "rank": 34571,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x701d02a383c1a8fa639bceeb591e60038128f99f",
+    "trader_name": "behbdx",
+    "tag": "Overall",
+    "overall_gain": 2375.1701999999996,
+    "active_positions": 1,
+    "win_amount": 2376.4701999999997,
+    "loss_amount": -1.3000000000000007,
+    "win_rate": 0.75,
+    "total_current_value": 23.66,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 34572,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
