@@ -254,5 +254,21 @@
     "win_count": 3,
     "rank": 1816,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x253ad134a7728b899610f8a004cbfc4a12f6af26",
+    "trader_name": "BatyKaren",
+    "tag": "Overall",
+    "overall_gain": 67250.3634401131,
+    "active_positions": 17,
+    "win_amount": 384060.7672816856,
+    "loss_amount": -316810.40384157246,
+    "win_rate": 0.594798083504449,
+    "total_current_value": 824.9424255350001,
+    "total_positions": 20085,
+    "event_ct": 11688,
+    "win_count": 6952,
+    "rank": 1817,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
