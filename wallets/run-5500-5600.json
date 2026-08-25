@@ -1294,5 +1294,21 @@
     "win_count": 3,
     "rank": 5581,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xeca20b3b8ca3fef972d5631b8cde0b7d71016ee7",
+    "trader_name": "WINTERMUTE",
+    "tag": "Overall",
+    "overall_gain": 19353.51067629416,
+    "active_positions": 1,
+    "win_amount": 39583.61067629417,
+    "loss_amount": -20230.1,
+    "win_rate": 0.9459459459459459,
+    "total_current_value": 12.134164,
+    "total_positions": 111,
+    "event_ct": 37,
+    "win_count": 35,
+    "rank": 5582,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
