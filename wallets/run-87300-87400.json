@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 87313,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc2e98eb992cf48744c9761797497fada7b64e288",
+    "trader_name": "dreivierteljaeger",
+    "tag": "Overall",
+    "overall_gain": 521.5212068608614,
+    "active_positions": 13,
+    "win_amount": 34335.462468321486,
+    "loss_amount": -33813.941261460626,
+    "win_rate": 0.856081081081081,
+    "total_current_value": 17173.62497377,
+    "total_positions": 1750,
+    "event_ct": 1480,
+    "win_count": 1267,
+    "rank": 87314,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
