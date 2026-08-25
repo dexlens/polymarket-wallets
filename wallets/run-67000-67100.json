@@ -814,5 +814,21 @@
     "win_count": 4,
     "rank": 67052,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x146ddbae0a17c93df342680d878afa804d8317c7",
+    "trader_name": "CosmoSpace",
+    "tag": "Overall",
+    "overall_gain": 887.6149474115512,
+    "active_positions": 1581,
+    "win_amount": 26199.429998778192,
+    "loss_amount": -25311.81505136665,
+    "win_rate": 0.5322085889570553,
+    "total_current_value": 5774.036810875503,
+    "total_positions": 2168,
+    "event_ct": 652,
+    "win_count": 347,
+    "rank": 67053,
+    "trader_tags": "> 1 year old; 1k+ Positions"
   }
 ]
