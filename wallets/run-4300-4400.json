@@ -1518,5 +1518,21 @@
     "win_count": 16,
     "rank": 4395,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xda8ab703f93071d1dfd867e14c5cba2919de8acd",
+    "trader_name": "Polymarket21",
+    "tag": "Overall",
+    "overall_gain": 25278.853082,
+    "active_positions": 0,
+    "win_amount": 25278.853082,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 4396,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
