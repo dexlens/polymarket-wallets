@@ -974,5 +974,21 @@
     "win_count": 10,
     "rank": 68762,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x64d9a200f3a2fe1540397838976000c0a0b4368d",
+    "trader_name": "havitova",
+    "tag": "Overall",
+    "overall_gain": 841.191380583576,
+    "active_positions": 1,
+    "win_amount": 841.191380583576,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002734,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 68763,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
