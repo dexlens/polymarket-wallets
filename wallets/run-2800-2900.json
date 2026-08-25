@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 2812,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xce1c83f08cf725a7a0146533abd60d1be67d782a",
+    "trader_name": "megaethfree",
+    "tag": "Overall",
+    "overall_gain": 41172.68393108805,
+    "active_positions": 0,
+    "win_amount": 41172.68393108805,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.021182,
+    "total_positions": 4,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 2813,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
