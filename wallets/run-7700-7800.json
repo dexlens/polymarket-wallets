@@ -1518,5 +1518,21 @@
     "win_count": 3,
     "rank": 7795,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd3fb3aa016afa69fe6cb1e1fd52d3979fad657e5",
+    "trader_name": "Yomba",
+    "tag": "Overall",
+    "overall_gain": 13534.329743382537,
+    "active_positions": 52,
+    "win_amount": 21893.872500259746,
+    "loss_amount": -8359.542756877208,
+    "win_rate": 0.7192224622030238,
+    "total_current_value": 12392.801541164501,
+    "total_positions": 803,
+    "event_ct": 463,
+    "win_count": 333,
+    "rank": 7796,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
