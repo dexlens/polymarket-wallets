@@ -766,5 +766,21 @@
     "win_count": 32,
     "rank": 25349,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x893646455050f8a5dbf50206e48cbbf85d296772",
+    "trader_name": "cROSS22",
+    "tag": "Overall",
+    "overall_gain": 3484.0650171200004,
+    "active_positions": 1,
+    "win_amount": 13361.022799999999,
+    "loss_amount": -9876.95778288,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 25350,
+    "trader_tags": ""
   }
 ]
