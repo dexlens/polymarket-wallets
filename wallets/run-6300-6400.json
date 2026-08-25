@@ -30,5 +30,21 @@
     "win_count": 101,
     "rank": 6302,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6ee9db52015d1ef3f474ced00b6b4b721e5818e1",
+    "trader_name": "NDYlK2KET",
+    "tag": "Overall",
+    "overall_gain": 16986.814572421776,
+    "active_positions": 6,
+    "win_amount": 31148.07207242177,
+    "loss_amount": -14161.2575,
+    "win_rate": 0.75,
+    "total_current_value": 11.512747999999998,
+    "total_positions": 29,
+    "event_ct": 28,
+    "win_count": 21,
+    "rank": 6303,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
