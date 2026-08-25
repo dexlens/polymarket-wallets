@@ -542,5 +542,21 @@
     "win_count": 23,
     "rank": 3734,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1655eac53ec852b6c3785d15feea40035f71a669",
+    "trader_name": "PolyOG",
+    "tag": "Overall",
+    "overall_gain": 30586.53346117992,
+    "active_positions": 2,
+    "win_amount": 46555.34379381645,
+    "loss_amount": -15968.810332636524,
+    "win_rate": 0.6,
+    "total_current_value": 63955.75691818401,
+    "total_positions": 32,
+    "event_ct": 25,
+    "win_count": 15,
+    "rank": 3735,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
