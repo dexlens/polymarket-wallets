@@ -1006,5 +1006,21 @@
     "win_count": 23,
     "rank": 7463,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcd49a4806334f76cfa903eeea62c56ac6df14b3b",
+    "trader_name": "dhoney3",
+    "tag": "Overall",
+    "overall_gain": 14220.36,
+    "active_positions": 9,
+    "win_amount": 36798.86,
+    "loss_amount": -22578.5,
+    "win_rate": 0.6086956521739131,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 14,
+    "rank": 7464,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
