@@ -254,5 +254,21 @@
     "win_count": 5,
     "rank": 9516,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc212782413b285680297f41d6e2b0f881e2ff53e",
+    "trader_name": "pdking",
+    "tag": "Overall",
+    "overall_gain": 11007.960093534697,
+    "active_positions": 16,
+    "win_amount": 16756.887392483855,
+    "loss_amount": -5748.927298949162,
+    "win_rate": 0.6451612903225806,
+    "total_current_value": 200.04621,
+    "total_positions": 46,
+    "event_ct": 31,
+    "win_count": 20,
+    "rank": 9517,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
