@@ -142,5 +142,21 @@
     "win_count": 5,
     "rank": 2309,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ca5e8e735d1714104a534c9f39e2a29ab116139",
+    "trader_name": "Kickstand7",
+    "tag": "Overall",
+    "overall_gain": 51389.27905542087,
+    "active_positions": 15,
+    "win_amount": 57465.86536803539,
+    "loss_amount": -6076.586312614489,
+    "win_rate": 0.7515923566878981,
+    "total_current_value": 4707.21706555316,
+    "total_positions": 315,
+    "event_ct": 157,
+    "win_count": 118,
+    "rank": 2310,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
