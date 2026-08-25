@@ -1166,5 +1166,21 @@
     "win_count": 2044,
     "rank": 2273,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x16b251e0f8b8315a871e7a14596a01da3b53aa5a",
+    "trader_name": "gollaza",
+    "tag": "Overall",
+    "overall_gain": 52418.02504117323,
+    "active_positions": 0,
+    "win_amount": 94617.0618193093,
+    "loss_amount": -42199.03677813608,
+    "win_rate": 0.7778776978417267,
+    "total_current_value": 3.101086000000001,
+    "total_positions": 1812,
+    "event_ct": 1112,
+    "win_count": 865,
+    "rank": 2274,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
