@@ -766,5 +766,21 @@
     "win_count": 10,
     "rank": 43949,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ff8787a0c0888c939e35a9ec2d48673862c13ee",
+    "trader_name": "clixon",
+    "tag": "Overall",
+    "overall_gain": 1769.1389224207567,
+    "active_positions": 7,
+    "win_amount": 2572.347800941166,
+    "loss_amount": -803.2088785204091,
+    "win_rate": 0.5517241379310345,
+    "total_current_value": 6928.71450288,
+    "total_positions": 50,
+    "event_ct": 29,
+    "win_count": 16,
+    "rank": 43950,
+    "trader_tags": "> 1 year old"
   }
 ]
