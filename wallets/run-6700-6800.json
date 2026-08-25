@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 6731,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5f88100437ad50085007899027b4bac9cf807dd1",
+    "trader_name": "Kimiwong",
+    "tag": "Overall",
+    "overall_gain": 15953.533237999998,
+    "active_positions": 0,
+    "win_amount": 17939.303147000002,
+    "loss_amount": -1985.769909,
+    "win_rate": 0.8928571428571429,
+    "total_current_value": 0,
+    "total_positions": 112,
+    "event_ct": 28,
+    "win_count": 25,
+    "rank": 6732,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
