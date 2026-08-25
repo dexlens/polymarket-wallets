@@ -1470,5 +1470,21 @@
     "win_count": 42,
     "rank": 4992,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33d6a9425e3b300bf6d4349cd2b9a9af7aa08968",
+    "trader_name": "brownrepud",
+    "tag": "Overall",
+    "overall_gain": 21683,
+    "active_positions": 0,
+    "win_amount": 21930,
+    "loss_amount": -247,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 4993,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
