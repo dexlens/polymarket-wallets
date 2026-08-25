@@ -1566,5 +1566,21 @@
     "win_count": 139,
     "rank": 3398,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe1f4e51fdd38abc3381f239abf29db91deddd0e7",
+    "trader_name": "Zovex",
+    "tag": "Overall",
+    "overall_gain": 33541.169505390164,
+    "active_positions": 14,
+    "win_amount": 34091.34948405683,
+    "loss_amount": -550.1799786666681,
+    "win_rate": 0.8923076923076924,
+    "total_current_value": 87.0830860005,
+    "total_positions": 67,
+    "event_ct": 65,
+    "win_count": 58,
+    "rank": 3399,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
