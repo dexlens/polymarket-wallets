@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 10692,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8645b8d48aa02234a2831adadeda774097884632",
+    "trader_name": "AGPamBondi",
+    "tag": "Overall",
+    "overall_gain": 9904.907952303998,
+    "active_positions": 2,
+    "win_amount": 10301.238946303998,
+    "loss_amount": -396.330994,
+    "win_rate": 0.9746835443037974,
+    "total_current_value": 4034.42034,
+    "total_positions": 105,
+    "event_ct": 79,
+    "win_count": 77,
+    "rank": 10693,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
