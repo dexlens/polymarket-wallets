@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 15122,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16bc6f47ebbade726497a3a3334af8df0776deca",
+    "trader_name": "ZoeGarma",
+    "tag": "Overall",
+    "overall_gain": 6433.259447696172,
+    "active_positions": 2,
+    "win_amount": 25367.906635555715,
+    "loss_amount": -18934.647187859544,
+    "win_rate": 0.3,
+    "total_current_value": 25016.4947195565,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 3,
+    "rank": 15123,
+    "trader_tags": "< 30 days old"
   }
 ]
