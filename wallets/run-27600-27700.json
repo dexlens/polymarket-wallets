@@ -1438,5 +1438,21 @@
     "win_count": 21,
     "rank": 27691,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe1d5d1f8c17ed0a85678e423a49e376d9727d9cd",
+    "trader_name": "WhaleResearch",
+    "tag": "Overall",
+    "overall_gain": 3106.26597166745,
+    "active_positions": 0,
+    "win_amount": 3721.1261566352077,
+    "loss_amount": -614.8601849677581,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.022832,
+    "total_positions": 26,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 27692,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
