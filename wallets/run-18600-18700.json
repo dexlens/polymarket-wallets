@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 18644,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x357059d16bc1dd2fc0ad9dd214b6fa4a36cabca9",
+    "trader_name": "Shradow",
+    "tag": "Overall",
+    "overall_gain": 4992.5,
+    "active_positions": 1,
+    "win_amount": 5310,
+    "loss_amount": -317.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 18645,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
