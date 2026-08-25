@@ -238,5 +238,21 @@
     "win_count": 898,
     "rank": 75416,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbe76066b571aa3596d5cbc279525a3609cbf3353",
+    "trader_name": "Gakkin",
+    "tag": "Overall",
+    "overall_gain": 707.8038066966608,
+    "active_positions": 2,
+    "win_amount": 727.8036576966607,
+    "loss_amount": -19.999851,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 2320.205848095,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 75417,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
