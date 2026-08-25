@@ -1390,5 +1390,21 @@
     "win_count": 12,
     "rank": 6087,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeb88d42dedd604f79d8b3fc7f4d146dd9b172430",
+    "trader_name": "godfray",
+    "tag": "Overall",
+    "overall_gain": 17623.335891377254,
+    "active_positions": 42,
+    "win_amount": 17706.83481560518,
+    "loss_amount": -83.49892422792799,
+    "win_rate": 0.6203703703703703,
+    "total_current_value": 4.0815313665,
+    "total_positions": 109,
+    "event_ct": 108,
+    "win_count": 67,
+    "rank": 6088,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
