@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 28029,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x571caf3fdf0389c991f7f19ebfbbb019601ca56e",
+    "trader_name": "gkiujedr",
+    "tag": "Overall",
+    "overall_gain": 3062.0435390000007,
+    "active_positions": 3,
+    "win_amount": 3238.7817330000007,
+    "loss_amount": -176.738194,
+    "win_rate": 0.9117647058823529,
+    "total_current_value": 161.280075,
+    "total_positions": 36,
+    "event_ct": 34,
+    "win_count": 31,
+    "rank": 28030,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
