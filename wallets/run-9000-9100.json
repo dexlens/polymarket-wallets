@@ -286,5 +286,21 @@
     "win_count": 1772,
     "rank": 9018,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x7ab16c2128faeb0b372999954b6cb29ec6ecb66b",
+    "trader_name": "SlidingMoon",
+    "tag": "Overall",
+    "overall_gain": 11623.474959355663,
+    "active_positions": 1,
+    "win_amount": 11655.885460716909,
+    "loss_amount": -32.410501361247,
+    "win_rate": 0.8846153846153846,
+    "total_current_value": 49.126662,
+    "total_positions": 51,
+    "event_ct": 26,
+    "win_count": 23,
+    "rank": 9019,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
