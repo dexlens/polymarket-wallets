@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 32820,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x018d8d5127bfc4ec421fec4c3221a40beba77f0a",
+    "trader_name": "ArmedCitizen",
+    "tag": "Overall",
+    "overall_gain": 2520.098742942142,
+    "active_positions": 0,
+    "win_amount": 4494.502313258802,
+    "loss_amount": -1974.40357031666,
+    "win_rate": 0.6481481481481481,
+    "total_current_value": 0.052340000000000005,
+    "total_positions": 70,
+    "event_ct": 54,
+    "win_count": 35,
+    "rank": 32821,
+    "trader_tags": "> 1 year old"
   }
 ]
