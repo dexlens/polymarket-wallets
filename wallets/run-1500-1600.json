@@ -1070,5 +1070,21 @@
     "win_count": 5,
     "rank": 1567,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x46dabed6fadc2effd1e7132c765dbe0b4c79107a",
+    "trader_name": "batster44",
+    "tag": "Overall",
+    "overall_gain": 77345.87275442379,
+    "active_positions": 3,
+    "win_amount": 99457.57244723292,
+    "loss_amount": -22111.699692809132,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.064148,
+    "total_positions": 37,
+    "event_ct": 26,
+    "win_count": 18,
+    "rank": 1568,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
