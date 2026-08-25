@@ -974,5 +974,21 @@
     "win_count": 2,
     "rank": 28162,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4968dd8bd97e5e6b02e6926ebe448955c3e51494",
+    "trader_name": "GalaxyGambler",
+    "tag": "Overall",
+    "overall_gain": 3045,
+    "active_positions": 4,
+    "win_amount": 4244,
+    "loss_amount": -1199,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 28163,
+    "trader_tags": ""
   }
 ]
