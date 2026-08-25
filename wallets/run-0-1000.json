@@ -4094,5 +4094,21 @@
     "win_count": 4,
     "rank": 256,
     "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x01baeccca6daf3d1ed2b562007f1f9e7ef9cb77a",
+    "trader_name": "knoxgold",
+    "tag": "Overall",
+    "overall_gain": 488090.8138973681,
+    "active_positions": 68,
+    "win_amount": 1176061.1357000358,
+    "loss_amount": -687970.3218026677,
+    "win_rate": 0.576271186440678,
+    "total_current_value": 0.105746,
+    "total_positions": 280,
+    "event_ct": 118,
+    "win_count": 68,
+    "rank": 257,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Sports PnL > $100k"
   }
 ]
