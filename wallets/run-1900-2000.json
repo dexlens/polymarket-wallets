@@ -1358,5 +1358,21 @@
     "win_count": 5,
     "rank": 1985,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4c68efb47d52cd6cd67ed40c728a3855d4bd0f7c",
+    "trader_name": "wosikunhi",
+    "tag": "Overall",
+    "overall_gain": 60894.77507062639,
+    "active_positions": 5,
+    "win_amount": 102849.287741,
+    "loss_amount": -41954.51267037359,
+    "win_rate": 0.3392857142857143,
+    "total_current_value": 0,
+    "total_positions": 56,
+    "event_ct": 56,
+    "win_count": 19,
+    "rank": 1986,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
