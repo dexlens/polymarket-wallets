@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 24576,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4b0f8f6c5a11e07813c10f53af12efaac2028e74",
+    "trader_name": "ygncxb",
+    "tag": "Overall",
+    "overall_gain": 3613.962061,
+    "active_positions": 1,
+    "win_amount": 3613.982695,
+    "loss_amount": -0.020634,
+    "win_rate": 0.9642857142857143,
+    "total_current_value": 169.26948,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 27,
+    "rank": 24577,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
