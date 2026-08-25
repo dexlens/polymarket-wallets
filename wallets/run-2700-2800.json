@@ -1486,5 +1486,21 @@
     "win_count": 22,
     "rank": 2793,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3526087ea139532d71198813c2dd55defaefaaba",
+    "trader_name": "ilyho",
+    "tag": "Overall",
+    "overall_gain": 41492.81127354698,
+    "active_positions": 27,
+    "win_amount": 62634.30788529163,
+    "loss_amount": -21141.496611744642,
+    "win_rate": 0.30434782608695654,
+    "total_current_value": 438.45340844299994,
+    "total_positions": 48,
+    "event_ct": 23,
+    "win_count": 7,
+    "rank": 2794,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
