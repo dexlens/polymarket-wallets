@@ -1246,5 +1246,21 @@
     "win_count": 12,
     "rank": 16278,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c8987c6c866ed6825b513c986d820e18b95fd37",
+    "trader_name": "lamm",
+    "tag": "Overall",
+    "overall_gain": 5873.529004731465,
+    "active_positions": 14,
+    "win_amount": 27278.131248529997,
+    "loss_amount": -21404.602243798538,
+    "win_rate": 0.475,
+    "total_current_value": 0.87832473,
+    "total_positions": 47,
+    "event_ct": 40,
+    "win_count": 19,
+    "rank": 16279,
+    "trader_tags": ""
   }
 ]
