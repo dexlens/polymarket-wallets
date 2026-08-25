@@ -574,5 +574,21 @@
     "win_count": 1,
     "rank": 33837,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0d929ee1064a02272d9a96208ebe322a6b3b60ea",
+    "trader_name": "Abdullah2232",
+    "tag": "Overall",
+    "overall_gain": 2438.2371854057674,
+    "active_positions": 80,
+    "win_amount": 6226.218459797429,
+    "loss_amount": -3787.9812743916627,
+    "win_rate": 0.5425531914893617,
+    "total_current_value": 176.92487099999997,
+    "total_positions": 97,
+    "event_ct": 94,
+    "win_count": 51,
+    "rank": 33838,
+    "trader_tags": "< 30 days old"
   }
 ]
