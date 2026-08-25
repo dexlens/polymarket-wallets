@@ -1022,5 +1022,21 @@
     "win_count": 18,
     "rank": 5464,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc9751b5f25e1ecd88ec4630d19422b58d0562c68",
+    "trader_name": "NeoThuleism",
+    "tag": "Overall",
+    "overall_gain": 19776.993154265037,
+    "active_positions": 0,
+    "win_amount": 21559.609459596697,
+    "loss_amount": -1782.616305331663,
+    "win_rate": 0.810077519379845,
+    "total_current_value": 0.24046069999999997,
+    "total_positions": 521,
+    "event_ct": 258,
+    "win_count": 209,
+    "rank": 5465,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
