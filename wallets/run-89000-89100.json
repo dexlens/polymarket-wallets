@@ -1230,5 +1230,21 @@
     "win_count": 45,
     "rank": 89078,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ebb5379e08567733b89dfc0f88845cee72c3c70",
+    "trader_name": "zaogao1",
+    "tag": "Overall",
+    "overall_gain": 500.810704002166,
+    "active_positions": 0,
+    "win_amount": 501.0553980000001,
+    "loss_amount": -0.24469399783400003,
+    "win_rate": 0.7,
+    "total_current_value": 0.015791,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 89079,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
