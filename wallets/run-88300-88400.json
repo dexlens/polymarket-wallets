@@ -1486,5 +1486,21 @@
     "win_count": 5,
     "rank": 88394,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa6c0231e4905ae7e9772cfb004370acfa44f477f",
+    "trader_name": "PompPrecict",
+    "tag": "Overall",
+    "overall_gain": 508.458362395741,
+    "active_positions": 4,
+    "win_amount": 1528.9579688808249,
+    "loss_amount": -1020.4996064850841,
+    "win_rate": 0.5,
+    "total_current_value": 0.009508,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 88395,
+    "trader_tags": "> 1 year old"
   }
 ]
