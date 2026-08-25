@@ -734,5 +734,21 @@
     "win_count": 3,
     "rank": 44647,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x76fd2b494a54fbabd768fb8f6e0422e6c61e752f",
+    "trader_name": "kkkkei",
+    "tag": "Overall",
+    "overall_gain": 1729.951242791301,
+    "active_positions": 3,
+    "win_amount": 6333.479547378602,
+    "loss_amount": -4603.528304587303,
+    "win_rate": 0.8302752293577982,
+    "total_current_value": 0.15321500000000002,
+    "total_positions": 505,
+    "event_ct": 436,
+    "win_count": 362,
+    "rank": 44648,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
