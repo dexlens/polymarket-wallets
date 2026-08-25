@@ -158,5 +158,21 @@
     "win_count": 20,
     "rank": 63111,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8f3ad9fea07b12c950039a668425083ea3d89bdb",
+    "trader_name": "46-presets-cheesy",
+    "tag": "Overall",
+    "overall_gain": 997.9615490000003,
+    "active_positions": 3,
+    "win_amount": 3830.0317,
+    "loss_amount": -2832.0701510000004,
+    "win_rate": 0.5563258232235702,
+    "total_current_value": 55.599999999999994,
+    "total_positions": 728,
+    "event_ct": 577,
+    "win_count": 321,
+    "rank": 63112,
+    "trader_tags": ""
   }
 ]
