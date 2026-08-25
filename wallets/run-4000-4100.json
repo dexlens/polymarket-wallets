@@ -1006,5 +1006,21 @@
     "win_count": 1,
     "rank": 4063,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeab61f1c7168138db3e0bb87acadfb77ce8dd4c6",
+    "trader_name": "acc42020",
+    "tag": "Overall",
+    "overall_gain": 27601.903100418815,
+    "active_positions": 262,
+    "win_amount": 140080.34231059355,
+    "loss_amount": -112478.43921017475,
+    "win_rate": 0.4355095541401274,
+    "total_current_value": 16817.419157405497,
+    "total_positions": 4778,
+    "event_ct": 1256,
+    "win_count": 547,
+    "rank": 4064,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
