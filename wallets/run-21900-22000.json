@@ -1262,5 +1262,21 @@
     "win_count": 3,
     "rank": 21979,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15ef349a39e03f92c734fbd02e4af406218ecfd8",
+    "trader_name": "Nagger",
+    "tag": "Overall",
+    "overall_gain": 4124.822898082015,
+    "active_positions": 0,
+    "win_amount": 4458.02503734734,
+    "loss_amount": -333.20213926532506,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.076192,
+    "total_positions": 29,
+    "event_ct": 22,
+    "win_count": 10,
+    "rank": 21980,
+    "trader_tags": "> 1 year old"
   }
 ]
