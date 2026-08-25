@@ -494,5 +494,21 @@
     "win_count": 2,
     "rank": 78432,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x76241ad6ee1c74cb8389fffcd0715c4ff0bf8865",
+    "trader_name": "idfuyp",
+    "tag": "Overall",
+    "overall_gain": 657.186070631363,
+    "active_positions": 14,
+    "win_amount": 1424.143237,
+    "loss_amount": -766.957166368637,
+    "win_rate": 0.7796610169491526,
+    "total_current_value": 120,
+    "total_positions": 59,
+    "event_ct": 59,
+    "win_count": 46,
+    "rank": 78433,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
