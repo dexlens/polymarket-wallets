@@ -1502,5 +1502,21 @@
     "win_count": 5,
     "rank": 28895,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40f8b78d06a07fcb26a1bd9b27ad87bcb9024502",
+    "trader_name": "Phantomroad",
+    "tag": "Overall",
+    "overall_gain": 2962.25,
+    "active_positions": 2,
+    "win_amount": 3541.75,
+    "loss_amount": -579.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 28896,
+    "trader_tags": ""
   }
 ]
