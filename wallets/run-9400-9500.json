@@ -270,5 +270,21 @@
     "win_count": 17,
     "rank": 9417,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcc632566478a078c4ed278d4ad67cf4bd52cd755",
+    "trader_name": "charlotteb",
+    "tag": "Overall",
+    "overall_gain": 11127,
+    "active_positions": 0,
+    "win_amount": 11127,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9418,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
