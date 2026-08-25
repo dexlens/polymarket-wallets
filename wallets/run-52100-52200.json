@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 52135,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3818f16377a1663b3ccd4fe5479cfb7fea8b7713",
+    "trader_name": "tutubu",
+    "tag": "Overall",
+    "overall_gain": 1386.2069609799998,
+    "active_positions": 11,
+    "win_amount": 7735.5,
+    "loss_amount": -6349.29303902,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 150,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 13,
+    "rank": 52136,
+    "trader_tags": ""
   }
 ]
