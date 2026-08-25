@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 10346,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x622f181cecfc05fb358e33bae7601e8e153d9992",
+    "trader_name": "DOCW",
+    "tag": "Overall",
+    "overall_gain": 10162.718737530806,
+    "active_positions": 12,
+    "win_amount": 35438.24740875708,
+    "loss_amount": -25275.528671226304,
+    "win_rate": 0.6063569682151589,
+    "total_current_value": 4525.886867444,
+    "total_positions": 651,
+    "event_ct": 409,
+    "win_count": 248,
+    "rank": 10347,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
