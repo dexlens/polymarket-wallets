@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 8633,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40053e5994ddd3a2334c2f4945548637986b4cd5",
+    "trader_name": "edmondan",
+    "tag": "Overall",
+    "overall_gain": 12136.139593511605,
+    "active_positions": 8,
+    "win_amount": 13788.812666746595,
+    "loss_amount": -1652.6730732349888,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 427.65113026899996,
+    "total_positions": 20,
+    "event_ct": 13,
+    "win_count": 6,
+    "rank": 8634,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
