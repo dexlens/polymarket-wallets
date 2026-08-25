@@ -1294,5 +1294,21 @@
     "win_count": 3,
     "rank": 69382,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xad40fc826f4372bf79dd8a182c81ec1055a14345",
+    "trader_name": "SolarNova",
+    "tag": "Overall",
+    "overall_gain": 824.8773939762281,
+    "active_positions": 0,
+    "win_amount": 892.4395676880289,
+    "loss_amount": -67.56217371180101,
+    "win_rate": 0.7358490566037735,
+    "total_current_value": 0.0011610000000000001,
+    "total_positions": 100,
+    "event_ct": 53,
+    "win_count": 39,
+    "rank": 69383,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
