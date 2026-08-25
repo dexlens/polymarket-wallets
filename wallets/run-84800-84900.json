@@ -334,5 +334,21 @@
     "win_count": 14,
     "rank": 84822,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d5821f9273fdf6afb29490e6bb480ca49b92daa",
+    "trader_name": "sdgpo",
+    "tag": "Overall",
+    "overall_gain": 554.609219313477,
+    "active_positions": 5,
+    "win_amount": 554.683214729342,
+    "loss_amount": -0.07399541586500114,
+    "win_rate": 0.875,
+    "total_current_value": 26.046519033000003,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 84823,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
