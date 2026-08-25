@@ -1470,5 +1470,21 @@
     "win_count": 11,
     "rank": 43593,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2a75d14fb2e36d2d6a3b873d791c3f9bef7d3e02",
+    "trader_name": "Oliversfg",
+    "tag": "Overall",
+    "overall_gain": 1788.5,
+    "active_positions": 2,
+    "win_amount": 22225.5,
+    "loss_amount": -20437,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 43594,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
