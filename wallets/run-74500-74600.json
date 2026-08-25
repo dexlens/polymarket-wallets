@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 74599,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3067c017576602f7aa6088e8b71f678ce04cb8e5",
+    "trader_name": "pa2ra",
+    "tag": "Overall",
+    "overall_gain": 720.1409398172759,
+    "active_positions": 7,
+    "win_amount": 2519.726800942598,
+    "loss_amount": -1799.585861125322,
+    "win_rate": 0.5116279069767442,
+    "total_current_value": 0.08934710000000001,
+    "total_positions": 108,
+    "event_ct": 86,
+    "win_count": 44,
+    "rank": 74600,
+    "trader_tags": ""
   }
 ]
