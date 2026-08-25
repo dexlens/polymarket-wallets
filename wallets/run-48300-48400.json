@@ -510,5 +510,21 @@
     "win_count": 174,
     "rank": 48333,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01e4332166cf7b717e307876c3f40ddccf238901",
+    "trader_name": "Quiquee",
+    "tag": "Overall",
+    "overall_gain": 1557.2795108682747,
+    "active_positions": 2,
+    "win_amount": 1838.4792228952579,
+    "loss_amount": -281.19971202698304,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0.02254184,
+    "total_positions": 18,
+    "event_ct": 12,
+    "win_count": 7,
+    "rank": 48334,
+    "trader_tags": ""
   }
 ]
