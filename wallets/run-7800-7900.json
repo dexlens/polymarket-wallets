@@ -814,5 +814,21 @@
     "win_count": 13,
     "rank": 7851,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x52d2c43b899b98d8fb3217df8261ac4cb5a32280",
+    "trader_name": "letsfingo",
+    "tag": "Overall",
+    "overall_gain": 13423.812123733569,
+    "active_positions": 1,
+    "win_amount": 95976.83908466746,
+    "loss_amount": -82553.02696093389,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0.236332,
+    "total_positions": 94,
+    "event_ct": 77,
+    "win_count": 42,
+    "rank": 7852,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
