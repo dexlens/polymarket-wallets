@@ -430,5 +430,21 @@
     "win_count": 3,
     "rank": 76328,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90d27c099ae4446faeb21abdc093bd94ce7c4b5e",
+    "trader_name": "mikupill",
+    "tag": "Overall",
+    "overall_gain": 693.7740103252148,
+    "active_positions": 7,
+    "win_amount": 8700.420859857764,
+    "loss_amount": -8006.646849532549,
+    "win_rate": 0.38095238095238093,
+    "total_current_value": 2626.8667006999995,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 8,
+    "rank": 76329,
+    "trader_tags": "> 1 year old"
   }
 ]
