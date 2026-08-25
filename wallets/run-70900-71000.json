@@ -1022,5 +1022,21 @@
     "win_count": 19,
     "rank": 70965,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3fdedab11f469b86155d7ba163be3db4448133ee",
+    "trader_name": "CharlieSG",
+    "tag": "Overall",
+    "overall_gain": 789.0411073624389,
+    "active_positions": 2352,
+    "win_amount": 23212.354793327235,
+    "loss_amount": -22423.313685964797,
+    "win_rate": 0.40034030140982013,
+    "total_current_value": 0.611258,
+    "total_positions": 4163,
+    "event_ct": 4114,
+    "win_count": 1647,
+    "rank": 70966,
+    "trader_tags": "1k+ Positions"
   }
 ]
