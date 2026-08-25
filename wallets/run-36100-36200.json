@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 36183,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e4146284c10cb9dae7c1aa2c1444cba624436f2",
+    "trader_name": "Nebukadnezar",
+    "tag": "Overall",
+    "overall_gain": 2248.2103363987294,
+    "active_positions": 223,
+    "win_amount": 26778.221712944916,
+    "loss_amount": -24530.011376546187,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 88.46129099999999,
+    "total_positions": 765,
+    "event_ct": 609,
+    "win_count": 348,
+    "rank": 36184,
+    "trader_tags": "> 1 year old"
   }
 ]
