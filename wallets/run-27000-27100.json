@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 27031,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ad7e0654945f3c386ffbcc6f4ed8c7d51d986bf",
+    "trader_name": "BranStark",
+    "tag": "Overall",
+    "overall_gain": 3203.097797763693,
+    "active_positions": 52,
+    "win_amount": 14106.050538774012,
+    "loss_amount": -10902.952741010324,
+    "win_rate": 0.37965260545905705,
+    "total_current_value": 7395.058937718501,
+    "total_positions": 623,
+    "event_ct": 403,
+    "win_count": 153,
+    "rank": 27032,
+    "trader_tags": "> 1 year old"
   }
 ]
