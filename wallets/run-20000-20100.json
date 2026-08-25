@@ -62,5 +62,21 @@
     "win_count": 15,
     "rank": 20004,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1400c3285a487cbfe800729e888d07588775f76e",
+    "trader_name": "lonmeswwdews110",
+    "tag": "Overall",
+    "overall_gain": 4624.410533710513,
+    "active_positions": 2,
+    "win_amount": 10737.397786770161,
+    "loss_amount": -6112.9872530596485,
+    "win_rate": 0.6,
+    "total_current_value": 0.000161,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 20005,
+    "trader_tags": "< 30 days old"
   }
 ]
