@@ -558,5 +558,21 @@
     "win_count": 70,
     "rank": 79836,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9db676be64a8ef4f6cd5f39ed529048cbe6ec85a",
+    "trader_name": "HadleyBrooks",
+    "tag": "Overall",
+    "overall_gain": 633.5593727847978,
+    "active_positions": 1,
+    "win_amount": 634.534749,
+    "loss_amount": -0.975376215202,
+    "win_rate": 0.2,
+    "total_current_value": 5.1705052500000015,
+    "total_positions": 38,
+    "event_ct": 30,
+    "win_count": 6,
+    "rank": 79837,
+    "trader_tags": ""
   }
 ]
