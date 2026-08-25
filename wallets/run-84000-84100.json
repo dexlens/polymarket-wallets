@@ -606,5 +606,21 @@
     "win_count": 7,
     "rank": 84039,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc69c4e9e59244a1e659ab796aace75a3c31f5a8d",
+    "trader_name": "downtr",
+    "tag": "Overall",
+    "overall_gain": 565.7361960000001,
+    "active_positions": 0,
+    "win_amount": 565.7361960000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 84040,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
