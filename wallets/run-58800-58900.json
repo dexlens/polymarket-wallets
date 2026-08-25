@@ -926,5 +926,21 @@
     "win_count": 64,
     "rank": 58859,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5430e8954e74b93d07c84c38be0ee4f910dfc1d3",
+    "trader_name": "MrDeer6969",
+    "tag": "Overall",
+    "overall_gain": 1113.216267601403,
+    "active_positions": 12,
+    "win_amount": 2456.8118981894363,
+    "loss_amount": -1343.5956305880334,
+    "win_rate": 0.9351851851851852,
+    "total_current_value": 0.10698700000000001,
+    "total_positions": 1566,
+    "event_ct": 1188,
+    "win_count": 1111,
+    "rank": 58860,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
