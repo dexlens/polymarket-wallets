@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 63555,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9fcf8883d2a62611e5a512ba8393966414953cc7",
+    "trader_name": "KYw1Qa",
+    "tag": "Overall",
+    "overall_gain": 987.0200000000001,
+    "active_positions": 8,
+    "win_amount": 1667.74,
+    "loss_amount": -680.72,
+    "win_rate": 0.68,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 17,
+    "rank": 63556,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
