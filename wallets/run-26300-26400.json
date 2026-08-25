@@ -1550,5 +1550,21 @@
     "win_count": 7,
     "rank": 26398,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ed5d6d6c02116d4bc98c1ed0d63e5570ad6a76e",
+    "trader_name": "Gangmen",
+    "tag": "Overall",
+    "overall_gain": 3306.516740593155,
+    "active_positions": 0,
+    "win_amount": 29703.88219916334,
+    "loss_amount": -26397.365458570177,
+    "win_rate": 0.6159695817490495,
+    "total_current_value": 0.019758,
+    "total_positions": 270,
+    "event_ct": 263,
+    "win_count": 162,
+    "rank": 26399,
+    "trader_tags": "> 1 year old"
   }
 ]
