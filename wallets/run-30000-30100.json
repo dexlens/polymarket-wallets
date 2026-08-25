@@ -926,5 +926,21 @@
     "win_count": 5,
     "rank": 30059,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x626abcfedce3b9117de7a8dcaae8f930ee0e02eb",
+    "trader_name": "Robinyuelo",
+    "tag": "Overall",
+    "overall_gain": 2812.113513733581,
+    "active_positions": 0,
+    "win_amount": 2871.2174,
+    "loss_amount": -59.103886266418996,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 30060,
+    "trader_tags": "> 1 year old"
   }
 ]
