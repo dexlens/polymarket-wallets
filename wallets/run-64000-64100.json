@@ -990,5 +990,21 @@
     "win_count": 38,
     "rank": 64063,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9035d15cdd3b9c5349a462402d42eac186c95f84",
+    "trader_name": "aswvorf",
+    "tag": "Overall",
+    "overall_gain": 972.427759928255,
+    "active_positions": 4,
+    "win_amount": 1377.8206129282546,
+    "loss_amount": -405.392853,
+    "win_rate": 0.8125,
+    "total_current_value": 6.381717,
+    "total_positions": 42,
+    "event_ct": 32,
+    "win_count": 26,
+    "rank": 64064,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
