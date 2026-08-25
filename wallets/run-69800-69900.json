@@ -1182,5 +1182,21 @@
     "win_count": 15,
     "rank": 69875,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf16fffe62432a3087b2a647df6cf05b566819f16",
+    "trader_name": "nearping",
+    "tag": "Overall",
+    "overall_gain": 813.5857090951758,
+    "active_positions": 30,
+    "win_amount": 7530.838217506112,
+    "loss_amount": -6717.252508410937,
+    "win_rate": 0.9695817490494296,
+    "total_current_value": 35228.72877627701,
+    "total_positions": 445,
+    "event_ct": 263,
+    "win_count": 255,
+    "rank": 69876,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
