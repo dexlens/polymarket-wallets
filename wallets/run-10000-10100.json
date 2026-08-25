@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 10033,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2bb47a982f90174af16876208b49ad9967687fa6",
+    "trader_name": "cxsjs",
+    "tag": "Overall",
+    "overall_gain": 10455.296344,
+    "active_positions": 0,
+    "win_amount": 10492.706584,
+    "loss_amount": -37.41024,
+    "win_rate": 0.76,
+    "total_current_value": 0,
+    "total_positions": 38,
+    "event_ct": 25,
+    "win_count": 19,
+    "rank": 10034,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
