@@ -798,5 +798,21 @@
     "win_count": 3,
     "rank": 20950,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc672a884c7a86a8618afefd70e05dd14ca38c51e",
+    "trader_name": "RomanLane",
+    "tag": "Overall",
+    "overall_gain": 4375.956705080641,
+    "active_positions": 5,
+    "win_amount": 7798.616705080641,
+    "loss_amount": -3422.66,
+    "win_rate": 0.8260869565217391,
+    "total_current_value": 12.181643,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 19,
+    "rank": 20951,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
