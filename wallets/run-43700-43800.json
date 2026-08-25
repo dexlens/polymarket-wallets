@@ -766,5 +766,21 @@
     "win_count": 2950,
     "rank": 43749,
     "trader_tags": "1k+ Positions"
+  },
+  {
+    "trader": "0x03df01c8b3b7a4ab1f9af56297362a34f2ee164f",
+    "trader_name": "mwtl",
+    "tag": "Overall",
+    "overall_gain": 1779.5900000000001,
+    "active_positions": 1,
+    "win_amount": 1779.5900000000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 36.050000000000004,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 43750,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
