@@ -1246,5 +1246,21 @@
     "win_count": 10,
     "rank": 88179,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x38a1c0c1319f1859d2d2c6e9d40f057d22bedf7d",
+    "trader_name": "onemorebid",
+    "tag": "Overall",
+    "overall_gain": 510.88566137801604,
+    "active_positions": 0,
+    "win_amount": 510.88566137801604,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006717516000000001,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 88180,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
