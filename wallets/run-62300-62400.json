@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 62319,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfdf88d6d4913183f3f2d87fd5839f4ee16c59a4f",
+    "trader_name": "AAMM",
+    "tag": "Overall",
+    "overall_gain": 1014.1180210708361,
+    "active_positions": 1,
+    "win_amount": 2395.7987160708362,
+    "loss_amount": -1381.680695,
+    "win_rate": 0.7954545454545454,
+    "total_current_value": 0.12432299999999999,
+    "total_positions": 46,
+    "event_ct": 44,
+    "win_count": 35,
+    "rank": 62320,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
