@@ -222,5 +222,21 @@
     "win_count": 13,
     "rank": 8714,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0290d4a3d479d6e0b3e3d8e1cbac239227173814",
+    "trader_name": "22vn4",
+    "tag": "Overall",
+    "overall_gain": 12030.965099,
+    "active_positions": 1,
+    "win_amount": 12113.615099,
+    "loss_amount": -82.65,
+    "win_rate": 0.7894736842105263,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 19,
+    "win_count": 15,
+    "rank": 8715,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
