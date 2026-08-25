@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 7782,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f2170dc158d9e34e45ea0128e88dd3bcab48932",
+    "trader_name": "Wenss",
+    "tag": "Overall",
+    "overall_gain": 13561.368142663745,
+    "active_positions": 1,
+    "win_amount": 21828.363035895374,
+    "loss_amount": -8266.99489323163,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0.014201,
+    "total_positions": 16,
+    "event_ct": 12,
+    "win_count": 7,
+    "rank": 7783,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
