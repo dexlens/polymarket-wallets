@@ -782,5 +782,21 @@
     "win_count": 15,
     "rank": 56250,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9f9e7cebd6ac596f2827e822ffebadacd2e66ef5",
+    "trader_name": "orderbook-terrorist",
+    "tag": "Overall",
+    "overall_gain": 1206.9882852860862,
+    "active_positions": 0,
+    "win_amount": 1575.2040535200201,
+    "loss_amount": -368.21576823393406,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0.412912,
+    "total_positions": 181,
+    "event_ct": 65,
+    "win_count": 40,
+    "rank": 56251,
+    "trader_tags": "> 1 year old"
   }
 ]
