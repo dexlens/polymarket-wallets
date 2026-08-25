@@ -350,5 +350,21 @@
     "win_count": 14,
     "rank": 72823,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1d0412499298d2e28f3c5a850bffeb6fd36811ff",
+    "trader_name": "KimsLanding",
+    "tag": "Overall",
+    "overall_gain": 748.6477274099998,
+    "active_positions": 3,
+    "win_amount": 753.4526481299998,
+    "loss_amount": -4.804920720000013,
+    "win_rate": 0.8,
+    "total_current_value": 3600.051015,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 72824,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
