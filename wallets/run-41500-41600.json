@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 41573,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4806b041659586b27ec35e5bd3ba216350341076",
+    "trader_name": "skystar",
+    "tag": "Overall",
+    "overall_gain": 1900.8852271808828,
+    "active_positions": 10,
+    "win_amount": 8514.722898127946,
+    "loss_amount": -6613.837670947066,
+    "win_rate": 0.7833333333333333,
+    "total_current_value": 2418.351802,
+    "total_positions": 102,
+    "event_ct": 60,
+    "win_count": 47,
+    "rank": 41574,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
