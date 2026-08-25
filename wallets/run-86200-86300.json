@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 86244,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaa9c7f732d3e9ca69f0a306fa08cf5532850c6de",
+    "trader_name": "FRTM",
+    "tag": "Overall",
+    "overall_gain": 535.9837348408961,
+    "active_positions": 18,
+    "win_amount": 1139.0324676303442,
+    "loss_amount": -603.048732789448,
+    "win_rate": 0.5,
+    "total_current_value": 87.49231607000002,
+    "total_positions": 61,
+    "event_ct": 54,
+    "win_count": 27,
+    "rank": 86245,
+    "trader_tags": "< 30 days old"
   }
 ]
