@@ -718,5 +718,21 @@
     "win_count": 5,
     "rank": 87146,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x094ba9f3d4156b11e61e62562b3bd994e364517e",
+    "trader_name": "hjenrietta",
+    "tag": "Overall",
+    "overall_gain": 523.9593593318059,
+    "active_positions": 12,
+    "win_amount": 558.323817916739,
+    "loss_amount": -34.364458584933,
+    "win_rate": 0.8125,
+    "total_current_value": 643.5055962834999,
+    "total_positions": 88,
+    "event_ct": 80,
+    "win_count": 65,
+    "rank": 87147,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
