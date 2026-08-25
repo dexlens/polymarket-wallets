@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 86595,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d95238557e97b37e658996b31191a0e76b861ed",
+    "trader_name": "asdfjkl",
+    "tag": "Overall",
+    "overall_gain": 530.9991921910596,
+    "active_positions": 0,
+    "win_amount": 659.9880340908394,
+    "loss_amount": -128.98884189977983,
+    "win_rate": 0.5,
+    "total_current_value": 0.000004000001571989105,
+    "total_positions": 14,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 86596,
+    "trader_tags": "> 1 year old"
   }
 ]
