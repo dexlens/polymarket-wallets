@@ -1230,5 +1230,21 @@
     "win_count": 8,
     "rank": 8577,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xfa372c0119c5a82986d780e7b1a709decff6ba66",
+    "trader_name": "Quenthis",
+    "tag": "Overall",
+    "overall_gain": 12214.443303270402,
+    "active_positions": 5,
+    "win_amount": 13177.583298200001,
+    "loss_amount": -963.1399949295969,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0.00005,
+    "total_positions": 40,
+    "event_ct": 38,
+    "win_count": 32,
+    "rank": 8578,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
