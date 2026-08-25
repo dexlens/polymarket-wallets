@@ -894,5 +894,21 @@
     "win_count": 10,
     "rank": 4556,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0236c12128f512984871241f2c136375562ed224",
+    "trader_name": "Evangelinew",
+    "tag": "Overall",
+    "overall_gain": 24189,
+    "active_positions": 1,
+    "win_amount": 26150.5,
+    "loss_amount": -1961.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 4557,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
