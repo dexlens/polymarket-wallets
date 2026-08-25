@@ -606,5 +606,21 @@
     "win_count": 2,
     "rank": 37639,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x44f13fedff6372f1b0535f17c9ce2cf1338065c4",
+    "trader_name": "sogaeyng",
+    "tag": "Overall",
+    "overall_gain": 2145.4441458767014,
+    "active_positions": 4,
+    "win_amount": 2252.351127354517,
+    "loss_amount": -106.90698147781501,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 2010.0721090000002,
+    "total_positions": 42,
+    "event_ct": 34,
+    "win_count": 30,
+    "rank": 37640,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
