@@ -1038,5 +1038,21 @@
     "win_count": 306,
     "rank": 665,
     "trader_tags": "Overall PnL > $100k; > 1 year old"
+  },
+  {
+    "trader": "0x43d4482a0a69d9bcfea8ce6432629b26c19a13a2",
+    "trader_name": "wooter",
+    "tag": "Overall",
+    "overall_gain": 193292.05668781945,
+    "active_positions": 197,
+    "win_amount": 2234369.2912805364,
+    "loss_amount": -2041077.2345927167,
+    "win_rate": 0.4484304932735426,
+    "total_current_value": 43177.85094942749,
+    "total_positions": 413,
+    "event_ct": 223,
+    "win_count": 100,
+    "rank": 666,
+    "trader_tags": "Overall PnL > $100k"
   }
 ]
