@@ -478,5 +478,21 @@
     "win_count": 203,
     "rank": 5630,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6978edc2ea6a3d3745ce5484f846970672c32521",
+    "trader_name": "jyd",
+    "tag": "Overall",
+    "overall_gain": 19147.813060999997,
+    "active_positions": 1,
+    "win_amount": 19332.173060999998,
+    "loss_amount": -184.36,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 5631,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
