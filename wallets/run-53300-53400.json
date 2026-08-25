@@ -1246,5 +1246,21 @@
     "win_count": 3,
     "rank": 53379,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6aa2d3399729991261ba820339a090b0c90105fb",
+    "trader_name": "ThermoGuy",
+    "tag": "Overall",
+    "overall_gain": 1330.4312244689465,
+    "active_positions": 3,
+    "win_amount": 2759.291554907649,
+    "loss_amount": -1428.860330438703,
+    "win_rate": 0.821917808219178,
+    "total_current_value": 7916.999586500002,
+    "total_positions": 160,
+    "event_ct": 73,
+    "win_count": 60,
+    "rank": 53380,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
