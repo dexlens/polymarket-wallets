@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 4314,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbff195d5895037589c81421751ba1874c3f7d32b",
+    "trader_name": "tracy1985",
+    "tag": "Overall",
+    "overall_gain": 25803.70854216983,
+    "active_positions": 17,
+    "win_amount": 54502.823472686105,
+    "loss_amount": -28699.114930516273,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 0.17889200000000002,
+    "total_positions": 71,
+    "event_ct": 68,
+    "win_count": 44,
+    "rank": 4315,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
