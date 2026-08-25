@@ -1278,5 +1278,21 @@
     "win_count": 1,
     "rank": 85581,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0d4f330345afc66a97b1edae280c6dd1aa996967",
+    "trader_name": "Elitoon",
+    "tag": "Overall",
+    "overall_gain": 544.2804972037868,
+    "active_positions": 13,
+    "win_amount": 566.6590296642989,
+    "loss_amount": -22.378532460512094,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 7.441738485,
+    "total_positions": 63,
+    "event_ct": 60,
+    "win_count": 50,
+    "rank": 85582,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
