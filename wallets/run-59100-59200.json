@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 59145,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x834b53ce216b396ce276061d8c0c488ab389a37e",
+    "trader_name": "ruro",
+    "tag": "Overall",
+    "overall_gain": 1104.099334644391,
+    "active_positions": 9,
+    "win_amount": 2455.5038145518647,
+    "loss_amount": -1351.4044799074727,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 71.83384625000001,
+    "total_positions": 111,
+    "event_ct": 102,
+    "win_count": 85,
+    "rank": 59146,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
