@@ -1006,5 +1006,21 @@
     "win_count": 6,
     "rank": 6263,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x03ac67436f169bb5348653f991d498bcb4944f55",
+    "trader_name": "POWERSLAP-EXPERT",
+    "tag": "Overall",
+    "overall_gain": 17099.715691346588,
+    "active_positions": 2,
+    "win_amount": 66596.44895255947,
+    "loss_amount": -49496.73326121289,
+    "win_rate": 0.7436224489795918,
+    "total_current_value": 290.17256051,
+    "total_positions": 1513,
+    "event_ct": 784,
+    "win_count": 583,
+    "rank": 6264,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
