@@ -686,5 +686,21 @@
     "win_count": 78,
     "rank": 743,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x805a922574d7d6b158b7bbb49a6fa8925eb60635",
+    "trader_name": "Snoorrason",
+    "tag": "Overall",
+    "overall_gain": 172302.13935289512,
+    "active_positions": 1078,
+    "win_amount": 247804.45415983137,
+    "loss_amount": -75502.3148069363,
+    "win_rate": 0.643211100099108,
+    "total_current_value": 10327.287049170003,
+    "total_positions": 7375,
+    "event_ct": 1009,
+    "win_count": 649,
+    "rank": 744,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions"
   }
 ]
