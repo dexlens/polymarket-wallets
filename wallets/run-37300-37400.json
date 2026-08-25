@@ -158,5 +158,21 @@
     "win_count": 3,
     "rank": 37311,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21095865c4aeef592c5ee0a7c25da24edcb255bf",
+    "trader_name": "markoos",
+    "tag": "Overall",
+    "overall_gain": 2166.325431795722,
+    "active_positions": 2,
+    "win_amount": 19134.04824922169,
+    "loss_amount": -16967.72281742597,
+    "win_rate": 0.5531135531135531,
+    "total_current_value": 1.140085577,
+    "total_positions": 296,
+    "event_ct": 273,
+    "win_count": 151,
+    "rank": 37312,
+    "trader_tags": ""
   }
 ]
