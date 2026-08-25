@@ -846,5 +846,21 @@
     "win_count": 57,
     "rank": 72454,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32f45233f84779095f87c07677cba97cb5a78dd9",
+    "trader_name": "awong10",
+    "tag": "Overall",
+    "overall_gain": 756.1611256577391,
+    "active_positions": 2,
+    "win_amount": 9366.589994980624,
+    "loss_amount": -8610.428869322886,
+    "win_rate": 0.8994683421942967,
+    "total_current_value": 5.4765890000000015,
+    "total_positions": 2102,
+    "event_ct": 2069,
+    "win_count": 1861,
+    "rank": 72455,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
