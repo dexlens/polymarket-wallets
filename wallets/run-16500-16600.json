@@ -494,5 +494,21 @@
     "win_count": 89,
     "rank": 16531,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x32fd19dcc87ef795e876953fd6bd07364eb91a8b",
+    "trader_name": "YetiJuice",
+    "tag": "Overall",
+    "overall_gain": 5763.158210630005,
+    "active_positions": 0,
+    "win_amount": 5855.447120302005,
+    "loss_amount": -92.288909672,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 16532,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
