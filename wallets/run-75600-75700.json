@@ -878,5 +878,21 @@
     "win_count": 29,
     "rank": 75656,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x996e85bd55d003ed9dfc099816f0b97e25b71087",
+    "trader_name": "trabzon",
+    "tag": "Overall",
+    "overall_gain": 705.131126584706,
+    "active_positions": 4,
+    "win_amount": 763.366572598193,
+    "loss_amount": -58.235446013487,
+    "win_rate": 0.75,
+    "total_current_value": 1356.159512685,
+    "total_positions": 12,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 75657,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
