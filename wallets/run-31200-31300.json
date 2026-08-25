@@ -1470,5 +1470,21 @@
     "win_count": 6,
     "rank": 31293,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7315913779ccc4075a29cf06ee971efc39fd59f1",
+    "trader_name": "I-lost-everything-on-crypto",
+    "tag": "Overall",
+    "overall_gain": 2670.727751524304,
+    "active_positions": 0,
+    "win_amount": 2670.727751524304,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.027903999999999998,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 31294,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
