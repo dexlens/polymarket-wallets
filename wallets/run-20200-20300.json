@@ -126,5 +126,21 @@
     "win_count": 4,
     "rank": 20208,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0acff1bfc70d2813e5335dd948207c32947a59a2",
+    "trader_name": "jnytgredhgergjyt",
+    "tag": "Overall",
+    "overall_gain": 4573.150000000001,
+    "active_positions": 3,
+    "win_amount": 6830.01,
+    "loss_amount": -2256.86,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 20209,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
