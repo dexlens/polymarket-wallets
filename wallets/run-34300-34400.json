@@ -1070,5 +1070,21 @@
     "win_count": 7,
     "rank": 34368,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7da5eaa0f224f027f6c09ae40d811e76b26e79f8",
+    "trader_name": "sstore",
+    "tag": "Overall",
+    "overall_gain": 2391.547322756025,
+    "active_positions": 0,
+    "win_amount": 2391.547322756025,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006025,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 34369,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
