@@ -734,5 +734,21 @@
     "win_count": 7,
     "rank": 8446,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4111864278b148d1cf7d02fd59f26daf37de54a7",
+    "trader_name": "Mirthblade",
+    "tag": "Overall",
+    "overall_gain": 12398.584621498223,
+    "active_positions": 3,
+    "win_amount": 15043.575744569222,
+    "loss_amount": -2644.9911230710004,
+    "win_rate": 0.75,
+    "total_current_value": 3.2455092299999997,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 8447,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
