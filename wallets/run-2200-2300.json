@@ -254,5 +254,21 @@
     "win_count": 5460,
     "rank": 2216,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x2795da09fbd5f179f85a5945d77582dfc5eefd6b",
+    "trader_name": "HGSGZ",
+    "tag": "Overall",
+    "overall_gain": 54072.247766828965,
+    "active_positions": 2,
+    "win_amount": 168035.04476740528,
+    "loss_amount": -113962.79700057635,
+    "win_rate": 0.5058823529411764,
+    "total_current_value": 0.009914,
+    "total_positions": 94,
+    "event_ct": 85,
+    "win_count": 43,
+    "rank": 2217,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
