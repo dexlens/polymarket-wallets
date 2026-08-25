@@ -270,5 +270,21 @@
     "win_count": 93,
     "rank": 9017,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ad7ea66995b79f667380a64729cffe7cc9ab8eb",
+    "trader_name": "bolivergon",
+    "tag": "Overall",
+    "overall_gain": 11623.899187674346,
+    "active_positions": 2,
+    "win_amount": 14755.71215867435,
+    "loss_amount": -3131.8129710000003,
+    "win_rate": 0.9253263707571802,
+    "total_current_value": 199.00762499999988,
+    "total_positions": 1985,
+    "event_ct": 1915,
+    "win_count": 1772,
+    "rank": 9018,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
