@@ -1246,5 +1246,21 @@
     "win_count": 4,
     "rank": 18178,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41d8ebc1ec036bc568a8aa99a53665c438500f48",
+    "trader_name": "LiquidElk",
+    "tag": "Overall",
+    "overall_gain": 5121.05252857478,
+    "active_positions": 0,
+    "win_amount": 6092.145775258153,
+    "loss_amount": -971.0932466833723,
+    "win_rate": 0.64,
+    "total_current_value": 0.12180099999999999,
+    "total_positions": 44,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 18179,
+    "trader_tags": "> 1 year old"
   }
 ]
