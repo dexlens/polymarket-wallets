@@ -1486,5 +1486,21 @@
     "win_count": 50,
     "rank": 1193,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0xb2a3bf58e527714ffa8e4de52218186cd658e321",
+    "trader_name": "praktor",
+    "tag": "Overall",
+    "overall_gain": 101967.29867694838,
+    "active_positions": 2,
+    "win_amount": 116801.73262868005,
+    "loss_amount": -14834.433951731691,
+    "win_rate": 0.9940978077571669,
+    "total_current_value": 15382.6801605505,
+    "total_positions": 1495,
+    "event_ct": 1186,
+    "win_count": 1179,
+    "rank": 1194,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
