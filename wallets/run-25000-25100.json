@@ -990,5 +990,21 @@
     "win_count": 2,
     "rank": 25063,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd800d6f7b67ba44fd88d098fea9277a0cdcfc256",
+    "trader_name": "Manhohoho",
+    "tag": "Overall",
+    "overall_gain": 3524.9960019906,
+    "active_positions": 6,
+    "win_amount": 3717.8065578943542,
+    "loss_amount": -192.81055590375428,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 10633.499783085002,
+    "total_positions": 53,
+    "event_ct": 22,
+    "win_count": 20,
+    "rank": 25064,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
