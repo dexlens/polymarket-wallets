@@ -590,5 +590,21 @@
     "win_count": 6,
     "rank": 15337,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x35a69f8cd3149962f882c06255e1dd7649d2ab4d",
+    "trader_name": "BTCUP140",
+    "tag": "Overall",
+    "overall_gain": 6314.955210219955,
+    "active_positions": 9,
+    "win_amount": 41795.59078090976,
+    "loss_amount": -35480.63557068979,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 0.28911,
+    "total_positions": 279,
+    "event_ct": 253,
+    "win_count": 143,
+    "rank": 15338,
+    "trader_tags": ""
   }
 ]
