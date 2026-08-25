@@ -206,5 +206,21 @@
     "win_count": 5,
     "rank": 6313,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x567183a12d883993347ce1ae91b60e13fd566e56",
+    "trader_name": "FameFacade37",
+    "tag": "Overall",
+    "overall_gain": 16961.109985,
+    "active_positions": 1,
+    "win_amount": 22327.869985,
+    "loss_amount": -5366.76,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 29,
+    "event_ct": 26,
+    "win_count": 18,
+    "rank": 6314,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
