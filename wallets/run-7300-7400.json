@@ -254,5 +254,21 @@
     "win_count": 59,
     "rank": 7316,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4d135f2922f0f38cf77e74703f8bec15623b3752",
+    "trader_name": "Nyvo",
+    "tag": "Overall",
+    "overall_gain": 14571.393122799998,
+    "active_positions": 1,
+    "win_amount": 14911.533122799998,
+    "loss_amount": -340.14,
+    "win_rate": 0.875,
+    "total_current_value": 0.0043978,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 28,
+    "rank": 7317,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
