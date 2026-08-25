@@ -654,5 +654,21 @@
     "win_count": 31,
     "rank": 1541,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xde242261bcd8d4320113f12230da34d705ca25a8",
+    "trader_name": "PolymaREKT",
+    "tag": "Overall",
+    "overall_gain": 78558.1744060328,
+    "active_positions": 3,
+    "win_amount": 432193.53483940155,
+    "loss_amount": -353635.36043336865,
+    "win_rate": 0.14634146341463414,
+    "total_current_value": 72.62861099250001,
+    "total_positions": 230,
+    "event_ct": 123,
+    "win_count": 18,
+    "rank": 1542,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
