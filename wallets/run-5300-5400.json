@@ -318,5 +318,21 @@
     "win_count": 27,
     "rank": 5320,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa45d10fea3ce5ac959e882674c7fee302173b413",
+    "trader_name": "footking",
+    "tag": "Overall",
+    "overall_gain": 20384.28722476542,
+    "active_positions": 100,
+    "win_amount": 142622.21770922074,
+    "loss_amount": -122237.93048445528,
+    "win_rate": 0.5340314136125655,
+    "total_current_value": 1276.1679058299999,
+    "total_positions": 258,
+    "event_ct": 191,
+    "win_count": 102,
+    "rank": 5321,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
