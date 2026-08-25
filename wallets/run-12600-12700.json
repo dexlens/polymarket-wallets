@@ -1006,5 +1006,21 @@
     "win_count": 9,
     "rank": 12663,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77c5145c525b26237249adaf0acbd9acd5349a0e",
+    "trader_name": "plsnolebronto",
+    "tag": "Overall",
+    "overall_gain": 8000.32026707294,
+    "active_positions": 0,
+    "win_amount": 71858.06940507295,
+    "loss_amount": -63857.74913799999,
+    "win_rate": 0.5560999510044096,
+    "total_current_value": 0.020898,
+    "total_positions": 2527,
+    "event_ct": 2041,
+    "win_count": 1135,
+    "rank": 12664,
+    "trader_tags": "1k+ Positions"
   }
 ]
