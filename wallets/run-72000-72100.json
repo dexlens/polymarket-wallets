@@ -222,5 +222,21 @@
     "win_count": 98,
     "rank": 72015,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86bf3c3e9c6a475787616d03122c8168cdf9cd49",
+    "trader_name": "DQ2",
+    "tag": "Overall",
+    "overall_gain": 766.2188898029602,
+    "active_positions": 2,
+    "win_amount": 927.9359018647068,
+    "loss_amount": -161.71701206174637,
+    "win_rate": 0.4782608695652174,
+    "total_current_value": 0.020005083514459353,
+    "total_positions": 27,
+    "event_ct": 23,
+    "win_count": 11,
+    "rank": 72016,
+    "trader_tags": "> 1 year old"
   }
 ]
