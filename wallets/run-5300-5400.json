@@ -1262,5 +1262,21 @@
     "win_count": 4299,
     "rank": 5379,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x986c0ba5ae79c5cf171cfa8e85afe186412a3180",
+    "trader_name": "Undisputa",
+    "tag": "Overall",
+    "overall_gain": 20134.494090091684,
+    "active_positions": 284,
+    "win_amount": 307851.71759686654,
+    "loss_amount": -287717.223506775,
+    "win_rate": 0.5774240231548481,
+    "total_current_value": 2016.962112235,
+    "total_positions": 726,
+    "event_ct": 691,
+    "win_count": 399,
+    "rank": 5380,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
