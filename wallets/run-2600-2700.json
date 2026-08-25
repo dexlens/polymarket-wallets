@@ -926,5 +926,21 @@
     "win_count": 69,
     "rank": 2658,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d0d81f55610df0adaaa0da37611f1f4556cef5f",
+    "trader_name": "Aurik",
+    "tag": "Overall",
+    "overall_gain": 43828.49646575513,
+    "active_positions": 5,
+    "win_amount": 87212.7135201845,
+    "loss_amount": -43384.21705442937,
+    "win_rate": 0.5156794425087108,
+    "total_current_value": 0.33553124500000003,
+    "total_positions": 549,
+    "event_ct": 287,
+    "win_count": 148,
+    "rank": 2659,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
