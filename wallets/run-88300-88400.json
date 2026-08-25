@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 88359,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8bd3895941fb119e066103e2b1dbc63c4774b8d7",
+    "trader_name": "drfurdui",
+    "tag": "Overall",
+    "overall_gain": 508.78198063825107,
+    "active_positions": 3,
+    "win_amount": 1791.898789826434,
+    "loss_amount": -1283.1168091881827,
+    "win_rate": 0.3,
+    "total_current_value": 0.003102,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 3,
+    "rank": 88360,
+    "trader_tags": ""
   }
 ]
