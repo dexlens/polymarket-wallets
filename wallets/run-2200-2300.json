@@ -1118,5 +1118,21 @@
     "win_count": 160,
     "rank": 2270,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x31a1b62d624943495222ee2a48dfb1ab17d3ec9a",
+    "trader_name": "emeryasperna",
+    "tag": "Overall",
+    "overall_gain": 52490.765999999996,
+    "active_positions": 1,
+    "win_amount": 52873.265999999996,
+    "loss_amount": -382.5,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 2271,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
