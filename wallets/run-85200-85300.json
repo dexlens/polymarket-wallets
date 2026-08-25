@@ -414,5 +414,21 @@
     "win_count": 14,
     "rank": 85227,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa66d4f04d47c9a5726e559bf4290356385296daa",
+    "trader_name": "Lotomax",
+    "tag": "Overall",
+    "overall_gain": 548.9610140320545,
+    "active_positions": 100,
+    "win_amount": 12998.86588801064,
+    "loss_amount": -12449.904873978587,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 338.601836,
+    "total_positions": 124,
+    "event_ct": 105,
+    "win_count": 45,
+    "rank": 85228,
+    "trader_tags": ""
   }
 ]
