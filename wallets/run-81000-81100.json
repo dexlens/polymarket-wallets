@@ -1374,5 +1374,21 @@
     "win_count": 4,
     "rank": 81087,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x58d3f2ef389289325018a7545c80773f8650abfc",
+    "trader_name": "shingi",
+    "tag": "Overall",
+    "overall_gain": 612.6451875983861,
+    "active_positions": 2,
+    "win_amount": 1579.521289168176,
+    "loss_amount": -966.8761015697901,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 0.07236800000000002,
+    "total_positions": 123,
+    "event_ct": 120,
+    "win_count": 104,
+    "rank": 81088,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
