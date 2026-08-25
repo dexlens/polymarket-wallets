@@ -1182,5 +1182,21 @@
     "win_count": 6,
     "rank": 27275,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf820ceebb69255955e9d04367259c84e8e7f0485",
+    "trader_name": "1iq",
+    "tag": "Overall",
+    "overall_gain": 3165.418260067133,
+    "active_positions": 192,
+    "win_amount": 12487.691530323345,
+    "loss_amount": -9322.273270256212,
+    "win_rate": 0.2113978494623656,
+    "total_current_value": 61.634352125999996,
+    "total_positions": 4896,
+    "event_ct": 4650,
+    "win_count": 983,
+    "rank": 27276,
+    "trader_tags": "1k+ Positions"
   }
 ]
