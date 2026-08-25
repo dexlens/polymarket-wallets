@@ -1246,5 +1246,21 @@
     "win_count": 15,
     "rank": 62379,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0756ecc2392ac1cd358d238dc24f4fd40f4275c1",
+    "trader_name": "H4B678",
+    "tag": "Overall",
+    "overall_gain": 1012.9251949717418,
+    "active_positions": 1,
+    "win_amount": 1012.9251949717418,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 12.223742,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 26,
+    "rank": 62380,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
