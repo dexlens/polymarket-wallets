@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 3025,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x791976e861822c1f6d13f719d2c80e8deb9b72b2",
+    "trader_name": "HongKongMenace",
+    "tag": "Overall",
+    "overall_gain": 37917.82780598517,
+    "active_positions": 19,
+    "win_amount": 39556.039992125174,
+    "loss_amount": -1638.2121861399983,
+    "win_rate": 0.7741935483870968,
+    "total_current_value": 191713.64386018598,
+    "total_positions": 40,
+    "event_ct": 31,
+    "win_count": 24,
+    "rank": 3026,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
