@@ -542,5 +542,21 @@
     "win_count": 66,
     "rank": 2234,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xea08f6d440e6b261a34d0af77b8cec7356c07cea",
+    "trader_name": "fhw4eh",
+    "tag": "Overall",
+    "overall_gain": 53625,
+    "active_positions": 0,
+    "win_amount": 53625,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 2235,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
