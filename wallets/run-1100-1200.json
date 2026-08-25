@@ -590,5 +590,21 @@
     "win_count": 2,
     "rank": 1137,
     "trader_tags": "Overall PnL > $100k; > 1 year old; 67%+ Positions in US Election ; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x1fd50e9298ab99e6e427a2a3363bff480657cf04",
+    "trader_name": "scrooge",
+    "tag": "Overall",
+    "overall_gain": 107427.43783401382,
+    "active_positions": 12,
+    "win_amount": 213583.12291694985,
+    "loss_amount": -106155.68508293605,
+    "win_rate": 0.8282208588957055,
+    "total_current_value": 414.83122201500004,
+    "total_positions": 274,
+    "event_ct": 163,
+    "win_count": 135,
+    "rank": 1138,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
