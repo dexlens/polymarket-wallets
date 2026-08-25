@@ -670,5 +670,21 @@
     "win_count": 2,
     "rank": 49343,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x945257dd65aad5e71265c0cf712bb1652847b685",
+    "trader_name": "Bjoty1aa18",
+    "tag": "Overall",
+    "overall_gain": 1511.6596966697814,
+    "active_positions": 5,
+    "win_amount": 12871.445672306518,
+    "loss_amount": -11359.785975636736,
+    "win_rate": 0.06928016221696519,
+    "total_current_value": 200.42911199999998,
+    "total_positions": 6288,
+    "event_ct": 5918,
+    "win_count": 410,
+    "rank": 49344,
+    "trader_tags": "1k+ Positions"
   }
 ]
