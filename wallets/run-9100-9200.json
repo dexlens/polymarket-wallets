@@ -430,5 +430,21 @@
     "win_count": 3,
     "rank": 9127,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe558c9cc4d0100d2df078c82b0593c7455ff99be",
+    "trader_name": "UMAd",
+    "tag": "Overall",
+    "overall_gain": 11486.190946801102,
+    "active_positions": 0,
+    "win_amount": 12383.710132093898,
+    "loss_amount": -897.519185292796,
+    "win_rate": 0.5,
+    "total_current_value": 0.016198999999999998,
+    "total_positions": 19,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 9128,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
