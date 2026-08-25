@@ -110,5 +110,21 @@
     "win_count": 8,
     "rank": 6707,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x206b8801df5436eaa98362ec407873ece99b7d6a",
+    "trader_name": "Hurray",
+    "tag": "Overall",
+    "overall_gain": 15995.455206618564,
+    "active_positions": 733,
+    "win_amount": 105149.64638668048,
+    "loss_amount": -89154.1911800619,
+    "win_rate": 0.18736141906873613,
+    "total_current_value": 376.08942100000013,
+    "total_positions": 1396,
+    "event_ct": 902,
+    "win_count": 169,
+    "rank": 6708,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
