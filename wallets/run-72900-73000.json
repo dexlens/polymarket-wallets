@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 72961,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90e8600de6e973d240b7b230fd4766771be46dfa",
+    "trader_name": "ccgs33",
+    "tag": "Overall",
+    "overall_gain": 745.6042892711399,
+    "active_positions": 5,
+    "win_amount": 746.1014292711399,
+    "loss_amount": -0.4971399999999929,
+    "win_rate": 0.875,
+    "total_current_value": 43.3779408825,
+    "total_positions": 24,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 72962,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
