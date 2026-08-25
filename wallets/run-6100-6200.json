@@ -1374,5 +1374,21 @@
     "win_count": 3,
     "rank": 6186,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x437b91c5863bec6586af33dcabb640c58f200ba4",
+    "trader_name": "greendumper",
+    "tag": "Overall",
+    "overall_gain": 17322.599475905772,
+    "active_positions": 53,
+    "win_amount": 43132.91392165452,
+    "loss_amount": -25810.314445748754,
+    "win_rate": 0.5974358974358974,
+    "total_current_value": 6262.991792643501,
+    "total_positions": 641,
+    "event_ct": 390,
+    "win_count": 233,
+    "rank": 6187,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
