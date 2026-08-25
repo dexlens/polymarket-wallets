@@ -318,5 +318,21 @@
     "win_count": 4,
     "rank": 39221,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x55b5f38ab12acc477af022ec6c571b70ffd7d7ad",
+    "trader_name": "Luckyme8",
+    "tag": "Overall",
+    "overall_gain": 2036.6488613570273,
+    "active_positions": 5,
+    "win_amount": 2283.9366988235515,
+    "loss_amount": -247.287837466525,
+    "win_rate": 0.9372549019607843,
+    "total_current_value": 0.663816,
+    "total_positions": 412,
+    "event_ct": 255,
+    "win_count": 239,
+    "rank": 39222,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
