@@ -494,5 +494,21 @@
     "win_count": 5,
     "rank": 5131,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00e262a340419a294f4470a465cc3be167cf6b9e",
+    "trader_name": "Cartography",
+    "tag": "Overall",
+    "overall_gain": 21106.68296085075,
+    "active_positions": 0,
+    "win_amount": 34040.68211285074,
+    "loss_amount": -12933.999152,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.000745,
+    "total_positions": 15,
+    "event_ct": 14,
+    "win_count": 8,
+    "rank": 5132,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
