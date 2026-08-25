@@ -1310,5 +1310,21 @@
     "win_count": 404,
     "rank": 8582,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x2e3fb4b814b99901da093d534c053acc144baf49",
+    "trader_name": "rdgrd",
+    "tag": "Overall",
+    "overall_gain": 12210.474182560001,
+    "active_positions": 1,
+    "win_amount": 12300.740242560001,
+    "loss_amount": -90.26606000000001,
+    "win_rate": 0.75,
+    "total_current_value": 40.64,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 8583,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
