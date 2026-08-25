@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 85720,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e1c05b361c769510b2cac4f787e1af74e85cdcd",
+    "trader_name": "Xgysud",
+    "tag": "Overall",
+    "overall_gain": 542.665107521309,
+    "active_positions": 2,
+    "win_amount": 547.284403521309,
+    "loss_amount": -4.619296,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 24.111809,
+    "total_positions": 25,
+    "event_ct": 23,
+    "win_count": 16,
+    "rank": 85721,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
