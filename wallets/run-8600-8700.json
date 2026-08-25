@@ -878,5 +878,21 @@
     "win_count": 18,
     "rank": 8655,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa493ae0ddebc56b9ae0f904d6091e6040dc4612e",
+    "trader_name": "StopNoticing",
+    "tag": "Overall",
+    "overall_gain": 12101.463075430092,
+    "active_positions": 0,
+    "win_amount": 39830.64453379208,
+    "loss_amount": -27729.181458361996,
+    "win_rate": 0.4774774774774775,
+    "total_current_value": 0.482678,
+    "total_positions": 269,
+    "event_ct": 111,
+    "win_count": 53,
+    "rank": 8656,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
