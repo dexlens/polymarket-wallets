@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 2640,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a7ed19909e9b4c6cd0fc1d59c1d481415a1fce4",
+    "trader_name": "LEONIDOVITCH1983",
+    "tag": "Overall",
+    "overall_gain": 44164.18362049473,
+    "active_positions": 5,
+    "win_amount": 158130.87515857283,
+    "loss_amount": -113966.691538078,
+    "win_rate": 0.8961225466730494,
+    "total_current_value": 8881.221664322004,
+    "total_positions": 3508,
+    "event_ct": 2089,
+    "win_count": 1872,
+    "rank": 2641,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
