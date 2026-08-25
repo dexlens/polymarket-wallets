@@ -910,5 +910,21 @@
     "win_count": 6,
     "rank": 20357,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0xf32fa37c011e0aefa9f9162f18f34b9857b517a1",
+    "trader_name": "cna",
+    "tag": "Overall",
+    "overall_gain": 4533.172552935242,
+    "active_positions": 0,
+    "win_amount": 4533.172552935242,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.016637,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 20358,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
