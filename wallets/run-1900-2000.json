@@ -1470,5 +1470,21 @@
     "win_count": 59,
     "rank": 1992,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x45642ba37038647ede5b9388578edcb7e9cd63be",
+    "trader_name": "brantut",
+    "tag": "Overall",
+    "overall_gain": 60700.750401199075,
+    "active_positions": 1,
+    "win_amount": 60755.290411198075,
+    "loss_amount": -54.54000999899999,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.000066,
+    "total_positions": 39,
+    "event_ct": 27,
+    "win_count": 21,
+    "rank": 1993,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
