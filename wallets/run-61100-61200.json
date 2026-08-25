@@ -846,5 +846,21 @@
     "win_count": 7,
     "rank": 61154,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5776b88a6316788d3eaa352791fda3fe0c7bcf86",
+    "trader_name": "interfacegald",
+    "tag": "Overall",
+    "overall_gain": 1043.7108508720373,
+    "active_positions": 32,
+    "win_amount": 1212.456648078499,
+    "loss_amount": -168.74579720646136,
+    "win_rate": 0.7313432835820896,
+    "total_current_value": 81.97997900000001,
+    "total_positions": 75,
+    "event_ct": 67,
+    "win_count": 49,
+    "rank": 61155,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
