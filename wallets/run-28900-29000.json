@@ -926,5 +926,21 @@
     "win_count": 5,
     "rank": 28959,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x05d1cf888e495a56bacdbfe9372ec40250a42bb3",
+    "trader_name": "AtlantisMelting",
+    "tag": "Overall",
+    "overall_gain": 2952.6353414985438,
+    "active_positions": 10,
+    "win_amount": 13375.350110572545,
+    "loss_amount": -10422.714769074,
+    "win_rate": 0.5409836065573771,
+    "total_current_value": 11415.68004448,
+    "total_positions": 83,
+    "event_ct": 61,
+    "win_count": 33,
+    "rank": 28960,
+    "trader_tags": "> 1 year old"
   }
 ]
