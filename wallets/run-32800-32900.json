@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 32886,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x223d9feca1dbfc2b94b54322e9e23791b1188ef3",
+    "trader_name": "InverseSignal",
+    "tag": "Overall",
+    "overall_gain": 2514.026323646574,
+    "active_positions": 0,
+    "win_amount": 2852.7950887243037,
+    "loss_amount": -338.76876507773,
+    "win_rate": 0.9117647058823529,
+    "total_current_value": 0.0013999999999999998,
+    "total_positions": 41,
+    "event_ct": 34,
+    "win_count": 31,
+    "rank": 32887,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
