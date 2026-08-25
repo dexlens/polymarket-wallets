@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 87467,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07a071aca66b4bc5fb8fc4e4674ff47e0f7dc201",
+    "trader_name": "HL.",
+    "tag": "Overall",
+    "overall_gain": 519.3147518184651,
+    "active_positions": 0,
+    "win_amount": 519.3147518184651,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.090749,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 87468,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
