@@ -862,5 +862,21 @@
     "win_count": 174,
     "rank": 68855,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7db610fa37ac14a9e98bf811adc3fff49acf16bb",
+    "trader_name": "AODI10",
+    "tag": "Overall",
+    "overall_gain": 838.506574136897,
+    "active_positions": 44,
+    "win_amount": 1634.6520486810389,
+    "loss_amount": -796.1454745441421,
+    "win_rate": 0.7701149425287356,
+    "total_current_value": 2037.2210471700002,
+    "total_positions": 171,
+    "event_ct": 87,
+    "win_count": 67,
+    "rank": 68856,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
