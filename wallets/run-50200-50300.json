@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 50252,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9bd3f4835993a4b1bf21179bab4eaafcbd2366ea",
+    "trader_name": "itdrykvk",
+    "tag": "Overall",
+    "overall_gain": 1473.1904704775588,
+    "active_positions": 5,
+    "win_amount": 1822.7500304775588,
+    "loss_amount": -349.55956000000003,
+    "win_rate": 0.9,
+    "total_current_value": 203.9956586735,
+    "total_positions": 31,
+    "event_ct": 30,
+    "win_count": 27,
+    "rank": 50253,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
