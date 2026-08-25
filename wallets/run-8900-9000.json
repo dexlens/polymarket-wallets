@@ -782,5 +782,21 @@
     "win_count": 31,
     "rank": 8949,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0aaea7bb88804e9b4238e39a242cd5247e43c6c4",
+    "trader_name": "BigRon",
+    "tag": "Overall",
+    "overall_gain": 11706.597453734596,
+    "active_positions": 6,
+    "win_amount": 59804.08857187319,
+    "loss_amount": -48097.49111813862,
+    "win_rate": 0.6385542168674698,
+    "total_current_value": 50.4181889,
+    "total_positions": 242,
+    "event_ct": 166,
+    "win_count": 106,
+    "rank": 8950,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
