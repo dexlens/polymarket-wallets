@@ -1374,5 +1374,21 @@
     "win_count": 191,
     "rank": 7186,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15fe8f8eeaef262bc435e09206ea5d1540cb9cde",
+    "trader_name": "morongambler",
+    "tag": "Overall",
+    "overall_gain": 14874.888099272996,
+    "active_positions": 0,
+    "win_amount": 15037.848099272995,
+    "loss_amount": -162.96,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.00042646499999999995,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 7187,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
