@@ -1038,5 +1038,21 @@
     "win_count": 44,
     "rank": 3665,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc77a8ae3de307d7b4aa910c997015d1c45b4daf8",
+    "trader_name": "junglediff",
+    "tag": "Overall",
+    "overall_gain": 31106.546533715038,
+    "active_positions": 33,
+    "win_amount": 32275.389188069836,
+    "loss_amount": -1168.8426543547907,
+    "win_rate": 0.35714285714285715,
+    "total_current_value": 402.768845,
+    "total_positions": 77,
+    "event_ct": 56,
+    "win_count": 20,
+    "rank": 3666,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
