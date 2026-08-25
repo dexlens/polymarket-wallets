@@ -1358,5 +1358,21 @@
     "win_count": 6,
     "rank": 63886,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2e3979fb175fbb9d0602f9a640ab8e07a6aaec6b",
+    "trader_name": "shadlington",
+    "tag": "Overall",
+    "overall_gain": 977.1078593225968,
+    "active_positions": 0,
+    "win_amount": 2091.423942234419,
+    "loss_amount": -1114.316082911822,
+    "win_rate": 0.7164179104477612,
+    "total_current_value": 0.253101,
+    "total_positions": 68,
+    "event_ct": 67,
+    "win_count": 48,
+    "rank": 63887,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
