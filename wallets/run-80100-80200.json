@@ -126,5 +126,21 @@
     "win_count": 9,
     "rank": 80109,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x85dad1f0c6ad082eba41dc61323f5ae57af2efd2",
+    "trader_name": "fanmengxian",
+    "tag": "Overall",
+    "overall_gain": 628.818318003057,
+    "active_positions": 13,
+    "win_amount": 661.5777539400001,
+    "loss_amount": -32.75943593694299,
+    "win_rate": 0.84375,
+    "total_current_value": 215.429228924,
+    "total_positions": 65,
+    "event_ct": 64,
+    "win_count": 54,
+    "rank": 80110,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
