@@ -366,5 +366,21 @@
     "win_count": 2,
     "rank": 27724,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4ece4677f7f76fd531868dc5c6479c6bf623fd90",
+    "trader_name": "BIGstewie",
+    "tag": "Overall",
+    "overall_gain": 3101.367206667352,
+    "active_positions": 21,
+    "win_amount": 4641.170110433465,
+    "loss_amount": -1539.8029037661138,
+    "win_rate": 0.7903225806451613,
+    "total_current_value": 1792.4227919849998,
+    "total_positions": 73,
+    "event_ct": 62,
+    "win_count": 49,
+    "rank": 27725,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
