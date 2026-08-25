@@ -158,5 +158,21 @@
     "win_count": 6,
     "rank": 19110,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03c5dae8ba3756d3639f53aa40602914de8775b8",
+    "trader_name": "Herky",
+    "tag": "Overall",
+    "overall_gain": 4869.329026048302,
+    "active_positions": 0,
+    "win_amount": 5488.770408021998,
+    "loss_amount": -619.441381973697,
+    "win_rate": 0.25,
+    "total_current_value": 0.033160277999999994,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 19111,
+    "trader_tags": ""
   }
 ]
