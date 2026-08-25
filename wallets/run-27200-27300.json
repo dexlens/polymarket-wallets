@@ -126,5 +126,21 @@
     "win_count": 15,
     "rank": 27209,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x04c98333f0f7b652a0a80253c25650e8f7bc573c",
+    "trader_name": "bullpump",
+    "tag": "Overall",
+    "overall_gain": 3176.596779386406,
+    "active_positions": 34,
+    "win_amount": 14361.077806855577,
+    "loss_amount": -11184.481027469172,
+    "win_rate": 0.5789473684210527,
+    "total_current_value": 45.622201999999994,
+    "total_positions": 780,
+    "event_ct": 703,
+    "win_count": 407,
+    "rank": 27210,
+    "trader_tags": "< 30 days old"
   }
 ]
