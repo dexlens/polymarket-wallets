@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 27749,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1668aa014e4fa48a30fb1201092240c2bdcdc545",
+    "trader_name": "mortea",
+    "tag": "Overall",
+    "overall_gain": 3098.612665843088,
+    "active_positions": 6,
+    "win_amount": 8792.75820326167,
+    "loss_amount": -5694.1455374185825,
+    "win_rate": 0.46296296296296297,
+    "total_current_value": 0.01608,
+    "total_positions": 57,
+    "event_ct": 54,
+    "win_count": 25,
+    "rank": 27750,
+    "trader_tags": "> 1 year old"
   }
 ]
