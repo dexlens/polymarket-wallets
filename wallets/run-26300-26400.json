@@ -670,5 +670,21 @@
     "win_count": 10,
     "rank": 26343,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x829aec3f290173853b8ab9c809445f68fb9e4cd5",
+    "trader_name": "Petrosko",
+    "tag": "Overall",
+    "overall_gain": 3316.7628849999996,
+    "active_positions": 0,
+    "win_amount": 6800.3705310000005,
+    "loss_amount": -3483.607646,
+    "win_rate": 0.6451612903225806,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 31,
+    "win_count": 20,
+    "rank": 26344,
+    "trader_tags": "> 1 year old"
   }
 ]
