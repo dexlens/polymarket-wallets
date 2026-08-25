@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 85933,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x706e3d0ea2744bca14101af6d1fa694e88b6242c",
+    "trader_name": "makertaker",
+    "tag": "Overall",
+    "overall_gain": 539.999438028215,
+    "active_positions": 0,
+    "win_amount": 1929.168558628215,
+    "loss_amount": -1389.1691206,
+    "win_rate": 0.3076923076923077,
+    "total_current_value": 0.002589,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 4,
+    "rank": 85934,
+    "trader_tags": ""
   }
 ]
