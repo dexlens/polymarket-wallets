@@ -1038,5 +1038,21 @@
     "win_count": 3,
     "rank": 765,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x1a4249cd596a8e51b267dfe3c56cacc25815a00b",
+    "trader_name": "LambSaauce",
+    "tag": "Overall",
+    "overall_gain": 167666.7807828515,
+    "active_positions": 189,
+    "win_amount": 439015.44803900615,
+    "loss_amount": -271348.66725615476,
+    "win_rate": 0.5729830148619958,
+    "total_current_value": 0,
+    "total_positions": 14562,
+    "event_ct": 7536,
+    "win_count": 4318,
+    "rank": 766,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
