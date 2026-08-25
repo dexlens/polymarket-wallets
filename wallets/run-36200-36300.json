@@ -62,5 +62,21 @@
     "win_count": 4,
     "rank": 36205,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7cb4079a68d457a1166f11f8d5e660b84bbb40c3",
+    "trader_name": "criptotemplo",
+    "tag": "Overall",
+    "overall_gain": 2246.4601759643165,
+    "active_positions": 13,
+    "win_amount": 2653.935480290379,
+    "loss_amount": -407.475304326063,
+    "win_rate": 0.6875,
+    "total_current_value": 1052.1399312115002,
+    "total_positions": 75,
+    "event_ct": 64,
+    "win_count": 44,
+    "rank": 36206,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
