@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 45355,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x880f37c9d155e78076d0cfae98c1c8d64ea7861b",
+    "trader_name": "richiema",
+    "tag": "Overall",
+    "overall_gain": 1696.75,
+    "active_positions": 1,
+    "win_amount": 1717.6100000000001,
+    "loss_amount": -20.860000000000014,
+    "win_rate": 0.75,
+    "total_current_value": 271.18,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 45356,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
