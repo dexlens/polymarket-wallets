@@ -1070,5 +1070,21 @@
     "win_count": 56,
     "rank": 1967,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55dbfaefb030207f98ee6cccf1663986a8fc2031",
+    "trader_name": "D33pCynic",
+    "tag": "Overall",
+    "overall_gain": 61244.34582750289,
+    "active_positions": 5,
+    "win_amount": 68608.01087472851,
+    "loss_amount": -7363.6650472256315,
+    "win_rate": 0.6,
+    "total_current_value": 23294.854012985998,
+    "total_positions": 22,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 1968,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
