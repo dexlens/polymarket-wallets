@@ -62,5 +62,21 @@
     "win_count": 4,
     "rank": 8904,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b064e1415c2fd4239c16e5ccf1d2730bab91dad",
+    "trader_name": "pump.fun",
+    "tag": "Overall",
+    "overall_gain": 11761.256272745915,
+    "active_positions": 22,
+    "win_amount": 23875.857909816383,
+    "loss_amount": -12114.601637070466,
+    "win_rate": 0.5925925925925926,
+    "total_current_value": 0.019937999999999997,
+    "total_positions": 217,
+    "event_ct": 27,
+    "win_count": 16,
+    "rank": 8905,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
