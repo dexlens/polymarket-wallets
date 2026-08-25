@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 2864,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20ee77275fd39328fdebdc35b9bb0f3941da1391",
+    "trader_name": "kanye",
+    "tag": "Overall",
+    "overall_gain": 40162.16724501096,
+    "active_positions": 39,
+    "win_amount": 75729.19630868618,
+    "loss_amount": -35567.0290636752,
+    "win_rate": 0.7409638554216867,
+    "total_current_value": 5804.729112999999,
+    "total_positions": 330,
+    "event_ct": 166,
+    "win_count": 123,
+    "rank": 2865,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
