@@ -1038,5 +1038,21 @@
     "win_count": 11,
     "rank": 13765,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc5f72d89817e9a0a8384e7c156cf684d4043f0a7",
+    "trader_name": "Frostspeech",
+    "tag": "Overall",
+    "overall_gain": 7182.5,
+    "active_positions": 1,
+    "win_amount": 7201.5,
+    "loss_amount": -19,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 13766,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
