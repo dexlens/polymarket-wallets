@@ -1262,5 +1262,21 @@
     "win_count": 2,
     "rank": 3179,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdf5e4fa5be349b674874b42cfb538ac6e2534168",
+    "trader_name": "JuliusNakamoto",
+    "tag": "Overall",
+    "overall_gain": 36049.67163628317,
+    "active_positions": 55,
+    "win_amount": 46046.5211041788,
+    "loss_amount": -9996.84946789561,
+    "win_rate": 0.6903765690376569,
+    "total_current_value": 11361.480201976497,
+    "total_positions": 667,
+    "event_ct": 239,
+    "win_count": 165,
+    "rank": 3180,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
