@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 12158,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x14f7c363d77fea419bb12e62a9982afbc4f2ebdc",
+    "trader_name": "Xyrian",
+    "tag": "Overall",
+    "overall_gain": 8431.655460843134,
+    "active_positions": 3,
+    "win_amount": 9321.731310900113,
+    "loss_amount": -890.0758500569822,
+    "win_rate": 0.8076923076923077,
+    "total_current_value": 0.016355,
+    "total_positions": 56,
+    "event_ct": 52,
+    "win_count": 42,
+    "rank": 12159,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
