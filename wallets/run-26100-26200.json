@@ -638,5 +638,21 @@
     "win_count": 12,
     "rank": 26141,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x92db137e639fb839808a25144bd70863f9178de7",
+    "trader_name": "Prismbond",
+    "tag": "Overall",
+    "overall_gain": 3347.02,
+    "active_positions": 0,
+    "win_amount": 3347.02,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 26142,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
