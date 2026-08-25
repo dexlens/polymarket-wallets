@@ -526,5 +526,21 @@
     "win_count": 97,
     "rank": 33034,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5d51680f7f0e1ccc79f2a70ddd72ce0bd0e37b65",
+    "trader_name": "Outros",
+    "tag": "Overall",
+    "overall_gain": 2500.773989340567,
+    "active_positions": 0,
+    "win_amount": 2500.773989340567,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000679,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 33035,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
