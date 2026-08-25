@@ -702,5 +702,21 @@
     "win_count": 13,
     "rank": 31345,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x059ee5dbf6d6f2c4d0e88d433654f0996ed754d1",
+    "trader_name": "AndyArbs",
+    "tag": "Overall",
+    "overall_gain": 2666.531728378254,
+    "active_positions": 56,
+    "win_amount": 22285.214349708524,
+    "loss_amount": -19618.68262133027,
+    "win_rate": 0.7582938388625592,
+    "total_current_value": 197.214438,
+    "total_positions": 234,
+    "event_ct": 211,
+    "win_count": 160,
+    "rank": 31346,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
