@@ -1582,5 +1582,21 @@
     "win_count": 2,
     "rank": 79200,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfa7b8a56405af3eb8df7f219906f55db8eb50147",
+    "trader_name": "baiyanluo",
+    "tag": "Overall",
+    "overall_gain": 643.9516798586883,
+    "active_positions": 1,
+    "win_amount": 656.225138,
+    "loss_amount": -12.273458141312002,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 1200.009161856,
+    "total_positions": 29,
+    "event_ct": 22,
+    "win_count": 8,
+    "rank": 79201,
+    "trader_tags": ""
   }
 ]
