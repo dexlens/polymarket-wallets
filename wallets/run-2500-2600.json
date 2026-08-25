@@ -1182,5 +1182,21 @@
     "win_count": 2,
     "rank": 2574,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x47412e25034df5a236764bbe4458a65530496cf0",
+    "trader_name": "HustleMS",
+    "tag": "Overall",
+    "overall_gain": 45356.45936490027,
+    "active_positions": 0,
+    "win_amount": 69189.17987990026,
+    "loss_amount": -23832.720515,
+    "win_rate": 0.675,
+    "total_current_value": 0.00027000000000000006,
+    "total_positions": 40,
+    "event_ct": 40,
+    "win_count": 27,
+    "rank": 2575,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
