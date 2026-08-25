@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 42365,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb2b35e979d029e053977ee924023a21062624750",
+    "trader_name": "Step10",
+    "tag": "Overall",
+    "overall_gain": 1856.573504030061,
+    "active_positions": 232,
+    "win_amount": 16649.708560000003,
+    "loss_amount": -14793.135055969942,
+    "win_rate": 0.5308170090778787,
+    "total_current_value": 69.67999999999999,
+    "total_positions": 2101,
+    "event_ct": 2093,
+    "win_count": 1111,
+    "rank": 42366,
+    "trader_tags": "1k+ Positions"
   }
 ]
