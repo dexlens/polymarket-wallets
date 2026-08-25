@@ -638,5 +638,21 @@
     "win_count": 42,
     "rank": 12540,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x598bb21966326d15408f6278fb1d330dd2fed997",
+    "trader_name": "hituji",
+    "tag": "Overall",
+    "overall_gain": 8092.989144409647,
+    "active_positions": 2,
+    "win_amount": 13590.09903154151,
+    "loss_amount": -5497.109887131862,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 104.69139674499999,
+    "total_positions": 17,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 12541,
+    "trader_tags": "> 1 year old"
   }
 ]
