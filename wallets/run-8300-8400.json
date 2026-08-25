@@ -1438,5 +1438,21 @@
     "win_count": 7,
     "rank": 8390,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaee456163a5a3e03742b1a8044b04ab7d0e3bd96",
+    "trader_name": "Qyrosian",
+    "tag": "Overall",
+    "overall_gain": 12484.602058900002,
+    "active_positions": 5,
+    "win_amount": 14939.795252900001,
+    "loss_amount": -2455.193194,
+    "win_rate": 0.7959183673469388,
+    "total_current_value": 6.022729999999999,
+    "total_positions": 53,
+    "event_ct": 49,
+    "win_count": 39,
+    "rank": 8391,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
