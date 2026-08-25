@@ -462,5 +462,21 @@
     "win_count": 15,
     "rank": 42230,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb76f33b864177e6d64e07bbf231054bd5a21709",
+    "trader_name": "Zhaoda",
+    "tag": "Overall",
+    "overall_gain": 1864.7205,
+    "active_positions": 2,
+    "win_amount": 2755.3776,
+    "loss_amount": -890.6571,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 42231,
+    "trader_tags": ""
   }
 ]
