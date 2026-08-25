@@ -894,5 +894,21 @@
     "win_count": 2,
     "rank": 46757,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x654b08386c5f697c0668dcecf91770301d32dc29",
+    "trader_name": "johnsmith666",
+    "tag": "Overall",
+    "overall_gain": 1627.9146650447071,
+    "active_positions": 0,
+    "win_amount": 1790.469829244254,
+    "loss_amount": -162.555164199547,
+    "win_rate": 0.5,
+    "total_current_value": 0.000534,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 46758,
+    "trader_tags": "> 1 year old"
   }
 ]
