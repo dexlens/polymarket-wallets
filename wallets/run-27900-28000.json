@@ -830,5 +830,21 @@
     "win_count": 24,
     "rank": 27953,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4af7b931b69f4d70ab729b72fe0481d4393b414f",
+    "trader_name": "fredluback",
+    "tag": "Overall",
+    "overall_gain": 3073.021815454999,
+    "active_positions": 1,
+    "win_amount": 3216.908065534999,
+    "loss_amount": -143.88625008,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 9214.614865685,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 27954,
+    "trader_tags": "< 30 days old"
   }
 ]
