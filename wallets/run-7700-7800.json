@@ -526,5 +526,21 @@
     "win_count": 24,
     "rank": 7733,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4957c57026ce64439bb4f26ea259139dd4c14cbc",
+    "trader_name": "Qalver",
+    "tag": "Overall",
+    "overall_gain": 13653.122323385409,
+    "active_positions": 7,
+    "win_amount": 14681.2722113828,
+    "loss_amount": -1028.149887997392,
+    "win_rate": 0.8431372549019608,
+    "total_current_value": 106.207797,
+    "total_positions": 53,
+    "event_ct": 51,
+    "win_count": 43,
+    "rank": 7734,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
