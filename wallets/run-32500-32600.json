@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 32600,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb05366f61606ab3e700cef4ec485cb9b2306cddf",
+    "trader_name": "hdhfjmyf",
+    "tag": "Overall",
+    "overall_gain": 2540.8797884851638,
+    "active_positions": 2,
+    "win_amount": 2698.448871837164,
+    "loss_amount": -157.569083352,
+    "win_rate": 0.9142857142857143,
+    "total_current_value": 193.651174,
+    "total_positions": 38,
+    "event_ct": 35,
+    "win_count": 32,
+    "rank": 32601,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
