@@ -1534,5 +1534,21 @@
     "win_count": 4,
     "rank": 7296,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d84175a6525f53dc36738829f57e1460e7c511a",
+    "trader_name": "youwannabet",
+    "tag": "Overall",
+    "overall_gain": 14624.80276221004,
+    "active_positions": 1,
+    "win_amount": 16963.057528431276,
+    "loss_amount": -2338.254766221237,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.008252,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 7297,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
