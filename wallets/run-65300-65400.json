@@ -798,5 +798,21 @@
     "win_count": 3,
     "rank": 65351,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1992a372a245dff7d4c546f10b4d5dcabffdf47c",
+    "trader_name": "douyacai",
+    "tag": "Overall",
+    "overall_gain": 934.689129305105,
+    "active_positions": 0,
+    "win_amount": 965.022872,
+    "loss_amount": -30.333742694895,
+    "win_rate": 0.5,
+    "total_current_value": 0.011105,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 65352,
+    "trader_tags": "> 1 year old"
   }
 ]
