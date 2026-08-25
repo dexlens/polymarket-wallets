@@ -110,5 +110,21 @@
     "win_count": 5,
     "rank": 30208,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b4b5af0c55a4b560b5404e4de9da736eceb3f53",
+    "trader_name": "kubz",
+    "tag": "Overall",
+    "overall_gain": 2798.297618075859,
+    "active_positions": 3,
+    "win_amount": 6532.1883184998005,
+    "loss_amount": -3733.8907004239413,
+    "win_rate": 0.375,
+    "total_current_value": 0.011505,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 30209,
+    "trader_tags": "> 1 year old"
   }
 ]
