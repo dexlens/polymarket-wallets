@@ -1182,5 +1182,21 @@
     "win_count": 57,
     "rank": 68475,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbe0286ed9c811337252732da504cf45311c4a0d7",
+    "trader_name": "moneychecking",
+    "tag": "Overall",
+    "overall_gain": 848.9409060639999,
+    "active_positions": 0,
+    "win_amount": 848.9409060639999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005454,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 68476,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
