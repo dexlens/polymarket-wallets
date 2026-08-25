@@ -1582,5 +1582,21 @@
     "win_count": 8,
     "rank": 5599,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10e420926d84ddbb9042a573323d6a745d98b019",
+    "trader_name": "abracadabr",
+    "tag": "Overall",
+    "overall_gain": 19274.592661092098,
+    "active_positions": 4,
+    "win_amount": 21654.019548283017,
+    "loss_amount": -2379.4268871909144,
+    "win_rate": 0.7894736842105263,
+    "total_current_value": 18762.999525007,
+    "total_positions": 53,
+    "event_ct": 38,
+    "win_count": 30,
+    "rank": 5600,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
