@@ -670,5 +670,21 @@
     "win_count": 2,
     "rank": 85143,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ee6da52b23100c924b4908b57ce9bca5195512c",
+    "trader_name": "rwilinski",
+    "tag": "Overall",
+    "overall_gain": 550.14704936804,
+    "active_positions": 3,
+    "win_amount": 875.625518341158,
+    "loss_amount": -325.47846897311797,
+    "win_rate": 0.625,
+    "total_current_value": 201.62075381149998,
+    "total_positions": 18,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 85144,
+    "trader_tags": "> 1 year old"
   }
 ]
