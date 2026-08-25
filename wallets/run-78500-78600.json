@@ -366,5 +366,21 @@
     "win_count": 3,
     "rank": 78524,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4be0cf14a8793845036f12c502abe26046afcba2",
+    "trader_name": "MMPC",
+    "tag": "Overall",
+    "overall_gain": 655.3207591645712,
+    "active_positions": 0,
+    "win_amount": 18332.043821731153,
+    "loss_amount": -17676.7230625666,
+    "win_rate": 0.5053571428571428,
+    "total_current_value": 0.0226753035,
+    "total_positions": 1243,
+    "event_ct": 1120,
+    "win_count": 566,
+    "rank": 78525,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
