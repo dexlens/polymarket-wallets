@@ -510,5 +510,21 @@
     "win_count": 17,
     "rank": 3332,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x412ca841b9afe1dcb7ca9f2939821644cf5e97d3",
+    "trader_name": "LEICHTT",
+    "tag": "Overall",
+    "overall_gain": 34333,
+    "active_positions": 0,
+    "win_amount": 56944,
+    "loss_amount": -22611,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 3333,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
