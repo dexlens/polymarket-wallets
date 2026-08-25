@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 2543,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa3384cf6d6769e5d3736ea9c3cd0583b0deff5e5",
+    "trader_name": "jesis",
+    "tag": "Overall",
+    "overall_gain": 46066.18699030526,
+    "active_positions": 11,
+    "win_amount": 50645.601728999995,
+    "loss_amount": -4579.4147386947425,
+    "win_rate": 0.6216216216216216,
+    "total_current_value": 0,
+    "total_positions": 40,
+    "event_ct": 37,
+    "win_count": 23,
+    "rank": 2544,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
