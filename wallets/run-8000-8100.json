@@ -318,5 +318,21 @@
     "win_count": 28,
     "rank": 8020,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x250c209da4b8cd7543a12eed529efc68b6982774",
+    "trader_name": "acal",
+    "tag": "Overall",
+    "overall_gain": 13085.576567276217,
+    "active_positions": 5339,
+    "win_amount": 29263.0503429745,
+    "loss_amount": -16177.47377569829,
+    "win_rate": 0.3383399209486166,
+    "total_current_value": 2779.8359701844997,
+    "total_positions": 6104,
+    "event_ct": 1265,
+    "win_count": 428,
+    "rank": 8021,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
