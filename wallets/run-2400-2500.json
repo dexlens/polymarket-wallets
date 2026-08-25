@@ -1534,5 +1534,21 @@
     "win_count": 3025,
     "rank": 2496,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xe734d5a008576905ec700019e530a7cc8da88f6a",
+    "trader_name": "G1MAIN",
+    "tag": "Overall",
+    "overall_gain": 47077.06969595255,
+    "active_positions": 97,
+    "win_amount": 904315.6036781677,
+    "loss_amount": -857238.533982215,
+    "win_rate": 0.514018691588785,
+    "total_current_value": 56427.129654992,
+    "total_positions": 257,
+    "event_ct": 214,
+    "win_count": 110,
+    "rank": 2497,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
