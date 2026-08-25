@@ -1486,5 +1486,21 @@
     "win_count": 3,
     "rank": 83294,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x781d543c37cb3a8f2074a39cffd43cbfa845cefe",
+    "trader_name": "soberlee",
+    "tag": "Overall",
+    "overall_gain": 577.4745307440559,
+    "active_positions": 0,
+    "win_amount": 579.9251489999999,
+    "loss_amount": -2.4506182559439997,
+    "win_rate": 0.5,
+    "total_current_value": 0.002098,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 83295,
+    "trader_tags": "> 1 year old"
   }
 ]
