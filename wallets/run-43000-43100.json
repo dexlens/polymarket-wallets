@@ -1134,5 +1134,21 @@
     "win_count": 67,
     "rank": 43072,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf36356a233f69ae350748e3f5047c38d44769045",
+    "trader_name": "fraasdf",
+    "tag": "Overall",
+    "overall_gain": 1815.5008289999998,
+    "active_positions": 1,
+    "win_amount": 6947.384260999998,
+    "loss_amount": -5131.8834320000005,
+    "win_rate": 0.5356662180349933,
+    "total_current_value": 4.95,
+    "total_positions": 871,
+    "event_ct": 743,
+    "win_count": 398,
+    "rank": 43073,
+    "trader_tags": "< 30 days old"
   }
 ]
