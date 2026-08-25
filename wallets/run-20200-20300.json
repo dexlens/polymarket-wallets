@@ -398,5 +398,21 @@
     "win_count": 5,
     "rank": 20225,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83cb8df0d5cd32022ac84c068312e18e8404b0ba",
+    "trader_name": "JadeMelody",
+    "tag": "Overall",
+    "overall_gain": 4569.916051,
+    "active_positions": 0,
+    "win_amount": 5912.166050999999,
+    "loss_amount": -1342.25,
+    "win_rate": 0.7894736842105263,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 15,
+    "rank": 20226,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
