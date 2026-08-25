@@ -1086,5 +1086,21 @@
     "win_count": 9,
     "rank": 16468,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89add1a46c01ff5943a40f5ea5df281f4091b45b",
+    "trader_name": "Galmon",
+    "tag": "Overall",
+    "overall_gain": 5789.13836774462,
+    "active_positions": 2,
+    "win_amount": 5976.028676219805,
+    "loss_amount": -186.890308475186,
+    "win_rate": 0.933649289099526,
+    "total_current_value": 99.971454,
+    "total_positions": 330,
+    "event_ct": 211,
+    "win_count": 197,
+    "rank": 16469,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
