@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 7929,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf3925d3663ceaabc8088416209529720c85a0d59",
+    "trader_name": "whiterussell",
+    "tag": "Overall",
+    "overall_gain": 13261.331163001,
+    "active_positions": 0,
+    "win_amount": 13335.021511,
+    "loss_amount": -73.690347999,
+    "win_rate": 0.36,
+    "total_current_value": 0.0046,
+    "total_positions": 53,
+    "event_ct": 50,
+    "win_count": 18,
+    "rank": 7930,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
