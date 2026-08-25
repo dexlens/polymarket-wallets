@@ -286,5 +286,21 @@
     "win_count": 11,
     "rank": 4618,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x970e744a34cd0795ff7b4ba844018f17b7fd5c26",
+    "trader_name": "etyytrg",
+    "tag": "Overall",
+    "overall_gain": 23816.498136302198,
+    "active_positions": 3006,
+    "win_amount": 297220.35973,
+    "loss_amount": -273403.8615936979,
+    "win_rate": 0.5308256594349929,
+    "total_current_value": 0,
+    "total_positions": 6407,
+    "event_ct": 6407,
+    "win_count": 3401,
+    "rank": 4619,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
