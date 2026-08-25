@@ -78,5 +78,21 @@
     "win_count": 5,
     "rank": 53706,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x316cb3a51ce4d7b3bf142b60efbc3226f89bc5ea",
+    "trader_name": "main-btc",
+    "tag": "Overall",
+    "overall_gain": 1315.1885625831505,
+    "active_positions": 1084,
+    "win_amount": 10959.880728207087,
+    "loss_amount": -9644.69216562394,
+    "win_rate": 0.7024026210411358,
+    "total_current_value": 36.400000000000006,
+    "total_positions": 7014,
+    "event_ct": 5494,
+    "win_count": 3859,
+    "rank": 53707,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
