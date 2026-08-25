@@ -654,5 +654,21 @@
     "win_count": 203,
     "rank": 69042,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6dd29ff0ce1f4a2f97afd55a3aa9b7d2b6d1b7d7",
+    "trader_name": "hu400btc",
+    "tag": "Overall",
+    "overall_gain": 833.7588956633099,
+    "active_positions": 3,
+    "win_amount": 1216.6360656633099,
+    "loss_amount": -382.87717000000004,
+    "win_rate": 0.5,
+    "total_current_value": 0.03991,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 69043,
+    "trader_tags": "> 1 year old"
   }
 ]
