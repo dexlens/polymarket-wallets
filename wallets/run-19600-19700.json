@@ -846,5 +846,21 @@
     "win_count": 12,
     "rank": 19653,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7548e16f53977791afb4674540f73f3c48ddaa24",
+    "trader_name": "Rustscar",
+    "tag": "Overall",
+    "overall_gain": 4719.5,
+    "active_positions": 3,
+    "win_amount": 4980,
+    "loss_amount": -260.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 19654,
+    "trader_tags": ""
   }
 ]
