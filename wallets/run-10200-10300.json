@@ -1326,5 +1326,21 @@
     "win_count": 4,
     "rank": 10283,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x009d141bb2cb3d9a1b484a169a828bac84fabceb",
+    "trader_name": "playforfun9.eth",
+    "tag": "Overall",
+    "overall_gain": 10229.628472806937,
+    "active_positions": 0,
+    "win_amount": 10305.609779806937,
+    "loss_amount": -75.981307,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.00369432,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 10284,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
