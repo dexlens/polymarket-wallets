@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 86151,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25fd1b38930a8c95109860b57a49353fdada04f2",
+    "trader_name": "walletlevyi",
+    "tag": "Overall",
+    "overall_gain": 537.496404143739,
+    "active_positions": 3,
+    "win_amount": 1143.565222,
+    "loss_amount": -606.0688178562609,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 86152,
+    "trader_tags": "> 1 year old"
   }
 ]
