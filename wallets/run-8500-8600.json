@@ -1470,5 +1470,21 @@
     "win_count": 120,
     "rank": 8592,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52f9c45a6fa8182649067bef26209878b935e1c7",
+    "trader_name": "Myway",
+    "tag": "Overall",
+    "overall_gain": 12200.807667952606,
+    "active_positions": 25,
+    "win_amount": 34123.02633739009,
+    "loss_amount": -21922.218669437483,
+    "win_rate": 0.4880952380952381,
+    "total_current_value": 4664.68020092,
+    "total_positions": 157,
+    "event_ct": 84,
+    "win_count": 41,
+    "rank": 8593,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
