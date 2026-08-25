@@ -1182,5 +1182,21 @@
     "win_count": 6,
     "rank": 14074,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x680fa9772ad78dec86f10790afb2e7523f24668d",
+    "trader_name": "5pmhappyhour",
+    "tag": "Overall",
+    "overall_gain": 7015.456276434913,
+    "active_positions": 2598,
+    "win_amount": 19605.157034999997,
+    "loss_amount": -12589.700758565086,
+    "win_rate": 0.3651841556636553,
+    "total_current_value": 2829.45,
+    "total_positions": 8902,
+    "event_ct": 5756,
+    "win_count": 2102,
+    "rank": 14075,
+    "trader_tags": "1k+ Positions"
   }
 ]
