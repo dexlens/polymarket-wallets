@@ -382,5 +382,21 @@
     "win_count": 4,
     "rank": 4324,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x975be0173dbbc98c457dedd6f5dacec77e852d5f",
+    "trader_name": "Malllory",
+    "tag": "Overall",
+    "overall_gain": 25726.69591107752,
+    "active_positions": 230,
+    "win_amount": 88767.34950639009,
+    "loss_amount": -63040.653595312564,
+    "win_rate": 0.5692883895131086,
+    "total_current_value": 4535.254282155,
+    "total_positions": 1548,
+    "event_ct": 267,
+    "win_count": 152,
+    "rank": 4325,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
