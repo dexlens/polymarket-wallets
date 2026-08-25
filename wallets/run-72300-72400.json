@@ -1342,5 +1342,21 @@
     "win_count": 23,
     "rank": 72385,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a8fc6b749be7d961d80937341370e30fd572f50",
+    "trader_name": "Asusal",
+    "tag": "Overall",
+    "overall_gain": 757.8184070931022,
+    "active_positions": 5,
+    "win_amount": 766.8693421294863,
+    "loss_amount": -9.050935036384,
+    "win_rate": 0.9894736842105263,
+    "total_current_value": 4319.054668,
+    "total_positions": 716,
+    "event_ct": 380,
+    "win_count": 376,
+    "rank": 72386,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
