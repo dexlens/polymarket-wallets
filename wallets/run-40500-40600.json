@@ -1534,5 +1534,21 @@
     "win_count": 4,
     "rank": 40597,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x06458276a153f9059e96e618f6cee6d6ec7cba42",
+    "trader_name": "kurnos",
+    "tag": "Overall",
+    "overall_gain": 1959.973744879673,
+    "active_positions": 48,
+    "win_amount": 7729.612366981126,
+    "loss_amount": -5769.6386221014545,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 20.855171999999996,
+    "total_positions": 98,
+    "event_ct": 95,
+    "win_count": 50,
+    "rank": 40598,
+    "trader_tags": ""
   }
 ]
