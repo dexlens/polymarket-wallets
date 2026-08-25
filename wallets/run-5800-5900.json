@@ -1054,5 +1054,21 @@
     "win_count": 5,
     "rank": 5866,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61c792f78c8f4cdb8bd570f80ad228734c208ded",
+    "trader_name": "cyrileawljhe",
+    "tag": "Overall",
+    "overall_gain": 18342.5,
+    "active_positions": 1,
+    "win_amount": 18405,
+    "loss_amount": -62.5,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 5867,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
