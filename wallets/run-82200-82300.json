@@ -478,5 +478,21 @@
     "win_count": 2,
     "rank": 82231,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x86821786a64bc886f08056744ba89dfc5c16e95f",
+    "trader_name": "earkiwuthgr",
+    "tag": "Overall",
+    "overall_gain": 594.8004148115429,
+    "active_positions": 4,
+    "win_amount": 8288.400000000001,
+    "loss_amount": -7693.599585188456,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 5.0503916025,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 11,
+    "rank": 82232,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
