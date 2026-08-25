@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 2037,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f83daa1ad38646b644f6ef320a58ea2a5684a2d",
+    "trader_name": "Looking44lpha",
+    "tag": "Overall",
+    "overall_gain": 59317.80825372732,
+    "active_positions": 79,
+    "win_amount": 87956.180524,
+    "loss_amount": -28638.372270272648,
+    "win_rate": 0.8122605363984674,
+    "total_current_value": 0,
+    "total_positions": 561,
+    "event_ct": 522,
+    "win_count": 424,
+    "rank": 2038,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
