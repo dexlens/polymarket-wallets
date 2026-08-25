@@ -718,5 +718,21 @@
     "win_count": 1,
     "rank": 3145,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9be90ea78bff3f81f3564a11d5e12b2a0783c030",
+    "trader_name": "Tysha",
+    "tag": "Overall",
+    "overall_gain": 36362.00222803346,
+    "active_positions": 14975,
+    "win_amount": 38409.39460441448,
+    "loss_amount": -2047.3923763810105,
+    "win_rate": 0.884122919334187,
+    "total_current_value": 19002.238072530494,
+    "total_positions": 34037,
+    "event_ct": 1562,
+    "win_count": 1381,
+    "rank": 3146,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
