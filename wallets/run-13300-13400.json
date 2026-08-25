@@ -1294,5 +1294,21 @@
     "win_count": 2,
     "rank": 13381,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1a6df901e63422055a1658b0ef2b2a871507cf4a",
+    "trader_name": "Heisenberg123",
+    "tag": "Overall",
+    "overall_gain": 7447.100633270513,
+    "active_positions": 83,
+    "win_amount": 7930.87283267397,
+    "loss_amount": -483.772199403456,
+    "win_rate": 0.8206686930091185,
+    "total_current_value": 125.45327949450001,
+    "total_positions": 1132,
+    "event_ct": 329,
+    "win_count": 270,
+    "rank": 13382,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
