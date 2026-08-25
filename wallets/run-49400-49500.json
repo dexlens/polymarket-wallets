@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 49495,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84ee1c03ef15ebd43b043d20b01d81d40e95ad4d",
+    "trader_name": "gddw",
+    "tag": "Overall",
+    "overall_gain": 1504.578233578403,
+    "active_positions": 0,
+    "win_amount": 1504.591647828353,
+    "loss_amount": -0.01341424995,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.004403,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 49496,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
