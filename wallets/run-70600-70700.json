@@ -1086,5 +1086,21 @@
     "win_count": 5,
     "rank": 70669,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93e0a21e557c8064e0695ca3e68985dad3fc9f02",
+    "trader_name": "BlessBorrowedAim",
+    "tag": "Overall",
+    "overall_gain": 795.4993499999999,
+    "active_positions": 3,
+    "win_amount": 2147.256,
+    "loss_amount": -1351.7566500000003,
+    "win_rate": 0.42105263157894735,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 8,
+    "rank": 70670,
+    "trader_tags": ""
   }
 ]
