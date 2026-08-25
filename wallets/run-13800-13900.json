@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 13844,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf4a67b15dacf50197e54dc6e3845f019cd216759",
+    "trader_name": "IncandescentIndex",
+    "tag": "Overall",
+    "overall_gain": 7126.5,
+    "active_positions": 2,
+    "win_amount": 7765,
+    "loss_amount": -638.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 13845,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
