@@ -750,5 +750,21 @@
     "win_count": 66,
     "rank": 39848,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6801e9268587c9044f68b859f22aa520b3409726",
+    "trader_name": "ssod",
+    "tag": "Overall",
+    "overall_gain": 2001.5446347259474,
+    "active_positions": 1,
+    "win_amount": 4954.08888642631,
+    "loss_amount": -2952.544251700363,
+    "win_rate": 0.6538461538461539,
+    "total_current_value": 6.124944999999999,
+    "total_positions": 29,
+    "event_ct": 26,
+    "win_count": 17,
+    "rank": 39849,
+    "trader_tags": "> 1 year old"
   }
 ]
