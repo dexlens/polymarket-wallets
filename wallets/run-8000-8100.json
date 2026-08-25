@@ -446,5 +446,21 @@
     "win_count": 63,
     "rank": 8028,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2bc08ae9917e3658a77cf486c004582d9072ce34",
+    "trader_name": "tfpdirxrr",
+    "tag": "Overall",
+    "overall_gain": 13070.368198890365,
+    "active_positions": 2,
+    "win_amount": 13154.907904014519,
+    "loss_amount": -84.53970512415403,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.07065400000000001,
+    "total_positions": 45,
+    "event_ct": 18,
+    "win_count": 6,
+    "rank": 8029,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
