@@ -222,5 +222,21 @@
     "win_count": 235,
     "rank": 5814,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d4e90768c7ae9661acca6b16e605eba3e70edb0",
+    "trader_name": "Kavim",
+    "tag": "Overall",
+    "overall_gain": 18516.429585795933,
+    "active_positions": 58,
+    "win_amount": 36418.35790878671,
+    "loss_amount": -17901.92832299077,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 944.003917566,
+    "total_positions": 167,
+    "event_ct": 144,
+    "win_count": 48,
+    "rank": 5815,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
