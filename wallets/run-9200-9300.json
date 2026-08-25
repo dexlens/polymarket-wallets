@@ -78,5 +78,21 @@
     "win_count": 69,
     "rank": 9205,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8f7d2db99fa32726b17e424be05fab14f612111c",
+    "trader_name": "Grathen",
+    "tag": "Overall",
+    "overall_gain": 11386.111966802768,
+    "active_positions": 2,
+    "win_amount": 13632.103585389157,
+    "loss_amount": -2245.9916185863867,
+    "win_rate": 0.8048780487804879,
+    "total_current_value": 5.23087,
+    "total_positions": 43,
+    "event_ct": 41,
+    "win_count": 33,
+    "rank": 9206,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
