@@ -1230,5 +1230,21 @@
     "win_count": 8,
     "rank": 3577,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe0fba2be6fe0f4dc113b3cc73dd81c1a21367c70",
+    "trader_name": "juwankessl",
+    "tag": "Overall",
+    "overall_gain": 31815,
+    "active_positions": 0,
+    "win_amount": 31815,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 3578,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
