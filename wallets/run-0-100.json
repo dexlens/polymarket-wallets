@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 25,
     "trader_tags": "Overall PnL > $1m; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x14964aefa2cd7caff7878b3820a690a03c5aa429",
+    "trader_name": "gmpm",
+    "tag": "Overall",
+    "overall_gain": 3370286.2033779044,
+    "active_positions": 0,
+    "win_amount": 12746462.119083622,
+    "loss_amount": -9376175.91570572,
+    "win_rate": 0.5477941176470589,
+    "total_current_value": 0.36079399999999995,
+    "total_positions": 1000,
+    "event_ct": 544,
+    "win_count": 298,
+    "rank": 26,
+    "trader_tags": "Overall PnL > $1m; 1k+ Positions; Sports PnL > $100k"
   }
 ]
