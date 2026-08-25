@@ -942,5 +942,21 @@
     "win_count": 10,
     "rank": 41760,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27edabb6b5d73242db651408d36d94135c389f1d",
+    "trader_name": "suiemimion",
+    "tag": "Overall",
+    "overall_gain": 1890.0363617088658,
+    "active_positions": 15,
+    "win_amount": 3056.8398667121137,
+    "loss_amount": -1166.803505003248,
+    "win_rate": 0.38636363636363635,
+    "total_current_value": 0.07203,
+    "total_positions": 104,
+    "event_ct": 44,
+    "win_count": 17,
+    "rank": 41761,
+    "trader_tags": ""
   }
 ]
