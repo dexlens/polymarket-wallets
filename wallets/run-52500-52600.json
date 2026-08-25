@@ -414,5 +414,21 @@
     "win_count": 42,
     "rank": 52527,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x219c7216b3b3333e9c559646dda13abc0af6ede7",
+    "trader_name": "jokoroko",
+    "tag": "Overall",
+    "overall_gain": 1368.487900741529,
+    "active_positions": 0,
+    "win_amount": 2224.540429361367,
+    "loss_amount": -856.052528619838,
+    "win_rate": 0.890625,
+    "total_current_value": 0.073159,
+    "total_positions": 147,
+    "event_ct": 128,
+    "win_count": 114,
+    "rank": 52528,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
