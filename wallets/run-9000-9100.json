@@ -318,5 +318,21 @@
     "win_count": 675,
     "rank": 9020,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x1813633b3acb9b89ddde2a3fe758b62139b77262",
+    "trader_name": "Jevil",
+    "tag": "Overall",
+    "overall_gain": 11621.687927465759,
+    "active_positions": 3,
+    "win_amount": 12763.281044,
+    "loss_amount": -1141.593116534241,
+    "win_rate": 0.8529411764705882,
+    "total_current_value": 0,
+    "total_positions": 108,
+    "event_ct": 34,
+    "win_count": 29,
+    "rank": 9021,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
