@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 4521,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x344be5d62f3dc2f412395ebbd45ac89f8bf0f7fc",
+    "trader_name": "MEV-PM",
+    "tag": "Overall",
+    "overall_gain": 24328.93334784939,
+    "active_positions": 2151,
+    "win_amount": 500619.9711237443,
+    "loss_amount": -476291.03777589503,
+    "win_rate": 0.4544521426738517,
+    "total_current_value": 14354.611084999999,
+    "total_positions": 8812,
+    "event_ct": 3897,
+    "win_count": 1771,
+    "rank": 4522,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
