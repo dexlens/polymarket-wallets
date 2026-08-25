@@ -366,5 +366,21 @@
     "win_count": 16,
     "rank": 14023,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0bec04df585ac18b2f21b8e4b6cde858f70ef289",
+    "trader_name": "azv",
+    "tag": "Overall",
+    "overall_gain": 7037.365592,
+    "active_positions": 0,
+    "win_amount": 7037.365592,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 14024,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
