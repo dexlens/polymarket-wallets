@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 63835,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51593cb2a6795f414121b832382fe901caf0e44b",
+    "trader_name": "Lekshrimp",
+    "tag": "Overall",
+    "overall_gain": 978.4203659458906,
+    "active_positions": 0,
+    "win_amount": 2790.3537663978996,
+    "loss_amount": -1811.9334004520083,
+    "win_rate": 0.5423728813559322,
+    "total_current_value": 0.17446799999999996,
+    "total_positions": 153,
+    "event_ct": 59,
+    "win_count": 32,
+    "rank": 63836,
+    "trader_tags": "> 1 year old"
   }
 ]
