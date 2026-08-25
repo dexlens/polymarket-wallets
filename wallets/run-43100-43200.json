@@ -238,5 +238,21 @@
     "win_count": 1,
     "rank": 43116,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x425d7673884b5698eb0f344780ffef58320605bd",
+    "trader_name": "hamora",
+    "tag": "Overall",
+    "overall_gain": 1813.5312532232892,
+    "active_positions": 3,
+    "win_amount": 1833.900491223289,
+    "loss_amount": -20.369238000000003,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 3597.17652304,
+    "total_positions": 14,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 43117,
+    "trader_tags": ""
   }
 ]
