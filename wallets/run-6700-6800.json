@@ -878,5 +878,21 @@
     "win_count": 4,
     "rank": 6755,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3954e1c6b7bc5645d9d3425a6f4490889ef122d9",
+    "trader_name": "Spicer",
+    "tag": "Overall",
+    "overall_gain": 15890.2370095139,
+    "active_positions": 1,
+    "win_amount": 18117.13978384776,
+    "loss_amount": -2226.9027743338656,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.045703999999999995,
+    "total_positions": 14,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 6756,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
