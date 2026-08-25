@@ -1230,5 +1230,21 @@
     "win_count": 34,
     "rank": 15277,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x242df083db4f7b37a380003a24de482eadd6603a",
+    "trader_name": "ditto22",
+    "tag": "Overall",
+    "overall_gain": 6347.682077774281,
+    "active_positions": 26,
+    "win_amount": 15491.376333729062,
+    "loss_amount": -9143.694255954782,
+    "win_rate": 0.4489795918367347,
+    "total_current_value": 66305.006955,
+    "total_positions": 49,
+    "event_ct": 49,
+    "win_count": 22,
+    "rank": 15278,
+    "trader_tags": "> 1 year old"
   }
 ]
