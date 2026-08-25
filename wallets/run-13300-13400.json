@@ -1358,5 +1358,21 @@
     "win_count": 16,
     "rank": 13385,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x29fcb0f827ecc9da6ba642afd4a3333feb05c85a",
+    "trader_name": "burnjp",
+    "tag": "Overall",
+    "overall_gain": 7439.280650287289,
+    "active_positions": 0,
+    "win_amount": 7439.280650287289,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004777,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 13386,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
