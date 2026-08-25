@@ -638,5 +638,21 @@
     "win_count": 4,
     "rank": 74841,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10adff84f791254e4aaae2a47cde332424051538",
+    "trader_name": "Oltko",
+    "tag": "Overall",
+    "overall_gain": 715.8318528186269,
+    "active_positions": 29,
+    "win_amount": 2173.647858510124,
+    "loss_amount": -1457.8160056914967,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 141.49073203999998,
+    "total_positions": 55,
+    "event_ct": 44,
+    "win_count": 20,
+    "rank": 74842,
+    "trader_tags": ""
   }
 ]
