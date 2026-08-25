@@ -766,5 +766,21 @@
     "win_count": 54,
     "rank": 5348,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32b88845e68a19349b20beab764f7f074f834233",
+    "trader_name": "tomars",
+    "tag": "Overall",
+    "overall_gain": 20227.03148542288,
+    "active_positions": 0,
+    "win_amount": 20227.03148542288,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.022496000000000002,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 5349,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
