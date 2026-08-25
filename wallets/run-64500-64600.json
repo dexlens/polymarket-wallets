@@ -830,5 +830,21 @@
     "win_count": 2,
     "rank": 64553,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0xa794b8eee315d8adff4751a39355e7bd72f142ad",
+    "trader_name": "L1quid",
+    "tag": "Overall",
+    "overall_gain": 957.769123163208,
+    "active_positions": 9,
+    "win_amount": 1001.609223163208,
+    "loss_amount": -43.84010000000001,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 3960.7567689999996,
+    "total_positions": 12,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 64554,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
