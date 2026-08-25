@@ -1422,5 +1422,21 @@
     "win_count": 14,
     "rank": 3789,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe2314b08a84feff5787d6a7b7984b7e334ef4e3e",
+    "trader_name": "OrientalTiger",
+    "tag": "Overall",
+    "overall_gain": 30087.81466638811,
+    "active_positions": 32,
+    "win_amount": 57242.56212558373,
+    "loss_amount": -27154.747459195638,
+    "win_rate": 0.8328267477203647,
+    "total_current_value": 58763.50615573501,
+    "total_positions": 461,
+    "event_ct": 329,
+    "win_count": 274,
+    "rank": 3790,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
