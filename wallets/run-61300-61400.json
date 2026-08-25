@@ -606,5 +606,21 @@
     "win_count": 8,
     "rank": 61339,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8fb32c1145e1fd13d915c9d5115e0748d8b61437",
+    "trader_name": "themayorl",
+    "tag": "Overall",
+    "overall_gain": 1038.9525736567111,
+    "active_positions": 0,
+    "win_amount": 1038.9525736567111,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.021686999999999998,
+    "total_positions": 21,
+    "event_ct": 20,
+    "win_count": 20,
+    "rank": 61340,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
