@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 40594,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x05f116a5cacd8366f3a28c3e0ae381846387538a",
+    "trader_name": "Longan2025",
+    "tag": "Overall",
+    "overall_gain": 1960.2632386225484,
+    "active_positions": 10,
+    "win_amount": 2378.2368730000003,
+    "loss_amount": -417.9736343774521,
+    "win_rate": 0.9772727272727273,
+    "total_current_value": 14139.916505,
+    "total_positions": 615,
+    "event_ct": 396,
+    "win_count": 387,
+    "rank": 40595,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
