@@ -702,5 +702,21 @@
     "win_count": 15,
     "rank": 18044,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x82d223a184392e2ad1694d9ce517b2aa38611a7c",
+    "trader_name": "thatgud",
+    "tag": "Overall",
+    "overall_gain": 5165.171951400294,
+    "active_positions": 805,
+    "win_amount": 58600.8386128943,
+    "loss_amount": -53435.66666149403,
+    "win_rate": 0.5345549738219896,
+    "total_current_value": 300.405174,
+    "total_positions": 2204,
+    "event_ct": 1910,
+    "win_count": 1021,
+    "rank": 18045,
+    "trader_tags": "1k+ Positions"
   }
 ]
