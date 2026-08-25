@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 6351,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5490379d99a03efc74cea26c8986ecbc56244cdc",
+    "trader_name": "beeh1jh",
+    "tag": "Overall",
+    "overall_gain": 16864.460511952097,
+    "active_positions": 9,
+    "win_amount": 25094.220511952095,
+    "loss_amount": -8229.76,
+    "win_rate": 0.6086956521739131,
+    "total_current_value": 8.840095999999999,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 14,
+    "rank": 6352,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
