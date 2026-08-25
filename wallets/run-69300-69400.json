@@ -1118,5 +1118,21 @@
     "win_count": 9,
     "rank": 69371,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x688524beee017de877aed706331cff74f28d03d1",
+    "trader_name": "insig",
+    "tag": "Overall",
+    "overall_gain": 825.2673340232905,
+    "active_positions": 3,
+    "win_amount": 2372.7289119816915,
+    "loss_amount": -1547.461577958401,
+    "win_rate": 0.75,
+    "total_current_value": 26.126926250000004,
+    "total_positions": 18,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 69372,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
