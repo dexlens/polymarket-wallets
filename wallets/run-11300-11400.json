@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 11373,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e774311e792529386895cb289eb1b3e9e67cb47",
+    "trader_name": "Wonfo",
+    "tag": "Overall",
+    "overall_gain": 9200.663249991112,
+    "active_positions": 1,
+    "win_amount": 43956.96944171561,
+    "loss_amount": -34756.30619172451,
+    "win_rate": 0.8337028824833703,
+    "total_current_value": 0.22086799999999998,
+    "total_positions": 672,
+    "event_ct": 451,
+    "win_count": 376,
+    "rank": 11374,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
