@@ -1230,5 +1230,21 @@
     "win_count": 3,
     "rank": 10477,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd09007efbe88b0fd45ba309d43529043222e6660",
+    "trader_name": "fortheking11",
+    "tag": "Overall",
+    "overall_gain": 10041.136129710507,
+    "active_positions": 449,
+    "win_amount": 15988.538018320209,
+    "loss_amount": -5947.401888609708,
+    "win_rate": 0.6901308807923594,
+    "total_current_value": 0.7939290000000001,
+    "total_positions": 5656,
+    "event_ct": 2827,
+    "win_count": 1951,
+    "rank": 10478,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
