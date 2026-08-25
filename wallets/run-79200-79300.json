@@ -606,5 +606,21 @@
     "win_count": 28,
     "rank": 79239,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x00328e0f5993e36ba99da9e072508b752c8ce886",
+    "trader_name": "MonoWave",
+    "tag": "Overall",
+    "overall_gain": 643.4264155164539,
+    "active_positions": 7,
+    "win_amount": 1308.770504353146,
+    "loss_amount": -665.344088836692,
+    "win_rate": 0.9385964912280702,
+    "total_current_value": 556.9471539999998,
+    "total_positions": 635,
+    "event_ct": 342,
+    "win_count": 321,
+    "rank": 79240,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
