@@ -910,5 +910,21 @@
     "win_count": 8,
     "rank": 53858,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3f67fc77c6f8e64b35f241e8a618d1c4d68f10bc",
+    "trader_name": "tyihgk",
+    "tag": "Overall",
+    "overall_gain": 1309.3109115840762,
+    "active_positions": 3,
+    "win_amount": 1435.2448835840762,
+    "loss_amount": -125.933972,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 150.36007600000002,
+    "total_positions": 31,
+    "event_ct": 29,
+    "win_count": 26,
+    "rank": 53859,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
