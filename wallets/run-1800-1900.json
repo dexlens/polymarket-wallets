@@ -974,5 +974,21 @@
     "win_count": 135,
     "rank": 1861,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73d3bde14b125334334d088de0be053607d3e9fa",
+    "trader_name": "youdoit",
+    "tag": "Overall",
+    "overall_gain": 65495.62015326088,
+    "active_positions": 2,
+    "win_amount": 67682.94203580653,
+    "loss_amount": -2187.321882545632,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0.022239,
+    "total_positions": 44,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 1862,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
