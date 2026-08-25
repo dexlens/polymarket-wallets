@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 31019,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xac8efd730cb89e0703c41636fbd5bfc8994a4784",
+    "trader_name": "GogogoLakers",
+    "tag": "Overall",
+    "overall_gain": 2698.6542343599826,
+    "active_positions": 1,
+    "win_amount": 13902.654234359981,
+    "loss_amount": -11204,
+    "win_rate": 0.925,
+    "total_current_value": 45.974153,
+    "total_positions": 114,
+    "event_ct": 40,
+    "win_count": 37,
+    "rank": 31020,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
