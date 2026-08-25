@@ -542,5 +542,21 @@
     "win_count": 7,
     "rank": 31235,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x42c81d61a866979d347712ee80433d4c3577dc52",
+    "trader_name": "Cloudpsulse",
+    "tag": "Overall",
+    "overall_gain": 2677.9500000000003,
+    "active_positions": 1,
+    "win_amount": 2677.9500000000003,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 31236,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
