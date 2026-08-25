@@ -366,5 +366,21 @@
     "win_count": 50,
     "rank": 10223,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc3adc6a7f011070eb34640d6315cf1aba9e89378",
+    "trader_name": "blackbach",
+    "tag": "Overall",
+    "overall_gain": 10284.381484605921,
+    "active_positions": 1,
+    "win_amount": 12684.002982810021,
+    "loss_amount": -2399.621498204101,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 0.010393,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 4,
+    "rank": 10224,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
