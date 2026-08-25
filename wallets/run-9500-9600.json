@@ -1150,5 +1150,21 @@
     "win_count": 8084,
     "rank": 9572,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x549cbdc4366cac953543b0fe0c4ab5fb131a8bce",
+    "trader_name": "tju",
+    "tag": "Overall",
+    "overall_gain": 10931.871912999999,
+    "active_positions": 0,
+    "win_amount": 13703.601912999999,
+    "loss_amount": -2771.73,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 26,
+    "win_count": 20,
+    "rank": 9573,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
