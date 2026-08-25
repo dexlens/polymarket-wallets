@@ -1422,5 +1422,21 @@
     "win_count": 2,
     "rank": 66190,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xf1f33b9096aaf52b484b58a777b43fd173188cca",
+    "trader_name": "maticbet",
+    "tag": "Overall",
+    "overall_gain": 910.454139145384,
+    "active_positions": 0,
+    "win_amount": 910.454139145384,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 66191,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
