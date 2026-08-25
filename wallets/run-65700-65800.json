@@ -318,5 +318,21 @@
     "win_count": 3,
     "rank": 65721,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0466d4993148b0ff539a5c4cea1675591f4e02e0",
+    "trader_name": "brownacorn",
+    "tag": "Overall",
+    "overall_gain": 924.2814429405161,
+    "active_positions": 0,
+    "win_amount": 1045.5553511595901,
+    "loss_amount": -121.27390821907399,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.0435364045,
+    "total_positions": 25,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 65722,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
