@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 87231,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbecdf9102b0501b1f7d60eaebbe5566f39ff9cd0",
+    "trader_name": "sZuVv",
+    "tag": "Overall",
+    "overall_gain": 522.8020640000001,
+    "active_positions": 9,
+    "win_amount": 682.078664,
+    "loss_amount": -159.2766,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 21,
+    "total_positions": 28,
+    "event_ct": 26,
+    "win_count": 16,
+    "rank": 87232,
+    "trader_tags": "> 1 year old"
   }
 ]
