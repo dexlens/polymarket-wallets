@@ -222,5 +222,21 @@
     "win_count": 83,
     "rank": 3814,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2687cb380661a0041bf4c4cf3945a034b79e1363",
+    "trader_name": "WeekndBets",
+    "tag": "Overall",
+    "overall_gain": 29840.512445797107,
+    "active_positions": 1,
+    "win_amount": 56664.62352110283,
+    "loss_amount": -26824.111075305733,
+    "win_rate": 0.7348703170028819,
+    "total_current_value": 35.1894172185,
+    "total_positions": 701,
+    "event_ct": 347,
+    "win_count": 255,
+    "rank": 3815,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
