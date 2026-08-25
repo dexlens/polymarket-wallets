@@ -222,5 +222,21 @@
     "win_count": 48,
     "rank": 30515,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51d995178114dec00702b2478a1f6403e34a6129",
+    "trader_name": "markevans123",
+    "tag": "Overall",
+    "overall_gain": 2758.1772903047686,
+    "active_positions": 74,
+    "win_amount": 46179.81928685466,
+    "loss_amount": -43421.64199654988,
+    "win_rate": 0.5438996579247435,
+    "total_current_value": 293.5811649999999,
+    "total_positions": 6422,
+    "event_ct": 5262,
+    "win_count": 2862,
+    "rank": 30516,
+    "trader_tags": "1k+ Positions"
   }
 ]
