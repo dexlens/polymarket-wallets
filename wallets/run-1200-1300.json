@@ -974,5 +974,21 @@
     "win_count": 27,
     "rank": 1261,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0e1b30c63f6bac4fa1eacc7b852fa7e72e93ecaf",
+    "trader_name": "sjhfccha",
+    "tag": "Overall",
+    "overall_gain": 96152.5341213641,
+    "active_positions": 145,
+    "win_amount": 299697.0323248883,
+    "loss_amount": -203544.4982035243,
+    "win_rate": 0.5637450199203188,
+    "total_current_value": 17137.4677684805,
+    "total_positions": 1319,
+    "event_ct": 502,
+    "win_count": 283,
+    "rank": 1262,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
