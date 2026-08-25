@@ -1086,5 +1086,21 @@
     "win_count": 14,
     "rank": 6268,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x93ca4bf402e30bb923c603ed3061126222134ec9",
+    "trader_name": "leyyjrr",
+    "tag": "Overall",
+    "overall_gain": 17090.971574,
+    "active_positions": 0,
+    "win_amount": 17090.971574,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6269,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
