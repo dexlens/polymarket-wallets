@@ -702,5 +702,21 @@
     "win_count": 26,
     "rank": 36345,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x725153979f4bd81f0c99a09f1b55cd29a15d5aae",
+    "trader_name": "CoraBell",
+    "tag": "Overall",
+    "overall_gain": 2236.5518315880845,
+    "active_positions": 5,
+    "win_amount": 6527.256762999999,
+    "loss_amount": -4290.704931411915,
+    "win_rate": 0.7407407407407407,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 20,
+    "rank": 36346,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
