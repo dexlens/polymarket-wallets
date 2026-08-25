@@ -1486,5 +1486,21 @@
     "win_count": 45,
     "rank": 593,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x24b1e0c01d30b6e02a4de1ee82011a69893248ee",
+    "trader_name": "masuclinehat",
+    "tag": "Overall",
+    "overall_gain": 218165.37249084664,
+    "active_positions": 10,
+    "win_amount": 259968.63957329444,
+    "loss_amount": -41803.26708244777,
+    "win_rate": 0.7317073170731707,
+    "total_current_value": 0.250465,
+    "total_positions": 102,
+    "event_ct": 41,
+    "win_count": 30,
+    "rank": 594,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
