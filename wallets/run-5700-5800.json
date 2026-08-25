@@ -238,5 +238,21 @@
     "win_count": 4,
     "rank": 5715,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe8f2ffd3c144257d61a263244a54f7f6452b22a3",
+    "trader_name": "dupdup5",
+    "tag": "Overall",
+    "overall_gain": 18842.775476942006,
+    "active_positions": 17,
+    "win_amount": 47856.600357268064,
+    "loss_amount": -29013.824880326058,
+    "win_rate": 0.6559139784946236,
+    "total_current_value": 0.7972755600000002,
+    "total_positions": 113,
+    "event_ct": 93,
+    "win_count": 61,
+    "rank": 5716,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
