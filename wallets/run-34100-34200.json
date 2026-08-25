@@ -910,5 +910,21 @@
     "win_count": 12,
     "rank": 34158,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x755a66c797a38ed1ca61bc38defd6e888af96da6",
+    "trader_name": "DonnaAngela",
+    "tag": "Overall",
+    "overall_gain": 2409.1781171875064,
+    "active_positions": 13,
+    "win_amount": 68854.1510005987,
+    "loss_amount": -66444.9728834112,
+    "win_rate": 0.3963498622589532,
+    "total_current_value": 1695.0418582670004,
+    "total_positions": 3637,
+    "event_ct": 2904,
+    "win_count": 1151,
+    "rank": 34159,
+    "trader_tags": "1k+ Positions"
   }
 ]
