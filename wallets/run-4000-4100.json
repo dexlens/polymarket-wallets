@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 4072,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7048df3a4bffb71755db5262089d585225d4282d",
+    "trader_name": "imMFStarboy",
+    "tag": "Overall",
+    "overall_gain": 27544.93147699334,
+    "active_positions": 1,
+    "win_amount": 47422.502398993325,
+    "loss_amount": -19877.570922000003,
+    "win_rate": 0.6640625,
+    "total_current_value": 17.88536699999999,
+    "total_positions": 351,
+    "event_ct": 256,
+    "win_count": 170,
+    "rank": 4073,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
