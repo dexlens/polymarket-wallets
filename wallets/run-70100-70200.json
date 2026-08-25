@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 70129,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b78413b7cbe4b03455aa0f192c2c8585cc065e2",
+    "trader_name": "DSFGBRG",
+    "tag": "Overall",
+    "overall_gain": 807.7358925025159,
+    "active_positions": 18,
+    "win_amount": 1319.4592422030003,
+    "loss_amount": -511.7233497004841,
+    "win_rate": 0.5909090909090909,
+    "total_current_value": 73.18588215,
+    "total_positions": 44,
+    "event_ct": 44,
+    "win_count": 26,
+    "rank": 70130,
+    "trader_tags": ""
   }
 ]
