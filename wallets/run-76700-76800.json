@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 76740,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x913a80a1f3155eba803d0b292e30b0526846b8d2",
+    "trader_name": "hodller",
+    "tag": "Overall",
+    "overall_gain": 686.408337850012,
+    "active_positions": 5,
+    "win_amount": 738.066012,
+    "loss_amount": -51.657674149988004,
+    "win_rate": 0.2222222222222222,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 2,
+    "rank": 76741,
+    "trader_tags": "> 1 year old"
   }
 ]
