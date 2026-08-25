@@ -126,5 +126,21 @@
     "win_count": 14,
     "rank": 11408,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1d5608916d30c4905a0d3d2379510a5d671bf78e",
+    "trader_name": "Zarveth",
+    "tag": "Overall",
+    "overall_gain": 9163.363010471428,
+    "active_positions": 8,
+    "win_amount": 11044.417204014035,
+    "loss_amount": -1881.0541935426058,
+    "win_rate": 0.8,
+    "total_current_value": 1.080033,
+    "total_positions": 39,
+    "event_ct": 35,
+    "win_count": 28,
+    "rank": 11409,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
