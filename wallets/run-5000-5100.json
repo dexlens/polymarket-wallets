@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 5020,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xeeb1ede6052eef8c829b8e30309441fba3febf68",
+    "trader_name": "GTFKY",
+    "tag": "Overall",
+    "overall_gain": 21560.52914339396,
+    "active_positions": 35,
+    "win_amount": 48560.41618312111,
+    "loss_amount": -26999.887039727146,
+    "win_rate": 0.3858267716535433,
+    "total_current_value": 229.77225843950262,
+    "total_positions": 534,
+    "event_ct": 381,
+    "win_count": 147,
+    "rank": 5021,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
