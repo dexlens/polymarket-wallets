@@ -1502,5 +1502,21 @@
     "win_count": 47,
     "rank": 43995,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6c04aef63abee3120afd0757f362a348aeea33b7",
+    "trader_name": "maidou0",
+    "tag": "Overall",
+    "overall_gain": 1766.895750195681,
+    "active_positions": 1,
+    "win_amount": 1791.4190805090889,
+    "loss_amount": -24.523330313407996,
+    "win_rate": 0.8,
+    "total_current_value": 0.021226,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 43996,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
