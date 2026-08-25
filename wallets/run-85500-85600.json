@@ -958,5 +958,21 @@
     "win_count": 50,
     "rank": 85561,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x01b87d8ce0a49af9df611e3369890de6acdcdf58",
+    "trader_name": "rqwrdv",
+    "tag": "Overall",
+    "overall_gain": 544.416740296511,
+    "active_positions": 10,
+    "win_amount": 546.377381317183,
+    "loss_amount": -1.960641020672,
+    "win_rate": 0.8636363636363636,
+    "total_current_value": 10.395540969,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 19,
+    "rank": 85562,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
