@@ -782,5 +782,21 @@
     "win_count": 90,
     "rank": 1749,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73e58bbf5a5b65596dfcf2e2a386e3205cac31dc",
+    "trader_name": "JJJASON",
+    "tag": "Overall",
+    "overall_gain": 70189.76899913201,
+    "active_positions": 0,
+    "win_amount": 80698.3336828505,
+    "loss_amount": -10508.564683718507,
+    "win_rate": 0.5945945945945946,
+    "total_current_value": 0.017935999999999997,
+    "total_positions": 66,
+    "event_ct": 37,
+    "win_count": 22,
+    "rank": 1750,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
