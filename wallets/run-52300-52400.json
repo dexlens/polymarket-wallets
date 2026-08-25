@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 52384,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa270bdf8cce6a470054b2af2d0fbed118204ecad",
+    "trader_name": "eme10",
+    "tag": "Overall",
+    "overall_gain": 1374.17052560473,
+    "active_positions": 32,
+    "win_amount": 3086.9760760194354,
+    "loss_amount": -1712.8055504147048,
+    "win_rate": 0.48,
+    "total_current_value": 963.7934820025001,
+    "total_positions": 200,
+    "event_ct": 150,
+    "win_count": 72,
+    "rank": 52385,
+    "trader_tags": "< 30 days old"
   }
 ]
