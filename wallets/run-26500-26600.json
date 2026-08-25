@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 26519,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x64c572d3977251aaf5801f3558a5d4766a41d255",
+    "trader_name": "DonLorenzo",
+    "tag": "Overall",
+    "overall_gain": 3286.794496352753,
+    "active_positions": 38,
+    "win_amount": 3602.8028353605214,
+    "loss_amount": -316.008339007768,
+    "win_rate": 0.9881129271916791,
+    "total_current_value": 21687.56904129,
+    "total_positions": 2472,
+    "event_ct": 673,
+    "win_count": 665,
+    "rank": 26520,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
