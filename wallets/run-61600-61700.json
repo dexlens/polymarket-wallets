@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 61654,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x929af236a891ca801ca66d449024ff0398c44719",
+    "trader_name": "TrendsStart",
+    "tag": "Overall",
+    "overall_gain": 1030.5594286684322,
+    "active_positions": 11,
+    "win_amount": 4305.277766590646,
+    "loss_amount": -3274.7183379222142,
+    "win_rate": 0.8727183029107055,
+    "total_current_value": 20.059542999999994,
+    "total_positions": 2148,
+    "event_ct": 2027,
+    "win_count": 1769,
+    "rank": 61655,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
