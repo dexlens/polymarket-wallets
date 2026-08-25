@@ -686,5 +686,21 @@
     "win_count": 10,
     "rank": 26144,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x07d1a2e23711a193f3a7c0fed231114c286118fb",
+    "trader_name": "ptiuktc",
+    "tag": "Overall",
+    "overall_gain": 3346.789792151214,
+    "active_positions": 4,
+    "win_amount": 3438.695370268,
+    "loss_amount": -91.90557811678599,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 168.18010600000002,
+    "total_positions": 38,
+    "event_ct": 34,
+    "win_count": 30,
+    "rank": 26145,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
