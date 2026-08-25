@@ -334,5 +334,21 @@
     "win_count": 5,
     "rank": 11121,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f35e45cb628cbb1884f1a6eb230a37d57794437",
+    "trader_name": "cougarhunter1000",
+    "tag": "Overall",
+    "overall_gain": 9462.625583815816,
+    "active_positions": 33,
+    "win_amount": 10020.849790589999,
+    "loss_amount": -558.224206774182,
+    "win_rate": 0.15384615384615385,
+    "total_current_value": 2.0545,
+    "total_positions": 36,
+    "event_ct": 13,
+    "win_count": 2,
+    "rank": 11122,
+    "trader_tags": ""
   }
 ]
