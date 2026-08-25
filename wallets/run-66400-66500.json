@@ -542,5 +542,21 @@
     "win_count": 9,
     "rank": 66435,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xf70e4057bd62fe2e78c0be7f720f9705bac097f0",
+    "trader_name": "spec-tater",
+    "tag": "Overall",
+    "overall_gain": 904.3459705000005,
+    "active_positions": 3,
+    "win_amount": 914.8326745000004,
+    "loss_amount": -10.486703999999918,
+    "win_rate": 0.8,
+    "total_current_value": 7647.780000000001,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 66436,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
