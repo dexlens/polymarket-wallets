@@ -318,5 +318,21 @@
     "win_count": 28,
     "rank": 3920,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x76abd7ac3c9f15681006bb565cc6b5740851506d",
+    "trader_name": "pipilates",
+    "tag": "Overall",
+    "overall_gain": 28822.187359242787,
+    "active_positions": 2,
+    "win_amount": 51595.91957700001,
+    "loss_amount": -22773.732217757206,
+    "win_rate": 0.6338028169014085,
+    "total_current_value": 12472.010775735,
+    "total_positions": 72,
+    "event_ct": 71,
+    "win_count": 45,
+    "rank": 3921,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
