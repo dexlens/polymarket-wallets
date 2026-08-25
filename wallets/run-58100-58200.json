@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 58151,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x612a7b083170a5e0568839cd179e0c2a0524fee9",
+    "trader_name": "Fiskantes",
+    "tag": "Overall",
+    "overall_gain": 1137.0268740417396,
+    "active_positions": 34,
+    "win_amount": 25330.923545881284,
+    "loss_amount": -24193.896671839546,
+    "win_rate": 0.3404255319148936,
+    "total_current_value": 10070.679793099,
+    "total_positions": 64,
+    "event_ct": 47,
+    "win_count": 16,
+    "rank": 58152,
+    "trader_tags": "> 1 year old"
   }
 ]
