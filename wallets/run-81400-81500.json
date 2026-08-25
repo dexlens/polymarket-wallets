@@ -462,5 +462,21 @@
     "win_count": 20,
     "rank": 81430,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x269af8d4c4a275572ae030d5da54c7831efa190e",
+    "trader_name": "3betAI",
+    "tag": "Overall",
+    "overall_gain": 607.5225454593701,
+    "active_positions": 11,
+    "win_amount": 1010.8744381361429,
+    "loss_amount": -403.35189267677305,
+    "win_rate": 0.7595628415300546,
+    "total_current_value": 40.217862170000004,
+    "total_positions": 333,
+    "event_ct": 183,
+    "win_count": 139,
+    "rank": 81431,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
