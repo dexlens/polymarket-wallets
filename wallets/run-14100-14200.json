@@ -1198,5 +1198,21 @@
     "win_count": 12,
     "rank": 14175,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x29d7667d5559f9d1c32fcefd649fb4c3bc814c91",
+    "trader_name": "spectral-mango-protocol",
+    "tag": "Overall",
+    "overall_gain": 6954.850047229481,
+    "active_positions": 20,
+    "win_amount": 9557.579998473479,
+    "loss_amount": -2602.729951244,
+    "win_rate": 0.9280575539568345,
+    "total_current_value": 13884.2281902135,
+    "total_positions": 203,
+    "event_ct": 139,
+    "win_count": 129,
+    "rank": 14176,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
