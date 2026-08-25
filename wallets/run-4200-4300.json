@@ -1502,5 +1502,21 @@
     "win_count": 11,
     "rank": 4294,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f647d05f71224342adb57a2d326e187671aabb1",
+    "trader_name": "ROBERTPOWE",
+    "tag": "Overall",
+    "overall_gain": 26007.198130903656,
+    "active_positions": 10,
+    "win_amount": 26064.313896,
+    "loss_amount": -57.115765096346,
+    "win_rate": 0.6578947368421053,
+    "total_current_value": 0.013654,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 25,
+    "rank": 4295,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
