@@ -478,5 +478,21 @@
     "win_count": 6,
     "rank": 86331,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9e2946ba0f4c978595dce1182fcdcbc851d309c6",
+    "trader_name": "redbros",
+    "tag": "Overall",
+    "overall_gain": 534.611109508473,
+    "active_positions": 104,
+    "win_amount": 2590.2164361034875,
+    "loss_amount": -2055.605326595015,
+    "win_rate": 0.6765578635014837,
+    "total_current_value": 0.057945380000000005,
+    "total_positions": 350,
+    "event_ct": 337,
+    "win_count": 228,
+    "rank": 86332,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
