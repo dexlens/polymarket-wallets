@@ -526,5 +526,21 @@
     "win_count": 3,
     "rank": 52234,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x43a9bb2f23054e75914a0aec637ad2bfd4fefaeb",
+    "trader_name": "p1erekup",
+    "tag": "Overall",
+    "overall_gain": 1381.6197192418663,
+    "active_positions": 75,
+    "win_amount": 3990.5177647101705,
+    "loss_amount": -2608.8980454683037,
+    "win_rate": 0.9022801302931596,
+    "total_current_value": 1038.9309716414998,
+    "total_positions": 2878,
+    "event_ct": 1228,
+    "win_count": 1108,
+    "rank": 52235,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
