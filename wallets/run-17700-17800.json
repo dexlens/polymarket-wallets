@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 17737,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3d9e48c13480656da3f29dff3dd0db495b3d5421",
+    "trader_name": "simpledue",
+    "tag": "Overall",
+    "overall_gain": 5267.493752070584,
+    "active_positions": 68,
+    "win_amount": 10900.757146886033,
+    "loss_amount": -5633.263394815445,
+    "win_rate": 0.8651685393258427,
+    "total_current_value": 54706.633320353496,
+    "total_positions": 178,
+    "event_ct": 89,
+    "win_count": 77,
+    "rank": 17738,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
