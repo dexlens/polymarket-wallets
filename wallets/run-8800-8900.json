@@ -558,5 +558,21 @@
     "win_count": 21,
     "rank": 8835,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x3151713abbfcdfdff6d5101f5e525f90b9e74393",
+    "trader_name": "nycfan",
+    "tag": "Overall",
+    "overall_gain": 11857.083345969522,
+    "active_positions": 15,
+    "win_amount": 30343.522431538106,
+    "loss_amount": -18486.439085568585,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 8532.1220889135,
+    "total_positions": 27,
+    "event_ct": 17,
+    "win_count": 11,
+    "rank": 8836,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
