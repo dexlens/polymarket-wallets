@@ -1262,5 +1262,21 @@
     "win_count": 283,
     "rank": 879,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52482d38a41eff48e1bdb46233373caa99cbaabb",
+    "trader_name": "Cryptojunkie",
+    "tag": "Overall",
+    "overall_gain": 139613.49639330004,
+    "active_positions": 16,
+    "win_amount": 245653.68342299998,
+    "loss_amount": -106040.18702969994,
+    "win_rate": 0.5945945945945946,
+    "total_current_value": 0,
+    "total_positions": 81,
+    "event_ct": 74,
+    "win_count": 44,
+    "rank": 880,
+    "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
   }
 ]
