@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 18682,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73502154f477e38e6ba592a070a168b26f9bc642",
+    "trader_name": "lijiezhouqi188",
+    "tag": "Overall",
+    "overall_gain": 4982.849451535,
+    "active_positions": 1,
+    "win_amount": 4992.650000000001,
+    "loss_amount": -9.800548465,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 19.851756531000003,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 18683,
+    "trader_tags": "< 30 days old"
   }
 ]
