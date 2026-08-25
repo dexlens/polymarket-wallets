@@ -318,5 +318,21 @@
     "win_count": 36,
     "rank": 24621,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b2abcde91c7720a82920d20e54e45f0af894a00",
+    "trader_name": "johndoe33",
+    "tag": "Overall",
+    "overall_gain": 3607.645798163344,
+    "active_positions": 2,
+    "win_amount": 5018.3141584565,
+    "loss_amount": -1410.668360293157,
+    "win_rate": 0.5882352941176471,
+    "total_current_value": 0.062488999999999996,
+    "total_positions": 19,
+    "event_ct": 17,
+    "win_count": 10,
+    "rank": 24622,
+    "trader_tags": "> 1 year old"
   }
 ]
