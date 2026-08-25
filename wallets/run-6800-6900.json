@@ -1150,5 +1150,21 @@
     "win_count": 42,
     "rank": 6872,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x60da4444b8f6cdc990ed7dc4a5a2a76636507c78",
+    "trader_name": "jscr",
+    "tag": "Overall",
+    "overall_gain": 15604.173383638152,
+    "active_positions": 0,
+    "win_amount": 31790.720186638155,
+    "loss_amount": -16186.546803000001,
+    "win_rate": 0.875,
+    "total_current_value": 0.00955,
+    "total_positions": 24,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 6873,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
