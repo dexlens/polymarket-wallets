@@ -1358,5 +1358,21 @@
     "win_count": 218,
     "rank": 10085,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x873a21b2783c08a2106e53c24d1ca43486472066",
+    "trader_name": "Kahlenberg",
+    "tag": "Overall",
+    "overall_gain": 10409.795244353267,
+    "active_positions": 683,
+    "win_amount": 66778.09853756941,
+    "loss_amount": -56368.30329321617,
+    "win_rate": 0.5112179487179487,
+    "total_current_value": 0.022836,
+    "total_positions": 3344,
+    "event_ct": 624,
+    "win_count": 319,
+    "rank": 10086,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
