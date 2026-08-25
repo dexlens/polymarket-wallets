@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 40582,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4a8f58a5cba06250e2597644f9b7d2a19e512ea",
+    "trader_name": "willretire",
+    "tag": "Overall",
+    "overall_gain": 1960.7029043751745,
+    "active_positions": 0,
+    "win_amount": 2560.732503766051,
+    "loss_amount": -600.029599390876,
+    "win_rate": 0.7901234567901234,
+    "total_current_value": 0.4893139999999999,
+    "total_positions": 244,
+    "event_ct": 81,
+    "win_count": 64,
+    "rank": 40583,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
