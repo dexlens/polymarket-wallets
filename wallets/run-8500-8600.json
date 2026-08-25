@@ -1294,5 +1294,21 @@
     "win_count": 7,
     "rank": 8581,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd5351a2142c265e39ba8bc0d1101f26d6eb5fa67",
+    "trader_name": "beigesun",
+    "tag": "Overall",
+    "overall_gain": 12212.939103045379,
+    "active_positions": 380,
+    "win_amount": 49542.906354290986,
+    "loss_amount": -37329.967251245616,
+    "win_rate": 0.781431334622824,
+    "total_current_value": 14943.6592961705,
+    "total_positions": 1597,
+    "event_ct": 517,
+    "win_count": 404,
+    "rank": 8582,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
