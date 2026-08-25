@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 31484,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67a3372b546dfb576976ee8d26e15c87f4527eec",
+    "trader_name": "Ahufu",
+    "tag": "Overall",
+    "overall_gain": 2652.0904088793245,
+    "active_positions": 6,
+    "win_amount": 4717.911389165099,
+    "loss_amount": -2065.8209802857737,
+    "win_rate": 0.7605633802816901,
+    "total_current_value": 4544.197170000001,
+    "total_positions": 88,
+    "event_ct": 71,
+    "win_count": 54,
+    "rank": 31485,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
