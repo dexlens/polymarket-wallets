@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 42323,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4628464d48ca369ff189704950ebe3e89ccf3fbf",
+    "trader_name": "wydir",
+    "tag": "Overall",
+    "overall_gain": 1859.4699999999998,
+    "active_positions": 1,
+    "win_amount": 1860.27,
+    "loss_amount": -0.7999999999999989,
+    "win_rate": 0.75,
+    "total_current_value": 14.24,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 42324,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
