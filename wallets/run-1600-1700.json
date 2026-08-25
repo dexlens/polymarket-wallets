@@ -814,5 +814,21 @@
     "win_count": 123,
     "rank": 1651,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc0292a841a0c9a7320aa39075cffcf1b8f64f705",
+    "trader_name": "DimBull",
+    "tag": "Overall",
+    "overall_gain": 74302.63953008279,
+    "active_positions": 1,
+    "win_amount": 78047.20678809445,
+    "loss_amount": -3744.567258011684,
+    "win_rate": 0.625,
+    "total_current_value": 0.0013877300000000002,
+    "total_positions": 19,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 1652,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
