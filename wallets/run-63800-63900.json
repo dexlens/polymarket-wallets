@@ -1374,5 +1374,21 @@
     "win_count": 48,
     "rank": 63887,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61e39446d0d5547eb242ed80991ecec467b77827",
+    "trader_name": "EscapeFromSystem",
+    "tag": "Overall",
+    "overall_gain": 977.0912583860252,
+    "active_positions": 7,
+    "win_amount": 1299.5349105470052,
+    "loss_amount": -322.44365216098,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 1164.896263013,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 63888,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
