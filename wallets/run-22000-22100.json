@@ -238,5 +238,21 @@
     "win_count": 3,
     "rank": 22015,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x548bcd24d5926761bbbfd98d4950d5b7066e8390",
+    "trader_name": "flook",
+    "tag": "Overall",
+    "overall_gain": 4118.236525406715,
+    "active_positions": 55,
+    "win_amount": 13636.483680022855,
+    "loss_amount": -9518.24715461614,
+    "win_rate": 0.662379421221865,
+    "total_current_value": 21586.467264085495,
+    "total_positions": 424,
+    "event_ct": 311,
+    "win_count": 206,
+    "rank": 22016,
+    "trader_tags": ""
   }
 ]
