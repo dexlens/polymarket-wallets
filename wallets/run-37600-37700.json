@@ -142,5 +142,21 @@
     "win_count": 4,
     "rank": 37610,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x81dfcde0c12e35cd74ddb040fdd7867c6cf4bcbf",
+    "trader_name": "zdanniel",
+    "tag": "Overall",
+    "overall_gain": 2147.348726252862,
+    "active_positions": 3,
+    "win_amount": 2170.96047728609,
+    "loss_amount": -23.611751033228003,
+    "win_rate": 0.75,
+    "total_current_value": 0.009377,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 37611,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
