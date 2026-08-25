@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 2233,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x48e7ca9d4754021dc8b32adcaec0234dd6c9d5f8",
+    "trader_name": "Zippy",
+    "tag": "Overall",
+    "overall_gain": 53646.57524679217,
+    "active_positions": 10,
+    "win_amount": 67238.95841134098,
+    "loss_amount": -13592.383164548806,
+    "win_rate": 0.6285714285714286,
+    "total_current_value": 2654.8398576335007,
+    "total_positions": 370,
+    "event_ct": 105,
+    "win_count": 66,
+    "rank": 2234,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
