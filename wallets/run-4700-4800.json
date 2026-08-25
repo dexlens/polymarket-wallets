@@ -1166,5 +1166,21 @@
     "win_count": 38,
     "rank": 4773,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe161b23d2fcf20d553523d5edb9cd2d0804c4ebf",
+    "trader_name": "fyse",
+    "tag": "Overall",
+    "overall_gain": 22793.886278317972,
+    "active_positions": 9,
+    "win_amount": 38649.59068094591,
+    "loss_amount": -15855.704402627947,
+    "win_rate": 0.4528301886792453,
+    "total_current_value": 0.0390185,
+    "total_positions": 62,
+    "event_ct": 53,
+    "win_count": 24,
+    "rank": 4774,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
