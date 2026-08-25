@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 87638,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb177c560048528b1751aa41cecaa822341dcc9a0",
+    "trader_name": "Makka",
+    "tag": "Overall",
+    "overall_gain": 517.173488601151,
+    "active_positions": 9,
+    "win_amount": 556.993599992,
+    "loss_amount": -39.82011139084899,
+    "win_rate": 0.8961038961038961,
+    "total_current_value": 107.0761445,
+    "total_positions": 95,
+    "event_ct": 77,
+    "win_count": 69,
+    "rank": 87639,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
