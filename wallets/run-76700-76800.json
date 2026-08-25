@@ -1486,5 +1486,21 @@
     "win_count": 3,
     "rank": 76794,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x11d46625f1df84dccc0ac2a02d7f4961718d6b52",
+    "trader_name": "mangosz",
+    "tag": "Overall",
+    "overall_gain": 685.493238593403,
+    "active_positions": 0,
+    "win_amount": 685.493238593403,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003403,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 76795,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
