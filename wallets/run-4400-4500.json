@@ -1182,5 +1182,21 @@
     "win_count": 5,
     "rank": 4474,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0fe90c22827e72c7aef24bdc52b6392943fd4fd9",
+    "trader_name": "SantaBaby",
+    "tag": "Overall",
+    "overall_gain": 24721.932591863744,
+    "active_positions": 16,
+    "win_amount": 44519.74304197807,
+    "loss_amount": -19797.810450114335,
+    "win_rate": 0.2636363636363636,
+    "total_current_value": 1873.380915853,
+    "total_positions": 164,
+    "event_ct": 110,
+    "win_count": 29,
+    "rank": 4475,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
