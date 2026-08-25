@@ -1342,5 +1342,21 @@
     "win_count": 9,
     "rank": 33285,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x75a135f0c56b6fb1899f2d73a2767154ff67c05d",
+    "trader_name": "Hyphaeweb",
+    "tag": "Overall",
+    "overall_gain": 2482.5,
+    "active_positions": 2,
+    "win_amount": 3003,
+    "loss_amount": -520.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 33286,
+    "trader_tags": ""
   }
 ]
