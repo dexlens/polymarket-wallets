@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 5855,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x09aac9baa706f8de0c1337dff7180ab42f3edbb6",
+    "trader_name": "flex5",
+    "tag": "Overall",
+    "overall_gain": 18380.029301461444,
+    "active_positions": 2,
+    "win_amount": 108014.89447800002,
+    "loss_amount": -89634.86517653854,
+    "win_rate": 0.5588764854159165,
+    "total_current_value": 348.3796425,
+    "total_positions": 5021,
+    "event_ct": 2777,
+    "win_count": 1552,
+    "rank": 5856,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
