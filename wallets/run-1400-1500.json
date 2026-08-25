@@ -1422,5 +1422,21 @@
     "win_count": 368,
     "rank": 1489,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x01b4f80f5f77d5b9c9f6bb163ad0f64b1001372e",
+    "trader_name": "ghost01",
+    "tag": "Overall",
+    "overall_gain": 81083.92565080986,
+    "active_positions": 10,
+    "win_amount": 144171.76516778985,
+    "loss_amount": -63087.83951697999,
+    "win_rate": 0.18552036199095023,
+    "total_current_value": 933.4963409750001,
+    "total_positions": 1138,
+    "event_ct": 884,
+    "win_count": 164,
+    "rank": 1490,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
