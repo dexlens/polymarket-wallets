@@ -286,5 +286,21 @@
     "win_count": 1245,
     "rank": 7518,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xf89e9d4a62ea9f58c7efcaf9b9cee1c9441cfd66",
+    "trader_name": "LaMac",
+    "tag": "Overall",
+    "overall_gain": 14102.167038345533,
+    "active_positions": 3,
+    "win_amount": 14513.844191431253,
+    "loss_amount": -411.677153085719,
+    "win_rate": 0.625,
+    "total_current_value": 0.3651016365,
+    "total_positions": 18,
+    "event_ct": 16,
+    "win_count": 10,
+    "rank": 7519,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
