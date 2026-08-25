@@ -1246,5 +1246,21 @@
     "win_count": 3,
     "rank": 55579,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdf2c07d7de5933d834784e9050d2bed5d2dd7b6b",
+    "trader_name": "BlueBlueBlue",
+    "tag": "Overall",
+    "overall_gain": 1234.9851672748587,
+    "active_positions": 3,
+    "win_amount": 1254.7896144056035,
+    "loss_amount": -19.804447130744997,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 546.8968655699999,
+    "total_positions": 40,
+    "event_ct": 35,
+    "win_count": 25,
+    "rank": 55580,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
