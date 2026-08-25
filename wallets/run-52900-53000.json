@@ -382,5 +382,21 @@
     "win_count": 3,
     "rank": 52925,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c9f9db9f91bf0a31a67634b7f79f6424063b8ce",
+    "trader_name": "dbschenka",
+    "tag": "Overall",
+    "overall_gain": 1351.2578963746605,
+    "active_positions": 1,
+    "win_amount": 11604.921793700429,
+    "loss_amount": -10253.663897325765,
+    "win_rate": 0.5111420612813371,
+    "total_current_value": 0.505024674,
+    "total_positions": 750,
+    "event_ct": 718,
+    "win_count": 367,
+    "rank": 52926,
+    "trader_tags": ""
   }
 ]
