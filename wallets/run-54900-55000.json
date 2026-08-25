@@ -574,5 +574,21 @@
     "win_count": 5,
     "rank": 54937,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9dae17c6323d67218fc75bc764b6f06e85e6c1ee",
+    "trader_name": "lently",
+    "tag": "Overall",
+    "overall_gain": 1262.3731145903462,
+    "active_positions": 0,
+    "win_amount": 10442.991887060414,
+    "loss_amount": -9180.618772470067,
+    "win_rate": 0.5306122448979592,
+    "total_current_value": 0.0000038061627275442823,
+    "total_positions": 86,
+    "event_ct": 49,
+    "win_count": 26,
+    "rank": 54938,
+    "trader_tags": "> 1 year old"
   }
 ]
