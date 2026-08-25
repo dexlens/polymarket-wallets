@@ -222,5 +222,21 @@
     "win_count": 36,
     "rank": 21914,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6054982bd8f221865acd6617a00e0cd839aca4a4",
+    "trader_name": "fsdFDA",
+    "tag": "Overall",
+    "overall_gain": 4139.274012929999,
+    "active_positions": 2,
+    "win_amount": 4713.102605510001,
+    "loss_amount": -573.8285925800001,
+    "win_rate": 0.9686520376175548,
+    "total_current_value": 129.276067,
+    "total_positions": 321,
+    "event_ct": 319,
+    "win_count": 309,
+    "rank": 21915,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
