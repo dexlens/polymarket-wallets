@@ -910,5 +910,21 @@
     "win_count": 4,
     "rank": 30358,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f5bb96e2da56a85e7bfddcad6e48f73e9bbe747",
+    "trader_name": "0xSKTBB",
+    "tag": "Overall",
+    "overall_gain": 2777.901380972317,
+    "active_positions": 15,
+    "win_amount": 25952.782313557476,
+    "loss_amount": -23174.88093258514,
+    "win_rate": 0.6067961165048543,
+    "total_current_value": 12257.566699529501,
+    "total_positions": 1464,
+    "event_ct": 824,
+    "win_count": 500,
+    "rank": 30359,
+    "trader_tags": "1k+ Positions"
   }
 ]
