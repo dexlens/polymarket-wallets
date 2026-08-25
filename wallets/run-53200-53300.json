@@ -1150,5 +1150,21 @@
     "win_count": 15,
     "rank": 53273,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa4eee7c51fa6cca821c4296602d72f0acb2e5baf",
+    "trader_name": "einarkleinnc",
+    "tag": "Overall",
+    "overall_gain": 1334.575,
+    "active_positions": 1,
+    "win_amount": 1334.575,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 2368.445,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 53274,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
