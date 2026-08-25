@@ -1310,5 +1310,21 @@
     "win_count": 5,
     "rank": 59483,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8545598a2b69dadcd51387b5c99b396230a0d84b",
+    "trader_name": "Edri9",
+    "tag": "Overall",
+    "overall_gain": 1092.628652292936,
+    "active_positions": 3,
+    "win_amount": 1152.028652292936,
+    "loss_amount": -59.4,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 5486.2222970695,
+    "total_positions": 19,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 59484,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
