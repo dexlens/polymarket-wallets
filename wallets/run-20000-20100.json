@@ -494,5 +494,21 @@
     "win_count": 3,
     "rank": 20031,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11905ac0cac773c5b98bba0a9b457d878952f927",
+    "trader_name": "redforceteam",
+    "tag": "Overall",
+    "overall_gain": 4617.236023,
+    "active_positions": 1,
+    "win_amount": 8673.736023,
+    "loss_amount": -4056.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 24.060000000000002,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 20032,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
