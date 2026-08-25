@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 13818,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x842a808dd70c847087b4c4a01adec29047d665e2",
+    "trader_name": "oqndcl",
+    "tag": "Overall",
+    "overall_gain": 7141.133695531513,
+    "active_positions": 2,
+    "win_amount": 15776.38065390456,
+    "loss_amount": -8635.246958373049,
+    "win_rate": 0.6326530612244898,
+    "total_current_value": 0.128922,
+    "total_positions": 59,
+    "event_ct": 49,
+    "win_count": 31,
+    "rank": 13819,
+    "trader_tags": ""
   }
 ]
