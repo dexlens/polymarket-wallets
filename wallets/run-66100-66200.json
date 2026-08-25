@@ -1054,5 +1054,21 @@
     "win_count": 2,
     "rank": 66167,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x34d1e47fde632a1bb48e3e536adc656f42f25ae0",
+    "trader_name": "hellomaker",
+    "tag": "Overall",
+    "overall_gain": 911.112221,
+    "active_positions": 0,
+    "win_amount": 911.112221,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 66168,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
