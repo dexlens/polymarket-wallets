@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 12719,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x197b0954e2a1d3fa3b837f142c15ef5b0653818e",
+    "trader_name": "Rutaru",
+    "tag": "Overall",
+    "overall_gain": 7959.687615533324,
+    "active_positions": 3,
+    "win_amount": 17823.416505230005,
+    "loss_amount": -9863.728889696684,
+    "win_rate": 0.675531914893617,
+    "total_current_value": 3383.3203581925,
+    "total_positions": 269,
+    "event_ct": 188,
+    "win_count": 127,
+    "rank": 12720,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
