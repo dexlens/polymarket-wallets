@@ -846,5 +846,21 @@
     "win_count": 372,
     "rank": 65254,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x343d732666e1de9bdd37b6e71c6fa74e928971c1",
+    "trader_name": "amemeo",
+    "tag": "Overall",
+    "overall_gain": 937.6313746330798,
+    "active_positions": 1,
+    "win_amount": 937.6313746330798,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 764.09314,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 65255,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
