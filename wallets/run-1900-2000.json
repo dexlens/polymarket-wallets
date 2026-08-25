@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 1948,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x561da78ed154ec53be6603eeae10160dbf634912",
+    "trader_name": "Veralis",
+    "tag": "Overall",
+    "overall_gain": 61952.62930844804,
+    "active_positions": 6,
+    "win_amount": 64597.43527044803,
+    "loss_amount": -2644.8059619999995,
+    "win_rate": 0.8222222222222222,
+    "total_current_value": 147.393288,
+    "total_positions": 96,
+    "event_ct": 90,
+    "win_count": 74,
+    "rank": 1949,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
