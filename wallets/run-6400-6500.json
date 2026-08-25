@@ -334,5 +334,21 @@
     "win_count": 16,
     "rank": 6421,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0be7585c03a798f42e13e850cf4647fcdf0088a1",
+    "trader_name": "JianYu",
+    "tag": "Overall",
+    "overall_gain": 16678.344643723267,
+    "active_positions": 4,
+    "win_amount": 19055.062007124136,
+    "loss_amount": -2376.7173634008714,
+    "win_rate": 0.7761194029850746,
+    "total_current_value": 0.043045,
+    "total_positions": 76,
+    "event_ct": 67,
+    "win_count": 52,
+    "rank": 6422,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
