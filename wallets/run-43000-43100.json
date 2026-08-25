@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 43091,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8ff167a4d4bf5d3dba2db370a51453349c0dcc77",
+    "trader_name": "UpsideDownLand",
+    "tag": "Overall",
+    "overall_gain": 1814.6236677348727,
+    "active_positions": 54,
+    "win_amount": 7335.626657347939,
+    "loss_amount": -5521.002989613066,
+    "win_rate": 0.8751576292559899,
+    "total_current_value": 0.977141,
+    "total_positions": 820,
+    "event_ct": 793,
+    "win_count": 694,
+    "rank": 43092,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
