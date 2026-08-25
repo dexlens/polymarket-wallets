@@ -1390,5 +1390,21 @@
     "win_count": 26,
     "rank": 1587,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x03524d9d00cffe5004d1d270edfea7b3109e3292",
+    "trader_name": "IAMAAIROBOT",
+    "tag": "Overall",
+    "overall_gain": 76930.21888228101,
+    "active_positions": 342,
+    "win_amount": 428072.67378005077,
+    "loss_amount": -351142.45489776984,
+    "win_rate": 0.51953125,
+    "total_current_value": 542.2416569999999,
+    "total_positions": 1553,
+    "event_ct": 1024,
+    "win_count": 532,
+    "rank": 1588,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
