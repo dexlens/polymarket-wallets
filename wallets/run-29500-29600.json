@@ -1214,5 +1214,21 @@
     "win_count": 415,
     "rank": 29577,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x32ab665e72b26a35891ee20c94f812e86f08efe2",
+    "trader_name": "shcgnyw",
+    "tag": "Overall",
+    "overall_gain": 2871.7456193843464,
+    "active_positions": 1,
+    "win_amount": 2875.2516493843464,
+    "loss_amount": -3.50603,
+    "win_rate": 0.96,
+    "total_current_value": 176.152396,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 24,
+    "rank": 29578,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
