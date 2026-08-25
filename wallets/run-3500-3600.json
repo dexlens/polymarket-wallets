@@ -1262,5 +1262,21 @@
     "win_count": 2,
     "rank": 3579,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x344c5073e9b152a95d9f42767ac084a87fad68ab",
+    "trader_name": "doozy1499",
+    "tag": "Overall",
+    "overall_gain": 31809.55052235,
+    "active_positions": 0,
+    "win_amount": 31812.55052235,
+    "loss_amount": -3,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.01,
+    "total_positions": 11,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 3580,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
