@@ -782,5 +782,21 @@
     "win_count": 360,
     "rank": 10449,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ff96294e37c544cc67c3436ab04358043e5c260",
+    "trader_name": "philipatpzj",
+    "tag": "Overall",
+    "overall_gain": 10061.6,
+    "active_positions": 0,
+    "win_amount": 12492.5,
+    "loss_amount": -2430.9,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 26,
+    "win_count": 16,
+    "rank": 10450,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
