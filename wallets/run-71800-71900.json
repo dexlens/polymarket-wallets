@@ -638,5 +638,21 @@
     "win_count": 7,
     "rank": 71841,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8f155824f9799608e42221b0e64b6775f602f295",
+    "trader_name": "williwilli",
+    "tag": "Overall",
+    "overall_gain": 770.3353281575845,
+    "active_positions": 2,
+    "win_amount": 3576.2751177033897,
+    "loss_amount": -2805.939789545807,
+    "win_rate": 0.3338983050847458,
+    "total_current_value": 717.6609354100001,
+    "total_positions": 664,
+    "event_ct": 590,
+    "win_count": 197,
+    "rank": 71842,
+    "trader_tags": "< 30 days old"
   }
 ]
