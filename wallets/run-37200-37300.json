@@ -1566,5 +1566,21 @@
     "win_count": 5,
     "rank": 37299,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49e18917e719dd4bef12e1f0f5c070b1ae1c52fe",
+    "trader_name": "cla1233",
+    "tag": "Overall",
+    "overall_gain": 2167.308589596965,
+    "active_positions": 13,
+    "win_amount": 2839.081707378956,
+    "loss_amount": -671.773117781991,
+    "win_rate": 0.5,
+    "total_current_value": 272.872770785,
+    "total_positions": 23,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 37300,
+    "trader_tags": ""
   }
 ]
