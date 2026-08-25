@@ -990,5 +990,21 @@
     "win_count": 140,
     "rank": 2062,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2da9cdcfc041d3732e0b1d42a2c7b35ac565be13",
+    "trader_name": "yvonneal",
+    "tag": "Overall",
+    "overall_gain": 58316.292962,
+    "active_positions": 1,
+    "win_amount": 60192.112962,
+    "loss_amount": -1875.82,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 2063,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
