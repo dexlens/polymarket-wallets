@@ -446,5 +446,21 @@
     "win_count": 1066,
     "rank": 2828,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xb8fe807aa951e35af53fd0fee36abc303864ce76",
+    "trader_name": "CaptainCoinflip",
+    "tag": "Overall",
+    "overall_gain": 40947.34951963462,
+    "active_positions": 5,
+    "win_amount": 73675.57729263302,
+    "loss_amount": -32728.227772998405,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 28971.91163662599,
+    "total_positions": 368,
+    "event_ct": 135,
+    "win_count": 72,
+    "rank": 2829,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
