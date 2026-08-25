@@ -1550,5 +1550,21 @@
     "win_count": 5,
     "rank": 30898,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfbfd349e7581155bd1be37c5e00e339e6cc6c226",
+    "trader_name": "mybigmoney",
+    "tag": "Overall",
+    "overall_gain": 2712.3172620000005,
+    "active_positions": 2,
+    "win_amount": 4063.272789999999,
+    "loss_amount": -1350.9555280000002,
+    "win_rate": 0.9862637362637363,
+    "total_current_value": 6000,
+    "total_positions": 605,
+    "event_ct": 364,
+    "win_count": 359,
+    "rank": 30899,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
