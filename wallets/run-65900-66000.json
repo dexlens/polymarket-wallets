@@ -702,5 +702,21 @@
     "win_count": 218,
     "rank": 65945,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f7f6ccf1719105dc4049848d0d2c3e4c714105b",
+    "trader_name": "aywsd",
+    "tag": "Overall",
+    "overall_gain": 917.6852368245729,
+    "active_positions": 8,
+    "win_amount": 10924.291965999999,
+    "loss_amount": -10006.606729175428,
+    "win_rate": 0.5,
+    "total_current_value": 0.001762,
+    "total_positions": 50,
+    "event_ct": 50,
+    "win_count": 25,
+    "rank": 65946,
+    "trader_tags": "> 1 year old"
   }
 ]
