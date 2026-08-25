@@ -1214,5 +1214,21 @@
     "win_count": 4,
     "rank": 1976,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x571713721a8894c40880da84a02353bf554fb1f0",
+    "trader_name": "Thyrianis",
+    "tag": "Overall",
+    "overall_gain": 61132.676758099034,
+    "active_positions": 4,
+    "win_amount": 62318.70690909903,
+    "loss_amount": -1186.0301510000002,
+    "win_rate": 0.9213483146067416,
+    "total_current_value": 7.890033,
+    "total_positions": 93,
+    "event_ct": 89,
+    "win_count": 82,
+    "rank": 1977,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
