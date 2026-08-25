@@ -910,5 +910,21 @@
     "win_count": 6,
     "rank": 9857,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6c7248b01ce1bc93f83fa3a22ae4a5dd160260a6",
+    "trader_name": "lesle",
+    "tag": "Overall",
+    "overall_gain": 10631.293696,
+    "active_positions": 1,
+    "win_amount": 10654.293696,
+    "loss_amount": -23,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 9858,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
