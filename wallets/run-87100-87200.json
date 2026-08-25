@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 87144,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0bb5a3d3ad6559f8734ce4c6788bdbfda74144db",
+    "trader_name": "caodh",
+    "tag": "Overall",
+    "overall_gain": 523.9671871807492,
+    "active_positions": 5,
+    "win_amount": 2570.041141376742,
+    "loss_amount": -2046.0739541959929,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.080487,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 4,
+    "rank": 87145,
+    "trader_tags": ""
   }
 ]
