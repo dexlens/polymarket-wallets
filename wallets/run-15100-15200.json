@@ -478,5 +478,21 @@
     "win_count": 10,
     "rank": 15130,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d01206be05276e423718c2ed436e3a75a82a6bc",
+    "trader_name": "cesput",
+    "tag": "Overall",
+    "overall_gain": 6429.742366182769,
+    "active_positions": 2,
+    "win_amount": 6513.285234185773,
+    "loss_amount": -83.542868003004,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 7.8530814,
+    "total_positions": 15,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 15131,
+    "trader_tags": ""
   }
 ]
