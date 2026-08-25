@@ -1134,5 +1134,21 @@
     "win_count": 143,
     "rank": 50372,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x622b28d03873dc93c40b0195667fddc7e73bc6cb",
+    "trader_name": "theigloo",
+    "tag": "Overall",
+    "overall_gain": 1468.0125777629582,
+    "active_positions": 9,
+    "win_amount": 6961.653058974362,
+    "loss_amount": -5493.640481211404,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 12714.356016434498,
+    "total_positions": 119,
+    "event_ct": 78,
+    "win_count": 72,
+    "rank": 50373,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
