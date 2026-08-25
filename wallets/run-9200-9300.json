@@ -270,5 +270,21 @@
     "win_count": 4,
     "rank": 9217,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6598e8d7d2c8643e8e0375cc1d53c5b86ad6a399",
+    "trader_name": "costagia",
+    "tag": "Overall",
+    "overall_gain": 11370.26361721174,
+    "active_positions": 34,
+    "win_amount": 14458.417153775164,
+    "loss_amount": -3088.153536563422,
+    "win_rate": 0.336734693877551,
+    "total_current_value": 43.243362545,
+    "total_positions": 120,
+    "event_ct": 98,
+    "win_count": 33,
+    "rank": 9218,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
