@@ -414,5 +414,21 @@
     "win_count": 4,
     "rank": 48427,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4dfa8422a9709adbe002c9cf40a981203f0046a0",
+    "trader_name": "dattta",
+    "tag": "Overall",
+    "overall_gain": 1552.717767852059,
+    "active_positions": 11,
+    "win_amount": 1668.014902035922,
+    "loss_amount": -115.2971341838629,
+    "win_rate": 0.717948717948718,
+    "total_current_value": 2653.4268261795,
+    "total_positions": 48,
+    "event_ct": 39,
+    "win_count": 28,
+    "rank": 48428,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
