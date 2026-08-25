@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 42376,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd5885c010d6ef3339eb027bd11d97c0ce989542",
+    "trader_name": "CryptElt",
+    "tag": "Overall",
+    "overall_gain": 1855.9904812467673,
+    "active_positions": 3,
+    "win_amount": 2992.2820601590693,
+    "loss_amount": -1136.2915789123028,
+    "win_rate": 0.5426829268292683,
+    "total_current_value": 127.95940166499994,
+    "total_positions": 200,
+    "event_ct": 164,
+    "win_count": 89,
+    "rank": 42377,
+    "trader_tags": "> 1 year old"
   }
 ]
