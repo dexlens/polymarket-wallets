@@ -974,5 +974,21 @@
     "win_count": 5,
     "rank": 8661,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb4aa081c388b0f3ebb81f6d679b193510f15aa39",
+    "trader_name": "kingshand",
+    "tag": "Overall",
+    "overall_gain": 12096.382635931059,
+    "active_positions": 1,
+    "win_amount": 12180.535555566192,
+    "loss_amount": -84.15291963513098,
+    "win_rate": 0.552,
+    "total_current_value": 1.0235211350000002,
+    "total_positions": 127,
+    "event_ct": 125,
+    "win_count": 69,
+    "rank": 8662,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
