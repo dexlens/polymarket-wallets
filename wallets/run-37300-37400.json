@@ -1582,5 +1582,21 @@
     "win_count": 4,
     "rank": 37400,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x97fc046ca2586296082057e1e8ae4758454d148c",
+    "trader_name": "fugvj6d",
+    "tag": "Overall",
+    "overall_gain": 2160.958557769789,
+    "active_positions": 3,
+    "win_amount": 2394.705617769789,
+    "loss_amount": -233.74705999999998,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 159.173789,
+    "total_positions": 35,
+    "event_ct": 34,
+    "win_count": 32,
+    "rank": 37401,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
