@@ -702,5 +702,21 @@
     "win_count": 45,
     "rank": 86445,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7a824130757286933257ea1c065c2e2bc13f23c7",
+    "trader_name": "apeinjurieagle",
+    "tag": "Overall",
+    "overall_gain": 533.0803264313786,
+    "active_positions": 12,
+    "win_amount": 703.3617324540888,
+    "loss_amount": -170.28140602271029,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 12871.114507305501,
+    "total_positions": 34,
+    "event_ct": 26,
+    "win_count": 18,
+    "rank": 86446,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
