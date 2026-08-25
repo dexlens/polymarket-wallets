@@ -142,5 +142,21 @@
     "win_count": 1,
     "rank": 36710,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e3c47d1fb0e38ef812140fd12d76da8d42c93f1",
+    "trader_name": "Bubbleworld",
+    "tag": "Overall",
+    "overall_gain": 2210.7975260057838,
+    "active_positions": 9,
+    "win_amount": 5443.948307898347,
+    "loss_amount": -3233.1507818925643,
+    "win_rate": 0.25,
+    "total_current_value": 4512.693177,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 2,
+    "rank": 36711,
+    "trader_tags": "> 1 year old"
   }
 ]
