@@ -942,5 +942,21 @@
     "win_count": 7,
     "rank": 43760,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c9c7523f363f6ab3ae1aebca11be4d6bc75c3b3",
+    "trader_name": "FirstPick",
+    "tag": "Overall",
+    "overall_gain": 1779.1740765535183,
+    "active_positions": 7,
+    "win_amount": 2496.091015907276,
+    "loss_amount": -716.9169393537579,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 792.1597304045,
+    "total_positions": 337,
+    "event_ct": 165,
+    "win_count": 121,
+    "rank": 43761,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
