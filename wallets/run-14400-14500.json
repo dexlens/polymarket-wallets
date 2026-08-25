@@ -1486,5 +1486,21 @@
     "win_count": 6,
     "rank": 14493,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81bb704110ebb8e51c35341e93263b9c5b72bd45",
+    "trader_name": "kokoss",
+    "tag": "Overall",
+    "overall_gain": 6783.059690385224,
+    "active_positions": 0,
+    "win_amount": 33955.25244911592,
+    "loss_amount": -27172.192758730696,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 14494,
+    "trader_tags": ""
   }
 ]
