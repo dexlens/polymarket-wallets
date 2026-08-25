@@ -846,5 +846,21 @@
     "win_count": 5,
     "rank": 33554,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc1df89b599b56844d4784eb0fa00c7e7d160e348",
+    "trader_name": "PLAY-STUPID-GAMES",
+    "tag": "Overall",
+    "overall_gain": 2461.3677747,
+    "active_positions": 2,
+    "win_amount": 3373.3677747,
+    "loss_amount": -912,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 33555,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
