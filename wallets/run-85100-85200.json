@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 85128,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x859163932c9d0cc34d3b85a452ef312eb4758195",
+    "trader_name": "miymama",
+    "tag": "Overall",
+    "overall_gain": 550.2992803227212,
+    "active_positions": 12,
+    "win_amount": 571.172115388146,
+    "loss_amount": -20.872835065425004,
+    "win_rate": 0.7543859649122807,
+    "total_current_value": 12.362559,
+    "total_positions": 87,
+    "event_ct": 57,
+    "win_count": 43,
+    "rank": 85129,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
