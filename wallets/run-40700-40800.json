@@ -782,5 +782,21 @@
     "win_count": 32,
     "rank": 40750,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3baffdae518b3b7a7aab42458406baa48d6d1579",
+    "trader_name": "egle",
+    "tag": "Overall",
+    "overall_gain": 1950.3449592162272,
+    "active_positions": 4,
+    "win_amount": 2656.988087859571,
+    "loss_amount": -706.6431286433441,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 0.040701,
+    "total_positions": 17,
+    "event_ct": 15,
+    "win_count": 8,
+    "rank": 40751,
+    "trader_tags": ""
   }
 ]
