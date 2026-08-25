@@ -942,5 +942,21 @@
     "win_count": 11,
     "rank": 32860,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e353d9ac25ba271540fc8fccd6ecc20769465da",
+    "trader_name": "Hsed",
+    "tag": "Overall",
+    "overall_gain": 2517.1769845955014,
+    "active_positions": 10,
+    "win_amount": 4569.867329605107,
+    "loss_amount": -2052.6903450096056,
+    "win_rate": 0.7105263157894737,
+    "total_current_value": 0.046062463,
+    "total_positions": 42,
+    "event_ct": 38,
+    "win_count": 27,
+    "rank": 32861,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
