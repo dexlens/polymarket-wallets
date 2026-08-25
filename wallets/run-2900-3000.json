@@ -366,5 +366,21 @@
     "win_count": 20,
     "rank": 2923,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x624eab15b2d9be3188cf453cd5dff01847c403fd",
+    "trader_name": "giTAe4W41",
+    "tag": "Overall",
+    "overall_gain": 39394.218329999996,
+    "active_positions": 14,
+    "win_amount": 55619.718329999996,
+    "loss_amount": -16225.5,
+    "win_rate": 0.6111111111111112,
+    "total_current_value": 0,
+    "total_positions": 36,
+    "event_ct": 36,
+    "win_count": 22,
+    "rank": 2924,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
