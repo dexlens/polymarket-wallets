@@ -1390,5 +1390,21 @@
     "win_count": 5,
     "rank": 27088,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x563ec5843def97d3bac9bb46000b7f79560e7dfc",
+    "trader_name": "areaz",
+    "tag": "Overall",
+    "overall_gain": 3195.4796724125554,
+    "active_positions": 0,
+    "win_amount": 3200.42,
+    "loss_amount": -4.940327587444999,
+    "win_rate": 0.6,
+    "total_current_value": 0.0036484150000000003,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 27089,
+    "trader_tags": ""
   }
 ]
