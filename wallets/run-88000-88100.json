@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 88031,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x300ce4e00c37455adc1adff67632179f4740b72e",
+    "trader_name": "revolutionx",
+    "tag": "Overall",
+    "overall_gain": 512.5714015612471,
+    "active_positions": 5,
+    "win_amount": 1883.0701313895952,
+    "loss_amount": -1370.4987298283481,
+    "win_rate": 0.4329896907216495,
+    "total_current_value": 0.059196,
+    "total_positions": 146,
+    "event_ct": 97,
+    "win_count": 42,
+    "rank": 88032,
+    "trader_tags": ""
   }
 ]
