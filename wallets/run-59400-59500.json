@@ -1134,5 +1134,21 @@
     "win_count": 31,
     "rank": 59472,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2260455c8ab838a477aa0e982de8a125616bad28",
+    "trader_name": "TakeVitaminD",
+    "tag": "Overall",
+    "overall_gain": 1092.9542143201186,
+    "active_positions": 4,
+    "win_amount": 8428.905810757771,
+    "loss_amount": -7335.9515964376515,
+    "win_rate": 0.7313432835820896,
+    "total_current_value": 325.871594606,
+    "total_positions": 140,
+    "event_ct": 67,
+    "win_count": 49,
+    "rank": 59473,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
