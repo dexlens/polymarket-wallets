@@ -606,5 +606,21 @@
     "win_count": 9,
     "rank": 37339,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9bec3c9d8ae1ae0577e7674d7678b5686439b445",
+    "trader_name": "AGAMBLING",
+    "tag": "Overall",
+    "overall_gain": 2164.882750712797,
+    "active_positions": 63,
+    "win_amount": 3121.9084833427705,
+    "loss_amount": -957.0257326299743,
+    "win_rate": 0.3815789473684211,
+    "total_current_value": 143.7036013555,
+    "total_positions": 119,
+    "event_ct": 76,
+    "win_count": 29,
+    "rank": 37340,
+    "trader_tags": ""
   }
 ]
