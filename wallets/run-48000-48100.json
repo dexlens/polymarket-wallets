@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 48062,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x35c5e4dc5b862ec7795d47e0c68e465f5dc107d2",
+    "trader_name": "M15HA",
+    "tag": "Overall",
+    "overall_gain": 1569.84050643937,
+    "active_positions": 0,
+    "win_amount": 1829.341630368308,
+    "loss_amount": -259.501123928938,
+    "win_rate": 0.25,
+    "total_current_value": 0.007967,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 48063,
+    "trader_tags": "> 1 year old"
   }
 ]
