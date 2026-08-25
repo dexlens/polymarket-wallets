@@ -686,5 +686,21 @@
     "win_count": 11,
     "rank": 86744,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa4d59242bf8a73cef4cd9d08f283c96cc3a6bc76",
+    "trader_name": "ISDB",
+    "tag": "Overall",
+    "overall_gain": 528.8820279683019,
+    "active_positions": 0,
+    "win_amount": 528.8820279683019,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001174,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 86745,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
