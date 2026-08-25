@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 35999,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6fa2778bc57ec7bfb7ff32d92dec66d8c77f91e1",
+    "trader_name": "eejlu",
+    "tag": "Overall",
+    "overall_gain": 2263.11,
+    "active_positions": 1,
+    "win_amount": 2263.9500000000003,
+    "loss_amount": -0.8399999999999999,
+    "win_rate": 0.75,
+    "total_current_value": 10.92,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 36000,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
