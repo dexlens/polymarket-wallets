@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 65871,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e19eb40556f538b2143f71df6e51abfe9e43f6c",
+    "trader_name": "dawn12",
+    "tag": "Overall",
+    "overall_gain": 919.7579405095262,
+    "active_positions": 0,
+    "win_amount": 1137.575029,
+    "loss_amount": -217.81708849047402,
+    "win_rate": 0.631578947368421,
+    "total_current_value": 0.016,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 24,
+    "rank": 65872,
+    "trader_tags": "> 1 year old"
   }
 ]
