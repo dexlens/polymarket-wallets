@@ -254,5 +254,21 @@
     "win_count": 9,
     "rank": 18016,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54141b24d387a444126c9a02615804283f37d916",
+    "trader_name": "BANTERR",
+    "tag": "Overall",
+    "overall_gain": 5176.177514546996,
+    "active_positions": 22,
+    "win_amount": 5180.073881722623,
+    "loss_amount": -3.8963671756269993,
+    "win_rate": 0.8723404255319149,
+    "total_current_value": 53.680514069000004,
+    "total_positions": 70,
+    "event_ct": 47,
+    "win_count": 41,
+    "rank": 18017,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
