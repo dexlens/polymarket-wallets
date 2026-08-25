@@ -942,5 +942,21 @@
     "win_count": 23,
     "rank": 8459,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xff33607e29b5f4c84f9bb13647a96fcf45645240",
+    "trader_name": "NBAPRAY",
+    "tag": "Overall",
+    "overall_gain": 12377.202518144655,
+    "active_positions": 4,
+    "win_amount": 13610.599650987733,
+    "loss_amount": -1233.397132843078,
+    "win_rate": 0.88,
+    "total_current_value": 3.9817493,
+    "total_positions": 109,
+    "event_ct": 25,
+    "win_count": 22,
+    "rank": 8460,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
