@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 26950,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64d927ce63c43e36181d03cbc0d565b4b7dd780c",
+    "trader_name": "Mussel",
+    "tag": "Overall",
+    "overall_gain": 3214.894442468099,
+    "active_positions": 1,
+    "win_amount": 5709.993341000001,
+    "loss_amount": -2495.098898531901,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.004515,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 26951,
+    "trader_tags": "> 1 year old"
   }
 ]
