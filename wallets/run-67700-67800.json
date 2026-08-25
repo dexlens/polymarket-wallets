@@ -686,5 +686,21 @@
     "win_count": 4,
     "rank": 67744,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6b0679260a3206dd60dc29b54f24830a4743d33f",
+    "trader_name": "nolud",
+    "tag": "Overall",
+    "overall_gain": 868.4159445641955,
+    "active_positions": 4,
+    "win_amount": 2076.5238361310285,
+    "loss_amount": -1208.1078915668331,
+    "win_rate": 0.84,
+    "total_current_value": 729.9812876449998,
+    "total_positions": 33,
+    "event_ct": 25,
+    "win_count": 21,
+    "rank": 67745,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
