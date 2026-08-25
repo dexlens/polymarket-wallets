@@ -974,5 +974,21 @@
     "win_count": 8,
     "rank": 34362,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1dd9903dafeede8d863cdcd5cb3eb5701e49cc5b",
+    "trader_name": "Caelu",
+    "tag": "Overall",
+    "overall_gain": 2392.0299999999997,
+    "active_positions": 3,
+    "win_amount": 3757.5299999999997,
+    "loss_amount": -1365.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 34363,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
