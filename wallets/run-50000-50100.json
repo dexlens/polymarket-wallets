@@ -1118,5 +1118,21 @@
     "win_count": 95,
     "rank": 50071,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc266e3075ddd033ad4929128bb085501c2f39ce4",
+    "trader_name": "PoliLife",
+    "tag": "Overall",
+    "overall_gain": 1481.267573429603,
+    "active_positions": 2,
+    "win_amount": 1723.800826096252,
+    "loss_amount": -242.533252666649,
+    "win_rate": 0.8,
+    "total_current_value": 971.1649798705,
+    "total_positions": 25,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 50072,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
