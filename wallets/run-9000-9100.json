@@ -862,5 +862,21 @@
     "win_count": 109,
     "rank": 9054,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0691dfc4a112bee8cedf07df5ed65c3795c22814",
+    "trader_name": "JHRUE",
+    "tag": "Overall",
+    "overall_gain": 11576.068482169998,
+    "active_positions": 3,
+    "win_amount": 13138.822903999999,
+    "loss_amount": -1562.75442183,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 9055,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
