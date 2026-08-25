@@ -862,5 +862,21 @@
     "win_count": 37,
     "rank": 6854,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x165ed327dd594bfe95a5a9836cad385813cff5aa",
+    "trader_name": "lidocaine",
+    "tag": "Overall",
+    "overall_gain": 15634.866841844707,
+    "active_positions": 57,
+    "win_amount": 24791.648961262523,
+    "loss_amount": -9156.78211941782,
+    "win_rate": 0.7985611510791367,
+    "total_current_value": 19484.447653112,
+    "total_positions": 427,
+    "event_ct": 139,
+    "win_count": 111,
+    "rank": 6855,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
