@@ -1214,5 +1214,21 @@
     "win_count": 87,
     "rank": 66877,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5db0dd80b8ce30d2034bcb92dab004a4589ea203",
+    "trader_name": "Maplemonkey",
+    "tag": "Overall",
+    "overall_gain": 892.6077472674,
+    "active_positions": 0,
+    "win_amount": 892.6077472674,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0071,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 66878,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
