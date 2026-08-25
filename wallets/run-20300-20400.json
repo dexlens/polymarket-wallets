@@ -1230,5 +1230,21 @@
     "win_count": 5,
     "rank": 20377,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f84c09f9f48d0654f4290073c384119167862a7",
+    "trader_name": "Areds",
+    "tag": "Overall",
+    "overall_gain": 4528.5,
+    "active_positions": 0,
+    "win_amount": 4528.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 20378,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
