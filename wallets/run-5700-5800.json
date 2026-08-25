@@ -1438,5 +1438,21 @@
     "win_count": 5,
     "rank": 5790,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88c7299196990d2404f4fe4427fb20645a529012",
+    "trader_name": "Bankky",
+    "tag": "Overall",
+    "overall_gain": 18595.55610904852,
+    "active_positions": 23,
+    "win_amount": 33604.29666936524,
+    "loss_amount": -15008.74056031672,
+    "win_rate": 0.6,
+    "total_current_value": 0.167649,
+    "total_positions": 56,
+    "event_ct": 55,
+    "win_count": 33,
+    "rank": 5791,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
