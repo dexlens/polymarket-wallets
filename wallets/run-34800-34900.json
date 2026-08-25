@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 34894,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x9849f758f778393932d3d6f9135b4c27edce3603",
+    "trader_name": "Bromley",
+    "tag": "Overall",
+    "overall_gain": 2349.976887154737,
+    "active_positions": 0,
+    "win_amount": 2821.969705710841,
+    "loss_amount": -471.992818556104,
+    "win_rate": 0.865979381443299,
+    "total_current_value": 0.10400978400000001,
+    "total_positions": 166,
+    "event_ct": 97,
+    "win_count": 84,
+    "rank": 34895,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
