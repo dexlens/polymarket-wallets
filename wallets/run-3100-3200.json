@@ -558,5 +558,21 @@
     "win_count": 513,
     "rank": 3135,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b24905a0ab20272e4ddc205f6985d8dcc0b2e06",
+    "trader_name": "BirdWatcher1994",
+    "tag": "Overall",
+    "overall_gain": 36471.589945636515,
+    "active_positions": 0,
+    "win_amount": 53962.88535105544,
+    "loss_amount": -17491.29540541893,
+    "win_rate": 0.5581395348837209,
+    "total_current_value": 0.067289,
+    "total_positions": 89,
+    "event_ct": 43,
+    "win_count": 24,
+    "rank": 3136,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
