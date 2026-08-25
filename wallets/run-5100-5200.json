@@ -1470,5 +1470,21 @@
     "win_count": 34,
     "rank": 5192,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7606d0d3719c88f9b868a13015881af5222ccd7",
+    "trader_name": "theta-thunberg",
+    "tag": "Overall",
+    "overall_gain": 20846.620112437795,
+    "active_positions": 65,
+    "win_amount": 30942.826598333253,
+    "loss_amount": -10096.206485895465,
+    "win_rate": 0.5796460176991151,
+    "total_current_value": 21663.691317993995,
+    "total_positions": 741,
+    "event_ct": 452,
+    "win_count": 262,
+    "rank": 5193,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
