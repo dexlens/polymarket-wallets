@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 63442,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8b5be86c6c8b107616925fa98bf1346c44dc9322",
+    "trader_name": "lsd",
+    "tag": "Overall",
+    "overall_gain": 988.7598740021068,
+    "active_positions": 1,
+    "win_amount": 1084.8631939999998,
+    "loss_amount": -96.10331999789298,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0.01409,
+    "total_positions": 23,
+    "event_ct": 22,
+    "win_count": 12,
+    "rank": 63443,
+    "trader_tags": "> 1 year old"
   }
 ]
