@@ -158,5 +158,21 @@
     "win_count": 2,
     "rank": 41711,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x261cd61ce457d51085d1eabe618207dcdb8a8b76",
+    "trader_name": "Maxinski",
+    "tag": "Overall",
+    "overall_gain": 1892.1890352538403,
+    "active_positions": 39,
+    "win_amount": 3710.9203178534926,
+    "loss_amount": -1818.731282599652,
+    "win_rate": 0.981574539363484,
+    "total_current_value": 4343.263772069497,
+    "total_positions": 1257,
+    "event_ct": 597,
+    "win_count": 586,
+    "rank": 41712,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
