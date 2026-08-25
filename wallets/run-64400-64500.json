@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 64453,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x94b11e75ec9766524f445dc923be7ac527fbbd2e",
+    "trader_name": "gossipgirl",
+    "tag": "Overall",
+    "overall_gain": 960.4213902739979,
+    "active_positions": 0,
+    "win_amount": 1536.4306293662419,
+    "loss_amount": -576.009239092244,
+    "win_rate": 0.86,
+    "total_current_value": 0.8306676874999999,
+    "total_positions": 124,
+    "event_ct": 100,
+    "win_count": 86,
+    "rank": 64454,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
