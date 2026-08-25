@@ -1486,5 +1486,21 @@
     "win_count": 18,
     "rank": 32794,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc5e7f00ec985325bd44537ed591968062f5cf281",
+    "trader_name": "bdexdi",
+    "tag": "Overall",
+    "overall_gain": 2522.12,
+    "active_positions": 0,
+    "win_amount": 2522.12,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 32795,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
