@@ -958,5 +958,21 @@
     "win_count": 9,
     "rank": 29761,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa25502f62ea18c227e3629d01475474a50344e23",
+    "trader_name": "top-gamble",
+    "tag": "Overall",
+    "overall_gain": 2849.688219445407,
+    "active_positions": 107,
+    "win_amount": 2911.4721992894074,
+    "loss_amount": -61.78397984399999,
+    "win_rate": 0.6610169491525424,
+    "total_current_value": 12580.474898271003,
+    "total_positions": 119,
+    "event_ct": 59,
+    "win_count": 39,
+    "rank": 29762,
+    "trader_tags": "< 30 days old"
   }
 ]
