@@ -190,5 +190,21 @@
     "win_count": 10,
     "rank": 70213,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeda60892c242a0bb5c56bb236695256413d408e5",
+    "trader_name": "SilverC",
+    "tag": "Overall",
+    "overall_gain": 805.7479918124816,
+    "active_positions": 4,
+    "win_amount": 4774.258449999999,
+    "loss_amount": -3968.5104581875185,
+    "win_rate": 0.11764705882352941,
+    "total_current_value": 0.10464,
+    "total_positions": 25,
+    "event_ct": 17,
+    "win_count": 2,
+    "rank": 70214,
+    "trader_tags": "> 1 year old"
   }
 ]
