@@ -302,5 +302,21 @@
     "win_count": 210,
     "rank": 8719,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x65a018f748a3d8b69ffc0acfc35fd78c7342ab9c",
+    "trader_name": "CNGHMgp3",
+    "tag": "Overall",
+    "overall_gain": 12028.539501,
+    "active_positions": 15,
+    "win_amount": 29291.039501,
+    "loss_amount": -17262.5,
+    "win_rate": 0.5945945945945946,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 22,
+    "rank": 8720,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
