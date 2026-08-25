@@ -494,5 +494,21 @@
     "win_count": 2,
     "rank": 26632,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8c9fe3752f84f29fb5a85dcb8876b175d07c0449",
+    "trader_name": "MarKieLHJ",
+    "tag": "Overall",
+    "overall_gain": 3265,
+    "active_positions": 2,
+    "win_amount": 4322,
+    "loss_amount": -1057,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 26633,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
