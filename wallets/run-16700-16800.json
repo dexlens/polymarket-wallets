@@ -366,5 +366,21 @@
     "win_count": 24,
     "rank": 16723,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x293ed5233e9cab8af3ce9b1c3aa0ec4688099962",
+    "trader_name": "SkyWhisperer",
+    "tag": "Overall",
+    "overall_gain": 5683.481877927997,
+    "active_positions": 7,
+    "win_amount": 8717.044509216785,
+    "loss_amount": -3033.562631288794,
+    "win_rate": 0.8664383561643836,
+    "total_current_value": 2469.248694,
+    "total_positions": 1624,
+    "event_ct": 584,
+    "win_count": 506,
+    "rank": 16724,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
