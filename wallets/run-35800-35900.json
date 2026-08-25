@@ -910,5 +910,21 @@
     "win_count": 24,
     "rank": 35858,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7273a17df993fbc8f087415ff91ef0259ff85424",
+    "trader_name": "NYCo",
+    "tag": "Overall",
+    "overall_gain": 2272.1097339999997,
+    "active_positions": 0,
+    "win_amount": 3073.701036,
+    "loss_amount": -801.591302,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 35859,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
