@@ -782,5 +782,21 @@
     "win_count": 3,
     "rank": 3049,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e2489917065edd4700711bc7064a2011876f1bd",
+    "trader_name": "BBbetter",
+    "tag": "Overall",
+    "overall_gain": 37557.94742559199,
+    "active_positions": 0,
+    "win_amount": 40649.25225836874,
+    "loss_amount": -3091.304832776748,
+    "win_rate": 0.76,
+    "total_current_value": 0.147963,
+    "total_positions": 33,
+    "event_ct": 25,
+    "win_count": 19,
+    "rank": 3050,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
