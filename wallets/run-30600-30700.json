@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 30663,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ee36dcf8f9aa783c2827d6b09817e1a56fc8a27",
+    "trader_name": "Axorin",
+    "tag": "Overall",
+    "overall_gain": 2740.272278,
+    "active_positions": 2,
+    "win_amount": 2970.772278,
+    "loss_amount": -230.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 30664,
+    "trader_tags": ""
   }
 ]
