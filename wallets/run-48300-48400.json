@@ -478,5 +478,21 @@
     "win_count": 17,
     "rank": 48331,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9c1003f0ec60af7ffe3a40af64f4331683b43843",
+    "trader_name": "Drovik",
+    "tag": "Overall",
+    "overall_gain": 1557.366998,
+    "active_positions": 0,
+    "win_amount": 1557.366998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 48332,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
