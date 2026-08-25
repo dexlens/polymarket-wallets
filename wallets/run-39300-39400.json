@@ -446,5 +446,21 @@
     "win_count": 48,
     "rank": 39329,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8acfb1bc6ff2b8e5b8bb1433eac3dd30935ad226",
+    "trader_name": "fttt66335",
+    "tag": "Overall",
+    "overall_gain": 2030.218658,
+    "active_positions": 1,
+    "win_amount": 2030.440202,
+    "loss_amount": -0.2215439999999944,
+    "win_rate": 0.75,
+    "total_current_value": 110.21814,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 39330,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
