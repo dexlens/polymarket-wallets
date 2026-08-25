@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 76723,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9104b2504d4ff0792a209a6fd33d4f82951dd94c",
+    "trader_name": "euxnsjx",
+    "tag": "Overall",
+    "overall_gain": 686.6907285988184,
+    "active_positions": 4,
+    "win_amount": 2683.1517919753414,
+    "loss_amount": -1996.461063376523,
+    "win_rate": 0.90625,
+    "total_current_value": 122.643341,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 29,
+    "rank": 76724,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
