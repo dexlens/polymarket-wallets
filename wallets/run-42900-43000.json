@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 42982,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa29bba5daaf11bc4ca95b4c58649d05ca5b6db45",
+    "trader_name": "bbtgy",
+    "tag": "Overall",
+    "overall_gain": 1819.9858461339422,
+    "active_positions": 1,
+    "win_amount": 1820.985845133942,
+    "loss_amount": -0.999999,
+    "win_rate": 0.75,
+    "total_current_value": 0.019898,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 42983,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
