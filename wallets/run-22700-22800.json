@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 22790,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b615a1b8d706d49e115749e4e429c0457b578e8",
+    "trader_name": "bilen",
+    "tag": "Overall",
+    "overall_gain": 3961.75774961937,
+    "active_positions": 3,
+    "win_amount": 4261.802275803659,
+    "loss_amount": -300.04452618428803,
+    "win_rate": 0.7828571428571428,
+    "total_current_value": 0.22428099999999998,
+    "total_positions": 220,
+    "event_ct": 175,
+    "win_count": 137,
+    "rank": 22791,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
