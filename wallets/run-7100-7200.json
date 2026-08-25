@@ -878,5 +878,21 @@
     "win_count": 3,
     "rank": 7155,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3da61fbb72fbda31223c414d323cb461d5379540",
+    "trader_name": "obiecorrupti",
+    "tag": "Overall",
+    "overall_gain": 14965.902307,
+    "active_positions": 0,
+    "win_amount": 16396.402307,
+    "loss_amount": -1430.5,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 7156,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
