@@ -1582,5 +1582,21 @@
     "win_count": 3941,
     "rank": 83500,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x28e02f34113a4ddd01780230cf68f9cbe4f33eab",
+    "trader_name": "Osong",
+    "tag": "Overall",
+    "overall_gain": 574.134752840553,
+    "active_positions": 0,
+    "win_amount": 574.134752840553,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000553,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 83501,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
