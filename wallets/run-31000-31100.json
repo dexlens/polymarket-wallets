@@ -670,5 +670,21 @@
     "win_count": 8,
     "rank": 31043,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9a6e69c9b012030c668397d8346b4d55dd8335b4",
+    "trader_name": "Tuk007",
+    "tag": "Overall",
+    "overall_gain": 2696.6896485303982,
+    "active_positions": 224,
+    "win_amount": 11378.1589833373,
+    "loss_amount": -8681.469334806903,
+    "win_rate": 0.5514354066985646,
+    "total_current_value": 383.7045363019999,
+    "total_positions": 6581,
+    "event_ct": 1672,
+    "win_count": 922,
+    "rank": 31044,
+    "trader_tags": "1k+ Positions"
   }
 ]
