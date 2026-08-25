@@ -558,5 +558,21 @@
     "win_count": 903,
     "rank": 1535,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x8f29522666063bc74f208b21f8957512cfb9dd03",
+    "trader_name": "WildRumpus2",
+    "tag": "Overall",
+    "overall_gain": 78685.66181029438,
+    "active_positions": 11,
+    "win_amount": 152574.77627848473,
+    "loss_amount": -73889.11446819034,
+    "win_rate": 0.4861111111111111,
+    "total_current_value": 0.16188880999999997,
+    "total_positions": 124,
+    "event_ct": 72,
+    "win_count": 35,
+    "rank": 1536,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
