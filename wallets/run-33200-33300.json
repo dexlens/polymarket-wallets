@@ -94,5 +94,21 @@
     "win_count": 14,
     "rank": 33207,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd04d93be590ded67b99f053d4b6d29d3f8483312",
+    "trader_name": "Shipoo",
+    "tag": "Overall",
+    "overall_gain": 2487.7504340865576,
+    "active_positions": 2820,
+    "win_amount": 3157.8321783060705,
+    "loss_amount": -670.0817442195128,
+    "win_rate": 0.03571428571428571,
+    "total_current_value": 27.047387832000002,
+    "total_positions": 3264,
+    "event_ct": 1120,
+    "win_count": 40,
+    "rank": 33208,
+    "trader_tags": "1k+ Positions"
   }
 ]
