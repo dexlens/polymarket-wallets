@@ -1358,5 +1358,21 @@
     "win_count": 148,
     "rank": 19585,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3fc16109d2c314a05e9fc84208d463b553d6a297",
+    "trader_name": "panic",
+    "tag": "Overall",
+    "overall_gain": 4737.4337166860305,
+    "active_positions": 1,
+    "win_amount": 11969.474942162631,
+    "loss_amount": -7232.0412254766015,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 19586,
+    "trader_tags": "> 1 year old"
   }
 ]
