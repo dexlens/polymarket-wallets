@@ -238,5 +238,21 @@
     "win_count": 120,
     "rank": 3315,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd0655e1eb2f4f9ca536ee6e030936612e033e0c8",
+    "trader_name": "1goras",
+    "tag": "Overall",
+    "overall_gain": 34533.745416318976,
+    "active_positions": 29,
+    "win_amount": 53619.823661006274,
+    "loss_amount": -19086.0782446873,
+    "win_rate": 0.509090909090909,
+    "total_current_value": 15.686268,
+    "total_positions": 56,
+    "event_ct": 55,
+    "win_count": 28,
+    "rank": 3316,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
