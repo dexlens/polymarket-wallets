@@ -1198,5 +1198,21 @@
     "win_count": 69,
     "rank": 70976,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x139b1ee842ed349c2b43b2260385b3ae41ad2db1",
+    "trader_name": "Stepan-Z",
+    "tag": "Overall",
+    "overall_gain": 788.825626146431,
+    "active_positions": 1,
+    "win_amount": 788.825626146431,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0149582715,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 70977,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
