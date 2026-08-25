@@ -1134,5 +1134,21 @@
     "win_count": 10,
     "rank": 65472,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x234ce840d38e74d3638686962eb42ea9b3946475",
+    "trader_name": "ivlanch",
+    "tag": "Overall",
+    "overall_gain": 931.069718779035,
+    "active_positions": 73,
+    "win_amount": 2929.7515036448244,
+    "loss_amount": -1998.68178486579,
+    "win_rate": 0.7114624505928854,
+    "total_current_value": 63.99444799999999,
+    "total_positions": 265,
+    "event_ct": 253,
+    "win_count": 180,
+    "rank": 65473,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
