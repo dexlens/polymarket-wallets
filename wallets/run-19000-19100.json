@@ -190,5 +190,21 @@
     "win_count": 15,
     "rank": 19012,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd615f72713741c445cba5bf5b98b4c03c0584e46",
+    "trader_name": "Farquade",
+    "tag": "Overall",
+    "overall_gain": 4892.305066000001,
+    "active_positions": 1,
+    "win_amount": 5769.305066000001,
+    "loss_amount": -877,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 19013,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
