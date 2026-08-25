@@ -718,5 +718,21 @@
     "win_count": 470,
     "rank": 3845,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x62730fede68ebedfb510e6f38da2aa2eca081741",
+    "trader_name": "skittums",
+    "tag": "Overall",
+    "overall_gain": 29538.312112,
+    "active_positions": 0,
+    "win_amount": 29538.312112,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3846,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
