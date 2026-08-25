@@ -750,5 +750,21 @@
     "win_count": 16,
     "rank": 9247,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83f842bacf74054747c97fb7688746dcf3d6a32e",
+    "trader_name": "coachstevesports",
+    "tag": "Overall",
+    "overall_gain": 11339.914066255182,
+    "active_positions": 28,
+    "win_amount": 15126.590866415178,
+    "loss_amount": -3786.67680016,
+    "win_rate": 0.9137466307277629,
+    "total_current_value": 1153.684899,
+    "total_positions": 380,
+    "event_ct": 371,
+    "win_count": 339,
+    "rank": 9248,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
