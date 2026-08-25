@@ -414,5 +414,21 @@
     "win_count": 6,
     "rank": 19826,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b66a30e86e996048976063f7133052d90f0a2f3",
+    "trader_name": "SMB3BC",
+    "tag": "Overall",
+    "overall_gain": 4670.692031551379,
+    "active_positions": 2,
+    "win_amount": 8908.53048755138,
+    "loss_amount": -4237.8384559999995,
+    "win_rate": 0.5789473684210527,
+    "total_current_value": 9767.616069599999,
+    "total_positions": 58,
+    "event_ct": 38,
+    "win_count": 22,
+    "rank": 19827,
+    "trader_tags": "> 1 year old"
   }
 ]
