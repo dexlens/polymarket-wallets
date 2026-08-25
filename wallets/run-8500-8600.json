@@ -446,5 +446,21 @@
     "win_count": 90,
     "rank": 8528,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x43b68e2ab6780df11cb2ed35050fee512d0a9a9b",
+    "trader_name": "maiqiuyangjia",
+    "tag": "Overall",
+    "overall_gain": 12280.918699906932,
+    "active_positions": 63,
+    "win_amount": 177923.44291295894,
+    "loss_amount": -165642.524213052,
+    "win_rate": 0.4457831325301205,
+    "total_current_value": 10589.620161949999,
+    "total_positions": 116,
+    "event_ct": 83,
+    "win_count": 37,
+    "rank": 8529,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
