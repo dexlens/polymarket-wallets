@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 3848,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5371f1b6954e31c502064614649cea3568cb76eb",
+    "trader_name": "oegdatam",
+    "tag": "Overall",
+    "overall_gain": 29465.565145890196,
+    "active_positions": 17,
+    "win_amount": 40650.0230931071,
+    "loss_amount": -11184.4579472169,
+    "win_rate": 0.9375,
+    "total_current_value": 175178.81804530352,
+    "total_positions": 47,
+    "event_ct": 16,
+    "win_count": 15,
+    "rank": 3849,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
