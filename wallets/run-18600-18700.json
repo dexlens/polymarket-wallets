@@ -174,5 +174,21 @@
     "win_count": 1,
     "rank": 18611,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d77fa6fdb46e7306b6165f7d412159f207cfdbe",
+    "trader_name": "MKB",
+    "tag": "Overall",
+    "overall_gain": 4999.842889367536,
+    "active_positions": 122,
+    "win_amount": 11201.651072680826,
+    "loss_amount": -6201.808183313296,
+    "win_rate": 0.7337883959044369,
+    "total_current_value": 7391.386324036498,
+    "total_positions": 1211,
+    "event_ct": 586,
+    "win_count": 430,
+    "rank": 18612,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
