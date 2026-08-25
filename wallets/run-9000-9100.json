@@ -814,5 +814,21 @@
     "win_count": 12,
     "rank": 9051,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55cac5e679c1bb3cb2dce22e0ea91f62f64c1e5d",
+    "trader_name": "thalaivar",
+    "tag": "Overall",
+    "overall_gain": 11580.966581873705,
+    "active_positions": 1,
+    "win_amount": 12215.253099422127,
+    "loss_amount": -634.286517548424,
+    "win_rate": 0.8,
+    "total_current_value": 9365.706254667999,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 9052,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
