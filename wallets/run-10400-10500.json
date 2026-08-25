@@ -302,5 +302,21 @@
     "win_count": 6,
     "rank": 10419,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3342c29d621cfa6dd0022d0378c51385c99bf908",
+    "trader_name": "waterberry",
+    "tag": "Overall",
+    "overall_gain": 10090.638075316505,
+    "active_positions": 3,
+    "win_amount": 20761.142454999997,
+    "loss_amount": -10670.504379683496,
+    "win_rate": 0.711864406779661,
+    "total_current_value": 9579.376602062499,
+    "total_positions": 80,
+    "event_ct": 59,
+    "win_count": 42,
+    "rank": 10420,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
