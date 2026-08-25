@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 6860,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f1629a2f5a6b0c980a74761fe335b17c3161f5c",
+    "trader_name": "CynthiaTed",
+    "tag": "Overall",
+    "overall_gain": 15629.141139503588,
+    "active_positions": 33,
+    "win_amount": 37900.14113950358,
+    "loss_amount": -22271,
+    "win_rate": 0.6935483870967742,
+    "total_current_value": 21.140688000000004,
+    "total_positions": 62,
+    "event_ct": 62,
+    "win_count": 43,
+    "rank": 6861,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
