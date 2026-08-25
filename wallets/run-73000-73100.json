@@ -1550,5 +1550,21 @@
     "win_count": 3,
     "rank": 73098,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ed1ea36046f001d9c211acdca3700dbbdace629",
+    "trader_name": "Skdye",
+    "tag": "Overall",
+    "overall_gain": 743,
+    "active_positions": 4,
+    "win_amount": 1853,
+    "loss_amount": -1110,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 73099,
+    "trader_tags": ""
   }
 ]
