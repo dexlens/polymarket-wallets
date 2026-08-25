@@ -1342,5 +1342,21 @@
     "win_count": 14,
     "rank": 31785,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb25674e17bb06902593c34e124ca2cc29c72b6df",
+    "trader_name": "coinistest",
+    "tag": "Overall",
+    "overall_gain": 2621.961543959844,
+    "active_positions": 4,
+    "win_amount": 14840.83155946003,
+    "loss_amount": -12218.870015500188,
+    "win_rate": 0.48125,
+    "total_current_value": 0.4426395000000001,
+    "total_positions": 228,
+    "event_ct": 160,
+    "win_count": 77,
+    "rank": 31786,
+    "trader_tags": "> 1 year old"
   }
 ]
