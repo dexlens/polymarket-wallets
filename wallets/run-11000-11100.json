@@ -1294,5 +1294,21 @@
     "win_count": 4,
     "rank": 11081,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1be4bf43f1f6ac495e085f3adff7c9fb4f8747c3",
+    "trader_name": "nfs48",
+    "tag": "Overall",
+    "overall_gain": 9502,
+    "active_positions": 7,
+    "win_amount": 31404,
+    "loss_amount": -21902,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 6,
+    "rank": 11082,
+    "trader_tags": ""
   }
 ]
