@@ -942,5 +942,21 @@
     "win_count": 8,
     "rank": 46760,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27df9aa108689c2ed880ffc074cc6c274b1ce67c",
+    "trader_name": "SolteronBB",
+    "tag": "Overall",
+    "overall_gain": 1627.8603042699788,
+    "active_positions": 194,
+    "win_amount": 78440.08951167483,
+    "loss_amount": -76812.22920740489,
+    "win_rate": 0.4048582995951417,
+    "total_current_value": 0.09795699999999999,
+    "total_positions": 357,
+    "event_ct": 247,
+    "win_count": 100,
+    "rank": 46761,
+    "trader_tags": ""
   }
 ]
