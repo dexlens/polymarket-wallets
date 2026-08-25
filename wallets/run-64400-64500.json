@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 64475,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x96b0b1026c787de643127cd208d0256039eb6de5",
+    "trader_name": "kazak22",
+    "tag": "Overall",
+    "overall_gain": 959.829888114125,
+    "active_positions": 1,
+    "win_amount": 1345.179481385555,
+    "loss_amount": -385.34959327142997,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.012066,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 64476,
+    "trader_tags": ""
   }
 ]
