@@ -750,5 +750,21 @@
     "win_count": 646,
     "rank": 21847,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd240c2a4fccabeb9f63163d84f9695817f59562c",
+    "trader_name": "Roomservice",
+    "tag": "Overall",
+    "overall_gain": 4158.64926115082,
+    "active_positions": 21,
+    "win_amount": 4875.500005131423,
+    "loss_amount": -716.850743980603,
+    "win_rate": 0.926949654491609,
+    "total_current_value": 4593.971145360001,
+    "total_positions": 2188,
+    "event_ct": 1013,
+    "win_count": 939,
+    "rank": 21848,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
