@@ -1182,5 +1182,21 @@
     "win_count": 12,
     "rank": 2174,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa8530e297e608975e846597e337f50819c52da85",
+    "trader_name": "natoshi-sakamoto",
+    "tag": "Overall",
+    "overall_gain": 55349.02062255288,
+    "active_positions": 1,
+    "win_amount": 58285.53156077288,
+    "loss_amount": -2936.51093822,
+    "win_rate": 0.7916666666666666,
+    "total_current_value": 125.32074000000001,
+    "total_positions": 58,
+    "event_ct": 24,
+    "win_count": 19,
+    "rank": 2175,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
