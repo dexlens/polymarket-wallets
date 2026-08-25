@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 33415,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97d150e9c465e4f82c1b71ddb64773409d15b2ef",
+    "trader_name": "algodesk",
+    "tag": "Overall",
+    "overall_gain": 2472.7109817563996,
+    "active_positions": 25,
+    "win_amount": 6082.6092165564,
+    "loss_amount": -3609.8982348000004,
+    "win_rate": 0.512,
+    "total_current_value": 2200.1163,
+    "total_positions": 170,
+    "event_ct": 125,
+    "win_count": 64,
+    "rank": 33416,
+    "trader_tags": ""
   }
 ]
