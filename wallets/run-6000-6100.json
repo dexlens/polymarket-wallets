@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 6012,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd23771aa1ce34915a530bbff1205634b7fbe31f",
+    "trader_name": "ghrubba88",
+    "tag": "Overall",
+    "overall_gain": 17834.574823091883,
+    "active_positions": 12,
+    "win_amount": 89986.36854226002,
+    "loss_amount": -72151.79371916814,
+    "win_rate": 0.5730088495575221,
+    "total_current_value": 3101.0978830000004,
+    "total_positions": 636,
+    "event_ct": 452,
+    "win_count": 259,
+    "rank": 6013,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
