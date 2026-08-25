@@ -414,5 +414,21 @@
     "win_count": 2,
     "rank": 37127,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x733b06bd1c13850aa54288f214209f65db7f0268",
+    "trader_name": "Maxima",
+    "tag": "Overall",
+    "overall_gain": 2181.475328230399,
+    "active_positions": 14,
+    "win_amount": 15176.89873473074,
+    "loss_amount": -12995.423406500337,
+    "win_rate": 0.3643410852713178,
+    "total_current_value": 8140.5862005545,
+    "total_positions": 304,
+    "event_ct": 258,
+    "win_count": 94,
+    "rank": 37128,
+    "trader_tags": "> 1 year old"
   }
 ]
