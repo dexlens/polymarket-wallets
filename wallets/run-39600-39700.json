@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 39647,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x61f0db233f8fd6686729aa20f700b30138f29091",
+    "trader_name": "vovo12",
+    "tag": "Overall",
+    "overall_gain": 2013.179672227571,
+    "active_positions": 0,
+    "win_amount": 2080.974926227571,
+    "loss_amount": -67.795254,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0.049544000000000005,
+    "total_positions": 16,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 39648,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
