@@ -462,5 +462,21 @@
     "win_count": 59,
     "rank": 7329,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x355e5ae20cc1a3a2164f818e4bac8d22dd72a038",
+    "trader_name": "Olcan",
+    "tag": "Overall",
+    "overall_gain": 14517.91009558637,
+    "active_positions": 70,
+    "win_amount": 32178.32891137638,
+    "loss_amount": -17660.41881579002,
+    "win_rate": 0.7522123893805309,
+    "total_current_value": 10905.785365544496,
+    "total_positions": 2611,
+    "event_ct": 791,
+    "win_count": 595,
+    "rank": 7330,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
