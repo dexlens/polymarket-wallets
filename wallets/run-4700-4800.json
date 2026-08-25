@@ -94,5 +94,21 @@
     "win_count": 1,
     "rank": 4706,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86e3b0e29d4c62e95203581baeb336231e82ad70",
+    "trader_name": "TEEZ",
+    "tag": "Overall",
+    "overall_gain": 23137.61723640687,
+    "active_positions": 6,
+    "win_amount": 41479.875889468385,
+    "loss_amount": -18342.25865306152,
+    "win_rate": 0.5406976744186046,
+    "total_current_value": 0.066834,
+    "total_positions": 223,
+    "event_ct": 172,
+    "win_count": 93,
+    "rank": 4707,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
