@@ -1166,5 +1166,21 @@
     "win_count": 65,
     "rank": 5473,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x15ae15bf9cd5af27f7db3920ad8bbf3663848f1a",
+    "trader_name": "Cylria",
+    "tag": "Overall",
+    "overall_gain": 19746.14124400068,
+    "active_positions": 3,
+    "win_amount": 21120.772970285067,
+    "loss_amount": -1374.6317262843882,
+    "win_rate": 0.8108108108108109,
+    "total_current_value": 0.000171,
+    "total_positions": 39,
+    "event_ct": 37,
+    "win_count": 30,
+    "rank": 5474,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
