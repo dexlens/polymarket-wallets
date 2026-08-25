@@ -318,5 +318,21 @@
     "win_count": 207,
     "rank": 29621,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48aab58204c2c830579480d86b23b3a87e74fccd",
+    "trader_name": "Vidshore",
+    "tag": "Overall",
+    "overall_gain": 2864.179052348846,
+    "active_positions": 5,
+    "win_amount": 6331.5648769253385,
+    "loss_amount": -3467.3858245764923,
+    "win_rate": 0.47368421052631576,
+    "total_current_value": 5205.172924380001,
+    "total_positions": 24,
+    "event_ct": 19,
+    "win_count": 9,
+    "rank": 29622,
+    "trader_tags": ""
   }
 ]
