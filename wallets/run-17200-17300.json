@@ -894,5 +894,21 @@
     "win_count": 2,
     "rank": 17256,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8f120a51227cd22f6b90437ed3fdd24aec151164",
+    "trader_name": "zouhy",
+    "tag": "Overall",
+    "overall_gain": 5451.228537197491,
+    "active_positions": 33,
+    "win_amount": 5696.0238339108255,
+    "loss_amount": -244.795296713335,
+    "win_rate": 0.7849462365591398,
+    "total_current_value": 968.5828085095002,
+    "total_positions": 130,
+    "event_ct": 93,
+    "win_count": 73,
+    "rank": 17257,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
