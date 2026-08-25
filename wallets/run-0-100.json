@@ -366,5 +366,21 @@
     "win_count": 3,
     "rank": 23,
     "trader_tags": "Overall PnL > $1m; < 30 days old; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x16b29c50f2439faf627209b2ac0c7bbddaa8a881",
+    "trader_name": "SeriouslySirius",
+    "tag": "Overall",
+    "overall_gain": 3640262.62396609,
+    "active_positions": 2425,
+    "win_amount": 37152667.31995573,
+    "loss_amount": -33512404.695989646,
+    "win_rate": 0.4918394353771504,
+    "total_current_value": 404.31782851999986,
+    "total_positions": 7802,
+    "event_ct": 2267,
+    "win_count": 1115,
+    "rank": 24,
+    "trader_tags": "Overall PnL > $1m; 1k+ Positions; Sports PnL > $100k"
   }
 ]
