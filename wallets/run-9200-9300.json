@@ -846,5 +846,21 @@
     "win_count": 83,
     "rank": 9253,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x195283b81b1b286a2fae1dbabfba9289f754c5c8",
+    "trader_name": "makhe",
+    "tag": "Overall",
+    "overall_gain": 11334.814464097766,
+    "active_positions": 2,
+    "win_amount": 19022.81866656743,
+    "loss_amount": -7688.004202469661,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.009123,
+    "total_positions": 26,
+    "event_ct": 21,
+    "win_count": 9,
+    "rank": 9254,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
