@@ -1550,5 +1550,21 @@
     "win_count": 21,
     "rank": 4297,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc1289c3c99d16b9b7fba7b9c6d9238653a71c08a",
+    "trader_name": "WILLIAMEATON",
+    "tag": "Overall",
+    "overall_gain": 25983.020816,
+    "active_positions": 6,
+    "win_amount": 26034.020816,
+    "loss_amount": -51,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 8,
+    "rank": 4298,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
