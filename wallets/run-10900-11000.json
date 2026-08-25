@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 10982,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d9effb4822698ef2a9a8f7cf38ce1049748e9d7",
+    "trader_name": "boxingtest",
+    "tag": "Overall",
+    "overall_gain": 9592.55611300499,
+    "active_positions": 3,
+    "win_amount": 11092.547936439621,
+    "loss_amount": -1499.99182343463,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.000017,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 10983,
+    "trader_tags": ""
   }
 ]
