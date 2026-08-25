@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 13950,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17105a9bc5de23fef10029ae3f4d41e8fd4a3344",
+    "trader_name": "bostezo",
+    "tag": "Overall",
+    "overall_gain": 7073.601383585913,
+    "active_positions": 0,
+    "win_amount": 17282.0568313967,
+    "loss_amount": -10208.455447810786,
+    "win_rate": 0.4222222222222222,
+    "total_current_value": 0.009603,
+    "total_positions": 117,
+    "event_ct": 45,
+    "win_count": 19,
+    "rank": 13951,
+    "trader_tags": ""
   }
 ]
