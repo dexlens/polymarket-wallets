@@ -574,5 +574,21 @@
     "win_count": 56,
     "rank": 59037,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4d8fdeb81857243854f53c9cdd1934e937e26a69",
+    "trader_name": "crazytrader8",
+    "tag": "Overall",
+    "overall_gain": 1107.7914253733518,
+    "active_positions": 5,
+    "win_amount": 1107.7914253733518,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.035916000000000003,
+    "total_positions": 13,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 59038,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
