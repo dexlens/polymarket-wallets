@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 29749,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x47ae8de6c9260dad3ae788a6786f53bf5b4282d3",
+    "trader_name": "mimanchisd",
+    "tag": "Overall",
+    "overall_gain": 2851,
+    "active_positions": 1,
+    "win_amount": 3055,
+    "loss_amount": -204,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 29750,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
