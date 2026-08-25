@@ -1182,5 +1182,21 @@
     "win_count": 22,
     "rank": 75875,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x458c4422ae112b381882706a53131f5d5bff028f",
+    "trader_name": "AuandhO",
+    "tag": "Overall",
+    "overall_gain": 700.9463188241469,
+    "active_positions": 0,
+    "win_amount": 700.964821494713,
+    "loss_amount": -0.018502670566,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.0168096675,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 75876,
+    "trader_tags": "< 30 days old"
   }
 ]
