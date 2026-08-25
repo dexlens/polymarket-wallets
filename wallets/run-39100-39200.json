@@ -590,5 +590,21 @@
     "win_count": 36,
     "rank": 39138,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x1fdc90f1319de80222e915e83f5ce753e85ab772",
+    "trader_name": "Royal-Flush",
+    "tag": "Overall",
+    "overall_gain": 2042.907954048,
+    "active_positions": 0,
+    "win_amount": 2042.907954048,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000672,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 39139,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
