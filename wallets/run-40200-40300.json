@@ -1502,5 +1502,21 @@
     "win_count": 2,
     "rank": 40295,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa3fd452006ce14376481ae120aa3fecbfe5ff07d",
+    "trader_name": "weaesih",
+    "tag": "Overall",
+    "overall_gain": 1978.3787229178527,
+    "active_positions": 1,
+    "win_amount": 2215.150067047445,
+    "loss_amount": -236.771344129592,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 35.230429,
+    "total_positions": 29,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 40296,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
