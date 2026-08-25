@@ -766,5 +766,21 @@
     "win_count": 16,
     "rank": 7148,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x030edfb2cb24162529520055bb325eeedb025652",
+    "trader_name": "marius420",
+    "tag": "Overall",
+    "overall_gain": 14983.94115901735,
+    "active_positions": 25,
+    "win_amount": 39483.83068115448,
+    "loss_amount": -24499.88952213713,
+    "win_rate": 0.22727272727272727,
+    "total_current_value": 0.016336665,
+    "total_positions": 37,
+    "event_ct": 22,
+    "win_count": 5,
+    "rank": 7149,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
