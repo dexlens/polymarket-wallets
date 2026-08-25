@@ -734,5 +734,21 @@
     "win_count": 99,
     "rank": 70147,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3585251f7fe8b7d2246cbbccf726aaa7738d496b",
+    "trader_name": "ArthurFaraday",
+    "tag": "Overall",
+    "overall_gain": 807.41016585492,
+    "active_positions": 35,
+    "win_amount": 20290.81016585492,
+    "loss_amount": -19483.4,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 5.081275375,
+    "total_positions": 93,
+    "event_ct": 93,
+    "win_count": 63,
+    "rank": 70148,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
