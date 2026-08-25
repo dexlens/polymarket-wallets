@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 24071,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2fe26a64c8ef205c093594db22cb965e95829645",
+    "trader_name": "gamblingdaily",
+    "tag": "Overall",
+    "overall_gain": 3707.217628263422,
+    "active_positions": 14,
+    "win_amount": 12775.114805829167,
+    "loss_amount": -9067.897177565746,
+    "win_rate": 0.7659574468085106,
+    "total_current_value": 9037.798225872502,
+    "total_positions": 48,
+    "event_ct": 47,
+    "win_count": 36,
+    "rank": 24072,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
