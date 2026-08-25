@@ -878,5 +878,21 @@
     "win_count": 10,
     "rank": 27056,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3554480774cf555db853bc4b27286e2fef6eb82b",
+    "trader_name": "hgjfg",
+    "tag": "Overall",
+    "overall_gain": 3199.562348352,
+    "active_positions": 0,
+    "win_amount": 3200.149151,
+    "loss_amount": -0.586802648,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.081072,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 27057,
+    "trader_tags": "> 1 year old"
   }
 ]
