@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 26947,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x35dad09afa0187491d896c9d1620b9313c8bc9cc",
+    "trader_name": "JokerStash",
+    "tag": "Overall",
+    "overall_gain": 3215.15196105478,
+    "active_positions": 123,
+    "win_amount": 27255.907958233405,
+    "loss_amount": -24040.755997178625,
+    "win_rate": 0.4678362573099415,
+    "total_current_value": 706.0462246704997,
+    "total_positions": 180,
+    "event_ct": 171,
+    "win_count": 80,
+    "rank": 26948,
+    "trader_tags": ""
   }
 ]
