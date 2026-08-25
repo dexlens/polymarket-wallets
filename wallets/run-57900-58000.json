@@ -206,5 +206,21 @@
     "win_count": 4,
     "rank": 57914,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24bb779bc05d6b2c888c5f4d59d2bad64bc46366",
+    "trader_name": "chaplines",
+    "tag": "Overall",
+    "overall_gain": 1145.792415206597,
+    "active_positions": 11,
+    "win_amount": 1333.4309046211679,
+    "loss_amount": -187.63848941457098,
+    "win_rate": 0.8813559322033898,
+    "total_current_value": 288.622049711,
+    "total_positions": 63,
+    "event_ct": 59,
+    "win_count": 52,
+    "rank": 57915,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
