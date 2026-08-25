@@ -1342,5 +1342,21 @@
     "win_count": 12,
     "rank": 19384,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xabafd36f07397fa67387875cc474be9fc5838651",
+    "trader_name": "dizhu73",
+    "tag": "Overall",
+    "overall_gain": 4792.028227501208,
+    "active_positions": 67,
+    "win_amount": 9802.517519821782,
+    "loss_amount": -5010.489292320578,
+    "win_rate": 0.7753846153846153,
+    "total_current_value": 139.5314,
+    "total_positions": 352,
+    "event_ct": 325,
+    "win_count": 252,
+    "rank": 19385,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
