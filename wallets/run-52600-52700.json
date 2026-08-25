@@ -1310,5 +1310,21 @@
     "win_count": 66,
     "rank": 52683,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3554d662713828d1f6a56e32dc4bd78fa5fe69bd",
+    "trader_name": "Kuprip",
+    "tag": "Overall",
+    "overall_gain": 1361.0381397241079,
+    "active_positions": 1,
+    "win_amount": 2472.8989000263864,
+    "loss_amount": -1111.860760302279,
+    "win_rate": 0.8214285714285714,
+    "total_current_value": 0.197246,
+    "total_positions": 71,
+    "event_ct": 28,
+    "win_count": 23,
+    "rank": 52684,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
