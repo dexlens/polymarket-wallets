@@ -222,5 +222,21 @@
     "win_count": 15,
     "rank": 77315,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x645010599c2219edf6f8c49b1c09c8e95d03ab14",
+    "trader_name": "AI.",
+    "tag": "Overall",
+    "overall_gain": 676.021531700335,
+    "active_positions": 4,
+    "win_amount": 695.920897,
+    "loss_amount": -19.899365299665,
+    "win_rate": 0.2,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 1,
+    "rank": 77316,
+    "trader_tags": ""
   }
 ]
