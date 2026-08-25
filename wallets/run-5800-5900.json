@@ -1358,5 +1358,21 @@
     "win_count": 18,
     "rank": 5885,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf802a499d7ff91f329dea4ea9b43abcc72e8d91d",
+    "trader_name": "Rentabar",
+    "tag": "Overall",
+    "overall_gain": 18266.60985437504,
+    "active_positions": 351,
+    "win_amount": 114118.65673176717,
+    "loss_amount": -95852.04687739216,
+    "win_rate": 0.6163793103448276,
+    "total_current_value": 5423.128936293499,
+    "total_positions": 1403,
+    "event_ct": 928,
+    "win_count": 572,
+    "rank": 5886,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
