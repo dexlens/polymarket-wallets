@@ -990,5 +990,21 @@
     "win_count": 7,
     "rank": 9762,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x21e838c7c63df49fc1419660dbe59f00c780b85e",
+    "trader_name": "Sirtre",
+    "tag": "Overall",
+    "overall_gain": 10726.011150136625,
+    "active_positions": 7,
+    "win_amount": 18330.84020939018,
+    "loss_amount": -7604.829059253554,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.034745,
+    "total_positions": 31,
+    "event_ct": 28,
+    "win_count": 16,
+    "rank": 9763,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
