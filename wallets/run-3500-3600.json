@@ -1326,5 +1326,21 @@
     "win_count": 2,
     "rank": 3583,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53a5a81ea22f810907642dfc23791200f1c728ee",
+    "trader_name": "Wendyd",
+    "tag": "Overall",
+    "overall_gain": 31758.248211000002,
+    "active_positions": 1,
+    "win_amount": 31871.568211,
+    "loss_amount": -113.32,
+    "win_rate": 0.875,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 24,
+    "win_count": 21,
+    "rank": 3584,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
