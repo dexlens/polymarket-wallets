@@ -1230,5 +1230,21 @@
     "win_count": 10,
     "rank": 87278,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x96d334c2f49909bce9d6b8e725f0835c60fd5060",
+    "trader_name": "0xrunner",
+    "tag": "Overall",
+    "overall_gain": 522.0205718411951,
+    "active_positions": 0,
+    "win_amount": 612.9289778411951,
+    "loss_amount": -90.90840600000001,
+    "win_rate": 0.9591836734693877,
+    "total_current_value": 0.016965,
+    "total_positions": 137,
+    "event_ct": 98,
+    "win_count": 94,
+    "rank": 87279,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
