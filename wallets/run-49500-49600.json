@@ -1390,5 +1390,21 @@
     "win_count": 17,
     "rank": 49588,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1929fd0cf9f9851b46bd05c5fbb0446203fd0d86",
+    "trader_name": "noiseword2",
+    "tag": "Overall",
+    "overall_gain": 1500.8852362696935,
+    "active_positions": 5,
+    "win_amount": 1515.3352362696935,
+    "loss_amount": -14.450000000000001,
+    "win_rate": 0.9375,
+    "total_current_value": 192.363646002,
+    "total_positions": 34,
+    "event_ct": 32,
+    "win_count": 30,
+    "rank": 49589,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
