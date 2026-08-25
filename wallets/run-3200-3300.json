@@ -1006,5 +1006,21 @@
     "win_count": 6,
     "rank": 3263,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3aaecee7b4d88ad143e8de2781784441e927f68a",
+    "trader_name": "agp",
+    "tag": "Overall",
+    "overall_gain": 35147.03039,
+    "active_positions": 0,
+    "win_amount": 35257.23039,
+    "loss_amount": -110.2,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 3264,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
