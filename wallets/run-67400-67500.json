@@ -142,5 +142,21 @@
     "win_count": 389,
     "rank": 67410,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x875e974594985283c999765461bf2e15b4dee6b5",
+    "trader_name": "CorkisGeldbeutel",
+    "tag": "Overall",
+    "overall_gain": 877.3359089936811,
+    "active_positions": 36,
+    "win_amount": 4918.5743486756455,
+    "loss_amount": -4041.238439681964,
+    "win_rate": 0.8087193460490463,
+    "total_current_value": 319.34834762099985,
+    "total_positions": 3423,
+    "event_ct": 1835,
+    "win_count": 1484,
+    "rank": 67411,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
