@@ -206,5 +206,21 @@
     "win_count": 20,
     "rank": 44514,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8989b71769e26d5962f1f5b06cb595034e827088",
+    "trader_name": "thomasconseq",
+    "tag": "Overall",
+    "overall_gain": 1736.6232,
+    "active_positions": 1,
+    "win_amount": 1750.5432,
+    "loss_amount": -13.919999999999998,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 44515,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
