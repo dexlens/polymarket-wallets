@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 41483,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ed6e1e8a6932111b1324981255b4e90266dd123",
+    "trader_name": "paraa",
+    "tag": "Overall",
+    "overall_gain": 1906.93546112,
+    "active_positions": 5,
+    "win_amount": 1907.41546112,
+    "loss_amount": -0.47999999999998977,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 198.367144,
+    "total_positions": 12,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 41484,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
