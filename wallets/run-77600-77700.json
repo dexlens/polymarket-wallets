@@ -1278,5 +1278,21 @@
     "win_count": 4,
     "rank": 77681,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8319fb410e529a9cd3994cff2723b621e767c914",
+    "trader_name": "pbq1",
+    "tag": "Overall",
+    "overall_gain": 669.5603157328959,
+    "active_positions": 7,
+    "win_amount": 753.2689418950689,
+    "loss_amount": -83.708626162173,
+    "win_rate": 0.2916666666666667,
+    "total_current_value": 0.04213,
+    "total_positions": 44,
+    "event_ct": 24,
+    "win_count": 7,
+    "rank": 77682,
+    "trader_tags": "> 1 year old"
   }
 ]
