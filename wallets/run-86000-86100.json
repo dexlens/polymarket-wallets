@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 86028,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbab429af556ada707201956eac8d47e46df8b0d8",
+    "trader_name": "odils",
+    "tag": "Overall",
+    "overall_gain": 538.780425038463,
+    "active_positions": 10,
+    "win_amount": 809.789173388932,
+    "loss_amount": -271.00874835046903,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 3.949994,
+    "total_positions": 27,
+    "event_ct": 26,
+    "win_count": 12,
+    "rank": 86029,
+    "trader_tags": "< 30 days old"
   }
 ]
