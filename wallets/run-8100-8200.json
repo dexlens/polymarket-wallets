@@ -254,5 +254,21 @@
     "win_count": 4,
     "rank": 8116,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2312cffb003d78340b49859e8feb8b52e1d7016f",
+    "trader_name": "rahultm",
+    "tag": "Overall",
+    "overall_gain": 12966.272441950856,
+    "active_positions": 3,
+    "win_amount": 18702.883518371396,
+    "loss_amount": -5736.61107642054,
+    "win_rate": 0.5254237288135594,
+    "total_current_value": 3.097676,
+    "total_positions": 60,
+    "event_ct": 59,
+    "win_count": 31,
+    "rank": 8117,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
