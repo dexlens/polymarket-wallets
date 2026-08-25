@@ -222,5 +222,21 @@
     "win_count": 4,
     "rank": 38615,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25c0120e2d7481a7e8a03b853d3afbf9bbc7dd22",
+    "trader_name": "theNTM",
+    "tag": "Overall",
+    "overall_gain": 2079.207752939938,
+    "active_positions": 5,
+    "win_amount": 2846.562488167593,
+    "loss_amount": -767.354735227655,
+    "win_rate": 0.25,
+    "total_current_value": 0.015174,
+    "total_positions": 17,
+    "event_ct": 12,
+    "win_count": 3,
+    "rank": 38616,
+    "trader_tags": "> 1 year old"
   }
 ]
