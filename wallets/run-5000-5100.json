@@ -126,5 +126,21 @@
     "win_count": 4,
     "rank": 5008,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x50a5b79f86e2eff3601c758d212a06f2bdf8bafe",
+    "trader_name": "mango0x",
+    "tag": "Overall",
+    "overall_gain": 21639.189757991353,
+    "active_positions": 966,
+    "win_amount": 51126.20046015187,
+    "loss_amount": -29487.010702160496,
+    "win_rate": 0.2722602739726027,
+    "total_current_value": 762.6457093815,
+    "total_positions": 1565,
+    "event_ct": 584,
+    "win_count": 159,
+    "rank": 5009,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
