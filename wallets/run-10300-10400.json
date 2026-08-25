@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 10387,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x8a1e5f7f1381ed912feefac36bd8bbd93a26d2dd",
+    "trader_name": "yudaoni",
+    "tag": "Overall",
+    "overall_gain": 10114.425950476947,
+    "active_positions": 2,
+    "win_amount": 10215.938781277546,
+    "loss_amount": -101.512830800601,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 14.9867914865,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 27,
+    "rank": 10388,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
