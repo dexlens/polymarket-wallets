@@ -1550,5 +1550,21 @@
     "win_count": 110,
     "rank": 2497,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcd91a549956854fdc38efad7e80ff5da8f5432b8",
+    "trader_name": "Novus0rdoSeclorum",
+    "tag": "Overall",
+    "overall_gain": 47063.80931903607,
+    "active_positions": 11721,
+    "win_amount": 50367.614140589125,
+    "loss_amount": -3303.804821553069,
+    "win_rate": 0.7775974025974026,
+    "total_current_value": 19546.214304445006,
+    "total_positions": 22957,
+    "event_ct": 1232,
+    "win_count": 958,
+    "rank": 2498,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
