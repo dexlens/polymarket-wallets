@@ -878,5 +878,21 @@
     "win_count": 20,
     "rank": 17255,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x6c7a6109af844be263317c640914bbab7876f9ed",
+    "trader_name": "machette",
+    "tag": "Overall",
+    "overall_gain": 5451.485744291449,
+    "active_positions": 0,
+    "win_amount": 5451.485744291449,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009361000000000001,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 17256,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
