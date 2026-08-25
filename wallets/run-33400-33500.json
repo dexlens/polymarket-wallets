@@ -398,5 +398,21 @@
     "win_count": 5,
     "rank": 33426,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b746ddfcd935ec6855c2a3f70b1b4e8731d97f1",
+    "trader_name": "DarkTraverse",
+    "tag": "Overall",
+    "overall_gain": 2471.86189,
+    "active_positions": 2,
+    "win_amount": 3342.1818900000003,
+    "loss_amount": -870.32,
+    "win_rate": 0.75,
+    "total_current_value": 10.63,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 33427,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
