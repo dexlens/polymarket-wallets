@@ -1310,5 +1310,21 @@
     "win_count": 19,
     "rank": 32083,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5b236537cc8c3bf8094735f8e398a9da9b194528",
+    "trader_name": "winson4",
+    "tag": "Overall",
+    "overall_gain": 2591.9465876701065,
+    "active_positions": 5,
+    "win_amount": 4577.149391611839,
+    "loss_amount": -1985.2028039417328,
+    "win_rate": 0.8324607329842932,
+    "total_current_value": 5620.653406975,
+    "total_positions": 217,
+    "event_ct": 191,
+    "win_count": 159,
+    "rank": 32084,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
