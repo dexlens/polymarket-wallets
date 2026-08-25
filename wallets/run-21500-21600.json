@@ -622,5 +622,21 @@
     "win_count": 4,
     "rank": 21539,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x750372853641e6303e36e49b03115d04ac26aa2b",
+    "trader_name": "luckle",
+    "tag": "Overall",
+    "overall_gain": 4224.07673539744,
+    "active_positions": 11,
+    "win_amount": 30995.342911653483,
+    "loss_amount": -26771.266176256046,
+    "win_rate": 0.8583333333333333,
+    "total_current_value": 0.28404,
+    "total_positions": 143,
+    "event_ct": 120,
+    "win_count": 103,
+    "rank": 21540,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
