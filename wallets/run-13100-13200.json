@@ -542,5 +542,21 @@
     "win_count": 86,
     "rank": 13134,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8bd85a0531c6aeb7ba1700f84f54fc07750d8914",
+    "trader_name": "rtg003.coin",
+    "tag": "Overall",
+    "overall_gain": 7642.681550966684,
+    "active_positions": 3,
+    "win_amount": 9801.616107956152,
+    "loss_amount": -2158.934556989467,
+    "win_rate": 0.5,
+    "total_current_value": 6475.170257295,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 13135,
+    "trader_tags": "< 30 days old"
   }
 ]
