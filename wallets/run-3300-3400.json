@@ -494,5 +494,21 @@
     "win_count": 23,
     "rank": 3331,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e9413ac17b3912539e5926f4304195a31004d79",
+    "trader_name": "nikanti123",
+    "tag": "Overall",
+    "overall_gain": 34341.656789366956,
+    "active_positions": 19,
+    "win_amount": 68561.92123161833,
+    "loss_amount": -34220.26444225136,
+    "win_rate": 0.53125,
+    "total_current_value": 66.34892500000001,
+    "total_positions": 35,
+    "event_ct": 32,
+    "win_count": 17,
+    "rank": 3332,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
