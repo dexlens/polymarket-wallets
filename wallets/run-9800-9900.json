@@ -1182,5 +1182,21 @@
     "win_count": 9,
     "rank": 9874,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c096387b15f9ba005e892d09c710d0a75742a74",
+    "trader_name": "internetcapitalmarket",
+    "tag": "Overall",
+    "overall_gain": 10620.46443058652,
+    "active_positions": 0,
+    "win_amount": 10674.79797111652,
+    "loss_amount": -54.33354053,
+    "win_rate": 0.96,
+    "total_current_value": 0.042346,
+    "total_positions": 41,
+    "event_ct": 25,
+    "win_count": 24,
+    "rank": 9875,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
