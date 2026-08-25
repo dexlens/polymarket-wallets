@@ -334,5 +334,21 @@
     "win_count": 11,
     "rank": 59922,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x72d7fd732ff7b731f188ff67d173cdadc8913ed2",
+    "trader_name": "pulsespeed",
+    "tag": "Overall",
+    "overall_gain": 1078.7855545248437,
+    "active_positions": 1,
+    "win_amount": 1189.5793929999998,
+    "loss_amount": -110.793838475156,
+    "win_rate": 0.8636363636363636,
+    "total_current_value": 15.024916500000002,
+    "total_positions": 32,
+    "event_ct": 22,
+    "win_count": 19,
+    "rank": 59923,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
