@@ -1486,5 +1486,21 @@
     "win_count": 5,
     "rank": 86494,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x51daf9a0be4b0abab9bed686ab42bc9f071adb40",
+    "trader_name": "CBhQS",
+    "tag": "Overall",
+    "overall_gain": 532.5,
+    "active_positions": 2,
+    "win_amount": 892,
+    "loss_amount": -359.5,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 86495,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
