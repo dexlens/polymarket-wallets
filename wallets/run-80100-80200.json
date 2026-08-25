@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 80168,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f02a801c288490b7d478b1990d867c569cd895c",
+    "trader_name": "gautier.no",
+    "tag": "Overall",
+    "overall_gain": 627.919466463348,
+    "active_positions": 1,
+    "win_amount": 1205.628454684932,
+    "loss_amount": -577.7089882215839,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0.058459,
+    "total_positions": 14,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 80169,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
