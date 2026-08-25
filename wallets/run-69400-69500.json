@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 69444,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x816394a50794f9a97985e4a1582ce534da4d07be",
+    "trader_name": "TheDoman",
+    "tag": "Overall",
+    "overall_gain": 823.568011430311,
+    "active_positions": 1,
+    "win_amount": 950.341768625635,
+    "loss_amount": -126.773757195324,
+    "win_rate": 0.25,
+    "total_current_value": 0.006365,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 69445,
+    "trader_tags": ""
   }
 ]
