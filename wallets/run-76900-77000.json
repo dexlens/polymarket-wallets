@@ -1486,5 +1486,21 @@
     "win_count": 33,
     "rank": 76994,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6b390664e5292604147ad21b7482de0793629e5f",
+    "trader_name": "dfuxx0quddb",
+    "tag": "Overall",
+    "overall_gain": 682.0271979999999,
+    "active_positions": 3,
+    "win_amount": 895.8771979999999,
+    "loss_amount": -213.85000000000002,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 76995,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
