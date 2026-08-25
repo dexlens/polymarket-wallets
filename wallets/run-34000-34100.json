@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 34065,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a01874ede5b5cf49d129cf3a609c2e421ca3785",
+    "trader_name": "IronnDominion",
+    "tag": "Overall",
+    "overall_gain": 2418.543451358016,
+    "active_positions": 2,
+    "win_amount": 4623.759169358014,
+    "loss_amount": -2205.215718,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 101.907536,
+    "total_positions": 109,
+    "event_ct": 108,
+    "win_count": 99,
+    "rank": 34066,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
