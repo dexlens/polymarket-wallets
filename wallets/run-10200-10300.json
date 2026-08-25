@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 10265,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9a0d5b6dae474718a89ee9382bd9a34931618c7d",
+    "trader_name": "laurianem",
+    "tag": "Overall",
+    "overall_gain": 10245.24,
+    "active_positions": 1,
+    "win_amount": 10255.5,
+    "loss_amount": -10.260000000000002,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 10266,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
