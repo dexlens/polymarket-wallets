@@ -318,5 +318,21 @@
     "win_count": 22,
     "rank": 2920,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5d3cc45e538130b02c8f3c821638ec9cd350c298",
+    "trader_name": "Eisregen",
+    "tag": "Overall",
+    "overall_gain": 39425.183848365574,
+    "active_positions": 22,
+    "win_amount": 194016.39774129508,
+    "loss_amount": -154591.21389292955,
+    "win_rate": 0.5830200723455564,
+    "total_current_value": 1049.429195705,
+    "total_positions": 26254,
+    "event_ct": 14099,
+    "win_count": 8220,
+    "rank": 2921,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
