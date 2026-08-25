@@ -126,5 +126,21 @@
     "win_count": 1,
     "rank": 32409,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89644c63bcd4780d05998d04c39f18b0c3a000a7",
+    "trader_name": "AmerikanXpress",
+    "tag": "Overall",
+    "overall_gain": 2559.7733849999554,
+    "active_positions": 18,
+    "win_amount": 2559.7733849999554,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1694.275815,
+    "total_positions": 25,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 32410,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
