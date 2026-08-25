@@ -110,5 +110,21 @@
     "win_count": 1,
     "rank": 89208,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x646818a516970787b41008526dbcfd20fba76fdc",
+    "trader_name": "dataghost",
+    "tag": "Overall",
+    "overall_gain": 499.312578,
+    "active_positions": 1,
+    "win_amount": 499.312578,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1062,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 89209,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
