@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 3164,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x34eccd57d85a42273ea46d8699a2666ac600b7cf",
+    "trader_name": "Junhoo2",
+    "tag": "Overall",
+    "overall_gain": 36206.75828999999,
+    "active_positions": 13,
+    "win_amount": 53076.00309,
+    "loss_amount": -16869.244799999997,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 19047.6,
+    "total_positions": 36,
+    "event_ct": 36,
+    "win_count": 24,
+    "rank": 3165,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
