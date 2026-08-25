@@ -734,5 +734,21 @@
     "win_count": 82,
     "rank": 7746,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x64706b9e2df9f185911a17609693f062226e05b9",
+    "trader_name": "Coffeeee",
+    "tag": "Overall",
+    "overall_gain": 13628.379835708705,
+    "active_positions": 5,
+    "win_amount": 13632.929822019705,
+    "loss_amount": -4.549986311002,
+    "win_rate": 0.9,
+    "total_current_value": 45.03729237500001,
+    "total_positions": 37,
+    "event_ct": 20,
+    "win_count": 18,
+    "rank": 7747,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
