@@ -846,5 +846,21 @@
     "win_count": 11,
     "rank": 7253,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x27f866bf959f4416c8d6abaa8169b338c1adb504",
+    "trader_name": "KamalaPrezHolder",
+    "tag": "Overall",
+    "overall_gain": 14731.649065803154,
+    "active_positions": 0,
+    "win_amount": 103806.36133129107,
+    "loss_amount": -89074.71226548789,
+    "win_rate": 0.7291666666666666,
+    "total_current_value": 0.18605000000000002,
+    "total_positions": 86,
+    "event_ct": 48,
+    "win_count": 35,
+    "rank": 7254,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
