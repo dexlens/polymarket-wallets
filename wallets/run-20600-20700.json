@@ -958,5 +958,21 @@
     "win_count": 11,
     "rank": 20660,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7bb380292fd13b5ca4851dbcd73234d30d1b2682",
+    "trader_name": "tajir",
+    "tag": "Overall",
+    "overall_gain": 4454.613885570411,
+    "active_positions": 7,
+    "win_amount": 19682.561436603428,
+    "loss_amount": -15227.94755103302,
+    "win_rate": 0.4842105263157895,
+    "total_current_value": 23912.639974749003,
+    "total_positions": 147,
+    "event_ct": 95,
+    "win_count": 46,
+    "rank": 20661,
+    "trader_tags": ""
   }
 ]
