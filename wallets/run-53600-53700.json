@@ -958,5 +958,21 @@
     "win_count": 3,
     "rank": 53661,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x31a32d39cea14c04a90c7dd1913f40700606ac88",
+    "trader_name": "JR2",
+    "tag": "Overall",
+    "overall_gain": 1317.0297763743063,
+    "active_positions": 3,
+    "win_amount": 1724.3947270919311,
+    "loss_amount": -407.364950717625,
+    "win_rate": 0.391304347826087,
+    "total_current_value": 0.044152,
+    "total_positions": 28,
+    "event_ct": 23,
+    "win_count": 9,
+    "rank": 53662,
+    "trader_tags": "> 1 year old"
   }
 ]
