@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 2354,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xac2474546159e1349c57514d879732793db3941c",
+    "trader_name": "MoneyMoneyMonbey",
+    "tag": "Overall",
+    "overall_gain": 50124.22831545538,
+    "active_positions": 76,
+    "win_amount": 51451.498239972956,
+    "loss_amount": -1327.269924517584,
+    "win_rate": 0.9920318725099602,
+    "total_current_value": 617.005506,
+    "total_positions": 783,
+    "event_ct": 251,
+    "win_count": 249,
+    "rank": 2355,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
