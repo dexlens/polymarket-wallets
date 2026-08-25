@@ -494,5 +494,21 @@
     "win_count": 8,
     "rank": 49532,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x95c761b87e7cbe092345a8fef0233a2e89e1efe1",
+    "trader_name": "Jaeus",
+    "tag": "Overall",
+    "overall_gain": 1502.634947405461,
+    "active_positions": 0,
+    "win_amount": 1502.634947405461,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.017051,
+    "total_positions": 6,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 49533,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
