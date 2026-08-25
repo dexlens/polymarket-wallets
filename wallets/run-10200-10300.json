@@ -942,5 +942,21 @@
     "win_count": 15,
     "rank": 10259,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf3a5d5d032f3f62e214f1123ea24f98fbaf35f3c",
+    "trader_name": "Peremiriya",
+    "tag": "Overall",
+    "overall_gain": 10253.227071031124,
+    "active_positions": 123,
+    "win_amount": 30606.170298168945,
+    "loss_amount": -20352.94322713783,
+    "win_rate": 0.50199203187251,
+    "total_current_value": 3524.7311954244997,
+    "total_positions": 405,
+    "event_ct": 251,
+    "win_count": 126,
+    "rank": 10260,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
