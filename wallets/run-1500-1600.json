@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 1549,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x4463be2426bc303c6de6d42bb0f8caf25cbdc195",
+    "trader_name": "muhammaden",
+    "tag": "Overall",
+    "overall_gain": 78207.65000000001,
+    "active_positions": 1,
+    "win_amount": 78415.15000000001,
+    "loss_amount": -207.5,
+    "win_rate": 0.875,
+    "total_current_value": 25,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 1550,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
