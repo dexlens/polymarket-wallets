@@ -1470,5 +1470,21 @@
     "win_count": 12,
     "rank": 3792,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x007dadb81572228c0f7f8ad89085f40a739f7ee9",
+    "trader_name": "GamblingForReal",
+    "tag": "Overall",
+    "overall_gain": 30053.36605313028,
+    "active_positions": 0,
+    "win_amount": 30053.36605313028,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002801,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3793,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
