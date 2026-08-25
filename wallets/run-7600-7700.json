@@ -126,5 +126,21 @@
     "win_count": 40,
     "rank": 7608,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8cc72766320fe830054348fdfb61040d6f650602",
+    "trader_name": "jiheshuzixiake",
+    "tag": "Overall",
+    "overall_gain": 13913.116842739419,
+    "active_positions": 4,
+    "win_amount": 69298.41546259975,
+    "loss_amount": -55385.29861986035,
+    "win_rate": 0.5266272189349113,
+    "total_current_value": 5797.978708305001,
+    "total_positions": 204,
+    "event_ct": 169,
+    "win_count": 89,
+    "rank": 7609,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
