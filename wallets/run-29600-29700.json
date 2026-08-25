@@ -1566,5 +1566,21 @@
     "win_count": 3,
     "rank": 29699,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe1866088c5d8fee3ef610e949e883ccb9868a45e",
+    "trader_name": "Murtaugh",
+    "tag": "Overall",
+    "overall_gain": 2856.2793549305734,
+    "active_positions": 0,
+    "win_amount": 2856.2793549305734,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.006151,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 29700,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
