@@ -1422,5 +1422,21 @@
     "win_count": 37,
     "rank": 44490,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9190ab6a12aa40b7ba8cac0d32c584332e7e7f4c",
+    "trader_name": "TokenTam",
+    "tag": "Overall",
+    "overall_gain": 1737.5613225220122,
+    "active_positions": 0,
+    "win_amount": 2591.1702255576747,
+    "loss_amount": -853.6089030356629,
+    "win_rate": 0.8095238095238095,
+    "total_current_value": 0.017675000000000003,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 17,
+    "rank": 44491,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
