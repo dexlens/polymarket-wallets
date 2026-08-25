@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 26031,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x0e5b3dd074825065a79b0f214794479d54c3b940",
+    "trader_name": "fidea",
+    "tag": "Overall",
+    "overall_gain": 3365.869016034985,
+    "active_positions": 3,
+    "win_amount": 3365.869016034985,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 26032,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
