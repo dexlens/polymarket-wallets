@@ -750,5 +750,21 @@
     "win_count": 179,
     "rank": 1147,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x481885145076214e1e2d75119e89aea0ea871b32",
+    "trader_name": "PolEthTrader",
+    "tag": "Overall",
+    "overall_gain": 106115.89649999999,
+    "active_positions": 0,
+    "win_amount": 106115.89649999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 1148,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
