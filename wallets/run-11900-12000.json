@@ -1406,5 +1406,21 @@
     "win_count": 3,
     "rank": 11988,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6994c34e457131203c1827f1bbb7f31c737e7112",
+    "trader_name": "dovissmart",
+    "tag": "Overall",
+    "overall_gain": 8607.305365086486,
+    "active_positions": 1,
+    "win_amount": 10876.802173633985,
+    "loss_amount": -2269.4968085474993,
+    "win_rate": 0.6756756756756757,
+    "total_current_value": 0.23260900000000007,
+    "total_positions": 179,
+    "event_ct": 74,
+    "win_count": 50,
+    "rank": 11989,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
