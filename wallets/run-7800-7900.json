@@ -1454,5 +1454,21 @@
     "win_count": 9,
     "rank": 7891,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc7c3d5c6f87ae3f9d031d98217fca252ae266a46",
+    "trader_name": "Illanox",
+    "tag": "Overall",
+    "overall_gain": 13335.947562116826,
+    "active_positions": 4,
+    "win_amount": 13744.893555116825,
+    "loss_amount": -408.945993,
+    "win_rate": 0.9,
+    "total_current_value": 81.519878,
+    "total_positions": 42,
+    "event_ct": 40,
+    "win_count": 36,
+    "rank": 7892,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
