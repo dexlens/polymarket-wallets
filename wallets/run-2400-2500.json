@@ -494,5 +494,21 @@
     "win_count": 217,
     "rank": 2431,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x2e33c2571dcca96cd8e558dcf8195c738b82d046",
+    "trader_name": "MiyooMarketMaker",
+    "tag": "Overall",
+    "overall_gain": 48580.797703999975,
+    "active_positions": 0,
+    "win_amount": 90190.572323,
+    "loss_amount": -41609.774618999996,
+    "win_rate": 0.7068965517241379,
+    "total_current_value": 0,
+    "total_positions": 77,
+    "event_ct": 58,
+    "win_count": 41,
+    "rank": 2432,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
