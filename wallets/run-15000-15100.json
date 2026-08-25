@@ -878,5 +878,21 @@
     "win_count": 12,
     "rank": 15055,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03f6ea7c289900e0d8ee452b6cf7a89f705bdb6a",
+    "trader_name": "polak",
+    "tag": "Overall",
+    "overall_gain": 6462.894587794875,
+    "active_positions": 1,
+    "win_amount": 8009.48577201346,
+    "loss_amount": -1546.591184218584,
+    "win_rate": 0.5,
+    "total_current_value": 0.009431,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 15056,
+    "trader_tags": ""
   }
 ]
