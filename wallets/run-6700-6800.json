@@ -894,5 +894,21 @@
     "win_count": 5,
     "rank": 6756,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ce69d54f4d4a2602ca378d71b59ebe9a927e378",
+    "trader_name": "gaojinxiaodao",
+    "tag": "Overall",
+    "overall_gain": 15888.811976186124,
+    "active_positions": 45,
+    "win_amount": 17766.610660249127,
+    "loss_amount": -1877.798684063006,
+    "win_rate": 0.44285714285714284,
+    "total_current_value": 13181.396741339498,
+    "total_positions": 92,
+    "event_ct": 70,
+    "win_count": 31,
+    "rank": 6757,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
