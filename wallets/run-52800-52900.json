@@ -302,5 +302,21 @@
     "win_count": 7,
     "rank": 52820,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14d4f33fc3f692166143243342df26c7ab4795e7",
+    "trader_name": "doingli3",
+    "tag": "Overall",
+    "overall_gain": 1355.1242433399098,
+    "active_positions": 7,
+    "win_amount": 2181.6142757740918,
+    "loss_amount": -826.490032434182,
+    "win_rate": 0.5,
+    "total_current_value": 7938.339206384,
+    "total_positions": 17,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 52821,
+    "trader_tags": "< 30 days old"
   }
 ]
