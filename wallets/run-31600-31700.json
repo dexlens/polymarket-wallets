@@ -206,5 +206,21 @@
     "win_count": 22,
     "rank": 31614,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x45729a04ed3195533d1396066528faf14bb28ca0",
+    "trader_name": "AirdropCactus",
+    "tag": "Overall",
+    "overall_gain": 2639.3500000000004,
+    "active_positions": 0,
+    "win_amount": 2639.3500000000004,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 31615,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
