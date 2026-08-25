@@ -254,5 +254,21 @@
     "win_count": 2,
     "rank": 8516,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd1ad008f3b556231878dd59ee6fd1b45c925fabc",
+    "trader_name": "a234dsaas",
+    "tag": "Overall",
+    "overall_gain": 12297.351937864567,
+    "active_positions": 157,
+    "win_amount": 29792.3141199403,
+    "loss_amount": -17494.96218207573,
+    "win_rate": 0.7053571428571429,
+    "total_current_value": 13788.225105000005,
+    "total_positions": 842,
+    "event_ct": 448,
+    "win_count": 316,
+    "rank": 8517,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
