@@ -686,5 +686,21 @@
     "win_count": 10,
     "rank": 2043,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x397588bac4d66bd852c302ed719c4a32babd0549",
+    "trader_name": "ivandollar66",
+    "tag": "Overall",
+    "overall_gain": 59143.73297828607,
+    "active_positions": 0,
+    "win_amount": 82907.07543223232,
+    "loss_amount": -23763.342453946272,
+    "win_rate": 0.660377358490566,
+    "total_current_value": 5.68744352058691e-7,
+    "total_positions": 64,
+    "event_ct": 53,
+    "win_count": 35,
+    "rank": 2044,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
