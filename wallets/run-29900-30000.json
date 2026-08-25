@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 29923,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc90a0037330ab0a477a10ba27db5bfb89a98b957",
+    "trader_name": "heliade",
+    "tag": "Overall",
+    "overall_gain": 2829.855008348287,
+    "active_positions": 3,
+    "win_amount": 6590.429853648222,
+    "loss_amount": -3760.574845299936,
+    "win_rate": 0.6,
+    "total_current_value": 0.033359,
+    "total_positions": 13,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 29924,
+    "trader_tags": ""
   }
 ]
