@@ -846,5 +846,21 @@
     "win_count": 6,
     "rank": 12953,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xde8b7fb9e4674dd603b6fced244bf91c31d0a360",
+    "trader_name": "dazao",
+    "tag": "Overall",
+    "overall_gain": 7782.967840377684,
+    "active_positions": 0,
+    "win_amount": 7847.635277984454,
+    "loss_amount": -64.66743760676901,
+    "win_rate": 0.5,
+    "total_current_value": 0.013809,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 5,
+    "rank": 12954,
+    "trader_tags": "> 1 year old"
   }
 ]
