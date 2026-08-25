@@ -190,5 +190,21 @@
     "win_count": 9,
     "rank": 10112,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0dfd316eb0e4e22bc396239a3c605d03f8781576",
+    "trader_name": "floboyercwowqj",
+    "tag": "Overall",
+    "overall_gain": 10387.76241,
+    "active_positions": 1,
+    "win_amount": 10454.63241,
+    "loss_amount": -66.87,
+    "win_rate": 0.6785714285714286,
+    "total_current_value": 16,
+    "total_positions": 36,
+    "event_ct": 28,
+    "win_count": 19,
+    "rank": 10113,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
