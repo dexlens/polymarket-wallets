@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 63794,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3740b9088eb5e87b402b07fde8d27eac0ad31d54",
+    "trader_name": "starburned",
+    "tag": "Overall",
+    "overall_gain": 979.3644104575569,
+    "active_positions": 5,
+    "win_amount": 2083.7868628938168,
+    "loss_amount": -1104.42245243626,
+    "win_rate": 0.2727272727272727,
+    "total_current_value": 0.011356000000000002,
+    "total_positions": 15,
+    "event_ct": 11,
+    "win_count": 3,
+    "rank": 63795,
+    "trader_tags": "> 1 year old"
   }
 ]
