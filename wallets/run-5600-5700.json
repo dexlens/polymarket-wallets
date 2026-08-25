@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 5697,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe8b527508864763f16723e263d2f08702682a94f",
+    "trader_name": "rosaliaaccu",
+    "tag": "Overall",
+    "overall_gain": 18931.5,
+    "active_positions": 0,
+    "win_amount": 19162.5,
+    "loss_amount": -231,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 5698,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
