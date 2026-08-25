@@ -1454,5 +1454,21 @@
     "win_count": 52,
     "rank": 6191,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9fee0543c7bd2090ccb44109d0f34d07a18aeda2",
+    "trader_name": "TestingThingsOut",
+    "tag": "Overall",
+    "overall_gain": 17302.3797854203,
+    "active_positions": 10,
+    "win_amount": 71540.17222811613,
+    "loss_amount": -54237.79244269583,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 11353.311085489504,
+    "total_positions": 169,
+    "event_ct": 112,
+    "win_count": 72,
+    "rank": 6192,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
