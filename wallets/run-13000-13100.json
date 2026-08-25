@@ -1406,5 +1406,21 @@
     "win_count": 31,
     "rank": 13088,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49a37f4186cb1cc8af9e86081cee6918fe7891bb",
+    "trader_name": "twodeadly",
+    "tag": "Overall",
+    "overall_gain": 7673.246528265005,
+    "active_positions": 23,
+    "win_amount": 25343.133975999997,
+    "loss_amount": -17669.887447734996,
+    "win_rate": 0.46511627906976744,
+    "total_current_value": 5263.000783,
+    "total_positions": 43,
+    "event_ct": 43,
+    "win_count": 20,
+    "rank": 13089,
+    "trader_tags": ""
   }
 ]
