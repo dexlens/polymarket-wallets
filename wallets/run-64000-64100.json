@@ -942,5 +942,21 @@
     "win_count": 9,
     "rank": 64060,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x09791553af1e046654a25e5f5e92c20d8d02c1ef",
+    "trader_name": "okiro",
+    "tag": "Overall",
+    "overall_gain": 972.502644434701,
+    "active_positions": 0,
+    "win_amount": 1035.2339800395807,
+    "loss_amount": -62.73133560488,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 0.002581,
+    "total_positions": 50,
+    "event_ct": 46,
+    "win_count": 40,
+    "rank": 64061,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
