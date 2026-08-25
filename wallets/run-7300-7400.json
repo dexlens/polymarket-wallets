@@ -814,5 +814,21 @@
     "win_count": 93,
     "rank": 7351,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x12b8e7c160f3ced67a22b7eadf764cd1c2c4479c",
+    "trader_name": "bearbees2",
+    "tag": "Overall",
+    "overall_gain": 14472.29311683271,
+    "active_positions": 12,
+    "win_amount": 15965.678488416219,
+    "loss_amount": -1493.3853715835075,
+    "win_rate": 0.8409090909090909,
+    "total_current_value": 90370.56882127347,
+    "total_positions": 80,
+    "event_ct": 44,
+    "win_count": 37,
+    "rank": 7352,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
