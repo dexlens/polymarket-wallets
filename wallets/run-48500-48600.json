@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 48583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c2cd445bc3f539db511cd8ed5c1faca1f9cdb91",
+    "trader_name": "manas.trader",
+    "tag": "Overall",
+    "overall_gain": 1546.2671491982223,
+    "active_positions": 63,
+    "win_amount": 1827.270138205057,
+    "loss_amount": -281.0029890068349,
+    "win_rate": 0.40404040404040403,
+    "total_current_value": 0.142441,
+    "total_positions": 128,
+    "event_ct": 99,
+    "win_count": 40,
+    "rank": 48584,
+    "trader_tags": ""
   }
 ]
