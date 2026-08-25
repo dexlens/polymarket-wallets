@@ -926,5 +926,21 @@
     "win_count": 11,
     "rank": 39459,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9f5693b5d372071e0ad92d9cbe3933957666c8e9",
+    "trader_name": "jimparker",
+    "tag": "Overall",
+    "overall_gain": 2023.549712991431,
+    "active_positions": 0,
+    "win_amount": 2023.549712991431,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007141,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 39460,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
