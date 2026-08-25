@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 39859,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb2eef76979bbfd1a4340d18cd3f35da022297e3c",
+    "trader_name": "AdelaideMilne",
+    "tag": "Overall",
+    "overall_gain": 2000.631902150817,
+    "active_positions": 32,
+    "win_amount": 19000.631902150817,
+    "loss_amount": -17000,
+    "win_rate": 0.7846153846153846,
+    "total_current_value": 22.171811266,
+    "total_positions": 91,
+    "event_ct": 65,
+    "win_count": 51,
+    "rank": 39860,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
