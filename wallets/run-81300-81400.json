@@ -1182,5 +1182,21 @@
     "win_count": 30,
     "rank": 81375,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e906ced4614b66474c7de0553ca1385eac0b6b1",
+    "trader_name": "mes-ja",
+    "tag": "Overall",
+    "overall_gain": 608.321630315929,
+    "active_positions": 2,
+    "win_amount": 690.789803,
+    "loss_amount": -82.46817268407099,
+    "win_rate": 0.25,
+    "total_current_value": 0.000098,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 81376,
+    "trader_tags": "> 1 year old"
   }
 ]
