@@ -1086,5 +1086,21 @@
     "win_count": 4,
     "rank": 3668,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f15aff2951a0caccdc1b4ed1edecb4c6a772fa3",
+    "trader_name": "bedok",
+    "tag": "Overall",
+    "overall_gain": 31074.045746494226,
+    "active_positions": 7,
+    "win_amount": 35474.137014494234,
+    "loss_amount": -4400.091268,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 10.590451726500001,
+    "total_positions": 91,
+    "event_ct": 28,
+    "win_count": 26,
+    "rank": 3669,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
