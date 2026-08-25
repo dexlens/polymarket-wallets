@@ -1150,5 +1150,21 @@
     "win_count": 72,
     "rank": 50373,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x004381d42256af369842120a2adba3e0d52919c6",
+    "trader_name": "Morgan487",
+    "tag": "Overall",
+    "overall_gain": 1467.9066799999998,
+    "active_positions": 0,
+    "win_amount": 1472.31,
+    "loss_amount": -4.40332,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 1,
+    "rank": 50374,
+    "trader_tags": "< 30 days old"
   }
 ]
