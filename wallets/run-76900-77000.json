@@ -558,5 +558,21 @@
     "win_count": 6,
     "rank": 76936,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeeea97c183550245abdb1ae1d8ee00f7171aa889",
+    "trader_name": "blurt468",
+    "tag": "Overall",
+    "overall_gain": 683.1366369289814,
+    "active_positions": 23,
+    "win_amount": 4344.241344089666,
+    "loss_amount": -3661.1047071606845,
+    "win_rate": 0.4276315789473684,
+    "total_current_value": 645.7626802585002,
+    "total_positions": 181,
+    "event_ct": 152,
+    "win_count": 65,
+    "rank": 76937,
+    "trader_tags": "< 30 days old"
   }
 ]
