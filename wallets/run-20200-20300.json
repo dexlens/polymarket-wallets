@@ -1198,5 +1198,21 @@
     "win_count": 12,
     "rank": 20275,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb83b253e76cd033118d7e77872ca73d92f67dfbe",
+    "trader_name": "NNLL",
+    "tag": "Overall",
+    "overall_gain": 4556.2268460017685,
+    "active_positions": 79,
+    "win_amount": 9350.162413216156,
+    "loss_amount": -4793.935567214387,
+    "win_rate": 0.4142857142857143,
+    "total_current_value": 0.026785999999999997,
+    "total_positions": 142,
+    "event_ct": 70,
+    "win_count": 29,
+    "rank": 20276,
+    "trader_tags": ""
   }
 ]
