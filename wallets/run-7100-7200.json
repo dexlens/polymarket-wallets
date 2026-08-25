@@ -334,5 +334,21 @@
     "win_count": 4,
     "rank": 7121,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xea63bfe35d042eb16ddddeaff1ad25ed8b83682c",
+    "trader_name": "alphastrat",
+    "tag": "Overall",
+    "overall_gain": 15013.532025143768,
+    "active_positions": 24,
+    "win_amount": 17415.42569535905,
+    "loss_amount": -2401.89367021528,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0.787431,
+    "total_positions": 323,
+    "event_ct": 136,
+    "win_count": 72,
+    "rank": 7122,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
