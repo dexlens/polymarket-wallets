@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 8414,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe9e4156a2f739c4968457a267603f5ac7a10f4d",
+    "trader_name": "rinio",
+    "tag": "Overall",
+    "overall_gain": 12446.62373,
+    "active_positions": 1,
+    "win_amount": 16896.41373,
+    "loss_amount": -4449.79,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0,
+    "total_positions": 29,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 8415,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
