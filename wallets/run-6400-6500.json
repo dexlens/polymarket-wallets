@@ -126,5 +126,21 @@
     "win_count": 55,
     "rank": 6408,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f33402c3a8d9cf91fb59e514c40886cfbee63c8",
+    "trader_name": "nikobala",
+    "tag": "Overall",
+    "overall_gain": 16719.93281894,
+    "active_positions": 6,
+    "win_amount": 32373.153750819998,
+    "loss_amount": -15653.220931880001,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.008086,
+    "total_positions": 25,
+    "event_ct": 21,
+    "win_count": 14,
+    "rank": 6409,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
