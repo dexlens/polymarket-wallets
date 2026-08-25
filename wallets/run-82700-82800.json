@@ -1150,5 +1150,21 @@
     "win_count": 180,
     "rank": 82773,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd7abd68c2bead85b05bdc044532077380e768a17",
+    "trader_name": "pldr",
+    "tag": "Overall",
+    "overall_gain": 585.989264644993,
+    "active_positions": 9,
+    "win_amount": 1103.905149642902,
+    "loss_amount": -517.915884997909,
+    "win_rate": 0.68,
+    "total_current_value": 1537.7133545855002,
+    "total_positions": 48,
+    "event_ct": 25,
+    "win_count": 17,
+    "rank": 82774,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
