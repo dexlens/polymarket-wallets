@@ -1022,5 +1022,21 @@
     "win_count": 4,
     "rank": 26065,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3860c9874a2bff51d7a9bf00ca24f3f9387859e9",
+    "trader_name": "Bittr",
+    "tag": "Overall",
+    "overall_gain": 3358.5,
+    "active_positions": 1,
+    "win_amount": 3670.5,
+    "loss_amount": -312,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 26066,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
