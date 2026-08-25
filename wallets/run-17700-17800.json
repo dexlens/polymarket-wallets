@@ -1022,5 +1022,21 @@
     "win_count": 11,
     "rank": 17764,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f30ce317ec89c090dceb6987235ad7bfabe12c3",
+    "trader_name": "erzh",
+    "tag": "Overall",
+    "overall_gain": 5256.699892516345,
+    "active_positions": 7,
+    "win_amount": 15013.895148626696,
+    "loss_amount": -9757.195256110352,
+    "win_rate": 0.6829268292682927,
+    "total_current_value": 7421.7675279185005,
+    "total_positions": 157,
+    "event_ct": 123,
+    "win_count": 84,
+    "rank": 17765,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
