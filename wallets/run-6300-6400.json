@@ -222,5 +222,21 @@
     "win_count": 18,
     "rank": 6314,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f4b607ae05b348765f008ca53d42274bccebb93",
+    "trader_name": "rbsp",
+    "tag": "Overall",
+    "overall_gain": 16956.09893357396,
+    "active_positions": 4,
+    "win_amount": 59069.38523317505,
+    "loss_amount": -42113.2862996011,
+    "win_rate": 0.8418079096045198,
+    "total_current_value": 42.80041253200001,
+    "total_positions": 202,
+    "event_ct": 177,
+    "win_count": 149,
+    "rank": 6315,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
