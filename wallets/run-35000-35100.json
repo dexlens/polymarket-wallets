@@ -782,5 +782,21 @@
     "win_count": 26,
     "rank": 35050,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5372be4d38a84645bbb3981b9da296e89ac4d2f9",
+    "trader_name": "JG123456789",
+    "tag": "Overall",
+    "overall_gain": 2337.2526615901284,
+    "active_positions": 1,
+    "win_amount": 2571.834326289649,
+    "loss_amount": -234.58166469952099,
+    "win_rate": 0.44545454545454544,
+    "total_current_value": 0.31997999999999993,
+    "total_positions": 201,
+    "event_ct": 110,
+    "win_count": 49,
+    "rank": 35051,
+    "trader_tags": "> 1 year old"
   }
 ]
