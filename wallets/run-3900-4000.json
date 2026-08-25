@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 3937,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d6af3c2527bb1e5e2e21f3a0e46154bc44b18e9",
+    "trader_name": "Elarion",
+    "tag": "Overall",
+    "overall_gain": 28615.61145411,
+    "active_positions": 1,
+    "win_amount": 28627.211436110003,
+    "loss_amount": -11.599982,
+    "win_rate": 0.9206349206349206,
+    "total_current_value": 0.006867,
+    "total_positions": 68,
+    "event_ct": 63,
+    "win_count": 58,
+    "rank": 3938,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
