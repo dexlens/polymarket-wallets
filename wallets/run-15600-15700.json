@@ -958,5 +958,21 @@
     "win_count": 4,
     "rank": 15660,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x78a64b3d37096978bcc7bc284c7500e4972c7fcf",
+    "trader_name": "soonatm",
+    "tag": "Overall",
+    "overall_gain": 6152.484806463673,
+    "active_positions": 4,
+    "win_amount": 7097.483206641602,
+    "loss_amount": -944.9984001779301,
+    "win_rate": 0.8,
+    "total_current_value": 0.055435,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 20,
+    "rank": 15661,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
