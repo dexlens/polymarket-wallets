@@ -830,5 +830,21 @@
     "win_count": 30,
     "rank": 5652,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ee42320a54f645964300ec264e4233a2543fb16",
+    "trader_name": "Velthor",
+    "tag": "Overall",
+    "overall_gain": 19086.520250799997,
+    "active_positions": 3,
+    "win_amount": 19574.7130978,
+    "loss_amount": -488.19284700000003,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 114.85147580000002,
+    "total_positions": 39,
+    "event_ct": 39,
+    "win_count": 36,
+    "rank": 5653,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
