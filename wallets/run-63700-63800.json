@@ -958,5 +958,21 @@
     "win_count": 4,
     "rank": 63761,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7b73aa74ba7d1119ec367e8d39d67f068ee0457b",
+    "trader_name": "Janice6",
+    "tag": "Overall",
+    "overall_gain": 980.6156000000001,
+    "active_positions": 5,
+    "win_amount": 1338.3600999999999,
+    "loss_amount": -357.7445,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 63762,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
