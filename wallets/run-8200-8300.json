@@ -1390,5 +1390,21 @@
     "win_count": 7,
     "rank": 8287,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7bf8bb676648de08602704db870b5bb8808b02d",
+    "trader_name": "JMZ14",
+    "tag": "Overall",
+    "overall_gain": 12689.02042901112,
+    "active_positions": 13,
+    "win_amount": 53958.68673246102,
+    "loss_amount": -41269.666303449885,
+    "win_rate": 0.7070707070707071,
+    "total_current_value": 13438.711949845003,
+    "total_positions": 538,
+    "event_ct": 495,
+    "win_count": 350,
+    "rank": 8288,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
