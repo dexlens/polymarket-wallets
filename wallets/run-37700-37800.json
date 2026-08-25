@@ -750,5 +750,21 @@
     "win_count": 3,
     "rank": 37748,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x46153629f425c15eb6836a88e4bb6e48e924b3de",
+    "trader_name": "Harbord",
+    "tag": "Overall",
+    "overall_gain": 2137.458736173865,
+    "active_positions": 2,
+    "win_amount": 13489.158284000001,
+    "loss_amount": -11351.699547826134,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 74.5567023345,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 37749,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
