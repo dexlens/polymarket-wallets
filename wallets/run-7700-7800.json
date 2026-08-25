@@ -942,5 +942,21 @@
     "win_count": 11,
     "rank": 7759,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x8fbbe57829c3137b95058edce920983a953742d9",
+    "trader_name": "Trusty-Wormhole",
+    "tag": "Overall",
+    "overall_gain": 13606.391585056075,
+    "active_positions": 16,
+    "win_amount": 13827.104180606693,
+    "loss_amount": -220.712595550623,
+    "win_rate": 0.8813559322033898,
+    "total_current_value": 667.051766,
+    "total_positions": 84,
+    "event_ct": 59,
+    "win_count": 52,
+    "rank": 7760,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
