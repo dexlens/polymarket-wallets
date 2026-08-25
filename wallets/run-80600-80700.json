@@ -958,5 +958,21 @@
     "win_count": 8,
     "rank": 80661,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x435b4c138bee95495ef92372268b7fc57cd365a1",
+    "trader_name": "davidmurter",
+    "tag": "Overall",
+    "overall_gain": 619.654451563381,
+    "active_positions": 1,
+    "win_amount": 932.431024822399,
+    "loss_amount": -312.776573259018,
+    "win_rate": 0.8636363636363636,
+    "total_current_value": 827.348502,
+    "total_positions": 68,
+    "event_ct": 44,
+    "win_count": 38,
+    "rank": 80662,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
