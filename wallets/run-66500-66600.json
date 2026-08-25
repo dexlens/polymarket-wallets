@@ -446,5 +446,21 @@
     "win_count": 13,
     "rank": 66529,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xec2fee659816593ea89c333563c9d70a8e0c0ed7",
+    "trader_name": "CFTEAM",
+    "tag": "Overall",
+    "overall_gain": 901.853204839002,
+    "active_positions": 0,
+    "win_amount": 902.5725567903361,
+    "loss_amount": -0.719351951334,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.006873000000000001,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 66530,
+    "trader_tags": "> 1 year old"
   }
 ]
