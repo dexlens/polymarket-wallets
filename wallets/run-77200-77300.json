@@ -1246,5 +1246,21 @@
     "win_count": 67,
     "rank": 77279,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9939060f77eaaf1ef494523080c981fda900d5f5",
+    "trader_name": "Opalinevfr",
+    "tag": "Overall",
+    "overall_gain": 676.8199999999999,
+    "active_positions": 1,
+    "win_amount": 1522.35,
+    "loss_amount": -845.53,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 77280,
+    "trader_tags": "< 30 days old"
   }
 ]
