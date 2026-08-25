@@ -670,5 +670,21 @@
     "win_count": 11,
     "rank": 33743,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x10c8fa746eb80bff91683f1d5d8a85fb5204e462",
+    "trader_name": "dcyisuhef",
+    "tag": "Overall",
+    "overall_gain": 2445.9942743016663,
+    "active_positions": 4,
+    "win_amount": 2454.9942743016663,
+    "loss_amount": -9,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 2.750666,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 32,
+    "rank": 33744,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
