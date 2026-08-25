@@ -1246,5 +1246,21 @@
     "win_count": 274,
     "rank": 4578,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3a11337a82ce5d53404aed33defb02dfe4edde12",
+    "trader_name": "CrouchingTiger",
+    "tag": "Overall",
+    "overall_gain": 24052.00117669518,
+    "active_positions": 2,
+    "win_amount": 32252.873787827335,
+    "loss_amount": -8200.872611132158,
+    "win_rate": 0.6,
+    "total_current_value": 0.02228,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 4579,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
