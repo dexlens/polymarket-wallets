@@ -46,5 +46,21 @@
     "win_count": 4,
     "rank": 3703,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xab828a2bcb4a5a93a94cdeedf3cb70b6211babe5",
+    "trader_name": "Stake.com",
+    "tag": "Overall",
+    "overall_gain": 30813.454580329184,
+    "active_positions": 8,
+    "win_amount": 151091.63883532578,
+    "loss_amount": -120278.18425499661,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 39528.4807703585,
+    "total_positions": 41,
+    "event_ct": 35,
+    "win_count": 15,
+    "rank": 3704,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
