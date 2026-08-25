@@ -638,5 +638,21 @@
     "win_count": 9,
     "rank": 67841,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xca113c59624f079b5b4ba67d1fcbb928ab5bb220",
+    "trader_name": "fastbettor",
+    "tag": "Overall",
+    "overall_gain": 865.1055693981851,
+    "active_positions": 94,
+    "win_amount": 1396.6005900164855,
+    "loss_amount": -531.4950206183,
+    "win_rate": 0.7379912663755459,
+    "total_current_value": 408.54688863899986,
+    "total_positions": 253,
+    "event_ct": 229,
+    "win_count": 169,
+    "rank": 67842,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
