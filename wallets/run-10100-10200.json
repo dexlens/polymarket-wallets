@@ -1550,5 +1550,21 @@
     "win_count": 2,
     "rank": 10197,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5304a4f8827b1013a8102ee61503947ce2ebb2b9",
+    "trader_name": "dulcebatzp",
+    "tag": "Overall",
+    "overall_gain": 10306.73,
+    "active_positions": 3,
+    "win_amount": 12189.32,
+    "loss_amount": -1882.5900000000001,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 10198,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
