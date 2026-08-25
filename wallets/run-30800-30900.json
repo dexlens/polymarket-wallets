@@ -1022,5 +1022,21 @@
     "win_count": 6,
     "rank": 30865,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x296b267127e6dca893cfe8ff74e54cb8f63ba965",
+    "trader_name": "SeekingDbl",
+    "tag": "Overall",
+    "overall_gain": 2716.059040037091,
+    "active_positions": 73,
+    "win_amount": 3297.4615198669303,
+    "loss_amount": -581.40247982984,
+    "win_rate": 0.7919463087248322,
+    "total_current_value": 6142.044012632999,
+    "total_positions": 291,
+    "event_ct": 149,
+    "win_count": 118,
+    "rank": 30866,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
