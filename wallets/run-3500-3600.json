@@ -974,5 +974,21 @@
     "win_count": 39,
     "rank": 3561,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c88f285f1950a778524b678ed8cf5410d1a1433",
+    "trader_name": "TaylorUniversity",
+    "tag": "Overall",
+    "overall_gain": 31975.040320756412,
+    "active_positions": 18,
+    "win_amount": 37814.232360722155,
+    "loss_amount": -5839.192039965739,
+    "win_rate": 0.8648648648648649,
+    "total_current_value": 31.2021779,
+    "total_positions": 102,
+    "event_ct": 37,
+    "win_count": 32,
+    "rank": 3562,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
