@@ -574,5 +574,21 @@
     "win_count": 5,
     "rank": 6836,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa612915d7dfc71cdd2b4aad4fd175ee870ec19b9",
+    "trader_name": "fizzybubbly",
+    "tag": "Overall",
+    "overall_gain": 15675.329359253363,
+    "active_positions": 3,
+    "win_amount": 29826.570299483796,
+    "loss_amount": -14151.240940230433,
+    "win_rate": 0.2727272727272727,
+    "total_current_value": 0.008132,
+    "total_positions": 19,
+    "event_ct": 11,
+    "win_count": 3,
+    "rank": 6837,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
