@@ -766,5 +766,21 @@
     "win_count": 151,
     "rank": 9548,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3a135a81197b87dcb147e2091d61f39c3e977ea6",
+    "trader_name": "stochi",
+    "tag": "Overall",
+    "overall_gain": 10964.604154616361,
+    "active_positions": 5,
+    "win_amount": 21720.5085011547,
+    "loss_amount": -10755.904346538344,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 24709.301878860002,
+    "total_positions": 21,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 9549,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
