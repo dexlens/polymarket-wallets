@@ -686,5 +686,21 @@
     "win_count": 4,
     "rank": 36444,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29ec4d46064f6e701c16c8fac56a332f5b018f29",
+    "trader_name": "MatthewRoger",
+    "tag": "Overall",
+    "overall_gain": 2228.9235399334534,
+    "active_positions": 4,
+    "win_amount": 6437.386040999999,
+    "loss_amount": -4208.462501066547,
+    "win_rate": 0.8214285714285714,
+    "total_current_value": 0.009453,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 23,
+    "rank": 36445,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
