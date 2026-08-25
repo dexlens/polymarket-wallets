@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 49920,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x69fcae6494a6f37d799a3c5af7a993011ffa41ee",
+    "trader_name": "mossadagent2",
+    "tag": "Overall",
+    "overall_gain": 1487.4943420000004,
+    "active_positions": 2,
+    "win_amount": 2352.4943420000004,
+    "loss_amount": -865,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 49921,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
