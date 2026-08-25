@@ -622,5 +622,21 @@
     "win_count": 24817,
     "rank": 5239,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x3ab8c9d43c926681642580a9878ed4ce28c8c0d6",
+    "trader_name": "Hainicusor",
+    "tag": "Overall",
+    "overall_gain": 20718.782919136804,
+    "active_positions": 2,
+    "win_amount": 23312.43571096926,
+    "loss_amount": -2593.652791832459,
+    "win_rate": 0.25,
+    "total_current_value": 0.001714,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 5240,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
