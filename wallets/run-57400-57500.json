@@ -734,5 +734,21 @@
     "win_count": 15,
     "rank": 57447,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x53f408364f77b796ffcfa905ea85fb095fd70e38",
+    "trader_name": "wallet20250919",
+    "tag": "Overall",
+    "overall_gain": 1161.8855526373652,
+    "active_positions": 11,
+    "win_amount": 5613.132632409307,
+    "loss_amount": -4451.247079771941,
+    "win_rate": 0.6908212560386473,
+    "total_current_value": 0.8842838199999999,
+    "total_positions": 904,
+    "event_ct": 414,
+    "win_count": 286,
+    "rank": 57448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
