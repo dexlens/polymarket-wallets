@@ -1502,5 +1502,21 @@
     "win_count": 15,
     "rank": 10294,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36ec392444d8a73dbd6d56053365d69cd86d45d6",
+    "trader_name": "Quasimodo",
+    "tag": "Overall",
+    "overall_gain": 10218.215974203313,
+    "active_positions": 2,
+    "win_amount": 10793.209918537754,
+    "loss_amount": -574.993944334439,
+    "win_rate": 0.6,
+    "total_current_value": 0.058203,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 10295,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
