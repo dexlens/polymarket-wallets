@@ -846,5 +846,21 @@
     "win_count": 11,
     "rank": 1153,
     "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0xc9b6227a295985591fe576ff2e054267a78a9b6a",
+    "trader_name": "mango-lassi",
+    "tag": "Overall",
+    "overall_gain": 105797.95655293226,
+    "active_positions": 28,
+    "win_amount": 173501.1754000419,
+    "loss_amount": -67703.21884710959,
+    "win_rate": 0.6854545454545454,
+    "total_current_value": 2816.652282129001,
+    "total_positions": 1293,
+    "event_ct": 550,
+    "win_count": 377,
+    "rank": 1154,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
