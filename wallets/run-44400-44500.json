@@ -702,5 +702,21 @@
     "win_count": 2,
     "rank": 44445,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x19f008164b5d367629089edc2c8ecc1a5ef684f8",
+    "trader_name": "Sszb",
+    "tag": "Overall",
+    "overall_gain": 1740.248443602686,
+    "active_positions": 2,
+    "win_amount": 6645.4664668968235,
+    "loss_amount": -4905.21802329414,
+    "win_rate": 0.8260869565217391,
+    "total_current_value": 7824.839520269,
+    "total_positions": 137,
+    "event_ct": 92,
+    "win_count": 76,
+    "rank": 44446,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
