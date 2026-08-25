@@ -910,5 +910,21 @@
     "win_count": 6,
     "rank": 14257,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1bc64666ac7ff862ad03bcbe93754ade1f62c936",
+    "trader_name": "hsy5652",
+    "tag": "Overall",
+    "overall_gain": 6908.461091768307,
+    "active_positions": 189,
+    "win_amount": 58026.16091816178,
+    "loss_amount": -51117.69982639351,
+    "win_rate": 0.6769983686786297,
+    "total_current_value": 24888.9504451685,
+    "total_positions": 776,
+    "event_ct": 613,
+    "win_count": 415,
+    "rank": 14258,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
