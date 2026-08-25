@@ -1198,5 +1198,21 @@
     "win_count": 3,
     "rank": 81876,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4b2cfa7243b9b14372af1e2c80887a1b82c3da3f",
+    "trader_name": "pazyamor",
+    "tag": "Overall",
+    "overall_gain": 599.9995213191589,
+    "active_positions": 23,
+    "win_amount": 2051.272408903846,
+    "loss_amount": -1451.2728875846874,
+    "win_rate": 0.6593406593406593,
+    "total_current_value": 478.09229228900006,
+    "total_positions": 1183,
+    "event_ct": 1092,
+    "win_count": 720,
+    "rank": 81877,
+    "trader_tags": "1k+ Positions"
   }
 ]
