@@ -302,5 +302,21 @@
     "win_count": 56,
     "rank": 70220,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x050fd46a394878241f04d8ce2064edb97449e1dd",
+    "trader_name": "huangweiqiang8888",
+    "tag": "Overall",
+    "overall_gain": 805.5654455778807,
+    "active_positions": 1,
+    "win_amount": 841.8274455778807,
+    "loss_amount": -36.262,
+    "win_rate": 0.9864864864864865,
+    "total_current_value": 6133.048008000001,
+    "total_positions": 93,
+    "event_ct": 74,
+    "win_count": 73,
+    "rank": 70221,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
