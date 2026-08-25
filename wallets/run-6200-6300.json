@@ -1214,5 +1214,21 @@
     "win_count": 5,
     "rank": 6276,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf6f1282b3e2ae0e1560d16be3ea9ccd079897da3",
+    "trader_name": "MarquisDeMott",
+    "tag": "Overall",
+    "overall_gain": 17049.942567099297,
+    "active_positions": 141,
+    "win_amount": 58579.379238558504,
+    "loss_amount": -41529.43667145922,
+    "win_rate": 0.9742962056303549,
+    "total_current_value": 13403.862025049997,
+    "total_positions": 1089,
+    "event_ct": 817,
+    "win_count": 796,
+    "rank": 6277,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
