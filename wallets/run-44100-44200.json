@@ -766,5 +766,21 @@
     "win_count": 87,
     "rank": 44149,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x60aa19ec446e583402ea637997f439647e0aa587",
+    "trader_name": "SidneyMarion",
+    "tag": "Overall",
+    "overall_gain": 1757.7949752300697,
+    "active_positions": 1,
+    "win_amount": 1989.6317752300697,
+    "loss_amount": -231.8368,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 48.014061000000005,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 44150,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
