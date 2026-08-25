@@ -990,5 +990,21 @@
     "win_count": 3,
     "rank": 42863,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0324318a9c3f3ed1126683b7a07873e2832abed7",
+    "trader_name": "moredeneg",
+    "tag": "Overall",
+    "overall_gain": 1827.276212845557,
+    "active_positions": 11,
+    "win_amount": 2242.209722689938,
+    "loss_amount": -414.93350984438104,
+    "win_rate": 0.47540983606557374,
+    "total_current_value": 0.010422982999999999,
+    "total_positions": 74,
+    "event_ct": 61,
+    "win_count": 29,
+    "rank": 42864,
+    "trader_tags": ""
   }
 ]
