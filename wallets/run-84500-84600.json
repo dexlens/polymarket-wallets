@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 84569,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3706eee3e108d9e26c972fbd24c4747ec7ca9462",
+    "trader_name": "PonyY",
+    "tag": "Overall",
+    "overall_gain": 558.2289962063562,
+    "active_positions": 64,
+    "win_amount": 3507.0169079246884,
+    "loss_amount": -2948.7879117183325,
+    "win_rate": 0.7966903073286052,
+    "total_current_value": 596.7747613754999,
+    "total_positions": 488,
+    "event_ct": 423,
+    "win_count": 337,
+    "rank": 84570,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
