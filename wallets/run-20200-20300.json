@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 20252,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4de2b2d08c6c02f0b51c4713fa1ba48c2459fc14",
+    "trader_name": "SFDJGBKJRG",
+    "tag": "Overall",
+    "overall_gain": 4562,
+    "active_positions": 1,
+    "win_amount": 4811.5,
+    "loss_amount": -249.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 20253,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
