@@ -1182,5 +1182,21 @@
     "win_count": 2,
     "rank": 78075,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0438cceedcc7de0e12e7f5f2758c9a05f915307b",
+    "trader_name": "yejinlee",
+    "tag": "Overall",
+    "overall_gain": 662.6000581251919,
+    "active_positions": 149,
+    "win_amount": 2827.333451062379,
+    "loss_amount": -2164.733392937187,
+    "win_rate": 0.6711026615969582,
+    "total_current_value": 379.6166203800001,
+    "total_positions": 551,
+    "event_ct": 526,
+    "win_count": 353,
+    "rank": 78076,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
