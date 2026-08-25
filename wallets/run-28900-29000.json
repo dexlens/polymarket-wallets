@@ -526,5 +526,21 @@
     "win_count": 4,
     "rank": 28934,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x84bd1719b666fdd9811b539781607132e937c496",
+    "trader_name": "Crownstone",
+    "tag": "Overall",
+    "overall_gain": 2956.46,
+    "active_positions": 1,
+    "win_amount": 2958.36,
+    "loss_amount": -1.8999999999999986,
+    "win_rate": 0.75,
+    "total_current_value": 33.82,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 28935,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
