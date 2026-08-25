@@ -110,5 +110,21 @@
     "win_count": 2,
     "rank": 60308,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x5ecab105970ea640d7b803a1b6f1198dab5b374e",
+    "trader_name": "Li1",
+    "tag": "Overall",
+    "overall_gain": 1066.643192924262,
+    "active_positions": 1,
+    "win_amount": 1078.2190544227528,
+    "loss_amount": -11.575861498491,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.037262,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 60309,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
