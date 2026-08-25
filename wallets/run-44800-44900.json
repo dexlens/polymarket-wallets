@@ -1566,5 +1566,21 @@
     "win_count": 16,
     "rank": 44899,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5038c18cff5caf5b5e2278b34128b2d79540ae15",
+    "trader_name": "heat10241",
+    "tag": "Overall",
+    "overall_gain": 1718.7724285796346,
+    "active_positions": 0,
+    "win_amount": 1984.2052434217696,
+    "loss_amount": -265.43281484213503,
+    "win_rate": 0.8627450980392157,
+    "total_current_value": 0.224514682,
+    "total_positions": 86,
+    "event_ct": 51,
+    "win_count": 44,
+    "rank": 44900,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
