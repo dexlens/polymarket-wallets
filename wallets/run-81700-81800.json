@@ -734,5 +734,21 @@
     "win_count": 6,
     "rank": 81747,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3e128eda1580aedb5d5c32d5ca080ec71699ce01",
+    "trader_name": "mob",
+    "tag": "Overall",
+    "overall_gain": 601.9942584415828,
+    "active_positions": 15,
+    "win_amount": 1681.988591153845,
+    "loss_amount": -1079.9943327122621,
+    "win_rate": 0.4,
+    "total_current_value": 0.003845,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 10,
+    "rank": 81748,
+    "trader_tags": ""
   }
 ]
