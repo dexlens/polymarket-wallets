@@ -862,5 +862,21 @@
     "win_count": 34,
     "rank": 65155,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6975b6ed7ef9a20a2c0b2cdf559a2a320d4e06e1",
+    "trader_name": "Cheeses",
+    "tag": "Overall",
+    "overall_gain": 940.549321285537,
+    "active_positions": 0,
+    "win_amount": 947.8575319230918,
+    "loss_amount": -7.308210637555,
+    "win_rate": 0.875,
+    "total_current_value": 0.013092,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 65156,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
