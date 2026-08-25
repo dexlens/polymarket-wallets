@@ -430,5 +430,21 @@
     "win_count": 5,
     "rank": 53128,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x30ab79394ccff284d998d7c6c710dae1e0584360",
+    "trader_name": "MLSA88",
+    "tag": "Overall",
+    "overall_gain": 1341.4947656391653,
+    "active_positions": 9,
+    "win_amount": 11473.889277639455,
+    "loss_amount": -10132.394512000292,
+    "win_rate": 0.7853658536585366,
+    "total_current_value": 2008.9251820000002,
+    "total_positions": 494,
+    "event_ct": 410,
+    "win_count": 322,
+    "rank": 53129,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
