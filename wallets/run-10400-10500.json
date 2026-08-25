@@ -894,5 +894,21 @@
     "win_count": 3,
     "rank": 10456,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc4306529997118662a8b5d65c68e24b672f9b2db",
+    "trader_name": "RowenaSally",
+    "tag": "Overall",
+    "overall_gain": 10055.852354999999,
+    "active_positions": 0,
+    "win_amount": 10157.352355,
+    "loss_amount": -101.5,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 0,
+    "total_positions": 37,
+    "event_ct": 23,
+    "win_count": 16,
+    "rank": 10457,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
