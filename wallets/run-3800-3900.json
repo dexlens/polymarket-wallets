@@ -1198,5 +1198,21 @@
     "win_count": 18,
     "rank": 3875,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x490f66ea703fc8fae19fd231c9921e3f4c0c17e5",
+    "trader_name": "aureli",
+    "tag": "Overall",
+    "overall_gain": 29254.38906590635,
+    "active_positions": 1761,
+    "win_amount": 46772.44861624206,
+    "loss_amount": -17518.059550335707,
+    "win_rate": 0.511023622047244,
+    "total_current_value": 15168.241909698996,
+    "total_positions": 8969,
+    "event_ct": 1270,
+    "win_count": 649,
+    "rank": 3876,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
