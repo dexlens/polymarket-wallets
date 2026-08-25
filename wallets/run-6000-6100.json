@@ -350,5 +350,21 @@
     "win_count": 192,
     "rank": 6022,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9ac3725a7df5fbf508ad01154ed5c28471676f93",
+    "trader_name": "JoliveJ",
+    "tag": "Overall",
+    "overall_gain": 17811.101176512722,
+    "active_positions": 4,
+    "win_amount": 48663.93230332566,
+    "loss_amount": -30852.831126812944,
+    "win_rate": 0.41317365269461076,
+    "total_current_value": 0.060601999999999996,
+    "total_positions": 234,
+    "event_ct": 167,
+    "win_count": 69,
+    "rank": 6023,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
