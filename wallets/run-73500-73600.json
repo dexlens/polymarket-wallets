@@ -126,5 +126,21 @@
     "win_count": 4,
     "rank": 73509,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x03b5c7d83017535cdda414854a26447d8e6477ba",
+    "trader_name": "tiwin",
+    "tag": "Overall",
+    "overall_gain": 735.386636591538,
+    "active_positions": 0,
+    "win_amount": 735.386636591538,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.013437999999999999,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 73510,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
