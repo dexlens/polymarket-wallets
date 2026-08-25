@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 89183,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3c2df479dd483d5b9263739d6aa6c94dccef26f2",
+    "trader_name": "nlin2",
+    "tag": "Overall",
+    "overall_gain": 499.6876002662022,
+    "active_positions": 5,
+    "win_amount": 814.3423802662018,
+    "loss_amount": -314.65478,
+    "win_rate": 0.9922077922077922,
+    "total_current_value": 6.988166000000001,
+    "total_positions": 744,
+    "event_ct": 385,
+    "win_count": 382,
+    "rank": 89184,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
