@@ -542,5 +542,21 @@
     "win_count": 253,
     "rank": 8834,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8be8a7376f3789a101e15aa74d2acea502240425",
+    "trader_name": "pelata",
+    "tag": "Overall",
+    "overall_gain": 11857.675677552277,
+    "active_positions": 21,
+    "win_amount": 21292.505021680343,
+    "loss_amount": -9434.829344128068,
+    "win_rate": 0.6176470588235294,
+    "total_current_value": 36081.045037876014,
+    "total_positions": 58,
+    "event_ct": 34,
+    "win_count": 21,
+    "rank": 8835,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
