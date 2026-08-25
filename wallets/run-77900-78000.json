@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 77915,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e7177d000b5032e9ab34c51d8c01670286d83ed",
+    "trader_name": "tt5m",
+    "tag": "Overall",
+    "overall_gain": 665.3351164913923,
+    "active_positions": 57,
+    "win_amount": 3592.89357332911,
+    "loss_amount": -2927.55845683772,
+    "win_rate": 0.5087719298245614,
+    "total_current_value": 54.72106099999999,
+    "total_positions": 131,
+    "event_ct": 114,
+    "win_count": 58,
+    "rank": 77916,
+    "trader_tags": "< 30 days old"
   }
 ]
