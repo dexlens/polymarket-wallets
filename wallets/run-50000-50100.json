@@ -1502,5 +1502,21 @@
     "win_count": 2,
     "rank": 50095,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49a8d89e111d530021a91de83d8781461923cc1d",
+    "trader_name": "aznel",
+    "tag": "Overall",
+    "overall_gain": 1480.0436232522,
+    "active_positions": 5,
+    "win_amount": 1693.0426232522,
+    "loss_amount": -212.99900000000002,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 799.97783,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 50096,
+    "trader_tags": "> 1 year old"
   }
 ]
