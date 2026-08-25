@@ -1246,5 +1246,21 @@
     "win_count": 2,
     "rank": 65379,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd8c72789b56182414d9b9176bdbfa7236ba40e95",
+    "trader_name": "jetlagged22",
+    "tag": "Overall",
+    "overall_gain": 933.7868649834418,
+    "active_positions": 21,
+    "win_amount": 4020.637563247867,
+    "loss_amount": -3086.8506982644244,
+    "win_rate": 0.4235294117647059,
+    "total_current_value": 4838.041374625,
+    "total_positions": 101,
+    "event_ct": 85,
+    "win_count": 36,
+    "rank": 65380,
+    "trader_tags": "< 30 days old"
   }
 ]
