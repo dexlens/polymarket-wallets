@@ -206,5 +206,21 @@
     "win_count": 20,
     "rank": 12313,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6335b3ad24f6fd814c9bd083e4ab79926904ca2b",
+    "trader_name": "hall.in.ass",
+    "tag": "Overall",
+    "overall_gain": 8293.790841007856,
+    "active_positions": 51,
+    "win_amount": 11263.30126081771,
+    "loss_amount": -2969.5104198098443,
+    "win_rate": 0.8430493273542601,
+    "total_current_value": 1321.2381158105,
+    "total_positions": 2099,
+    "event_ct": 892,
+    "win_count": 752,
+    "rank": 12314,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
