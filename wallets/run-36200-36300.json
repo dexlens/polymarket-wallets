@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 36300,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03518d96823446609435f9926fac1db8d30f0be4",
+    "trader_name": "rtrsb",
+    "tag": "Overall",
+    "overall_gain": 2239.925,
+    "active_positions": 2,
+    "win_amount": 2241.5,
+    "loss_amount": -1.5749999999999957,
+    "win_rate": 0.75,
+    "total_current_value": 28.665000000000003,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 36301,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
