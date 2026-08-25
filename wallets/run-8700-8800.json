@@ -1230,5 +1230,21 @@
     "win_count": 21,
     "rank": 8777,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8cf08801c113354b8c09935f9f9a1e6a31a43e5f",
+    "trader_name": "foxy",
+    "tag": "Overall",
+    "overall_gain": 11942.40279588868,
+    "active_positions": 5,
+    "win_amount": 11942.40279588868,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 243.4463265,
+    "total_positions": 36,
+    "event_ct": 14,
+    "win_count": 14,
+    "rank": 8778,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
