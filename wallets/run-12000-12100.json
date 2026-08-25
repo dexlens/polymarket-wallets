@@ -1198,5 +1198,21 @@
     "win_count": 25,
     "rank": 12075,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x477a9ed0f130990efe58317aacd3cee83c83f775",
+    "trader_name": "juice-pep",
+    "tag": "Overall",
+    "overall_gain": 8518.987313999998,
+    "active_positions": 0,
+    "win_amount": 16522.402975,
+    "loss_amount": -8003.415661,
+    "win_rate": 0.1414790996784566,
+    "total_current_value": 0,
+    "total_positions": 635,
+    "event_ct": 622,
+    "win_count": 88,
+    "rank": 12076,
+    "trader_tags": ""
   }
 ]
