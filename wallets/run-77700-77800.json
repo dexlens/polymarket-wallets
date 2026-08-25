@@ -1022,5 +1022,21 @@
     "win_count": 6,
     "rank": 77765,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9c454d71347770e1504c8f0abf805848d59c19cb",
+    "trader_name": "tentrend",
+    "tag": "Overall",
+    "overall_gain": 667.9916906048021,
+    "active_positions": 6,
+    "win_amount": 1022.7979550324451,
+    "loss_amount": -354.806264427643,
+    "win_rate": 0.91,
+    "total_current_value": 0.0651696,
+    "total_positions": 108,
+    "event_ct": 100,
+    "win_count": 91,
+    "rank": 77766,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
