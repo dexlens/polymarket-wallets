@@ -94,5 +94,21 @@
     "win_count": 3,
     "rank": 5406,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18724471b0fdc13b34422a8fc95975672ceaeff8",
+    "trader_name": "ellisrosa0902",
+    "tag": "Overall",
+    "overall_gain": 20024.64,
+    "active_positions": 6,
+    "win_amount": 35237.14,
+    "loss_amount": -15212.5,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 5407,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
