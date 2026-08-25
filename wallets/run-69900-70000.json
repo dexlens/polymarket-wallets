@@ -990,5 +990,21 @@
     "win_count": 3,
     "rank": 69963,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x801b8a0b4bb0f78de02580a6257e730742a0452b",
+    "trader_name": "Jason654",
+    "tag": "Overall",
+    "overall_gain": 811.334681730631,
+    "active_positions": 1,
+    "win_amount": 911.3344395144481,
+    "loss_amount": -99.99975778381699,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.01466,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 69964,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
