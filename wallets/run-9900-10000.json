@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 9967,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9dc1a3bef22da1c552d292036c564f65a4e5afa9",
+    "trader_name": "Nickgun",
+    "tag": "Overall",
+    "overall_gain": 10517.720712893128,
+    "active_positions": 1,
+    "win_amount": 10643.632636,
+    "loss_amount": -125.911923106873,
+    "win_rate": 0.7,
+    "total_current_value": 0.007916000000000001,
+    "total_positions": 23,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 9968,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
