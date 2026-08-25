@@ -1214,5 +1214,21 @@
     "win_count": 8,
     "rank": 61277,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2fe82235c63d2c76dfcb22bf5112305840137a9b",
+    "trader_name": "LeChevreChaud",
+    "tag": "Overall",
+    "overall_gain": 1040.4868430731526,
+    "active_positions": 1,
+    "win_amount": 14277.688473123624,
+    "loss_amount": -13237.201630050471,
+    "win_rate": 0.9245368791908172,
+    "total_current_value": 81.79584184099996,
+    "total_positions": 8835,
+    "event_ct": 8799,
+    "win_count": 8135,
+    "rank": 61278,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
