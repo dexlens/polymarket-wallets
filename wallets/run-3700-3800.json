@@ -1374,5 +1374,21 @@
     "win_count": 62,
     "rank": 3786,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x996cc26aff034243e563a88624666d05fa9fd8b9",
+    "trader_name": "hi1234",
+    "tag": "Overall",
+    "overall_gain": 30103.441567116086,
+    "active_positions": 13,
+    "win_amount": 38540.222538301336,
+    "loss_amount": -8436.780971185246,
+    "win_rate": 0.46551724137931033,
+    "total_current_value": 0.07121400000000001,
+    "total_positions": 64,
+    "event_ct": 58,
+    "win_count": 27,
+    "rank": 3787,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
