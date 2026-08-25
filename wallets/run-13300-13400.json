@@ -686,5 +686,21 @@
     "win_count": 14,
     "rank": 13343,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55924d12795f5a81a334d324b5bf00af8aafd63c",
+    "trader_name": "qap123",
+    "tag": "Overall",
+    "overall_gain": 7483.442845912124,
+    "active_positions": 140,
+    "win_amount": 17402.740773999994,
+    "loss_amount": -9919.297928087872,
+    "win_rate": 0.43548387096774194,
+    "total_current_value": 0,
+    "total_positions": 255,
+    "event_ct": 248,
+    "win_count": 108,
+    "rank": 13344,
+    "trader_tags": "< 30 days old"
   }
 ]
