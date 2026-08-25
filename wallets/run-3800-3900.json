@@ -1438,5 +1438,21 @@
     "win_count": 5,
     "rank": 3890,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x379218d385f694b27420862eddfac10d9996e8ca",
+    "trader_name": "toktiktok",
+    "tag": "Overall",
+    "overall_gain": 29089.433437710955,
+    "active_positions": 8,
+    "win_amount": 29098.433437710955,
+    "loss_amount": -9,
+    "win_rate": 0.9642857142857143,
+    "total_current_value": 15.884908376500002,
+    "total_positions": 81,
+    "event_ct": 28,
+    "win_count": 27,
+    "rank": 3891,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
