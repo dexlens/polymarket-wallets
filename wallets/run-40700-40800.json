@@ -718,5 +718,21 @@
     "win_count": 2,
     "rank": 40746,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfcfcdcd82e0eb552329cfca123b85bbade039836",
+    "trader_name": "pimmo",
+    "tag": "Overall",
+    "overall_gain": 1950.5846731365118,
+    "active_positions": 1,
+    "win_amount": 7172.729840367004,
+    "loss_amount": -5222.145167230492,
+    "win_rate": 0.90625,
+    "total_current_value": 0.096743,
+    "total_positions": 83,
+    "event_ct": 64,
+    "win_count": 58,
+    "rank": 40747,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
