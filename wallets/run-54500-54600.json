@@ -798,5 +798,21 @@
     "win_count": 549,
     "rank": 54551,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6d6cfc9f1d1ad9221c05cd515e631e5399ff8e1c",
+    "trader_name": "Corrorhythm",
+    "tag": "Overall",
+    "overall_gain": 1278.2900000000002,
+    "active_positions": 3,
+    "win_amount": 1906.2900000000002,
+    "loss_amount": -628,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 54552,
+    "trader_tags": ""
   }
 ]
