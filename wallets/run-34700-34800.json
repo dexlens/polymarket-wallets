@@ -1086,5 +1086,21 @@
     "win_count": 3,
     "rank": 34769,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x577bc16f4309dc432499bcbb9757d3227ca1bff6",
+    "trader_name": "FIMA001",
+    "tag": "Overall",
+    "overall_gain": 2360.241480230516,
+    "active_positions": 12,
+    "win_amount": 30256.430394119994,
+    "loss_amount": -27896.188913889462,
+    "win_rate": 0.5023148148148148,
+    "total_current_value": 402.246921153,
+    "total_positions": 942,
+    "event_ct": 864,
+    "win_count": 434,
+    "rank": 34770,
+    "trader_tags": "< 30 days old"
   }
 ]
