@@ -222,5 +222,21 @@
     "win_count": 22,
     "rank": 9914,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3ef2da3f03e050d2d4694cab487b0b15b94eefe6",
+    "trader_name": "Mildrith",
+    "tag": "Overall",
+    "overall_gain": 10576.369806175306,
+    "active_positions": 5,
+    "win_amount": 12256.36618517793,
+    "loss_amount": -1679.9963790026252,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 27.992890436,
+    "total_positions": 15,
+    "event_ct": 14,
+    "win_count": 13,
+    "rank": 9915,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
