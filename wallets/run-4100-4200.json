@@ -110,5 +110,21 @@
     "win_count": 7,
     "rank": 4107,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4d59e4c467ae134978e5955e70195006be9d9a12",
+    "trader_name": "veldrum47",
+    "tag": "Overall",
+    "overall_gain": 27265.468245142038,
+    "active_positions": 42,
+    "win_amount": 79886.19499996192,
+    "loss_amount": -52620.72675481988,
+    "win_rate": 0.5688405797101449,
+    "total_current_value": 10.568491,
+    "total_positions": 5950,
+    "event_ct": 3036,
+    "win_count": 1727,
+    "rank": 4108,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
