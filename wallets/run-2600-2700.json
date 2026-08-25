@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 2629,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x9c5e23c9d5273ebdadc7b9e781a48d57808dcd62",
+    "trader_name": "jacob1",
+    "tag": "Overall",
+    "overall_gain": 44251.452776,
+    "active_positions": 0,
+    "win_amount": 44251.452776,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 2630,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
