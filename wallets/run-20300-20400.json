@@ -142,5 +142,21 @@
     "win_count": 12,
     "rank": 20309,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x58d65fdf0151e93e442edf765b2283e363922107",
+    "trader_name": "TradeForProfit",
+    "tag": "Overall",
+    "overall_gain": 4547.565661,
+    "active_positions": 0,
+    "win_amount": 4547.565661,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 20310,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
