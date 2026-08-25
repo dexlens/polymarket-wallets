@@ -622,5 +622,21 @@
     "win_count": 6,
     "rank": 7539,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98247a96dd7589a059046972e5a3c40fe3d2fdce",
+    "trader_name": "XT79C3fsi",
+    "tag": "Overall",
+    "overall_gain": 14063.8287587553,
+    "active_positions": 13,
+    "win_amount": 23337.828756755298,
+    "loss_amount": -9273.999998,
+    "win_rate": 0.6071428571428571,
+    "total_current_value": 6.030299,
+    "total_positions": 29,
+    "event_ct": 28,
+    "win_count": 17,
+    "rank": 7540,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
