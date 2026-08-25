@@ -1278,5 +1278,21 @@
     "win_count": 3,
     "rank": 9080,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58e213ac990f8ef2e5e8ef9106082298184fdfea",
+    "trader_name": "cashsquared",
+    "tag": "Overall",
+    "overall_gain": 11547.882377966356,
+    "active_positions": 9,
+    "win_amount": 26677.79384676152,
+    "loss_amount": -15129.911468795157,
+    "win_rate": 0.8292682926829268,
+    "total_current_value": 10083.267726425,
+    "total_positions": 48,
+    "event_ct": 41,
+    "win_count": 34,
+    "rank": 9081,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
