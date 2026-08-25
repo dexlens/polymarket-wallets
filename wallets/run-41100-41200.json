@@ -1022,5 +1022,21 @@
     "win_count": 2,
     "rank": 41165,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x72e1597864456eda62878413cf3e60c332e4a45d",
+    "trader_name": "ArbTraderRookie",
+    "tag": "Overall",
+    "overall_gain": 1924.9715487628725,
+    "active_positions": 1,
+    "win_amount": 2856.4443197628716,
+    "loss_amount": -931.4727709999999,
+    "win_rate": 0.9709141274238227,
+    "total_current_value": 2.948599,
+    "total_positions": 1972,
+    "event_ct": 722,
+    "win_count": 701,
+    "rank": 41166,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
