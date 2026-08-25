@@ -1038,5 +1038,21 @@
     "win_count": 26,
     "rank": 9865,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x815525b3c0b286237bc67f47efd6226cea255377",
+    "trader_name": "kitteh",
+    "tag": "Overall",
+    "overall_gain": 10627.014106077133,
+    "active_positions": 5,
+    "win_amount": 16295.879381568393,
+    "loss_amount": -5668.86527549126,
+    "win_rate": 0.5625,
+    "total_current_value": 1421.8025709999997,
+    "total_positions": 109,
+    "event_ct": 80,
+    "win_count": 45,
+    "rank": 9866,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
