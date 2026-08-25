@@ -1150,5 +1150,21 @@
     "win_count": 3,
     "rank": 45673,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29cec8c33850fc30b5160bb94719232f106e6788",
+    "trader_name": "Voltband",
+    "tag": "Overall",
+    "overall_gain": 1682.46,
+    "active_positions": 2,
+    "win_amount": 2913.66,
+    "loss_amount": -1231.2,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 45674,
+    "trader_tags": ""
   }
 ]
