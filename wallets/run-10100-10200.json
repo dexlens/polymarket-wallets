@@ -1470,5 +1470,21 @@
     "win_count": 118,
     "rank": 10192,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x6f9866bc0e467d37025e037944c491dd31dad83f",
+    "trader_name": "caoca0",
+    "tag": "Overall",
+    "overall_gain": 10309.434612447134,
+    "active_positions": 46,
+    "win_amount": 10370.5193057294,
+    "loss_amount": -61.084693282267,
+    "win_rate": 0.5576923076923077,
+    "total_current_value": 7.611739,
+    "total_positions": 111,
+    "event_ct": 104,
+    "win_count": 58,
+    "rank": 10193,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
