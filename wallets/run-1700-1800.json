@@ -750,5 +750,21 @@
     "win_count": 6,
     "rank": 1747,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf0d8d8c22d1e80257deebd45706c4c4ec7f168ca",
+    "trader_name": "alwaysthrivin",
+    "tag": "Overall",
+    "overall_gain": 70306.55100675549,
+    "active_positions": 2,
+    "win_amount": 109481.59824226436,
+    "loss_amount": -39175.04723550886,
+    "win_rate": 0.943089430894309,
+    "total_current_value": 9878.672693249999,
+    "total_positions": 165,
+    "event_ct": 123,
+    "win_count": 116,
+    "rank": 1748,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
