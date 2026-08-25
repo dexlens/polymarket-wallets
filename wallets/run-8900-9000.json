@@ -1582,5 +1582,21 @@
     "win_count": 19,
     "rank": 8999,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x97db47a5f70af6a9e68e190e841605829aa48513",
+    "trader_name": "Krysolis",
+    "tag": "Overall",
+    "overall_gain": 11650.961246947754,
+    "active_positions": 7,
+    "win_amount": 13998.581223299998,
+    "loss_amount": -2347.619976352243,
+    "win_rate": 0.8809523809523809,
+    "total_current_value": 10.00015,
+    "total_positions": 49,
+    "event_ct": 42,
+    "win_count": 37,
+    "rank": 9000,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
