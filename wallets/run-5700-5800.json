@@ -910,5 +910,21 @@
     "win_count": 2,
     "rank": 5757,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1dd17e22aaf80db74706d3771843aeba576fc5eb",
+    "trader_name": "light-fox",
+    "tag": "Overall",
+    "overall_gain": 18688.247613,
+    "active_positions": 0,
+    "win_amount": 70040.616551,
+    "loss_amount": -51352.36893799999,
+    "win_rate": 0.6060606060606061,
+    "total_current_value": 0,
+    "total_positions": 452,
+    "event_ct": 429,
+    "win_count": 260,
+    "rank": 5758,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
