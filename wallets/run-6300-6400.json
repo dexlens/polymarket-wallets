@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 6312,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd3038ba4e67c1c7fca8820c121b677ace5329ae",
+    "trader_name": "gjp",
+    "tag": "Overall",
+    "overall_gain": 16961.136906928998,
+    "active_positions": 0,
+    "win_amount": 16961.136906928998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.050415,
+    "total_positions": 11,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 6313,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
