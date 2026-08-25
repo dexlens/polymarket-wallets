@@ -78,5 +78,21 @@
     "win_count": 20,
     "rank": 3005,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbd5ca9c36e3c9bb3574007b46c401554ed33f5c4",
+    "trader_name": "TeamBybit",
+    "tag": "Overall",
+    "overall_gain": 38210.39445151104,
+    "active_positions": 15,
+    "win_amount": 44441.39445151104,
+    "loss_amount": -6231,
+    "win_rate": 0.9722222222222222,
+    "total_current_value": 26.254378808,
+    "total_positions": 100,
+    "event_ct": 36,
+    "win_count": 35,
+    "rank": 3006,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
