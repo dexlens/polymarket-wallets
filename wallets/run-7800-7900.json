@@ -894,5 +894,21 @@
     "win_count": 23,
     "rank": 7856,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3cd63e65f3df4aaf8ebe9de56fe5f8f633b218e4",
+    "trader_name": "HerbertAppreciator",
+    "tag": "Overall",
+    "overall_gain": 13409.027834986535,
+    "active_positions": 17,
+    "win_amount": 31792.148477251536,
+    "loss_amount": -18383.120642265,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 89213.66833765799,
+    "total_positions": 21,
+    "event_ct": 11,
+    "win_count": 4,
+    "rank": 7857,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
