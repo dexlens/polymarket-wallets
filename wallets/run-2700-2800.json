@@ -142,5 +142,21 @@
     "win_count": 5,
     "rank": 2709,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf566870ca3c50e5863275364fa6d764f8e8f1386",
+    "trader_name": "PropheticFire",
+    "tag": "Overall",
+    "overall_gain": 42934.84090061347,
+    "active_positions": 7,
+    "win_amount": 57065.90392599715,
+    "loss_amount": -14131.063025383684,
+    "win_rate": 0.6511627906976745,
+    "total_current_value": 21747.159633821004,
+    "total_positions": 58,
+    "event_ct": 43,
+    "win_count": 28,
+    "rank": 2710,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
