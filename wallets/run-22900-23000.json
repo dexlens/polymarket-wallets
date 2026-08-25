@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 22914,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc8915d60915514ce1bb59bba708055e47a34a35e",
+    "trader_name": "ACSA",
+    "tag": "Overall",
+    "overall_gain": 3934.891732184216,
+    "active_positions": 3338,
+    "win_amount": 162846.54983169885,
+    "loss_amount": -158911.65809951464,
+    "win_rate": 0.687125748502994,
+    "total_current_value": 633.4305173749999,
+    "total_positions": 19038,
+    "event_ct": 17368,
+    "win_count": 11934,
+    "rank": 22915,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
