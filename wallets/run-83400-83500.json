@@ -558,5 +558,21 @@
     "win_count": 8,
     "rank": 83436,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x71553b3ce6daf9407ef6e93cd969fd2e0283d866",
+    "trader_name": "kaifu-lodge",
+    "tag": "Overall",
+    "overall_gain": 575.282305,
+    "active_positions": 12,
+    "win_amount": 2446.9451990000002,
+    "loss_amount": -1871.6628939999998,
+    "win_rate": 0.5606060606060606,
+    "total_current_value": 3061.4500000000003,
+    "total_positions": 80,
+    "event_ct": 66,
+    "win_count": 37,
+    "rank": 83437,
+    "trader_tags": ""
   }
 ]
