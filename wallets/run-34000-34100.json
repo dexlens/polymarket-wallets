@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 34042,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0782ec36634df38e66bc04986818f200ad7040dd",
+    "trader_name": "Poliduque",
+    "tag": "Overall",
+    "overall_gain": 2421.4459102691108,
+    "active_positions": 0,
+    "win_amount": 2816.7385066441025,
+    "loss_amount": -395.29259637499194,
+    "win_rate": 0.3684210526315789,
+    "total_current_value": 0.0949162255,
+    "total_positions": 134,
+    "event_ct": 95,
+    "win_count": 35,
+    "rank": 34043,
+    "trader_tags": ""
   }
 ]
