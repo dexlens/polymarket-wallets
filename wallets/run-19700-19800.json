@@ -958,5 +958,21 @@
     "win_count": 2,
     "rank": 19760,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e677d9883f9e5b745a71d06a49cc43e6d3d2a9c",
+    "trader_name": "fhTRT",
+    "tag": "Overall",
+    "overall_gain": 4691.192462940002,
+    "active_positions": 7,
+    "win_amount": 8875.6426,
+    "loss_amount": -4184.450137060001,
+    "win_rate": 0.5,
+    "total_current_value": 44,
+    "total_positions": 19,
+    "event_ct": 18,
+    "win_count": 9,
+    "rank": 19761,
+    "trader_tags": "> 1 year old"
   }
 ]
