@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 42496,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90317fc582ed10b465cbff9ce7db3f510d85abfc",
+    "trader_name": "ertg36",
+    "tag": "Overall",
+    "overall_gain": 1848.9352617139366,
+    "active_positions": 9,
+    "win_amount": 3321.39472967432,
+    "loss_amount": -1472.4594679603829,
+    "win_rate": 0.6792452830188679,
+    "total_current_value": 90.832044915,
+    "total_positions": 55,
+    "event_ct": 53,
+    "win_count": 36,
+    "rank": 42497,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
