@@ -1038,5 +1038,21 @@
     "win_count": 4,
     "rank": 26166,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x43d70fa743220db585abe6950e23b7f0afa51ca0",
+    "trader_name": "btte",
+    "tag": "Overall",
+    "overall_gain": 3342.9932320000003,
+    "active_positions": 1,
+    "win_amount": 3342.9932320000003,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 16.79,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 26167,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
