@@ -1390,5 +1390,21 @@
     "win_count": 7,
     "rank": 75988,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2224f2cf90abab27c699f8e1cdb9adf39932b7ca",
+    "trader_name": "Number7isking",
+    "tag": "Overall",
+    "overall_gain": 699.0296685726971,
+    "active_positions": 40,
+    "win_amount": 1121.5749774863477,
+    "loss_amount": -422.5453089136509,
+    "win_rate": 0.76,
+    "total_current_value": 1711.2211594409998,
+    "total_positions": 153,
+    "event_ct": 75,
+    "win_count": 57,
+    "rank": 75989,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
