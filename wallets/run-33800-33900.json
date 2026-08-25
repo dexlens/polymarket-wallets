@@ -1390,5 +1390,21 @@
     "win_count": 46,
     "rank": 33888,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x033de06517ded4004178b2536f43b50f67f49ae9",
+    "trader_name": "JJReddik",
+    "tag": "Overall",
+    "overall_gain": 2433.751438704153,
+    "active_positions": 4,
+    "win_amount": 2580.636267984113,
+    "loss_amount": -146.88482927996003,
+    "win_rate": 0.84375,
+    "total_current_value": 0.009076255,
+    "total_positions": 37,
+    "event_ct": 32,
+    "win_count": 27,
+    "rank": 33889,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
