@@ -718,5 +718,21 @@
     "win_count": 5,
     "rank": 84246,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf38d693879159e80131989bde3132429d79a2d86",
+    "trader_name": "Orelise",
+    "tag": "Overall",
+    "overall_gain": 563.0539600000001,
+    "active_positions": 2,
+    "win_amount": 1014.2137999999999,
+    "loss_amount": -451.15984,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 84247,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
