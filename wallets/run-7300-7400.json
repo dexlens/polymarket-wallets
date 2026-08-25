@@ -766,5 +766,21 @@
     "win_count": 12,
     "rank": 7348,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x0b56f40d788effa14082baa999e562d543a51669",
+    "trader_name": "sadlemon",
+    "tag": "Overall",
+    "overall_gain": 14486.693021471538,
+    "active_positions": 1,
+    "win_amount": 51362.031493471535,
+    "loss_amount": -36875.338471999996,
+    "win_rate": 0.5786736020806242,
+    "total_current_value": 5.711537,
+    "total_positions": 5166,
+    "event_ct": 3845,
+    "win_count": 2225,
+    "rank": 7349,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
