@@ -430,5 +430,21 @@
     "win_count": 5,
     "rank": 8127,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b1ec409d90f521f379ecec6948c5def7d028921",
+    "trader_name": "Phyros",
+    "tag": "Overall",
+    "overall_gain": 12943.271969038917,
+    "active_positions": 3,
+    "win_amount": 12965.071877000002,
+    "loss_amount": -21.799907961085,
+    "win_rate": 0.7755102040816326,
+    "total_current_value": 0,
+    "total_positions": 52,
+    "event_ct": 49,
+    "win_count": 38,
+    "rank": 8128,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
