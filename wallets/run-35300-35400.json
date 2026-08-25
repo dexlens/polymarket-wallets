@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 35389,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83b835323077b4475e38eb77628df90fc6a5d1fb",
+    "trader_name": "dtbdesign",
+    "tag": "Overall",
+    "overall_gain": 2309.733024457414,
+    "active_positions": 2,
+    "win_amount": 3099.2954884744213,
+    "loss_amount": -789.562464017007,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.065453,
+    "total_positions": 34,
+    "event_ct": 33,
+    "win_count": 21,
+    "rank": 35390,
+    "trader_tags": "> 1 year old"
   }
 ]
