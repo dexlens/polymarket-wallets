@@ -110,5 +110,21 @@
     "win_count": 35,
     "rank": 39608,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7e0894db35b25a874ac1a69d7f6aa3cba9c0dbb2",
+    "trader_name": "sundering",
+    "tag": "Overall",
+    "overall_gain": 2015,
+    "active_positions": 0,
+    "win_amount": 2015,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 39609,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
