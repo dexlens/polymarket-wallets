@@ -782,5 +782,21 @@
     "win_count": 4,
     "rank": 29750,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x83a46db685d622cfcf6ae1711ba51791206934b1",
+    "trader_name": "askdjwe",
+    "tag": "Overall",
+    "overall_gain": 2850.990827817145,
+    "active_positions": 1,
+    "win_amount": 2906.983451,
+    "loss_amount": -55.992623182855006,
+    "win_rate": 0.35294117647058826,
+    "total_current_value": 0.028524510000000003,
+    "total_positions": 27,
+    "event_ct": 17,
+    "win_count": 6,
+    "rank": 29751,
+    "trader_tags": ""
   }
 ]
