@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 48839,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd416d3309f75426c82a5158cdcb209780af2d9e2",
+    "trader_name": "Annihilation",
+    "tag": "Overall",
+    "overall_gain": 1535.50014899188,
+    "active_positions": 31,
+    "win_amount": 7908.912887665037,
+    "loss_amount": -6373.412738673157,
+    "win_rate": 0.6062992125984252,
+    "total_current_value": 1522.0178788009998,
+    "total_positions": 274,
+    "event_ct": 127,
+    "win_count": 77,
+    "rank": 48840,
+    "trader_tags": ""
   }
 ]
