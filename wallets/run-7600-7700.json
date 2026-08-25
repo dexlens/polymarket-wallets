@@ -1342,5 +1342,21 @@
     "win_count": 5,
     "rank": 7684,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6dc4bf9d9be9b28e303c3ff1c403fc04e3bc6770",
+    "trader_name": "RealMaxNick",
+    "tag": "Overall",
+    "overall_gain": 13771.652539133587,
+    "active_positions": 146,
+    "win_amount": 47253.330577241235,
+    "loss_amount": -33481.678038107646,
+    "win_rate": 0.6538461538461539,
+    "total_current_value": 90930.540209951,
+    "total_positions": 501,
+    "event_ct": 130,
+    "win_count": 85,
+    "rank": 7685,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
