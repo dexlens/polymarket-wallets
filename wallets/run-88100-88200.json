@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 88140,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x75a3197e6e46a7ac49356cb4ad2671dd3e8a5fd5",
+    "trader_name": "polygoner",
+    "tag": "Overall",
+    "overall_gain": 511.2952813153339,
+    "active_positions": 4,
+    "win_amount": 4136.128337315335,
+    "loss_amount": -3624.8330559999995,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 3315.871675825,
+    "total_positions": 157,
+    "event_ct": 120,
+    "win_count": 100,
+    "rank": 88141,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
