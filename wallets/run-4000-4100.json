@@ -382,5 +382,21 @@
     "win_count": 45,
     "rank": 4024,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29dcbe7a1cb56710e42d47d875c11913cd4e992a",
+    "trader_name": "mezoteric",
+    "tag": "Overall",
+    "overall_gain": 27862.955304915547,
+    "active_positions": 0,
+    "win_amount": 27862.955304915547,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001695,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 4025,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
