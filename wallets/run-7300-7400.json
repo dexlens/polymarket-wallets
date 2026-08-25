@@ -1326,5 +1326,21 @@
     "win_count": 13,
     "rank": 7383,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x178e5f04f700ff02c37f6ec53159acce06dc76f7",
+    "trader_name": "tonytony",
+    "tag": "Overall",
+    "overall_gain": 14411.367511594603,
+    "active_positions": 36,
+    "win_amount": 278758.33173142,
+    "loss_amount": -264346.96421982534,
+    "win_rate": 0.5363128491620112,
+    "total_current_value": 0.002711,
+    "total_positions": 194,
+    "event_ct": 179,
+    "win_count": 96,
+    "rank": 7384,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
