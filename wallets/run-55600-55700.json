@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 55657,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7318a6289ae8bc7f7debc603452c3f146f251d31",
+    "trader_name": "bigtease",
+    "tag": "Overall",
+    "overall_gain": 1231.854290436217,
+    "active_positions": 0,
+    "win_amount": 1260.942290436217,
+    "loss_amount": -29.088,
+    "win_rate": 0.8,
+    "total_current_value": 0.005902,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 55658,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
