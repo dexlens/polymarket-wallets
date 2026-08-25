@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 8099,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8dfae68846300ff650ecb0363cc27dabbc3a2ab5",
+    "trader_name": "DIANASARAZEN",
+    "tag": "Overall",
+    "overall_gain": 12989.0425,
+    "active_positions": 6,
+    "win_amount": 19536.5425,
+    "loss_amount": -6547.5,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 8100,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
