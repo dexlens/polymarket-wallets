@@ -718,5 +718,21 @@
     "win_count": 305,
     "rank": 4445,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x204b4cdc0bc88253c67abc858514ad2864666a5c",
+    "trader_name": "Telluxion",
+    "tag": "Overall",
+    "overall_gain": 24941.237061810312,
+    "active_positions": 22,
+    "win_amount": 28863.892294293244,
+    "loss_amount": -3922.6552324829286,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 32452.043327940002,
+    "total_positions": 118,
+    "event_ct": 60,
+    "win_count": 32,
+    "rank": 4446,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
