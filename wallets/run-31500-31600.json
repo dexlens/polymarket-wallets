@@ -1246,5 +1246,21 @@
     "win_count": 6,
     "rank": 31579,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x462af39a47627088097939258e75514bf8e3d36d",
+    "trader_name": "SEN987654",
+    "tag": "Overall",
+    "overall_gain": 2643.060665773959,
+    "active_positions": 9,
+    "win_amount": 2776.400276133297,
+    "loss_amount": -133.339610359338,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0.045362,
+    "total_positions": 45,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 31580,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
