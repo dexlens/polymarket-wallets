@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 47513,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x941f8b10cd5abc82ada81ebfb312482800e0acfa",
+    "trader_name": "Vargas10",
+    "tag": "Overall",
+    "overall_gain": 1593.8096853390496,
+    "active_positions": 11,
+    "win_amount": 6126.204883960885,
+    "loss_amount": -4532.395198621835,
+    "win_rate": 0.4305555555555556,
+    "total_current_value": 0.1704654415,
+    "total_positions": 80,
+    "event_ct": 72,
+    "win_count": 31,
+    "rank": 47514,
+    "trader_tags": "> 1 year old"
   }
 ]
