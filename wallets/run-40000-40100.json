@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 40044,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd653d2b7f20e25d4cbe9e4a2d19c81a78b164bc",
+    "trader_name": "fdxh",
+    "tag": "Overall",
+    "overall_gain": 1992.21536275616,
+    "active_positions": 1,
+    "win_amount": 2679.214253991645,
+    "loss_amount": -686.998891235485,
+    "win_rate": 0.8,
+    "total_current_value": 0.033418,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 40045,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
