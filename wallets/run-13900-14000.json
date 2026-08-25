@@ -1518,5 +1518,21 @@
     "win_count": 10,
     "rank": 13995,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdbd42589202c77d775d7bdcb40b865f641b50064",
+    "trader_name": "csdsq",
+    "tag": "Overall",
+    "overall_gain": 7053.050951099033,
+    "active_positions": 0,
+    "win_amount": 8997.540951099034,
+    "loss_amount": -1944.49,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.000033,
+    "total_positions": 40,
+    "event_ct": 27,
+    "win_count": 21,
+    "rank": 13996,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
