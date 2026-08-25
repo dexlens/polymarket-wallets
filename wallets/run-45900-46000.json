@@ -798,5 +798,21 @@
     "win_count": 90,
     "rank": 45951,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29f8405644d98e257d256fdb4844f8e96df728e5",
+    "trader_name": "chen3",
+    "tag": "Overall",
+    "overall_gain": 1668.5947634095498,
+    "active_positions": 0,
+    "win_amount": 3331.496123446867,
+    "loss_amount": -1662.9013600373169,
+    "win_rate": 0.5789473684210527,
+    "total_current_value": 0.008825,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 11,
+    "rank": 45952,
+    "trader_tags": "> 1 year old"
   }
 ]
