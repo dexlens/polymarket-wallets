@@ -830,5 +830,21 @@
     "win_count": 7,
     "rank": 70353,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1aac6f85be211bbf6933d727de177bbc3e8fe4e2",
+    "trader_name": "Jorvath",
+    "tag": "Overall",
+    "overall_gain": 802.5112339999998,
+    "active_positions": 2,
+    "win_amount": 1903.7706899999998,
+    "loss_amount": -1101.259456,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 70354,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
