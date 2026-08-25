@@ -606,5 +606,21 @@
     "win_count": 2225,
     "rank": 56639,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x9d0464174ea15febffc3c6f0da77c9c3ac6ab7f2",
+    "trader_name": "Snowbear",
+    "tag": "Overall",
+    "overall_gain": 1193.3680102283038,
+    "active_positions": 2,
+    "win_amount": 1259.5676742283038,
+    "loss_amount": -66.19966400000001,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 5580.3905372360005,
+    "total_positions": 43,
+    "event_ct": 42,
+    "win_count": 38,
+    "rank": 56640,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
