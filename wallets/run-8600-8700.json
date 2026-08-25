@@ -174,5 +174,21 @@
     "win_count": 26,
     "rank": 8611,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x65cecd64c31fa9f7f2f2615433e7aac83c9bb90b",
+    "trader_name": "hfe.as",
+    "tag": "Overall",
+    "overall_gain": 12165.893592712582,
+    "active_positions": 92,
+    "win_amount": 15405.215491397508,
+    "loss_amount": -3239.3218986849324,
+    "win_rate": 0.7493150684931507,
+    "total_current_value": 1.5784714999999998,
+    "total_positions": 891,
+    "event_ct": 730,
+    "win_count": 547,
+    "rank": 8612,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
