@@ -1166,5 +1166,21 @@
     "win_count": 10,
     "rank": 8273,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ade1d07fd3fa1b1821e54a142f2fb3b6c01e692",
+    "trader_name": "TheGreatY2K",
+    "tag": "Overall",
+    "overall_gain": 12706.797564084554,
+    "active_positions": 8,
+    "win_amount": 79056.70506380885,
+    "loss_amount": -66349.9074997243,
+    "win_rate": 0.4631217838765009,
+    "total_current_value": 3.0838835554999995,
+    "total_positions": 1023,
+    "event_ct": 583,
+    "win_count": 270,
+    "rank": 8274,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
