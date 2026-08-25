@@ -1342,5 +1342,21 @@
     "win_count": 329,
     "rank": 2384,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xffee68014e1789aee7e2f7e1545d7dc5c3395d13",
+    "trader_name": "OneTonMan",
+    "tag": "Overall",
+    "overall_gain": 49516.22482260255,
+    "active_positions": 0,
+    "win_amount": 54321.61532260254,
+    "loss_amount": -4805.3905,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.008363,
+    "total_positions": 17,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 2385,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
