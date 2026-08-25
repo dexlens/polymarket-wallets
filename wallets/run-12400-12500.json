@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 12450,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49d5360f86c5c49f08942300776d5cafe0f32e07",
+    "trader_name": "Bitman0101",
+    "tag": "Overall",
+    "overall_gain": 8159.512090298271,
+    "active_positions": 18,
+    "win_amount": 61655.6475490122,
+    "loss_amount": -53496.135458713936,
+    "win_rate": 0.4725274725274725,
+    "total_current_value": 0.16624199999999997,
+    "total_positions": 214,
+    "event_ct": 182,
+    "win_count": 86,
+    "rank": 12451,
+    "trader_tags": "> 1 year old"
   }
 ]
