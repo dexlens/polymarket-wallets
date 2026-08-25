@@ -382,5 +382,21 @@
     "win_count": 20,
     "rank": 54225,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9deffd3e7042e8d1d4fad3a3f9b351ddcb49e94e",
+    "trader_name": "PuddingPira",
+    "tag": "Overall",
+    "overall_gain": 1293.7261655306147,
+    "active_positions": 5,
+    "win_amount": 2207.9469145306152,
+    "loss_amount": -914.2207490000001,
+    "win_rate": 0.5217391304347826,
+    "total_current_value": 0.004295475,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 12,
+    "rank": 54226,
+    "trader_tags": ""
   }
 ]
