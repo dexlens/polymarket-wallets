@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 3966,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f9848d3024efc4ea69952ea7f01cf2bced0f178",
+    "trader_name": "jackinpullout",
+    "tag": "Overall",
+    "overall_gain": 28349.34121,
+    "active_positions": 0,
+    "win_amount": 37701.481205,
+    "loss_amount": -9352.139995,
+    "win_rate": 0.95,
+    "total_current_value": 0,
+    "total_positions": 94,
+    "event_ct": 40,
+    "win_count": 38,
+    "rank": 3967,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
