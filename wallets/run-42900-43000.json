@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 43000,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc9f5426160d9a38a82d78c7a28c09d9bbbce1e40",
+    "trader_name": "lordalexff",
+    "tag": "Overall",
+    "overall_gain": 1819.1016678657904,
+    "active_positions": 64,
+    "win_amount": 10170.99440348515,
+    "loss_amount": -8351.892735619362,
+    "win_rate": 0.5644171779141104,
+    "total_current_value": 289.77006737,
+    "total_positions": 1031,
+    "event_ct": 978,
+    "win_count": 552,
+    "rank": 43001,
+    "trader_tags": "1k+ Positions"
   }
 ]
