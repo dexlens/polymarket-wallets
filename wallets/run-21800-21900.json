@@ -1406,5 +1406,21 @@
     "win_count": 5,
     "rank": 21888,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86b913401ee7e41cd9bb3086780eb24c96c93679",
+    "trader_name": "Lndia",
+    "tag": "Overall",
+    "overall_gain": 4146.175,
+    "active_positions": 1,
+    "win_amount": 7289.025,
+    "loss_amount": -3142.85,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 21889,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
