@@ -1054,5 +1054,21 @@
     "win_count": 20,
     "rank": 3666,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x39ec75cc9dc48d0ca433735bf543ad0d55186504",
+    "trader_name": "ratshi",
+    "tag": "Overall",
+    "overall_gain": 31089.080018348246,
+    "active_positions": 8,
+    "win_amount": 43635.42086359245,
+    "loss_amount": -12546.340845244196,
+    "win_rate": 0.7333333333333333,
+    "total_current_value": 14681.793592996919,
+    "total_positions": 103,
+    "event_ct": 45,
+    "win_count": 33,
+    "rank": 3667,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
