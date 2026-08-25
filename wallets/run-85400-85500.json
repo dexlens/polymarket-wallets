@@ -622,5 +622,21 @@
     "win_count": 683,
     "rank": 85440,
     "trader_tags": "< 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0xe1e1bfcd8271aa13f92d7bf2e9b0ec9609d2e14e",
+    "trader_name": "gold1k",
+    "tag": "Overall",
+    "overall_gain": 546.0709306965689,
+    "active_positions": 1,
+    "win_amount": 1344.4950464698825,
+    "loss_amount": -798.4241157733139,
+    "win_rate": 0.7522123893805309,
+    "total_current_value": 0.8315230000000001,
+    "total_positions": 130,
+    "event_ct": 113,
+    "win_count": 85,
+    "rank": 85441,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
