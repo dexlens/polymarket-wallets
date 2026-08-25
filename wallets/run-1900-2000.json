@@ -1518,5 +1518,21 @@
     "win_count": 7,
     "rank": 1995,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x370470be35523fb86b229a281b09d81f0a40bc56",
+    "trader_name": "geraldineba",
+    "tag": "Overall",
+    "overall_gain": 60651.19387200001,
+    "active_positions": 2,
+    "win_amount": 60747.803867,
+    "loss_amount": -96.609995,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 41,
+    "event_ct": 27,
+    "win_count": 21,
+    "rank": 1996,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
