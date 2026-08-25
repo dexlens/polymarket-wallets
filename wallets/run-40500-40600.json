@@ -718,5 +718,21 @@
     "win_count": 2,
     "rank": 40546,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67d8d141b31475a461445532c07eaf227d3d3224",
+    "trader_name": "duryall",
+    "tag": "Overall",
+    "overall_gain": 1962.797780785432,
+    "active_positions": 3,
+    "win_amount": 2062.770602477568,
+    "loss_amount": -99.972821692136,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.009363,
+    "total_positions": 11,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 40547,
+    "trader_tags": "> 1 year old"
   }
 ]
