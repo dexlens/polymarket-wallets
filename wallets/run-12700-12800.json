@@ -238,5 +238,21 @@
     "win_count": 21,
     "rank": 12715,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15a0c41614bd95ee86d87722ab22c1192675c98b",
+    "trader_name": "trench1",
+    "tag": "Overall",
+    "overall_gain": 7962.459528366153,
+    "active_positions": 0,
+    "win_amount": 7962.459528366153,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00010900000000000002,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 12716,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
