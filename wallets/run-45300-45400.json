@@ -1230,5 +1230,21 @@
     "win_count": 24,
     "rank": 45378,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x269b763aa2f1d50646e23e018b37b308a34adcfa",
+    "trader_name": "1984b",
+    "tag": "Overall",
+    "overall_gain": 1695.273886313384,
+    "active_positions": 1,
+    "win_amount": 2196.363198038729,
+    "loss_amount": -501.089311725345,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.007177,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 45379,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
