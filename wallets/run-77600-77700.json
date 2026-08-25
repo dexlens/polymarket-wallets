@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 77649,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x110b8041c4163e95793fae98ac22de7c700c24d9",
+    "trader_name": "dawyty",
+    "tag": "Overall",
+    "overall_gain": 670.0262989139981,
+    "active_positions": 18,
+    "win_amount": 1887.696675203998,
+    "loss_amount": -1217.67037629,
+    "win_rate": 0.75,
+    "total_current_value": 49.065843112,
+    "total_positions": 57,
+    "event_ct": 56,
+    "win_count": 42,
+    "rank": 77650,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
