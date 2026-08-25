@@ -1006,5 +1006,21 @@
     "win_count": 9,
     "rank": 29564,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xba9d646cba81bec94910ed1b5f6b19039c807ccf",
+    "trader_name": "t1whale",
+    "tag": "Overall",
+    "overall_gain": 2873.06152676,
+    "active_positions": 0,
+    "win_amount": 2873.06152676,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007941,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 29565,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
