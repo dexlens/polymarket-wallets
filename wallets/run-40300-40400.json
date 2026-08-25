@@ -590,5 +590,21 @@
     "win_count": 2,
     "rank": 40338,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd5869e1f53937b3cff2a643d30a2b22f786208e9",
+    "trader_name": "LFG24",
+    "tag": "Overall",
+    "overall_gain": 1975.596787730541,
+    "active_positions": 11,
+    "win_amount": 19523.82838665682,
+    "loss_amount": -17548.23159892628,
+    "win_rate": 0.22916666666666666,
+    "total_current_value": 5244.2939575835,
+    "total_positions": 56,
+    "event_ct": 48,
+    "win_count": 11,
+    "rank": 40339,
+    "trader_tags": "> 1 year old"
   }
 ]
