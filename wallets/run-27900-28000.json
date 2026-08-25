@@ -462,5 +462,21 @@
     "win_count": 1,
     "rank": 27930,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ad147c59a7da9e13125f327f3cdbfe29bfaacf4",
+    "trader_name": "donenor",
+    "tag": "Overall",
+    "overall_gain": 3076.616531948063,
+    "active_positions": 0,
+    "win_amount": 5543.427761,
+    "loss_amount": -2466.811229051937,
+    "win_rate": 0.46875,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 15,
+    "rank": 27931,
+    "trader_tags": "> 1 year old"
   }
 ]
