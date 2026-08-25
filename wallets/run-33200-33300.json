@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 33267,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x653ec285be81c5204602ec9ebe52fce63b72709d",
+    "trader_name": "nuli888",
+    "tag": "Overall",
+    "overall_gain": 2484.0717150479995,
+    "active_positions": 2,
+    "win_amount": 2493.216,
+    "loss_amount": -9.144284952,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 15.884262000000001,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 33268,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
