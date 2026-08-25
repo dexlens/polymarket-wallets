@@ -718,5 +718,21 @@
     "win_count": 532,
     "rank": 4745,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x1d8c256b15d3cd1f5db221e70c77f552eb8d757a",
+    "trader_name": "Hourglass",
+    "tag": "Overall",
+    "overall_gain": 22935.610886115515,
+    "active_positions": 8992,
+    "win_amount": 34369.43224145722,
+    "loss_amount": -11433.821355341714,
+    "win_rate": 0.6794871794871795,
+    "total_current_value": 27810.383508736,
+    "total_positions": 33498,
+    "event_ct": 1794,
+    "win_count": 1219,
+    "rank": 4746,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
