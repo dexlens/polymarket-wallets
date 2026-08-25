@@ -1118,5 +1118,21 @@
     "win_count": 1,
     "rank": 4570,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa39c488ea8269609aea27f5f8486044d839908bc",
+    "trader_name": "Romero7",
+    "tag": "Overall",
+    "overall_gain": 24118.020718178657,
+    "active_positions": 2,
+    "win_amount": 30253.475606432316,
+    "loss_amount": -6135.454888253654,
+    "win_rate": 0.6774193548387096,
+    "total_current_value": 173780.0034581125,
+    "total_positions": 38,
+    "event_ct": 31,
+    "win_count": 21,
+    "rank": 4571,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
