@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 13483,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8429bf15a4f443109a9e551b8b3f6952b2a984f3",
+    "trader_name": "FEWW",
+    "tag": "Overall",
+    "overall_gain": 7378.829927179999,
+    "active_positions": 6,
+    "win_amount": 10326.817405,
+    "loss_amount": -2947.9874778200005,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 8,
+    "rank": 13484,
+    "trader_tags": "> 1 year old"
   }
 ]
