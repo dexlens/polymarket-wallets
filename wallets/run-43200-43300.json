@@ -1374,5 +1374,21 @@
     "win_count": 4,
     "rank": 43287,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ecc991edc1c9e8f2e623bd511d63429a0056c37",
+    "trader_name": "morgan0",
+    "tag": "Overall",
+    "overall_gain": 1804.9389651226606,
+    "active_positions": 15,
+    "win_amount": 1898.978674307565,
+    "loss_amount": -94.03970918490401,
+    "win_rate": 0.9626168224299065,
+    "total_current_value": 1582.321501,
+    "total_positions": 267,
+    "event_ct": 214,
+    "win_count": 206,
+    "rank": 43288,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
