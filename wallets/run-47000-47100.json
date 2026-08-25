@@ -990,5 +990,21 @@
     "win_count": 40,
     "rank": 47063,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x63e1eb204a4d47680c885269d52b43fe29884854",
+    "trader_name": "godc",
+    "tag": "Overall",
+    "overall_gain": 1613.7519960205468,
+    "active_positions": 15,
+    "win_amount": 5201.305272714577,
+    "loss_amount": -3587.5532766940296,
+    "win_rate": 0.5,
+    "total_current_value": 0.068458,
+    "total_positions": 93,
+    "event_ct": 68,
+    "win_count": 34,
+    "rank": 47064,
+    "trader_tags": ""
   }
 ]
