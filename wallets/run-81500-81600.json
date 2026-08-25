@@ -1502,5 +1502,21 @@
     "win_count": 19,
     "rank": 81595,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6fcf58fbcb113b344210a96117a0cff5b5325497",
+    "trader_name": "Anceshtress1",
+    "tag": "Overall",
+    "overall_gain": 604.6956110000003,
+    "active_positions": 2,
+    "win_amount": 2425.3756110000004,
+    "loss_amount": -1820.68,
+    "win_rate": 0.75,
+    "total_current_value": 2.8055,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 81596,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
