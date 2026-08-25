@@ -1278,5 +1278,21 @@
     "win_count": 1,
     "rank": 35181,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x20b251dbe412293ec1bcb34f0bc480878c89ac60",
+    "trader_name": "quintonpfe",
+    "tag": "Overall",
+    "overall_gain": 2325.8,
+    "active_positions": 1,
+    "win_amount": 2325.8,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 20,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 35182,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
