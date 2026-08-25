@@ -1406,5 +1406,21 @@
     "win_count": 15,
     "rank": 2988,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c8b130fcdace0f1a8d3381680826d6da057e496",
+    "trader_name": "Myrkos",
+    "tag": "Overall",
+    "overall_gain": 38394.883521184165,
+    "active_positions": 3,
+    "win_amount": 39675.90010318416,
+    "loss_amount": -1281.016582,
+    "win_rate": 0.8431372549019608,
+    "total_current_value": 0.008149,
+    "total_positions": 54,
+    "event_ct": 51,
+    "win_count": 43,
+    "rank": 2989,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
