@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 47194,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c88e9067c8a733c78b43f8b2b6c968c17135685",
+    "trader_name": "hundohundo",
+    "tag": "Overall",
+    "overall_gain": 1607.2432400718017,
+    "active_positions": 49,
+    "win_amount": 5658.485084217704,
+    "loss_amount": -4051.2418441459017,
+    "win_rate": 0.48258706467661694,
+    "total_current_value": 0.015491999999999999,
+    "total_positions": 202,
+    "event_ct": 201,
+    "win_count": 97,
+    "rank": 47195,
+    "trader_tags": "> 1 year old"
   }
 ]
