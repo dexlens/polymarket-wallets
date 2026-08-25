@@ -414,5 +414,21 @@
     "win_count": 17,
     "rank": 30827,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x66853a6cc097a2cde59e576793192c9262665e0f",
+    "trader_name": "Wrden",
+    "tag": "Overall",
+    "overall_gain": 2721.06,
+    "active_positions": 3,
+    "win_amount": 3352.995,
+    "loss_amount": -631.935,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 524.985,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 30828,
+    "trader_tags": ""
   }
 ]
