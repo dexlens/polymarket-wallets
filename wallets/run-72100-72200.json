@@ -878,5 +878,21 @@
     "win_count": 3,
     "rank": 72156,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a8c1f8d2975692803552fe71c13f329aedfc7ec",
+    "trader_name": "JeffHsiao",
+    "tag": "Overall",
+    "overall_gain": 762.9032912731628,
+    "active_positions": 1,
+    "win_amount": 2883.1911491198916,
+    "loss_amount": -2120.2878578467294,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0.05253000000000001,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 9,
+    "rank": 72157,
+    "trader_tags": "> 1 year old"
   }
 ]
