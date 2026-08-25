@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 31277,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc007075b1905e8029ce648b031fc3d52c94e770e",
+    "trader_name": "HODL78",
+    "tag": "Overall",
+    "overall_gain": 2672.140718372598,
+    "active_positions": 27,
+    "win_amount": 4848.395809,
+    "loss_amount": -2176.2550906274028,
+    "win_rate": 0.6086956521739131,
+    "total_current_value": 0,
+    "total_positions": 69,
+    "event_ct": 69,
+    "win_count": 42,
+    "rank": 31278,
+    "trader_tags": ""
   }
 ]
