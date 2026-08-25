@@ -286,5 +286,21 @@
     "win_count": 11,
     "rank": 2418,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfa257198aff8511f2c6584b90b930c50deab05e8",
+    "trader_name": "aibaby",
+    "tag": "Overall",
+    "overall_gain": 48817.85122476118,
+    "active_positions": 0,
+    "win_amount": 397452.08743948326,
+    "loss_amount": -348634.2362147221,
+    "win_rate": 0.5212121212121212,
+    "total_current_value": 0.138789,
+    "total_positions": 210,
+    "event_ct": 165,
+    "win_count": 86,
+    "rank": 2419,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
