@@ -942,5 +942,21 @@
     "win_count": 9,
     "rank": 21459,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c0df99f348540bd1d11883da7d603807209a439",
+    "trader_name": "ktec",
+    "tag": "Overall",
+    "overall_gain": 4244.270817622438,
+    "active_positions": 1,
+    "win_amount": 5249.892686,
+    "loss_amount": -1005.6218683775621,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 21460,
+    "trader_tags": ""
   }
 ]
