@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 10998,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x726337c6eaa24d96cc2bba0fa3fe97b43609f2d7",
+    "trader_name": "Harnix",
+    "tag": "Overall",
+    "overall_gain": 9576.904804277237,
+    "active_positions": 5,
+    "win_amount": 11120.582060377237,
+    "loss_amount": -1543.6772561,
+    "win_rate": 0.8205128205128205,
+    "total_current_value": 0.000238,
+    "total_positions": 41,
+    "event_ct": 39,
+    "win_count": 32,
+    "rank": 10999,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
