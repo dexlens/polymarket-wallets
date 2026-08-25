@@ -334,5 +334,21 @@
     "win_count": 21,
     "rank": 3121,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0457df1bf6ee5b4f260b4341ace02100b2c94403",
+    "trader_name": "DonRommsOFC",
+    "tag": "Overall",
+    "overall_gain": 36659.13088334254,
+    "active_positions": 5,
+    "win_amount": 128239.70812543668,
+    "loss_amount": -91580.57724209408,
+    "win_rate": 0.3275862068965517,
+    "total_current_value": 0.162169,
+    "total_positions": 123,
+    "event_ct": 116,
+    "win_count": 38,
+    "rank": 3122,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
