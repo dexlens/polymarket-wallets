@@ -1262,5 +1262,21 @@
     "win_count": 14,
     "rank": 37480,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3df06e3f5ef9abf2acdfc627a34fba115d718963",
+    "trader_name": "yarrra",
+    "tag": "Overall",
+    "overall_gain": 2156.068382425,
+    "active_positions": 1,
+    "win_amount": 3785.178382425,
+    "loss_amount": -1629.1100000000001,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.001171475,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 37481,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
