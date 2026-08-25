@@ -910,5 +910,21 @@
     "win_count": 11,
     "rank": 49058,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x322e7c2d41a4b4d24ab1d05a38c6da506fbabae4",
+    "trader_name": "ShortTheWorld",
+    "tag": "Overall",
+    "overall_gain": 1525.544563949927,
+    "active_positions": 14,
+    "win_amount": 3940.479274645491,
+    "loss_amount": -2414.9347106955643,
+    "win_rate": 0.47959183673469385,
+    "total_current_value": 5235.802234637999,
+    "total_positions": 196,
+    "event_ct": 98,
+    "win_count": 47,
+    "rank": 49059,
+    "trader_tags": "> 1 year old"
   }
 ]
