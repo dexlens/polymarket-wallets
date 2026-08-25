@@ -814,5 +814,21 @@
     "win_count": 14,
     "rank": 5651,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd27652b19293d3bb6157adde1005a1de0356b562",
+    "trader_name": "H.P.Lovecraft",
+    "tag": "Overall",
+    "overall_gain": 19089.20855960965,
+    "active_positions": 12,
+    "win_amount": 73281.52958888632,
+    "loss_amount": -54192.32102927664,
+    "win_rate": 0.6818181818181818,
+    "total_current_value": 0.036628,
+    "total_positions": 60,
+    "event_ct": 44,
+    "win_count": 30,
+    "rank": 5652,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
