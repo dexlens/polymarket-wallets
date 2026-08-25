@@ -990,5 +990,21 @@
     "win_count": 475,
     "rank": 81363,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29102012719d9e772137e8e53405b2cdbf399b5d",
+    "trader_name": "botulist",
+    "tag": "Overall",
+    "overall_gain": 608.586008033407,
+    "active_positions": 0,
+    "win_amount": 608.586008033407,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 81364,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
