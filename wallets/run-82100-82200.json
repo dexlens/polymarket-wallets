@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 82174,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x803890b141ea545266d030aa3e9a6d03ab101077",
+    "trader_name": "Trendr",
+    "tag": "Overall",
+    "overall_gain": 595.6981323349121,
+    "active_positions": 1,
+    "win_amount": 595.6981323349121,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 270.755663,
+    "total_positions": 57,
+    "event_ct": 25,
+    "win_count": 25,
+    "rank": 82175,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
