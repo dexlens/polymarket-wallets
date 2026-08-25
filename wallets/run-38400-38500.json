@@ -382,5 +382,21 @@
     "win_count": 19,
     "rank": 38425,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2146591dc86d7c672888bcc67aec2490dbdfd992",
+    "trader_name": "mmqq",
+    "tag": "Overall",
+    "overall_gain": 2090.691219515445,
+    "active_positions": 4,
+    "win_amount": 3668.777883,
+    "loss_amount": -1578.086663484555,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 38426,
+    "trader_tags": ""
   }
 ]
