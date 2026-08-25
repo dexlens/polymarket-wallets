@@ -382,5 +382,21 @@
     "win_count": 13,
     "rank": 4524,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xfa394a598dbf573202a8286b45f512c7a383977f",
+    "trader_name": "Brother357",
+    "tag": "Overall",
+    "overall_gain": 24326.354493550418,
+    "active_positions": 97,
+    "win_amount": 26047.99889456457,
+    "loss_amount": -1721.6444010141463,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 26026.582011708004,
+    "total_positions": 762,
+    "event_ct": 270,
+    "win_count": 240,
+    "rank": 4525,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
