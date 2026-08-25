@@ -558,5 +558,21 @@
     "win_count": 5,
     "rank": 83536,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x19d9105e6d3c0bb62caea8f10e82f5a86eea7135",
+    "trader_name": "samvel",
+    "tag": "Overall",
+    "overall_gain": 573.4793131366512,
+    "active_positions": 2,
+    "win_amount": 578.832492092092,
+    "loss_amount": -5.353178955440947,
+    "win_rate": 0.9142857142857143,
+    "total_current_value": 477.7568345435,
+    "total_positions": 97,
+    "event_ct": 35,
+    "win_count": 32,
+    "rank": 83537,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
