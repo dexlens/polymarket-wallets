@@ -1182,5 +1182,21 @@
     "win_count": 7,
     "rank": 8974,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7094f437992ef9a3df74c7b381bb269d9506c818",
+    "trader_name": "Herysian",
+    "tag": "Overall",
+    "overall_gain": 11672.079399690121,
+    "active_positions": 5,
+    "win_amount": 12819.085257690122,
+    "loss_amount": -1147.005858,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 12.000171,
+    "total_positions": 50,
+    "event_ct": 46,
+    "win_count": 40,
+    "rank": 8975,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
