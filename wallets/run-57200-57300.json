@@ -1246,5 +1246,21 @@
     "win_count": 9,
     "rank": 57279,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x11bb2a271cdbe2433d9e1287686b5fde53f8bf79",
+    "trader_name": "msdjgnsg",
+    "tag": "Overall",
+    "overall_gain": 1168.5587197909692,
+    "active_positions": 7,
+    "win_amount": 1695.7584326124763,
+    "loss_amount": -527.199712821507,
+    "win_rate": 0.7,
+    "total_current_value": 0.014246,
+    "total_positions": 25,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 57280,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
