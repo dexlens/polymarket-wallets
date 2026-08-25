@@ -1438,5 +1438,21 @@
     "win_count": 3,
     "rank": 87491,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcc7c1f044ddb2e002345f9f05b4e941e54a11d18",
+    "trader_name": "Freedom-BY",
+    "tag": "Overall",
+    "overall_gain": 518.8636434681468,
+    "active_positions": 56,
+    "win_amount": 651.2750261320161,
+    "loss_amount": -132.41138266386898,
+    "win_rate": 0.775,
+    "total_current_value": 227.371779614,
+    "total_positions": 155,
+    "event_ct": 40,
+    "win_count": 31,
+    "rank": 87492,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
