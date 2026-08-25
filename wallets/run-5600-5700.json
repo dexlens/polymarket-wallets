@@ -1406,5 +1406,21 @@
     "win_count": 23,
     "rank": 5688,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a96cdaa5207ec9746aeb1695b1e8a7cf1d24e13",
+    "trader_name": "freethrowmerchant",
+    "tag": "Overall",
+    "overall_gain": 18966.489272428404,
+    "active_positions": 0,
+    "win_amount": 34819.54975507929,
+    "loss_amount": -15853.060482650884,
+    "win_rate": 0.84375,
+    "total_current_value": 1.1322879049999999,
+    "total_positions": 774,
+    "event_ct": 480,
+    "win_count": 405,
+    "rank": 5689,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
