@@ -622,5 +622,21 @@
     "win_count": 7,
     "rank": 23239,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc6d90d9aac28ee450b38c238fa174b0074aadf6d",
+    "trader_name": "3LAU",
+    "tag": "Overall",
+    "overall_gain": 3870.6018396733416,
+    "active_positions": 1,
+    "win_amount": 16025.611366164456,
+    "loss_amount": -12155.009526491114,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.07857139363225374,
+    "total_positions": 18,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 23240,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
