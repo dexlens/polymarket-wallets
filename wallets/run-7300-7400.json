@@ -894,5 +894,21 @@
     "win_count": 11,
     "rank": 7356,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd5613fde03a257d4efc91ade8d7160ffd0dc57c9",
+    "trader_name": "QueryQuail",
+    "tag": "Overall",
+    "overall_gain": 14466.9,
+    "active_positions": 3,
+    "win_amount": 15027.4,
+    "loss_amount": -560.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 7357,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
