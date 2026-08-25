@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 10520,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xae4e7b9489fd02819bed0eb66edd42731f1e8988",
+    "trader_name": "abrahamleigh1228",
+    "tag": "Overall",
+    "overall_gain": 10005.876,
+    "active_positions": 6,
+    "win_amount": 30160.876,
+    "loss_amount": -20155,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 11,
+    "rank": 10521,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
