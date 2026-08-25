@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 34328,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x93015c5a80ca8b96a8b9914c826fe759a2a93b67",
+    "trader_name": "Tipsterman",
+    "tag": "Overall",
+    "overall_gain": 2394.8869496185266,
+    "active_positions": 79,
+    "win_amount": 17936.40039769967,
+    "loss_amount": -15541.513448081136,
+    "win_rate": 0.788659793814433,
+    "total_current_value": 74238.61412045298,
+    "total_positions": 415,
+    "event_ct": 194,
+    "win_count": 153,
+    "rank": 34329,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
