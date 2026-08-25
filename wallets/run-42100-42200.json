@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 42169,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e2c4c6048592e4717f846f664828369494f71ca",
+    "trader_name": "Isarescu",
+    "tag": "Overall",
+    "overall_gain": 1867.706737323286,
+    "active_positions": 2,
+    "win_amount": 2191.2288938077522,
+    "loss_amount": -323.52215648446594,
+    "win_rate": 0.35,
+    "total_current_value": 0.018685,
+    "total_positions": 26,
+    "event_ct": 20,
+    "win_count": 7,
+    "rank": 42170,
+    "trader_tags": ""
   }
 ]
