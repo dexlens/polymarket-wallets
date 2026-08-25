@@ -222,5 +222,21 @@
     "win_count": 1,
     "rank": 65215,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xbfccc586c262d94f42c5f4fa34465d20105312a6",
+    "trader_name": "Freeborne",
+    "tag": "Overall",
+    "overall_gain": 938.7077026577738,
+    "active_positions": 23,
+    "win_amount": 14876.709341181362,
+    "loss_amount": -13938.00163852359,
+    "win_rate": 0.7308970099667774,
+    "total_current_value": 9386.085942517002,
+    "total_positions": 520,
+    "event_ct": 301,
+    "win_count": 220,
+    "rank": 65216,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
