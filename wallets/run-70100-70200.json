@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 70136,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4164f3225d7c95769b5920f60ca73693a2ba7d00",
+    "trader_name": "Parkside",
+    "tag": "Overall",
+    "overall_gain": 807.6299483540092,
+    "active_positions": 1,
+    "win_amount": 1047.2384156259614,
+    "loss_amount": -239.60846727195198,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.11605303100000001,
+    "total_positions": 50,
+    "event_ct": 44,
+    "win_count": 16,
+    "rank": 70137,
+    "trader_tags": "> 1 year old"
   }
 ]
