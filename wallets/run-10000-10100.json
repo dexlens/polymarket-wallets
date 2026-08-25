@@ -494,5 +494,21 @@
     "win_count": 7,
     "rank": 10031,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0c136c00a444cd5f32345d6dcc638ffde098bb5c",
+    "trader_name": "karma-bloated",
+    "tag": "Overall",
+    "overall_gain": 10457.416666,
+    "active_positions": 0,
+    "win_amount": 10457.416666,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 10032,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
