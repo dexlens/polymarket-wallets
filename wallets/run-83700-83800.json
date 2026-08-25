@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 83787,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ca3bb4cddfeacc0a5ae4294a9745817ae136f85",
+    "trader_name": "wikk",
+    "tag": "Overall",
+    "overall_gain": 569.5521620783051,
+    "active_positions": 6,
+    "win_amount": 738.165802465305,
+    "loss_amount": -168.61364038700003,
+    "win_rate": 0.7560975609756098,
+    "total_current_value": 244.29675399999996,
+    "total_positions": 74,
+    "event_ct": 41,
+    "win_count": 31,
+    "rank": 83788,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
