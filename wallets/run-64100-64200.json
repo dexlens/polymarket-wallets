@@ -414,5 +414,21 @@
     "win_count": 321,
     "rank": 64127,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf7df3578e7069604ff101c35b6db1e66b34cf73b",
+    "trader_name": "gamblegenius",
+    "tag": "Overall",
+    "overall_gain": 970.514598710327,
+    "active_positions": 10,
+    "win_amount": 1398.25,
+    "loss_amount": -427.73540128967295,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.012557,
+    "total_positions": 17,
+    "event_ct": 9,
+    "win_count": 3,
+    "rank": 64128,
+    "trader_tags": "> 1 year old"
   }
 ]
