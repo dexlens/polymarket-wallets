@@ -1550,5 +1550,21 @@
     "win_count": 6,
     "rank": 27798,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x397556667841b00e71794c3106c465e10850626a",
+    "trader_name": "testeman",
+    "tag": "Overall",
+    "overall_gain": 3092.7048437686476,
+    "active_positions": 5,
+    "win_amount": 4722.26567431861,
+    "loss_amount": -1629.5608305499634,
+    "win_rate": 0.7403846153846154,
+    "total_current_value": 800.366607945,
+    "total_positions": 976,
+    "event_ct": 416,
+    "win_count": 308,
+    "rank": 27799,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
