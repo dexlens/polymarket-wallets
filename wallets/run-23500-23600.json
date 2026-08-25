@@ -590,5 +590,21 @@
     "win_count": 4,
     "rank": 23537,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd5218f4a5f5ddd7067d87f0e36e67146d869e068",
+    "trader_name": "dokdonald",
+    "tag": "Overall",
+    "overall_gain": 3810.0162269438624,
+    "active_positions": 2,
+    "win_amount": 5276.590305362969,
+    "loss_amount": -1466.5740784191069,
+    "win_rate": 0.6551724137931034,
+    "total_current_value": 36.201562601,
+    "total_positions": 30,
+    "event_ct": 29,
+    "win_count": 19,
+    "rank": 23538,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
