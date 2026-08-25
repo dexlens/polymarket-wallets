@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 21285,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x990b51205485329da6a8343ea52a04715c261fd7",
+    "trader_name": "kromiun",
+    "tag": "Overall",
+    "overall_gain": 4287.1075065038185,
+    "active_positions": 4,
+    "win_amount": 4666.613723097597,
+    "loss_amount": -379.50621659378,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.34134600000000004,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 5,
+    "rank": 21286,
+    "trader_tags": "> 1 year old"
   }
 ]
