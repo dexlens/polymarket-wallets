@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 57984,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf9c7196f81e3f1cd788119acda0dd81a8e9fca47",
+    "trader_name": "projectMM",
+    "tag": "Overall",
+    "overall_gain": 1143.4007170000011,
+    "active_positions": 2,
+    "win_amount": 13023.13243,
+    "loss_amount": -11879.731712999997,
+    "win_rate": 0.8023787740164684,
+    "total_current_value": 30,
+    "total_positions": 1551,
+    "event_ct": 1093,
+    "win_count": 877,
+    "rank": 57985,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
