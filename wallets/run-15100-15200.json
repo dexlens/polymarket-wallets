@@ -1390,5 +1390,21 @@
     "win_count": 13,
     "rank": 15187,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x918cf17729b6f53862d4dc4b22258cdc103c1577",
+    "trader_name": "jjda",
+    "tag": "Overall",
+    "overall_gain": 6401.866270111177,
+    "active_positions": 9,
+    "win_amount": 9639.067559333937,
+    "loss_amount": -3237.2012892227576,
+    "win_rate": 0.9473684210526315,
+    "total_current_value": 99235.72069513949,
+    "total_positions": 61,
+    "event_ct": 38,
+    "win_count": 36,
+    "rank": 15188,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
