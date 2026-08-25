@@ -702,5 +702,21 @@
     "win_count": 6,
     "rank": 6044,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x63808ab031e4ad7ba0fe6310bc6c022d166ae74f",
+    "trader_name": "RC1",
+    "tag": "Overall",
+    "overall_gain": 17751.229060240952,
+    "active_positions": 18,
+    "win_amount": 51367.220463613325,
+    "loss_amount": -33615.99140337237,
+    "win_rate": 0.5029585798816568,
+    "total_current_value": 216.86054999999996,
+    "total_positions": 324,
+    "event_ct": 169,
+    "win_count": 85,
+    "rank": 6045,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
