@@ -862,5 +862,21 @@
     "win_count": 8,
     "rank": 73455,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x26a8125186af91bee176c07e97e30b6b521e75f1",
+    "trader_name": "Bimba",
+    "tag": "Overall",
+    "overall_gain": 736.0188262607231,
+    "active_positions": 10,
+    "win_amount": 914.9583242607231,
+    "loss_amount": -178.93949800000001,
+    "win_rate": 0.8444444444444444,
+    "total_current_value": 0.013493,
+    "total_positions": 56,
+    "event_ct": 45,
+    "win_count": 38,
+    "rank": 73456,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
