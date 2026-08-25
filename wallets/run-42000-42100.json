@@ -110,5 +110,21 @@
     "win_count": 5,
     "rank": 42008,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32b15bcef878bb3f26809fd3a13f34c61112e294",
+    "trader_name": "nimadesb",
+    "tag": "Overall",
+    "overall_gain": 1876.4752036523946,
+    "active_positions": 0,
+    "win_amount": 3952.7769443973566,
+    "loss_amount": -2076.301740744962,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 0.035543643,
+    "total_positions": 125,
+    "event_ct": 114,
+    "win_count": 78,
+    "rank": 42009,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
