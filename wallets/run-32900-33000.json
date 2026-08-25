@@ -286,5 +286,21 @@
     "win_count": 8,
     "rank": 32919,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x67ad2f02c9e8f31dfea381081fa4b75992ea8267",
+    "trader_name": "blakedav",
+    "tag": "Overall",
+    "overall_gain": 2511.37069348,
+    "active_positions": 1,
+    "win_amount": 2511.37069348,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00008300000000000001,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 32920,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
