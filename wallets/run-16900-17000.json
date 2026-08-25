@@ -702,5 +702,21 @@
     "win_count": 10,
     "rank": 16944,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16fa18b2392dbe5a41287b7597184978cbee7402",
+    "trader_name": "darylfuentes",
+    "tag": "Overall",
+    "overall_gain": 5576.742745661394,
+    "active_positions": 1,
+    "win_amount": 5637.722883689218,
+    "loss_amount": -60.980138027824,
+    "win_rate": 0.5081967213114754,
+    "total_current_value": 4.783393,
+    "total_positions": 63,
+    "event_ct": 61,
+    "win_count": 31,
+    "rank": 16945,
+    "trader_tags": "> 1 year old"
   }
 ]
