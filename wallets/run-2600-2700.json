@@ -1358,5 +1358,21 @@
     "win_count": 6,
     "rank": 2685,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xc8d4e9183790133e38b7aa7d58bb93649d29dc5b",
+    "trader_name": "ChirpyC",
+    "tag": "Overall",
+    "overall_gain": 43292.869193,
+    "active_positions": 0,
+    "win_amount": 60124.489705,
+    "loss_amount": -16831.620512,
+    "win_rate": 0.7027027027027027,
+    "total_current_value": 0,
+    "total_positions": 50,
+    "event_ct": 37,
+    "win_count": 26,
+    "rank": 2686,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
