@@ -1134,5 +1134,21 @@
     "win_count": 8,
     "rank": 6271,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x276487ddb4be12b579d18d9c8cf44e59bb39fea3",
+    "trader_name": "shougong",
+    "tag": "Overall",
+    "overall_gain": 17070.356712328434,
+    "active_positions": 5,
+    "win_amount": 17774.090443900015,
+    "loss_amount": -703.733731571585,
+    "win_rate": 0.7567567567567568,
+    "total_current_value": 16.966894273999998,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 28,
+    "rank": 6272,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
