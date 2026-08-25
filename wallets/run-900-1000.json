@@ -1230,5 +1230,21 @@
     "win_count": 76,
     "rank": 977,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48185887c8dc95de60ee89722f1d0ee7894cbf0b",
+    "trader_name": "Liquidifier",
+    "tag": "Overall",
+    "overall_gain": 123947.25716192184,
+    "active_positions": 403,
+    "win_amount": 343998.5117317005,
+    "loss_amount": -220051.2545697785,
+    "win_rate": 0.5664516129032258,
+    "total_current_value": 123371.67754341452,
+    "total_positions": 3459,
+    "event_ct": 1550,
+    "win_count": 878,
+    "rank": 978,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions"
   }
 ]
