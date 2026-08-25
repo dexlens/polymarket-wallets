@@ -238,5 +238,21 @@
     "win_count": 1,
     "rank": 8315,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x257f10e208ffeee2208f13bee7df22a660f6b3b4",
+    "trader_name": "Wrythen",
+    "tag": "Overall",
+    "overall_gain": 12633.78788059533,
+    "active_positions": 12,
+    "win_amount": 12679.574098544614,
+    "loss_amount": -45.786217949284,
+    "win_rate": 0.8157894736842105,
+    "total_current_value": 39.009733,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 31,
+    "rank": 8316,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
