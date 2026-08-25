@@ -926,5 +926,21 @@
     "win_count": 4,
     "rank": 78659,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42b8dc8fe87f097fd6ac24208995bfe498071305",
+    "trader_name": "ressseyn",
+    "tag": "Overall",
+    "overall_gain": 653.0206699511034,
+    "active_positions": 3,
+    "win_amount": 5273.331195353278,
+    "loss_amount": -4620.310525402174,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 0.139201128,
+    "total_positions": 74,
+    "event_ct": 45,
+    "win_count": 24,
+    "rank": 78660,
+    "trader_tags": ""
   }
 ]
