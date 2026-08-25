@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 54325,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc62992ec07bf693a9ea0f9e38e1a17eeff1aaa40",
+    "trader_name": "interficio",
+    "tag": "Overall",
+    "overall_gain": 1289.723136801525,
+    "active_positions": 18,
+    "win_amount": 17008.670260140498,
+    "loss_amount": -15718.947123338969,
+    "win_rate": 0.6474820143884892,
+    "total_current_value": 1841.738949092,
+    "total_positions": 335,
+    "event_ct": 278,
+    "win_count": 180,
+    "rank": 54326,
+    "trader_tags": "> 1 year old"
   }
 ]
