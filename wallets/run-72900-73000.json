@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 72997,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03e8095631d3b0950a1b085d57b3368ee12f7e3d",
+    "trader_name": "ColbertAdams",
+    "tag": "Overall",
+    "overall_gain": 745,
+    "active_positions": 4,
+    "win_amount": 3725,
+    "loss_amount": -2980,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 72998,
+    "trader_tags": ""
   }
 ]
