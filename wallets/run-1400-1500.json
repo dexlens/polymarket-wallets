@@ -1182,5 +1182,21 @@
     "win_count": 264,
     "rank": 1474,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21378fd64736103b01685aee2b1e5acfdc4f0677",
+    "trader_name": "AiBets",
+    "tag": "Overall",
+    "overall_gain": 81911.09652706288,
+    "active_positions": 129,
+    "win_amount": 185750.53282288983,
+    "loss_amount": -103839.43629582695,
+    "win_rate": 0.6218487394957983,
+    "total_current_value": 37453.77839403149,
+    "total_positions": 2497,
+    "event_ct": 833,
+    "win_count": 518,
+    "rank": 1475,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
