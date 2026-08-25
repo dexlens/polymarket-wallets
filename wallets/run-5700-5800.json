@@ -638,5 +638,21 @@
     "win_count": 314,
     "rank": 5740,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x196c0a82a5b1d7fd001de1d36a173f65bc057a01",
+    "trader_name": "Orynven",
+    "tag": "Overall",
+    "overall_gain": 18756.509842999996,
+    "active_positions": 3,
+    "win_amount": 19720.704842999996,
+    "loss_amount": -964.1949999999999,
+    "win_rate": 0.9318181818181818,
+    "total_current_value": 5.8100000000000005,
+    "total_positions": 51,
+    "event_ct": 44,
+    "win_count": 41,
+    "rank": 5741,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
