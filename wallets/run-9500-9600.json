@@ -894,5 +894,21 @@
     "win_count": 14,
     "rank": 9556,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x622f984801c9301766aa7a6b8b209db13814e730",
+    "trader_name": "kciw",
+    "tag": "Overall",
+    "overall_gain": 10951.977717770065,
+    "active_positions": 6,
+    "win_amount": 13828.088228365796,
+    "loss_amount": -2876.11051059573,
+    "win_rate": 0.63,
+    "total_current_value": 0.500258,
+    "total_positions": 300,
+    "event_ct": 100,
+    "win_count": 63,
+    "rank": 9557,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
