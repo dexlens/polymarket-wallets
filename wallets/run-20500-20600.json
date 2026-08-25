@@ -1038,5 +1038,21 @@
     "win_count": 81,
     "rank": 20565,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfcbc4adac26b0ee25c7b63dc14d8114eb7da5e91",
+    "trader_name": "blacksfund",
+    "tag": "Overall",
+    "overall_gain": 4478.072380637775,
+    "active_positions": 0,
+    "win_amount": 4478.072380637775,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003762,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 20566,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
