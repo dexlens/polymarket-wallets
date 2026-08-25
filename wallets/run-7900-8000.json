@@ -1518,5 +1518,21 @@
     "win_count": 67,
     "rank": 7995,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x18499024b3079b68fd3f8b39c84901104b75aca9",
+    "trader_name": "Arxiv",
+    "tag": "Overall",
+    "overall_gain": 13134.17054046391,
+    "active_positions": 1,
+    "win_amount": 13908.951004054772,
+    "loss_amount": -774.780463590859,
+    "win_rate": 0.5,
+    "total_current_value": 0.02749,
+    "total_positions": 24,
+    "event_ct": 18,
+    "win_count": 9,
+    "rank": 7996,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
