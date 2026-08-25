@@ -1422,5 +1422,21 @@
     "win_count": 56,
     "rank": 27490,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3f3bbafaf7073801de80268fe6a7f27e087cd0d4",
+    "trader_name": "DEasdAN",
+    "tag": "Overall",
+    "overall_gain": 3135,
+    "active_positions": 1,
+    "win_amount": 3575,
+    "loss_amount": -440,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 27491,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
