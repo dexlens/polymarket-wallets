@@ -1230,5 +1230,21 @@
     "win_count": 26,
     "rank": 3877,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5159fc861b4ea0a462e9e0c2ecb66ef3b54ed7ae",
+    "trader_name": "AlbaneH",
+    "tag": "Overall",
+    "overall_gain": 29246.352900456975,
+    "active_positions": 18,
+    "win_amount": 110962.63841825367,
+    "loss_amount": -81716.28551779676,
+    "win_rate": 0.5442622950819672,
+    "total_current_value": 7111.752327035,
+    "total_positions": 1119,
+    "event_ct": 610,
+    "win_count": 332,
+    "rank": 3878,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
