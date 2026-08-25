@@ -350,5 +350,21 @@
     "win_count": 41,
     "rank": 4122,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x825a96fbae9189ea41bb2aa70e7572970f408835",
+    "trader_name": "noman2026",
+    "tag": "Overall",
+    "overall_gain": 27169.036501118924,
+    "active_positions": 13,
+    "win_amount": 29749.571926513625,
+    "loss_amount": -2580.5354253946984,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 51488.596761223496,
+    "total_positions": 50,
+    "event_ct": 30,
+    "win_count": 20,
+    "rank": 4123,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
