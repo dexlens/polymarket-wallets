@@ -1422,5 +1422,21 @@
     "win_count": 97,
     "rank": 8989,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x58e7ca3310acc93427f0b8a1c298ca534d1e65c9",
+    "trader_name": "spinach",
+    "tag": "Overall",
+    "overall_gain": 11658.88441791948,
+    "active_positions": 4,
+    "win_amount": 33877.22229464631,
+    "loss_amount": -22218.33787672683,
+    "win_rate": 0.6379310344827587,
+    "total_current_value": 0.6077767565529153,
+    "total_positions": 62,
+    "event_ct": 58,
+    "win_count": 37,
+    "rank": 8990,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
