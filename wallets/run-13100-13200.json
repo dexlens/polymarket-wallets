@@ -254,5 +254,21 @@
     "win_count": 31,
     "rank": 13116,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8bc587c8a8823d63420094346da479b33581a867",
+    "trader_name": "PBet",
+    "tag": "Overall",
+    "overall_gain": 7656.75374634449,
+    "active_positions": 0,
+    "win_amount": 28700.58542813811,
+    "loss_amount": -21043.83168179362,
+    "win_rate": 0.5185185185185185,
+    "total_current_value": 0.17725899999999997,
+    "total_positions": 111,
+    "event_ct": 54,
+    "win_count": 28,
+    "rank": 13117,
+    "trader_tags": "> 1 year old"
   }
 ]
