@@ -302,5 +302,21 @@
     "win_count": 3,
     "rank": 60020,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04828890fd44d8d552558e37c1aafc7be4ca36ca",
+    "trader_name": "bored3caz",
+    "tag": "Overall",
+    "overall_gain": 1075.9469179261864,
+    "active_positions": 78,
+    "win_amount": 3299.547943487727,
+    "loss_amount": -2223.6010255615424,
+    "win_rate": 0.5449101796407185,
+    "total_current_value": 1.7222990000000002,
+    "total_positions": 184,
+    "event_ct": 167,
+    "win_count": 91,
+    "rank": 60021,
+    "trader_tags": "> 1 year old"
   }
 ]
