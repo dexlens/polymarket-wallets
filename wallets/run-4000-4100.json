@@ -286,5 +286,21 @@
     "win_count": 480,
     "rank": 4018,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x48a924e458028426c763bec74205eb48d5ae3730",
+    "trader_name": "Berenhap",
+    "tag": "Overall",
+    "overall_gain": 27891.123295187066,
+    "active_positions": 24,
+    "win_amount": 27994.68218841795,
+    "loss_amount": -103.55889323088398,
+    "win_rate": 0.46551724137931033,
+    "total_current_value": 24.851074482,
+    "total_positions": 75,
+    "event_ct": 58,
+    "win_count": 27,
+    "rank": 4019,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
