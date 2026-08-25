@@ -318,5 +318,21 @@
     "win_count": 3,
     "rank": 57721,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd02ce620b43f0475f50157772ebbcb1b79f6bb5",
+    "trader_name": "brumal",
+    "tag": "Overall",
+    "overall_gain": 1153.2979234200002,
+    "active_positions": 10,
+    "win_amount": 4991.275421,
+    "loss_amount": -3837.97749758,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 20,
+    "rank": 57722,
+    "trader_tags": ""
   }
 ]
