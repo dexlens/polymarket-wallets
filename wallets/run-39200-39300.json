@@ -958,5 +958,21 @@
     "win_count": 2,
     "rank": 39261,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf8d921ad6e824ae5d386f58585b92bb4cd1608d2",
+    "trader_name": "sapintegration",
+    "tag": "Overall",
+    "overall_gain": 2033.9293376699998,
+    "active_positions": 21,
+    "win_amount": 6740.70884962,
+    "loss_amount": -4706.779511949998,
+    "win_rate": 0.5225806451612903,
+    "total_current_value": 1031.890955,
+    "total_positions": 220,
+    "event_ct": 155,
+    "win_count": 81,
+    "rank": 39262,
+    "trader_tags": ""
   }
 ]
