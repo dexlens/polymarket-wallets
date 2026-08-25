@@ -846,5 +846,21 @@
     "win_count": 15,
     "rank": 20353,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x727793205a79efe1c56d65a26f0c4c8000d5b62f",
+    "trader_name": "dallindi",
+    "tag": "Overall",
+    "overall_gain": 4534.73184,
+    "active_positions": 1,
+    "win_amount": 4534.741840000001,
+    "loss_amount": -0.01,
+    "win_rate": 0.875,
+    "total_current_value": 54,
+    "total_positions": 25,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 20354,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
