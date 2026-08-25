@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 12741,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xacd820295f89ea135159f98c52ad6db4ffde1325",
+    "trader_name": "copy65",
+    "tag": "Overall",
+    "overall_gain": 7939.704660414408,
+    "active_positions": 41,
+    "win_amount": 17395.25429981931,
+    "loss_amount": -9455.549639404902,
+    "win_rate": 0.6166666666666667,
+    "total_current_value": 584.4807892349999,
+    "total_positions": 181,
+    "event_ct": 60,
+    "win_count": 37,
+    "rank": 12742,
+    "trader_tags": ""
   }
 ]
