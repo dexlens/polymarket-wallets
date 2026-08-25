@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 30565,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6cf4896e1b0656bb73af4591da479204e664e1fa",
+    "trader_name": "gabagoolking8052",
+    "tag": "Overall",
+    "overall_gain": 2751.104226361139,
+    "active_positions": 25113,
+    "win_amount": 39155.21083875865,
+    "loss_amount": -36404.1066123975,
+    "win_rate": 0.02707061398456399,
+    "total_current_value": 856.6482100000002,
+    "total_positions": 26687,
+    "event_ct": 26043,
+    "win_count": 705,
+    "rank": 30566,
+    "trader_tags": "1k+ Positions"
   }
 ]
