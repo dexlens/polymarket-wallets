@@ -814,5 +814,21 @@
     "win_count": 95,
     "rank": 52652,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x164d5d775eefcbbe973c44e1fd4295a3d6501b34",
+    "trader_name": "stealthyrapidtoken",
+    "tag": "Overall",
+    "overall_gain": 1362.235371442382,
+    "active_positions": 28,
+    "win_amount": 4138.782863,
+    "loss_amount": -2776.547491557618,
+    "win_rate": 0.5625,
+    "total_current_value": 0,
+    "total_positions": 64,
+    "event_ct": 64,
+    "win_count": 36,
+    "rank": 52653,
+    "trader_tags": ""
   }
 ]
