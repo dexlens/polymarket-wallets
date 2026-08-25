@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 5455,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4365cd00b64437717006a0a81e165717988de242",
+    "trader_name": "pagwhyet0830",
+    "tag": "Overall",
+    "overall_gain": 19827.072,
+    "active_positions": 5,
+    "win_amount": 34854.572,
+    "loss_amount": -15027.5,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 5456,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
