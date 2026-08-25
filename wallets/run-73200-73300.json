@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 73300,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0bd85cd14b1413def756aaf40c5f9470627b9b35",
+    "trader_name": "songhuangcan",
+    "tag": "Overall",
+    "overall_gain": 739.1366985443631,
+    "active_positions": 20,
+    "win_amount": 798.264872,
+    "loss_amount": -59.128173455637,
+    "win_rate": 0.68,
+    "total_current_value": 20.958374999999997,
+    "total_positions": 53,
+    "event_ct": 50,
+    "win_count": 34,
+    "rank": 73301,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
