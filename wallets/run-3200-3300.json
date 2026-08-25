@@ -510,5 +510,21 @@
     "win_count": 6,
     "rank": 3232,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb976ec8f75771f7af08d13546fe3d000867eee8",
+    "trader_name": "G.Hchen",
+    "tag": "Overall",
+    "overall_gain": 35444.199546060016,
+    "active_positions": 10,
+    "win_amount": 36417.83972402,
+    "loss_amount": -973.6401779600001,
+    "win_rate": 0.4857142857142857,
+    "total_current_value": 554.797868,
+    "total_positions": 57,
+    "event_ct": 35,
+    "win_count": 17,
+    "rank": 3233,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
