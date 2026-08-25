@@ -1022,5 +1022,21 @@
     "win_count": 153,
     "rank": 464,
     "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
+  },
+  {
+    "trader": "0xfe144d42554dd872c4dedaf1a870247d274b11ee",
+    "trader_name": "Adept-Closing",
+    "tag": "Overall",
+    "overall_gain": 277915.84967,
+    "active_positions": 7,
+    "win_amount": 310727.178952,
+    "loss_amount": -32811.329282,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 1551.85036,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 27,
+    "rank": 465,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Sports PnL > $100k"
   }
 ]
