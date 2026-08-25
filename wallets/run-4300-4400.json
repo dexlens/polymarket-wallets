@@ -1422,5 +1422,21 @@
     "win_count": 9,
     "rank": 4389,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaac2469db4c243a2931acc252967b171bd97e8ce",
+    "trader_name": "upont",
+    "tag": "Overall",
+    "overall_gain": 25309.376935458575,
+    "active_positions": 15,
+    "win_amount": 34163.89736984413,
+    "loss_amount": -8854.520434385551,
+    "win_rate": 0.8540145985401459,
+    "total_current_value": 38832.923801581,
+    "total_positions": 322,
+    "event_ct": 137,
+    "win_count": 117,
+    "rank": 4390,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
