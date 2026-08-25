@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 36251,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5cc701f13bc155cd3bd8ef1a4f289b6d4693e28d",
+    "trader_name": "zImmortal",
+    "tag": "Overall",
+    "overall_gain": 2243.239802806618,
+    "active_positions": 1,
+    "win_amount": 2340.739802806618,
+    "loss_amount": -97.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.01161,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 36252,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
