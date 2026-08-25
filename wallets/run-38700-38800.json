@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 38787,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5575fbbce111b0d5cae35b4b83382639f0c49afc",
+    "trader_name": "gaslight - 5773",
+    "tag": "Overall",
+    "overall_gain": 2067.2549842037897,
+    "active_positions": 0,
+    "win_amount": 2324.792534609761,
+    "loss_amount": -257.5375504059708,
+    "win_rate": 0.8518518518518519,
+    "total_current_value": 0.000006000268803334041,
+    "total_positions": 72,
+    "event_ct": 54,
+    "win_count": 46,
+    "rank": 38788,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
