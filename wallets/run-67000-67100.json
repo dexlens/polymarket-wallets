@@ -590,5 +590,21 @@
     "win_count": 15,
     "rank": 67038,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a47d15710853442833f74fadabe6dd1cd17d7f1",
+    "trader_name": "JimWuSecond",
+    "tag": "Overall",
+    "overall_gain": 888.0038624475218,
+    "active_positions": 8,
+    "win_amount": 888.0038624475218,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 5508.2451809290005,
+    "total_positions": 13,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 67039,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
