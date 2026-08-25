@@ -1182,5 +1182,21 @@
     "win_count": 2,
     "rank": 56275,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e242f2211381d045d232445a02cc6e361ebec07",
+    "trader_name": "DJwell",
+    "tag": "Overall",
+    "overall_gain": 1206.0335556166995,
+    "active_positions": 2,
+    "win_amount": 2741.5034745754606,
+    "loss_amount": -1535.4699189587614,
+    "win_rate": 0.6445783132530121,
+    "total_current_value": 176.3881820185,
+    "total_positions": 189,
+    "event_ct": 166,
+    "win_count": 107,
+    "rank": 56276,
+    "trader_tags": "> 1 year old"
   }
 ]
