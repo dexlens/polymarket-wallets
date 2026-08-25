@@ -622,5 +622,21 @@
     "win_count": 15,
     "rank": 2539,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd8cb88719dc15c284a56139077ad94dc73d0fa31",
+    "trader_name": "jokerrrrr",
+    "tag": "Overall",
+    "overall_gain": 46162.341122779355,
+    "active_positions": 1,
+    "win_amount": 47162.341122779355,
+    "loss_amount": -1000,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.002225,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 2540,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
