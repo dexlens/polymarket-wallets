@@ -526,5 +526,21 @@
     "win_count": 10,
     "rank": 3733,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xb51749040bed7c273f35669f01ec336a4ece8912",
+    "trader_name": "colten",
+    "tag": "Overall",
+    "overall_gain": 30597.308256,
+    "active_positions": 1,
+    "win_amount": 30695.078238,
+    "loss_amount": -97.769982,
+    "win_rate": 0.7419354838709677,
+    "total_current_value": 35,
+    "total_positions": 35,
+    "event_ct": 31,
+    "win_count": 23,
+    "rank": 3734,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
