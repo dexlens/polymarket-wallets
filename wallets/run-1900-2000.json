@@ -526,5 +526,21 @@
     "win_count": 13,
     "rank": 1933,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3a66b3e5bd108fdf53ed781f6a24ad287a720746",
+    "trader_name": "BGTTDFJDFJ",
+    "tag": "Overall",
+    "overall_gain": 62482.77155326102,
+    "active_positions": 1,
+    "win_amount": 108995.076486,
+    "loss_amount": -46512.304932738974,
+    "win_rate": 0.3617021276595745,
+    "total_current_value": 0,
+    "total_positions": 50,
+    "event_ct": 47,
+    "win_count": 17,
+    "rank": 1934,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
