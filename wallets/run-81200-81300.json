@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 81277,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x22a5ff484199d6c98db30b483869bf1925a16895",
+    "trader_name": "MercyRay",
+    "tag": "Overall",
+    "overall_gain": 609.8814299999999,
+    "active_positions": 4,
+    "win_amount": 2634.81143,
+    "loss_amount": -2024.9299999999998,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 81278,
+    "trader_tags": ""
   }
 ]
