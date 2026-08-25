@@ -638,5 +638,21 @@
     "win_count": 11,
     "rank": 7140,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x90f4d20bb537f5a155a53a264cb9e9b4308a7678",
+    "trader_name": "Fo0pa",
+    "tag": "Overall",
+    "overall_gain": 14997.184102298,
+    "active_positions": 0,
+    "win_amount": 15002.73723,
+    "loss_amount": -5.553127701999999,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.013685000000000001,
+    "total_positions": 14,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 7141,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
