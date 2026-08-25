@@ -1518,5 +1518,21 @@
     "win_count": 12,
     "rank": 84896,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c1df400c606ec0b8dd2078bc4d6c6ed58630565",
+    "trader_name": "LucasHunter",
+    "tag": "Overall",
+    "overall_gain": 553.7365693133511,
+    "active_positions": 2,
+    "win_amount": 571.760609,
+    "loss_amount": -18.024039686649,
+    "win_rate": 0.375,
+    "total_current_value": 0.006351,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 84897,
+    "trader_tags": "> 1 year old"
   }
 ]
