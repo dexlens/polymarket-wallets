@@ -1582,5 +1582,21 @@
     "win_count": 42,
     "rank": 51400,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x134801d7c4f367785365e8711353c712cbc77037",
+    "trader_name": "HappyLab",
+    "tag": "Overall",
+    "overall_gain": 1419.9578701920577,
+    "active_positions": 10,
+    "win_amount": 2338.9638754675016,
+    "loss_amount": -919.006005275443,
+    "win_rate": 0.7605633802816901,
+    "total_current_value": 925.0742927000001,
+    "total_positions": 120,
+    "event_ct": 71,
+    "win_count": 54,
+    "rank": 51401,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
