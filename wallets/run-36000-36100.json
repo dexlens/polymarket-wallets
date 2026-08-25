@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 36045,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8b061efbc841f93380eb1014ed2601b0725c86e6",
+    "trader_name": "pm888888",
+    "tag": "Overall",
+    "overall_gain": 2259.653275365799,
+    "active_positions": 232,
+    "win_amount": 4553.823372555119,
+    "loss_amount": -2294.17009718932,
+    "win_rate": 0.764406779661017,
+    "total_current_value": 19898.737415172003,
+    "total_positions": 1591,
+    "event_ct": 590,
+    "win_count": 451,
+    "rank": 36046,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
