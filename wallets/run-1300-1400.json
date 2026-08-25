@@ -1214,5 +1214,21 @@
     "win_count": 4757,
     "rank": 1376,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x14c32680ffc318892e0d019181e4161aa34cdf68",
+    "trader_name": "borntoolate.eth",
+    "tag": "Overall",
+    "overall_gain": 88545.02332224113,
+    "active_positions": 26,
+    "win_amount": 108676.81972556941,
+    "loss_amount": -20131.7964033283,
+    "win_rate": 0.7540983606557377,
+    "total_current_value": 139809.08407470252,
+    "total_positions": 591,
+    "event_ct": 244,
+    "win_count": 184,
+    "rank": 1377,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
