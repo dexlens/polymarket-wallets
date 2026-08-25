@@ -1198,5 +1198,21 @@
     "win_count": 3,
     "rank": 50476,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0c4d252c5a9ae55dc34be2cb711ca4f5d0178420",
+    "trader_name": "claudebots",
+    "tag": "Overall",
+    "overall_gain": 1463.5220730380113,
+    "active_positions": 22,
+    "win_amount": 2532.588606858011,
+    "loss_amount": -1069.06653382,
+    "win_rate": 0.34545454545454546,
+    "total_current_value": 6.857028,
+    "total_positions": 55,
+    "event_ct": 55,
+    "win_count": 19,
+    "rank": 50477,
+    "trader_tags": "< 30 days old"
   }
 ]
