@@ -366,5 +366,21 @@
     "win_count": 4,
     "rank": 7923,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x886472370b214574b069b3d86154d6bc837f3ed5",
+    "trader_name": "MBAguy",
+    "tag": "Overall",
+    "overall_gain": 13282.531489621118,
+    "active_positions": 176,
+    "win_amount": 85190.58741274924,
+    "loss_amount": -71908.05592312812,
+    "win_rate": 0.7471967380224261,
+    "total_current_value": 140.84987800000002,
+    "total_positions": 1139,
+    "event_ct": 981,
+    "win_count": 733,
+    "rank": 7924,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
