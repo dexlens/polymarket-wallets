@@ -798,5 +798,21 @@
     "win_count": 6,
     "rank": 10350,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbccb04d632366959fbf9988e8cb66b62ae9d8e80",
+    "trader_name": "brodiaga",
+    "tag": "Overall",
+    "overall_gain": 10153.264450361588,
+    "active_positions": 16,
+    "win_amount": 19991.611019028318,
+    "loss_amount": -9838.346568666731,
+    "win_rate": 0.9612903225806452,
+    "total_current_value": 0.06161,
+    "total_positions": 235,
+    "event_ct": 155,
+    "win_count": 149,
+    "rank": 10351,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
