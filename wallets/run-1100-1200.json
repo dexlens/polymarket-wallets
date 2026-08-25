@@ -1182,5 +1182,21 @@
     "win_count": 1,
     "rank": 1174,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x707ee69ecae91e2486ec33a906d3ddd17af51960",
+    "trader_name": "Silver-coin",
+    "tag": "Overall",
+    "overall_gain": 103139.9681687286,
+    "active_positions": 2,
+    "win_amount": 203343.34853062307,
+    "loss_amount": -100203.38036189447,
+    "win_rate": 0.5605815831987075,
+    "total_current_value": 29.100523999999997,
+    "total_positions": 5565,
+    "event_ct": 619,
+    "win_count": 347,
+    "rank": 1175,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
