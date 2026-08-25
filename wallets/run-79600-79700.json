@@ -1006,5 +1006,21 @@
     "win_count": 152,
     "rank": 79664,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x76a086f47a2141c407f3c159b0497a85d64378aa",
+    "trader_name": "4gnymj",
+    "tag": "Overall",
+    "overall_gain": 636,
+    "active_positions": 1,
+    "win_amount": 1603.6799999999998,
+    "loss_amount": -967.68,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 79665,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
