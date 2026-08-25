@@ -606,5 +606,21 @@
     "win_count": 17,
     "rank": 31639,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb4f3523a48fd836fee1edc070c7801fe54035af1",
+    "trader_name": "Rheda",
+    "tag": "Overall",
+    "overall_gain": 2636,
+    "active_positions": 1,
+    "win_amount": 3068.5,
+    "loss_amount": -432.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 31640,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
