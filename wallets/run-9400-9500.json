@@ -1582,5 +1582,21 @@
     "win_count": 9,
     "rank": 9499,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x17f08dbb51291d09437078192dd5eae6806992f2",
+    "trader_name": "arnoldeost",
+    "tag": "Overall",
+    "overall_gain": 11033,
+    "active_positions": 0,
+    "win_amount": 11033,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9500,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
