@@ -622,5 +622,21 @@
     "win_count": 2,
     "rank": 67240,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x183e17becafa1edc3ccf3bc74b3367a64efe3154",
+    "trader_name": "ohhelive",
+    "tag": "Overall",
+    "overall_gain": 882.5,
+    "active_positions": 1,
+    "win_amount": 954.5,
+    "loss_amount": -72,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 67241,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
