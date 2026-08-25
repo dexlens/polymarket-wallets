@@ -590,5 +590,21 @@
     "win_count": 17,
     "rank": 44738,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2311e9653ea083cb7262ed22df792e735bb3dc5a",
+    "trader_name": "edcvnshf",
+    "tag": "Overall",
+    "overall_gain": 1726.2586454800717,
+    "active_positions": 3,
+    "win_amount": 2040.9472454800716,
+    "loss_amount": -314.6886,
+    "win_rate": 0.96875,
+    "total_current_value": 149.443404,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 31,
+    "rank": 44739,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
