@@ -414,5 +414,21 @@
     "win_count": 18,
     "rank": 1526,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8648027882a7b78238f8aaf2506be73a5aa5bd2f",
+    "trader_name": "88kiloMatrixx",
+    "tag": "Overall",
+    "overall_gain": 79061.00512284205,
+    "active_positions": 689,
+    "win_amount": 234570.0792525647,
+    "loss_amount": -155509.07412972266,
+    "win_rate": 0.5613250953069541,
+    "total_current_value": 1110.4819127100004,
+    "total_positions": 45579,
+    "event_ct": 22821,
+    "win_count": 12810,
+    "rank": 1527,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
