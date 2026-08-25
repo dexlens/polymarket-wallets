@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 50115,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xefd8d6cc5a876f33bbfaedf34567625c8eecc525",
+    "trader_name": "tableaux.parisies",
+    "tag": "Overall",
+    "overall_gain": 1479.6241660486621,
+    "active_positions": 1,
+    "win_amount": 1543.209132590396,
+    "loss_amount": -63.58496654173399,
+    "win_rate": 0.8,
+    "total_current_value": 0.010798,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 50116,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
