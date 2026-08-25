@@ -238,5 +238,21 @@
     "win_count": 1,
     "rank": 72416,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x399b5734cbd9a133a66251b45f71ab4b8e71e806",
+    "trader_name": "B99",
+    "tag": "Overall",
+    "overall_gain": 757.1267546699281,
+    "active_positions": 14,
+    "win_amount": 1029.0259378142841,
+    "loss_amount": -271.89918314435596,
+    "win_rate": 0.2,
+    "total_current_value": 82.692999936,
+    "total_positions": 16,
+    "event_ct": 15,
+    "win_count": 3,
+    "rank": 72417,
+    "trader_tags": ""
   }
 ]
