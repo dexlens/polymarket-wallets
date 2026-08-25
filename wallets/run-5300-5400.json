@@ -670,5 +670,21 @@
     "win_count": 16,
     "rank": 5342,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xc6ca3edb6a3a2b76a756c683939ef865a4e9bb34",
+    "trader_name": "TTX1",
+    "tag": "Overall",
+    "overall_gain": 20262.890627475404,
+    "active_positions": 0,
+    "win_amount": 20262.890627475404,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.010948000000000001,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 5343,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
