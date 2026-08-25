@@ -1294,5 +1294,21 @@
     "win_count": 60,
     "rank": 1381,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe529bca3ba9ab80b3d8fb3fc1e657521f64be7b1",
+    "trader_name": "HappyTapping",
+    "tag": "Overall",
+    "overall_gain": 88108.9660872882,
+    "active_positions": 7,
+    "win_amount": 177547.58934967962,
+    "loss_amount": -89438.62326239144,
+    "win_rate": 0.5284339457567804,
+    "total_current_value": 0.139804059,
+    "total_positions": 1185,
+    "event_ct": 1143,
+    "win_count": 604,
+    "rank": 1382,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
