@@ -926,5 +926,21 @@
     "win_count": 7,
     "rank": 45359,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0faa534bee785733c1b39313a5f88110c51a76de",
+    "trader_name": "VAFR21412",
+    "tag": "Overall",
+    "overall_gain": 1696.52122,
+    "active_positions": 1,
+    "win_amount": 1839.5712130000002,
+    "loss_amount": -143.049993,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 7,
+    "rank": 45360,
+    "trader_tags": "> 1 year old"
   }
 ]
