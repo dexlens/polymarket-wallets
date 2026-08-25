@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 9620,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x76386e64737fc3bba853d2fae06db93d792181df",
+    "trader_name": "Lysandratt",
+    "tag": "Overall",
+    "overall_gain": 10888,
+    "active_positions": 0,
+    "win_amount": 10888,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 9621,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
