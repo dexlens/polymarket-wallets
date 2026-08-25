@@ -1166,5 +1166,21 @@
     "win_count": 3,
     "rank": 82574,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x6e35cf89b51112c9dd0e197d49594b59e48db13c",
+    "trader_name": "DAGUAI",
+    "tag": "Overall",
+    "overall_gain": 589.005747606924,
+    "active_positions": 0,
+    "win_amount": 590.022265004,
+    "loss_amount": -1.016517397076,
+    "win_rate": 0.5,
+    "total_current_value": 0.106558,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 82575,
+    "trader_tags": "> 1 year old"
   }
 ]
