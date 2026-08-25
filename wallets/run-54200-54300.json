@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 54299,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf67cfaa010e9ab5a0ae68f7c0cb2a621c83b4ff1",
+    "trader_name": "urqedvb",
+    "tag": "Overall",
+    "overall_gain": 1291.060505010834,
+    "active_positions": 3,
+    "win_amount": 1566.6916090000002,
+    "loss_amount": -275.63110398916604,
+    "win_rate": 0.9487179487179487,
+    "total_current_value": 166.032834,
+    "total_positions": 40,
+    "event_ct": 39,
+    "win_count": 37,
+    "rank": 54300,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
