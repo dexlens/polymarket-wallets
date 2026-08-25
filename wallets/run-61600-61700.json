@@ -238,5 +238,21 @@
     "win_count": 149,
     "rank": 61616,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a6a2a13dd82660656c026bddada8f267b434846",
+    "trader_name": "theamityaff",
+    "tag": "Overall",
+    "overall_gain": 1031.6473418430091,
+    "active_positions": 7,
+    "win_amount": 1630.791397607013,
+    "loss_amount": -599.1440557640041,
+    "win_rate": 0.8716356107660456,
+    "total_current_value": 619.9686900000002,
+    "total_positions": 1080,
+    "event_ct": 483,
+    "win_count": 421,
+    "rank": 61617,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
