@@ -1070,5 +1070,21 @@
     "win_count": 26,
     "rank": 6367,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59506f839022561f48eec644d3460439bc508c48",
+    "trader_name": "rip",
+    "tag": "Overall",
+    "overall_gain": 16821.44140788084,
+    "active_positions": 28,
+    "win_amount": 56180.49458232352,
+    "loss_amount": -39359.053174442655,
+    "win_rate": 0.5102739726027398,
+    "total_current_value": 9179.352143936,
+    "total_positions": 539,
+    "event_ct": 292,
+    "win_count": 149,
+    "rank": 6368,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
