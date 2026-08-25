@@ -894,5 +894,21 @@
     "win_count": 10,
     "rank": 17356,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9bacad856ab3d85baf13b3fc6187596cd5f08ae9",
+    "trader_name": "FuturecastQSDJT",
+    "tag": "Overall",
+    "overall_gain": 5412.5,
+    "active_positions": 4,
+    "win_amount": 6889.5,
+    "loss_amount": -1477,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 17357,
+    "trader_tags": ""
   }
 ]
