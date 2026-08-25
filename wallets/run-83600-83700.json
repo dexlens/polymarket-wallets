@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 83662,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe07a0dfbc1419929a18c169abbf8af6b34e0bf36",
+    "trader_name": "anOrangeCatSmile",
+    "tag": "Overall",
+    "overall_gain": 571.533793401566,
+    "active_positions": 1,
+    "win_amount": 599.3547159999999,
+    "loss_amount": -27.820922598434,
+    "win_rate": 0.9825581395348837,
+    "total_current_value": 25.25,
+    "total_positions": 350,
+    "event_ct": 344,
+    "win_count": 338,
+    "rank": 83663,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
