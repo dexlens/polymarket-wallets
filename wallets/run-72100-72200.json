@@ -302,5 +302,21 @@
     "win_count": 2,
     "rank": 72120,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x79a899a6c52addf90a67092091e24c407355bb66",
+    "trader_name": "0xOT",
+    "tag": "Overall",
+    "overall_gain": 763.839246355908,
+    "active_positions": 14,
+    "win_amount": 940.9695486784699,
+    "loss_amount": -177.13030232256207,
+    "win_rate": 0.8125,
+    "total_current_value": 5123.3276858535,
+    "total_positions": 47,
+    "event_ct": 32,
+    "win_count": 26,
+    "rank": 72121,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
