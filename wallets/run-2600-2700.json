@@ -1278,5 +1278,21 @@
     "win_count": 35,
     "rank": 2680,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf0c051d74409756d4bfaeb8cb962685ddb35f9e6",
+    "trader_name": "OPNHN",
+    "tag": "Overall",
+    "overall_gain": 43380.783861166135,
+    "active_positions": 7,
+    "win_amount": 63086.06588865088,
+    "loss_amount": -19705.28202748476,
+    "win_rate": 0.8289473684210527,
+    "total_current_value": 131.275842,
+    "total_positions": 84,
+    "event_ct": 76,
+    "win_count": 63,
+    "rank": 2681,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
