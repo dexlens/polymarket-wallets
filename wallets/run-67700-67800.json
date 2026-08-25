@@ -1342,5 +1342,21 @@
     "win_count": 15,
     "rank": 67785,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3d17ecefa1f14ce4a638c1c58ddc08e6932db1fd",
+    "trader_name": "Spinjitzu",
+    "tag": "Overall",
+    "overall_gain": 866.9462640747907,
+    "active_positions": 39,
+    "win_amount": 4617.710108954724,
+    "loss_amount": -3750.763844879935,
+    "win_rate": 0.7168367346938775,
+    "total_current_value": 0.6298480000000002,
+    "total_positions": 437,
+    "event_ct": 392,
+    "win_count": 281,
+    "rank": 67786,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
