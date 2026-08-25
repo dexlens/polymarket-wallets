@@ -174,5 +174,21 @@
     "win_count": 30,
     "rank": 2911,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc174f8185c2b8243304108bb30bc0a4f26986941",
+    "trader_name": "RealDeal",
+    "tag": "Overall",
+    "overall_gain": 39507.92841832714,
+    "active_positions": 40,
+    "win_amount": 217047.66954435984,
+    "loss_amount": -177539.74112603266,
+    "win_rate": 0.6609686609686609,
+    "total_current_value": 67.244109,
+    "total_positions": 533,
+    "event_ct": 351,
+    "win_count": 232,
+    "rank": 2912,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
