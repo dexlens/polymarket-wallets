@@ -1278,5 +1278,21 @@
     "win_count": 4,
     "rank": 46181,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xce52da7c2ec98a5ca479351b9a3bd862b203a1b3",
+    "trader_name": "gavrilkovolodya",
+    "tag": "Overall",
+    "overall_gain": 1657.9484269999998,
+    "active_positions": 2,
+    "win_amount": 4781.048427,
+    "loss_amount": -3123.1,
+    "win_rate": 0.6190476190476191,
+    "total_current_value": 805,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 13,
+    "rank": 46182,
+    "trader_tags": "< 30 days old"
   }
 ]
