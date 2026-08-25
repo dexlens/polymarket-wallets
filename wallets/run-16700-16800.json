@@ -686,5 +686,21 @@
     "win_count": 8,
     "rank": 16743,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10704da0998ac849b2e8d0201c20e4911266e095",
+    "trader_name": "luochen2",
+    "tag": "Overall",
+    "overall_gain": 5670.568962636496,
+    "active_positions": 22,
+    "win_amount": 31911.405308660003,
+    "loss_amount": -26240.83634602351,
+    "win_rate": 0.3125,
+    "total_current_value": 0.000004,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 10,
+    "rank": 16744,
+    "trader_tags": "< 30 days old"
   }
 ]
