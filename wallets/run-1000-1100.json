@@ -750,5 +750,21 @@
     "win_count": 34,
     "rank": 1047,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdde15ebd95330ce69136dc0ccd810d22382e02c5",
+    "trader_name": "Dicedicedice",
+    "tag": "Overall",
+    "overall_gain": 115578.10893846655,
+    "active_positions": 0,
+    "win_amount": 119963.816,
+    "loss_amount": -4385.707061533456,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 1048,
+    "trader_tags": "Overall PnL > $100k; < 30 days old; Politics PnL > $100k"
   }
 ]
