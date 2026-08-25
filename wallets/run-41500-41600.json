@@ -1182,5 +1182,21 @@
     "win_count": 8,
     "rank": 41575,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x048a1518d50dba05808b2adcfaea6616b7b5eb07",
+    "trader_name": "Sinch",
+    "tag": "Overall",
+    "overall_gain": 1900.7998985362924,
+    "active_positions": 8,
+    "win_amount": 9423.450481383457,
+    "loss_amount": -7522.650582847164,
+    "win_rate": 0.31746031746031744,
+    "total_current_value": 0.060314505500000004,
+    "total_positions": 95,
+    "event_ct": 63,
+    "win_count": 20,
+    "rank": 41576,
+    "trader_tags": "> 1 year old"
   }
 ]
