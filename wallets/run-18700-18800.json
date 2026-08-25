@@ -446,5 +446,21 @@
     "win_count": 12,
     "rank": 18728,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f16feb66b8a4355528fd9eb1f6fceb989337013",
+    "trader_name": "empty-dog",
+    "tag": "Overall",
+    "overall_gain": 4971.243744442368,
+    "active_positions": 2465,
+    "win_amount": 7458.438343658525,
+    "loss_amount": -2487.194599216161,
+    "win_rate": 0.6178212722122071,
+    "total_current_value": 338.077169186,
+    "total_positions": 10299,
+    "event_ct": 7766,
+    "win_count": 4798,
+    "rank": 18729,
+    "trader_tags": "1k+ Positions"
   }
 ]
