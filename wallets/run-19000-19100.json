@@ -910,5 +910,21 @@
     "win_count": 1,
     "rank": 19057,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37e53e4c491cb005f5ea6995be982f3972711d09",
+    "trader_name": "krix",
+    "tag": "Overall",
+    "overall_gain": 4881.587510770172,
+    "active_positions": 5,
+    "win_amount": 32119.306502,
+    "loss_amount": -27237.718991229827,
+    "win_rate": 0.26666666666666666,
+    "total_current_value": 0,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 4,
+    "rank": 19058,
+    "trader_tags": "> 1 year old"
   }
 ]
