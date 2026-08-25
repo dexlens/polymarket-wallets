@@ -750,5 +750,21 @@
     "win_count": 4,
     "rank": 4247,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe85f1414171cd41707dc7b256bd3db269f94a28c",
+    "trader_name": "scallopbucket",
+    "tag": "Overall",
+    "overall_gain": 26310.351203,
+    "active_positions": 0,
+    "win_amount": 26310.351203,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.01,
+    "total_positions": 7,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 4248,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
