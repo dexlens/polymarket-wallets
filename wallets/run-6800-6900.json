@@ -446,5 +446,21 @@
     "win_count": 11,
     "rank": 6828,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2a2b2e18f4bd8c7bac2bdab53951628c1a1234e4",
+    "trader_name": "smartmoney0",
+    "tag": "Overall",
+    "overall_gain": 15697.627559473212,
+    "active_positions": 29,
+    "win_amount": 55017.92933555,
+    "loss_amount": -39320.3017760768,
+    "win_rate": 0.5588235294117647,
+    "total_current_value": 0.009801,
+    "total_positions": 68,
+    "event_ct": 68,
+    "win_count": 38,
+    "rank": 6829,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
