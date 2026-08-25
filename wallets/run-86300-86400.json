@@ -1214,5 +1214,21 @@
     "win_count": 5,
     "rank": 86377,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x1f93da96006b055d08e38371ef966c6bdc37442c",
+    "trader_name": "cae1000",
+    "tag": "Overall",
+    "overall_gain": 534.0392383624395,
+    "active_positions": 3,
+    "win_amount": 1842.163461137439,
+    "loss_amount": -1308.1242227750001,
+    "win_rate": 0.8153846153846154,
+    "total_current_value": 0.20914800000000003,
+    "total_positions": 91,
+    "event_ct": 65,
+    "win_count": 53,
+    "rank": 86378,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
