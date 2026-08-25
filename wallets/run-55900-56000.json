@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 55979,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x95da3b06767846be00c0be0361cdfb5d75fdceb3",
+    "trader_name": "dadasha",
+    "tag": "Overall",
+    "overall_gain": 1219.461697342454,
+    "active_positions": 1,
+    "win_amount": 1219.461697342454,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0035259999999999996,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 55980,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
