@@ -318,5 +318,21 @@
     "win_count": 43,
     "rank": 5920,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb5d2f38cdb5b71816dc4fdf5eb676a3b230d317b",
+    "trader_name": "TheGuRu",
+    "tag": "Overall",
+    "overall_gain": 18141.09607046461,
+    "active_positions": 5,
+    "win_amount": 85822.61386446464,
+    "loss_amount": -67681.517794,
+    "win_rate": 0.5983606557377049,
+    "total_current_value": 61.69841,
+    "total_positions": 963,
+    "event_ct": 854,
+    "win_count": 511,
+    "rank": 5921,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
