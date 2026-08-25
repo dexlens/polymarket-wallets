@@ -622,5 +622,21 @@
     "win_count": 8,
     "rank": 4339,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0690a643a5be463e3ebb1bc900831423acd828a6",
+    "trader_name": "santinaparis",
+    "tag": "Overall",
+    "overall_gain": 25615.44,
+    "active_positions": 0,
+    "win_amount": 25615.44,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 4340,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
