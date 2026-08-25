@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 14551,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37de5810f247a0cba8dc95b626bb4e7b9b32f512",
+    "trader_name": "horse2026",
+    "tag": "Overall",
+    "overall_gain": 6754.584073636214,
+    "active_positions": 695,
+    "win_amount": 33854.33636804081,
+    "loss_amount": -27099.752294404592,
+    "win_rate": 0.6466165413533834,
+    "total_current_value": 79.21900269699996,
+    "total_positions": 2345,
+    "event_ct": 798,
+    "win_count": 516,
+    "rank": 14552,
+    "trader_tags": "1k+ Positions"
   }
 ]
