@@ -862,5 +862,21 @@
     "win_count": 16,
     "rank": 64755,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe35378b7dc1ce78fb0c99bc47408d359e4115a51",
+    "trader_name": "Yrri",
+    "tag": "Overall",
+    "overall_gain": 952.6203997333321,
+    "active_positions": 1,
+    "win_amount": 2729.567562,
+    "loss_amount": -1776.9471622666676,
+    "win_rate": 0.5185185185185185,
+    "total_current_value": 0,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 14,
+    "rank": 64756,
+    "trader_tags": "> 1 year old"
   }
 ]
