@@ -766,5 +766,21 @@
     "win_count": 3,
     "rank": 60049,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9d59be4789f094416bddadb2bd527b76e9d46bb3",
+    "trader_name": "AccruingBadKarma",
+    "tag": "Overall",
+    "overall_gain": 1074.91081262867,
+    "active_positions": 11,
+    "win_amount": 1390.3050566476782,
+    "loss_amount": -315.394244019008,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 1573.6224891074999,
+    "total_positions": 20,
+    "event_ct": 12,
+    "win_count": 11,
+    "rank": 60050,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
