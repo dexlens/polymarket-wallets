@@ -1518,5 +1518,21 @@
     "win_count": 2,
     "rank": 46396,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x87569f00d7e59cd33042945a343d88d1beaf93ac",
+    "trader_name": "Speculative",
+    "tag": "Overall",
+    "overall_gain": 1647.2774234789497,
+    "active_positions": 0,
+    "win_amount": 1852.2705434789498,
+    "loss_amount": -204.99312,
+    "win_rate": 0.875,
+    "total_current_value": 0.030558,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 46397,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
