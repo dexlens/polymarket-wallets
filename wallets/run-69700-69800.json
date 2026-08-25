@@ -1438,5 +1438,21 @@
     "win_count": 4,
     "rank": 69791,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x796301e7bb7bb0891993b4b35ca2bdc10fe35c7b",
+    "trader_name": "incline",
+    "tag": "Overall",
+    "overall_gain": 815.6122034298303,
+    "active_positions": 3,
+    "win_amount": 15139.918389574746,
+    "loss_amount": -14324.306186144917,
+    "win_rate": 0.5874125874125874,
+    "total_current_value": 52.74109665000001,
+    "total_positions": 286,
+    "event_ct": 143,
+    "win_count": 84,
+    "rank": 69792,
+    "trader_tags": ""
   }
 ]
