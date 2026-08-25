@@ -1566,5 +1566,21 @@
     "win_count": 90,
     "rank": 85399,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0c270c4bdc41133c6ed4fbaa619e58fd2ac7c735",
+    "trader_name": "bobzhang1120",
+    "tag": "Overall",
+    "overall_gain": 546.6481337528471,
+    "active_positions": 0,
+    "win_amount": 1697.6335867528471,
+    "loss_amount": -1150.985453,
+    "win_rate": 0.9863945578231292,
+    "total_current_value": 0.017913000000000002,
+    "total_positions": 176,
+    "event_ct": 147,
+    "win_count": 145,
+    "rank": 85400,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
