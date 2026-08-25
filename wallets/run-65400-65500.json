@@ -318,5 +318,21 @@
     "win_count": 1,
     "rank": 65421,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd0cedd723849398a333e7a7ab49a26395fa79947",
+    "trader_name": "timurka2",
+    "tag": "Overall",
+    "overall_gain": 932.7023249029401,
+    "active_positions": 1,
+    "win_amount": 1270.5616049999999,
+    "loss_amount": -337.85928009706,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 8,
+    "rank": 65422,
+    "trader_tags": "> 1 year old"
   }
 ]
