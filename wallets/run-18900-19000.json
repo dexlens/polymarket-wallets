@@ -414,5 +414,21 @@
     "win_count": 20,
     "rank": 18926,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb98bbf45fc10eead47402eb15c8271bfb018bfd",
+    "trader_name": "Onchain-Capital",
+    "tag": "Overall",
+    "overall_gain": 4918.165471116685,
+    "active_positions": 17,
+    "win_amount": 30857.695332867515,
+    "loss_amount": -25939.52986175083,
+    "win_rate": 0.3924050632911392,
+    "total_current_value": 675.5279826839999,
+    "total_positions": 279,
+    "event_ct": 158,
+    "win_count": 62,
+    "rank": 18927,
+    "trader_tags": "> 1 year old"
   }
 ]
