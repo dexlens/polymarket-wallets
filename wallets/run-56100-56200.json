@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 56185,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf8da8084ca13fdffa2949cf0bc0f76313e43c2b4",
+    "trader_name": "fdev25",
+    "tag": "Overall",
+    "overall_gain": 1210.4008572000002,
+    "active_positions": 8,
+    "win_amount": 4526.6145922000005,
+    "loss_amount": -3316.213735,
+    "win_rate": 0.9103448275862069,
+    "total_current_value": 0.009994,
+    "total_positions": 149,
+    "event_ct": 145,
+    "win_count": 132,
+    "rank": 56186,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
