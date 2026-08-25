@@ -622,5 +622,21 @@
     "win_count": 24,
     "rank": 1439,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0ac97e4f5c542cd98c226ae8e1736ae78b489641",
+    "trader_name": "7thStaircase",
+    "tag": "Overall",
+    "overall_gain": 84197.02937012313,
+    "active_positions": 408,
+    "win_amount": 240009.04848279772,
+    "loss_amount": -155812.01911267464,
+    "win_rate": 0.6067714096038946,
+    "total_current_value": 941.2672369999999,
+    "total_positions": 8228,
+    "event_ct": 4519,
+    "win_count": 2742,
+    "rank": 1440,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
