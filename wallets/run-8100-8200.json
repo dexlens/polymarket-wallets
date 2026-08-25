@@ -350,5 +350,21 @@
     "win_count": 67,
     "rank": 8122,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0820d87289b57ccdadee55a90d4dccfd14ada815",
+    "trader_name": "wrnmlgb",
+    "tag": "Overall",
+    "overall_gain": 12950.805608126047,
+    "active_positions": 7,
+    "win_amount": 35919.339868999996,
+    "loss_amount": -22968.534260873952,
+    "win_rate": 0.4482758620689655,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 29,
+    "win_count": 13,
+    "rank": 8123,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
