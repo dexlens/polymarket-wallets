@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 4531,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x631c2b93ff03c21d29b2b73af4ff965e88ea450f",
+    "trader_name": "dube",
+    "tag": "Overall",
+    "overall_gain": 24296.949090872473,
+    "active_positions": 14,
+    "win_amount": 33456.96331693186,
+    "loss_amount": -9160.01422605939,
+    "win_rate": 0.6464088397790055,
+    "total_current_value": 40395.0428127615,
+    "total_positions": 307,
+    "event_ct": 181,
+    "win_count": 117,
+    "rank": 4532,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
