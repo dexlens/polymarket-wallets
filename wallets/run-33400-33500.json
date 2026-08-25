@@ -414,5 +414,21 @@
     "win_count": 3,
     "rank": 33427,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x124b68288c3b8346883028481101477bdea2bd60",
+    "trader_name": "zaeda",
+    "tag": "Overall",
+    "overall_gain": 2471.794742446859,
+    "active_positions": 17,
+    "win_amount": 2568.018846871664,
+    "loss_amount": -96.224104424805,
+    "win_rate": 0.9036144578313253,
+    "total_current_value": 2584.0399102064994,
+    "total_positions": 121,
+    "event_ct": 83,
+    "win_count": 75,
+    "rank": 33428,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
