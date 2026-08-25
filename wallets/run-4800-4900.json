@@ -1502,5 +1502,21 @@
     "win_count": 211,
     "rank": 4894,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7dd0ef80b582891d0961ec9cfc65a4d8cae12b4b",
+    "trader_name": "horatio",
+    "tag": "Overall",
+    "overall_gain": 22190.885774278187,
+    "active_positions": 131,
+    "win_amount": 209321.91305510976,
+    "loss_amount": -187131.0272808315,
+    "win_rate": 0.5949535192563081,
+    "total_current_value": 17094.0116342195,
+    "total_positions": 1102,
+    "event_ct": 753,
+    "win_count": 448,
+    "rank": 4895,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
