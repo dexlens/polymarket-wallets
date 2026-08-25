@@ -12,7 +12,7 @@ const realdata = data.data;
  * The RUN thingie
  */
 const runStart = 0;
-const runEnd = 100;
+const runEnd = 3;
 const runName = `run-${runStart}-${runEnd}`;
 
 const thisrunsfilename = `wallets/${runName}.json`;
