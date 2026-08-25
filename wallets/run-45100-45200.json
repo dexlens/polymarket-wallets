@@ -1310,5 +1310,21 @@
     "win_count": 10,
     "rank": 45183,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8aa14e38813089fcfe41c92aa812cdb76e3b3ff8",
+    "trader_name": "tues413",
+    "tag": "Overall",
+    "overall_gain": 1704.8026281006087,
+    "active_positions": 9,
+    "win_amount": 2182.5267381680337,
+    "loss_amount": -477.724110067425,
+    "win_rate": 0.64,
+    "total_current_value": 151.10420003999997,
+    "total_positions": 27,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 45184,
+    "trader_tags": ""
   }
 ]
