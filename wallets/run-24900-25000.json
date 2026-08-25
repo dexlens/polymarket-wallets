@@ -158,5 +158,21 @@
     "win_count": 15,
     "rank": 24911,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x23c46463c281deb26a041fdcc24ae9c5d7629c42",
+    "trader_name": "oidocrop",
+    "tag": "Overall",
+    "overall_gain": 3556.3663955985407,
+    "active_positions": 5,
+    "win_amount": 4466.737099736703,
+    "loss_amount": -910.3707041381607,
+    "win_rate": 0.9097744360902256,
+    "total_current_value": 930.76179,
+    "total_positions": 660,
+    "event_ct": 266,
+    "win_count": 242,
+    "rank": 24912,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
