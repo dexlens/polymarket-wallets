@@ -286,5 +286,21 @@
     "win_count": 20,
     "rank": 11818,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x54f5770a6e5149f565f1a4c58f4cfacfe18c6eb5",
+    "trader_name": "escape-hatch",
+    "tag": "Overall",
+    "overall_gain": 8764.44488338534,
+    "active_positions": 0,
+    "win_amount": 8764.44488338534,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001095,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 11819,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
