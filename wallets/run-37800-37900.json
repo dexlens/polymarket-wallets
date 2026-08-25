@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 37840,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2609ce665d6d8ef012b0af0f2c71ab24969f7f01",
+    "trader_name": "Wispher",
+    "tag": "Overall",
+    "overall_gain": 2129.8599999999997,
+    "active_positions": 0,
+    "win_amount": 2129.8599999999997,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 37841,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
