@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 30778,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7c8a9dceebfe6039627b3cd1ade5502b55f376e",
+    "trader_name": "BasiliskBasis",
+    "tag": "Overall",
+    "overall_gain": 2726,
+    "active_positions": 3,
+    "win_amount": 4206.5,
+    "loss_amount": -1480.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 30779,
+    "trader_tags": ""
   }
 ]
