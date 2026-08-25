@@ -302,5 +302,21 @@
     "win_count": 11,
     "rank": 6119,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1244bf785dab1070cc97e5e414b874aec5cb2e60",
+    "trader_name": "Zolmeth",
+    "tag": "Overall",
+    "overall_gain": 17521.066393503388,
+    "active_positions": 3,
+    "win_amount": 17665.063599392568,
+    "loss_amount": -143.997205889181,
+    "win_rate": 0.9444444444444444,
+    "total_current_value": 0.0038115625000000003,
+    "total_positions": 39,
+    "event_ct": 36,
+    "win_count": 34,
+    "rank": 6120,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
