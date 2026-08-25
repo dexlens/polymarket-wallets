@@ -1454,5 +1454,21 @@
     "win_count": 2,
     "rank": 40492,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ef16c514a657fc4051d687ab74de95b79122a13",
+    "trader_name": "westworm",
+    "tag": "Overall",
+    "overall_gain": 1966.3646686793868,
+    "active_positions": 0,
+    "win_amount": 1985.5189876959898,
+    "loss_amount": -19.154319016603,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 0.008386999999999999,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 40493,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
