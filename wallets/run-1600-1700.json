@@ -142,5 +142,21 @@
     "win_count": 1,
     "rank": 1609,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x727dd86fa445ee4ee1a660d5f6fefbbe1b27867e",
+    "trader_name": "typonex6",
+    "tag": "Overall",
+    "overall_gain": 76135.55987957021,
+    "active_positions": 2,
+    "win_amount": 88214.82103671118,
+    "loss_amount": -12079.261157140958,
+    "win_rate": 0.5,
+    "total_current_value": 0.016538999999999998,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 1610,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
