@@ -974,5 +974,21 @@
     "win_count": 33,
     "rank": 7361,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86bab339559a35a6866b9802fe5393f32a960d1f",
+    "trader_name": "asthma",
+    "tag": "Overall",
+    "overall_gain": 14462.733827881344,
+    "active_positions": 1,
+    "win_amount": 19462.113076,
+    "loss_amount": -4999.3792481186565,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 7362,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
