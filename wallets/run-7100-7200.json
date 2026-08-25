@@ -1294,5 +1294,21 @@
     "win_count": 4493,
     "rank": 7181,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x2a620e8df5e7475e9587f989bc975769feb6618a",
+    "trader_name": "rockybilboa",
+    "tag": "Overall",
+    "overall_gain": 14904.814393999999,
+    "active_positions": 1,
+    "win_amount": 15704.814393999999,
+    "loss_amount": -800,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 7182,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
