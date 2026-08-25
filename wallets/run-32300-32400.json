@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 32313,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x917bc30bcaed2ddee828d05044357c4024ad6600",
+    "trader_name": "Porates",
+    "tag": "Overall",
+    "overall_gain": 2570.4235215900007,
+    "active_positions": 5,
+    "win_amount": 2613.8934925900007,
+    "loss_amount": -43.469971,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 4642.050561190001,
+    "total_positions": 19,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 32314,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
