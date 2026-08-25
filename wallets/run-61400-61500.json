@@ -1534,5 +1534,21 @@
     "win_count": 4,
     "rank": 61497,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1442641397bb12b3e4cb4f481d145a8b97d57f00",
+    "trader_name": "banananananana",
+    "tag": "Overall",
+    "overall_gain": 1034.774172606145,
+    "active_positions": 6,
+    "win_amount": 1041.774172606145,
+    "loss_amount": -7,
+    "win_rate": 0.875,
+    "total_current_value": 19.174145,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 61498,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
