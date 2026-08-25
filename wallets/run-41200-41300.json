@@ -1086,5 +1086,21 @@
     "win_count": 2,
     "rank": 41269,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x048a52c950a97b6ad0f751ad1cc426b0386f879e",
+    "trader_name": "cipriz",
+    "tag": "Overall",
+    "overall_gain": 1918.784223897785,
+    "active_positions": 3,
+    "win_amount": 4615.239533770777,
+    "loss_amount": -2696.45530987299,
+    "win_rate": 0.5680580762250453,
+    "total_current_value": 31.83209799999999,
+    "total_positions": 595,
+    "event_ct": 551,
+    "win_count": 313,
+    "rank": 41270,
+    "trader_tags": "> 1 year old"
   }
 ]
