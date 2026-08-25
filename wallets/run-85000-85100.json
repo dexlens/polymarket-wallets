@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 85034,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x787b2bb07161c9d59cc0c2771a18722539945c44",
+    "trader_name": "ericcisneros",
+    "tag": "Overall",
+    "overall_gain": 551.9272272063359,
+    "active_positions": 1,
+    "win_amount": 1262.019937227062,
+    "loss_amount": -710.092710020726,
+    "win_rate": 0.5789473684210527,
+    "total_current_value": 0.019575,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 11,
+    "rank": 85035,
+    "trader_tags": ""
   }
 ]
