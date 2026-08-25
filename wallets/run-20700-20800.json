@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 20789,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90318b46823c05e1472cee37981f244ee2ad72a7",
+    "trader_name": "yanchimanzu",
+    "tag": "Overall",
+    "overall_gain": 4417.99,
+    "active_positions": 1,
+    "win_amount": 4418.09,
+    "loss_amount": -0.1,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 19.89,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 20790,
+    "trader_tags": "< 30 days old"
   }
 ]
