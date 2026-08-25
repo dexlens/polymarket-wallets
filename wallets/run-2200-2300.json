@@ -574,5 +574,21 @@
     "win_count": 198,
     "rank": 2236,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x7b8c7b55d8c9229911d26f28752ae4f92895445f",
+    "trader_name": "Faelthar",
+    "tag": "Overall",
+    "overall_gain": 53546.12320496613,
+    "active_positions": 3,
+    "win_amount": 55115.01609596612,
+    "loss_amount": -1568.892891,
+    "win_rate": 0.8840579710144928,
+    "total_current_value": 0.0020587640000000003,
+    "total_positions": 71,
+    "event_ct": 69,
+    "win_count": 61,
+    "rank": 2237,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
