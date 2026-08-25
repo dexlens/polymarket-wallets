@@ -750,5 +750,21 @@
     "win_count": 19,
     "rank": 10047,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0d4d4e5c288d42d58907600a2f8f4b5582113a35",
+    "trader_name": "adshong",
+    "tag": "Overall",
+    "overall_gain": 10442.814899999998,
+    "active_positions": 3,
+    "win_amount": 14465.8149,
+    "loss_amount": -4023,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 10048,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
