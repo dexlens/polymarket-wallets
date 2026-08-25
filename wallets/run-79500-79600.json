@@ -1214,5 +1214,21 @@
     "win_count": 2,
     "rank": 79577,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e74e1677490a855291664bdc43dce8dc565beb4",
+    "trader_name": "naoke",
+    "tag": "Overall",
+    "overall_gain": 637.588273961841,
+    "active_positions": 3,
+    "win_amount": 937.397221609211,
+    "loss_amount": -299.80894764737,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 79578,
+    "trader_tags": ""
   }
 ]
