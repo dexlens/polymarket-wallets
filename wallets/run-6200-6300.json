@@ -1454,5 +1454,21 @@
     "win_count": 16,
     "rank": 6291,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb94b4d99c69420b7daf0b9814daf558626b1a02b",
+    "trader_name": "JohnAdams54321",
+    "tag": "Overall",
+    "overall_gain": 17011.15456609886,
+    "active_positions": 1,
+    "win_amount": 48575.75305698328,
+    "loss_amount": -31564.598490884422,
+    "win_rate": 0.8205128205128205,
+    "total_current_value": 2854.115603,
+    "total_positions": 44,
+    "event_ct": 39,
+    "win_count": 32,
+    "rank": 6292,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
