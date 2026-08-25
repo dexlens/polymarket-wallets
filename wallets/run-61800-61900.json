@@ -1422,5 +1422,21 @@
     "win_count": 2,
     "rank": 61890,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ebe1bbeeaed82e8f8412236e656f2fc4a649d9b",
+    "trader_name": "donezou",
+    "tag": "Overall",
+    "overall_gain": 1025,
+    "active_positions": 0,
+    "win_amount": 1025,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 61891,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
