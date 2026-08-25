@@ -574,5 +574,21 @@
     "win_count": 3,
     "rank": 10936,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f9694200b8b30610fb414fe8c9c4c1327701da6",
+    "trader_name": "Krythen",
+    "tag": "Overall",
+    "overall_gain": 9647.301321713709,
+    "active_positions": 3,
+    "win_amount": 13189.140711147043,
+    "loss_amount": -3541.839389433335,
+    "win_rate": 0.8813559322033898,
+    "total_current_value": 5.015044,
+    "total_positions": 62,
+    "event_ct": 59,
+    "win_count": 52,
+    "rank": 10937,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
