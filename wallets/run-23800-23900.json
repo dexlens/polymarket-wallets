@@ -1502,5 +1502,21 @@
     "win_count": 2,
     "rank": 23895,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0c058138ee8749433656cb5c696e0fd3dc7dfabf",
+    "trader_name": "718CanGo",
+    "tag": "Overall",
+    "overall_gain": 3739.006498515622,
+    "active_positions": 10,
+    "win_amount": 8407.48575319857,
+    "loss_amount": -4668.479254682949,
+    "win_rate": 0.7447916666666666,
+    "total_current_value": 1.094363,
+    "total_positions": 342,
+    "event_ct": 192,
+    "win_count": 143,
+    "rank": 23896,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
