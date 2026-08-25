@@ -1278,5 +1278,21 @@
     "win_count": 11,
     "rank": 65781,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0d9aef495b5c012414775caa40d2c7bb38303b2a",
+    "trader_name": "123aya",
+    "tag": "Overall",
+    "overall_gain": 922.5182619248411,
+    "active_positions": 3,
+    "win_amount": 1167.333417192154,
+    "loss_amount": -244.815155267313,
+    "win_rate": 0.7435897435897436,
+    "total_current_value": 0.080884,
+    "total_positions": 49,
+    "event_ct": 39,
+    "win_count": 29,
+    "rank": 65782,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
