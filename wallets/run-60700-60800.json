@@ -1438,5 +1438,21 @@
     "win_count": 2,
     "rank": 60791,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80bd4c3484f14789d5c5e514f06820516252fdd4",
+    "trader_name": "babequ",
+    "tag": "Overall",
+    "overall_gain": 1053.4969381722099,
+    "active_positions": 0,
+    "win_amount": 1053.50792717221,
+    "loss_amount": -0.010989,
+    "win_rate": 0.5,
+    "total_current_value": 0.00111,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 60792,
+    "trader_tags": ""
   }
 ]
