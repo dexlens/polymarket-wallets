@@ -414,5 +414,21 @@
     "win_count": 24,
     "rank": 3026,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7c1f914724f1c37a1e723ce5c9ac295ec8e0193",
+    "trader_name": "bigtoetiger",
+    "tag": "Overall",
+    "overall_gain": 37887.96782225463,
+    "active_positions": 14,
+    "win_amount": 40599.07535696909,
+    "loss_amount": -2711.10753471447,
+    "win_rate": 0.6081081081081081,
+    "total_current_value": 2143.1532889765,
+    "total_positions": 118,
+    "event_ct": 74,
+    "win_count": 45,
+    "rank": 3027,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
