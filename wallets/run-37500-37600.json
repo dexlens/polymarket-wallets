@@ -270,5 +270,21 @@
     "win_count": 10,
     "rank": 37518,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x628212cf184de63690a5422d84b00ffe1c043e20",
+    "trader_name": "CMASAA",
+    "tag": "Overall",
+    "overall_gain": 2153.28,
+    "active_positions": 0,
+    "win_amount": 2153.28,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 37519,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
