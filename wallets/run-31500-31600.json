@@ -670,5 +670,21 @@
     "win_count": 1,
     "rank": 31543,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1677fbae4b1a3800410f7af0630dc6539e4f0e8e",
+    "trader_name": "yedfccn",
+    "tag": "Overall",
+    "overall_gain": 2646.191305728588,
+    "active_positions": 3,
+    "win_amount": 2859.465903728588,
+    "loss_amount": -213.27459800000003,
+    "win_rate": 0.9393939393939394,
+    "total_current_value": 185.841177974,
+    "total_positions": 36,
+    "event_ct": 33,
+    "win_count": 31,
+    "rank": 31544,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
