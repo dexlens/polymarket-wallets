@@ -1454,5 +1454,21 @@
     "win_count": 10,
     "rank": 41492,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27b64561ec7da82189def8578bfeeaabb692585b",
+    "trader_name": "dengidoma",
+    "tag": "Overall",
+    "overall_gain": 1906.255675754972,
+    "active_positions": 1,
+    "win_amount": 1925.6854970696,
+    "loss_amount": -19.429821314628,
+    "win_rate": 0.6,
+    "total_current_value": 0.0088,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 41493,
+    "trader_tags": "> 1 year old"
   }
 ]
