@@ -446,5 +446,21 @@
     "win_count": 56,
     "rank": 30429,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x713eb669871b96e563643836fd6ba52a90c3b60e",
+    "trader_name": "dirtydegen420",
+    "tag": "Overall",
+    "overall_gain": 2768.7088645864005,
+    "active_positions": 10,
+    "win_amount": 3286.1546492859998,
+    "loss_amount": -517.445784699599,
+    "win_rate": 0.25,
+    "total_current_value": 0.004574,
+    "total_positions": 12,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 30430,
+    "trader_tags": "> 1 year old"
   }
 ]
