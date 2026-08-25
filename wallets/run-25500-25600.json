@@ -766,5 +766,21 @@
     "win_count": 32,
     "rank": 25549,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x216dcbacf81a76a71754b085cf2d3fb1f06f3da5",
+    "trader_name": "rymhyj",
+    "tag": "Overall",
+    "overall_gain": 3451.85,
+    "active_positions": 0,
+    "win_amount": 3451.85,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 25550,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
