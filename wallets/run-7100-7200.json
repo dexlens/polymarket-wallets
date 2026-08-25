@@ -270,5 +270,21 @@
     "win_count": 10,
     "rank": 7117,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0be22d421b0bba013c35d48622dc809105fd7a26",
+    "trader_name": "fervdfg",
+    "tag": "Overall",
+    "overall_gain": 15023.089838795058,
+    "active_positions": 1,
+    "win_amount": 31953.33983879506,
+    "loss_amount": -16930.25,
+    "win_rate": 0.725,
+    "total_current_value": 0.000155,
+    "total_positions": 50,
+    "event_ct": 40,
+    "win_count": 29,
+    "rank": 7118,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
