@@ -1262,5 +1262,21 @@
     "win_count": 10,
     "rank": 7379,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x620ad47e4fdd346dfccda5e145f0bb3fa5535a71",
+    "trader_name": "dokannn",
+    "tag": "Overall",
+    "overall_gain": 14416.45496184502,
+    "active_positions": 20,
+    "win_amount": 23231.288218039783,
+    "loss_amount": -8814.833256194765,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 21.493696672,
+    "total_positions": 139,
+    "event_ct": 28,
+    "win_count": 22,
+    "rank": 7380,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
