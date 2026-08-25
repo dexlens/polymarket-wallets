@@ -942,5 +942,21 @@
     "win_count": 2,
     "rank": 72060,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20ddc59479b86d18227df9abf8a51f53d1054227",
+    "trader_name": "VowofEden",
+    "tag": "Overall",
+    "overall_gain": 765.01164713,
+    "active_positions": 7,
+    "win_amount": 2363.1310000000003,
+    "loss_amount": -1598.11935287,
+    "win_rate": 0.6521739130434783,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 15,
+    "rank": 72061,
+    "trader_tags": ""
   }
 ]
