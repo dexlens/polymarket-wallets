@@ -990,5 +990,21 @@
     "win_count": 1,
     "rank": 78563,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x060521f635f6d9f1690d93218c1b185b37021634",
+    "trader_name": "msft",
+    "tag": "Overall",
+    "overall_gain": 654.6598327986001,
+    "active_positions": 5,
+    "win_amount": 1533.458124653558,
+    "loss_amount": -878.798291854958,
+    "win_rate": 0.4358974358974359,
+    "total_current_value": 18.9753500115,
+    "total_positions": 65,
+    "event_ct": 39,
+    "win_count": 17,
+    "rank": 78564,
+    "trader_tags": ""
   }
 ]
