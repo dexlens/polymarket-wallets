@@ -1310,5 +1310,21 @@
     "win_count": 364,
     "rank": 3882,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d47b49c4edb1ad4ec3343ad6557c6c0cff5d0a2",
+    "trader_name": "BentleyRx",
+    "tag": "Overall",
+    "overall_gain": 29143.49092103794,
+    "active_positions": 9,
+    "win_amount": 66811.33154295315,
+    "loss_amount": -37667.840621915195,
+    "win_rate": 0.625,
+    "total_current_value": 0.034013,
+    "total_positions": 28,
+    "event_ct": 24,
+    "win_count": 15,
+    "rank": 3883,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
