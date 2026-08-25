@@ -526,5 +526,21 @@
     "win_count": 14,
     "rank": 41834,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1b5291ec55646a7c724593fb2b9e2541719b51e7",
+    "trader_name": "Gloomis",
+    "tag": "Overall",
+    "overall_gain": 1885.9229867122651,
+    "active_positions": 4,
+    "win_amount": 2362.0084867122646,
+    "loss_amount": -476.0855,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 0.006723,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 41835,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
