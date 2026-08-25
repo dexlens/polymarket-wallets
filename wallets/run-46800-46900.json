@@ -446,5 +446,21 @@
     "win_count": 3,
     "rank": 46829,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x379d6a441c33d45fbd19d069319ed588a22c54ef",
+    "trader_name": "polypol",
+    "tag": "Overall",
+    "overall_gain": 1624.7000557819783,
+    "active_positions": 1,
+    "win_amount": 2165.5164427719783,
+    "loss_amount": -540.8163869900001,
+    "win_rate": 0.34210526315789475,
+    "total_current_value": 0.009454,
+    "total_positions": 59,
+    "event_ct": 38,
+    "win_count": 13,
+    "rank": 46830,
+    "trader_tags": "> 1 year old"
   }
 ]
