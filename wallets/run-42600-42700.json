@@ -862,5 +862,21 @@
     "win_count": 6,
     "rank": 42655,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x351a52a7a12df76b54f652d89d322bba400d3bc7",
+    "trader_name": "kaspersz",
+    "tag": "Overall",
+    "overall_gain": 1839.143891614484,
+    "active_positions": 6,
+    "win_amount": 9800.30549289294,
+    "loss_amount": -7961.161601278453,
+    "win_rate": 0.9431704885343968,
+    "total_current_value": 8545.816840675498,
+    "total_positions": 1079,
+    "event_ct": 1003,
+    "win_count": 946,
+    "rank": 42656,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
