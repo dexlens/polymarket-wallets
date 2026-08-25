@@ -110,5 +110,21 @@
     "win_count": 50,
     "rank": 37008,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1b805bb6e56e673649a2746cefb099531741a3f1",
+    "trader_name": "LyraGordon",
+    "tag": "Overall",
+    "overall_gain": 2189.836695226866,
+    "active_positions": 4,
+    "win_amount": 6394.836695226866,
+    "loss_amount": -4205,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 0.006866,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 22,
+    "rank": 37009,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
