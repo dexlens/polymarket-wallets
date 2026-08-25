@@ -574,5 +574,21 @@
     "win_count": 24,
     "rank": 7736,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98dfacc5ff8db7c42b56d0d7cceae05b47fa935a",
+    "trader_name": "mexicola",
+    "tag": "Overall",
+    "overall_gain": 13639.722923608475,
+    "active_positions": 27,
+    "win_amount": 49898.30044598515,
+    "loss_amount": -36258.57752237666,
+    "win_rate": 0.8868778280542986,
+    "total_current_value": 108826.61949616899,
+    "total_positions": 289,
+    "event_ct": 221,
+    "win_count": 196,
+    "rank": 7737,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
