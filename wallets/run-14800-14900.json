@@ -670,5 +670,21 @@
     "win_count": 3,
     "rank": 14842,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1f0789e20e82d8dba1ad50bc31d8570d1593def9",
+    "trader_name": "TheEdgeCapital",
+    "tag": "Overall",
+    "overall_gain": 6590.9127616683745,
+    "active_positions": 20,
+    "win_amount": 18037.643137461437,
+    "loss_amount": -11446.730375793064,
+    "win_rate": 0.75,
+    "total_current_value": 0.055533000000000006,
+    "total_positions": 33,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 14843,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
