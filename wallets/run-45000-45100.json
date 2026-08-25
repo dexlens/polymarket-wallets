@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 45023,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3994f83c2936960649c05b0464e8645c465d3885",
+    "trader_name": "spectrufmm",
+    "tag": "Overall",
+    "overall_gain": 1712.5,
+    "active_positions": 2,
+    "win_amount": 2892,
+    "loss_amount": -1179.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 45024,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
