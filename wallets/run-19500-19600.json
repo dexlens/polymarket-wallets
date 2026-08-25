@@ -1550,5 +1550,21 @@
     "win_count": 5,
     "rank": 19597,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfbb7fc19f80b26152fc5886b5eafa7d437f26f27",
+    "trader_name": "Snake123",
+    "tag": "Overall",
+    "overall_gain": 4735.157702077968,
+    "active_positions": 4863,
+    "win_amount": 28741.599961229855,
+    "loss_amount": -24006.442259151892,
+    "win_rate": 0.12109693184903611,
+    "total_current_value": 968.0358245704999,
+    "total_positions": 10121,
+    "event_ct": 3683,
+    "win_count": 446,
+    "rank": 19598,
+    "trader_tags": "1k+ Positions"
   }
 ]
