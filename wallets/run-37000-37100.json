@@ -702,5 +702,21 @@
     "win_count": 10,
     "rank": 37045,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf4ee359c42c8acaf0878c3b4902b84840b44c2c8",
+    "trader_name": "snowpatrol",
+    "tag": "Overall",
+    "overall_gain": 2186.6288870000008,
+    "active_positions": 3,
+    "win_amount": 5379.038887,
+    "loss_amount": -3192.41,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 37046,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
