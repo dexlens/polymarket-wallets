@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 47244,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x578673ec382784f47eced716cc01ba160349bb03",
+    "trader_name": "gcnrut",
+    "tag": "Overall",
+    "overall_gain": 1604.9216491364703,
+    "active_positions": 6,
+    "win_amount": 2666.254225022593,
+    "loss_amount": -1061.3325758861229,
+    "win_rate": 0.8846153846153846,
+    "total_current_value": 1529.8043450435002,
+    "total_positions": 30,
+    "event_ct": 26,
+    "win_count": 23,
+    "rank": 47245,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
