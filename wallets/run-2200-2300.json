@@ -846,5 +846,21 @@
     "win_count": 4,
     "rank": 2253,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x162f6fff88a52864f2ecc9833e58089d5254798d",
+    "trader_name": "Valen9",
+    "tag": "Overall",
+    "overall_gain": 52921.58588938304,
+    "active_positions": 53,
+    "win_amount": 124834.99693857876,
+    "loss_amount": -71913.41104919574,
+    "win_rate": 0.6384180790960452,
+    "total_current_value": 381856.73664710147,
+    "total_positions": 361,
+    "event_ct": 177,
+    "win_count": 113,
+    "rank": 2254,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
