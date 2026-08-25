@@ -958,5 +958,21 @@
     "win_count": 6,
     "rank": 8660,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x391ef6224a64d95a92aaf6a92c3ffc6a2810c61c",
+    "trader_name": "Lancasterg",
+    "tag": "Overall",
+    "overall_gain": 12097.5,
+    "active_positions": 1,
+    "win_amount": 14297.5,
+    "loss_amount": -2200,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 8661,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
