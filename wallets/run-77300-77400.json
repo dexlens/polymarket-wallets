@@ -734,5 +734,21 @@
     "win_count": 14,
     "rank": 77347,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc0f334a209a9697555d74e06c643a7d21f44b62b",
+    "trader_name": "Dumas",
+    "tag": "Overall",
+    "overall_gain": 675.404417588238,
+    "active_positions": 1,
+    "win_amount": 727.124215605862,
+    "loss_amount": -51.719798017623994,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 77348,
+    "trader_tags": "> 1 year old"
   }
 ]
