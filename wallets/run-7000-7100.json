@@ -622,5 +622,21 @@
     "win_count": 42,
     "rank": 7039,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdfaacceff09ac2c037393eee387e81ea024679a7",
+    "trader_name": "IRanIchTeam",
+    "tag": "Overall",
+    "overall_gain": 15171.630090275876,
+    "active_positions": 1,
+    "win_amount": 31563.241354861933,
+    "loss_amount": -16391.611264586056,
+    "win_rate": 0.605024154589372,
+    "total_current_value": 12.222137388500002,
+    "total_positions": 11502,
+    "event_ct": 5175,
+    "win_count": 3131,
+    "rank": 7040,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
