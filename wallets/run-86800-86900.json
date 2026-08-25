@@ -1150,5 +1150,21 @@
     "win_count": 4,
     "rank": 86873,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80c592b5f722f7c43549d17e80235c81ba443fb1",
+    "trader_name": "Shep - 38189",
+    "tag": "Overall",
+    "overall_gain": 527.0846479458892,
+    "active_positions": 0,
+    "win_amount": 1316.7132402453735,
+    "loss_amount": -789.6285922994846,
+    "win_rate": 0.5909090909090909,
+    "total_current_value": 0.000002000002223956597,
+    "total_positions": 23,
+    "event_ct": 22,
+    "win_count": 13,
+    "rank": 86874,
+    "trader_tags": "> 1 year old"
   }
 ]
