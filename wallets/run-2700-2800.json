@@ -894,5 +894,21 @@
     "win_count": 472,
     "rank": 2756,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x943117ea8e3f5b160e158c1c4b1786fee5d3e5a0",
+    "trader_name": "gentlequarter",
+    "tag": "Overall",
+    "overall_gain": 41976.066808366064,
+    "active_positions": 0,
+    "win_amount": 41976.08480836606,
+    "loss_amount": -0.018,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.035255,
+    "total_positions": 11,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 2757,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
