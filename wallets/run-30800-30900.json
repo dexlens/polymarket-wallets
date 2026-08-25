@@ -830,5 +830,21 @@
     "win_count": 30,
     "rank": 30853,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9535a06eb07e941a42b46277601ebdc89356256f",
+    "trader_name": "pc2025",
+    "tag": "Overall",
+    "overall_gain": 2717.567233249999,
+    "active_positions": 3,
+    "win_amount": 5861.055322359999,
+    "loss_amount": -3143.48808911,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 0.032597,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 30854,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
