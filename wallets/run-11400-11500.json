@@ -878,5 +878,21 @@
     "win_count": 3,
     "rank": 11455,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x87d2d8f4f382ce6e3a31017ad7e778a3dc63efb2",
+    "trader_name": "Skdel",
+    "tag": "Overall",
+    "overall_gain": 9117.335575369216,
+    "active_positions": 2,
+    "win_amount": 13773.661079381722,
+    "loss_amount": -4656.325504012506,
+    "win_rate": 0.75,
+    "total_current_value": 24243.593774740002,
+    "total_positions": 12,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 11456,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
