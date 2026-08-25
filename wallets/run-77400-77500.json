@@ -1038,5 +1038,21 @@
     "win_count": 3,
     "rank": 77466,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x878285cb8c77d89204f120ebc433aa5603cdad56",
+    "trader_name": "wy1m",
+    "tag": "Overall",
+    "overall_gain": 673.2764959597844,
+    "active_positions": 12,
+    "win_amount": 5674.278586959785,
+    "loss_amount": -5001.002091,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 104.74840999999999,
+    "total_positions": 71,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 77467,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
