@@ -494,5 +494,21 @@
     "win_count": 4,
     "rank": 49732,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6809e9a4170ff1fe395bb8cf7a29a88f1266222d",
+    "trader_name": "jen007",
+    "tag": "Overall",
+    "overall_gain": 1495.0297571232593,
+    "active_positions": 8,
+    "win_amount": 1504.5128589015362,
+    "loss_amount": -9.483101778277003,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 16.530277906000002,
+    "total_positions": 105,
+    "event_ct": 105,
+    "win_count": 90,
+    "rank": 49733,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
