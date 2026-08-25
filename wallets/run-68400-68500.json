@@ -478,5 +478,21 @@
     "win_count": 10,
     "rank": 68431,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcd9cb7846636bcdb2e260837df850edac4167b76",
+    "trader_name": "Karekken",
+    "tag": "Overall",
+    "overall_gain": 850.2117191388303,
+    "active_positions": 4,
+    "win_amount": 1965.7232180666583,
+    "loss_amount": -1115.5114989278284,
+    "win_rate": 0.8751753155680224,
+    "total_current_value": 199.81235699999993,
+    "total_positions": 1622,
+    "event_ct": 713,
+    "win_count": 624,
+    "rank": 68432,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
