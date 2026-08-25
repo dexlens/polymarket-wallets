@@ -942,5 +942,21 @@
     "win_count": 71,
     "rank": 6659,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x60b45e0313546c50c986276f0707213992586313",
+    "trader_name": "alex321",
+    "tag": "Overall",
+    "overall_gain": 16134.897517577385,
+    "active_positions": 3,
+    "win_amount": 73965.51657964867,
+    "loss_amount": -57830.61906207129,
+    "win_rate": 0.7904191616766467,
+    "total_current_value": 2.1222107035,
+    "total_positions": 1168,
+    "event_ct": 668,
+    "win_count": 528,
+    "rank": 6660,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
