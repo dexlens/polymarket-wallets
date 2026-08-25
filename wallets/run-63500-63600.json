@@ -1550,5 +1550,21 @@
     "win_count": 176,
     "rank": 63598,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x63221f42d004785af5a80f0085b058e319415965",
+    "trader_name": "KuFuHu",
+    "tag": "Overall",
+    "overall_gain": 985.7316452241408,
+    "active_positions": 40,
+    "win_amount": 1102.380025550769,
+    "loss_amount": -116.64838032662801,
+    "win_rate": 0.7926829268292683,
+    "total_current_value": 182.202742624,
+    "total_positions": 165,
+    "event_ct": 164,
+    "win_count": 130,
+    "rank": 63599,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
