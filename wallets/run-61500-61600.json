@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 61520,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44a252796d39bb929b06d80042fdb5f7512c1aab",
+    "trader_name": "yoyo978",
+    "tag": "Overall",
+    "overall_gain": 1034.247405763442,
+    "active_positions": 33,
+    "win_amount": 13847.65184958923,
+    "loss_amount": -12813.404443825793,
+    "win_rate": 0.3076923076923077,
+    "total_current_value": 0.07189,
+    "total_positions": 74,
+    "event_ct": 65,
+    "win_count": 20,
+    "rank": 61521,
+    "trader_tags": ""
   }
 ]
