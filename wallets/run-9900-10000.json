@@ -1486,5 +1486,21 @@
     "win_count": 94,
     "rank": 9993,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x474f6676c0bcf29f1b0747ae9949e798f6e22876",
+    "trader_name": "amayaodioq",
+    "tag": "Overall",
+    "overall_gain": 10490.39,
+    "active_positions": 1,
+    "win_amount": 10490.39,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 28,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 9994,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
