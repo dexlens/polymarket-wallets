@@ -446,5 +446,21 @@
     "win_count": 35,
     "rank": 28529,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbfaf94e2cfff15fdfd8e8d3f09c7eb620fca4513",
+    "trader_name": "nisok",
+    "tag": "Overall",
+    "overall_gain": 3000.226532653275,
+    "active_positions": 3,
+    "win_amount": 23625.831965047186,
+    "loss_amount": -20625.60543239391,
+    "win_rate": 0.5625,
+    "total_current_value": 0.024018,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 28530,
+    "trader_tags": ""
   }
 ]
