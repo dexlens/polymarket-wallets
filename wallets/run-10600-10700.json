@@ -190,5 +190,21 @@
     "win_count": 1,
     "rank": 10612,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4f998dfa9c373307e6f0393e0fb617cf6a1f5d60",
+    "trader_name": "fgajjjfierfho",
+    "tag": "Overall",
+    "overall_gain": 9973.25,
+    "active_positions": 3,
+    "win_amount": 12740.15,
+    "loss_amount": -2766.9,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 10613,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
