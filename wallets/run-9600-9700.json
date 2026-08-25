@@ -1022,5 +1022,21 @@
     "win_count": 7,
     "rank": 9664,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xc1c4118e1524fd84fc024384ac47b1aefe6248d7",
+    "trader_name": "cez001",
+    "tag": "Overall",
+    "overall_gain": 10828.070684120257,
+    "active_positions": 13,
+    "win_amount": 30338.667347000002,
+    "loss_amount": -19510.59666287974,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0,
+    "total_positions": 60,
+    "event_ct": 56,
+    "win_count": 36,
+    "rank": 9665,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
