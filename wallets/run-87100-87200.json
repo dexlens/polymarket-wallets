@@ -574,5 +574,21 @@
     "win_count": 3,
     "rank": 87137,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xbb40b0df6e71586905960f0f0d3f58c4ed4d4a12",
+    "trader_name": "alibababa",
+    "tag": "Overall",
+    "overall_gain": 524.02706965305,
+    "active_positions": 1,
+    "win_amount": 675.73680165305,
+    "loss_amount": -151.709732,
+    "win_rate": 0.3157894736842105,
+    "total_current_value": 51.0904864215,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 6,
+    "rank": 87138,
+    "trader_tags": "> 1 year old"
   }
 ]
