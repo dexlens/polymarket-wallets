@@ -1134,5 +1134,21 @@
     "win_count": 8,
     "rank": 3171,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "trader_name": "cryptobigplayer",
+    "tag": "Overall",
+    "overall_gain": 36160.627875024424,
+    "active_positions": 6,
+    "win_amount": 53901.69365094986,
+    "loss_amount": -17741.065775925435,
+    "win_rate": 0.6,
+    "total_current_value": 1043.48172,
+    "total_positions": 24,
+    "event_ct": 20,
+    "win_count": 12,
+    "rank": 3172,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
