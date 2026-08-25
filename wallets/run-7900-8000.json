@@ -910,5 +910,21 @@
     "win_count": 5,
     "rank": 7957,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x586df9650fd8a252b1820feb89424fe6dbfd175e",
+    "trader_name": "vlemrwOGYB",
+    "tag": "Overall",
+    "overall_gain": 13200.548218782016,
+    "active_positions": 13,
+    "win_amount": 34785.048218782016,
+    "loss_amount": -21584.5,
+    "win_rate": 0.5806451612903226,
+    "total_current_value": 0.000017,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 18,
+    "rank": 7958,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
