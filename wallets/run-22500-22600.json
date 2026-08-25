@@ -1294,5 +1294,21 @@
     "win_count": 5,
     "rank": 22581,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x247eb63e449544044dfc0be7533e2c74b1302830",
+    "trader_name": "Breezeframe",
+    "tag": "Overall",
+    "overall_gain": 4000.44,
+    "active_positions": 1,
+    "win_amount": 4000.44,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 22582,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
