@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 36938,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d1aa3439835cc8dbb5e55d615bee3f39b0d324e",
+    "trader_name": "b14k",
+    "tag": "Overall",
+    "overall_gain": 2194.983841278441,
+    "active_positions": 11,
+    "win_amount": 3558.271302436564,
+    "loss_amount": -1363.287461158122,
+    "win_rate": 0.6360759493670886,
+    "total_current_value": 361.62140026799995,
+    "total_positions": 660,
+    "event_ct": 316,
+    "win_count": 201,
+    "rank": 36939,
+    "trader_tags": ""
   }
 ]
