@@ -1390,5 +1390,21 @@
     "win_count": 44,
     "rank": 52888,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8b0f47dd0d0a63ae0cac22ac59d8d78435bc570f",
+    "trader_name": "maskchen",
+    "tag": "Overall",
+    "overall_gain": 1352.907399209869,
+    "active_positions": 19,
+    "win_amount": 4799.396579,
+    "loss_amount": -3446.489179790131,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 20,
+    "total_positions": 49,
+    "event_ct": 48,
+    "win_count": 28,
+    "rank": 52889,
+    "trader_tags": "< 30 days old"
   }
 ]
