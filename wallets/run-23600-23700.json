@@ -1550,5 +1550,21 @@
     "win_count": 4,
     "rank": 23697,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8a4ef7e2bb5144e3844c405deccf1834b8a48f00",
+    "trader_name": "five445",
+    "tag": "Overall",
+    "overall_gain": 3780.254246,
+    "active_positions": 0,
+    "win_amount": 3780.3826080000003,
+    "loss_amount": -0.128362,
+    "win_rate": 0.8,
+    "total_current_value": 0.008,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 23698,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
