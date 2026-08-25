@@ -1214,5 +1214,21 @@
     "win_count": 4,
     "rank": 3476,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10d48e5667965e9f5e4ae4fe28352151bd57d953",
+    "trader_name": "Indians14",
+    "tag": "Overall",
+    "overall_gain": 32717.174424562,
+    "active_positions": 14,
+    "win_amount": 217366.30605968705,
+    "loss_amount": -184649.13163512503,
+    "win_rate": 0.5301418439716312,
+    "total_current_value": 9530.722972092,
+    "total_positions": 703,
+    "event_ct": 564,
+    "win_count": 299,
+    "rank": 3477,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
