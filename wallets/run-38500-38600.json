@@ -622,5 +622,21 @@
     "win_count": 2,
     "rank": 38540,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d5850c5a6c83e8644ab46f37451986192171db6",
+    "trader_name": "Jetsdtream",
+    "tag": "Overall",
+    "overall_gain": 2084.12,
+    "active_positions": 1,
+    "win_amount": 2199.12,
+    "loss_amount": -115,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 38541,
+    "trader_tags": "< 30 days old"
   }
 ]
