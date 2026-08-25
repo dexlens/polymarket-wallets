@@ -654,5 +654,21 @@
     "win_count": 12,
     "rank": 6441,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x150aa5ea3dc425bbb6dd57edaf23e450e687cc42",
+    "trader_name": "magicpol231",
+    "tag": "Overall",
+    "overall_gain": 16622.40690289225,
+    "active_positions": 2,
+    "win_amount": 16796.003001999998,
+    "loss_amount": -173.59609910775,
+    "win_rate": 0.996742671009772,
+    "total_current_value": 20,
+    "total_positions": 614,
+    "event_ct": 614,
+    "win_count": 612,
+    "rank": 6442,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
