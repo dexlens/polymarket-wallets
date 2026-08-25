@@ -1134,5 +1134,21 @@
     "win_count": 32,
     "rank": 5071,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x376441d19f56d43629d3872324dc2e648e13c5eb",
+    "trader_name": "m3t64 - 815",
+    "tag": "Overall",
+    "overall_gain": 21356.671951210574,
+    "active_positions": 7,
+    "win_amount": 42803.796061578716,
+    "loss_amount": -21447.124110368146,
+    "win_rate": 0.5058823529411764,
+    "total_current_value": 0.7191720493983835,
+    "total_positions": 229,
+    "event_ct": 170,
+    "win_count": 86,
+    "rank": 5072,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
