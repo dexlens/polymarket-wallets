@@ -414,5 +414,21 @@
     "win_count": 24,
     "rank": 12126,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c24d5f68ba40e32a74fb363167cdcc1366fc22f",
+    "trader_name": "toppoo",
+    "tag": "Overall",
+    "overall_gain": 8468.923689623682,
+    "active_positions": 5,
+    "win_amount": 12235.223689623683,
+    "loss_amount": -3766.3,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 5.473683,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 12127,
+    "trader_tags": ""
   }
 ]
