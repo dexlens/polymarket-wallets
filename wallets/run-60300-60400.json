@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 60388,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1446f20335b926b4986461a33855d8b8c32a939a",
+    "trader_name": "30XA",
+    "tag": "Overall",
+    "overall_gain": 1064.7389776904213,
+    "active_positions": 6,
+    "win_amount": 2089.7364041551837,
+    "loss_amount": -1024.997426464763,
+    "win_rate": 0.8385964912280702,
+    "total_current_value": 596.8594880000002,
+    "total_positions": 1446,
+    "event_ct": 570,
+    "win_count": 478,
+    "rank": 60389,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
