@@ -1166,5 +1166,21 @@
     "win_count": 365,
     "rank": 6773,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xf22f6ba87a4f8c20fc696c4b07898c659dabd06e",
+    "trader_name": "SpreadEater",
+    "tag": "Overall",
+    "overall_gain": 15833.803918408388,
+    "active_positions": 32,
+    "win_amount": 58567.8291565953,
+    "loss_amount": -42734.02523818692,
+    "win_rate": 0.9637921987056148,
+    "total_current_value": 41.77153800000001,
+    "total_positions": 5743,
+    "event_ct": 5717,
+    "win_count": 5510,
+    "rank": 6774,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
