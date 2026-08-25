@@ -734,5 +734,21 @@
     "win_count": 56,
     "rank": 87447,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x09965aaecb1677bf98773bff460f0d411e677930",
+    "trader_name": "thenorm22",
+    "tag": "Overall",
+    "overall_gain": 519.5973216736361,
+    "active_positions": 22,
+    "win_amount": 779.3699861600329,
+    "loss_amount": -259.77266448639705,
+    "win_rate": 0.7586206896551724,
+    "total_current_value": 30.057682999999997,
+    "total_positions": 33,
+    "event_ct": 29,
+    "win_count": 22,
+    "rank": 87448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
