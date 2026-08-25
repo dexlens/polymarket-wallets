@@ -1358,5 +1358,21 @@
     "win_count": 3,
     "rank": 47886,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x899f579beb2ba3aa028b42140fcc0879490f7fcf",
+    "trader_name": "somerisk",
+    "tag": "Overall",
+    "overall_gain": 1577.3339989634849,
+    "active_positions": 3,
+    "win_amount": 3519.4871272718933,
+    "loss_amount": -1942.153128308408,
+    "win_rate": 0.8,
+    "total_current_value": 11890.328201417,
+    "total_positions": 41,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 47887,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
