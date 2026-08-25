@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 41382,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa8f878d5027bbf73bb5d34e6db546abc04fe0e46",
+    "trader_name": "Golanido",
+    "tag": "Overall",
+    "overall_gain": 1912.3622301921841,
+    "active_positions": 14,
+    "win_amount": 3842.5849397010033,
+    "loss_amount": -1930.222709508819,
+    "win_rate": 0.5865384615384616,
+    "total_current_value": 1459.30970616,
+    "total_positions": 119,
+    "event_ct": 104,
+    "win_count": 61,
+    "rank": 41383,
+    "trader_tags": "> 1 year old"
   }
 ]
