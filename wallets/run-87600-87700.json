@@ -1150,5 +1150,21 @@
     "win_count": 3,
     "rank": 87673,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef67f2c3c87c91183046698ce1a4c4155248a491",
+    "trader_name": "glenlaboreg",
+    "tag": "Overall",
+    "overall_gain": 516.78,
+    "active_positions": 1,
+    "win_amount": 1284.78,
+    "loss_amount": -768,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 87674,
+    "trader_tags": "< 30 days old"
   }
 ]
