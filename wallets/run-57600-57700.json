@@ -414,5 +414,21 @@
     "win_count": 6,
     "rank": 57627,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4b847828d80b526ed93b06269160f66c016e604f",
+    "trader_name": "jhaw5yw",
+    "tag": "Overall",
+    "overall_gain": 1156.232339617945,
+    "active_positions": 2,
+    "win_amount": 1423.592203,
+    "loss_amount": -267.359863382055,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 57628,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
