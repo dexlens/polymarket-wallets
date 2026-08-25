@@ -1582,5 +1582,21 @@
     "win_count": 502,
     "rank": 9699,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x125eff052d1a4cc9c539f564c92d20697ebf992c",
+    "trader_name": "Gdovb",
+    "tag": "Overall",
+    "overall_gain": 10798.389078531993,
+    "active_positions": 33,
+    "win_amount": 18280.105085638294,
+    "loss_amount": -7481.716007106306,
+    "win_rate": 0.7720588235294118,
+    "total_current_value": 0.03492700000000001,
+    "total_positions": 167,
+    "event_ct": 136,
+    "win_count": 105,
+    "rank": 9700,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
