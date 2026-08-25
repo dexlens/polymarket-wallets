@@ -1502,5 +1502,21 @@
     "win_count": 38,
     "rank": 88895,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54cd1c7ff2068835c4b9a980215d801440fe25e4",
+    "trader_name": "WAWSSWA",
+    "tag": "Overall",
+    "overall_gain": 502.941589658598,
+    "active_positions": 1,
+    "win_amount": 512.9525541911751,
+    "loss_amount": -10.010964532577,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.038556468,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 88896,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
