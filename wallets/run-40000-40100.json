@@ -142,5 +142,21 @@
     "win_count": 3,
     "rank": 40010,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x75ec28cb09a71a7080acda4f151fe089a7146b20",
+    "trader_name": "astromerecat",
+    "tag": "Overall",
+    "overall_gain": 1994.308230376844,
+    "active_positions": 14,
+    "win_amount": 5870.482183749006,
+    "loss_amount": -3876.1739533721625,
+    "win_rate": 0.588957055214724,
+    "total_current_value": 0.057610999999999996,
+    "total_positions": 183,
+    "event_ct": 163,
+    "win_count": 96,
+    "rank": 40011,
+    "trader_tags": "> 1 year old"
   }
 ]
