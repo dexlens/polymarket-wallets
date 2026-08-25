@@ -718,5 +718,21 @@
     "win_count": 15,
     "rank": 81146,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x55ed8516f9c55867c3abfcab1d89de8cdb0d4e33",
+    "trader_name": "teev",
+    "tag": "Overall",
+    "overall_gain": 611.936402,
+    "active_positions": 0,
+    "win_amount": 611.936402,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 81147,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
