@@ -990,5 +990,21 @@
     "win_count": 8,
     "rank": 6562,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x01bf5a33d51493dc310470a9f3153cdfae81070d",
+    "trader_name": "Kat2",
+    "tag": "Overall",
+    "overall_gain": 16342.741671052967,
+    "active_positions": 22,
+    "win_amount": 22053.93002501231,
+    "loss_amount": -5711.18835395934,
+    "win_rate": 0.15789473684210525,
+    "total_current_value": 0.013693,
+    "total_positions": 32,
+    "event_ct": 19,
+    "win_count": 3,
+    "rank": 6563,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
