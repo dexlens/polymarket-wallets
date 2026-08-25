@@ -750,5 +750,21 @@
     "win_count": 32,
     "rank": 9647,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5b5aff900bbc8549d8ca74c3f5a19c5582976605",
+    "trader_name": "fasfasda",
+    "tag": "Overall",
+    "overall_gain": 10845.550883000002,
+    "active_positions": 0,
+    "win_amount": 10886.150883,
+    "loss_amount": -40.6,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 11,
+    "win_count": 10,
+    "rank": 9648,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
