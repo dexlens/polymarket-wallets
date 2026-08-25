@@ -702,5 +702,21 @@
     "win_count": 21,
     "rank": 81945,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x712aa94f55b3881122bea299d3b654f5eb054f11",
+    "trader_name": "SteveEE2",
+    "tag": "Overall",
+    "overall_gain": 599.1578131432301,
+    "active_positions": 20,
+    "win_amount": 3307.0294379999996,
+    "loss_amount": -2707.87162485677,
+    "win_rate": 0.6138227254978524,
+    "total_current_value": 22.595689999999998,
+    "total_positions": 3419,
+    "event_ct": 2561,
+    "win_count": 1572,
+    "rank": 81946,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
