@@ -846,5 +846,21 @@
     "win_count": 2,
     "rank": 78254,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d239563bfba5aa7034e33df6e42631417a572f5",
+    "trader_name": "richer5",
+    "tag": "Overall",
+    "overall_gain": 660.042149283676,
+    "active_positions": 1,
+    "win_amount": 661.0421458392931,
+    "loss_amount": -0.9999965556170001,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 0.1804211115,
+    "total_positions": 19,
+    "event_ct": 12,
+    "win_count": 11,
+    "rank": 78255,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
