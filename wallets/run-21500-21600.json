@@ -638,5 +638,21 @@
     "win_count": 103,
     "rank": 21540,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ebb8dab1f94886044338198f605266df94d0dfa",
+    "trader_name": "dekuku",
+    "tag": "Overall",
+    "overall_gain": 4223.836216089961,
+    "active_positions": 1,
+    "win_amount": 5587.857976513312,
+    "loss_amount": -1364.02176042335,
+    "win_rate": 0.5,
+    "total_current_value": 0.005284,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 21541,
+    "trader_tags": ""
   }
 ]
