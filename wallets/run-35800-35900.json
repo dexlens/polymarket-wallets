@@ -1246,5 +1246,21 @@
     "win_count": 10,
     "rank": 35879,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x13410c5033b172cbded620c6038238a4dbec5cf1",
+    "trader_name": "KendallBrooke",
+    "tag": "Overall",
+    "overall_gain": 2270.5173922611784,
+    "active_positions": 7,
+    "win_amount": 6423.0173922611775,
+    "loss_amount": -4152.5,
+    "win_rate": 0.8620689655172413,
+    "total_current_value": 16.653270734,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 25,
+    "rank": 35880,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
