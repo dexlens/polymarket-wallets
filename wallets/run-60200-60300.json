@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 60299,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d0c2108a8d50bafc16a4f8200281a0e822dbceb",
+    "trader_name": "iTitan",
+    "tag": "Overall",
+    "overall_gain": 1067.221630295804,
+    "active_positions": 1,
+    "win_amount": 117237.91585117584,
+    "loss_amount": -116170.69422088002,
+    "win_rate": 0.5280898876404494,
+    "total_current_value": 193.14483200000006,
+    "total_positions": 203,
+    "event_ct": 178,
+    "win_count": 94,
+    "rank": 60300,
+    "trader_tags": ""
   }
 ]
