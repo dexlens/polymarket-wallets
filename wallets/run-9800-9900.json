@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 9859,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x989f4a02b747873633e019ecbaf29220adc4f18a",
+    "trader_name": "bobi331",
+    "tag": "Overall",
+    "overall_gain": 10630.726546792524,
+    "active_positions": 5,
+    "win_amount": 13355.719867293525,
+    "loss_amount": -2724.993320501001,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.01264,
+    "total_positions": 8,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 9860,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
