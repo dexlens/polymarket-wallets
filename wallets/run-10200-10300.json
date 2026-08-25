@@ -574,5 +574,21 @@
     "win_count": 8,
     "rank": 10236,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c9564d4a743641af0ddb0fbeb268592c85a30cb",
+    "trader_name": "RITELION",
+    "tag": "Overall",
+    "overall_gain": 10271.171000313243,
+    "active_positions": 10,
+    "win_amount": 12251.259456336938,
+    "loss_amount": -1980.0884560236968,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 15128.355168393002,
+    "total_positions": 71,
+    "event_ct": 38,
+    "win_count": 28,
+    "rank": 10237,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
