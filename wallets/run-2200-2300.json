@@ -1422,5 +1422,21 @@
     "win_count": 50,
     "rank": 2289,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1e5642bb6e37c5f395c75c0cb332086c9f350833",
+    "trader_name": "protonsaga",
+    "tag": "Overall",
+    "overall_gain": 52143.46687673017,
+    "active_positions": 10,
+    "win_amount": 56895.486876730174,
+    "loss_amount": -4752.02,
+    "win_rate": 0.9772727272727273,
+    "total_current_value": 23.921642452,
+    "total_positions": 111,
+    "event_ct": 44,
+    "win_count": 43,
+    "rank": 2290,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
