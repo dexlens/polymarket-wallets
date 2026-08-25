@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 30454,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xc12bd71b38304464879a399c44ad434a28585f57",
+    "trader_name": "Nazzca",
+    "tag": "Overall",
+    "overall_gain": 2765.6099741297494,
+    "active_positions": 16,
+    "win_amount": 3212.088750691785,
+    "loss_amount": -446.47877656203497,
+    "win_rate": 0.9750346740638003,
+    "total_current_value": 1.490299,
+    "total_positions": 722,
+    "event_ct": 721,
+    "win_count": 703,
+    "rank": 30455,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
