@@ -1550,5 +1550,21 @@
     "win_count": 1,
     "rank": 57098,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7887be9981eb6cf2faab6f72c289aea95d202cf0",
+    "trader_name": "UPbet",
+    "tag": "Overall",
+    "overall_gain": 1175.2409493264106,
+    "active_positions": 12,
+    "win_amount": 12413.864838452857,
+    "loss_amount": -11238.623889126444,
+    "win_rate": 0.9673469387755103,
+    "total_current_value": 27214.665477729995,
+    "total_positions": 465,
+    "event_ct": 245,
+    "win_count": 237,
+    "rank": 57099,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
