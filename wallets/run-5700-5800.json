@@ -1374,5 +1374,21 @@
     "win_count": 23,
     "rank": 5786,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xeef13e04481672bdc4bfd2175a32f49cde72b61e",
+    "trader_name": "polmpl",
+    "tag": "Overall",
+    "overall_gain": 18604.071928539994,
+    "active_positions": 6,
+    "win_amount": 18615.471928539995,
+    "loss_amount": -11.4,
+    "win_rate": 0.8,
+    "total_current_value": 59.661232,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 5787,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
