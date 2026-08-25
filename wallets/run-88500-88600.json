@@ -1102,5 +1102,21 @@
     "win_count": 3,
     "rank": 88570,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4982822846352d254e699436700622eb1d99bfc6",
+    "trader_name": "fda151",
+    "tag": "Overall",
+    "overall_gain": 506.682025402152,
+    "active_positions": 4,
+    "win_amount": 815.0071927870001,
+    "loss_amount": -308.325167384848,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0.003009452,
+    "total_positions": 27,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 88571,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
