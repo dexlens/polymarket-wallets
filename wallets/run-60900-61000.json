@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 60954,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20e17c71f867fe0eecb57612a01291056621074c",
+    "trader_name": "Yach",
+    "tag": "Overall",
+    "overall_gain": 1049.1210260488335,
+    "active_positions": 4,
+    "win_amount": 1049.1214607500006,
+    "loss_amount": -0.0004347011669949552,
+    "win_rate": 0.9444444444444444,
+    "total_current_value": 179.04410091750003,
+    "total_positions": 30,
+    "event_ct": 18,
+    "win_count": 17,
+    "rank": 60955,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
