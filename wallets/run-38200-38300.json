@@ -1374,5 +1374,21 @@
     "win_count": 3,
     "rank": 38287,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4427d66408844d316371f5cc641fb925ec6fccf4",
+    "trader_name": "Matt-01",
+    "tag": "Overall",
+    "overall_gain": 2100.021741846503,
+    "active_positions": 13,
+    "win_amount": 3163.5873667949036,
+    "loss_amount": -1063.565624948401,
+    "win_rate": 0.7,
+    "total_current_value": 2584.424704341,
+    "total_positions": 60,
+    "event_ct": 40,
+    "win_count": 28,
+    "rank": 38288,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
