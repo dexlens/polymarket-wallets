@@ -1438,5 +1438,21 @@
     "win_count": 32,
     "rank": 69191,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdad05786eaacb95731c2e2d1cd908b3cabd432fc",
+    "trader_name": "skyco",
+    "tag": "Overall",
+    "overall_gain": 829.2184016441568,
+    "active_positions": 30,
+    "win_amount": 1870.091297033237,
+    "loss_amount": -1040.87289538908,
+    "win_rate": 0.7456140350877193,
+    "total_current_value": 5457.176906865,
+    "total_positions": 124,
+    "event_ct": 114,
+    "win_count": 85,
+    "rank": 69192,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
