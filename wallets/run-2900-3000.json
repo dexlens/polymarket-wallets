@@ -1454,5 +1454,21 @@
     "win_count": 1,
     "rank": 2991,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x160bf4f27cdaaaed1408ccd1558ab30c210d4296",
+    "trader_name": "mortewfenloin",
+    "tag": "Overall",
+    "overall_gain": 38378.52615279102,
+    "active_positions": 283,
+    "win_amount": 2783598.6694082143,
+    "loss_amount": -2745220.1432554247,
+    "win_rate": 0.4821973550356053,
+    "total_current_value": 12527.780823006502,
+    "total_positions": 4855,
+    "event_ct": 1966,
+    "win_count": 948,
+    "rank": 2992,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
