@@ -718,5 +718,21 @@
     "win_count": 26,
     "rank": 17745,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40235da02c23a327ca10a3b4298b66015fb86fab",
+    "trader_name": "Simona2",
+    "tag": "Overall",
+    "overall_gain": 5264.79,
+    "active_positions": 2,
+    "win_amount": 5593.5,
+    "loss_amount": -328.71,
+    "win_rate": 0.75,
+    "total_current_value": 139.23000000000002,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 17746,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
