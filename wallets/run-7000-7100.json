@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 7098,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xe048c90534ae7f47c9617f5d104b6602d66f0a63",
+    "trader_name": "headpiece",
+    "tag": "Overall",
+    "overall_gain": 15045.387738170564,
+    "active_positions": 1,
+    "win_amount": 15045.387738170564,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 527.8618580000001,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 7099,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
