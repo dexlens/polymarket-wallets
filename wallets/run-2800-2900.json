@@ -1326,5 +1326,21 @@
     "win_count": 27,
     "rank": 2883,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f68a01dd04aa74d23d65da4590d5e05221262ab",
+    "trader_name": "Molodyets",
+    "tag": "Overall",
+    "overall_gain": 39914.945371839036,
+    "active_positions": 32,
+    "win_amount": 196768.42339325944,
+    "loss_amount": -156853.47802142045,
+    "win_rate": 0.33884297520661155,
+    "total_current_value": 0.33219,
+    "total_positions": 309,
+    "event_ct": 121,
+    "win_count": 41,
+    "rank": 2884,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
