@@ -1486,5 +1486,21 @@
     "win_count": 12,
     "rank": 9493,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x250eb5e8c2e0205db6f467875f8bb4dab001b456",
+    "trader_name": "karliera",
+    "tag": "Overall",
+    "overall_gain": 11036.5,
+    "active_positions": 0,
+    "win_amount": 11036.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9494,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
