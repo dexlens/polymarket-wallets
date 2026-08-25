@@ -270,5 +270,21 @@
     "win_count": 2,
     "rank": 68018,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2b6b8f49ff15d9cc5da3b6307b3aa4484ca11cda",
+    "trader_name": "yishay",
+    "tag": "Overall",
+    "overall_gain": 859.9671880385539,
+    "active_positions": 1,
+    "win_amount": 869.967188033554,
+    "loss_amount": -9.999999995,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 68019,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
