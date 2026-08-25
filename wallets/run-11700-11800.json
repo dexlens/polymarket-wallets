@@ -542,5 +542,21 @@
     "win_count": 16,
     "rank": 11734,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x573ec49882b76a7b270ad31a733a798bea5ba699",
+    "trader_name": "WONIwAbdN",
+    "tag": "Overall",
+    "overall_gain": 8840.005,
+    "active_positions": 4,
+    "win_amount": 14910.5,
+    "loss_amount": -6070.495,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 11735,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
