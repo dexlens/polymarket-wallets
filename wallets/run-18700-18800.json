@@ -414,5 +414,21 @@
     "win_count": 9,
     "rank": 18726,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ffa2c19175c4bc0f4e00b7f1354951cdc2981ec",
+    "trader_name": "cryptolong",
+    "tag": "Overall",
+    "overall_gain": 4971.429607570437,
+    "active_positions": 1,
+    "win_amount": 5561.088905,
+    "loss_amount": -589.659297429563,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 45.940937,
+    "total_positions": 32,
+    "event_ct": 30,
+    "win_count": 16,
+    "rank": 18727,
+    "trader_tags": "> 1 year old"
   }
 ]
