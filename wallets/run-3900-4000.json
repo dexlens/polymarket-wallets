@@ -366,5 +366,21 @@
     "win_count": 61,
     "rank": 3923,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf5d07cdbe42c4166c68adb9812627b1bb5bfd9e8",
+    "trader_name": "Ggobook",
+    "tag": "Overall",
+    "overall_gain": 28775.395804119307,
+    "active_positions": 320,
+    "win_amount": 745529.098900723,
+    "loss_amount": -716753.7030966035,
+    "win_rate": 0.4457092819614711,
+    "total_current_value": 460.2462450000002,
+    "total_positions": 1503,
+    "event_ct": 1142,
+    "win_count": 509,
+    "rank": 3924,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
