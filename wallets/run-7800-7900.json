@@ -558,5 +558,21 @@
     "win_count": 1,
     "rank": 7835,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x3ac62f9d34b5df80fbea995b121be6b5c77822ce",
+    "trader_name": "0xbaoan",
+    "tag": "Overall",
+    "overall_gain": 13446.89809784,
+    "active_positions": 7,
+    "win_amount": 13488.698091839999,
+    "loss_amount": -41.799994,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 107.94640669,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 7836,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
