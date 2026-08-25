@@ -1118,5 +1118,21 @@
     "win_count": 5,
     "rank": 7070,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77cfb716811a03a83ced6ffcfc1d9b8281930e71",
+    "trader_name": "disko",
+    "tag": "Overall",
+    "overall_gain": 15102.588508918183,
+    "active_positions": 0,
+    "win_amount": 62761.903110036044,
+    "loss_amount": -47659.31460111787,
+    "win_rate": 0.8011049723756906,
+    "total_current_value": 1.1701330220000001,
+    "total_positions": 552,
+    "event_ct": 362,
+    "win_count": 290,
+    "rank": 7071,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
