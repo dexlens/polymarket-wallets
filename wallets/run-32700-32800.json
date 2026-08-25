@@ -1086,5 +1086,21 @@
     "win_count": 16,
     "rank": 32769,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x52024cdbf13d0328bd224f4b23af8b355990905d",
+    "trader_name": "ASDGAG",
+    "tag": "Overall",
+    "overall_gain": 2524.7067245023654,
+    "active_positions": 9,
+    "win_amount": 2681.0364151903796,
+    "loss_amount": -156.32969068801398,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0.7889771010000001,
+    "total_positions": 35,
+    "event_ct": 34,
+    "win_count": 24,
+    "rank": 32770,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
