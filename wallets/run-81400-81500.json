@@ -1326,5 +1326,21 @@
     "win_count": 70,
     "rank": 81484,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02a0e30d0b94898163cab602932e0639c9da68fd",
+    "trader_name": "Sprigis",
+    "tag": "Overall",
+    "overall_gain": 606.6064662228207,
+    "active_positions": 154,
+    "win_amount": 5132.975107342832,
+    "loss_amount": -4526.3686411200115,
+    "win_rate": 0.5092592592592593,
+    "total_current_value": 0.1974938,
+    "total_positions": 656,
+    "event_ct": 648,
+    "win_count": 330,
+    "rank": 81485,
+    "trader_tags": ""
   }
 ]
