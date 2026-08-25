@@ -462,5 +462,21 @@
     "win_count": 10,
     "rank": 9429,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x14bce517b5a3c4f7e152f83733913898842df4ba",
+    "trader_name": "cheefkeef",
+    "tag": "Overall",
+    "overall_gain": 11110.906429351626,
+    "active_positions": 0,
+    "win_amount": 11110.906429351626,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 9430,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
