@@ -1326,5 +1326,21 @@
     "win_count": 5,
     "rank": 1683,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc8b9a30184244d427169cf62485dde6041b2b836",
+    "trader_name": "SnowLover7",
+    "tag": "Overall",
+    "overall_gain": 73084.50944824377,
+    "active_positions": 15,
+    "win_amount": 88393.47572110676,
+    "loss_amount": -15308.966272862988,
+    "win_rate": 0.6091954022988506,
+    "total_current_value": 32372.325891266508,
+    "total_positions": 216,
+    "event_ct": 87,
+    "win_count": 53,
+    "rank": 1684,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
