@@ -1534,5 +1534,21 @@
     "win_count": 5,
     "rank": 70797,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd103f3b2f922461e7a5e22ea70f32894ff14389a",
+    "trader_name": "sunderafc",
+    "tag": "Overall",
+    "overall_gain": 792.7447296853618,
+    "active_positions": 23,
+    "win_amount": 951.3268099999999,
+    "loss_amount": -158.582080314638,
+    "win_rate": 0.6818181818181818,
+    "total_current_value": 1767.98714,
+    "total_positions": 68,
+    "event_ct": 66,
+    "win_count": 45,
+    "rank": 70798,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
