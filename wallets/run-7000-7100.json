@@ -590,5 +590,21 @@
     "win_count": 5,
     "rank": 7037,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81c2d263673d128c01e8bf72b9688835448d9ff3",
+    "trader_name": "GreatVI",
+    "tag": "Overall",
+    "overall_gain": 15178.19006677949,
+    "active_positions": 1,
+    "win_amount": 18841.141655246905,
+    "loss_amount": -3662.951588467416,
+    "win_rate": 0.6,
+    "total_current_value": 0.002665,
+    "total_positions": 11,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 7038,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
