@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 43668,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7f9c422e7a59df0c0059266fde0e6d6b39925007",
+    "trader_name": "Frostcave",
+    "tag": "Overall",
+    "overall_gain": 1784.35,
+    "active_positions": 1,
+    "win_amount": 1784.35,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 43669,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
