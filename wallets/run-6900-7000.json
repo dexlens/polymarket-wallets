@@ -1582,5 +1582,21 @@
     "win_count": 37,
     "rank": 6999,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x621d760eb316fc15fe60e4fb2f8e72efeba75447",
+    "trader_name": "jbro123",
+    "tag": "Overall",
+    "overall_gain": 15286.132756141455,
+    "active_positions": 0,
+    "win_amount": 16415.676425479476,
+    "loss_amount": -1129.54366933802,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.009443,
+    "total_positions": 12,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 7000,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
