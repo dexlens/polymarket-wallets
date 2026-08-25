@@ -1486,5 +1486,21 @@
     "win_count": 15,
     "rank": 3393,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa6a1d92728f2497e941e671e463438e67173fc5a",
+    "trader_name": "AFLightings",
+    "tag": "Overall",
+    "overall_gain": 33586.065034369916,
+    "active_positions": 8,
+    "win_amount": 33586.070062369916,
+    "loss_amount": -0.00502799999999981,
+    "win_rate": 0.9705882352941176,
+    "total_current_value": 11.237101594,
+    "total_positions": 87,
+    "event_ct": 34,
+    "win_count": 33,
+    "rank": 3394,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
