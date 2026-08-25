@@ -414,5 +414,21 @@
     "win_count": 4,
     "rank": 41727,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfe50114e81d83d767cbb7fbcde2ca4b698f26eb6",
+    "trader_name": "LpBoar",
+    "tag": "Overall",
+    "overall_gain": 1891.386904484855,
+    "active_positions": 5,
+    "win_amount": 7281.40999127253,
+    "loss_amount": -5390.0230867876735,
+    "win_rate": 0.7459016393442623,
+    "total_current_value": 1780.181715428,
+    "total_positions": 173,
+    "event_ct": 122,
+    "win_count": 91,
+    "rank": 41728,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
