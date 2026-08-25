@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 31954,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a9af2e08276e800212508c970a500e7165941a2",
+    "trader_name": "polyoff",
+    "tag": "Overall",
+    "overall_gain": 2603.9046790827556,
+    "active_positions": 1,
+    "win_amount": 2627.7130920419636,
+    "loss_amount": -23.808412959208002,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.017175000000000003,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 31955,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
