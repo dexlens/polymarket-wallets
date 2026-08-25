@@ -1310,5 +1310,21 @@
     "win_count": 1583,
     "rank": 28383,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x20fb2afaa4c0133bbe49e61bf81cd976c594e5fa",
+    "trader_name": "BookTrader",
+    "tag": "Overall",
+    "overall_gain": 3017.290200102302,
+    "active_positions": 6,
+    "win_amount": 12918.338002135642,
+    "loss_amount": -9901.047802033341,
+    "win_rate": 0.43283582089552236,
+    "total_current_value": 9360.7760257995,
+    "total_positions": 248,
+    "event_ct": 134,
+    "win_count": 58,
+    "rank": 28384,
+    "trader_tags": ""
   }
 ]
