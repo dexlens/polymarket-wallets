@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 58283,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a6b967b9b47a47a2e76269208d077957d836e11",
+    "trader_name": "yanglay",
+    "tag": "Overall",
+    "overall_gain": 1132.74220758857,
+    "active_positions": 7,
+    "win_amount": 2434.576127961032,
+    "loss_amount": -1301.833920372462,
+    "win_rate": 0.5,
+    "total_current_value": 2547.2246235965,
+    "total_positions": 42,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 58284,
+    "trader_tags": ""
   }
 ]
