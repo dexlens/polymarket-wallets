@@ -1054,5 +1054,21 @@
     "win_count": 26,
     "rank": 5366,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56d46e3f56750aaf97c95e74aab7795949539c57",
+    "trader_name": "andelicious",
+    "tag": "Overall",
+    "overall_gain": 20179.55643136199,
+    "active_positions": 106,
+    "win_amount": 211572.11401522518,
+    "loss_amount": -191392.55758386318,
+    "win_rate": 0.5463917525773195,
+    "total_current_value": 2927.217020025,
+    "total_positions": 301,
+    "event_ct": 291,
+    "win_count": 159,
+    "rank": 5367,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
