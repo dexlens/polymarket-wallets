@@ -1582,5 +1582,21 @@
     "win_count": 77,
     "rank": 9299,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x38d73bcf765ef59b0700d7e8b14cc85960a82375",
+    "trader_name": "Lucassd",
+    "tag": "Overall",
+    "overall_gain": 11278.665722,
+    "active_positions": 0,
+    "win_amount": 11283.165722,
+    "loss_amount": -4.5,
+    "win_rate": 0.875,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 9300,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
