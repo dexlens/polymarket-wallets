@@ -590,5 +590,21 @@
     "win_count": 75,
     "rank": 737,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x477f156a229f1a174fdf945c778b7362dd2b19aa",
+    "trader_name": "TradeDeficitArchitect",
+    "tag": "Overall",
+    "overall_gain": 172788.7201149356,
+    "active_positions": 314,
+    "win_amount": 393141.7750662488,
+    "loss_amount": -220353.0549513132,
+    "win_rate": 0.6266173752310537,
+    "total_current_value": 159441.6307265923,
+    "total_positions": 2880,
+    "event_ct": 1082,
+    "win_count": 678,
+    "rank": 738,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; 1k+ Positions; Politics PnL > $100k"
   }
 ]
