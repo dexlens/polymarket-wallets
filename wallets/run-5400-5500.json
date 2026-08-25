@@ -270,5 +270,21 @@
     "win_count": 5,
     "rank": 5417,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56a25015b7ef8481bb1e1453ec44266251ec42a0",
+    "trader_name": "dontask",
+    "tag": "Overall",
+    "overall_gain": 19980.0003318,
+    "active_positions": 0,
+    "win_amount": 19980.0003318,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008335,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 5418,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
