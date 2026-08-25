@@ -942,5 +942,21 @@
     "win_count": 161,
     "rank": 47760,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x03bec60891f6397d7a9a2d101503c0496064f6d9",
+    "trader_name": "betjunkie",
+    "tag": "Overall",
+    "overall_gain": 1583.4549610948732,
+    "active_positions": 2,
+    "win_amount": 18715.971713728464,
+    "loss_amount": -17132.516752633594,
+    "win_rate": 0.7532467532467533,
+    "total_current_value": 6374.912149518501,
+    "total_positions": 307,
+    "event_ct": 231,
+    "win_count": 174,
+    "rank": 47761,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
