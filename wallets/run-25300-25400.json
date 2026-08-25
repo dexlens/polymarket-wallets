@@ -622,5 +622,21 @@
     "win_count": 20,
     "rank": 25340,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x24f25bddc253ec566db0a32006ffd01cbead5d07",
+    "trader_name": "myndgfsb",
+    "tag": "Overall",
+    "overall_gain": 3484.9,
+    "active_positions": 0,
+    "win_amount": 3484.9,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 25341,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
