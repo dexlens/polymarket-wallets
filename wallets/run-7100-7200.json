@@ -654,5 +654,21 @@
     "win_count": 7,
     "rank": 7141,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x85a06be099b53f03b7894000997e5e1cae2a511e",
+    "trader_name": "xshqal",
+    "tag": "Overall",
+    "overall_gain": 14992.129765871985,
+    "active_positions": 9,
+    "win_amount": 16315.25944137738,
+    "loss_amount": -1323.1296755053936,
+    "win_rate": 0.6397058823529411,
+    "total_current_value": 497.06009183250006,
+    "total_positions": 186,
+    "event_ct": 136,
+    "win_count": 87,
+    "rank": 7142,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
