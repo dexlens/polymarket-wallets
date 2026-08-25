@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 16031,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc63b545b2c27a9d2df97698ea927d6186319f88e",
+    "trader_name": "SEV7",
+    "tag": "Overall",
+    "overall_gain": 5985.6555043919825,
+    "active_positions": 0,
+    "win_amount": 27072.461508929457,
+    "loss_amount": -21086.806004537455,
+    "win_rate": 0.9014084507042254,
+    "total_current_value": 0.093745,
+    "total_positions": 539,
+    "event_ct": 213,
+    "win_count": 192,
+    "rank": 16032,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
