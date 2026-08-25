@@ -1278,5 +1278,21 @@
     "win_count": 13,
     "rank": 5480,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x20db426a4f15ee8b774df75a7d96f217728763cc",
+    "trader_name": "Xyroth",
+    "tag": "Overall",
+    "overall_gain": 19725.115790819218,
+    "active_positions": 5,
+    "win_amount": 22338.975764875042,
+    "loss_amount": -2613.859974055827,
+    "win_rate": 0.8478260869565217,
+    "total_current_value": 0.009437999999999998,
+    "total_positions": 49,
+    "event_ct": 46,
+    "win_count": 39,
+    "rank": 5481,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
