@@ -446,5 +446,21 @@
     "win_count": 24,
     "rank": 81129,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54b1c8007864db87927c46ae3291155533b24638",
+    "trader_name": "MEMETRO",
+    "tag": "Overall",
+    "overall_gain": 612.1030177187171,
+    "active_positions": 48,
+    "win_amount": 1207.68360986,
+    "loss_amount": -595.5805921412831,
+    "win_rate": 0.5438066465256798,
+    "total_current_value": 1199.96989798,
+    "total_positions": 594,
+    "event_ct": 331,
+    "win_count": 180,
+    "rank": 81130,
+    "trader_tags": "> 1 year old"
   }
 ]
