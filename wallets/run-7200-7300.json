@@ -222,5 +222,21 @@
     "win_count": 10,
     "rank": 7214,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xba630f6149e2945b71c864b15709b2b2a3df893b",
+    "trader_name": "heliosz",
+    "tag": "Overall",
+    "overall_gain": 14805.994216084737,
+    "active_positions": 3,
+    "win_amount": 17928.14165916409,
+    "loss_amount": -3122.1474430793505,
+    "win_rate": 0.5,
+    "total_current_value": 0.008058,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 7215,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
