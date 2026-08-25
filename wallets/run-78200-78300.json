@@ -590,5 +590,21 @@
     "win_count": 4,
     "rank": 78238,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x4f14294425bfd1d63363af9b33fa140670ee93b2",
+    "trader_name": "igamblemarkets",
+    "tag": "Overall",
+    "overall_gain": 660.2654614802859,
+    "active_positions": 0,
+    "win_amount": 675.5432234801559,
+    "loss_amount": -15.27776199987,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.005057,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 78239,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
