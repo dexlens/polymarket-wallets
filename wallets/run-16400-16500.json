@@ -206,5 +206,21 @@
     "win_count": 5,
     "rank": 16413,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e6b0fc1c58d2cf46bbed993f1b573f2ec73f237",
+    "trader_name": "kxq",
+    "tag": "Overall",
+    "overall_gain": 5816.899452260045,
+    "active_positions": 2,
+    "win_amount": 12917.223643260046,
+    "loss_amount": -7100.324191000001,
+    "win_rate": 0.6195170738676954,
+    "total_current_value": 53.68515399499999,
+    "total_positions": 13990,
+    "event_ct": 6999,
+    "win_count": 4336,
+    "rank": 16414,
+    "trader_tags": "1k+ Positions"
   }
 ]
