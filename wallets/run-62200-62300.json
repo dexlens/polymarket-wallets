@@ -1550,5 +1550,21 @@
     "win_count": 26,
     "rank": 62298,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6554ec525db59bc384924246d1fe550c87f2bb8d",
+    "trader_name": "DBTUN",
+    "tag": "Overall",
+    "overall_gain": 1014.524352973342,
+    "active_positions": 1,
+    "win_amount": 1014.524352973342,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.253342,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 28,
+    "rank": 62299,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
