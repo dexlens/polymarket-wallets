@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 59260,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x76c9da04914b6456212c5ea7e74a10bdbb1a442b",
+    "trader_name": "Horacedss",
+    "tag": "Overall",
+    "overall_gain": 1100.094927526,
+    "active_positions": 0,
+    "win_amount": 1106.843718,
+    "loss_amount": -6.748790474,
+    "win_rate": 0.16666666666666666,
+    "total_current_value": 0.015950750000000003,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 1,
+    "rank": 59261,
+    "trader_tags": "< 30 days old"
   }
 ]
