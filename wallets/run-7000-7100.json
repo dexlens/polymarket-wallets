@@ -814,5 +814,21 @@
     "win_count": 91,
     "rank": 7051,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x05376f675546c6c30a3bab05ce2c311d761113b6",
+    "trader_name": "jokic",
+    "tag": "Overall",
+    "overall_gain": 15139.556977858001,
+    "active_positions": 1,
+    "win_amount": 64815.73459408001,
+    "loss_amount": -49676.17761622199,
+    "win_rate": 0.5441176470588235,
+    "total_current_value": 0.0005380000000000001,
+    "total_positions": 78,
+    "event_ct": 68,
+    "win_count": 37,
+    "rank": 7052,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
