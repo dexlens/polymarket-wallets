@@ -670,5 +670,21 @@
     "win_count": 20,
     "rank": 72243,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x385b8c27ef69bce9c7ef70d2c1579545494cb81d",
+    "trader_name": "Brat",
+    "tag": "Overall",
+    "overall_gain": 761.2397602430839,
+    "active_positions": 2,
+    "win_amount": 1018.41982,
+    "loss_amount": -257.180059756916,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 12.5025,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 5,
+    "rank": 72244,
+    "trader_tags": "> 1 year old"
   }
 ]
