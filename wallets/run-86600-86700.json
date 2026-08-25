@@ -1150,5 +1150,21 @@
     "win_count": 9,
     "rank": 86673,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x239a14ee87dfcbd800e77499975aa23cb603a949",
+    "trader_name": "Mizukaze",
+    "tag": "Overall",
+    "overall_gain": 529.9579456229783,
+    "active_positions": 1,
+    "win_amount": 1520.7038585923613,
+    "loss_amount": -990.745912969383,
+    "win_rate": 0.8918918918918919,
+    "total_current_value": 13516.443029,
+    "total_positions": 807,
+    "event_ct": 555,
+    "win_count": 495,
+    "rank": 86674,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
