@@ -718,5 +718,21 @@
     "win_count": 14,
     "rank": 23645,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf6eab31d96d24310f33f258bc48a01bd48bc0a00",
+    "trader_name": "NecroCoin",
+    "tag": "Overall",
+    "overall_gain": 3789.4890375366435,
+    "active_positions": 12,
+    "win_amount": 5617.380161936854,
+    "loss_amount": -1827.8911244002106,
+    "win_rate": 0.8434782608695652,
+    "total_current_value": 51881.922450153506,
+    "total_positions": 199,
+    "event_ct": 115,
+    "win_count": 97,
+    "rank": 23646,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
