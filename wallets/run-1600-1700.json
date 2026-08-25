@@ -1342,5 +1342,21 @@
     "win_count": 53,
     "rank": 1684,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbf216238277f1ba267a7f3bae1a336fd6cb5be19",
+    "trader_name": "nbab",
+    "tag": "Overall",
+    "overall_gain": 73064.29167623236,
+    "active_positions": 825,
+    "win_amount": 189264.89290940957,
+    "loss_amount": -116200.60123317731,
+    "win_rate": 0.37369337979094075,
+    "total_current_value": 28290.579253231,
+    "total_positions": 1933,
+    "event_ct": 1148,
+    "win_count": 429,
+    "rank": 1685,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
