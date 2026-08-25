@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 11454,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x10bbdb61578ff2b6bfa2b750c9984d5e703feca4",
+    "trader_name": "NNSDT",
+    "tag": "Overall",
+    "overall_gain": 9119,
+    "active_positions": 5,
+    "win_amount": 12700.5,
+    "loss_amount": -3581.5,
+    "win_rate": 0.375,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 3,
+    "rank": 11455,
+    "trader_tags": ""
   }
 ]
