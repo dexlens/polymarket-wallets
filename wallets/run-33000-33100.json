@@ -446,5 +446,21 @@
     "win_count": 55,
     "rank": 33029,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xea6a7b39c992b82a26c1e23d3d43fb1ede4d3ee2",
+    "trader_name": "xo4ytelky",
+    "tag": "Overall",
+    "overall_gain": 2501.0398411856136,
+    "active_positions": 21,
+    "win_amount": 4524.966552001163,
+    "loss_amount": -2023.926710815549,
+    "win_rate": 0.8217338217338217,
+    "total_current_value": 658.1806067170002,
+    "total_positions": 1267,
+    "event_ct": 819,
+    "win_count": 673,
+    "rank": 33030,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
