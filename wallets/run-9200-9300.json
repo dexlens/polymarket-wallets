@@ -382,5 +382,21 @@
     "win_count": 13,
     "rank": 9224,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x12d51de654df441c57e97c81156613681114f0eb",
+    "trader_name": "drakelong",
+    "tag": "Overall",
+    "overall_gain": 11362.417241364172,
+    "active_positions": 1,
+    "win_amount": 11743.422038364173,
+    "loss_amount": -381.004797,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 1501.0628191675,
+    "total_positions": 17,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 9225,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
