@@ -1534,5 +1534,21 @@
     "win_count": 8,
     "rank": 64197,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x806736266c58c4d9c8785b0385bbdb39a3c53999",
+    "trader_name": "Yearning",
+    "tag": "Overall",
+    "overall_gain": 968.5,
+    "active_positions": 3,
+    "win_amount": 2281,
+    "loss_amount": -1312.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 64198,
+    "trader_tags": ""
   }
 ]
