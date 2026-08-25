@@ -414,5 +414,21 @@
     "win_count": 9,
     "rank": 56527,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x98eb0b82ae510ec791443b1a3696f35749fc67bf",
+    "trader_name": "VSspace",
+    "tag": "Overall",
+    "overall_gain": 1197.393038428198,
+    "active_positions": 0,
+    "win_amount": 1877.808394077934,
+    "loss_amount": -680.415355649737,
+    "win_rate": 0.9375,
+    "total_current_value": 4.652366000000001,
+    "total_positions": 331,
+    "event_ct": 320,
+    "win_count": 300,
+    "rank": 56528,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
