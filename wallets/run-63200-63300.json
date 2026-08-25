@@ -254,5 +254,21 @@
     "win_count": 2,
     "rank": 63217,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9a0f224405241e66f15656aaf9d3727a09ba3dad",
+    "trader_name": "Pikoko",
+    "tag": "Overall",
+    "overall_gain": 995.449594720456,
+    "active_positions": 4,
+    "win_amount": 1058.2665179907772,
+    "loss_amount": -62.816923270321,
+    "win_rate": 0.6115702479338843,
+    "total_current_value": 51.3314898025,
+    "total_positions": 124,
+    "event_ct": 121,
+    "win_count": 74,
+    "rank": 63218,
+    "trader_tags": "> 1 year old"
   }
 ]
