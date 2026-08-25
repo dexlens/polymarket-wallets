@@ -1166,5 +1166,21 @@
     "win_count": 32,
     "rank": 87174,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6bd3945a1f7dd505ce238702234f13056b722d0f",
+    "trader_name": "TipMe",
+    "tag": "Overall",
+    "overall_gain": 523.653576440985,
+    "active_positions": 1,
+    "win_amount": 629.4700593730539,
+    "loss_amount": -105.816482932069,
+    "win_rate": 0.5,
+    "total_current_value": 0.017866,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 87175,
+    "trader_tags": ""
   }
 ]
