@@ -798,5 +798,21 @@
     "win_count": 4,
     "rank": 7850,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x371e51560f4be3454f0707d03a1300cc78842afb",
+    "trader_name": "roscoeaut",
+    "tag": "Overall",
+    "overall_gain": 13426.99,
+    "active_positions": 0,
+    "win_amount": 16691.34,
+    "loss_amount": -3264.35,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 13,
+    "rank": 7851,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
