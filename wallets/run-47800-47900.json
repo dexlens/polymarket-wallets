@@ -494,5 +494,21 @@
     "win_count": 3,
     "rank": 47832,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d92eebde4b9f0072220a46b9d6bdb2757fe3832",
+    "trader_name": "schoolbook",
+    "tag": "Overall",
+    "overall_gain": 1580.4665352881589,
+    "active_positions": 9,
+    "win_amount": 1585.535418192326,
+    "loss_amount": -5.068882904166999,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 53.990311777500004,
+    "total_positions": 14,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 47833,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
