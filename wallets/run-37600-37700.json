@@ -622,5 +622,21 @@
     "win_count": 30,
     "rank": 37640,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd11d85bbbde78ee4c6875f7b5c8dd53da38e18b5",
+    "trader_name": "FlyingPen",
+    "tag": "Overall",
+    "overall_gain": 2145.3049825784315,
+    "active_positions": 3,
+    "win_amount": 2943.8359201060853,
+    "loss_amount": -798.530937527654,
+    "win_rate": 0.6153846153846154,
+    "total_current_value": 0.009539705999999998,
+    "total_positions": 19,
+    "event_ct": 13,
+    "win_count": 8,
+    "rank": 37641,
+    "trader_tags": "> 1 year old"
   }
 ]
