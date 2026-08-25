@@ -1310,5 +1310,21 @@
     "win_count": 3,
     "rank": 81783,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1693c3c84ab70ccd6949cbb5d54867a1861b5d20",
+    "trader_name": "ZQ1231",
+    "tag": "Overall",
+    "overall_gain": 601.472690731755,
+    "active_positions": 27,
+    "win_amount": 1353.9876342117548,
+    "loss_amount": -752.5149434799999,
+    "win_rate": 0.8227848101265823,
+    "total_current_value": 12659.743067646497,
+    "total_positions": 106,
+    "event_ct": 79,
+    "win_count": 65,
+    "rank": 81784,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
