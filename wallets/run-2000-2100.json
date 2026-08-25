@@ -238,5 +238,21 @@
     "win_count": 11,
     "rank": 2015,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaaef789cc9037967f64f780d72f00d52277c472a",
+    "trader_name": "BryanPunishMK22",
+    "tag": "Overall",
+    "overall_gain": 59974.13955108673,
+    "active_positions": 18,
+    "win_amount": 243603.68488389457,
+    "loss_amount": -183629.54533280776,
+    "win_rate": 0.5438247011952191,
+    "total_current_value": 22942.571740934494,
+    "total_positions": 807,
+    "event_ct": 502,
+    "win_count": 273,
+    "rank": 2016,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
