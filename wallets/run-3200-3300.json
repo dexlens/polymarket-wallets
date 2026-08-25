@@ -430,5 +430,21 @@
     "win_count": 12,
     "rank": 3227,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd5d21944923e970c460b9c53fe7c02e7787d90ab",
+    "trader_name": "FLyo",
+    "tag": "Overall",
+    "overall_gain": 35560.42483854544,
+    "active_positions": 8,
+    "win_amount": 54897.50488145937,
+    "loss_amount": -19337.080042913913,
+    "win_rate": 0.47368421052631576,
+    "total_current_value": 5559.77694573,
+    "total_positions": 113,
+    "event_ct": 76,
+    "win_count": 36,
+    "rank": 3228,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
