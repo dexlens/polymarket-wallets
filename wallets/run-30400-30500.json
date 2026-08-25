@@ -926,5 +926,21 @@
     "win_count": 12,
     "rank": 30459,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xde4508504b65eee70f1d261f3996fdb76dc0d900",
+    "trader_name": "Bartholowmew",
+    "tag": "Overall",
+    "overall_gain": 2764.630019393155,
+    "active_positions": 9,
+    "win_amount": 2814.630019393155,
+    "loss_amount": -50,
+    "win_rate": 0.75,
+    "total_current_value": 6762.604977235,
+    "total_positions": 10,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 30460,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
