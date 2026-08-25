@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 81449,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x19b0008a8309b5ff4aeda8bb410643931b3557cb",
+    "trader_name": "lmemer",
+    "tag": "Overall",
+    "overall_gain": 607.1409145682521,
+    "active_positions": 0,
+    "win_amount": 4884.165082185464,
+    "loss_amount": -4277.024167617213,
+    "win_rate": 0.7675070028011205,
+    "total_current_value": 0.100394,
+    "total_positions": 481,
+    "event_ct": 357,
+    "win_count": 274,
+    "rank": 81450,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
