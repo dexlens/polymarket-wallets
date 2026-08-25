@@ -1150,5 +1150,21 @@
     "win_count": 3,
     "rank": 86973,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xb0ef06097edf320622ba5587841c030068481f41",
+    "trader_name": "AWFA",
+    "tag": "Overall",
+    "overall_gain": 525.871436143666,
+    "active_positions": 2,
+    "win_amount": 587.36211191552,
+    "loss_amount": -61.490675771854,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.02067,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 86974,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
