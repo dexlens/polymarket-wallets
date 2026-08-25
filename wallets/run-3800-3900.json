@@ -158,5 +158,21 @@
     "win_count": 18,
     "rank": 3810,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0770995e6d1f47e20a696e1c177287556873184b",
+    "trader_name": "iadme",
+    "tag": "Overall",
+    "overall_gain": 29897.58747116936,
+    "active_positions": 96,
+    "win_amount": 57706.206817740924,
+    "loss_amount": -27808.619346571562,
+    "win_rate": 0.47619047619047616,
+    "total_current_value": 0.6606375315,
+    "total_positions": 2204,
+    "event_ct": 1029,
+    "win_count": 490,
+    "rank": 3811,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
