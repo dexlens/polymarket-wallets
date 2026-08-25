@@ -1534,5 +1534,21 @@
     "win_count": 118,
     "rank": 24097,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9159fba9af4cae5e9b40c0661533b1ffff74a3c7",
+    "trader_name": "Losre",
+    "tag": "Overall",
+    "overall_gain": 3702.64,
+    "active_positions": 2,
+    "win_amount": 4278,
+    "loss_amount": -575.36,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 24098,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
