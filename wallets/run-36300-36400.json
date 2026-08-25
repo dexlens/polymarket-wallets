@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 36351,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe8713831e5fcef045c885cb391041b66933c3eb",
+    "trader_name": "orvalaliquidio",
+    "tag": "Overall",
+    "overall_gain": 2235.988946,
+    "active_positions": 1,
+    "win_amount": 4341.457941000001,
+    "loss_amount": -2105.468995,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 22,
+    "win_count": 12,
+    "rank": 36352,
+    "trader_tags": "> 1 year old"
   }
 ]
