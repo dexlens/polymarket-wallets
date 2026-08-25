@@ -126,5 +126,21 @@
     "win_count": 12,
     "rank": 61909,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7f9856cc41f61700316e8ded27484d426f62cce8",
+    "trader_name": "kardsite",
+    "tag": "Overall",
+    "overall_gain": 1024.5955552810012,
+    "active_positions": 1,
+    "win_amount": 1024.5955552810012,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3008.538976784,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 61910,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
