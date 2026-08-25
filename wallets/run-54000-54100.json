@@ -782,5 +782,21 @@
     "win_count": 7,
     "rank": 54050,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x959010397b3df9d96cd121a23bcec259f1180176",
+    "trader_name": "anjdax",
+    "tag": "Overall",
+    "overall_gain": 1300.9135681799999,
+    "active_positions": 1,
+    "win_amount": 1698.955097,
+    "loss_amount": -398.04152882000005,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 54051,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
