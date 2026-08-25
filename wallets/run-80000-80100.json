@@ -318,5 +318,21 @@
     "win_count": 12,
     "rank": 80021,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x05368845a2749e82bbd4fe70dd913a4e4b4aa3c9",
+    "trader_name": "ChuDebSharp",
+    "tag": "Overall",
+    "overall_gain": 630.3326074543667,
+    "active_positions": 0,
+    "win_amount": 882.6801984648278,
+    "loss_amount": -252.34759101046103,
+    "win_rate": 0.75,
+    "total_current_value": 0.15594617649999998,
+    "total_positions": 82,
+    "event_ct": 36,
+    "win_count": 27,
+    "rank": 80022,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
