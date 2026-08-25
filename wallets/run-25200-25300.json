@@ -1454,5 +1454,21 @@
     "win_count": 79,
     "rank": 25292,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x23ba5dda0bf1d38846226746a61a64aafe0dedb2",
+    "trader_name": "S4YpfaLAk",
+    "tag": "Overall",
+    "overall_gain": 3491.5650400000013,
+    "active_positions": 3,
+    "win_amount": 12649.06504,
+    "loss_amount": -9157.5,
+    "win_rate": 0.8,
+    "total_current_value": 4.065,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 25293,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
