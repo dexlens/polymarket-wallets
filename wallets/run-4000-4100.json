@@ -1102,5 +1102,21 @@
     "win_count": 3,
     "rank": 4069,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x849ccb5907938ce8be18ed5dbf583288e2da4009",
+    "trader_name": "Ondra",
+    "tag": "Overall",
+    "overall_gain": 27556.94039825693,
+    "active_positions": 528,
+    "win_amount": 77349.8691448857,
+    "loss_amount": -49792.92874662877,
+    "win_rate": 0.4921875,
+    "total_current_value": 6708.983729501499,
+    "total_positions": 2743,
+    "event_ct": 128,
+    "win_count": 63,
+    "rank": 4070,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
