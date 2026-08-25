@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 70023,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37a389ca8cff61f16f1ff35df5199190346fd264",
+    "trader_name": "bozzoking",
+    "tag": "Overall",
+    "overall_gain": 810.0087371919184,
+    "active_positions": 24,
+    "win_amount": 12169.608899910529,
+    "loss_amount": -11359.60016271861,
+    "win_rate": 0.8167555695010982,
+    "total_current_value": 69.75789556399998,
+    "total_positions": 4470,
+    "event_ct": 3187,
+    "win_count": 2603,
+    "rank": 70024,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
