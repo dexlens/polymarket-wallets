@@ -846,5 +846,21 @@
     "win_count": 4,
     "rank": 76754,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98328ca1c8cfe50822b86869121cc736d7c08e19",
+    "trader_name": "Fruct",
+    "tag": "Overall",
+    "overall_gain": 686.074619372,
+    "active_positions": 0,
+    "win_amount": 770.224619372,
+    "loss_amount": -84.15,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0.044465,
+    "total_positions": 14,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 76755,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
