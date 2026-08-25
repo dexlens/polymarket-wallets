@@ -750,5 +750,21 @@
     "win_count": 19,
     "rank": 9047,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0af5935cb0f3784714d09635132e046652bf2470",
+    "trader_name": "mrstupid",
+    "tag": "Overall",
+    "overall_gain": 11589.24136429458,
+    "active_positions": 9,
+    "win_amount": 50827.38555642445,
+    "loss_amount": -39238.14419212986,
+    "win_rate": 0.7227722772277227,
+    "total_current_value": 15099.681536965001,
+    "total_positions": 132,
+    "event_ct": 101,
+    "win_count": 73,
+    "rank": 9048,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
