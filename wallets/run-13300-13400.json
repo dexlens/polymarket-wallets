@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 13348,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1427cd9aed100764a0cd181b4d00e4716312a924",
+    "trader_name": "gvyd",
+    "tag": "Overall",
+    "overall_gain": 7475.807304999999,
+    "active_positions": 0,
+    "win_amount": 7496.507305,
+    "loss_amount": -20.700000000000003,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 21,
+    "win_count": 18,
+    "rank": 13349,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
