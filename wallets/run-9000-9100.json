@@ -46,5 +46,21 @@
     "win_count": 2222,
     "rank": 9003,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
+  },
+  {
+    "trader": "0x98ec1ca09acc2285224c5ca25b5a7b1b8be35251",
+    "trader_name": "Braenya",
+    "tag": "Overall",
+    "overall_gain": 11645.516416928669,
+    "active_positions": 4,
+    "win_amount": 12008.985326826667,
+    "loss_amount": -363.468909898,
+    "win_rate": 0.8095238095238095,
+    "total_current_value": 0.0004090000000000001,
+    "total_positions": 44,
+    "event_ct": 42,
+    "win_count": 34,
+    "rank": 9004,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
