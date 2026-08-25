@@ -1006,5 +1006,21 @@
     "win_count": 5,
     "rank": 8363,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xda2070589ff19a8160b147aa3f134175b603948e",
+    "trader_name": "bgapsioje",
+    "tag": "Overall",
+    "overall_gain": 12540.521259193789,
+    "active_positions": 1,
+    "win_amount": 12617.782956,
+    "loss_amount": -77.26169680621199,
+    "win_rate": 0.38095238095238093,
+    "total_current_value": 0.038093,
+    "total_positions": 38,
+    "event_ct": 21,
+    "win_count": 8,
+    "rank": 8364,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
