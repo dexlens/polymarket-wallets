@@ -542,5 +542,21 @@
     "win_count": 39,
     "rank": 3434,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x1de8c7d1c3158885dff7c8e1b842444fa7434115",
+    "trader_name": "II90",
+    "tag": "Overall",
+    "overall_gain": 33214.33475179211,
+    "active_positions": 3,
+    "win_amount": 35832.96621479211,
+    "loss_amount": -2618.6314629999993,
+    "win_rate": 0.84375,
+    "total_current_value": 14.490208,
+    "total_positions": 84,
+    "event_ct": 64,
+    "win_count": 54,
+    "rank": 3435,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
