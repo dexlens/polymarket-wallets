@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 57117,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e4a455e1ed38bc84809862020c2a1acb2c9faaf",
+    "trader_name": "d3x",
+    "tag": "Overall",
+    "overall_gain": 1174.654684985086,
+    "active_positions": 2,
+    "win_amount": 1747.4301605509067,
+    "loss_amount": -572.775475565821,
+    "win_rate": 0.28,
+    "total_current_value": 0.016234,
+    "total_positions": 44,
+    "event_ct": 25,
+    "win_count": 7,
+    "rank": 57118,
+    "trader_tags": "> 1 year old"
   }
 ]
