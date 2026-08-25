@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 44459,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0d84a8b220e04398b7359cfb6d09ea26653c705d",
+    "trader_name": "huitballes",
+    "tag": "Overall",
+    "overall_gain": 1739.176400588713,
+    "active_positions": 12,
+    "win_amount": 2929.170093,
+    "loss_amount": -1189.993692411287,
+    "win_rate": 0.125,
+    "total_current_value": 0.004573,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 3,
+    "rank": 44460,
+    "trader_tags": "> 1 year old"
   }
 ]
