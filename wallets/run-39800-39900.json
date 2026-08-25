@@ -942,5 +942,21 @@
     "win_count": 51,
     "rank": 39860,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b3d341b85bd69d186d2feb3622c61ece08e0032",
+    "trader_name": "Delmar-Fry",
+    "tag": "Overall",
+    "overall_gain": 2000.6030689999998,
+    "active_positions": 12,
+    "win_amount": 10072.499135000005,
+    "loss_amount": -8071.896065999999,
+    "win_rate": 0.9741075917546506,
+    "total_current_value": 1100,
+    "total_positions": 8152,
+    "event_ct": 7956,
+    "win_count": 7750,
+    "rank": 39861,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
