@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 39444,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x23a876d4bd29f9d59b1f9052d13cb4df4a8e8004",
+    "trader_name": "PetroCan",
+    "tag": "Overall",
+    "overall_gain": 2024.3060441284572,
+    "active_positions": 15,
+    "win_amount": 3316.750062671386,
+    "loss_amount": -1292.4440185429282,
+    "win_rate": 0.6410256410256411,
+    "total_current_value": 460.8941144270001,
+    "total_positions": 231,
+    "event_ct": 117,
+    "win_count": 75,
+    "rank": 39445,
+    "trader_tags": ""
   }
 ]
