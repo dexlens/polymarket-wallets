@@ -910,5 +910,21 @@
     "win_count": 1,
     "rank": 86358,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xac410dfa874dc3e285663dd615802973cb23aa68",
+    "trader_name": "Zenslainer",
+    "tag": "Overall",
+    "overall_gain": 534.3449778731458,
+    "active_positions": 92,
+    "win_amount": 2103.31369,
+    "loss_amount": -1568.9687121268537,
+    "win_rate": 0.8732782369146006,
+    "total_current_value": 0,
+    "total_positions": 726,
+    "event_ct": 726,
+    "win_count": 634,
+    "rank": 86359,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
