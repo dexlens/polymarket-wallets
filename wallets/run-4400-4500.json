@@ -894,5 +894,21 @@
     "win_count": 32,
     "rank": 4456,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8da3521cc2cf049a380e9d4efe7ea35e55b88a67",
+    "trader_name": "Old-Loompa",
+    "tag": "Overall",
+    "overall_gain": 24893.479904797354,
+    "active_positions": 6,
+    "win_amount": 72212.95794058555,
+    "loss_amount": -47319.478035788234,
+    "win_rate": 0.679399727148704,
+    "total_current_value": 1441.6454595550001,
+    "total_positions": 1377,
+    "event_ct": 733,
+    "win_count": 498,
+    "rank": 4457,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
