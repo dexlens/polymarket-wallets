@@ -718,5 +718,21 @@
     "win_count": 12,
     "rank": 43846,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1e7b540ce5ef33767935dfda9eff324a687c48f7",
+    "trader_name": "steven-s",
+    "tag": "Overall",
+    "overall_gain": 1775.02,
+    "active_positions": 2,
+    "win_amount": 1875.02,
+    "loss_amount": -100,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 43847,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
