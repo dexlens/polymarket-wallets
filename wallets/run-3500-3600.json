@@ -686,5 +686,21 @@
     "win_count": 213,
     "rank": 3543,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x8e6c2cecef45bd05931eaa829697a96dcd60623d",
+    "trader_name": "Althorin",
+    "tag": "Overall",
+    "overall_gain": 32184.184279011137,
+    "active_positions": 5,
+    "win_amount": 36936.96425535314,
+    "loss_amount": -4752.779976342002,
+    "win_rate": 0.873015873015873,
+    "total_current_value": 0.000058,
+    "total_positions": 64,
+    "event_ct": 63,
+    "win_count": 55,
+    "rank": 3544,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
