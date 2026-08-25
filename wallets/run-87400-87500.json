@@ -1310,5 +1310,21 @@
     "win_count": 2,
     "rank": 87483,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x048f0c9da90f6bdf63cd5dea0ac885a7848ea84c",
+    "trader_name": "victorman",
+    "tag": "Overall",
+    "overall_gain": 519.0382094611558,
+    "active_positions": 15,
+    "win_amount": 2402.359312211718,
+    "loss_amount": -1883.3211027505617,
+    "win_rate": 0.9541218637992831,
+    "total_current_value": 0.252678,
+    "total_positions": 1412,
+    "event_ct": 1395,
+    "win_count": 1331,
+    "rank": 87484,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
