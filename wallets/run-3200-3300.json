@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 3231,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xceb69e6008e7d79b37d49ea552e5fc119fad979d",
+    "trader_name": "domenickcoll",
+    "tag": "Overall",
+    "overall_gain": 35448.5,
+    "active_positions": 0,
+    "win_amount": 47171,
+    "loss_amount": -11722.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 3232,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
