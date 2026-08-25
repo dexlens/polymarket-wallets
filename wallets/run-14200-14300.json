@@ -1326,5 +1326,21 @@
     "win_count": 9,
     "rank": 14283,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x702ba3f75dfcbb0dce41a5a02ef168cebffcd274",
+    "trader_name": "Muhaim",
+    "tag": "Overall",
+    "overall_gain": 6897.374968327863,
+    "active_positions": 1,
+    "win_amount": 33541.14794333375,
+    "loss_amount": -26643.772975005904,
+    "win_rate": 0.7872340425531915,
+    "total_current_value": 0.005953999999999999,
+    "total_positions": 51,
+    "event_ct": 47,
+    "win_count": 37,
+    "rank": 14284,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
