@@ -1342,5 +1342,21 @@
     "win_count": 2,
     "rank": 32385,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56fc02f28c9305b90b0d73d148bbfc7d2d53a1f1",
+    "trader_name": "mas01s",
+    "tag": "Overall",
+    "overall_gain": 2562.7006300000007,
+    "active_positions": 10,
+    "win_amount": 3374.9206300000005,
+    "loss_amount": -812.22,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 8,
+    "rank": 32386,
+    "trader_tags": ""
   }
 ]
