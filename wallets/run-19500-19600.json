@@ -430,5 +430,21 @@
     "win_count": 4,
     "rank": 19527,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5573e6bfc95cb59edb41da2e80ea6f838678a2c9",
+    "trader_name": "GraphGazette",
+    "tag": "Overall",
+    "overall_gain": 4754,
+    "active_positions": 1,
+    "win_amount": 5074.5,
+    "loss_amount": -320.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 19528,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
