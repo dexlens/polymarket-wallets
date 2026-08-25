@@ -686,5 +686,21 @@
     "win_count": 22,
     "rank": 9743,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x55ac58f67dab126c1913269374bf1d80d638e841",
+    "trader_name": "pamelahan",
+    "tag": "Overall",
+    "overall_gain": 10755.559887000001,
+    "active_positions": 0,
+    "win_amount": 10767.249864000001,
+    "loss_amount": -11.689977,
+    "win_rate": 0.9583333333333334,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 24,
+    "win_count": 23,
+    "rank": 9744,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
