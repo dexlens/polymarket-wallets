@@ -254,5 +254,21 @@
     "win_count": 10,
     "rank": 28017,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1b0316a18a33effa3cc6fbbe498e212fada77d65",
+    "trader_name": "jasperprice",
+    "tag": "Overall",
+    "overall_gain": 3063.6594969999996,
+    "active_positions": 1,
+    "win_amount": 3696.1594969999996,
+    "loss_amount": -632.5,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 29,
+    "event_ct": 18,
+    "win_count": 16,
+    "rank": 28018,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
