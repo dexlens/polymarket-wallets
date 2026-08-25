@@ -574,5 +574,21 @@
     "win_count": 12,
     "rank": 46237,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbe235ebbe0893af7256d13a68a6570231e057ad3",
+    "trader_name": "Hsin",
+    "tag": "Overall",
+    "overall_gain": 1655.0516513668802,
+    "active_positions": 1,
+    "win_amount": 1894.2791984348712,
+    "loss_amount": -239.22754706799097,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.002082,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 46238,
+    "trader_tags": "> 1 year old"
   }
 ]
