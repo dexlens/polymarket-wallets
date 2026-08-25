@@ -190,5 +190,21 @@
     "win_count": 13,
     "rank": 35713,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2b26f17143f4499b10d10e73f70aecca9622f07b",
+    "trader_name": "Tizak",
+    "tag": "Overall",
+    "overall_gain": 2284.0654135454943,
+    "active_positions": 1,
+    "win_amount": 5096.9584831987195,
+    "loss_amount": -2812.893069653225,
+    "win_rate": 0.75,
+    "total_current_value": 0.014934,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 35714,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
