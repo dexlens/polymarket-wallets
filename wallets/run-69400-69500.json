@@ -1006,5 +1006,21 @@
     "win_count": 2,
     "rank": 69464,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x271f60b7b0a7b474c53bf94dea3715f4c2b99f18",
+    "trader_name": "xiaotest",
+    "tag": "Overall",
+    "overall_gain": 823.0917904746989,
+    "active_positions": 6,
+    "win_amount": 1051.672324474699,
+    "loss_amount": -228.580534,
+    "win_rate": 0.8343949044585988,
+    "total_current_value": 369.0443,
+    "total_positions": 422,
+    "event_ct": 314,
+    "win_count": 262,
+    "rank": 69465,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
