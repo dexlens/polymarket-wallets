@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 8937,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbca69be5edef416ba701f9a3a2983efdf58273e3",
+    "trader_name": "r888",
+    "tag": "Overall",
+    "overall_gain": 11722.263222087193,
+    "active_positions": 22,
+    "win_amount": 65195.29171773838,
+    "loss_amount": -53473.02849565122,
+    "win_rate": 0.5608465608465608,
+    "total_current_value": 11553.654739046498,
+    "total_positions": 300,
+    "event_ct": 189,
+    "win_count": 106,
+    "rank": 8938,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
