@@ -1214,5 +1214,21 @@
     "win_count": 2,
     "rank": 61777,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5873e37f6c23872281f2ef41c9eb67bbc852a382",
+    "trader_name": "TsLm",
+    "tag": "Overall",
+    "overall_gain": 1027.814460122978,
+    "active_positions": 5,
+    "win_amount": 1033.314460122978,
+    "loss_amount": -5.5,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 5.314378,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 61778,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
