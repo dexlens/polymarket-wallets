@@ -766,5 +766,21 @@
     "win_count": 9,
     "rank": 42549,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8179e710dc1c997f29736b269a0d4c737b460a06",
+    "trader_name": "interlooper",
+    "tag": "Overall",
+    "overall_gain": 1845.399091281166,
+    "active_positions": 3,
+    "win_amount": 1851.399091281166,
+    "loss_amount": -6,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 42550,
+    "trader_tags": ""
   }
 ]
