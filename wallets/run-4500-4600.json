@@ -286,5 +286,21 @@
     "win_count": 37,
     "rank": 4518,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf3505345381358c2311ef9bc8096ace10165f3ff",
+    "trader_name": "BettingQuant",
+    "tag": "Overall",
+    "overall_gain": 24347.332911300487,
+    "active_positions": 102,
+    "win_amount": 61204.67379369954,
+    "loss_amount": -36857.34088239908,
+    "win_rate": 0.7371054657428792,
+    "total_current_value": 19763.1870838375,
+    "total_positions": 3716,
+    "event_ct": 2598,
+    "win_count": 1915,
+    "rank": 4519,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
