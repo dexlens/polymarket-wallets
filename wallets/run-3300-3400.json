@@ -1582,5 +1582,21 @@
     "win_count": 58,
     "rank": 3399,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3139e1b7bdd53cf41407fcc411a8d13bc9b60c17",
+    "trader_name": "zLen999",
+    "tag": "Overall",
+    "overall_gain": 33536.7110291501,
+    "active_positions": 9,
+    "win_amount": 44244.53087755193,
+    "loss_amount": -10707.819848401825,
+    "win_rate": 0.625,
+    "total_current_value": 21034.283434783,
+    "total_positions": 18,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 3400,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
