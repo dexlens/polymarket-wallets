@@ -1294,5 +1294,21 @@
     "win_count": 285,
     "rank": 2181,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x05e70727a2e2dcd079baa2ef1c0b88af06bb9641",
+    "trader_name": "Handsanitizer23",
+    "tag": "Overall",
+    "overall_gain": 55121.22317142,
+    "active_positions": 17,
+    "win_amount": 78604.64987142,
+    "loss_amount": -23483.426699999996,
+    "win_rate": 0.5,
+    "total_current_value": 67634.8978,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 14,
+    "rank": 2182,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
