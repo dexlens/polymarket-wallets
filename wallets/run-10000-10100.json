@@ -894,5 +894,21 @@
     "win_count": 31,
     "rank": 10056,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f789eb1a5ff2da596241d43e1d40b41f8e6bbe8",
+    "trader_name": "franklineth",
+    "tag": "Overall",
+    "overall_gain": 10430.150120440381,
+    "active_positions": 5,
+    "win_amount": 22217.256271052363,
+    "loss_amount": -11787.106150611971,
+    "win_rate": 0.930783242258652,
+    "total_current_value": 15487.935731000003,
+    "total_positions": 631,
+    "event_ct": 549,
+    "win_count": 511,
+    "rank": 10057,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
