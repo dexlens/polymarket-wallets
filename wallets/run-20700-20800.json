@@ -1486,5 +1486,21 @@
     "win_count": 4,
     "rank": 20793,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90b570c1581874a2b5d7d4ada8f6e6a987e7ea5d",
+    "trader_name": "mcjdnmx",
+    "tag": "Overall",
+    "overall_gain": 4416.535521368087,
+    "active_positions": 2,
+    "win_amount": 4501.768021368087,
+    "loss_amount": -85.2325,
+    "win_rate": 0.9615384615384616,
+    "total_current_value": 152.96010900000002,
+    "total_positions": 27,
+    "event_ct": 26,
+    "win_count": 25,
+    "rank": 20794,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
