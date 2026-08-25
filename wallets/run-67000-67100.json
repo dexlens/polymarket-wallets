@@ -62,5 +62,21 @@
     "win_count": 1,
     "rank": 67005,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf02f69246141ad538add31caf0c405b173092b0a",
+    "trader_name": "kosmos01",
+    "tag": "Overall",
+    "overall_gain": 889.215590930756,
+    "active_positions": 12,
+    "win_amount": 1489.8989397475652,
+    "loss_amount": -600.683348816809,
+    "win_rate": 0.6486486486486487,
+    "total_current_value": 0.033984,
+    "total_positions": 50,
+    "event_ct": 37,
+    "win_count": 24,
+    "rank": 67006,
+    "trader_tags": "> 1 year old"
   }
 ]
