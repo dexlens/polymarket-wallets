@@ -1422,5 +1422,21 @@
     "win_count": 515,
     "rank": 40290,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4bc81541b3da88ea927ca09035bb53749473d9be",
+    "trader_name": "aec2",
+    "tag": "Overall",
+    "overall_gain": 1978.6571052250001,
+    "active_positions": 1,
+    "win_amount": 2277.358972225001,
+    "loss_amount": -298.701867,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 108.516915225,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 24,
+    "rank": 40291,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
