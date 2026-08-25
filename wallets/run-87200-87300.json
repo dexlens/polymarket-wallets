@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 87299,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf0cd6a8936aefd30f1a3e0fb3b6309e19e23de00",
+    "trader_name": "ziwei-wei",
+    "tag": "Overall",
+    "overall_gain": 521.7188087925592,
+    "active_positions": 198,
+    "win_amount": 3284.340240034428,
+    "loss_amount": -2762.6214312418692,
+    "win_rate": 0.5329368709972553,
+    "total_current_value": 84.16788900000005,
+    "total_positions": 2293,
+    "event_ct": 2186,
+    "win_count": 1165,
+    "rank": 87300,
+    "trader_tags": "1k+ Positions"
   }
 ]
