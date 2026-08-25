@@ -1070,5 +1070,21 @@
     "win_count": 41,
     "rank": 12667,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4cb27e0f735f887f2890b70ce8dae32da83b7991",
+    "trader_name": "FaitheEveline",
+    "tag": "Overall",
+    "overall_gain": 8000.0725279980825,
+    "active_positions": 10,
+    "win_amount": 20500.072527998083,
+    "loss_amount": -12500,
+    "win_rate": 0.6875,
+    "total_current_value": 0.008083,
+    "total_positions": 41,
+    "event_ct": 32,
+    "win_count": 22,
+    "rank": 12668,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
