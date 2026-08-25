@@ -366,5 +366,21 @@
     "win_count": 20,
     "rank": 25824,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa70f15faa4cb4c186052dc90270e80a426b1e9df",
+    "trader_name": "TT3",
+    "tag": "Overall",
+    "overall_gain": 3401.87324432,
+    "active_positions": 5,
+    "win_amount": 3455.69849432,
+    "loss_amount": -53.82525,
+    "win_rate": 0.9761904761904762,
+    "total_current_value": 188438.563332,
+    "total_positions": 56,
+    "event_ct": 42,
+    "win_count": 41,
+    "rank": 25825,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
