@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 68259,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x26eff7e3980c343fb47b601ca103f131ddefdfc8",
+    "trader_name": "Plutos",
+    "tag": "Overall",
+    "overall_gain": 854.1609114735656,
+    "active_positions": 3,
+    "win_amount": 9746.261209385286,
+    "loss_amount": -8892.100297911717,
+    "win_rate": 0.48214285714285715,
+    "total_current_value": 0.095723,
+    "total_positions": 143,
+    "event_ct": 112,
+    "win_count": 54,
+    "rank": 68260,
+    "trader_tags": "> 1 year old"
   }
 ]
