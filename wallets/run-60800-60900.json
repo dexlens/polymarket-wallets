@@ -1262,5 +1262,21 @@
     "win_count": 4,
     "rank": 60880,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7c215768d6afc1f202b12f2fe34624ac9f085ac2",
+    "trader_name": "ooboys12",
+    "tag": "Overall",
+    "overall_gain": 1050.909096483103,
+    "active_positions": 61,
+    "win_amount": 1549.5331656663982,
+    "loss_amount": -498.62406918329503,
+    "win_rate": 0.7625,
+    "total_current_value": 2159.3184630334995,
+    "total_positions": 167,
+    "event_ct": 80,
+    "win_count": 61,
+    "rank": 60881,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
