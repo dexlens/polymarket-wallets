@@ -862,5 +862,21 @@
     "win_count": 2,
     "rank": 88855,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe7069798593793a9904c62a7de71906cec3c2d68",
+    "trader_name": "popSMART",
+    "tag": "Overall",
+    "overall_gain": 503.36306673783,
+    "active_positions": 1,
+    "win_amount": 503.36306673783,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 233.93098,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 17,
+    "rank": 88856,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
