@@ -1422,5 +1422,21 @@
     "win_count": 63,
     "rank": 85590,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c5fe6822791fa005552f80b435d7d98c281a235",
+    "trader_name": "tweetstoday",
+    "tag": "Overall",
+    "overall_gain": 544.1324689727629,
+    "active_positions": 47,
+    "win_amount": 1825.0864581664414,
+    "loss_amount": -1280.953989193678,
+    "win_rate": 0.425,
+    "total_current_value": 300.007898,
+    "total_positions": 68,
+    "event_ct": 40,
+    "win_count": 17,
+    "rank": 85591,
+    "trader_tags": ""
   }
 ]
