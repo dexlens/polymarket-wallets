@@ -638,5 +638,21 @@
     "win_count": 12,
     "rank": 62241,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x19a71c9b4920a2ed223209ad8bc10bcb5d3a55fc",
+    "trader_name": "clocksq",
+    "tag": "Overall",
+    "overall_gain": 1015.5396168619872,
+    "active_positions": 2,
+    "win_amount": 1137.835463861987,
+    "loss_amount": -122.295847,
+    "win_rate": 0.9459459459459459,
+    "total_current_value": 1103.642347565,
+    "total_positions": 49,
+    "event_ct": 37,
+    "win_count": 35,
+    "rank": 62242,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
