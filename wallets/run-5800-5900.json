@@ -1230,5 +1230,21 @@
     "win_count": 7,
     "rank": 5877,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x991e415f418230910d0384082f6bf336a02c687c",
+    "trader_name": "Tompiwon",
+    "tag": "Overall",
+    "overall_gain": 18293.801883841745,
+    "active_positions": 1,
+    "win_amount": 18293.801883841745,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00513,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 5878,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
