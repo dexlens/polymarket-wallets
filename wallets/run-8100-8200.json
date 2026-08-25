@@ -1118,5 +1118,21 @@
     "win_count": 11,
     "rank": 8170,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0ce20da3bccc6110897f676c0a80ed44cf52ce8c",
+    "trader_name": "jhahgopajpo44",
+    "tag": "Overall",
+    "overall_gain": 12880.783640000001,
+    "active_positions": 3,
+    "win_amount": 15449.215640000002,
+    "loss_amount": -2568.432,
+    "win_rate": 0.8,
+    "total_current_value": 5.24,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 8171,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
