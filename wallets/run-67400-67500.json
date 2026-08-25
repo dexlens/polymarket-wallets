@@ -1502,5 +1502,21 @@
     "win_count": 8,
     "rank": 67495,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x50ff5b166049a7c1398f5dba0240ac34a8d8b0e6",
+    "trader_name": "EdgeOnchain",
+    "tag": "Overall",
+    "overall_gain": 875.180402852348,
+    "active_positions": 3,
+    "win_amount": 10499.097822844626,
+    "loss_amount": -9623.91741999228,
+    "win_rate": 0.75,
+    "total_current_value": 0.010294000000000001,
+    "total_positions": 175,
+    "event_ct": 164,
+    "win_count": 123,
+    "rank": 67496,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
