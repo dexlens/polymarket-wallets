@@ -990,5 +990,21 @@
     "win_count": 16,
     "rank": 10362,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa073a2ab269dc4c36d8576e0e06e0917f9c7d1d2",
+    "trader_name": "cool888",
+    "tag": "Overall",
+    "overall_gain": 10143.09216051533,
+    "active_positions": 0,
+    "win_amount": 30447.83361951533,
+    "loss_amount": -20304.741459,
+    "win_rate": 0.8,
+    "total_current_value": 0.01533,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 10363,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
