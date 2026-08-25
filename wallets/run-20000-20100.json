@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 20089,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe4b4e0710005c51a625afb51a6469d3ea94c18d6",
+    "trader_name": "president.predict",
+    "tag": "Overall",
+    "overall_gain": 4602.303137529331,
+    "active_positions": 1,
+    "win_amount": 6014.961634529333,
+    "loss_amount": -1412.6584970000001,
+    "win_rate": 0.995260663507109,
+    "total_current_value": 2099.5014025000014,
+    "total_positions": 835,
+    "event_ct": 633,
+    "win_count": 630,
+    "rank": 20090,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
