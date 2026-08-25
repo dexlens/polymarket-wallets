@@ -1406,5 +1406,21 @@
     "win_count": 50,
     "rank": 89189,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a1ac0ebc99fc69a0cf55424076a32a524d83d0c",
+    "trader_name": "MicroPoops",
+    "tag": "Overall",
+    "overall_gain": 499.57891318077003,
+    "active_positions": 1,
+    "win_amount": 644.6831500103319,
+    "loss_amount": -145.10423682956198,
+    "win_rate": 0.6111111111111112,
+    "total_current_value": 0.038125,
+    "total_positions": 24,
+    "event_ct": 18,
+    "win_count": 11,
+    "rank": 89190,
+    "trader_tags": "> 1 year old"
   }
 ]
