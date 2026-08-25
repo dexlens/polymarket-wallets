@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 52,
     "trader_tags": "Overall PnL > $1m; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x3d1ecf16942939b3603c2539a406514a40b504d0",
+    "trader_name": "edenmoon",
+    "tag": "Overall",
+    "overall_gain": 1742041.679552075,
+    "active_positions": 3,
+    "win_amount": 1897682.4893660748,
+    "loss_amount": -155640.809814,
+    "win_rate": 0.7894736842105263,
+    "total_current_value": 74857.20551528201,
+    "total_positions": 21,
+    "event_ct": 19,
+    "win_count": 15,
+    "rank": 53,
+    "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
