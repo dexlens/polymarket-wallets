@@ -862,5 +862,21 @@
     "win_count": 118,
     "rank": 10354,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x60c499f108c6ff634de2cbedf1852f3700818d4c",
+    "trader_name": "SpondeeSee",
+    "tag": "Overall",
+    "overall_gain": 10150,
+    "active_positions": 1,
+    "win_amount": 10398.5,
+    "loss_amount": -248.5,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 10355,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
