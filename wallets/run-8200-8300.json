@@ -94,5 +94,21 @@
     "win_count": 16,
     "rank": 8206,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x977ac477cb8d2f3c9d357afed779ad7570acf2ca",
+    "trader_name": "TM.FLOW",
+    "tag": "Overall",
+    "overall_gain": 12830.902699073315,
+    "active_positions": 56,
+    "win_amount": 286409.557703569,
+    "loss_amount": -273578.65500449575,
+    "win_rate": 0.16238244514106584,
+    "total_current_value": 85.68612590249998,
+    "total_positions": 7479,
+    "event_ct": 6380,
+    "win_count": 1036,
+    "rank": 8207,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
