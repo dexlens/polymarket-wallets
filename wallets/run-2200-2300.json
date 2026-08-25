@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 2268,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x876407a068471a1edebdf6227b87ba5010fc6d8f",
+    "trader_name": "palisade",
+    "tag": "Overall",
+    "overall_gain": 52500.72885584685,
+    "active_positions": 12,
+    "win_amount": 85404.88103494566,
+    "loss_amount": -32904.1521790988,
+    "win_rate": 0.6382978723404256,
+    "total_current_value": 0.050719,
+    "total_positions": 126,
+    "event_ct": 47,
+    "win_count": 30,
+    "rank": 2269,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
