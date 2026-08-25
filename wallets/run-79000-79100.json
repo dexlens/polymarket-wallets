@@ -78,5 +78,21 @@
     "win_count": 6,
     "rank": 79006,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x67e0b66d2ad694aa576b224c1f3e183356bc175a",
+    "trader_name": "MingGe",
+    "tag": "Overall",
+    "overall_gain": 647.3342829316181,
+    "active_positions": 9,
+    "win_amount": 656.7607345272321,
+    "loss_amount": -9.426451595614,
+    "win_rate": 0.75,
+    "total_current_value": 26.314659550999995,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 79007,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
