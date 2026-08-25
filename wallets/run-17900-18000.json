@@ -78,5 +78,21 @@
     "win_count": 25,
     "rank": 17905,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x29f04fe6a879063e6a122973770b6069369bc09c",
+    "trader_name": "socie",
+    "tag": "Overall",
+    "overall_gain": 5211.453842490977,
+    "active_positions": 0,
+    "win_amount": 10335.761950817368,
+    "loss_amount": -5124.3081083263905,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0.061304716,
+    "total_positions": 22,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 17906,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
