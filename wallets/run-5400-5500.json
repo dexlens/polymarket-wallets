@@ -702,5 +702,21 @@
     "win_count": 9,
     "rank": 5444,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x115d7269753b2846fd0bdb936c31d84756aef608",
+    "trader_name": "bluepalla",
+    "tag": "Overall",
+    "overall_gain": 19881.823894684985,
+    "active_positions": 24,
+    "win_amount": 31302.688237884984,
+    "loss_amount": -11420.864343199997,
+    "win_rate": 0.8568428421421072,
+    "total_current_value": 5.127191075,
+    "total_positions": 9314,
+    "event_ct": 5714,
+    "win_count": 4896,
+    "rank": 5445,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
