@@ -814,5 +814,21 @@
     "win_count": 6,
     "rank": 19151,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x66394dc180c9bd496e462e935ec2ea766b259a93",
+    "trader_name": "ttx",
+    "tag": "Overall",
+    "overall_gain": 4857.058678833555,
+    "active_positions": 1,
+    "win_amount": 5562.893258833555,
+    "loss_amount": -705.83458,
+    "win_rate": 0.5757575757575758,
+    "total_current_value": 367.51421999999997,
+    "total_positions": 34,
+    "event_ct": 33,
+    "win_count": 19,
+    "rank": 19152,
+    "trader_tags": "> 1 year old"
   }
 ]
