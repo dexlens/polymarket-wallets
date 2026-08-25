@@ -958,5 +958,21 @@
     "win_count": 61,
     "rank": 84261,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfc5af8c5b402ec575853565557e6c8daf4a8aba6",
+    "trader_name": "OptimistArtist",
+    "tag": "Overall",
+    "overall_gain": 562.765642022671,
+    "active_positions": 0,
+    "win_amount": 562.765642022671,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004413,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 84262,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
