@@ -1134,5 +1134,21 @@
     "win_count": 2,
     "rank": 36872,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x823200eac017eb8b368044a401f2732e7e1dd12f",
+    "trader_name": "mistermasked",
+    "tag": "Overall",
+    "overall_gain": 2199.5205699705625,
+    "active_positions": 9,
+    "win_amount": 7462.043555151712,
+    "loss_amount": -5262.522985181149,
+    "win_rate": 0.703125,
+    "total_current_value": 1477.5378196520003,
+    "total_positions": 149,
+    "event_ct": 128,
+    "win_count": 90,
+    "rank": 36873,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
