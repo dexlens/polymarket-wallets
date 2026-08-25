@@ -1390,5 +1390,21 @@
     "win_count": 3,
     "rank": 22987,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x09967941148680096ea4912e528bdb506dc377ff",
+    "trader_name": "sdgerger",
+    "tag": "Overall",
+    "overall_gain": 3921.4419580000003,
+    "active_positions": 3,
+    "win_amount": 6902.691958,
+    "loss_amount": -2981.25,
+    "win_rate": 0.7,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 22988,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
