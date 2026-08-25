@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 38520,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53685989c332366675257535f28abd6d17782d62",
+    "trader_name": "RamsBR",
+    "tag": "Overall",
+    "overall_gain": 2085.526449748327,
+    "active_positions": 105,
+    "win_amount": 5328.498940093563,
+    "loss_amount": -3242.9724903452347,
+    "win_rate": 0.6563146997929606,
+    "total_current_value": 1228.4410436845,
+    "total_positions": 883,
+    "event_ct": 483,
+    "win_count": 317,
+    "rank": 38521,
+    "trader_tags": ""
   }
 ]
