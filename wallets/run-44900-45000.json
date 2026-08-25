@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 44968,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x909c6b5fc115410e3086b6c7420e4cc2ce78dd6b",
+    "trader_name": "mazhenku035",
+    "tag": "Overall",
+    "overall_gain": 1714.966109505265,
+    "active_positions": 3,
+    "win_amount": 1822.966109505265,
+    "loss_amount": -108,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 2467.8600370395,
+    "total_positions": 31,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 44969,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
