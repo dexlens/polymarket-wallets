@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 29670,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c69336f4e2021dec67d06d90e7ac38337404622",
+    "trader_name": "Pengub",
+    "tag": "Overall",
+    "overall_gain": 2859.7532071469955,
+    "active_positions": 103,
+    "win_amount": 6213.73454788787,
+    "loss_amount": -3353.981340740871,
+    "win_rate": 0.6062846580406654,
+    "total_current_value": 1152.5156258444995,
+    "total_positions": 2553,
+    "event_ct": 1623,
+    "win_count": 984,
+    "rank": 29671,
+    "trader_tags": "1k+ Positions"
   }
 ]
