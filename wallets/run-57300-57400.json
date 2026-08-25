@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 57348,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e4255c588b69a812e5d1258de942a64a626035b",
+    "trader_name": "LvlCrypto",
+    "tag": "Overall",
+    "overall_gain": 1166.199329054204,
+    "active_positions": 6,
+    "win_amount": 1710.058894396302,
+    "loss_amount": -543.859565342098,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 5.213386,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 8,
+    "rank": 57349,
+    "trader_tags": ""
   }
 ]
