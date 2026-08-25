@@ -206,5 +206,21 @@
     "win_count": 7,
     "rank": 83614,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81e01debca168eef91a443cc7e037019f90f0f9c",
+    "trader_name": "Landas",
+    "tag": "Overall",
+    "overall_gain": 572.3691229247139,
+    "active_positions": 18,
+    "win_amount": 1232.8372158362063,
+    "loss_amount": -660.468092911492,
+    "win_rate": 0.4634146341463415,
+    "total_current_value": 47.703821000000005,
+    "total_positions": 45,
+    "event_ct": 41,
+    "win_count": 19,
+    "rank": 83615,
+    "trader_tags": "> 1 year old"
   }
 ]
