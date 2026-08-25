@@ -366,5 +366,21 @@
     "win_count": 16,
     "rank": 9323,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x58402cfe54e34ce0d4ba3cdba9d494f57db7fb16",
+    "trader_name": "zxcvb88",
+    "tag": "Overall",
+    "overall_gain": 11244.823462264734,
+    "active_positions": 41,
+    "win_amount": 12715.875196233232,
+    "loss_amount": -1471.051733968497,
+    "win_rate": 0.15555555555555556,
+    "total_current_value": 0.029405,
+    "total_positions": 50,
+    "event_ct": 45,
+    "win_count": 7,
+    "rank": 9324,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
