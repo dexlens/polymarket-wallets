@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 793,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x16f027dbaec0e4884ed8ea79567914f8f7e4a28d",
+    "trader_name": "wexjoe2",
+    "tag": "Overall",
+    "overall_gain": 159624.17856143104,
+    "active_positions": 1,
+    "win_amount": 690913.976453898,
+    "loss_amount": -531289.7978924667,
+    "win_rate": 0.5686977299880526,
+    "total_current_value": 0.539839,
+    "total_positions": 4970,
+    "event_ct": 2511,
+    "win_count": 1428,
+    "rank": 794,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
