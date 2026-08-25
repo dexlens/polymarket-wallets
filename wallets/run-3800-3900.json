@@ -1358,5 +1358,21 @@
     "win_count": 10,
     "rank": 3885,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x33e153a2f1323ed1e52ebd3ecbdbc68ed0dfb30f",
+    "trader_name": "BJR",
+    "tag": "Overall",
+    "overall_gain": 29129.973411823754,
+    "active_positions": 8,
+    "win_amount": 37939.98893387838,
+    "loss_amount": -8810.015522054637,
+    "win_rate": 0.5333333333333333,
+    "total_current_value": 24964.309501165502,
+    "total_positions": 32,
+    "event_ct": 30,
+    "win_count": 16,
+    "rank": 3886,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
