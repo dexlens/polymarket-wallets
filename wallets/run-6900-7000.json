@@ -1262,5 +1262,21 @@
     "win_count": 11,
     "rank": 6979,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb8f695405e7fa8411caf8404865c1a248c5dc52a",
+    "trader_name": "northcaper",
+    "tag": "Overall",
+    "overall_gain": 15340.46449465921,
+    "active_positions": 2,
+    "win_amount": 30353.634906813877,
+    "loss_amount": -15013.170412154675,
+    "win_rate": 0.4,
+    "total_current_value": 0.048185,
+    "total_positions": 85,
+    "event_ct": 55,
+    "win_count": 22,
+    "rank": 6980,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
