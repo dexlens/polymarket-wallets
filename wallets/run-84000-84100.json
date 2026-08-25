@@ -830,5 +830,21 @@
     "win_count": 5,
     "rank": 84053,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x404e2c36befec5f1070d977f2e55c9f7eb695724",
+    "trader_name": "34opple",
+    "tag": "Overall",
+    "overall_gain": 565.6,
+    "active_positions": 0,
+    "win_amount": 565.6,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 84054,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
