@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 78313,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86ed4352e4cfb94b9342afb03e233bfed4bebd05",
+    "trader_name": "4kWh",
+    "tag": "Overall",
+    "overall_gain": 659.108601917927,
+    "active_positions": 8,
+    "win_amount": 659.117142505733,
+    "loss_amount": -0.008540587805998534,
+    "win_rate": 0.9,
+    "total_current_value": 46.24015601400001,
+    "total_positions": 17,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 78314,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
