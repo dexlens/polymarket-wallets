@@ -510,5 +510,21 @@
     "win_count": 2,
     "rank": 63433,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x950c57444c2ba468d146731fb2549b735de1172e",
+    "trader_name": "flo-glass",
+    "tag": "Overall",
+    "overall_gain": 988.950649842295,
+    "active_positions": 1,
+    "win_amount": 1088.950355364649,
+    "loss_amount": -99.99970552235399,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0.015365,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 63434,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
