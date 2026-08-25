@@ -1118,5 +1118,21 @@
     "win_count": 4,
     "rank": 4970,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b9168da5620dfab028b53c753a3be88d585ae77",
+    "trader_name": "choppah",
+    "tag": "Overall",
+    "overall_gain": 21800.11761573248,
+    "active_positions": 24,
+    "win_amount": 43154.803525617004,
+    "loss_amount": -21354.685909884516,
+    "win_rate": 0.44144144144144143,
+    "total_current_value": 14070.993648015998,
+    "total_positions": 365,
+    "event_ct": 222,
+    "win_count": 98,
+    "rank": 4971,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
