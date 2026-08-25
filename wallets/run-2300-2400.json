@@ -510,5 +510,21 @@
     "win_count": 2,
     "rank": 2332,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x243c4768657cb73f87c864fca8a03269ecb42240",
+    "trader_name": "smolbrain0x",
+    "tag": "Overall",
+    "overall_gain": 50736.09026436282,
+    "active_positions": 20,
+    "win_amount": 58789.39350063242,
+    "loss_amount": -8053.303236269603,
+    "win_rate": 0.3684210526315789,
+    "total_current_value": 11204.546401944499,
+    "total_positions": 142,
+    "event_ct": 57,
+    "win_count": 21,
+    "rank": 2333,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
