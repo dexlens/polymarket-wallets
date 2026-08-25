@@ -862,5 +862,21 @@
     "win_count": 59,
     "rank": 62755,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e6b50e79a7a7e63033cd56399d47df8a688e5b0",
+    "trader_name": "Caparot",
+    "tag": "Overall",
+    "overall_gain": 1003.481053422464,
+    "active_positions": 0,
+    "win_amount": 1003.481053422464,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001361,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 62756,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
