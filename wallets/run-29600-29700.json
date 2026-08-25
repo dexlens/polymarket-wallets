@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 29617,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x565bedc122552e6824098088c9158ec8179bfa9b",
+    "trader_name": "Piter",
+    "tag": "Overall",
+    "overall_gain": 2865.2878339658846,
+    "active_positions": 29,
+    "win_amount": 8880.972836406783,
+    "loss_amount": -6015.6850024409,
+    "win_rate": 0.7168458781362007,
+    "total_current_value": 0.166193,
+    "total_positions": 307,
+    "event_ct": 279,
+    "win_count": 200,
+    "rank": 29618,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
