@@ -222,5 +222,21 @@
     "win_count": 5,
     "rank": 26715,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x47deb2236f96b99f5dc63f75c58cde7a58a59540",
+    "trader_name": "BarretEffie",
+    "tag": "Overall",
+    "overall_gain": 3250.372364853111,
+    "active_positions": 39,
+    "win_amount": 26550.4429254341,
+    "loss_amount": -23300.070560580993,
+    "win_rate": 0.7014925373134329,
+    "total_current_value": 21.149316891999998,
+    "total_positions": 71,
+    "event_ct": 67,
+    "win_count": 47,
+    "rank": 26716,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
