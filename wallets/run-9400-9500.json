@@ -1358,5 +1358,21 @@
     "win_count": 32,
     "rank": 9485,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x543cc8faa8ddafff89d27dc2df6869931c8e0819",
+    "trader_name": "BTCisnotascam",
+    "tag": "Overall",
+    "overall_gain": 11049.101273058352,
+    "active_positions": 0,
+    "win_amount": 11076.617203058351,
+    "loss_amount": -27.51593,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 0.009857,
+    "total_positions": 89,
+    "event_ct": 26,
+    "win_count": 24,
+    "rank": 9486,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
