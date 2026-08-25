@@ -766,5 +766,21 @@
     "win_count": 123,
     "rank": 2448,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e0641cbd7849962226f5357f8a47f9b71da15d5",
+    "trader_name": "Sleijffers",
+    "tag": "Overall",
+    "overall_gain": 48021.669840851784,
+    "active_positions": 0,
+    "win_amount": 76294.33084352787,
+    "loss_amount": -28272.661002676086,
+    "win_rate": 0.5,
+    "total_current_value": 0.033968,
+    "total_positions": 62,
+    "event_ct": 30,
+    "win_count": 15,
+    "rank": 2449,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
