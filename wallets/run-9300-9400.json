@@ -1086,5 +1086,21 @@
     "win_count": 589,
     "rank": 9368,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0cde415eee249174240cc4b383dc9cb06365c25f",
+    "trader_name": "Jadehavena",
+    "tag": "Overall",
+    "overall_gain": 11184.229607199431,
+    "active_positions": 2,
+    "win_amount": 11187.344878949432,
+    "loss_amount": -3.1152717500000002,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 2.8901572499999997,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 9369,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
