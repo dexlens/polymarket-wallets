@@ -574,5 +574,21 @@
     "win_count": 6,
     "rank": 75337,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xfd4db51071095ab2378978173698c25f10b1e7c1",
+    "trader_name": "zoncryp",
+    "tag": "Overall",
+    "overall_gain": 709.3471599999998,
+    "active_positions": 7,
+    "win_amount": 10640.029280999997,
+    "loss_amount": -9930.682120999998,
+    "win_rate": 0.8791067761806981,
+    "total_current_value": 250,
+    "total_positions": 3896,
+    "event_ct": 3896,
+    "win_count": 3425,
+    "rank": 75338,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
