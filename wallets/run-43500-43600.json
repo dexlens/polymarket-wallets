@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 43568,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf5cba75756bb0c226f903d2a83e7fc4397ab35cf",
+    "trader_name": "extractionMeta",
+    "tag": "Overall",
+    "overall_gain": 1789.8127537708253,
+    "active_positions": 71,
+    "win_amount": 14906.637277167596,
+    "loss_amount": -13116.824523396768,
+    "win_rate": 0.6228571428571429,
+    "total_current_value": 39.700570000000006,
+    "total_positions": 198,
+    "event_ct": 175,
+    "win_count": 109,
+    "rank": 43569,
+    "trader_tags": ""
   }
 ]
