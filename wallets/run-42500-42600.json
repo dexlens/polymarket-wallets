@@ -910,5 +910,21 @@
     "win_count": 1,
     "rank": 42558,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d95b45ccb4350d10ff864db20693f0b976eb8db",
+    "trader_name": "Sabzkhan",
+    "tag": "Overall",
+    "overall_gain": 1844.972800483434,
+    "active_positions": 273,
+    "win_amount": 12041.163446387698,
+    "loss_amount": -10196.190645904273,
+    "win_rate": 0.524390243902439,
+    "total_current_value": 26.987453289999998,
+    "total_positions": 1198,
+    "event_ct": 1148,
+    "win_count": 602,
+    "rank": 42559,
+    "trader_tags": "1k+ Positions"
   }
 ]
