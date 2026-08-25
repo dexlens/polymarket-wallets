@@ -1246,5 +1246,21 @@
     "win_count": 26,
     "rank": 18378,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5695af0477eb86ccb774e60c2df631664ccef8ed",
+    "trader_name": "gowest",
+    "tag": "Overall",
+    "overall_gain": 5056.32009073391,
+    "active_positions": 5,
+    "win_amount": 10626.905785975363,
+    "loss_amount": -5570.585695241453,
+    "win_rate": 0.3728813559322034,
+    "total_current_value": 827.017473,
+    "total_positions": 73,
+    "event_ct": 59,
+    "win_count": 22,
+    "rank": 18379,
+    "trader_tags": ""
   }
 ]
