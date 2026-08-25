@@ -286,5 +286,21 @@
     "win_count": 52,
     "rank": 2818,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x50e53a797b6b889c5bbe19fcc7bd7f9eb9ede39f",
+    "trader_name": "poly0xd41",
+    "tag": "Overall",
+    "overall_gain": 41135.71466392296,
+    "active_positions": 27,
+    "win_amount": 140504.3306820694,
+    "loss_amount": -99368.61601814641,
+    "win_rate": 0.5044642857142857,
+    "total_current_value": 444.18283,
+    "total_positions": 593,
+    "event_ct": 224,
+    "win_count": 113,
+    "rank": 2819,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
