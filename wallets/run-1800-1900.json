@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 1854,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe4cfbb89c05d3429280c69969aee2cfb7a4678c4",
+    "trader_name": "shine",
+    "tag": "Overall",
+    "overall_gain": 65675.00675801444,
+    "active_positions": 18940,
+    "win_amount": 83049.85430325213,
+    "loss_amount": -17374.847545237666,
+    "win_rate": 0.8505903723887375,
+    "total_current_value": 36165.15677241301,
+    "total_positions": 42365,
+    "event_ct": 2202,
+    "win_count": 1873,
+    "rank": 1855,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
