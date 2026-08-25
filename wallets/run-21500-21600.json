@@ -974,5 +974,21 @@
     "win_count": 3,
     "rank": 21561,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6916fe8ee471fff36ec68813e7f430e6ea322f41",
+    "trader_name": "ClarkRaman",
+    "tag": "Overall",
+    "overall_gain": 4220.613854905712,
+    "active_positions": 34,
+    "win_amount": 14480.283854905714,
+    "loss_amount": -10259.67,
+    "win_rate": 0.6521739130434783,
+    "total_current_value": 2.041239,
+    "total_positions": 93,
+    "event_ct": 92,
+    "win_count": 60,
+    "rank": 21562,
+    "trader_tags": ""
   }
 ]
