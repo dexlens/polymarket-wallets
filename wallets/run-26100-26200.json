@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 26155,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3374f26cebac99e142b07f4c26f83160f2f95f24",
+    "trader_name": "unix145",
+    "tag": "Overall",
+    "overall_gain": 3344.942772630017,
+    "active_positions": 2,
+    "win_amount": 4210.623467400017,
+    "loss_amount": -865.68069477,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.015615,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 26156,
+    "trader_tags": "> 1 year old"
   }
 ]
