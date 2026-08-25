@@ -302,5 +302,21 @@
     "win_count": 456,
     "rank": 3219,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0xae234bfddf7eee7c687a25c425532838eaee142e",
+    "trader_name": "0xbandit",
+    "tag": "Overall",
+    "overall_gain": 35640.814785967836,
+    "active_positions": 74,
+    "win_amount": 42570.87265807946,
+    "loss_amount": -6930.057872111621,
+    "win_rate": 0.42,
+    "total_current_value": 5914.5924114815,
+    "total_positions": 100,
+    "event_ct": 50,
+    "win_count": 21,
+    "rank": 3220,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
