@@ -78,5 +78,21 @@
     "win_count": 1,
     "rank": 4405,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40bf4080468908769e5ca3b3a187c2490dfd7220",
+    "trader_name": "JIMMYPARKER",
+    "tag": "Overall",
+    "overall_gain": 25240.673511,
+    "active_positions": 5,
+    "win_amount": 25287.764010000003,
+    "loss_amount": -47.090498999999994,
+    "win_rate": 0.2894736842105263,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 11,
+    "rank": 4406,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
