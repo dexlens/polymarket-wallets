@@ -654,5 +654,21 @@
     "win_count": 21,
     "rank": 5041,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xff7ca9cd180d33119e653e3eb50555a3e2ccb233",
+    "trader_name": "NoSteinNoGate",
+    "tag": "Overall",
+    "overall_gain": 21472.01197109304,
+    "active_positions": 726,
+    "win_amount": 27875.450419111105,
+    "loss_amount": -6403.438448018056,
+    "win_rate": 0.47960618846694797,
+    "total_current_value": 12363.3307304285,
+    "total_positions": 1659,
+    "event_ct": 711,
+    "win_count": 341,
+    "rank": 5042,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
