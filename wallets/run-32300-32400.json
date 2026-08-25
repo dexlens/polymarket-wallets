@@ -1294,5 +1294,21 @@
     "win_count": 11,
     "rank": 32382,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x32a18cd962742b905a9bd879ff8dab9e270ffc84",
+    "trader_name": "ROCKO101",
+    "tag": "Overall",
+    "overall_gain": 2562.781568838173,
+    "active_positions": 0,
+    "win_amount": 2562.781568838173,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009332,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 32383,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
