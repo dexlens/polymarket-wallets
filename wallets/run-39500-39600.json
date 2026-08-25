@@ -766,5 +766,21 @@
     "win_count": 20,
     "rank": 39549,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x42479b6d0275d00f55812a56e942bafa399b051d",
+    "trader_name": "cvertybt",
+    "tag": "Overall",
+    "overall_gain": 2018.4854875443482,
+    "active_positions": 4,
+    "win_amount": 4062.7204639419697,
+    "loss_amount": -2044.234976397622,
+    "win_rate": 0.9142857142857143,
+    "total_current_value": 11.97197,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 32,
+    "rank": 39550,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
