@@ -958,5 +958,21 @@
     "win_count": 7,
     "rank": 8360,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6b592c31f9a267ffeea69b889ab4b212320ad12a",
+    "trader_name": "alphagain",
+    "tag": "Overall",
+    "overall_gain": 12553.222403188067,
+    "active_positions": 9,
+    "win_amount": 14053.371130969314,
+    "loss_amount": -1500.1487277812478,
+    "win_rate": 0.64,
+    "total_current_value": 0.016323,
+    "total_positions": 39,
+    "event_ct": 25,
+    "win_count": 16,
+    "rank": 8361,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
