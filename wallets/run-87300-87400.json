@@ -334,5 +334,21 @@
     "win_count": 5,
     "rank": 87322,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9079603806c1a097516dfacfdc9ba1051ec9e5aa",
+    "trader_name": "RosaWater",
+    "tag": "Overall",
+    "overall_gain": 521.3720974593391,
+    "active_positions": 11,
+    "win_amount": 558.19741298089,
+    "loss_amount": -36.825315521551005,
+    "win_rate": 0.6989247311827957,
+    "total_current_value": 13.381025755,
+    "total_positions": 96,
+    "event_ct": 93,
+    "win_count": 65,
+    "rank": 87323,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
