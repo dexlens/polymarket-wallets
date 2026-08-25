@@ -1582,5 +1582,21 @@
     "win_count": 7,
     "rank": 1699,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x69645cea639e7a19cbde6c126a197bc1abafef53",
+    "trader_name": "PredictionYogi",
+    "tag": "Overall",
+    "overall_gain": 72675.1964654732,
+    "active_positions": 3,
+    "win_amount": 111662.97208487851,
+    "loss_amount": -38987.77561940532,
+    "win_rate": 0.9121887287024901,
+    "total_current_value": 33239.439282836014,
+    "total_positions": 2134,
+    "event_ct": 763,
+    "win_count": 696,
+    "rank": 1700,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
