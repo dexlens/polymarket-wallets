@@ -1438,5 +1438,21 @@
     "win_count": 4,
     "rank": 26891,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xd199539ba6ee490cf30e25bf092997dc59fc28ac",
+    "trader_name": "apy23",
+    "tag": "Overall",
+    "overall_gain": 3222.511154368125,
+    "active_positions": 1,
+    "win_amount": 3222.511154368125,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001375,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 26892,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
