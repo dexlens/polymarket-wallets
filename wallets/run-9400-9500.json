@@ -414,5 +414,21 @@
     "win_count": 11,
     "rank": 9426,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49c36e726ad4b65b442953241b3cef573746360f",
+    "trader_name": "bigballsj",
+    "tag": "Overall",
+    "overall_gain": 11114.169703614718,
+    "active_positions": 0,
+    "win_amount": 31748.71592390198,
+    "loss_amount": -20634.54622028726,
+    "win_rate": 0.5802335052945968,
+    "total_current_value": 0.013371000000000001,
+    "total_positions": 6539,
+    "event_ct": 3683,
+    "win_count": 2137,
+    "rank": 9427,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
