@@ -638,5 +638,21 @@
     "win_count": 8,
     "rank": 2040,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdaef2be2a19ad331737d06545f85615b094554e9",
+    "trader_name": "UCF-BIGGEST-FAN",
+    "tag": "Overall",
+    "overall_gain": 59229.443546376475,
+    "active_positions": 144,
+    "win_amount": 225953.1121654172,
+    "loss_amount": -166723.66861904078,
+    "win_rate": 0.5407725321888412,
+    "total_current_value": 159248.810142063,
+    "total_positions": 745,
+    "event_ct": 466,
+    "win_count": 252,
+    "rank": 2041,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
