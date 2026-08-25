@@ -1262,5 +1262,21 @@
     "win_count": 10,
     "rank": 84480,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x5dfa925b0e8fd003948d08869596890b4fa3cf62",
+    "trader_name": "Deepseek",
+    "tag": "Overall",
+    "overall_gain": 559.470237145066,
+    "active_positions": 1,
+    "win_amount": 573.5236651460659,
+    "loss_amount": -14.053428001,
+    "win_rate": 0.765625,
+    "total_current_value": 11.136654750000002,
+    "total_positions": 73,
+    "event_ct": 64,
+    "win_count": 49,
+    "rank": 84481,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
