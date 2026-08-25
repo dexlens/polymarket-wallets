@@ -174,5 +174,21 @@
     "win_count": 2,
     "rank": 3511,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf9199a9739ff35570b7e971f2e72b241a99d128e",
+    "trader_name": "Gamma9000",
+    "tag": "Overall",
+    "overall_gain": 32519.884501566707,
+    "active_positions": 1,
+    "win_amount": 32519.884501566707,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 53969.576455795,
+    "total_positions": 37,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 3512,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
