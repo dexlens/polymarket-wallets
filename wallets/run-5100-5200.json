@@ -974,5 +974,21 @@
     "win_count": 463,
     "rank": 5161,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e64bcb0c96852eefcf4db9a9e03e6e7050e27a0",
+    "trader_name": "Cryptobruj",
+    "tag": "Overall",
+    "overall_gain": 20969.745674771857,
+    "active_positions": 22,
+    "win_amount": 44555.72870742016,
+    "loss_amount": -23585.983032648302,
+    "win_rate": 0.65,
+    "total_current_value": 0.122219,
+    "total_positions": 61,
+    "event_ct": 60,
+    "win_count": 39,
+    "rank": 5162,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
