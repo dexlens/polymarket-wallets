@@ -782,5 +782,21 @@
     "win_count": 3,
     "rank": 57850,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b562649742bd5cb3a031037374651bc7096cb87",
+    "trader_name": "keko77",
+    "tag": "Overall",
+    "overall_gain": 1148.4563900445835,
+    "active_positions": 9,
+    "win_amount": 7803.246733920003,
+    "loss_amount": -6654.790343875419,
+    "win_rate": 0.9582712369597616,
+    "total_current_value": 793.1352955909999,
+    "total_positions": 8901,
+    "event_ct": 8723,
+    "win_count": 8359,
+    "rank": 57851,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
