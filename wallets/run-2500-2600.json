@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 2567,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x4a62a624074b4eb137e04f674a6c28cc0462ab5c",
+    "trader_name": "YellowLemon",
+    "tag": "Overall",
+    "overall_gain": 45503.94382755578,
+    "active_positions": 1100,
+    "win_amount": 165336.1184153319,
+    "loss_amount": -119832.1745877761,
+    "win_rate": 0.5991902834008097,
+    "total_current_value": 0.7376790000000001,
+    "total_positions": 7321,
+    "event_ct": 4940,
+    "win_count": 2960,
+    "rank": 2568,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
