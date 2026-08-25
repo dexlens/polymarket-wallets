@@ -1134,5 +1134,21 @@
     "win_count": 20,
     "rank": 35472,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6e703f2f90565e30bf0ed64cef65ccf7c6df3607",
+    "trader_name": "Arcfadia",
+    "tag": "Overall",
+    "overall_gain": 2303.5,
+    "active_positions": 2,
+    "win_amount": 3337.5,
+    "loss_amount": -1034,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 35473,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
