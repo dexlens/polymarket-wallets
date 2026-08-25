@@ -206,5 +206,21 @@
     "win_count": 2,
     "rank": 2313,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x98233b6e9caab911505c3cbb0f82073e258102db",
+    "trader_name": "santa267",
+    "tag": "Overall",
+    "overall_gain": 51280.63570971473,
+    "active_positions": 158,
+    "win_amount": 186566.01297341194,
+    "loss_amount": -135285.37726369727,
+    "win_rate": 0.5875706214689266,
+    "total_current_value": 43.689529854999996,
+    "total_positions": 1923,
+    "event_ct": 1062,
+    "win_count": 624,
+    "rank": 2314,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
