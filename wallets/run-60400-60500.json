@@ -414,5 +414,21 @@
     "win_count": 20,
     "rank": 60427,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0faf6b79fc9c87ca82b724bc482c3c28f0795ac6",
+    "trader_name": "shizzasz",
+    "tag": "Overall",
+    "overall_gain": 1063.724842878795,
+    "active_positions": 4,
+    "win_amount": 1237.1288909999998,
+    "loss_amount": -173.404048121205,
+    "win_rate": 0.9545454545454546,
+    "total_current_value": 45.22237822,
+    "total_positions": 90,
+    "event_ct": 88,
+    "win_count": 84,
+    "rank": 60428,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
