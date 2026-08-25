@@ -462,5 +462,21 @@
     "win_count": 4,
     "rank": 50430,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa5683eaf445497f83811db2afc961f4ea52d7234",
+    "trader_name": "Skuff",
+    "tag": "Overall",
+    "overall_gain": 1465.2661585985581,
+    "active_positions": 0,
+    "win_amount": 2054.1755519999997,
+    "loss_amount": -588.909393401442,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.010811000000000001,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 50431,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
