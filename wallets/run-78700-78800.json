@@ -734,5 +734,21 @@
     "win_count": 12,
     "rank": 78747,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3f8f88cd157cab4ff8156c18083327f072a66b21",
+    "trader_name": "Apjh",
+    "tag": "Overall",
+    "overall_gain": 651.413227657649,
+    "active_positions": 54,
+    "win_amount": 4353.025113772384,
+    "loss_amount": -3701.611886114734,
+    "win_rate": 0.7169811320754716,
+    "total_current_value": 12.289263,
+    "total_positions": 221,
+    "event_ct": 212,
+    "win_count": 152,
+    "rank": 78748,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
