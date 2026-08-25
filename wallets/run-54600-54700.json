@@ -1518,5 +1518,21 @@
     "win_count": 49,
     "rank": 54696,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x53dd04bee102fec6ead4a4f5b42a26e909396009",
+    "trader_name": "G550",
+    "tag": "Overall",
+    "overall_gain": 1271.9125359073162,
+    "active_positions": 4,
+    "win_amount": 1332.5892411073162,
+    "loss_amount": -60.67670519999999,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0.009801,
+    "total_positions": 48,
+    "event_ct": 18,
+    "win_count": 16,
+    "rank": 54697,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
