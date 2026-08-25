@@ -542,5 +542,21 @@
     "win_count": 340,
     "rank": 4634,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e10bea5b234d7d8f992c6044986c23da35570f4",
+    "trader_name": "NakedBets",
+    "tag": "Overall",
+    "overall_gain": 23653.612862885995,
+    "active_positions": 1255,
+    "win_amount": 87219.20596302801,
+    "loss_amount": -63565.593100141996,
+    "win_rate": 0.513571048430016,
+    "total_current_value": 47.99644900000002,
+    "total_positions": 3596,
+    "event_ct": 1879,
+    "win_count": 965,
+    "rank": 4635,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
