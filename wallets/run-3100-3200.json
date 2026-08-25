@@ -1422,5 +1422,21 @@
     "win_count": 40,
     "rank": 3189,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98fbafc00de1b8ba747047835fce1b4c0f5eb06d",
+    "trader_name": "odifof",
+    "tag": "Overall",
+    "overall_gain": 35876.73964071503,
+    "active_positions": 1,
+    "win_amount": 68852.78227726204,
+    "loss_amount": -32976.042636547034,
+    "win_rate": 0.76,
+    "total_current_value": 0.013229000000000001,
+    "total_positions": 49,
+    "event_ct": 25,
+    "win_count": 19,
+    "rank": 3190,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
