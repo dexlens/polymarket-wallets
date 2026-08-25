@@ -878,5 +878,21 @@
     "win_count": 527,
     "rank": 8255,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x7f6a661c9e9bdee40a5c405cf720aa9a579948e2",
+    "trader_name": "lih062",
+    "tag": "Overall",
+    "overall_gain": 12745.990483619737,
+    "active_positions": 0,
+    "win_amount": 12745.990483619737,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.010372,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 8256,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
