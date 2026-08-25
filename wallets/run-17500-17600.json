@@ -1342,5 +1342,21 @@
     "win_count": 3,
     "rank": 17584,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x188d42abb29b6ff020246e2d90b1709bccdd6583",
+    "trader_name": "pridgev",
+    "tag": "Overall",
+    "overall_gain": 5328.706620602829,
+    "active_positions": 2,
+    "win_amount": 23199.91114332037,
+    "loss_amount": -17871.204522717544,
+    "win_rate": 0.36220472440944884,
+    "total_current_value": 0.041148,
+    "total_positions": 138,
+    "event_ct": 127,
+    "win_count": 46,
+    "rank": 17585,
+    "trader_tags": "> 1 year old"
   }
 ]
