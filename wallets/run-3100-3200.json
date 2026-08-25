@@ -1150,5 +1150,21 @@
     "win_count": 12,
     "rank": 3172,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x63ed377e354c853b4ecccc06d6bfcd8a3784d2aa",
+    "trader_name": "FFBar-t",
+    "tag": "Overall",
+    "overall_gain": 36156.5365993125,
+    "active_positions": 6,
+    "win_amount": 37080.5365993125,
+    "loss_amount": -924,
+    "win_rate": 0.96,
+    "total_current_value": 13.446345955999998,
+    "total_positions": 63,
+    "event_ct": 25,
+    "win_count": 24,
+    "rank": 3173,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
