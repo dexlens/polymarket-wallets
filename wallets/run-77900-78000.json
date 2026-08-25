@@ -366,5 +366,21 @@
     "win_count": 46,
     "rank": 77924,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x505941198e6b3faf6c08e39c9b45cecb6467720c",
+    "trader_name": "JD-Vance",
+    "tag": "Overall",
+    "overall_gain": 665.2307519348337,
+    "active_positions": 37,
+    "win_amount": 2139.674099638033,
+    "loss_amount": -1474.443347703199,
+    "win_rate": 0.7183098591549296,
+    "total_current_value": 2560.0195237149997,
+    "total_positions": 330,
+    "event_ct": 213,
+    "win_count": 153,
+    "rank": 77925,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
