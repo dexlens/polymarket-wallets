@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 88882,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x09ddd8947ffdccb58831bccd3b59214c10fa62cd",
+    "trader_name": "pjwm",
+    "tag": "Overall",
+    "overall_gain": 503.040384793055,
+    "active_positions": 0,
+    "win_amount": 503.040384793055,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 88883,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
