@@ -1470,5 +1470,21 @@
     "win_count": 3,
     "rank": 30293,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70f77320d7d1b4a42d2276a0b24b4e22e57525d3",
+    "trader_name": "AmeliaTurner",
+    "tag": "Overall",
+    "overall_gain": 2785.6203819337884,
+    "active_positions": 4,
+    "win_amount": 7724.204933,
+    "loss_amount": -4938.584551066211,
+    "win_rate": 0.7407407407407407,
+    "total_current_value": 0.010834313,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 20,
+    "rank": 30294,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
