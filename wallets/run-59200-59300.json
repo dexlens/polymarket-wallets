@@ -670,5 +670,21 @@
     "win_count": 4,
     "rank": 59243,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x172525d6d16a4d96de36dc12f8e10cf17509400e",
+    "trader_name": "mrvf",
+    "tag": "Overall",
+    "overall_gain": 1100.5,
+    "active_positions": 2,
+    "win_amount": 1103.8,
+    "loss_amount": -3.3000000000000003,
+    "win_rate": 0.8,
+    "total_current_value": 100,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 59244,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
