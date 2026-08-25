@@ -350,5 +350,21 @@
     "win_count": 4,
     "rank": 6622,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74234b6673b7b5c8813ea38fecf7fa73d7b1241a",
+    "trader_name": "Wtt677Gg",
+    "tag": "Overall",
+    "overall_gain": 16209.703328037083,
+    "active_positions": 11,
+    "win_amount": 24484.021828037086,
+    "loss_amount": -8274.318500000001,
+    "win_rate": 0.6333333333333333,
+    "total_current_value": 8.967583,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 19,
+    "rank": 6623,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
