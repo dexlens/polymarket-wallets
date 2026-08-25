@@ -590,5 +590,21 @@
     "win_count": 9,
     "rank": 12737,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x896c3d930a1a3e646903b6b67c9818fd44627e16",
+    "trader_name": "ichasbkd",
+    "tag": "Overall",
+    "overall_gain": 7942.8910000000005,
+    "active_positions": 3,
+    "win_amount": 8945.391,
+    "loss_amount": -1002.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 5.5600000000000005,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 12738,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
