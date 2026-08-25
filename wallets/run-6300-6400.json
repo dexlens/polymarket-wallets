@@ -238,5 +238,21 @@
     "win_count": 149,
     "rank": 6315,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25436b8d06d2c89d8286b39c8d10ac2a973f71b2",
+    "trader_name": "Grylios",
+    "tag": "Overall",
+    "overall_gain": 16954.781819,
+    "active_positions": 2,
+    "win_amount": 17312.307619,
+    "loss_amount": -357.52580000000006,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 0,
+    "total_positions": 47,
+    "event_ct": 45,
+    "win_count": 39,
+    "rank": 6316,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
