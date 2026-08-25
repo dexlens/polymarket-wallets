@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 9496,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5591cc572e32a7092e1fe87e650f3a08f036e478",
+    "trader_name": "Deimoshf",
+    "tag": "Overall",
+    "overall_gain": 11035,
+    "active_positions": 1,
+    "win_amount": 12085,
+    "loss_amount": -1050,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 9497,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
