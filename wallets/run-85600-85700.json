@@ -382,5 +382,21 @@
     "win_count": 4,
     "rank": 85625,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x431267a8bf021d7df82142a0f90dc9043e9d01de",
+    "trader_name": "MemoLee",
+    "tag": "Overall",
+    "overall_gain": 543.8425925981578,
+    "active_positions": 0,
+    "win_amount": 733.5424000687789,
+    "loss_amount": -189.699807470621,
+    "win_rate": 0.45,
+    "total_current_value": 0.018652,
+    "total_positions": 32,
+    "event_ct": 20,
+    "win_count": 9,
+    "rank": 85626,
+    "trader_tags": "> 1 year old"
   }
 ]
