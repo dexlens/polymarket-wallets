@@ -110,5 +110,21 @@
     "win_count": 9,
     "rank": 67208,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb88257ed03ebe1d6cfb80ae56e8d2ff6323851a2",
+    "trader_name": "12amvol",
+    "tag": "Overall",
+    "overall_gain": 883.2715262852831,
+    "active_positions": 2,
+    "win_amount": 1024.1978059893781,
+    "loss_amount": -140.92627970409498,
+    "win_rate": 0.8,
+    "total_current_value": 311.031448,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 67209,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
