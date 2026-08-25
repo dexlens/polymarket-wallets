@@ -318,5 +318,21 @@
     "win_count": 2,
     "rank": 23921,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52ca8cad990148ffad046766efae6dd87ffe523f",
+    "trader_name": "tumbra",
+    "tag": "Overall",
+    "overall_gain": 3733.593361813908,
+    "active_positions": 6,
+    "win_amount": 4328.029697377887,
+    "loss_amount": -594.4363355639802,
+    "win_rate": 0.8709677419354839,
+    "total_current_value": 6027.764953256501,
+    "total_positions": 43,
+    "event_ct": 31,
+    "win_count": 27,
+    "rank": 23922,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
