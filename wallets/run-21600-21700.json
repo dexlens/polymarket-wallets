@@ -286,5 +286,21 @@
     "win_count": 8,
     "rank": 21618,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b5ebe8b0939f2b6ab901c503dd434e8589beef2",
+    "trader_name": "wuwenxidong",
+    "tag": "Overall",
+    "overall_gain": 4207.020368,
+    "active_positions": 1,
+    "win_amount": 7726.844459999999,
+    "loss_amount": -3519.824092,
+    "win_rate": 0.6160714285714286,
+    "total_current_value": 0,
+    "total_positions": 2008,
+    "event_ct": 1008,
+    "win_count": 621,
+    "rank": 21619,
+    "trader_tags": "1k+ Positions"
   }
 ]
