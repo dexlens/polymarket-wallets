@@ -782,5 +782,21 @@
     "win_count": 6,
     "rank": 65250,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdec2a1299dc27ddd959b62996db60d3a52831c4a",
+    "trader_name": "chikito",
+    "tag": "Overall",
+    "overall_gain": 937.7003477915111,
+    "active_positions": 2,
+    "win_amount": 1091.3643516415111,
+    "loss_amount": -153.66400385,
+    "win_rate": 0.7,
+    "total_current_value": 0.030766,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 65251,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
