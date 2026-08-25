@@ -1230,5 +1230,21 @@
     "win_count": 25,
     "rank": 80678,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85d642e614ff3d39956f3b20188324866cb839ce",
+    "trader_name": "Schwalls",
+    "tag": "Overall",
+    "overall_gain": 619.406698995156,
+    "active_positions": 1,
+    "win_amount": 5210.029903205636,
+    "loss_amount": -4590.62320421048,
+    "win_rate": 0.6,
+    "total_current_value": 0.017762,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 80679,
+    "trader_tags": "> 1 year old"
   }
 ]
