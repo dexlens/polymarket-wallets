@@ -1502,5 +1502,21 @@
     "win_count": 21,
     "rank": 8394,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x774afdc6d0c08b62bcd93da3439a966df74f9543",
+    "trader_name": "nawro78",
+    "tag": "Overall",
+    "overall_gain": 12476.952845669173,
+    "active_positions": 0,
+    "win_amount": 12476.952845669173,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004249,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 8395,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
