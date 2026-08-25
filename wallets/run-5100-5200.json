@@ -1278,5 +1278,21 @@
     "win_count": 6,
     "rank": 5180,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64a46a989363eb21dab87cd53d57a4567ccbc103",
+    "trader_name": "thepansy",
+    "tag": "Overall",
+    "overall_gain": 20907.237946462934,
+    "active_positions": 1871,
+    "win_amount": 272386.4973247352,
+    "loss_amount": -251479.25937827223,
+    "win_rate": 0.7235196624981166,
+    "total_current_value": 3541.390023873,
+    "total_positions": 25191,
+    "event_ct": 19911,
+    "win_count": 14406,
+    "rank": 5181,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
