@@ -494,5 +494,21 @@
     "win_count": 38,
     "rank": 52332,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x370ecd88aa6b5d014aefbd1292457c20955783a1",
+    "trader_name": "LGHYMY",
+    "tag": "Overall",
+    "overall_gain": 1376.9376531864953,
+    "active_positions": 0,
+    "win_amount": 1634.9058601864951,
+    "loss_amount": -257.968207,
+    "win_rate": 0.8636363636363636,
+    "total_current_value": 0.091942,
+    "total_positions": 27,
+    "event_ct": 22,
+    "win_count": 19,
+    "rank": 52333,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
