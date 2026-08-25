@@ -654,5 +654,21 @@
     "win_count": 27,
     "rank": 7441,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdc4b06981e74fe11585438eb40f10bd79f43dbca",
+    "trader_name": "kevtp",
+    "tag": "Overall",
+    "overall_gain": 14272.915530352027,
+    "active_positions": 45,
+    "win_amount": 39664.896685703636,
+    "loss_amount": -25391.981155351627,
+    "win_rate": 0.7795275590551181,
+    "total_current_value": 185135.978637572,
+    "total_positions": 263,
+    "event_ct": 127,
+    "win_count": 99,
+    "rank": 7442,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
