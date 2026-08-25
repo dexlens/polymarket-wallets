@@ -942,5 +942,21 @@
     "win_count": 5,
     "rank": 52560,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xabd358dda60de7d2c7534f5fb50f7063d97d637f",
+    "trader_name": "numerology",
+    "tag": "Overall",
+    "overall_gain": 1366.5239654017628,
+    "active_positions": 26,
+    "win_amount": 1633.7332447734088,
+    "loss_amount": -267.209279371646,
+    "win_rate": 0.775,
+    "total_current_value": 3397.323076172,
+    "total_positions": 58,
+    "event_ct": 40,
+    "win_count": 31,
+    "rank": 52561,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
