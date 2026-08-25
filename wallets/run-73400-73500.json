@@ -574,5 +574,21 @@
     "win_count": 6,
     "rank": 73437,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x691ec8adc46f2e3bff0aee1e917f4a716a02d59d",
+    "trader_name": "BUFI.vufi",
+    "tag": "Overall",
+    "overall_gain": 736.3947499651442,
+    "active_positions": 12,
+    "win_amount": 1186.2406038891781,
+    "loss_amount": -449.84585392403386,
+    "win_rate": 0.84688995215311,
+    "total_current_value": 681.6192161745,
+    "total_positions": 766,
+    "event_ct": 418,
+    "win_count": 354,
+    "rank": 73438,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
