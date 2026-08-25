@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 82770,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8836111226ba68c9924e9e71d22645930fc4ff8c",
+    "trader_name": "xianfang67",
+    "tag": "Overall",
+    "overall_gain": 586.077496451582,
+    "active_positions": 14,
+    "win_amount": 1260.713277381582,
+    "loss_amount": -674.6357809299999,
+    "win_rate": 0.7441860465116279,
+    "total_current_value": 521.085497987,
+    "total_positions": 43,
+    "event_ct": 43,
+    "win_count": 32,
+    "rank": 82771,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
