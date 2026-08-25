@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 44873,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2623bd5cb07ad8bd540552234060c94f424b23f1",
+    "trader_name": "24601t",
+    "tag": "Overall",
+    "overall_gain": 1719.9320190604187,
+    "active_positions": 14,
+    "win_amount": 3232.7337442048315,
+    "loss_amount": -1512.8017251444119,
+    "win_rate": 0.7230769230769231,
+    "total_current_value": 146.4713029205,
+    "total_positions": 77,
+    "event_ct": 65,
+    "win_count": 47,
+    "rank": 44874,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
