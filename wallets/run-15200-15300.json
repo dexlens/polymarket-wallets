@@ -206,5 +206,21 @@
     "win_count": 2,
     "rank": 15213,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x1380ee07af544150d31ef4d61040a7b561582a4b",
+    "trader_name": "pradademon",
+    "tag": "Overall",
+    "overall_gain": 6387.095217253829,
+    "active_positions": 19,
+    "win_amount": 6392.955648321203,
+    "loss_amount": -5.860431067375,
+    "win_rate": 0.9154929577464789,
+    "total_current_value": 40.5937698435,
+    "total_positions": 82,
+    "event_ct": 71,
+    "win_count": 65,
+    "rank": 15214,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
