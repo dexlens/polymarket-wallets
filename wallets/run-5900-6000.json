@@ -510,5 +510,21 @@
     "win_count": 31,
     "rank": 5932,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6ffdf781b9fabc368137c1d835644f12b9a6a637",
+    "trader_name": "ng6000",
+    "tag": "Overall",
+    "overall_gain": 18100.868347629046,
+    "active_positions": 1256,
+    "win_amount": 29267.66387238563,
+    "loss_amount": -11166.795524756591,
+    "win_rate": 0.5952380952380952,
+    "total_current_value": 16651.293344899,
+    "total_positions": 3818,
+    "event_ct": 798,
+    "win_count": 475,
+    "rank": 5933,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
