@@ -1406,5 +1406,21 @@
     "win_count": 100,
     "rank": 6288,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f5ea9a5cc8aa38ea69fcd59a89330abbbbb463f",
+    "trader_name": "ted11",
+    "tag": "Overall",
+    "overall_gain": 17017.357650351816,
+    "active_positions": 4,
+    "win_amount": 29057.077301546316,
+    "loss_amount": -12039.719651194497,
+    "win_rate": 0.7619047619047619,
+    "total_current_value": 11568.78304,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 16,
+    "rank": 6289,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
