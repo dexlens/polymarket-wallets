@@ -878,5 +878,21 @@
     "win_count": 18,
     "rank": 11355,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf499ffe714952193c81b3965f65ae73df95cb5d9",
+    "trader_name": "Htxclocks",
+    "tag": "Overall",
+    "overall_gain": 9214.211493358123,
+    "active_positions": 5,
+    "win_amount": 9314.211440692774,
+    "loss_amount": -99.999947334651,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 28212.878448871,
+    "total_positions": 14,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 11356,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
