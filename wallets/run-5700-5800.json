@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 5748,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2893dd95e18533e9c692f8d9cbc9600e9e941534",
+    "trader_name": "valentinski",
+    "tag": "Overall",
+    "overall_gain": 18716.190715916313,
+    "active_positions": 34,
+    "win_amount": 27792.952462259796,
+    "loss_amount": -9076.761746343489,
+    "win_rate": 0.36764705882352944,
+    "total_current_value": 219.78428694599998,
+    "total_positions": 83,
+    "event_ct": 68,
+    "win_count": 25,
+    "rank": 5749,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
