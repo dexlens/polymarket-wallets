@@ -1454,5 +1454,21 @@
     "win_count": 11,
     "rank": 7091,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf955d0d6482a9cc02a3a28c3123b6e09f5bcc547",
+    "trader_name": "Elentha",
+    "tag": "Overall",
+    "overall_gain": 15061.177436693095,
+    "active_positions": 7,
+    "win_amount": 16444.563436693097,
+    "loss_amount": -1383.386,
+    "win_rate": 0.8378378378378378,
+    "total_current_value": 0.00009900000000000001,
+    "total_positions": 37,
+    "event_ct": 37,
+    "win_count": 31,
+    "rank": 7092,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
