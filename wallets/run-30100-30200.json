@@ -1134,5 +1134,21 @@
     "win_count": 7,
     "rank": 30172,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x169d73848761ec7a4a305d9cbf69f280841cfb3d",
+    "trader_name": "jenuszek",
+    "tag": "Overall",
+    "overall_gain": 2801.505534785993,
+    "active_positions": 11,
+    "win_amount": 17059.31773482,
+    "loss_amount": -14257.81220003401,
+    "win_rate": 0.28169014084507044,
+    "total_current_value": 0.081574,
+    "total_positions": 94,
+    "event_ct": 71,
+    "win_count": 20,
+    "rank": 30173,
+    "trader_tags": ""
   }
 ]
