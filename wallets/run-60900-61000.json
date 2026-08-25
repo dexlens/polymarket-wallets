@@ -1358,5 +1358,21 @@
     "win_count": 7,
     "rank": 60986,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc453bd6080b9b754b7331d98af912b4b62b22bcd",
+    "trader_name": "Tp19",
+    "tag": "Overall",
+    "overall_gain": 1048.2144973017892,
+    "active_positions": 5,
+    "win_amount": 3365.7736782297293,
+    "loss_amount": -2317.55918092794,
+    "win_rate": 0.7528089887640449,
+    "total_current_value": 112.47295799999999,
+    "total_positions": 290,
+    "event_ct": 89,
+    "win_count": 67,
+    "rank": 60987,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
