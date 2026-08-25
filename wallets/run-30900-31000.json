@@ -398,5 +398,21 @@
     "win_count": 30,
     "rank": 30926,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e8be5f39a7c506c5f388911c9e00cd9cdcf3a15",
+    "trader_name": "qwepoi",
+    "tag": "Overall",
+    "overall_gain": 2708.972064721245,
+    "active_positions": 2,
+    "win_amount": 2733.975664721245,
+    "loss_amount": -25.0036,
+    "win_rate": 0.75,
+    "total_current_value": 0.018136,
+    "total_positions": 14,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 30927,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
