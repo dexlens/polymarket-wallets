@@ -526,5 +526,21 @@
     "win_count": 27,
     "rank": 9733,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe6eed603ce014cf8d87c13aada34e290840bb3aa",
+    "trader_name": "SEVEX",
+    "tag": "Overall",
+    "overall_gain": 10760.378089526499,
+    "active_positions": 44,
+    "win_amount": 251513.42750701238,
+    "loss_amount": -240753.0494174858,
+    "win_rate": 0.46701846965699206,
+    "total_current_value": 50.85944520000001,
+    "total_positions": 564,
+    "event_ct": 379,
+    "win_count": 177,
+    "rank": 9734,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
