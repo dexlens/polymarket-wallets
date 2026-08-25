@@ -350,5 +350,21 @@
     "win_count": 5,
     "rank": 33423,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x69d1ead8fa1ea6f56f50c4049ede7f8541933ef2",
+    "trader_name": "peq3ws",
+    "tag": "Overall",
+    "overall_gain": 2472.0583,
+    "active_positions": 2,
+    "win_amount": 2472.0583,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 12.83,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 33424,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
