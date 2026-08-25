@@ -718,5 +718,21 @@
     "win_count": 4,
     "rank": 35746,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x822e62e3b5d5077c0a8a6bd122d276ece1c65feb",
+    "trader_name": "IwillWin",
+    "tag": "Overall",
+    "overall_gain": 2280.763646777715,
+    "active_positions": 21,
+    "win_amount": 15922.102521973728,
+    "loss_amount": -13641.338875196012,
+    "win_rate": 0.7867435158501441,
+    "total_current_value": 19705.94137113401,
+    "total_positions": 469,
+    "event_ct": 347,
+    "win_count": 273,
+    "rank": 35747,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
