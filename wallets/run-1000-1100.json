@@ -830,5 +830,21 @@
     "win_count": 8,
     "rank": 1052,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x67bc6af6806df61ba5144b125174ecf5f821d54e",
+    "trader_name": "waterfall0",
+    "tag": "Overall",
+    "overall_gain": 115151.61968407272,
+    "active_positions": 544,
+    "win_amount": 129339.49969524957,
+    "loss_amount": -14187.880011176849,
+    "win_rate": 0.8852459016393442,
+    "total_current_value": 102684.42305848899,
+    "total_positions": 1783,
+    "event_ct": 61,
+    "win_count": 54,
+    "rank": 1053,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; 1k+ Positions; Politics PnL > $100k"
   }
 ]
