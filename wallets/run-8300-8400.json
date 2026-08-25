@@ -750,5 +750,21 @@
     "win_count": 23,
     "rank": 8347,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0d6da730441f50b5ced9d5c77760454ed561821d",
+    "trader_name": "JTang",
+    "tag": "Overall",
+    "overall_gain": 12570.35863,
+    "active_positions": 0,
+    "win_amount": 12570.35863,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 8348,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
