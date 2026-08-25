@@ -1326,5 +1326,21 @@
     "win_count": 8,
     "rank": 29884,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x7e8b026e6c87e9b521b276163c9d1ccd6af93881",
+    "trader_name": "7020Tesla",
+    "tag": "Overall",
+    "overall_gain": 2833.9091412575917,
+    "active_positions": 1,
+    "win_amount": 4749.354990647268,
+    "loss_amount": -1915.445849389676,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 30.0457314175,
+    "total_positions": 39,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 29885,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
