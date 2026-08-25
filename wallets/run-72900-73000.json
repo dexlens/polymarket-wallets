@@ -366,5 +366,21 @@
     "win_count": 4,
     "rank": 72924,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x208300476e288a3540637cf83bac34299e0c2d21",
+    "trader_name": "NeiL",
+    "tag": "Overall",
+    "overall_gain": 746.299887327858,
+    "active_positions": 2,
+    "win_amount": 1418.1433610026877,
+    "loss_amount": -671.8434736748301,
+    "win_rate": 0.6617647058823529,
+    "total_current_value": 0.109755,
+    "total_positions": 158,
+    "event_ct": 68,
+    "win_count": 45,
+    "rank": 72925,
+    "trader_tags": "> 1 year old"
   }
 ]
