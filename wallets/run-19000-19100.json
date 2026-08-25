@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 19055,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6e3c26923cba39d6c77a40f2042ae7cba89febce",
+    "trader_name": "zhaoweidu",
+    "tag": "Overall",
+    "overall_gain": 4881.8920960000005,
+    "active_positions": 1,
+    "win_amount": 4891.6420960000005,
+    "loss_amount": -9.75,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 19.85,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 19056,
+    "trader_tags": "< 30 days old"
   }
 ]
