@@ -558,5 +558,21 @@
     "win_count": 287,
     "rank": 70836,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7fa8d7b21c7cd7cd877c4f355d6e80618a0e8ae6",
+    "trader_name": "BUCKER",
+    "tag": "Overall",
+    "overall_gain": 791.8557519882554,
+    "active_positions": 3,
+    "win_amount": 1847.6372408600002,
+    "loss_amount": -1055.781488871745,
+    "win_rate": 0.75,
+    "total_current_value": 1636.120355,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 70837,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
