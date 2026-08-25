@@ -814,5 +814,21 @@
     "win_count": 29,
     "rank": 23351,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd1dd6c6464f6c59b08ddafb5becaebb8189d74a3",
+    "trader_name": "Ironfall",
+    "tag": "Overall",
+    "overall_gain": 3848.955,
+    "active_positions": 1,
+    "win_amount": 3849.83,
+    "loss_amount": -0.8749999999999982,
+    "win_rate": 0.75,
+    "total_current_value": 15.575000000000001,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 23352,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
