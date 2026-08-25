@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 37054,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x65a5286ade22f98c67c64e3c11bd9fc49164765c",
+    "trader_name": "0xwang333226",
+    "tag": "Overall",
+    "overall_gain": 2186.01709325,
+    "active_positions": 1,
+    "win_amount": 2186.01709325,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 103.62578625,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 37055,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
