@@ -574,5 +574,21 @@
     "win_count": 12,
     "rank": 6136,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2a3f62c45f5c024eac7d1442e1a91272aa6cc1af",
+    "trader_name": "Moozmah",
+    "tag": "Overall",
+    "overall_gain": 17469.246475182943,
+    "active_positions": 0,
+    "win_amount": 17469.246475182943,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002743,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6137,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
