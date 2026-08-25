@@ -910,5 +910,21 @@
     "win_count": 9,
     "rank": 4257,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2cd8933458b8f1f85ad97d8ef041ea59363ed09e",
+    "trader_name": "DiamondFinger",
+    "tag": "Overall",
+    "overall_gain": 26236.73027133629,
+    "active_positions": 5,
+    "win_amount": 31159.025030336295,
+    "loss_amount": -4922.294758999999,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 13.7673085955,
+    "total_positions": 96,
+    "event_ct": 30,
+    "win_count": 28,
+    "rank": 4258,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
