@@ -478,5 +478,21 @@
     "win_count": 16,
     "rank": 16730,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x18fb53aba33df90841c5af98072c4ca48daa3ebd",
+    "trader_name": "alvineth",
+    "tag": "Overall",
+    "overall_gain": 5676.015883673999,
+    "active_positions": 2,
+    "win_amount": 5679.215873599999,
+    "loss_amount": -3.1999899259999998,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 233.98445,
+    "total_positions": 15,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 16731,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
