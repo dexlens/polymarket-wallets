@@ -1150,5 +1150,21 @@
     "win_count": 5,
     "rank": 6672,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xfe46d72aae31899683b8a75e8e6aa1e30ff67793",
+    "trader_name": "rrta",
+    "tag": "Overall",
+    "overall_gain": 16092,
+    "active_positions": 0,
+    "win_amount": 16092,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 6673,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
