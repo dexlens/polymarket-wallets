@@ -750,5 +750,21 @@
     "win_count": 3,
     "rank": 80048,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x138ef7862a44b385bd8f847d463a35a8dcc942b4",
+    "trader_name": "ShuRuGa",
+    "tag": "Overall",
+    "overall_gain": 629.9194486169092,
+    "active_positions": 6,
+    "win_amount": 1727.644825871153,
+    "loss_amount": -1097.725377254244,
+    "win_rate": 0.7057356608478803,
+    "total_current_value": 6.319222999999999,
+    "total_positions": 856,
+    "event_ct": 401,
+    "win_count": 283,
+    "rank": 80049,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
