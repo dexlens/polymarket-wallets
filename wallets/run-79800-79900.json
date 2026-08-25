@@ -718,5 +718,21 @@
     "win_count": 14,
     "rank": 79846,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x51d59d2e668759aef2d00a51708430c2d3a32917",
+    "trader_name": "ZhaoSi",
+    "tag": "Overall",
+    "overall_gain": 633.3855812499999,
+    "active_positions": 3,
+    "win_amount": 641.3855812499999,
+    "loss_amount": -8,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 1685.5997949999999,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 10,
+    "rank": 79847,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
