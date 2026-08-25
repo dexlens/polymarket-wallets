@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 47454,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe4a352ed83af32d45f437a22116a5d80cd0ff6c9",
+    "trader_name": "maidarecu",
+    "tag": "Overall",
+    "overall_gain": 1596.5,
+    "active_positions": 1,
+    "win_amount": 3973.5,
+    "loss_amount": -2377,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 47455,
+    "trader_tags": ""
   }
 ]
