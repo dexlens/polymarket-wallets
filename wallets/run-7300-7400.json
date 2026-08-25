@@ -414,5 +414,21 @@
     "win_count": 37,
     "rank": 7326,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9560f78058c9b2add05e3831979005ddd14c982f",
+    "trader_name": "2risky",
+    "tag": "Overall",
+    "overall_gain": 14542.613380350842,
+    "active_positions": 0,
+    "win_amount": 15615.940401350843,
+    "loss_amount": -1073.327021,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.030420125,
+    "total_positions": 14,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 7327,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
