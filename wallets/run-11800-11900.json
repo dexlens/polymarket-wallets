@@ -1230,5 +1230,21 @@
     "win_count": 25,
     "rank": 11877,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf7fb420d493e727688f0410c530d44e9d876f6f5",
+    "trader_name": "xx.eth",
+    "tag": "Overall",
+    "overall_gain": 8714.918609737724,
+    "active_positions": 3,
+    "win_amount": 13488.376327373415,
+    "loss_amount": -4773.457717635691,
+    "win_rate": 0.8222222222222222,
+    "total_current_value": 30831.755107825502,
+    "total_positions": 80,
+    "event_ct": 45,
+    "win_count": 37,
+    "rank": 11878,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
