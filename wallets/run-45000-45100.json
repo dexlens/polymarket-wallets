@@ -974,5 +974,21 @@
     "win_count": 13,
     "rank": 45062,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x05eeb496a98ec379e8ce1c2511715226c58a541b",
+    "trader_name": "Kiae",
+    "tag": "Overall",
+    "overall_gain": 1710.7199095291649,
+    "active_positions": 1,
+    "win_amount": 2154.108985,
+    "loss_amount": -443.389075470835,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 45063,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
