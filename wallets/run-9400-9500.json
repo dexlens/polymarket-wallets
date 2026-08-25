@@ -46,5 +46,21 @@
     "win_count": 2,
     "rank": 9403,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6086c6fa589bb179df005198cbaf86b5a475c78a",
+    "trader_name": "Yuvren",
+    "tag": "Overall",
+    "overall_gain": 11143.893429000002,
+    "active_positions": 1,
+    "win_amount": 12977.924129,
+    "loss_amount": -1834.0307,
+    "win_rate": 0.868421052631579,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 33,
+    "rank": 9404,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
