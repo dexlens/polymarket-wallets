@@ -1006,5 +1006,21 @@
     "win_count": 2,
     "rank": 22963,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xacb5c88b54c63de16aa2889ca821ae269d7fbb21",
+    "trader_name": "tdxbmcs",
+    "tag": "Overall",
+    "overall_gain": 3926.1073075360005,
+    "active_positions": 4,
+    "win_amount": 4077.877445536001,
+    "loss_amount": -151.77013800000003,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 152.36003200000002,
+    "total_positions": 36,
+    "event_ct": 35,
+    "win_count": 30,
+    "rank": 22964,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
