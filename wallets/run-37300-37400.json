@@ -1054,5 +1054,21 @@
     "win_count": 5,
     "rank": 37367,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x996d6666b111aff91d4535528e90f8341417293f",
+    "trader_name": "magejumper",
+    "tag": "Overall",
+    "overall_gain": 2163.45,
+    "active_positions": 8,
+    "win_amount": 3678.7000000000003,
+    "loss_amount": -1515.2499999999998,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 24,
+    "rank": 37368,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
