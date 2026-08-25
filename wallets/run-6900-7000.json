@@ -1038,5 +1038,21 @@
     "win_count": 26,
     "rank": 6965,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7d8ad82fb31e48cd422b5ca20237b66da4da5df2",
+    "trader_name": "Yifan",
+    "tag": "Overall",
+    "overall_gain": 15376.533006306046,
+    "active_positions": 312,
+    "win_amount": 195081.78347334787,
+    "loss_amount": -179705.25046704194,
+    "win_rate": 0.5161191091423649,
+    "total_current_value": 2920.5581653199993,
+    "total_positions": 16383,
+    "event_ct": 16254,
+    "win_count": 8389,
+    "rank": 6966,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
