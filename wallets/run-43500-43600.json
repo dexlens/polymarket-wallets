@@ -1310,5 +1310,21 @@
     "win_count": 7,
     "rank": 43583,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe7e46c3d3a6bf28058dfec7f972d835777f74a86",
+    "trader_name": "fairpoint",
+    "tag": "Overall",
+    "overall_gain": 1789,
+    "active_positions": 1,
+    "win_amount": 1900,
+    "loss_amount": -111,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 43584,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
