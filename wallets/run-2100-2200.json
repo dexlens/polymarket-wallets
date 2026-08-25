@@ -1470,5 +1470,21 @@
     "win_count": 569,
     "rank": 2192,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x6ea6e1d28acc1c393b8fbf360c06d71a99a39261",
+    "trader_name": "DaytonaOne",
+    "tag": "Overall",
+    "overall_gain": 54888.400451529465,
+    "active_positions": 8,
+    "win_amount": 61690.82860043195,
+    "loss_amount": -6802.428148902497,
+    "win_rate": 0.8701298701298701,
+    "total_current_value": 270729.8008528006,
+    "total_positions": 161,
+    "event_ct": 77,
+    "win_count": 67,
+    "rank": 2193,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
