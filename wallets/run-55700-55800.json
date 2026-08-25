@@ -350,5 +350,21 @@
     "win_count": 110,
     "rank": 55723,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6bb1b262372e6b937d53bae9835d6300ca9bbdac",
+    "trader_name": "nngtt",
+    "tag": "Overall",
+    "overall_gain": 1228.9717379758379,
+    "active_positions": 3,
+    "win_amount": 1513.931327,
+    "loss_amount": -284.959589024162,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 15,
+    "rank": 55724,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
