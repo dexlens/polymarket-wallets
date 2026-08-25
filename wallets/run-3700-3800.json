@@ -1038,5 +1038,21 @@
     "win_count": 167,
     "rank": 3765,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xb7200eb4ffc3ea4bde0ef28110238bd9f539c414",
+    "trader_name": "scottiedoesntknow",
+    "tag": "Overall",
+    "overall_gain": 30273.44806166158,
+    "active_positions": 0,
+    "win_amount": 30273.44806166158,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001424,
+    "total_positions": 7,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3766,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
