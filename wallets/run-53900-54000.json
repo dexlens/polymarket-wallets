@@ -366,5 +366,21 @@
     "win_count": 12,
     "rank": 53924,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5565b04e04666daa338efc53caa82d33612a4b3b",
+    "trader_name": "super-swiss-01",
+    "tag": "Overall",
+    "overall_gain": 1306.4934734842398,
+    "active_positions": 676,
+    "win_amount": 16669.377787644607,
+    "loss_amount": -15362.88431416037,
+    "win_rate": 0.4832579185520362,
+    "total_current_value": 453.8288395370001,
+    "total_positions": 8653,
+    "event_ct": 1105,
+    "win_count": 534,
+    "rank": 53925,
+    "trader_tags": "1k+ Positions"
   }
 ]
