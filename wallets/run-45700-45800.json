@@ -158,5 +158,21 @@
     "win_count": 5,
     "rank": 45711,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e6953ae151294353a5a9f92eac6b61ffd2862bb",
+    "trader_name": "Bathyal",
+    "tag": "Overall",
+    "overall_gain": 1680.5,
+    "active_positions": 3,
+    "win_amount": 3116,
+    "loss_amount": -1435.5,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 45712,
+    "trader_tags": ""
   }
 ]
