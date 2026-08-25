@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 3388,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4740e3a7d5af41cd6acfafcb9cac0162c24b030b",
+    "trader_name": "hrhe4",
+    "tag": "Overall",
+    "overall_gain": 33646.54460116,
+    "active_positions": 3,
+    "win_amount": 43541.20005,
+    "loss_amount": -9894.65544884,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 6,
+    "rank": 3389,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
