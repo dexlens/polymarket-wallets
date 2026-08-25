@@ -30,5 +30,21 @@
     "win_count": 41,
     "rank": 6502,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe948662e83ab4e074763b7a0c4b86fd2fe1bff23",
+    "trader_name": "PereBoule",
+    "tag": "Overall",
+    "overall_gain": 16476.07545899931,
+    "active_positions": 25,
+    "win_amount": 561356.9466785734,
+    "loss_amount": -544880.8712195741,
+    "win_rate": 0.528830313014827,
+    "total_current_value": 212.43851542700003,
+    "total_positions": 699,
+    "event_ct": 607,
+    "win_count": 321,
+    "rank": 6503,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
