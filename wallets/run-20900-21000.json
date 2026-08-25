@@ -1182,5 +1182,21 @@
     "win_count": 29,
     "rank": 20974,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0a3dd303610efdd7102721343c77746d8eb6c7c9",
+    "trader_name": "breeszev",
+    "tag": "Overall",
+    "overall_gain": 4370,
+    "active_positions": 1,
+    "win_amount": 4644,
+    "loss_amount": -274,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 20975,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
