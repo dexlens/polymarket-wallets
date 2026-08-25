@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 32387,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa72aa09e0377b68615e00b6dd1db0c3edb0193fd",
+    "trader_name": "Rituximab",
+    "tag": "Overall",
+    "overall_gain": 2562.553263050677,
+    "active_positions": 15,
+    "win_amount": 32543.32487999942,
+    "loss_amount": -29980.77161694873,
+    "win_rate": 0.7961165048543689,
+    "total_current_value": 4982.419590314001,
+    "total_positions": 159,
+    "event_ct": 103,
+    "win_count": 82,
+    "rank": 32388,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
