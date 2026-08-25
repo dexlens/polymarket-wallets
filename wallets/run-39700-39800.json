@@ -990,5 +990,21 @@
     "win_count": 41,
     "rank": 39763,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9d07483a84ec3d86b1987620d8a7fa4b50fea32c",
+    "trader_name": "Whitelia",
+    "tag": "Overall",
+    "overall_gain": 2006.4585489000003,
+    "active_positions": 1,
+    "win_amount": 2249.3585489,
+    "loss_amount": -242.89999999999998,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.048775000000000006,
+    "total_positions": 14,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 39764,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
