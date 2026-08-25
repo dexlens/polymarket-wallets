@@ -1518,5 +1518,21 @@
     "win_count": 20,
     "rank": 52196,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x627742a599bc0ea2540a6be301e54f52cf202b5b",
+    "trader_name": "kliujytrnr",
+    "tag": "Overall",
+    "overall_gain": 1383.5316400000002,
+    "active_positions": 3,
+    "win_amount": 5854.531639999999,
+    "loss_amount": -4471,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 52197,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
