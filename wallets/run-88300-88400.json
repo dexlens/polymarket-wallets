@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 88347,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x208ebc1a95271435d97ec62b1c1de965a275960b",
+    "trader_name": "Idoohk",
+    "tag": "Overall",
+    "overall_gain": 508.859688579915,
+    "active_positions": 35,
+    "win_amount": 803.987481780023,
+    "loss_amount": -295.127793200108,
+    "win_rate": 0.23809523809523808,
+    "total_current_value": 34.636471856,
+    "total_positions": 79,
+    "event_ct": 63,
+    "win_count": 15,
+    "rank": 88348,
+    "trader_tags": "< 30 days old"
   }
 ]
