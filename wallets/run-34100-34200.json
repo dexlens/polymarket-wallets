@@ -1374,5 +1374,21 @@
     "win_count": 22,
     "rank": 34187,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb19fd1fd304e165b4b3db7f1169a2a2b1e82a912",
+    "trader_name": "moneypro",
+    "tag": "Overall",
+    "overall_gain": 2406.667477272472,
+    "active_positions": 2,
+    "win_amount": 2523.2146726485853,
+    "loss_amount": -116.547195376113,
+    "win_rate": 0.7,
+    "total_current_value": 622.363982885,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 34188,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
