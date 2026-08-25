@@ -1582,5 +1582,21 @@
     "win_count": 2,
     "rank": 86400,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64f5c43c6b163d99363afcf84809b3badd72b9e4",
+    "trader_name": "gummyman",
+    "tag": "Overall",
+    "overall_gain": 533.737723227143,
+    "active_positions": 1,
+    "win_amount": 1226.4514625972947,
+    "loss_amount": -692.713739370152,
+    "win_rate": 0.6,
+    "total_current_value": 0.001427,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 86401,
+    "trader_tags": "> 1 year old"
   }
 ]
