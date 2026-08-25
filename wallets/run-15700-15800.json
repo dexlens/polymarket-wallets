@@ -350,5 +350,21 @@
     "win_count": 5,
     "rank": 15722,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1933fe75ba98c27b31809f97b0200b0b09f293a5",
+    "trader_name": "piko",
+    "tag": "Overall",
+    "overall_gain": 6133.319932394902,
+    "active_positions": 6,
+    "win_amount": 7460.576775664644,
+    "loss_amount": -1327.2568432697399,
+    "win_rate": 0.6808510638297872,
+    "total_current_value": 5.4181323725,
+    "total_positions": 1425,
+    "event_ct": 517,
+    "win_count": 352,
+    "rank": 15723,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
