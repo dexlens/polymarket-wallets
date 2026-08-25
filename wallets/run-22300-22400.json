@@ -782,5 +782,21 @@
     "win_count": 51,
     "rank": 22349,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2a3a3079613df8cccc34929068fc06ef15e5450b",
+    "trader_name": "LSKDMV",
+    "tag": "Overall",
+    "overall_gain": 4041.5,
+    "active_positions": 4,
+    "win_amount": 5539,
+    "loss_amount": -1497.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 22350,
+    "trader_tags": ""
   }
 ]
