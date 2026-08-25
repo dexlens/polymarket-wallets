@@ -1342,5 +1342,21 @@
     "win_count": 2,
     "rank": 28485,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x70a0dc8fcea0e3fffd975b91bcf0352758455bd7",
+    "trader_name": "Schi",
+    "tag": "Overall",
+    "overall_gain": 3004.504981711319,
+    "active_positions": 1,
+    "win_amount": 3546.066694402801,
+    "loss_amount": -541.5617126914821,
+    "win_rate": 0.8,
+    "total_current_value": 171.96457306399998,
+    "total_positions": 18,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 28486,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
