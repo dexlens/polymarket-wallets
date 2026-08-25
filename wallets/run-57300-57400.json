@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 57359,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c4cd2f1a552f84c865625ff9bf3f5205306d745",
+    "trader_name": "VortexTraverse",
+    "tag": "Overall",
+    "overall_gain": 1165.3580000000002,
+    "active_positions": 3,
+    "win_amount": 1855.2830000000001,
+    "loss_amount": -689.925,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 20.025,
+    "total_positions": 10,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 57360,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
