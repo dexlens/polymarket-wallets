@@ -158,5 +158,21 @@
     "win_count": 9,
     "rank": 10,
     "trader_tags": "Overall PnL > $1m; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trader_name": "BetTom42",
+    "tag": "Overall",
+    "overall_gain": 5642135.735355999,
+    "active_positions": 0,
+    "win_amount": 5642135.735355999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 11,
+    "trader_tags": "Overall PnL > $1m; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election ; Politics PnL > $100k"
   }
 ]
