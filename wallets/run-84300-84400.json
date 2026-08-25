@@ -1390,5 +1390,21 @@
     "win_count": 4,
     "rank": 84388,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2015b137dd23fb49d1112ca48c295604accaed94",
+    "trader_name": "xcbsdgs",
+    "tag": "Overall",
+    "overall_gain": 560.686645699076,
+    "active_positions": 9,
+    "win_amount": 560.7036403450861,
+    "loss_amount": -0.016994646010000114,
+    "win_rate": 0.9565217391304348,
+    "total_current_value": 12.768544102,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 22,
+    "rank": 84389,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
