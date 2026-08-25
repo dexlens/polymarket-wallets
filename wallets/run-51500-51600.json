@@ -142,5 +142,21 @@
     "win_count": 190,
     "rank": 51510,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x987bf78f050bc2293c5a5bb668bbbdb4784e0d57",
+    "trader_name": "bpla9",
+    "tag": "Overall",
+    "overall_gain": 1414.854980295289,
+    "active_positions": 0,
+    "win_amount": 1414.854980295289,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.052900024999999996,
+    "total_positions": 17,
+    "event_ct": 8,
+    "win_count": 8,
+    "rank": 51511,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
