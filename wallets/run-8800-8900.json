@@ -1406,5 +1406,21 @@
     "win_count": 17,
     "rank": 8888,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdae6349433286ec4034e61c79698447d4f7ce440",
+    "trader_name": "IceWindL",
+    "tag": "Overall",
+    "overall_gain": 11786.072396969763,
+    "active_positions": 23,
+    "win_amount": 19030.580192964913,
+    "loss_amount": -7244.507795995155,
+    "win_rate": 0.5806451612903226,
+    "total_current_value": 18322.938782160498,
+    "total_positions": 113,
+    "event_ct": 62,
+    "win_count": 36,
+    "rank": 8889,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
