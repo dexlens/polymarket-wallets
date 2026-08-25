@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 70255,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x092f5ecfcf1df6356a534b6d23d3dd2557fa18ac",
+    "trader_name": "TACC",
+    "tag": "Overall",
+    "overall_gain": 804.6881935423537,
+    "active_positions": 0,
+    "win_amount": 1785.1708926716062,
+    "loss_amount": -980.482699129252,
+    "win_rate": 0.4742857142857143,
+    "total_current_value": 0.078208,
+    "total_positions": 234,
+    "event_ct": 175,
+    "win_count": 83,
+    "rank": 70256,
+    "trader_tags": "> 1 year old"
   }
 ]
