@@ -830,5 +830,21 @@
     "win_count": 38,
     "rank": 74653,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18ea5db606af74b6b0ccdd3edcd40f0727a5ae46",
+    "trader_name": "mr.BTC",
+    "tag": "Overall",
+    "overall_gain": 719.1060024362748,
+    "active_positions": 20,
+    "win_amount": 2299.272066348342,
+    "loss_amount": -1580.1660639120666,
+    "win_rate": 0.7252747252747253,
+    "total_current_value": 0.059171499999999995,
+    "total_positions": 122,
+    "event_ct": 91,
+    "win_count": 66,
+    "rank": 74654,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
