@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 17025,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xacca825411d27afc16e2ac3237efeefbb8b108b1",
+    "trader_name": "satoshiua",
+    "tag": "Overall",
+    "overall_gain": 5541.828078931649,
+    "active_positions": 11,
+    "win_amount": 8150.503020740429,
+    "loss_amount": -2608.67494180878,
+    "win_rate": 0.8405797101449275,
+    "total_current_value": 11352.644931505,
+    "total_positions": 92,
+    "event_ct": 69,
+    "win_count": 58,
+    "rank": 17026,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
