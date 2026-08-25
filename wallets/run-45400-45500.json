@@ -478,5 +478,21 @@
     "win_count": 7,
     "rank": 45431,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1f7822af44bfd0e2194b38bffe526992f7f91dca",
+    "trader_name": "eutcgm",
+    "tag": "Overall",
+    "overall_gain": 1693.4588549999999,
+    "active_positions": 4,
+    "win_amount": 2835.731655000001,
+    "loss_amount": -1142.2728000000002,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 198.15,
+    "total_positions": 30,
+    "event_ct": 29,
+    "win_count": 26,
+    "rank": 45432,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
