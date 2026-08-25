@@ -1406,5 +1406,21 @@
     "win_count": 50,
     "rank": 8488,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0ce66aae351f82d61ee51348b0e9ca4d7f1582c8",
+    "trader_name": "kfgahnga33",
+    "tag": "Overall",
+    "overall_gain": 12333.246800000003,
+    "active_positions": 4,
+    "win_amount": 18166.326800000003,
+    "loss_amount": -5833.08,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 5.28,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 8489,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
