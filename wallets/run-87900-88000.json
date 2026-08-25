@@ -1326,5 +1326,21 @@
     "win_count": 59,
     "rank": 87984,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b20fc8c0f656b8b98aad21ca7c3c2604f6a0669",
+    "trader_name": "M2fFj",
+    "tag": "Overall",
+    "overall_gain": 513.2,
+    "active_positions": 1,
+    "win_amount": 1327.2,
+    "loss_amount": -814,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 87985,
+    "trader_tags": "< 30 days old"
   }
 ]
