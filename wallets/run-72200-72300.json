@@ -30,5 +30,21 @@
     "win_count": 1,
     "rank": 72203,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x02f4278f7668e35fa1a70e42aeda83c20773b48c",
+    "trader_name": "ImpalazOrg",
+    "tag": "Overall",
+    "overall_gain": 762.19076209,
+    "active_positions": 1,
+    "win_amount": 1653.685429,
+    "loss_amount": -891.49466691,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 72204,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
