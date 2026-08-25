@@ -670,5 +670,21 @@
     "win_count": 2,
     "rank": 44143,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0c7138f9cc99b3581997a6f2e9a7b5f6802091d1",
+    "trader_name": "Bine",
+    "tag": "Overall",
+    "overall_gain": 1758.10060874938,
+    "active_positions": 0,
+    "win_amount": 1758.10060874938,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000442,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 44144,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
