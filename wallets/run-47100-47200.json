@@ -814,5 +814,21 @@
     "win_count": 10,
     "rank": 47152,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0c3d8f1e50210165a1fe186ef45c540fcff7f757",
+    "trader_name": "afonsoo003",
+    "tag": "Overall",
+    "overall_gain": 1609.6895019061042,
+    "active_positions": 20,
+    "win_amount": 3053.244667801448,
+    "loss_amount": -1443.5551658953425,
+    "win_rate": 0.8537549407114624,
+    "total_current_value": 12097.181891283002,
+    "total_positions": 378,
+    "event_ct": 253,
+    "win_count": 216,
+    "rank": 47153,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
