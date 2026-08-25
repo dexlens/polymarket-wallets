@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 22195,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1972b4b62ad1c2b1273028c1685a200196e7d9bb",
+    "trader_name": "Vensus",
+    "tag": "Overall",
+    "overall_gain": 4077.5,
+    "active_positions": 2,
+    "win_amount": 4544,
+    "loss_amount": -466.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 22196,
+    "trader_tags": ""
   }
 ]
