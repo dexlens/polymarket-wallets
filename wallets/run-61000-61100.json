@@ -558,5 +558,21 @@
     "win_count": 9,
     "rank": 61036,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf9dfecfe4ab4ba6b7cc0dc4ccf38f70c99e40c6c",
+    "trader_name": "Holosas",
+    "tag": "Overall",
+    "overall_gain": 1046.645532876821,
+    "active_positions": 1,
+    "win_amount": 1446.57788236697,
+    "loss_amount": -399.93234949014897,
+    "win_rate": 0.75,
+    "total_current_value": 0.0075,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 61037,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
