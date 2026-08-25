@@ -334,5 +334,21 @@
     "win_count": 123,
     "rank": 121,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x02d5f92b780ec7c98d7ad0624ff017f7ae4688c7",
+    "trader_name": "hominylute",
+    "tag": "Overall",
+    "overall_gain": 894953.6289310001,
+    "active_positions": 0,
+    "win_amount": 2586919.913353,
+    "loss_amount": -1691966.284422,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 0,
+    "total_positions": 24,
+    "event_ct": 23,
+    "win_count": 13,
+    "rank": 122,
+    "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
   }
 ]
