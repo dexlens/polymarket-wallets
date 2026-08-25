@@ -1518,5 +1518,21 @@
     "win_count": 5,
     "rank": 26096,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdc3ffc7857b75c8cb2b01413c7696e7d4728f038",
+    "trader_name": "mdgc",
+    "tag": "Overall",
+    "overall_gain": 3353.438437246723,
+    "active_positions": 67996,
+    "win_amount": 85148.96053556915,
+    "loss_amount": -81795.52209832292,
+    "win_rate": 0.04091589778271581,
+    "total_current_value": 1717.6304352250004,
+    "total_positions": 73427,
+    "event_ct": 62103,
+    "win_count": 2541,
+    "rank": 26097,
+    "trader_tags": "1k+ Positions"
   }
 ]
