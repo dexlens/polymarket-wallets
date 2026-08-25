@@ -190,5 +190,21 @@
     "win_count": 2,
     "rank": 35313,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f8d12a1f03b47f3f5ee1b29e65ef0e9de2ea1e9",
+    "trader_name": "yexzs",
+    "tag": "Overall",
+    "overall_gain": 2316.3052635493495,
+    "active_positions": 31,
+    "win_amount": 10686.078176828776,
+    "loss_amount": -8369.772913279428,
+    "win_rate": 0.38620689655172413,
+    "total_current_value": 0.7838099999999998,
+    "total_positions": 149,
+    "event_ct": 145,
+    "win_count": 56,
+    "rank": 35314,
+    "trader_tags": "> 1 year old"
   }
 ]
