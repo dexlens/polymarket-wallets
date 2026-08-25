@@ -574,5 +574,21 @@
     "win_count": 6,
     "rank": 5536,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x03b3d8d3853cacb90a653fe1b25a9b5cecec96f4",
+    "trader_name": "KaceyBecky",
+    "tag": "Overall",
+    "overall_gain": 19518.644124999995,
+    "active_positions": 1,
+    "win_amount": 19637.184125,
+    "loss_amount": -118.54,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 5537,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
