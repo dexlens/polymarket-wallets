@@ -430,5 +430,21 @@
     "win_count": 6,
     "rank": 44828,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1846a29f1c1e6a42de4447e26e2212a86f1baefe",
+    "trader_name": "GhostOfAbathur",
+    "tag": "Overall",
+    "overall_gain": 1721.843285105809,
+    "active_positions": 15,
+    "win_amount": 2184.2364453583023,
+    "loss_amount": -462.393160252493,
+    "win_rate": 0.6756756756756757,
+    "total_current_value": 2719.5564382725,
+    "total_positions": 55,
+    "event_ct": 37,
+    "win_count": 25,
+    "rank": 44829,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
