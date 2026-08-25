@@ -1022,5 +1022,21 @@
     "win_count": 9,
     "rank": 3764,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb236dcdbb0386929573851da101eb310315b1d5d",
+    "trader_name": "SaulG",
+    "tag": "Overall",
+    "overall_gain": 30282.232572934496,
+    "active_positions": 0,
+    "win_amount": 46173.6653839827,
+    "loss_amount": -15891.432811048197,
+    "win_rate": 0.39952153110047844,
+    "total_current_value": 0.24428545592764642,
+    "total_positions": 634,
+    "event_ct": 418,
+    "win_count": 167,
+    "rank": 3765,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
