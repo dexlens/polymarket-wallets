@@ -894,5 +894,21 @@
     "win_count": 57,
     "rank": 20256,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x0ea14dd6fcc83e41c91fd94db1597927d2bc584c",
+    "trader_name": "NewJake",
+    "tag": "Overall",
+    "overall_gain": 4561.118670515601,
+    "active_positions": 7,
+    "win_amount": 4580.9746255256005,
+    "loss_amount": -19.85595501,
+    "win_rate": 0.85,
+    "total_current_value": 15162.571087142001,
+    "total_positions": 23,
+    "event_ct": 20,
+    "win_count": 17,
+    "rank": 20257,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
