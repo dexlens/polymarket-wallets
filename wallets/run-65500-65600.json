@@ -510,5 +510,21 @@
     "win_count": 2,
     "rank": 65533,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ac0f3bf3da8e27c3a858502e434b761cc6c1e7e",
+    "trader_name": "Kuroissant",
+    "tag": "Overall",
+    "overall_gain": 929.720317951065,
+    "active_positions": 1,
+    "win_amount": 972.9088782343999,
+    "loss_amount": -43.188560283335,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.010577,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 65534,
+    "trader_tags": "> 1 year old"
   }
 ]
