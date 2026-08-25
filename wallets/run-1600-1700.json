@@ -750,5 +750,21 @@
     "win_count": 5,
     "rank": 1647,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x75acf1aa88a3f5c613f2214486b91fa9fc1f33d7",
+    "trader_name": "badatthis",
+    "tag": "Overall",
+    "overall_gain": 74343.80353736025,
+    "active_positions": 28,
+    "win_amount": 91923.97734021029,
+    "loss_amount": -17580.173802850037,
+    "win_rate": 0.7022292993630573,
+    "total_current_value": 3871.6907995529996,
+    "total_positions": 4673,
+    "event_ct": 628,
+    "win_count": 441,
+    "rank": 1648,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
