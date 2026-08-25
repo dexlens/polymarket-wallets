@@ -398,5 +398,21 @@
     "win_count": 28,
     "rank": 3625,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ed9fb24166d7aae9ec0f8eef267c46cb34ef365",
+    "trader_name": "WaifuLover",
+    "tag": "Overall",
+    "overall_gain": 31420.872983640646,
+    "active_positions": 16,
+    "win_amount": 35917.19546912395,
+    "loss_amount": -4496.322485483306,
+    "win_rate": 0.5106382978723404,
+    "total_current_value": 0.082384,
+    "total_positions": 61,
+    "event_ct": 47,
+    "win_count": 24,
+    "rank": 3626,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
