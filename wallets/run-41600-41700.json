@@ -1502,5 +1502,21 @@
     "win_count": 16,
     "rank": 41695,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6e6120c3538399e82c00ce3f02ad8c1a0fe2915",
+    "trader_name": "hunting10c",
+    "tag": "Overall",
+    "overall_gain": 1893.464297258218,
+    "active_positions": 3,
+    "win_amount": 1893.464297258218,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 2489.29442835,
+    "total_positions": 6,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 41696,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
