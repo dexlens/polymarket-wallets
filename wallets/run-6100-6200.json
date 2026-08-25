@@ -494,5 +494,21 @@
     "win_count": 270,
     "rank": 6131,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd91e87d3bd63cdb469f6d55cc0857689109c7868",
+    "trader_name": "hainan",
+    "tag": "Overall",
+    "overall_gain": 17476.929218877125,
+    "active_positions": 71,
+    "win_amount": 122500.1539878771,
+    "loss_amount": -105023.22476900001,
+    "win_rate": 0.5516759776536313,
+    "total_current_value": 802.9477664355001,
+    "total_positions": 791,
+    "event_ct": 716,
+    "win_count": 395,
+    "rank": 6132,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
