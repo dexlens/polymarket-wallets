@@ -1582,5 +1582,21 @@
     "win_count": 4,
     "rank": 7099,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf4a704a0ad7ef39b5ced4a89dbea23a925bab69e",
+    "trader_name": "veraconan0902",
+    "tag": "Overall",
+    "overall_gain": 15045,
+    "active_positions": 10,
+    "win_amount": 32475,
+    "loss_amount": -17430,
+    "win_rate": 0.47368421052631576,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 9,
+    "rank": 7100,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
