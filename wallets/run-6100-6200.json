@@ -1230,5 +1230,21 @@
     "win_count": 3,
     "rank": 6177,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x51a8c307505bc23efbdd4570a6c9828ac4808506",
+    "trader_name": "qpolkikku102",
+    "tag": "Overall",
+    "overall_gain": 17343.511944329464,
+    "active_positions": 0,
+    "win_amount": 17343.511944329464,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.00008400000000000001,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 6178,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
