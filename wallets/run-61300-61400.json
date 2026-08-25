@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 61394,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32b61f77818ee062a1cf0ad4312752879e1a2f9f",
+    "trader_name": "Hazardrip",
+    "tag": "Overall",
+    "overall_gain": 1037.5425314453441,
+    "active_positions": 98,
+    "win_amount": 22480.385863635023,
+    "loss_amount": -21442.843332189685,
+    "win_rate": 0.5075757575757576,
+    "total_current_value": 9020.556595456499,
+    "total_positions": 366,
+    "event_ct": 264,
+    "win_count": 134,
+    "rank": 61395,
+    "trader_tags": "> 1 year old"
   }
 ]
