@@ -526,5 +526,21 @@
     "win_count": 9,
     "rank": 49834,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1020575d13adc80597e799420607793880d13aac",
+    "trader_name": "Heart24",
+    "tag": "Overall",
+    "overall_gain": 1490.721649933819,
+    "active_positions": 2,
+    "win_amount": 2499.4364499643953,
+    "loss_amount": -1008.7148000305759,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 0.0070669999999999995,
+    "total_positions": 39,
+    "event_ct": 17,
+    "win_count": 8,
+    "rank": 49835,
+    "trader_tags": "> 1 year old"
   }
 ]
