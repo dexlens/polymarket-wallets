@@ -654,5 +654,21 @@
     "win_count": 2,
     "rank": 17541,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86f8895398cba487913708a7741d166a35b91655",
+    "trader_name": "MEXB",
+    "tag": "Overall",
+    "overall_gain": 5342.413057844033,
+    "active_positions": 12,
+    "win_amount": 19828.506044953105,
+    "loss_amount": -14486.092987109074,
+    "win_rate": 0.6014760147601476,
+    "total_current_value": 0.184112,
+    "total_positions": 288,
+    "event_ct": 271,
+    "win_count": 163,
+    "rank": 17542,
+    "trader_tags": ""
   }
 ]
