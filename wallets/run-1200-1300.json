@@ -1118,5 +1118,21 @@
     "win_count": 2,
     "rank": 1270,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6fdc687773d4ba8753ea406f4eb2a403051a953f",
+    "trader_name": "purple-lamp-tree",
+    "tag": "Overall",
+    "overall_gain": 95494.73651512749,
+    "active_positions": 136,
+    "win_amount": 550183.2027402947,
+    "loss_amount": -454688.4662251672,
+    "win_rate": 0.4722528887907559,
+    "total_current_value": 1763.2107407404997,
+    "total_positions": 46163,
+    "event_ct": 27174,
+    "win_count": 12833,
+    "rank": 1271,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
