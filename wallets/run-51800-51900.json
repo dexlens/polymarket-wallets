@@ -542,5 +542,21 @@
     "win_count": 9,
     "rank": 51835,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x82eac08e98bb5d932fb9124dd323955db39160c2",
+    "trader_name": "Asua13",
+    "tag": "Overall",
+    "overall_gain": 1399.3048537874283,
+    "active_positions": 1,
+    "win_amount": 2728.449919168599,
+    "loss_amount": -1329.145065381171,
+    "win_rate": 0.7540983606557377,
+    "total_current_value": 1.050986,
+    "total_positions": 185,
+    "event_ct": 61,
+    "win_count": 46,
+    "rank": 51836,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
