@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 7243,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0fe9a395a0be3a7c8337a135a5c469d5f985d372",
+    "trader_name": "vodzjP",
+    "tag": "Overall",
+    "overall_gain": 14750.634718475412,
+    "active_positions": 1,
+    "win_amount": 14750.634718475412,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 24589.8213286835,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7244,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
