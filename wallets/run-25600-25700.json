@@ -1310,5 +1310,21 @@
     "win_count": 11,
     "rank": 25683,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x586d6eb20da348501206e18eba11be8fe9f6c5dc",
+    "trader_name": "Sapou",
+    "tag": "Overall",
+    "overall_gain": 3427.8928605884184,
+    "active_positions": 88,
+    "win_amount": 21452.86189892694,
+    "loss_amount": -18024.969038338524,
+    "win_rate": 0.819226750261233,
+    "total_current_value": 9624.175760852999,
+    "total_positions": 1421,
+    "event_ct": 957,
+    "win_count": 784,
+    "rank": 25684,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
