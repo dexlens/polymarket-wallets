@@ -846,5 +846,21 @@
     "win_count": 2,
     "rank": 46054,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a4f9c8969f572391bb68f701a496de3a7276008",
+    "trader_name": "hvcncbm",
+    "tag": "Overall",
+    "overall_gain": 1663.829223515457,
+    "active_positions": 3,
+    "win_amount": 1938.2221067514572,
+    "loss_amount": -274.39288323600005,
+    "win_rate": 0.9375,
+    "total_current_value": 152.757257,
+    "total_positions": 33,
+    "event_ct": 32,
+    "win_count": 30,
+    "rank": 46055,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
