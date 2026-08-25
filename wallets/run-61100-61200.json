@@ -222,5 +222,21 @@
     "win_count": 2,
     "rank": 61115,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55050d6da58cd532ab62c2f1cd670270d7003a83",
+    "trader_name": "Paprika",
+    "tag": "Overall",
+    "overall_gain": 1044.6282815618724,
+    "active_positions": 119,
+    "win_amount": 5894.3281738588175,
+    "loss_amount": -4849.699892296945,
+    "win_rate": 0.45622119815668205,
+    "total_current_value": 0.063099,
+    "total_positions": 219,
+    "event_ct": 217,
+    "win_count": 99,
+    "rank": 61116,
+    "trader_tags": ""
   }
 ]
