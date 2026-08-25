@@ -254,5 +254,21 @@
     "win_count": 29,
     "rank": 61517,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6499ef01132195489e000d912fb6979f611db56a",
+    "trader_name": "ARTHUR...BITCOIN",
+    "tag": "Overall",
+    "overall_gain": 1034.3048791330418,
+    "active_positions": 9,
+    "win_amount": 3172.389520331764,
+    "loss_amount": -2138.0846411987222,
+    "win_rate": 0.4074074074074074,
+    "total_current_value": 2.4402440785,
+    "total_positions": 31,
+    "event_ct": 27,
+    "win_count": 11,
+    "rank": 61518,
+    "trader_tags": "< 30 days old"
   }
 ]
