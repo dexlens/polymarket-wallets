@@ -670,5 +670,21 @@
     "win_count": 3,
     "rank": 9942,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x13ea941c21c78ece0a2e25ea438e938cdfdb9a8c",
+    "trader_name": "jiaf",
+    "tag": "Overall",
+    "overall_gain": 10545.517814763558,
+    "active_positions": 36,
+    "win_amount": 50640.125094999996,
+    "loss_amount": -40094.60728023645,
+    "win_rate": 0.5566037735849056,
+    "total_current_value": 132.4890992235,
+    "total_positions": 130,
+    "event_ct": 106,
+    "win_count": 59,
+    "rank": 9943,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
