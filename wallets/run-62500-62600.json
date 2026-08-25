@@ -1150,5 +1150,21 @@
     "win_count": 2,
     "rank": 62573,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x485ce7fc37a291381edd3f507ecc9702f1da2f47",
+    "trader_name": "ALnes",
+    "tag": "Overall",
+    "overall_gain": 1007.9318368123668,
+    "active_positions": 14,
+    "win_amount": 2735.2758077373005,
+    "loss_amount": -1727.3439709249333,
+    "win_rate": 0.7530864197530864,
+    "total_current_value": 0.063754,
+    "total_positions": 85,
+    "event_ct": 81,
+    "win_count": 61,
+    "rank": 62574,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
