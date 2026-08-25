@@ -382,5 +382,21 @@
     "win_count": 2,
     "rank": 82525,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xee57dfabba628cf53815f38227b4d8d9f0aebd36",
+    "trader_name": "chuckx",
+    "tag": "Overall",
+    "overall_gain": 589.8856858151998,
+    "active_positions": 1,
+    "win_amount": 589.8856858151998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 4665.4250999999995,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 82526,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
