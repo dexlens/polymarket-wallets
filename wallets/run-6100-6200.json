@@ -702,5 +702,21 @@
     "win_count": 583,
     "rank": 6144,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x3ef0ded03f59b4bded513e691771b7e252d3657e",
+    "trader_name": "Vollautomatik",
+    "tag": "Overall",
+    "overall_gain": 17440.674817350675,
+    "active_positions": 42,
+    "win_amount": 25804.576456353323,
+    "loss_amount": -8363.901639002645,
+    "win_rate": 0.5862068965517241,
+    "total_current_value": 0.051655000000000006,
+    "total_positions": 264,
+    "event_ct": 29,
+    "win_count": 17,
+    "rank": 6145,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
