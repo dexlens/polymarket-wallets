@@ -1566,5 +1566,21 @@
     "win_count": 3,
     "rank": 32899,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x60a0f240a7c8a7a15ae54827b065ebad900a9870",
+    "trader_name": "BitBli",
+    "tag": "Overall",
+    "overall_gain": 2513.3638899979996,
+    "active_positions": 1,
+    "win_amount": 5614.591182,
+    "loss_amount": -3101.2272920020005,
+    "win_rate": 0.4482758620689655,
+    "total_current_value": 0,
+    "total_positions": 46,
+    "event_ct": 29,
+    "win_count": 13,
+    "rank": 32900,
+    "trader_tags": "> 1 year old"
   }
 ]
