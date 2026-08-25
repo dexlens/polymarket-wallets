@@ -1278,5 +1278,21 @@
     "win_count": 10,
     "rank": 45881,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x87293a0b076b6896d1158fdd5409a0ad509603d6",
+    "trader_name": "nxvrus",
+    "tag": "Overall",
+    "overall_gain": 1672.1246770000002,
+    "active_positions": 2,
+    "win_amount": 4258.009077,
+    "loss_amount": -2585.8844,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 0.000025,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 24,
+    "rank": 45882,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
