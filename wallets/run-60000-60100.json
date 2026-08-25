@@ -894,5 +894,21 @@
     "win_count": 5,
     "rank": 60057,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x0ecedc37ca604dd79c41212b339d9989b3cc7351",
+    "trader_name": "rectify",
+    "tag": "Overall",
+    "overall_gain": 1074.595532026074,
+    "active_positions": 0,
+    "win_amount": 1079.889647943703,
+    "loss_amount": -5.294115917629,
+    "win_rate": 0.75,
+    "total_current_value": 0.011996055,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 60058,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
