@@ -990,5 +990,21 @@
     "win_count": 2,
     "rank": 20862,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa7da4187c80b742afe5813281c11166f391c4c2e",
+    "trader_name": "kamano",
+    "tag": "Overall",
+    "overall_gain": 4398.280409999999,
+    "active_positions": 13,
+    "win_amount": 15258.258999999998,
+    "loss_amount": -10859.978589999999,
+    "win_rate": 0.5434782608695652,
+    "total_current_value": 0,
+    "total_positions": 46,
+    "event_ct": 46,
+    "win_count": 25,
+    "rank": 20863,
+    "trader_tags": ""
   }
 ]
