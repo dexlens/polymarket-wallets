@@ -734,5 +734,21 @@
     "win_count": 5,
     "rank": 9546,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xda3d5e5f3da6fee97b00e8fedf8c7ead86e9b97f",
+    "trader_name": "vivianre",
+    "tag": "Overall",
+    "overall_gain": 10968,
+    "active_positions": 0,
+    "win_amount": 10968,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9547,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
