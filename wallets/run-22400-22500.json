@@ -30,5 +30,21 @@
     "win_count": 29,
     "rank": 22402,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73717594077255fce14a2f419124c227c964cade",
+    "trader_name": "predict000r",
+    "tag": "Overall",
+    "overall_gain": 4032.237125336369,
+    "active_positions": 21,
+    "win_amount": 6785.33969048425,
+    "loss_amount": -2753.1025651478785,
+    "win_rate": 0.7244094488188977,
+    "total_current_value": 11935.6179127105,
+    "total_positions": 200,
+    "event_ct": 127,
+    "win_count": 92,
+    "rank": 22403,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
