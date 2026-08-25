@@ -1102,5 +1102,21 @@
     "win_count": 58,
     "rank": 38370,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d4ea285e49a6ce4e380bf89e8a36e6df57dec41",
+    "trader_name": "Daggerswift",
+    "tag": "Overall",
+    "overall_gain": 2094.5,
+    "active_positions": 2,
+    "win_amount": 2686,
+    "loss_amount": -591.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 38371,
+    "trader_tags": ""
   }
 ]
