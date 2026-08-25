@@ -238,5 +238,21 @@
     "win_count": 12,
     "rank": 8815,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc82fbfb246d829366d3a2606c5d0d89b8e54670f",
+    "trader_name": "Elunira",
+    "tag": "Overall",
+    "overall_gain": 11886.389873819537,
+    "active_positions": 5,
+    "win_amount": 13696.744370999999,
+    "loss_amount": -1810.3544971804629,
+    "win_rate": 0.825,
+    "total_current_value": 0,
+    "total_positions": 41,
+    "event_ct": 40,
+    "win_count": 33,
+    "rank": 8816,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
