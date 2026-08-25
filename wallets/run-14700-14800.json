@@ -782,5 +782,21 @@
     "win_count": 60,
     "rank": 14749,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc9b032560d77916b1db34c3a990b6fd5629690fc",
+    "trader_name": "HJKEDG",
+    "tag": "Overall",
+    "overall_gain": 6650.612799838,
+    "active_positions": 3,
+    "win_amount": 6659.140799838,
+    "loss_amount": -8.527999999999999,
+    "win_rate": 0.9,
+    "total_current_value": 27.672559,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 14750,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
