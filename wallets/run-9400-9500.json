@@ -1214,5 +1214,21 @@
     "win_count": 19,
     "rank": 9476,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15baf4c69fc407095b654fabea821d0af870bf08",
+    "trader_name": "Ph03n1",
+    "tag": "Overall",
+    "overall_gain": 11060.08,
+    "active_positions": 1,
+    "win_amount": 11060.08,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1.808,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9477,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
