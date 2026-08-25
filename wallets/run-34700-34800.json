@@ -62,5 +62,21 @@
     "win_count": 5,
     "rank": 34705,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d64c424270a6f509c73f9094aea99013be321ca",
+    "trader_name": "Odontalgia",
+    "tag": "Overall",
+    "overall_gain": 2365,
+    "active_positions": 0,
+    "win_amount": 2365,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 34706,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
