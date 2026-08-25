@@ -1486,5 +1486,21 @@
     "win_count": 10,
     "rank": 66994,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03012af3fa7d220defd0f73bd709882b5686f357",
+    "trader_name": "gardeneer36",
+    "tag": "Overall",
+    "overall_gain": 889.5,
+    "active_positions": 4,
+    "win_amount": 2063.5,
+    "loss_amount": -1174,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 66995,
+    "trader_tags": ""
   }
 ]
