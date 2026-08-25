@@ -782,5 +782,21 @@
     "win_count": 50,
     "rank": 48950,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6b6af3ca44efa75a5332aba82488f54b4dc879fd",
+    "trader_name": "hollowstrike",
+    "tag": "Overall",
+    "overall_gain": 1530.644865389805,
+    "active_positions": 3,
+    "win_amount": 1536.13848235,
+    "loss_amount": -5.493616960195,
+    "win_rate": 0.9354838709677419,
+    "total_current_value": 180.2305405025,
+    "total_positions": 33,
+    "event_ct": 31,
+    "win_count": 29,
+    "rank": 48951,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
