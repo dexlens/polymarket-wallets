@@ -590,5 +590,21 @@
     "win_count": 5,
     "rank": 20837,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89464223b00d829ee865e2d73f88297a29591b70",
+    "trader_name": "BelugaBets",
+    "tag": "Overall",
+    "overall_gain": 4403.453629387418,
+    "active_positions": 11,
+    "win_amount": 10904.154331753669,
+    "loss_amount": -6500.70070236625,
+    "win_rate": 0.5789473684210527,
+    "total_current_value": 0.160163,
+    "total_positions": 116,
+    "event_ct": 95,
+    "win_count": 55,
+    "rank": 20838,
+    "trader_tags": "> 1 year old"
   }
 ]
