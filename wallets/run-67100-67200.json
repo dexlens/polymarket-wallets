@@ -1470,5 +1470,21 @@
     "win_count": 16,
     "rank": 67193,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x81c636004876f0ee2256719c821482d710efb526",
+    "trader_name": "coinlista",
+    "tag": "Overall",
+    "overall_gain": 883.6564253150051,
+    "active_positions": 3,
+    "win_amount": 923.6563521716121,
+    "loss_amount": -39.999926856607004,
+    "win_rate": 0.875,
+    "total_current_value": 0.020329999999999997,
+    "total_positions": 17,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 67194,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
