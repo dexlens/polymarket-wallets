@@ -878,5 +878,21 @@
     "win_count": 8,
     "rank": 7355,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xacacde0955e5f6a8bbb23cfed246b8a2f376174b",
+    "trader_name": "donnelli",
+    "tag": "Overall",
+    "overall_gain": 14466.958991999998,
+    "active_positions": 0,
+    "win_amount": 14630.237992,
+    "loss_amount": -163.279,
+    "win_rate": 0.5789473684210527,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 19,
+    "win_count": 11,
+    "rank": 7356,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
