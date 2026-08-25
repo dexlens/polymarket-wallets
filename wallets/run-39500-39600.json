@@ -846,5 +846,21 @@
     "win_count": 14,
     "rank": 39554,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x029ef14dade1bba205cdb739ab0e1f2635e10159",
+    "trader_name": "Fit",
+    "tag": "Overall",
+    "overall_gain": 2018.025005873845,
+    "active_positions": 1,
+    "win_amount": 4167.2238711687705,
+    "loss_amount": -2149.198865294925,
+    "win_rate": 0.52,
+    "total_current_value": 0.03578,
+    "total_positions": 61,
+    "event_ct": 50,
+    "win_count": 26,
+    "rank": 39555,
+    "trader_tags": "> 1 year old"
   }
 ]
