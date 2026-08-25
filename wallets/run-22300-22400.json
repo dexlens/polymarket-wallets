@@ -302,5 +302,21 @@
     "win_count": 14,
     "rank": 22319,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x97a9229dbf7ef86bc4579e320971037b43b76646",
+    "trader_name": "hfs3m",
+    "tag": "Overall",
+    "overall_gain": 4049.3104186676633,
+    "active_positions": 2,
+    "win_amount": 5065.110407356554,
+    "loss_amount": -1015.7999886888899,
+    "win_rate": 0.9393939393939394,
+    "total_current_value": 0.001553,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 31,
+    "rank": 22320,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
