@@ -1102,5 +1102,21 @@
     "win_count": 3,
     "rank": 18769,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd713f0d2761a77f7834dcbbbc8a25abc319daf79",
+    "trader_name": "swolfStrikes",
+    "tag": "Overall",
+    "overall_gain": 4960.509049890959,
+    "active_positions": 43,
+    "win_amount": 7577.408104561577,
+    "loss_amount": -2616.899054670617,
+    "win_rate": 0.8536585365853658,
+    "total_current_value": 21983.2072613375,
+    "total_positions": 1619,
+    "event_ct": 82,
+    "win_count": 70,
+    "rank": 18770,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
