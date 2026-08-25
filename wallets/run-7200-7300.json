@@ -126,5 +126,21 @@
     "win_count": 2,
     "rank": 7208,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x80ab6ab7646efb38367ea5a180f29042fab16c7a",
+    "trader_name": "InsuranceSavesMe",
+    "tag": "Overall",
+    "overall_gain": 14821.063094241814,
+    "active_positions": 8,
+    "win_amount": 34648.29818577933,
+    "loss_amount": -19827.235091537532,
+    "win_rate": 0.9088416723783413,
+    "total_current_value": 2564.113446,
+    "total_positions": 3805,
+    "event_ct": 2918,
+    "win_count": 2652,
+    "rank": 7209,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
