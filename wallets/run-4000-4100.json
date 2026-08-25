@@ -734,5 +734,21 @@
     "win_count": 29,
     "rank": 4046,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x374e8ba7a5eb47dcb2734b500918997eb0f523bc",
+    "trader_name": "JoeMamma - 493",
+    "tag": "Overall",
+    "overall_gain": 27715.480883959448,
+    "active_positions": 0,
+    "win_amount": 32200.286915251552,
+    "loss_amount": -4484.806031292107,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 8.9700765177339e-7,
+    "total_positions": 32,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 4047,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
