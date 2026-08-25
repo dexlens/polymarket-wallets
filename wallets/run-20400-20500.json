@@ -1198,5 +1198,21 @@
     "win_count": 2,
     "rank": 20475,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe1ba9939ede6edbddcfda49f50fcf357d21442eb",
+    "trader_name": "RadarBull",
+    "tag": "Overall",
+    "overall_gain": 4504.655982,
+    "active_positions": 0,
+    "win_amount": 4555.255982,
+    "loss_amount": -50.6,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 20476,
+    "trader_tags": "> 1 year old"
   }
 ]
