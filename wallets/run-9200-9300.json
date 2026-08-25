@@ -1294,5 +1294,21 @@
     "win_count": 2323,
     "rank": 9281,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x85f8a94c3104b183ad46b421dc61e9cbd70160cd",
+    "trader_name": "bovada",
+    "tag": "Overall",
+    "overall_gain": 11295.594682,
+    "active_positions": 1,
+    "win_amount": 11355.539682,
+    "loss_amount": -59.945,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 9282,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
