@@ -1262,5 +1262,21 @@
     "win_count": 70,
     "rank": 25280,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x458998032684feca4f5821c7507a342cdf3c0bdd",
+    "trader_name": "galileonew",
+    "tag": "Overall",
+    "overall_gain": 3493.0773685092213,
+    "active_positions": 103,
+    "win_amount": 8820.985794089196,
+    "loss_amount": -5327.908425579975,
+    "win_rate": 0.9329974811083124,
+    "total_current_value": 4.1452621555,
+    "total_positions": 1996,
+    "event_ct": 1985,
+    "win_count": 1852,
+    "rank": 25281,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
