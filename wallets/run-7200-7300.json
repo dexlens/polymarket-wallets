@@ -1230,5 +1230,21 @@
     "win_count": 18,
     "rank": 7277,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ace1d05f01c1f6f3c687c9cd6cdfdfa4f18af32",
+    "trader_name": "Aerno",
+    "tag": "Overall",
+    "overall_gain": 14680.113597432128,
+    "active_positions": 0,
+    "win_amount": 14680.113597432128,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005306,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7278,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
