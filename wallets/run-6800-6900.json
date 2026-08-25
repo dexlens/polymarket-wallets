@@ -702,5 +702,21 @@
     "win_count": 6,
     "rank": 6844,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7c2ef6a1d5ae80a326a7e63234cdc497b57b9e01",
+    "trader_name": "david.38",
+    "tag": "Overall",
+    "overall_gain": 15657.873187164172,
+    "active_positions": 63,
+    "win_amount": 57794.63163107529,
+    "loss_amount": -42136.7584439111,
+    "win_rate": 0.5621890547263682,
+    "total_current_value": 0.5281799999999999,
+    "total_positions": 309,
+    "event_ct": 201,
+    "win_count": 113,
+    "rank": 6845,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
