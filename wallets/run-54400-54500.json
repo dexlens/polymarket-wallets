@@ -462,5 +462,21 @@
     "win_count": 25,
     "rank": 54430,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97da2ed2317a18d6b01f94e58f53c3c97ed4d63b",
+    "trader_name": "tedmosby",
+    "tag": "Overall",
+    "overall_gain": 1284.293541388686,
+    "active_positions": 4,
+    "win_amount": 7881.964694847967,
+    "loss_amount": -6597.671153459281,
+    "win_rate": 0.5054545454545455,
+    "total_current_value": 0.002223,
+    "total_positions": 281,
+    "event_ct": 275,
+    "win_count": 139,
+    "rank": 54431,
+    "trader_tags": "> 1 year old"
   }
 ]
