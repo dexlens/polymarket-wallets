@@ -1086,5 +1086,21 @@
     "win_count": 50,
     "rank": 13768,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x693f91d6fb1bafb02563b2d5c510f8675e263747",
+    "trader_name": "test-ying",
+    "tag": "Overall",
+    "overall_gain": 7181.960733593807,
+    "active_positions": 6126,
+    "win_amount": 28917.818795757972,
+    "loss_amount": -21735.858062164163,
+    "win_rate": 0.07277882797731569,
+    "total_current_value": 0.361342,
+    "total_positions": 13653,
+    "event_ct": 12696,
+    "win_count": 924,
+    "rank": 13769,
+    "trader_tags": "1k+ Positions"
   }
 ]
