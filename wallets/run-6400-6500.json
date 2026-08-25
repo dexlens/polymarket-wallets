@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 6493,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf58b1c1340d6f8c0871e8ea8ee7b80ec6b8a5f34",
+    "trader_name": "muddyrc",
+    "tag": "Overall",
+    "overall_gain": 16508.962984741298,
+    "active_positions": 50,
+    "win_amount": 39080.43417766096,
+    "loss_amount": -22571.471192919656,
+    "win_rate": 0.4612159329140461,
+    "total_current_value": 12315.089017219998,
+    "total_positions": 721,
+    "event_ct": 477,
+    "win_count": 220,
+    "rank": 6494,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
