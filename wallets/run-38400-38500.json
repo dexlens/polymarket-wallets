@@ -1294,5 +1294,21 @@
     "win_count": 2,
     "rank": 38482,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2fa8cb9bad9411f7cc50fc4ce773ab37312c4f57",
+    "trader_name": "ncsr",
+    "tag": "Overall",
+    "overall_gain": 2087.4737990570006,
+    "active_positions": 0,
+    "win_amount": 2087.4737990570006,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003271,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 38483,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
