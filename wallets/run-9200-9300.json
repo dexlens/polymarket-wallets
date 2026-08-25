@@ -46,5 +46,21 @@
     "win_count": 18,
     "rank": 9203,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x91d9dad9a62e0ce4cf3518035ebb1f5dcb5856da",
+    "trader_name": "Robina",
+    "tag": "Overall",
+    "overall_gain": 11386.421126,
+    "active_positions": 0,
+    "win_amount": 11473.370963,
+    "loss_amount": -86.94983699999999,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 30,
+    "event_ct": 18,
+    "win_count": 16,
+    "rank": 9204,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
