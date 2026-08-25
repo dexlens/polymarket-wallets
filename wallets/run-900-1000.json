@@ -526,5 +526,21 @@
     "win_count": 12,
     "rank": 933,
     "trader_tags": "Overall PnL > $100k; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x07e78f5f58f8fa839f298cfe3fefd258883aa343",
+    "trader_name": "Spon",
+    "tag": "Overall",
+    "overall_gain": 131648.2373601729,
+    "active_positions": 127,
+    "win_amount": 134215.26759937903,
+    "loss_amount": -2567.030239206152,
+    "win_rate": 0.7767857142857143,
+    "total_current_value": 131736.5963473935,
+    "total_positions": 1243,
+    "event_ct": 224,
+    "win_count": 174,
+    "rank": 934,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions; Sports PnL > $100k"
   }
 ]
