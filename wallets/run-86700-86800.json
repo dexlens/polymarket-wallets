@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 86774,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x254374bdcd56dc1062491781d19a81171326150e",
+    "trader_name": "Soiltimer",
+    "tag": "Overall",
+    "overall_gain": 528.5,
+    "active_positions": 3,
+    "win_amount": 1882.5,
+    "loss_amount": -1354,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 86775,
+    "trader_tags": ""
   }
 ]
