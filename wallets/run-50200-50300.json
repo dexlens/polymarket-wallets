@@ -686,5 +686,21 @@
     "win_count": 6,
     "rank": 50244,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9fe5a640e14998694ef1f64b742644926025995c",
+    "trader_name": "jmdrsdee",
+    "tag": "Overall",
+    "overall_gain": 1473.5653240349961,
+    "active_positions": 1,
+    "win_amount": 3273.565324034996,
+    "loss_amount": -1800,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.020473529999999997,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 50245,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
