@@ -814,5 +814,21 @@
     "win_count": 7,
     "rank": 62752,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0e3a95615efc0536365534f473fd2bf47bf85984",
+    "trader_name": "moau",
+    "tag": "Overall",
+    "overall_gain": 1003.522339811369,
+    "active_positions": 7,
+    "win_amount": 2998.9090740000006,
+    "loss_amount": -1995.3867341886307,
+    "win_rate": 0.7307692307692307,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 19,
+    "rank": 62753,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
