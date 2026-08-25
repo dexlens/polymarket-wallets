@@ -926,5 +926,21 @@
     "win_count": 312,
     "rank": 41859,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91a34ea689b8c2cbedb212816e97d69f772e4361",
+    "trader_name": "banded1",
+    "tag": "Overall",
+    "overall_gain": 1884.4806000000005,
+    "active_positions": 6,
+    "win_amount": 6948.830599999999,
+    "loss_amount": -5064.35,
+    "win_rate": 0.4444444444444444,
+    "total_current_value": 5.18,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 4,
+    "rank": 41860,
+    "trader_tags": ""
   }
 ]
