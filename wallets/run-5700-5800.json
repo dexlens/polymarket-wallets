@@ -78,5 +78,21 @@
     "win_count": 1,
     "rank": 5705,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ac130ba3b2a5fcff85c62afe18760f45db345db",
+    "trader_name": "BLACKMAMBA443322",
+    "tag": "Overall",
+    "overall_gain": 18878.966249091583,
+    "active_positions": 7,
+    "win_amount": 90361.30453360092,
+    "loss_amount": -71482.33828450931,
+    "win_rate": 0.5813953488372093,
+    "total_current_value": 0.0009080000000000001,
+    "total_positions": 91,
+    "event_ct": 86,
+    "win_count": 50,
+    "rank": 5706,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
