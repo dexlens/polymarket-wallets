@@ -254,5 +254,21 @@
     "win_count": 16,
     "rank": 4616,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3c234480fd20d8f5894b38be85563d50fca77743",
+    "trader_name": "jowardmayw",
+    "tag": "Overall",
+    "overall_gain": 23824.579836300003,
+    "active_positions": 0,
+    "win_amount": 23856.2498113,
+    "loss_amount": -31.669974999999997,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.0001,
+    "total_positions": 25,
+    "event_ct": 18,
+    "win_count": 15,
+    "rank": 4617,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
