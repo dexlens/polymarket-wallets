@@ -1118,5 +1118,21 @@
     "win_count": 10,
     "rank": 56871,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x383d49468784965cfd51dd79b39d46ef966387ea",
+    "trader_name": "EchoBot",
+    "tag": "Overall",
+    "overall_gain": 1184.1174792787438,
+    "active_positions": 611,
+    "win_amount": 18046.79015293379,
+    "loss_amount": -16862.672673655048,
+    "win_rate": 0.5398936170212766,
+    "total_current_value": 1631.8461330139994,
+    "total_positions": 1965,
+    "event_ct": 1128,
+    "win_count": 609,
+    "rank": 56872,
+    "trader_tags": "1k+ Positions"
   }
 ]
