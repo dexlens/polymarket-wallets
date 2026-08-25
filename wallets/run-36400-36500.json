@@ -1214,5 +1214,21 @@
     "win_count": 2,
     "rank": 36477,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e9bd49e22ec3b87b98b9ae94042679f31e15965",
+    "trader_name": "Alkonost",
+    "tag": "Overall",
+    "overall_gain": 2226.5,
+    "active_positions": 0,
+    "win_amount": 2226.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 36478,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
