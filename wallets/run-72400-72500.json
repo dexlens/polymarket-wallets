@@ -1502,5 +1502,21 @@
     "win_count": 4,
     "rank": 72495,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x99d2a93de27a3e28bf5350d2638d831237612bbe",
+    "trader_name": "chesee",
+    "tag": "Overall",
+    "overall_gain": 755.314945916737,
+    "active_positions": 1,
+    "win_amount": 755.314945916737,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.002103,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 11,
+    "rank": 72496,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
