@@ -910,5 +910,21 @@
     "win_count": 1,
     "rank": 79558,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x868aeed4a99ea128d79d738890100722ebb38169",
+    "trader_name": "JaxonReady",
+    "tag": "Overall",
+    "overall_gain": 637.955978188356,
+    "active_positions": 1,
+    "win_amount": 638.8271807400021,
+    "loss_amount": -0.8712025516460006,
+    "win_rate": 0.15384615384615385,
+    "total_current_value": 4.702199999999999,
+    "total_positions": 35,
+    "event_ct": 26,
+    "win_count": 4,
+    "rank": 79559,
+    "trader_tags": ""
   }
 ]
