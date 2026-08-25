@@ -222,5 +222,21 @@
     "win_count": 113,
     "rank": 9114,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7f89ae55d7a8ee27c671bd5eca5bbb043e5a38f4",
+    "trader_name": "sgbh43",
+    "tag": "Overall",
+    "overall_gain": 11498,
+    "active_positions": 1,
+    "win_amount": 11733,
+    "loss_amount": -235,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 9115,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
