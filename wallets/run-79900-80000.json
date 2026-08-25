@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 79933,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1ae9558b150104c62606956ebe2ae6bc2ee8e9f3",
+    "trader_name": "melonlord16",
+    "tag": "Overall",
+    "overall_gain": 631.600376461781,
+    "active_positions": 1772,
+    "win_amount": 7927.685908624094,
+    "loss_amount": -7296.085532162313,
+    "win_rate": 0.4882319173363949,
+    "total_current_value": 13.454094,
+    "total_positions": 10408,
+    "event_ct": 6968,
+    "win_count": 3402,
+    "rank": 79934,
+    "trader_tags": "1k+ Positions"
   }
 ]
