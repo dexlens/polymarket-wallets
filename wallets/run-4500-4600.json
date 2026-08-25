@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 4559,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8fe9f78102c6f550b6bb88ba695e45917df2c6dc",
+    "trader_name": "polbotlogi",
+    "tag": "Overall",
+    "overall_gain": 24184.50616129948,
+    "active_positions": 1,
+    "win_amount": 67118.48098970423,
+    "loss_amount": -42933.97482840476,
+    "win_rate": 0.5919463087248322,
+    "total_current_value": 956.5738946050001,
+    "total_positions": 828,
+    "event_ct": 745,
+    "win_count": 441,
+    "rank": 4560,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
