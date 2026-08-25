@@ -1342,5 +1342,21 @@
     "win_count": 84,
     "rank": 87685,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe055257f722f55eea5223e60d8996c15c6a58df9",
+    "trader_name": "CrackedTrader",
+    "tag": "Overall",
+    "overall_gain": 516.6514765337081,
+    "active_positions": 32,
+    "win_amount": 549.8285002277271,
+    "loss_amount": -33.177023694019,
+    "win_rate": 0.8064516129032258,
+    "total_current_value": 330.3117300805,
+    "total_positions": 90,
+    "event_ct": 31,
+    "win_count": 25,
+    "rank": 87686,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
