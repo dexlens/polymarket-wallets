@@ -1486,5 +1486,21 @@
     "win_count": 23,
     "rank": 25094,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x76c6da0dc2c1544fdeb31feaad09d38664245a68",
+    "trader_name": "Aldufeira",
+    "tag": "Overall",
+    "overall_gain": 3521.5142910000004,
+    "active_positions": 0,
+    "win_amount": 8646.735404000001,
+    "loss_amount": -5125.2211130000005,
+    "win_rate": 0.6170212765957447,
+    "total_current_value": 0,
+    "total_positions": 51,
+    "event_ct": 47,
+    "win_count": 29,
+    "rank": 25095,
+    "trader_tags": "> 1 year old"
   }
 ]
