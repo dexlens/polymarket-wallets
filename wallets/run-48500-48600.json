@@ -766,5 +766,21 @@
     "win_count": 9,
     "rank": 48549,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x35d66c7dc1ae20456855a7ef42bc2b11523b9d27",
+    "trader_name": "lubing",
+    "tag": "Overall",
+    "overall_gain": 1547.4265673867837,
+    "active_positions": 6,
+    "win_amount": 2080.6329681222896,
+    "loss_amount": -533.206400735505,
+    "win_rate": 0.8191489361702128,
+    "total_current_value": 1371.5658629195002,
+    "total_positions": 104,
+    "event_ct": 94,
+    "win_count": 77,
+    "rank": 48550,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
