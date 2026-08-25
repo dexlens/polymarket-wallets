@@ -1358,5 +1358,21 @@
     "win_count": 3,
     "rank": 23886,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x60a296380bdca77c9c0ce1756f60859a19a43895",
+    "trader_name": "Nycor",
+    "tag": "Overall",
+    "overall_gain": 3740.04,
+    "active_positions": 1,
+    "win_amount": 4000.04,
+    "loss_amount": -260,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 23887,
+    "trader_tags": ""
   }
 ]
