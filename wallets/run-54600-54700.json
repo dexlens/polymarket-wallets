@@ -878,5 +878,21 @@
     "win_count": 21,
     "rank": 54656,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74fa205364bde941cf39a214d6f8cb93e9b62003",
+    "trader_name": "Solente",
+    "tag": "Overall",
+    "overall_gain": 1273.7612956511898,
+    "active_positions": 0,
+    "win_amount": 1366.5671276511896,
+    "loss_amount": -92.805832,
+    "win_rate": 0.9314285714285714,
+    "total_current_value": 0,
+    "total_positions": 259,
+    "event_ct": 175,
+    "win_count": 163,
+    "rank": 54657,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
