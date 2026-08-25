@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 49787,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x92f7268b62ff2f271fa9782e51b1a8db9847b6f7",
+    "trader_name": "varui",
+    "tag": "Overall",
+    "overall_gain": 1492.7555785200739,
+    "active_positions": 11,
+    "win_amount": 1503.9591166114417,
+    "loss_amount": -11.203538091368001,
+    "win_rate": 0.88,
+    "total_current_value": 4.9952754655,
+    "total_positions": 100,
+    "event_ct": 100,
+    "win_count": 88,
+    "rank": 49788,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
