@@ -206,5 +206,21 @@
     "win_count": 6,
     "rank": 25914,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x02f236089fd732eddb8af783cce967d4da122cd0",
+    "trader_name": "Adroit",
+    "tag": "Overall",
+    "overall_gain": 3387.2365769092175,
+    "active_positions": 19,
+    "win_amount": 116731.65868002246,
+    "loss_amount": -113344.42210311323,
+    "win_rate": 0.2898550724637681,
+    "total_current_value": 0.050285,
+    "total_positions": 116,
+    "event_ct": 69,
+    "win_count": 20,
+    "rank": 25915,
+    "trader_tags": "> 1 year old"
   }
 ]
