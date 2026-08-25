@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 9932,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x945bccea4eeb353bf459e95c7c98ad8f3557e533",
+    "trader_name": "hhkekekekke",
+    "tag": "Overall",
+    "overall_gain": 10560.9883194716,
+    "active_positions": 125,
+    "win_amount": 25833.25543577135,
+    "loss_amount": -15272.267116299756,
+    "win_rate": 0.5975609756097561,
+    "total_current_value": 528.1350260000002,
+    "total_positions": 1640,
+    "event_ct": 820,
+    "win_count": 490,
+    "rank": 9933,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
