@@ -286,5 +286,21 @@
     "win_count": 34,
     "rank": 6318,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdec666674a78ff178668dd1fd034219827921d8e",
+    "trader_name": "lalabihun",
+    "tag": "Overall",
+    "overall_gain": 16940.455284718446,
+    "active_positions": 1,
+    "win_amount": 119378.76298689844,
+    "loss_amount": -102438.30770218,
+    "win_rate": 0.48466257668711654,
+    "total_current_value": 0.005953,
+    "total_positions": 176,
+    "event_ct": 163,
+    "win_count": 79,
+    "rank": 6319,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
