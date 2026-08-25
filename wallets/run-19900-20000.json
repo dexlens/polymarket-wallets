@@ -670,5 +670,21 @@
     "win_count": 6,
     "rank": 19942,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaf27b7d8b1d5942abd0498ce418fb0ae1eb25f0f",
+    "trader_name": "vort",
+    "tag": "Overall",
+    "overall_gain": 4641.107435976457,
+    "active_positions": 1,
+    "win_amount": 7984.666888413989,
+    "loss_amount": -3343.559452437531,
+    "win_rate": 0.691358024691358,
+    "total_current_value": 0.155716,
+    "total_positions": 150,
+    "event_ct": 81,
+    "win_count": 56,
+    "rank": 19943,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
