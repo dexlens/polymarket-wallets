@@ -46,5 +46,21 @@
     "win_count": 5,
     "rank": 50404,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf13242c0f5ed15fe9aec0c5eab40a2a8dbafc706",
+    "trader_name": "Supn",
+    "tag": "Overall",
+    "overall_gain": 1466.4742886514437,
+    "active_positions": 1610,
+    "win_amount": 4609.911699160951,
+    "loss_amount": -3143.4374105095076,
+    "win_rate": 0.15123859191655803,
+    "total_current_value": 4.467643415500002,
+    "total_positions": 2014,
+    "event_ct": 767,
+    "win_count": 116,
+    "rank": 50405,
+    "trader_tags": "1k+ Positions"
   }
 ]
