@@ -478,5 +478,21 @@
     "win_count": 8,
     "rank": 10630,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2f25195b3acd27acf70042dd868157d013d872eb",
+    "trader_name": "romerowin",
+    "tag": "Overall",
+    "overall_gain": 9956.136632405043,
+    "active_positions": 1,
+    "win_amount": 16314.186171405043,
+    "loss_amount": -6358.049539,
+    "win_rate": 0.5,
+    "total_current_value": 1029.1335301390002,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 10631,
+    "trader_tags": ""
   }
 ]
