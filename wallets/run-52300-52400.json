@@ -1086,5 +1086,21 @@
     "win_count": 27,
     "rank": 52369,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ebb7d44f1a05f0e442af69fb995e0c627037e02",
+    "trader_name": "h0umis",
+    "tag": "Overall",
+    "overall_gain": 1374.66057495,
+    "active_positions": 64,
+    "win_amount": 6250.941637000001,
+    "loss_amount": -4876.2810620499995,
+    "win_rate": 0.5548780487804879,
+    "total_current_value": 976.889996,
+    "total_positions": 202,
+    "event_ct": 164,
+    "win_count": 91,
+    "rank": 52370,
+    "trader_tags": "< 30 days old"
   }
 ]
