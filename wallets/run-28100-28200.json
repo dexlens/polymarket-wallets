@@ -62,5 +62,21 @@
     "win_count": 33,
     "rank": 28105,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x502b6be3b73588f2e480de130fd21a5339ecf3a1",
+    "trader_name": "Frdost",
+    "tag": "Overall",
+    "overall_gain": 3052,
+    "active_positions": 2,
+    "win_amount": 3642.5,
+    "loss_amount": -590.5,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 28106,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
