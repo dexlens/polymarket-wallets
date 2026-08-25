@@ -542,5 +542,21 @@
     "win_count": 10,
     "rank": 30535,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x828900c684695d76cb165ede935ee9138a2b88db",
+    "trader_name": "SayYesToProject2025",
+    "tag": "Overall",
+    "overall_gain": 2755.911881152127,
+    "active_positions": 10,
+    "win_amount": 3095.609239720468,
+    "loss_amount": -339.697358568341,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.046536999999999995,
+    "total_positions": 29,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 30536,
+    "trader_tags": "> 1 year old"
   }
 ]
