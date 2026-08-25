@@ -622,5 +622,21 @@
     "win_count": 5,
     "rank": 29940,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6549566d21f7cce0dc6b95c2a9bd6ebc1767eb80",
+    "trader_name": "vesw",
+    "tag": "Overall",
+    "overall_gain": 2827.3545317723506,
+    "active_positions": 11,
+    "win_amount": 3791.1936070252323,
+    "loss_amount": -963.8390752528819,
+    "win_rate": 0.8076923076923077,
+    "total_current_value": 0.09321000000000002,
+    "total_positions": 187,
+    "event_ct": 26,
+    "win_count": 21,
+    "rank": 29941,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
