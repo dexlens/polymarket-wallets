@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 44667,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c7fe79e089b3548ef47dbf98b5e07b80c34eb6d",
+    "trader_name": "baba2787",
+    "tag": "Overall",
+    "overall_gain": 1729.1151143439702,
+    "active_positions": 77,
+    "win_amount": 7240.291375649004,
+    "loss_amount": -5511.176261305035,
+    "win_rate": 0.8628875968992248,
+    "total_current_value": 34.56686720500001,
+    "total_positions": 4156,
+    "event_ct": 4128,
+    "win_count": 3562,
+    "rank": 44668,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
