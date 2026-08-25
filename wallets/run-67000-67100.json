@@ -558,5 +558,21 @@
     "win_count": 15,
     "rank": 67036,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x47b9249c4e09f75204d95f444be7dc16e0a53ca2",
+    "trader_name": "Zugzwang1",
+    "tag": "Overall",
+    "overall_gain": 888.1243427899999,
+    "active_positions": 0,
+    "win_amount": 2502.90583579,
+    "loss_amount": -1614.781493,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 0.00008900000000000001,
+    "total_positions": 17,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 67037,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
