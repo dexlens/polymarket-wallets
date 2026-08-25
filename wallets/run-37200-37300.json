@@ -270,5 +270,21 @@
     "win_count": 1,
     "rank": 37218,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91a2cc1cd59abbe0f70d97cf5b6d706591e0ee5f",
+    "trader_name": "ping_05",
+    "tag": "Overall",
+    "overall_gain": 2174.404887381609,
+    "active_positions": 17,
+    "win_amount": 3078.5853381192337,
+    "loss_amount": -904.1804507376239,
+    "win_rate": 0.42,
+    "total_current_value": 20.806674419,
+    "total_positions": 76,
+    "event_ct": 50,
+    "win_count": 21,
+    "rank": 37219,
+    "trader_tags": "> 1 year old"
   }
 ]
