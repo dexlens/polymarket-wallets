@@ -878,5 +878,21 @@
     "win_count": 5,
     "rank": 10155,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xca4195e88f38da25f69dbdc8d56d25777aaa0616",
+    "trader_name": "FirstAfterGod",
+    "tag": "Overall",
+    "overall_gain": 10346.694153199913,
+    "active_positions": 1,
+    "win_amount": 10446.589223187413,
+    "loss_amount": -99.89506998750001,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.041054,
+    "total_positions": 11,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 10156,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
