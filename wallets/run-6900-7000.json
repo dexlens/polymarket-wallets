@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 6925,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x17a55b84d39e643e0a28a5f7a529d5254c7dc36f",
+    "trader_name": "yoshi92",
+    "tag": "Overall",
+    "overall_gain": 15483.014324869617,
+    "active_positions": 9,
+    "win_amount": 24749.79412274096,
+    "loss_amount": -9266.779797871344,
+    "win_rate": 0.16666666666666666,
+    "total_current_value": 0.020097530000000002,
+    "total_positions": 38,
+    "event_ct": 30,
+    "win_count": 5,
+    "rank": 6926,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
