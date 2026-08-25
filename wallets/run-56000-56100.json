@@ -734,5 +734,21 @@
     "win_count": 3,
     "rank": 56047,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb39177def1c005b4751bad4479e9139684273b18",
+    "trader_name": "Orion-Pax",
+    "tag": "Overall",
+    "overall_gain": 1216.887533130601,
+    "active_positions": 10,
+    "win_amount": 3318.816356164537,
+    "loss_amount": -2101.9288230339366,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 193.7596272285,
+    "total_positions": 74,
+    "event_ct": 63,
+    "win_count": 36,
+    "rank": 56048,
+    "trader_tags": "> 1 year old"
   }
 ]
