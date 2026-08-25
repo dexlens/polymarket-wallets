@@ -1294,5 +1294,21 @@
     "win_count": 10,
     "rank": 7481,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1c37eefe1582e51fc1016dd2922564f1d19618de",
+    "trader_name": "itscherry",
+    "tag": "Overall",
+    "overall_gain": 14182.731663657032,
+    "active_positions": 1,
+    "win_amount": 14182.731663657032,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 173048.482361175,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7482,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
