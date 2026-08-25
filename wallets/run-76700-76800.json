@@ -1326,5 +1326,21 @@
     "win_count": 16,
     "rank": 76784,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b4a98755bf6bab38d9b212d8d39b6b934a0b994",
+    "trader_name": "loape",
+    "tag": "Overall",
+    "overall_gain": 685.677469400596,
+    "active_positions": 5,
+    "win_amount": 1145.827634,
+    "loss_amount": -460.150164599404,
+    "win_rate": 0.5,
+    "total_current_value": 0.009493,
+    "total_positions": 20,
+    "event_ct": 14,
+    "win_count": 7,
+    "rank": 76785,
+    "trader_tags": ""
   }
 ]
