@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 52526,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe8b1d4f119405ccf0c53666d16e5af2080595dc6",
+    "trader_name": "COA1",
+    "tag": "Overall",
+    "overall_gain": 1368.4929926099267,
+    "active_positions": 5,
+    "win_amount": 1693.9257484321784,
+    "loss_amount": -325.432755822252,
+    "win_rate": 0.6885245901639344,
+    "total_current_value": 168.59600974050008,
+    "total_positions": 140,
+    "event_ct": 61,
+    "win_count": 42,
+    "rank": 52527,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
