@@ -734,5 +734,21 @@
     "win_count": 149,
     "rank": 1546,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9238743eeba8bbfe9e85ac7ba2e1e3d77877b73e",
+    "trader_name": "leCommissaire",
+    "tag": "Overall",
+    "overall_gain": 78276.13385698806,
+    "active_positions": 72,
+    "win_amount": 96704.84600649639,
+    "loss_amount": -18428.7121495083,
+    "win_rate": 0.5403141361256545,
+    "total_current_value": 21178.298780578,
+    "total_positions": 1672,
+    "event_ct": 955,
+    "win_count": 516,
+    "rank": 1547,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
