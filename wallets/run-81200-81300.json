@@ -1486,5 +1486,21 @@
     "win_count": 4,
     "rank": 81294,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57c860a0cb46d1b8557629d4a310fd42654c4854",
+    "trader_name": "bvqwwqe",
+    "tag": "Overall",
+    "overall_gain": 609.5780652985519,
+    "active_positions": 1,
+    "win_amount": 637.9298302985519,
+    "loss_amount": -28.351764999999997,
+    "win_rate": 0.3181818181818182,
+    "total_current_value": 6.072552000000001,
+    "total_positions": 28,
+    "event_ct": 22,
+    "win_count": 7,
+    "rank": 81295,
+    "trader_tags": "> 1 year old"
   }
 ]
