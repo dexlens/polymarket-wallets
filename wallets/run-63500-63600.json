@@ -1086,5 +1086,21 @@
     "win_count": 355,
     "rank": 63569,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9423839ef483b96082870a21a7accdb11af3bba6",
+    "trader_name": "rovnen",
+    "tag": "Overall",
+    "overall_gain": 986.7497605062663,
+    "active_positions": 20,
+    "win_amount": 3029.2029729999995,
+    "loss_amount": -2042.453212493734,
+    "win_rate": 0.6724137931034483,
+    "total_current_value": 0.819701998,
+    "total_positions": 61,
+    "event_ct": 58,
+    "win_count": 39,
+    "rank": 63570,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
