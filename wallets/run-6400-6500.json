@@ -750,5 +750,21 @@
     "win_count": 4,
     "rank": 6447,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb43699cbbb52520952833c10737bc43e7625bb3c",
+    "trader_name": "DOJ",
+    "tag": "Overall",
+    "overall_gain": 16603.713032906875,
+    "active_positions": 6,
+    "win_amount": 36490.936546377656,
+    "loss_amount": -19887.223513470773,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 4306.453419030001,
+    "total_positions": 200,
+    "event_ct": 98,
+    "win_count": 70,
+    "rank": 6448,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
