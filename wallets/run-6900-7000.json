@@ -1278,5 +1278,21 @@
     "win_count": 22,
     "rank": 6980,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x873331f6f8d127624d2eab32154ebf43a039ee86",
+    "trader_name": "strawberrycliff",
+    "tag": "Overall",
+    "overall_gain": 15333.678177302205,
+    "active_positions": 3,
+    "win_amount": 15338.6779349286,
+    "loss_amount": -4.999757626396,
+    "win_rate": 0.8,
+    "total_current_value": 4066.444184,
+    "total_positions": 8,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 6981,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
