@@ -334,5 +334,21 @@
     "win_count": 8,
     "rank": 83922,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x78a913f486866cce253f56148493d2bfc39376a8",
+    "trader_name": "nxcbz",
+    "tag": "Overall",
+    "overall_gain": 567.4983213568229,
+    "active_positions": 10,
+    "win_amount": 571.01119064279,
+    "loss_amount": -3.5128692859669997,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 9.3572035,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 20,
+    "rank": 83923,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
