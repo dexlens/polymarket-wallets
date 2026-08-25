@@ -910,5 +910,21 @@
     "win_count": 302,
     "rank": 2857,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x885278f0e304bc2d53f805af2ab779cb6011c569",
+    "trader_name": "gabigol",
+    "tag": "Overall",
+    "overall_gain": 40239.07496018007,
+    "active_positions": 4662,
+    "win_amount": 277278.0595957087,
+    "loss_amount": -237038.98463552858,
+    "win_rate": 0.4579132081778174,
+    "total_current_value": 22909.715174320005,
+    "total_positions": 28679,
+    "event_ct": 17951,
+    "win_count": 8220,
+    "rank": 2858,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
