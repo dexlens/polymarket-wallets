@@ -1406,5 +1406,21 @@
     "win_count": 9,
     "rank": 40889,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe8b63475ca90e1a570972aff80b16b4374c9211c",
+    "trader_name": "FromFuture",
+    "tag": "Overall",
+    "overall_gain": 1940.8265302637183,
+    "active_positions": 1,
+    "win_amount": 6777.896474789869,
+    "loss_amount": -4837.069944526151,
+    "win_rate": 0.8,
+    "total_current_value": 0.129441,
+    "total_positions": 39,
+    "event_ct": 25,
+    "win_count": 20,
+    "rank": 40890,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
