@@ -750,5 +750,21 @@
     "win_count": 8,
     "rank": 68548,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3bfe0ada73e6794af6ccae3978477a504a8df1a1",
+    "trader_name": "windopc",
+    "tag": "Overall",
+    "overall_gain": 846.8581306952875,
+    "active_positions": 7,
+    "win_amount": 1302.3882518678486,
+    "loss_amount": -455.53012117256105,
+    "win_rate": 0.7755102040816326,
+    "total_current_value": 1055.8760106570005,
+    "total_positions": 61,
+    "event_ct": 49,
+    "win_count": 38,
+    "rank": 68549,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
