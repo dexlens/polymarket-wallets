@@ -1550,5 +1550,21 @@
     "win_count": 5,
     "rank": 70998,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfc206ff130d36b8e5a7c9edcdaf1f183d81dfd45",
+    "trader_name": "Codeus",
+    "tag": "Overall",
+    "overall_gain": 788.5,
+    "active_positions": 4,
+    "win_amount": 2144,
+    "loss_amount": -1355.5,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 70999,
+    "trader_tags": ""
   }
 ]
