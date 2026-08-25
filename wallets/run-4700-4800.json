@@ -238,5 +238,21 @@
     "win_count": 5,
     "rank": 4715,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x05c4a277c894f7dc84e6ad49c9423a562537a4f2",
+    "trader_name": "ozempicks",
+    "tag": "Overall",
+    "overall_gain": 23105.471534688477,
+    "active_positions": 6,
+    "win_amount": 48194.1563796966,
+    "loss_amount": -25088.68484500811,
+    "win_rate": 0.6086956521739131,
+    "total_current_value": 13948.473393945,
+    "total_positions": 85,
+    "event_ct": 46,
+    "win_count": 28,
+    "rank": 4716,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
