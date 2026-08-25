@@ -830,5 +830,21 @@
     "win_count": 175,
     "rank": 17352,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xec9539d2cf642ac9fae6b977ff98bc9d7fe0aeef",
+    "trader_name": "Oakwood",
+    "tag": "Overall",
+    "overall_gain": 5413.237816692457,
+    "active_positions": 5,
+    "win_amount": 5421.349515405974,
+    "loss_amount": -8.111698713517,
+    "win_rate": 0.8,
+    "total_current_value": 11.086097121,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 17353,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
