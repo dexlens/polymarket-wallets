@@ -734,5 +734,21 @@
     "win_count": 10,
     "rank": 82347,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x226910b1149b57e09a9267fdc311ff9f74b87a71",
+    "trader_name": "lucariomirror",
+    "tag": "Overall",
+    "overall_gain": 592.775794909463,
+    "active_positions": 1,
+    "win_amount": 592.775794909463,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000025,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 82348,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
