@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 4543,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x192da1fc49989dcfd677f76bce69618ba36d7d47",
+    "trader_name": "Smile7",
+    "tag": "Overall",
+    "overall_gain": 24244.528030425805,
+    "active_positions": 1,
+    "win_amount": 30309.976918950586,
+    "loss_amount": -6065.448888524777,
+    "win_rate": 0.4375,
+    "total_current_value": 402.37163612999996,
+    "total_positions": 42,
+    "event_ct": 16,
+    "win_count": 7,
+    "rank": 4544,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
