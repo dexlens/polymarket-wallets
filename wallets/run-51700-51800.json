@@ -734,5 +734,21 @@
     "win_count": 8,
     "rank": 51747,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4a9ac32983e43cbea8b7c93996e3b3dd180235c4",
+    "trader_name": "btcisking",
+    "tag": "Overall",
+    "overall_gain": 1403.402315372759,
+    "active_positions": 4,
+    "win_amount": 1943.402315372759,
+    "loss_amount": -540,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 30222.1510946725,
+    "total_positions": 19,
+    "event_ct": 15,
+    "win_count": 13,
+    "rank": 51748,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
