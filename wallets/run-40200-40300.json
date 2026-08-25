@@ -1326,5 +1326,21 @@
     "win_count": 8,
     "rank": 40284,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x82e75fa5ac73045bebeebfb138302ff844dc491d",
+    "trader_name": "struglglging",
+    "tag": "Overall",
+    "overall_gain": 1979,
+    "active_positions": 1,
+    "win_amount": 1991.5,
+    "loss_amount": -12.5,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 40285,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
