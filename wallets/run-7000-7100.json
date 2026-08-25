@@ -830,5 +830,21 @@
     "win_count": 37,
     "rank": 7052,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5e3ca8fb40288b136b43d1c7fe0302b8c577fea3",
+    "trader_name": "braddolo",
+    "tag": "Overall",
+    "overall_gain": 15137,
+    "active_positions": 1,
+    "win_amount": 15195,
+    "loss_amount": -58,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 7053,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
