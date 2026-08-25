@@ -846,5 +846,21 @@
     "win_count": 254,
     "rank": 1353,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c1640a92fb8022554750f5c0112240132e8df3a",
+    "trader_name": "Foreseeable",
+    "tag": "Overall",
+    "overall_gain": 89696.67704827175,
+    "active_positions": 66,
+    "win_amount": 146804.99014111035,
+    "loss_amount": -57108.31309283862,
+    "win_rate": 0.6583333333333333,
+    "total_current_value": 18001.28987404501,
+    "total_positions": 2192,
+    "event_ct": 840,
+    "win_count": 553,
+    "rank": 1354,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
