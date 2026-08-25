@@ -1422,5 +1422,21 @@
     "win_count": 4,
     "rank": 6889,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x684592063acf613e2d0d5887256a0c16cb48c125",
+    "trader_name": "yuyang",
+    "tag": "Overall",
+    "overall_gain": 15567.7827245614,
+    "active_positions": 299,
+    "win_amount": 33695.289223853855,
+    "loss_amount": -18127.50649929246,
+    "win_rate": 0.39375,
+    "total_current_value": 163.206838532304,
+    "total_positions": 1144,
+    "event_ct": 480,
+    "win_count": 189,
+    "rank": 6890,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
