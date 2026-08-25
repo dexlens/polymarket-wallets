@@ -942,5 +942,21 @@
     "win_count": 7,
     "rank": 74260,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5ea955864faf1afa0b68ba6a762e28cee44ea10b",
+    "trader_name": "yu-cc",
+    "tag": "Overall",
+    "overall_gain": 724.7592226952357,
+    "active_positions": 35,
+    "win_amount": 2792.69471271548,
+    "loss_amount": -2067.9354900202443,
+    "win_rate": 0.4827586206896552,
+    "total_current_value": 338.02934300000004,
+    "total_positions": 76,
+    "event_ct": 58,
+    "win_count": 28,
+    "rank": 74261,
+    "trader_tags": ""
   }
 ]
