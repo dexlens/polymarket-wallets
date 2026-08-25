@@ -750,5 +750,21 @@
     "win_count": 28,
     "rank": 55748,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xaba0f280680b13c4479ef574c7c0ff1a4b0e2aa5",
+    "trader_name": "wodeco1",
+    "tag": "Overall",
+    "overall_gain": 1227.8265529764085,
+    "active_positions": 7,
+    "win_amount": 1327.7427994677269,
+    "loss_amount": -99.916246491318,
+    "win_rate": 0.75,
+    "total_current_value": 2246.6063285689997,
+    "total_positions": 33,
+    "event_ct": 28,
+    "win_count": 21,
+    "rank": 55749,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
