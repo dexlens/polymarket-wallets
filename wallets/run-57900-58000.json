@@ -958,5 +958,21 @@
     "win_count": 6,
     "rank": 57961,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x54f1bfb80f3bc0e20c1ff93d8fa8a606966b668e",
+    "trader_name": "junias-junias",
+    "tag": "Overall",
+    "overall_gain": 1144.010400699552,
+    "active_positions": 0,
+    "win_amount": 1164.545028539552,
+    "loss_amount": -20.53462784,
+    "win_rate": 0.7068965517241379,
+    "total_current_value": 0.0329065,
+    "total_positions": 61,
+    "event_ct": 58,
+    "win_count": 41,
+    "rank": 57962,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
