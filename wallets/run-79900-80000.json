@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 79926,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x09d0a20d573670b6d3b63b79b420dbdc9595484d",
+    "trader_name": "lELU",
+    "tag": "Overall",
+    "overall_gain": 631.713890384,
+    "active_positions": 0,
+    "win_amount": 631.713890384,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.003625,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 79927,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
