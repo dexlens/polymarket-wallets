@@ -750,5 +750,21 @@
     "win_count": 18,
     "rank": 9147,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x60ef0939dbfb4b9611c74efff407c1564ba460fc",
+    "trader_name": "eptazaeballi",
+    "tag": "Overall",
+    "overall_gain": 11460.449794087484,
+    "active_positions": 0,
+    "win_amount": 11460.449794087484,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.014204,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 9148,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
