@@ -782,5 +782,21 @@
     "win_count": 19,
     "rank": 7249,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc0ab1589ffbdb2d0eb77637ae53e19c961362ecb",
+    "trader_name": "uponlys",
+    "tag": "Overall",
+    "overall_gain": 14742.304437120003,
+    "active_positions": 0,
+    "win_amount": 14742.304437120003,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.069326,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7250,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
