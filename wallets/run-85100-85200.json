@@ -238,5 +238,21 @@
     "win_count": 35,
     "rank": 85116,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3665fccee036d4016854423f301320ea3e809008",
+    "trader_name": "aadergek",
+    "tag": "Overall",
+    "overall_gain": 550.516073122367,
+    "active_positions": 5,
+    "win_amount": 550.5185327819689,
+    "loss_amount": -0.0024596596019996753,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 29.128985125499998,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 85117,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
