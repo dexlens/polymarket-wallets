@@ -526,5 +526,21 @@
     "win_count": 8,
     "rank": 86234,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ae38309ec0acc35ea616def64f773c05e90c652",
+    "trader_name": "AIfan",
+    "tag": "Overall",
+    "overall_gain": 536.0980398439491,
+    "active_positions": 29,
+    "win_amount": 665.3424645737292,
+    "loss_amount": -129.24442472978,
+    "win_rate": 0.711864406779661,
+    "total_current_value": 544.1089010390001,
+    "total_positions": 75,
+    "event_ct": 59,
+    "win_count": 42,
+    "rank": 86235,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
