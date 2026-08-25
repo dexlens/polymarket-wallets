@@ -606,5 +606,21 @@
     "win_count": 3,
     "rank": 30239,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1f5e83270a7e0b0e967dbbfbc6cce80a88bb3871",
+    "trader_name": "TankEngine",
+    "tag": "Overall",
+    "overall_gain": 2793.707675656351,
+    "active_positions": 26,
+    "win_amount": 4262.455140960352,
+    "loss_amount": -1468.747465304,
+    "win_rate": 0.6229508196721312,
+    "total_current_value": 8396.624877061002,
+    "total_positions": 108,
+    "event_ct": 61,
+    "win_count": 38,
+    "rank": 30240,
+    "trader_tags": ""
   }
 ]
