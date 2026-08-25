@@ -1278,5 +1278,21 @@
     "win_count": 7,
     "rank": 18780,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1947814e058caa2ee0844baac3c84853aef094bc",
+    "trader_name": "CanadianSolar",
+    "tag": "Overall",
+    "overall_gain": 4957.559506203206,
+    "active_positions": 375,
+    "win_amount": 102390.6307278189,
+    "loss_amount": -97433.07122161574,
+    "win_rate": 0.5691906005221932,
+    "total_current_value": 0.067138,
+    "total_positions": 1017,
+    "event_ct": 766,
+    "win_count": 436,
+    "rank": 18781,
+    "trader_tags": "1k+ Positions"
   }
 ]
