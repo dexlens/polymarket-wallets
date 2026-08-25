@@ -1534,5 +1534,21 @@
     "win_count": 17,
     "rank": 8096,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3275a6715b074e68bcd5454bf40a60bcd3ea2e5a",
+    "trader_name": "SteamRollerPennies",
+    "tag": "Overall",
+    "overall_gain": 12995.134753661914,
+    "active_positions": 4,
+    "win_amount": 17863.93119798472,
+    "loss_amount": -4868.796444322808,
+    "win_rate": 0.7209302325581395,
+    "total_current_value": 10827.101968375002,
+    "total_positions": 53,
+    "event_ct": 43,
+    "win_count": 31,
+    "rank": 8097,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
