@@ -926,5 +926,21 @@
     "win_count": 18,
     "rank": 7658,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa2b0fedebe848639c321dfa219894fc366567160",
+    "trader_name": "BIGFIRE",
+    "tag": "Overall",
+    "overall_gain": 13810.17515950469,
+    "active_positions": 2,
+    "win_amount": 17478.370239662137,
+    "loss_amount": -3668.1950801574535,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0.04436500000000001,
+    "total_positions": 29,
+    "event_ct": 22,
+    "win_count": 14,
+    "rank": 7659,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 67%+ Positions in US Election "
   }
 ]
