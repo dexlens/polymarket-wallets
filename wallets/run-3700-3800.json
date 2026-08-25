@@ -734,5 +734,21 @@
     "win_count": 25,
     "rank": 3746,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf7f5d456888bb54a0447a41acf0dcbc9d099fe12",
+    "trader_name": "SimpleSimonSays",
+    "tag": "Overall",
+    "overall_gain": 30445.34295418152,
+    "active_positions": 2,
+    "win_amount": 50957.44593939608,
+    "loss_amount": -20512.102985214566,
+    "win_rate": 0.4186046511627907,
+    "total_current_value": 4229.62064235,
+    "total_positions": 100,
+    "event_ct": 86,
+    "win_count": 36,
+    "rank": 3747,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
