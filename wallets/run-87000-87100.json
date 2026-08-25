@@ -782,5 +782,21 @@
     "win_count": 11,
     "rank": 87050,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0a627117e37c76208b2f9d5480a972c6f1cd5409",
+    "trader_name": "ComprehensiveCat",
+    "tag": "Overall",
+    "overall_gain": 525,
+    "active_positions": 1,
+    "win_amount": 525,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 625,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 87051,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
