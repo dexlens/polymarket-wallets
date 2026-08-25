@@ -942,5 +942,21 @@
     "win_count": 31,
     "rank": 7859,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x58dc632f81408942e70f566b97f704ebd1e0436c",
+    "trader_name": "ABM",
+    "tag": "Overall",
+    "overall_gain": 13402.792540052065,
+    "active_positions": 57,
+    "win_amount": 14460.349599902298,
+    "loss_amount": -1057.5570598502318,
+    "win_rate": 0.45161290322580644,
+    "total_current_value": 9992.920596,
+    "total_positions": 185,
+    "event_ct": 31,
+    "win_count": 14,
+    "rank": 7860,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
