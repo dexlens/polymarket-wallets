@@ -686,5 +686,21 @@
     "win_count": 12,
     "rank": 8743,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9537626749ff0e05c4b868ac559ae63d7f8bdc8f",
+    "trader_name": "Alvoxen",
+    "tag": "Overall",
+    "overall_gain": 11993.076361999996,
+    "active_positions": 3,
+    "win_amount": 13839.839122999996,
+    "loss_amount": -1846.762761,
+    "win_rate": 0.7435897435897436,
+    "total_current_value": 0.002,
+    "total_positions": 42,
+    "event_ct": 39,
+    "win_count": 29,
+    "rank": 8744,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
