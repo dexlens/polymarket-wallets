@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 57622,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3aa1db460dc9d8b397548a7056ea61bd3405637b",
+    "trader_name": "QiuQiu",
+    "tag": "Overall",
+    "overall_gain": 1156.3614889830678,
+    "active_positions": 2,
+    "win_amount": 20472.761170575366,
+    "loss_amount": -19316.399681592306,
+    "win_rate": 0.4142857142857143,
+    "total_current_value": 0.145685,
+    "total_positions": 156,
+    "event_ct": 140,
+    "win_count": 58,
+    "rank": 57623,
+    "trader_tags": "> 1 year old"
   }
 ]
