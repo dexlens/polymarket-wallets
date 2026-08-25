@@ -1262,5 +1262,21 @@
     "win_count": 6,
     "rank": 5579,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x04d7c77a54dd1e75383e6cc0ca81814be8b6b035",
+    "trader_name": "Mooooimacow",
+    "tag": "Overall",
+    "overall_gain": 19357.18732592498,
+    "active_positions": 29,
+    "win_amount": 28319.61473821197,
+    "loss_amount": -8962.427412286987,
+    "win_rate": 0.5439560439560439,
+    "total_current_value": 11016.641946142501,
+    "total_positions": 601,
+    "event_ct": 182,
+    "win_count": 99,
+    "rank": 5580,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
