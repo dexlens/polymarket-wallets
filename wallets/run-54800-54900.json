@@ -1406,5 +1406,21 @@
     "win_count": 3,
     "rank": 54889,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2d4dd6c73c49e7be2a3b0c902f68f9ff4f45c0cf",
+    "trader_name": "badonkadonk",
+    "tag": "Overall",
+    "overall_gain": 1264.6579110802495,
+    "active_positions": 8,
+    "win_amount": 6589.557497151854,
+    "loss_amount": -5324.899586071602,
+    "win_rate": 0.765625,
+    "total_current_value": 0.18229099999999998,
+    "total_positions": 71,
+    "event_ct": 64,
+    "win_count": 49,
+    "rank": 54890,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
