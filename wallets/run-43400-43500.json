@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 43456,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xae31c5daff96da901abfbebcff6fd81c0c367fa1",
+    "trader_name": "EUfirst",
+    "tag": "Overall",
+    "overall_gain": 1796.303289266664,
+    "active_positions": 31,
+    "win_amount": 2062.9530786550854,
+    "loss_amount": -266.64978938842205,
+    "win_rate": 0.3617021276595745,
+    "total_current_value": 3648.553495495,
+    "total_positions": 65,
+    "event_ct": 47,
+    "win_count": 17,
+    "rank": 43457,
+    "trader_tags": "< 30 days old"
   }
 ]
