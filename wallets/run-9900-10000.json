@@ -894,5 +894,21 @@
     "win_count": 173,
     "rank": 9956,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5b11551fdf7f843ff194024bfbe8487789e6a15e",
+    "trader_name": "Lightd",
+    "tag": "Overall",
+    "overall_gain": 10530.790050198066,
+    "active_positions": 0,
+    "win_amount": 12254.960050198066,
+    "loss_amount": -1724.17,
+    "win_rate": 0.7,
+    "total_current_value": 0.000066,
+    "total_positions": 28,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 9957,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
