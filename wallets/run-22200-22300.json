@@ -782,5 +782,21 @@
     "win_count": 5,
     "rank": 22249,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18e1810fc1f70b76e10399170976460275e3e3c4",
+    "trader_name": "Yugram",
+    "tag": "Overall",
+    "overall_gain": 4064.4290934200258,
+    "active_positions": 0,
+    "win_amount": 4064.4290934200258,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000026000000000000002,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 22250,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
