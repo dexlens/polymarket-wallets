@@ -1054,5 +1054,21 @@
     "win_count": 69,
     "rank": 10066,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x81339926d616eefa7680eee3e55defb1e239a2c4",
+    "trader_name": "Cabronsito",
+    "tag": "Overall",
+    "overall_gain": 10422.119977703083,
+    "active_positions": 0,
+    "win_amount": 12038.976914945706,
+    "loss_amount": -1616.8569372426207,
+    "win_rate": 0.7,
+    "total_current_value": 0.009814,
+    "total_positions": 14,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 10067,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
