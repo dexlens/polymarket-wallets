@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 60354,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x036c807b71bc1d9db65d4657e88e0f6e1708f5a6",
+    "trader_name": "vaweaf",
+    "tag": "Overall",
+    "overall_gain": 1065.4051088761298,
+    "active_positions": 3,
+    "win_amount": 1820.0251088761302,
+    "loss_amount": -754.62,
+    "win_rate": 0.68,
+    "total_current_value": 857.4968700725,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 17,
+    "rank": 60355,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
