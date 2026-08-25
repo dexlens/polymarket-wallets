@@ -798,5 +798,21 @@
     "win_count": 120,
     "rank": 31751,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8d0826dfdb11e94a86e71ffa7d640ae42531a945",
+    "trader_name": "mnv9gh7",
+    "tag": "Overall",
+    "overall_gain": 2625.735060259091,
+    "active_positions": 2,
+    "win_amount": 14683.866328080685,
+    "loss_amount": -12058.131267821595,
+    "win_rate": 0.9724444444444444,
+    "total_current_value": 2.3854619999999995,
+    "total_positions": 2258,
+    "event_ct": 2250,
+    "win_count": 2188,
+    "rank": 31752,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
