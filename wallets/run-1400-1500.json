@@ -1566,5 +1566,21 @@
     "win_count": 8,
     "rank": 1498,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x71ed0bc95433cdf1be29f43219725fce9addd9eb",
+    "trader_name": "d1k21",
+    "tag": "Overall",
+    "overall_gain": 80701.7951261382,
+    "active_positions": 324,
+    "win_amount": 119846.48256909453,
+    "loss_amount": -39144.687442956325,
+    "win_rate": 0.7824701195219124,
+    "total_current_value": 10052.384580190497,
+    "total_positions": 3166,
+    "event_ct": 1255,
+    "win_count": 982,
+    "rank": 1499,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
