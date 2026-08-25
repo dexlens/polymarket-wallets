@@ -286,5 +286,21 @@
     "win_count": 1,
     "rank": 5418,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2995146c476836bcaefcb87954be45a3cc6e6d7a",
+    "trader_name": "Olyven",
+    "tag": "Overall",
+    "overall_gain": 19979.02453339903,
+    "active_positions": 3,
+    "win_amount": 24007.564533399032,
+    "loss_amount": -4028.5400000000004,
+    "win_rate": 0.8285714285714286,
+    "total_current_value": 0.000133,
+    "total_positions": 39,
+    "event_ct": 35,
+    "win_count": 29,
+    "rank": 5419,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
