@@ -1310,5 +1310,21 @@
     "win_count": 9,
     "rank": 39883,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x956fcfd8f7c785e3af8760cb318814aeb3b76bf0",
+    "trader_name": "DanaNicholas",
+    "tag": "Overall",
+    "overall_gain": 2000.1806538056899,
+    "active_positions": 37,
+    "win_amount": 15251.180639781875,
+    "loss_amount": -13250.999985976185,
+    "win_rate": 0.673469387755102,
+    "total_current_value": 5.1209940000000005,
+    "total_positions": 101,
+    "event_ct": 98,
+    "win_count": 66,
+    "rank": 39884,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
