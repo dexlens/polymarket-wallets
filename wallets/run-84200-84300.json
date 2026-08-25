@@ -1022,5 +1022,21 @@
     "win_count": 5,
     "rank": 84265,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x72e1910a049e1187b178bce57e389b4dbbb4b88f",
+    "trader_name": "Launcher01",
+    "tag": "Overall",
+    "overall_gain": 562.615887061314,
+    "active_positions": 1,
+    "win_amount": 602.090675185878,
+    "loss_amount": -39.474788124564,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 3.367221,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 10,
+    "rank": 84266,
+    "trader_tags": "< 30 days old"
   }
 ]
