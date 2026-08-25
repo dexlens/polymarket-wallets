@@ -846,5 +846,21 @@
     "win_count": 1,
     "rank": 56354,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0263d6cbf483b5b03e8483c5f89202b998e747e6",
+    "trader_name": "VlncPd9",
+    "tag": "Overall",
+    "overall_gain": 1202.71,
+    "active_positions": 1,
+    "win_amount": 1418.31,
+    "loss_amount": -215.6,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 56355,
+    "trader_tags": "< 30 days old"
   }
 ]
