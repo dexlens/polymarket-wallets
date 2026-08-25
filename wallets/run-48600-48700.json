@@ -1054,5 +1054,21 @@
     "win_count": 2,
     "rank": 48667,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x995a6a64f076a61b0e4e7aefa2ee610a52e3a33a",
+    "trader_name": "tinco",
+    "tag": "Overall",
+    "overall_gain": 1542.553728286233,
+    "active_positions": 13,
+    "win_amount": 1870.086049879203,
+    "loss_amount": -327.53232159297,
+    "win_rate": 0.8135593220338984,
+    "total_current_value": 6909.560015565,
+    "total_positions": 59,
+    "event_ct": 59,
+    "win_count": 48,
+    "rank": 48668,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
