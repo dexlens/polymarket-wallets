@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 12699,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc194881440727fc7bb1bae9bbb0f866055098115",
+    "trader_name": "klx",
+    "tag": "Overall",
+    "overall_gain": 7975.932177384032,
+    "active_positions": 8,
+    "win_amount": 10473.322476731448,
+    "loss_amount": -2497.3902993474185,
+    "win_rate": 0.6751152073732719,
+    "total_current_value": 8.414835565999999,
+    "total_positions": 2435,
+    "event_ct": 868,
+    "win_count": 586,
+    "rank": 12700,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
