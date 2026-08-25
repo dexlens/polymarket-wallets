@@ -1566,5 +1566,21 @@
     "win_count": 5,
     "rank": 45099,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb14bcc64032b4403004af717a3ff259107262724",
+    "trader_name": "earnbtc",
+    "tag": "Overall",
+    "overall_gain": 1709.009538893347,
+    "active_positions": 7,
+    "win_amount": 38565.27789844409,
+    "loss_amount": -36856.268359550704,
+    "win_rate": 0.8504217051112691,
+    "total_current_value": 195.3468785,
+    "total_positions": 10909,
+    "event_ct": 9841,
+    "win_count": 8369,
+    "rank": 45100,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
