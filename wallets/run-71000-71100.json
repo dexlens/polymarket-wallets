@@ -1342,5 +1342,21 @@
     "win_count": 15,
     "rank": 71085,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf24382807e41f78e5289c1f74ee31108c578459c",
+    "trader_name": "dambi",
+    "tag": "Overall",
+    "overall_gain": 786.7502582387251,
+    "active_positions": 3,
+    "win_amount": 1062.8120846777251,
+    "loss_amount": -276.061826439,
+    "win_rate": 0.23300970873786409,
+    "total_current_value": 0.021034999999999998,
+    "total_positions": 1401,
+    "event_ct": 824,
+    "win_count": 192,
+    "rank": 71086,
+    "trader_tags": "1k+ Positions"
   }
 ]
