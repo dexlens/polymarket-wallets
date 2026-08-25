@@ -1502,5 +1502,21 @@
     "win_count": 4,
     "rank": 13194,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x058327e8fec1fdf218c4c2c20f3a30db18887dd4",
+    "trader_name": "casus",
+    "tag": "Overall",
+    "overall_gain": 7603.033273369709,
+    "active_positions": 5,
+    "win_amount": 7619.7736839457775,
+    "loss_amount": -16.740410576069003,
+    "win_rate": 0.9748743718592965,
+    "total_current_value": 3687.9400242425004,
+    "total_positions": 302,
+    "event_ct": 199,
+    "win_count": 194,
+    "rank": 13195,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
