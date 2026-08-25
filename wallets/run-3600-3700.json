@@ -366,5 +366,21 @@
     "win_count": 8,
     "rank": 3623,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf42665b2b062ca61df2f32c94964c01b91d3e665",
+    "trader_name": "Phaedros",
+    "tag": "Overall",
+    "overall_gain": 31422.46326637593,
+    "active_positions": 1,
+    "win_amount": 32306.71526646362,
+    "loss_amount": -884.252000087694,
+    "win_rate": 0.8648648648648649,
+    "total_current_value": 0.009321,
+    "total_positions": 39,
+    "event_ct": 37,
+    "win_count": 32,
+    "rank": 3624,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
