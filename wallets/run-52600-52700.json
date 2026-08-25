@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 52647,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98a330bad9d817f656e9722b78169fae0b6eb48c",
+    "trader_name": "polywallet",
+    "tag": "Overall",
+    "overall_gain": 1362.4405420311493,
+    "active_positions": 89,
+    "win_amount": 3226.886956383149,
+    "loss_amount": -1864.446414352,
+    "win_rate": 0.2804878048780488,
+    "total_current_value": 80.3470421035,
+    "total_positions": 126,
+    "event_ct": 82,
+    "win_count": 23,
+    "rank": 52648,
+    "trader_tags": "> 1 year old"
   }
 ]
