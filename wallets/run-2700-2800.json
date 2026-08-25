@@ -126,5 +126,21 @@
     "win_count": 23,
     "rank": 2708,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf8104fc2a4bb4acfcd9e8866ff382f5af01e4fea",
+    "trader_name": "shy-hashman",
+    "tag": "Overall",
+    "overall_gain": 42954.12658392039,
+    "active_positions": 0,
+    "win_amount": 43054.12547192039,
+    "loss_amount": -99.998888,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.009680000000000001,
+    "total_positions": 13,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 2709,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
