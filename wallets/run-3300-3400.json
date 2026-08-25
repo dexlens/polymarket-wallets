@@ -606,5 +606,21 @@
     "win_count": 384,
     "rank": 3338,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd9a301d0e4ebecd8f755f3e096c9d8a13c80b1df",
+    "trader_name": "Old-Monk",
+    "tag": "Overall",
+    "overall_gain": 34277.9465173332,
+    "active_positions": 0,
+    "win_amount": 294008.5604409405,
+    "loss_amount": -259730.61392360722,
+    "win_rate": 0.6108597285067874,
+    "total_current_value": 0.11612150000000002,
+    "total_positions": 816,
+    "event_ct": 442,
+    "win_count": 270,
+    "rank": 3339,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
