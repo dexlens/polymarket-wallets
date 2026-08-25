@@ -1262,5 +1262,21 @@
     "win_count": 61,
     "rank": 9379,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x41a3d2933366cc530f64a463d80ed0c0a943126e",
+    "trader_name": "fcsdses",
+    "tag": "Overall",
+    "overall_gain": 11177.768795,
+    "active_positions": 1,
+    "win_amount": 11275.608795,
+    "loss_amount": -97.84,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 16,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 9380,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
