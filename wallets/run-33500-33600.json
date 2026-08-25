@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 33541,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61d3e25629cf7ee3f2377230f33b181d17387538",
+    "trader_name": "nuhuh",
+    "tag": "Overall",
+    "overall_gain": 2462.3526829633493,
+    "active_positions": 5,
+    "win_amount": 8545.365684962228,
+    "loss_amount": -6083.013001998879,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.049962999999999994,
+    "total_positions": 25,
+    "event_ct": 14,
+    "win_count": 6,
+    "rank": 33542,
+    "trader_tags": "> 1 year old"
   }
 ]
