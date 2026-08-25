@@ -446,5 +446,21 @@
     "win_count": 2812,
     "rank": 4128,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x500745e103822bb0d9926c16d966288b9e3e30a2",
+    "trader_name": "yibande",
+    "tag": "Overall",
+    "overall_gain": 27049.66479796269,
+    "active_positions": 2,
+    "win_amount": 27064.504165000002,
+    "loss_amount": -14.839367037311,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 4.643389,
+    "total_positions": 38,
+    "event_ct": 36,
+    "win_count": 28,
+    "rank": 4129,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
