@@ -510,5 +510,21 @@
     "win_count": 4,
     "rank": 4032,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe88bf2f3a827a110eada37c59419b109bc07f99f",
+    "trader_name": "bejoxbt",
+    "tag": "Overall",
+    "overall_gain": 27821.692467904755,
+    "active_positions": 30,
+    "win_amount": 33420.71983748647,
+    "loss_amount": -5599.027369581713,
+    "win_rate": 0.6212121212121212,
+    "total_current_value": 45941.956288120506,
+    "total_positions": 107,
+    "event_ct": 66,
+    "win_count": 41,
+    "rank": 4033,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
