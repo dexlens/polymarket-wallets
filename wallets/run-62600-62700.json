@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 62677,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4e572cdc630bd804e1ee943125cf0366827fe2f9",
+    "trader_name": "a0112qiao",
+    "tag": "Overall",
+    "overall_gain": 1005.4151086170231,
+    "active_positions": 0,
+    "win_amount": 1312.883070385755,
+    "loss_amount": -307.467961768732,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 0.00559915,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 14,
+    "rank": 62678,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
