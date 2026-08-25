@@ -126,5 +126,21 @@
     "win_count": 89,
     "rank": 74609,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x48b71b0bef6c1799b220c52f5a1b1c902a85749a",
+    "trader_name": "Niukaven",
+    "tag": "Overall",
+    "overall_gain": 720.0275195850553,
+    "active_positions": 25,
+    "win_amount": 745.6635580105133,
+    "loss_amount": -25.636038425457997,
+    "win_rate": 0.8020833333333334,
+    "total_current_value": 12.412152999999998,
+    "total_positions": 101,
+    "event_ct": 96,
+    "win_count": 77,
+    "rank": 74610,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
