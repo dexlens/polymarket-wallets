@@ -1070,5 +1070,21 @@
     "win_count": 12,
     "rank": 38268,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x420a705368574916cd38245bd132d449aa2ecd8b",
+    "trader_name": "Tylier",
+    "tag": "Overall",
+    "overall_gain": 2101.155,
+    "active_positions": 1,
+    "win_amount": 2101.155,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 16.585,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 38269,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
