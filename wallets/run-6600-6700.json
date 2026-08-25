@@ -1518,5 +1518,21 @@
     "win_count": 6,
     "rank": 6695,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd7e71e9b1c9d5e428e94906660c5a94537e51150",
+    "trader_name": "swift-cheetah",
+    "tag": "Overall",
+    "overall_gain": 16024.068706127593,
+    "active_positions": 5,
+    "win_amount": 231094.308552,
+    "loss_amount": -215070.23984587233,
+    "win_rate": 0.5657258064516129,
+    "total_current_value": 24.000275,
+    "total_positions": 4305,
+    "event_ct": 2480,
+    "win_count": 1403,
+    "rank": 6696,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
