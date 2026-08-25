@@ -350,5 +350,21 @@
     "win_count": 2,
     "rank": 16722,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9a7afd9c545d3ea16657f33ae8c8970c7076f50e",
+    "trader_name": "Theodoreaugust",
+    "tag": "Overall",
+    "overall_gain": 5683.681637217446,
+    "active_positions": 5,
+    "win_amount": 10429.811008664663,
+    "loss_amount": -4746.129371447216,
+    "win_rate": 0.8,
+    "total_current_value": 41.076627982,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 24,
+    "rank": 16723,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
