@@ -990,5 +990,21 @@
     "win_count": 103,
     "rank": 2962,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb6ddae56e84177382d92654ba347a84dfdc8bf2b",
+    "trader_name": "chogo",
+    "tag": "Overall",
+    "overall_gain": 38684.8579888444,
+    "active_positions": 1,
+    "win_amount": 74410.74433096441,
+    "loss_amount": -35725.88634212001,
+    "win_rate": 0.46774193548387094,
+    "total_current_value": 0.0436,
+    "total_positions": 71,
+    "event_ct": 62,
+    "win_count": 29,
+    "rank": 2963,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
