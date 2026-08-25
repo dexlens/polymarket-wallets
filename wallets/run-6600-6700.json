@@ -766,5 +766,21 @@
     "win_count": 68,
     "rank": 6648,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x894aed780e52ff31ad2dfebf98b759cd934bed75",
+    "trader_name": "Lezay",
+    "tag": "Overall",
+    "overall_gain": 16146.562432743189,
+    "active_positions": 34,
+    "win_amount": 113544.29832800002,
+    "loss_amount": -97397.7358952568,
+    "win_rate": 0.4846938775510204,
+    "total_current_value": 0,
+    "total_positions": 196,
+    "event_ct": 196,
+    "win_count": 95,
+    "rank": 6649,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
