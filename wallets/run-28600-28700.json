@@ -382,5 +382,21 @@
     "win_count": 5,
     "rank": 28625,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x268aaa8bbf8f81595604e5b697e41a4371e54ed9",
+    "trader_name": "wtrhdf",
+    "tag": "Overall",
+    "overall_gain": 2993.1247980000003,
+    "active_positions": 2,
+    "win_amount": 3119.314498,
+    "loss_amount": -126.18969999999999,
+    "win_rate": 0.9032258064516129,
+    "total_current_value": 164.829,
+    "total_positions": 35,
+    "event_ct": 31,
+    "win_count": 28,
+    "rank": 28626,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
