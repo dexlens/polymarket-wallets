@@ -1182,5 +1182,21 @@
     "win_count": 30,
     "rank": 5474,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x638cd63f244a25e16672bff7329793e6ca583d19",
+    "trader_name": "wongfei",
+    "tag": "Overall",
+    "overall_gain": 19743.14377603088,
+    "active_positions": 0,
+    "win_amount": 22451.7862287568,
+    "loss_amount": -2708.642452725917,
+    "win_rate": 0.9437751004016064,
+    "total_current_value": 129.320727305,
+    "total_positions": 2073,
+    "event_ct": 1992,
+    "win_count": 1880,
+    "rank": 5475,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
