@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 48680,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xde5a3c85b0bf0922e1f69ed455d7db25d8c54db5",
+    "trader_name": "Tizen",
+    "tag": "Overall",
+    "overall_gain": 1542.2307648993237,
+    "active_positions": 207,
+    "win_amount": 20296.870553885725,
+    "loss_amount": -18754.639788986402,
+    "win_rate": 0.4054878048780488,
+    "total_current_value": 1120.4545346324999,
+    "total_positions": 369,
+    "event_ct": 328,
+    "win_count": 133,
+    "rank": 48681,
+    "trader_tags": "> 1 year old"
   }
 ]
