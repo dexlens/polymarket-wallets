@@ -1342,5 +1342,21 @@
     "win_count": 209,
     "rank": 3884,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbe4e1b0b3b71ffbbbccd2555aca059ac9ecbc06f",
+    "trader_name": "Whaleisawake",
+    "tag": "Overall",
+    "overall_gain": 29139.509436647124,
+    "active_positions": 34,
+    "win_amount": 77723.56876767606,
+    "loss_amount": -48584.05933102892,
+    "win_rate": 0.22727272727272727,
+    "total_current_value": 0.053248,
+    "total_positions": 54,
+    "event_ct": 44,
+    "win_count": 10,
+    "rank": 3885,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
