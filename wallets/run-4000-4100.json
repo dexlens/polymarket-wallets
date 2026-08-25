@@ -1118,5 +1118,21 @@
     "win_count": 63,
     "rank": 4070,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x43384344f8e9bf83039a73447970a1bfd19a61e6",
+    "trader_name": "egger",
+    "tag": "Overall",
+    "overall_gain": 27554.208287574824,
+    "active_positions": 25,
+    "win_amount": 37251.26023906436,
+    "loss_amount": -9697.051951489542,
+    "win_rate": 0.49019607843137253,
+    "total_current_value": 50.096665,
+    "total_positions": 68,
+    "event_ct": 51,
+    "win_count": 25,
+    "rank": 4071,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
