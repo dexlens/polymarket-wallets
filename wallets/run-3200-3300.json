@@ -1486,5 +1486,21 @@
     "win_count": 71,
     "rank": 3293,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x194686d6079dad729beea40c50b18cbe247af67a",
+    "trader_name": "lazaropric",
+    "tag": "Overall",
+    "overall_gain": 34799.198000000004,
+    "active_positions": 1,
+    "win_amount": 34995.198000000004,
+    "loss_amount": -196,
+    "win_rate": 0.875,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 3294,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
