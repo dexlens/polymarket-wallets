@@ -1566,5 +1566,21 @@
     "win_count": 11,
     "rank": 22798,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c7d98226c36fbc5c69a5a33ab0f7a2be64e6cc4",
+    "trader_name": "Forensics",
+    "tag": "Overall",
+    "overall_gain": 3960.233685142331,
+    "active_positions": 1,
+    "win_amount": 8038.009770467971,
+    "loss_amount": -4077.776085325641,
+    "win_rate": 0.8103448275862069,
+    "total_current_value": 0.08140499999999998,
+    "total_positions": 94,
+    "event_ct": 58,
+    "win_count": 47,
+    "rank": 22799,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
