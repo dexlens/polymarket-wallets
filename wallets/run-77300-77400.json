@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 77349,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d8405310bfee26ab8b74d663a06c5aca3d37cff",
+    "trader_name": "Fantaman",
+    "tag": "Overall",
+    "overall_gain": 675.3769889625503,
+    "active_positions": 26,
+    "win_amount": 2488.151953607476,
+    "loss_amount": -1812.774964644926,
+    "win_rate": 0.5188679245283019,
+    "total_current_value": 482.4980141819999,
+    "total_positions": 155,
+    "event_ct": 106,
+    "win_count": 55,
+    "rank": 77350,
+    "trader_tags": "> 1 year old"
   }
 ]
