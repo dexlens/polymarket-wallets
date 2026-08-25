@@ -638,5 +638,21 @@
     "win_count": 2,
     "rank": 7840,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d3498bdc948160c08aaacefb0d4204a30a0fe07",
+    "trader_name": "trevionsedhc",
+    "tag": "Overall",
+    "overall_gain": 13443.5,
+    "active_positions": 1,
+    "win_amount": 14327.5,
+    "loss_amount": -884,
+    "win_rate": 0.875,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 7841,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
