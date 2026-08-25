@@ -222,5 +222,21 @@
     "win_count": 4,
     "rank": 38215,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x540de06c0e1344adb17ff35c21e10efb6d25148b",
+    "trader_name": "DevonBlair",
+    "tag": "Overall",
+    "overall_gain": 2104.3778008150607,
+    "active_positions": 4,
+    "win_amount": 6602.900734999999,
+    "loss_amount": -4498.522934184939,
+    "win_rate": 0.7916666666666666,
+    "total_current_value": 0.005061,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 19,
+    "rank": 38216,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
