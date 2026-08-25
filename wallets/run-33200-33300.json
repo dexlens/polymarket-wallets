@@ -510,5 +510,21 @@
     "win_count": 37,
     "rank": 33233,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3d14878c323c2fe5d9af9b2d76b5f276530d1c62",
+    "trader_name": "eucnshx",
+    "tag": "Overall",
+    "overall_gain": 2486.4390666277727,
+    "active_positions": 2,
+    "win_amount": 2564.631346627773,
+    "loss_amount": -78.19228,
+    "win_rate": 0.9259259259259259,
+    "total_current_value": 146.529773,
+    "total_positions": 28,
+    "event_ct": 27,
+    "win_count": 25,
+    "rank": 33234,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
