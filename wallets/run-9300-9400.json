@@ -1470,5 +1470,21 @@
     "win_count": 2,
     "rank": 9392,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x50b5272923d533e9eb378fab0b1adbb8d3be496b",
+    "trader_name": "StellarSeer",
+    "tag": "Overall",
+    "overall_gain": 11156,
+    "active_positions": 3,
+    "win_amount": 11670.5,
+    "loss_amount": -514.5,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 9393,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
