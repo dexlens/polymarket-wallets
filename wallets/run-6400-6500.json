@@ -1166,5 +1166,21 @@
     "win_count": 551,
     "rank": 6473,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0c2780245abb1df334641d97d5348f3e202cc8b4",
+    "trader_name": "ST24601",
+    "tag": "Overall",
+    "overall_gain": 16539.625904999997,
+    "active_positions": 0,
+    "win_amount": 41733.43624400001,
+    "loss_amount": -25193.810339,
+    "win_rate": 0.6091370558375635,
+    "total_current_value": 0,
+    "total_positions": 393,
+    "event_ct": 197,
+    "win_count": 120,
+    "rank": 6474,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
