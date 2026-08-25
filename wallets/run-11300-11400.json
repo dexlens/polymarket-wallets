@@ -430,5 +430,21 @@
     "win_count": 444,
     "rank": 11327,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8767929e149d9b06e7921ade88711bc6b462237a",
+    "trader_name": "deepseen",
+    "tag": "Overall",
+    "overall_gain": 9238.300111005025,
+    "active_positions": 2,
+    "win_amount": 9882.466343,
+    "loss_amount": -644.166231994976,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 11328,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
