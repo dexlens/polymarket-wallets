@@ -30,5 +30,21 @@
     "win_count": 7,
     "rank": 10302,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7fd764f8ae9dc07626a1cef8b0bc095d13b5f2db",
+    "trader_name": "jpisjoke",
+    "tag": "Overall",
+    "overall_gain": 10208.623022307675,
+    "active_positions": 20,
+    "win_amount": 23291.237720442703,
+    "loss_amount": -13082.614698135036,
+    "win_rate": 0.588171459576777,
+    "total_current_value": 1359.764117608,
+    "total_positions": 10991,
+    "event_ct": 5529,
+    "win_count": 3252,
+    "rank": 10303,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
