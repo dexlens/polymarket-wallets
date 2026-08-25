@@ -110,5 +110,21 @@
     "win_count": 7,
     "rank": 73308,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7056fc9e2fccd1b876c98f90614f6db006705e43",
+    "trader_name": "hook-labs",
+    "tag": "Overall",
+    "overall_gain": 738.989819952,
+    "active_positions": 9,
+    "win_amount": 9541.386694999997,
+    "loss_amount": -8802.396875048,
+    "win_rate": 0.9076418888723372,
+    "total_current_value": 700.1243999999999,
+    "total_positions": 7634,
+    "event_ct": 6713,
+    "win_count": 6093,
+    "rank": 73309,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
