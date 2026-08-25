@@ -926,5 +926,21 @@
     "win_count": 6,
     "rank": 6058,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54ea11bb74c2b2b198916d33127575e739ad4ae3",
+    "trader_name": "Ilvenne",
+    "tag": "Overall",
+    "overall_gain": 17709.149195000013,
+    "active_positions": 7,
+    "win_amount": 18935.19903700001,
+    "loss_amount": -1226.0498420000001,
+    "win_rate": 0.7948717948717948,
+    "total_current_value": 96.113,
+    "total_positions": 41,
+    "event_ct": 39,
+    "win_count": 31,
+    "rank": 6059,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
