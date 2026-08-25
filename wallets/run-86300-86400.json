@@ -1374,5 +1374,21 @@
     "win_count": 149,
     "rank": 86387,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x359d12a9d17edd082e5c964855001f571af76266",
+    "trader_name": "ipm5",
+    "tag": "Overall",
+    "overall_gain": 533.911991418649,
+    "active_positions": 0,
+    "win_amount": 533.911991418649,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008761999999999999,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 86388,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
