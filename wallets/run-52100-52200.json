@@ -1582,5 +1582,21 @@
     "win_count": 8,
     "rank": 52200,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x21a4a9d0910a3cf38cef1d4a1bae76cd468e0b9e",
+    "trader_name": "DFC",
+    "tag": "Overall",
+    "overall_gain": 1383.1155526675147,
+    "active_positions": 40,
+    "win_amount": 4354.790342390504,
+    "loss_amount": -2971.6747897229898,
+    "win_rate": 0.813953488372093,
+    "total_current_value": 5750.61953779,
+    "total_positions": 183,
+    "event_ct": 172,
+    "win_count": 140,
+    "rank": 52201,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
