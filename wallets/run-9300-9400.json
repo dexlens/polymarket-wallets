@@ -1486,5 +1486,21 @@
     "win_count": 5,
     "rank": 9393,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x722c285204161a619e43e79d9cd75a6d03f62108",
+    "trader_name": "yuyudidi",
+    "tag": "Overall",
+    "overall_gain": 11155.828521610874,
+    "active_positions": 59,
+    "win_amount": 11282.642076770162,
+    "loss_amount": -126.813555159288,
+    "win_rate": 0.42727272727272725,
+    "total_current_value": 2.503363921,
+    "total_positions": 111,
+    "event_ct": 110,
+    "win_count": 47,
+    "rank": 9394,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
