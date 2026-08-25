@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 16799,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6371f3c150e196c683214877054ce799d9f046c8",
+    "trader_name": "jingsh",
+    "tag": "Overall",
+    "overall_gain": 5644.35680958169,
+    "active_positions": 1,
+    "win_amount": 5806.134532,
+    "loss_amount": -161.77772241830903,
+    "win_rate": 0.36363636363636365,
+    "total_current_value": 0.030098,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 4,
+    "rank": 16800,
+    "trader_tags": "> 1 year old"
   }
 ]
