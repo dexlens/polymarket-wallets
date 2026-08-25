@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 31784,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89be771d5b1088042a0287076620735de839b4a5",
+    "trader_name": "Free232s",
+    "tag": "Overall",
+    "overall_gain": 2622.019449889701,
+    "active_positions": 2,
+    "win_amount": 3261.2864785940656,
+    "loss_amount": -639.267028704365,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 51.975917834499995,
+    "total_positions": 25,
+    "event_ct": 17,
+    "win_count": 14,
+    "rank": 31785,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
