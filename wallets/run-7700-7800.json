@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 7731,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ed9ce5ec5e7a8a0f3ff8db9c550abd4ee409949",
+    "trader_name": "TNFL89",
+    "tag": "Overall",
+    "overall_gain": 13657.04437708499,
+    "active_positions": 20,
+    "win_amount": 87038.70199510199,
+    "loss_amount": -73381.65761801698,
+    "win_rate": 0.5862068965517241,
+    "total_current_value": 2274.9559425400003,
+    "total_positions": 676,
+    "event_ct": 609,
+    "win_count": 357,
+    "rank": 7732,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
