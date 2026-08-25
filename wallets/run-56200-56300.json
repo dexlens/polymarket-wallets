@@ -270,5 +270,21 @@
     "win_count": 1,
     "rank": 56218,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x161c0df9aea3cbcb2096a9662c0e788c31253b03",
+    "trader_name": "TheFix",
+    "tag": "Overall",
+    "overall_gain": 1208.634521303174,
+    "active_positions": 10,
+    "win_amount": 5168.632194726866,
+    "loss_amount": -3959.9976734236925,
+    "win_rate": 0.5818181818181818,
+    "total_current_value": 0.07819799999999999,
+    "total_positions": 66,
+    "event_ct": 55,
+    "win_count": 32,
+    "rank": 56219,
+    "trader_tags": ""
   }
 ]
