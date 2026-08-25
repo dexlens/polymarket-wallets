@@ -462,5 +462,21 @@
     "win_count": 18,
     "rank": 2229,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x52171eb988cc1d8836cfbcc32b51c2e1689fec29",
+    "trader_name": "standagain",
+    "tag": "Overall",
+    "overall_gain": 53720.02294770876,
+    "active_positions": 4,
+    "win_amount": 192713.1151931027,
+    "loss_amount": -138993.09224539404,
+    "win_rate": 0.49704579025110784,
+    "total_current_value": 28880.7565636675,
+    "total_positions": 1723,
+    "event_ct": 1354,
+    "win_count": 673,
+    "rank": 2230,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
