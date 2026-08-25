@@ -334,5 +334,21 @@
     "win_count": 35,
     "rank": 20421,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a2593075bc713433c4fe1474a433557ae7478aa",
+    "trader_name": "pauli",
+    "tag": "Overall",
+    "overall_gain": 4517.285010733582,
+    "active_positions": 1,
+    "win_amount": 4994.452247733581,
+    "loss_amount": -477.16723699999994,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 20422,
+    "trader_tags": "> 1 year old"
   }
 ]
