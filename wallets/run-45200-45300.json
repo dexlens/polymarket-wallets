@@ -718,5 +718,21 @@
     "win_count": 6,
     "rank": 45246,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9a8ef6b1b2dd75b8e74b78343704192b3e0ee787",
+    "trader_name": "tf6677",
+    "tag": "Overall",
+    "overall_gain": 1702.109298961672,
+    "active_positions": 1,
+    "win_amount": 1702.160423961672,
+    "loss_amount": -0.05112499999999898,
+    "win_rate": 0.8,
+    "total_current_value": 102.09671300000001,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 45247,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
