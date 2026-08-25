@@ -1134,5 +1134,21 @@
     "win_count": 132,
     "rank": 80772,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8d19285c6723963586326a3e890a13570366f98c",
+    "trader_name": "1Zhoo",
+    "tag": "Overall",
+    "overall_gain": 617.800054352714,
+    "active_positions": 10,
+    "win_amount": 617.800054352714,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 67.499215037,
+    "total_positions": 11,
+    "event_ct": 8,
+    "win_count": 8,
+    "rank": 80773,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
