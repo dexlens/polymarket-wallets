@@ -270,5 +270,21 @@
     "win_count": 1,
     "rank": 40518,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a17eebcacbbc45913d067d3ee83211b38453acc",
+    "trader_name": "EarthlingEd",
+    "tag": "Overall",
+    "overall_gain": 1964.8490149989975,
+    "active_positions": 2,
+    "win_amount": 4644.775530998997,
+    "loss_amount": -2679.9265159999995,
+    "win_rate": 0.6206896551724138,
+    "total_current_value": 426.058197,
+    "total_positions": 32,
+    "event_ct": 29,
+    "win_count": 18,
+    "rank": 40519,
+    "trader_tags": "> 1 year old"
   }
 ]
