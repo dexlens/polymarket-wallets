@@ -878,5 +878,21 @@
     "win_count": 12,
     "rank": 85256,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x13fe7707664ccf26ab63c8530711e101c100bfd3",
+    "trader_name": "dyxdh",
+    "tag": "Overall",
+    "overall_gain": 548.6078884897249,
+    "active_positions": 6,
+    "win_amount": 555.9328849999999,
+    "loss_amount": -7.324996510275,
+    "win_rate": 0.75,
+    "total_current_value": 33.995000000000005,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 85257,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
