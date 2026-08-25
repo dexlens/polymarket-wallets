@@ -686,5 +686,21 @@
     "win_count": 16,
     "rank": 42844,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x42e17c35a8214af123b36ff90d7d1f6aa291fb75",
+    "trader_name": "cornprovide",
+    "tag": "Overall",
+    "overall_gain": 1827.8588912760113,
+    "active_positions": 9,
+    "win_amount": 1836.8721137523992,
+    "loss_amount": -9.013222476388,
+    "win_rate": 0.9,
+    "total_current_value": 327.483125855,
+    "total_positions": 34,
+    "event_ct": 30,
+    "win_count": 27,
+    "rank": 42845,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
