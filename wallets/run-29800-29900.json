@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 29848,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4a6c16659ace39de0dec30ec82368035fc996a73",
+    "trader_name": "IronJellyfish",
+    "tag": "Overall",
+    "overall_gain": 2838.92691172,
+    "active_positions": 3,
+    "win_amount": 8871.66,
+    "loss_amount": -6032.73308828,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0.001668,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 6,
+    "rank": 29849,
+    "trader_tags": ""
   }
 ]
