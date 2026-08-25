@@ -286,5 +286,21 @@
     "win_count": 40,
     "rank": 5118,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x56846a231419ca08ae1dadf64a7643c41e5a7874",
+    "trader_name": "Petrash",
+    "tag": "Overall",
+    "overall_gain": 21157.680227840832,
+    "active_positions": 10,
+    "win_amount": 43224.566856164565,
+    "loss_amount": -22066.88662832373,
+    "win_rate": 0.6190476190476191,
+    "total_current_value": 6686.951109608,
+    "total_positions": 123,
+    "event_ct": 63,
+    "win_count": 39,
+    "rank": 5119,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
