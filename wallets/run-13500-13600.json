@@ -750,5 +750,21 @@
     "win_count": 8,
     "rank": 13547,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x73aa821686202771b0303e35bbeea8068f6ccbd6",
+    "trader_name": "quaalise",
+    "tag": "Overall",
+    "overall_gain": 7332.044728099278,
+    "active_positions": 1,
+    "win_amount": 7386.3010520992775,
+    "loss_amount": -54.256324,
+    "win_rate": 0.75,
+    "total_current_value": 0.009271000000000001,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 13548,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
