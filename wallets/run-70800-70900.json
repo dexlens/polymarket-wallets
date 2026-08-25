@@ -1246,5 +1246,21 @@
     "win_count": 2,
     "rank": 70879,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbdd88ccdc09f2dc0df6a0ffca109fe6d75b7296e",
+    "trader_name": "Djoul999",
+    "tag": "Overall",
+    "overall_gain": 790.823553124886,
+    "active_positions": 3,
+    "win_amount": 1250.682648259817,
+    "loss_amount": -459.85909513493095,
+    "win_rate": 0.3,
+    "total_current_value": 0.001449,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 3,
+    "rank": 70880,
+    "trader_tags": "> 1 year old"
   }
 ]
