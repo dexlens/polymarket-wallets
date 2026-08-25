@@ -1566,5 +1566,21 @@
     "win_count": 150,
     "rank": 83099,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xe158442d452eda5bc80878e0ac07e82cb980509f",
+    "trader_name": "kingmoon",
+    "tag": "Overall",
+    "overall_gain": 580.8925006805342,
+    "active_positions": 2,
+    "win_amount": 1753.2745077164343,
+    "loss_amount": -1172.3820070359,
+    "win_rate": 0.8405797101449275,
+    "total_current_value": 110.20688692000003,
+    "total_positions": 98,
+    "event_ct": 69,
+    "win_count": 58,
+    "rank": 83100,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
