@@ -270,5 +270,21 @@
     "win_count": 306,
     "rank": 71018,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3ccf675ebc1e7bb4bbfbc3f576eec0ecfa4ab312",
+    "trader_name": "Mr.Metal",
+    "tag": "Overall",
+    "overall_gain": 788.0019060625464,
+    "active_positions": 58,
+    "win_amount": 1419.733721860205,
+    "loss_amount": -631.7318157976589,
+    "win_rate": 0.71875,
+    "total_current_value": 0.209806493,
+    "total_positions": 118,
+    "event_ct": 64,
+    "win_count": 46,
+    "rank": 71019,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
