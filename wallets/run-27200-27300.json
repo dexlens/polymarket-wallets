@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 27260,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x03c4149255ceb440c9744bbb9878f9f55a6540c2",
+    "trader_name": "pam80",
+    "tag": "Overall",
+    "overall_gain": 3167.751104400719,
+    "active_positions": 0,
+    "win_amount": 3169.436658844346,
+    "loss_amount": -1.6855544436260002,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.025706,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 14,
+    "rank": 27261,
+    "trader_tags": "> 1 year old"
   }
 ]
