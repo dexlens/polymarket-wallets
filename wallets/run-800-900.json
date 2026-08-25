@@ -1406,5 +1406,21 @@
     "win_count": 2,
     "rank": 888,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x1c62cd70c36d94d6280b835a3ac414dd5a7a5d44",
+    "trader_name": "Erutan",
+    "tag": "Overall",
+    "overall_gain": 139025.38976946543,
+    "active_positions": 25,
+    "win_amount": 536522.0801838959,
+    "loss_amount": -397496.6904144304,
+    "win_rate": 0.6847826086956522,
+    "total_current_value": 58.080245,
+    "total_positions": 242,
+    "event_ct": 184,
+    "win_count": 126,
+    "rank": 889,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
