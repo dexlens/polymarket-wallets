@@ -222,5 +222,21 @@
     "win_count": 2786,
     "rank": 914,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x1a475c96573121a913ae61cbc57005c6c0e4846f",
+    "trader_name": "Eurospar",
+    "tag": "Overall",
+    "overall_gain": 134625.57024852908,
+    "active_positions": 40,
+    "win_amount": 197301.75047326586,
+    "loss_amount": -62676.18022473673,
+    "win_rate": 0.4639175257731959,
+    "total_current_value": 145.06013930100002,
+    "total_positions": 151,
+    "event_ct": 97,
+    "win_count": 45,
+    "rank": 915,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Crypto PnL > $100k"
   }
 ]
