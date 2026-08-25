@@ -1502,5 +1502,21 @@
     "win_count": 7,
     "rank": 8694,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x154b3b55c595ab30759df40798dbfa38abeca204",
+    "trader_name": "ejinosako",
+    "tag": "Overall",
+    "overall_gain": 12060.440672432966,
+    "active_positions": 2,
+    "win_amount": 27444.154972432963,
+    "loss_amount": -15383.7143,
+    "win_rate": 0.75,
+    "total_current_value": 26.097965000000002,
+    "total_positions": 80,
+    "event_ct": 24,
+    "win_count": 18,
+    "rank": 8695,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
