@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 9854,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x577eeea622bb1bb85f7c74ab1c6e77f5c1c732d0",
+    "trader_name": "yeguo",
+    "tag": "Overall",
+    "overall_gain": 10632.909287170172,
+    "active_positions": 2,
+    "win_amount": 10739.306087,
+    "loss_amount": -106.396799829826,
+    "win_rate": 0.7878787878787878,
+    "total_current_value": 4.945648065,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 26,
+    "rank": 9855,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
