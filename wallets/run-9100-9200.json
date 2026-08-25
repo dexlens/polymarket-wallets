@@ -990,5 +990,21 @@
     "win_count": 17,
     "rank": 9162,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x597e92ad5fe9e5c7095dfaa16198dbab61826536",
+    "trader_name": "juicegpt",
+    "tag": "Overall",
+    "overall_gain": 11438.2144,
+    "active_positions": 0,
+    "win_amount": 11438.2144,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 9163,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
