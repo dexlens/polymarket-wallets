@@ -1342,5 +1342,21 @@
     "win_count": 3,
     "rank": 35785,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58801b6b455dc4a107a3d2aa02b0d57c9c43f092",
+    "trader_name": "bsfgw",
+    "tag": "Overall",
+    "overall_gain": 2277.336529437413,
+    "active_positions": 5,
+    "win_amount": 3130.8992329459534,
+    "loss_amount": -853.5627035085402,
+    "win_rate": 0.7475728155339806,
+    "total_current_value": 5.5108028305,
+    "total_positions": 104,
+    "event_ct": 103,
+    "win_count": 77,
+    "rank": 35786,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
