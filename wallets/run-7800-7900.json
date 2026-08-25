@@ -750,5 +750,21 @@
     "win_count": 11,
     "rank": 7847,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x22a67f723fbdd6102628e618faee0e33f84da038",
+    "trader_name": "sebastianes",
+    "tag": "Overall",
+    "overall_gain": 13432.56,
+    "active_positions": 0,
+    "win_amount": 13432.56,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 7848,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
