@@ -1342,5 +1342,21 @@
     "win_count": 17,
     "rank": 7184,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d4901f61086eae4513c3d51ea24084703776638",
+    "trader_name": "erb80",
+    "tag": "Overall",
+    "overall_gain": 14883.463013986646,
+    "active_positions": 17,
+    "win_amount": 15059.803199749,
+    "loss_amount": -176.34018576235502,
+    "win_rate": 0.15384615384615385,
+    "total_current_value": 15162.428871833501,
+    "total_positions": 21,
+    "event_ct": 13,
+    "win_count": 2,
+    "rank": 7185,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
