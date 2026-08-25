@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 40090,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x507e598d2537676d385fd15e63d8c871fa219b79",
+    "trader_name": "Capseco",
+    "tag": "Overall",
+    "overall_gain": 1990.0690842780011,
+    "active_positions": 8,
+    "win_amount": 2795.6613776979593,
+    "loss_amount": -805.592293419958,
+    "win_rate": 0.375,
+    "total_current_value": 0.065063,
+    "total_positions": 30,
+    "event_ct": 16,
+    "win_count": 6,
+    "rank": 40091,
+    "trader_tags": ""
   }
 ]
