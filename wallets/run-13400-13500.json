@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 13455,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x929f1d49528ef8a5c3f8c4a1487af2cafbeeaf81",
+    "trader_name": "naixin",
+    "tag": "Overall",
+    "overall_gain": 7393.214459450855,
+    "active_positions": 0,
+    "win_amount": 7393.214459450855,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.384419,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 13456,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
