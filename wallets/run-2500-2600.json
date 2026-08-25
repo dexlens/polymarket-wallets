@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 2550,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfe4a2942a8385548201d8665233daec4d6a5bc74",
+    "trader_name": "kekw",
+    "tag": "Overall",
+    "overall_gain": 45889.98395727718,
+    "active_positions": 17,
+    "win_amount": 76152.99877515531,
+    "loss_amount": -30263.01481787812,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 13946.391464839498,
+    "total_positions": 119,
+    "event_ct": 90,
+    "win_count": 60,
+    "rank": 2551,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
