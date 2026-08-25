@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 4999,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9a1f8ce407172a0a3c8d57c92e182d22ace2c925",
+    "trader_name": "ETHhedge",
+    "tag": "Overall",
+    "overall_gain": 21658.64082050369,
+    "active_positions": 6,
+    "win_amount": 21658.64082050369,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 189365.940355315,
+    "total_positions": 6,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 5000,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
