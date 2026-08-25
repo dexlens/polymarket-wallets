@@ -862,5 +862,21 @@
     "win_count": 15,
     "rank": 2854,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5db55991a1b7a921c39aa5d823bfd15397b81a50",
+    "trader_name": "Dragonite35",
+    "tag": "Overall",
+    "overall_gain": 40310.23514311595,
+    "active_positions": 7,
+    "win_amount": 200797.5508169476,
+    "loss_amount": -160487.31567383168,
+    "win_rate": 0.43333333333333335,
+    "total_current_value": 17671.247122785004,
+    "total_positions": 123,
+    "event_ct": 90,
+    "win_count": 39,
+    "rank": 2855,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
