@@ -1374,5 +1374,21 @@
     "win_count": 2,
     "rank": 76287,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x36983482b45f4b95ed47619edaa1e1ed89dd3509",
+    "trader_name": "ZWJJX",
+    "tag": "Overall",
+    "overall_gain": 694.4624586449809,
+    "active_positions": 9,
+    "win_amount": 701.0439257334929,
+    "loss_amount": -6.581467088512,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 3.6625608565,
+    "total_positions": 36,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 76288,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
