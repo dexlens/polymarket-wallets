@@ -606,5 +606,21 @@
     "win_count": 93,
     "rank": 50239,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x98a1f7612f8132dd3772f33558d03c88997061b6",
+    "trader_name": "Hu-Yaobang",
+    "tag": "Overall",
+    "overall_gain": 1473.7411980296947,
+    "active_positions": 8,
+    "win_amount": 1610.51781544202,
+    "loss_amount": -136.77661741232498,
+    "win_rate": 0.864406779661017,
+    "total_current_value": 1059.4911929475,
+    "total_positions": 75,
+    "event_ct": 59,
+    "win_count": 51,
+    "rank": 50240,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
