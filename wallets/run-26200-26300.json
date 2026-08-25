@@ -670,5 +670,21 @@
     "win_count": 15,
     "rank": 26243,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6522c0230edcc57b16dfee62b754cfa9354e5d4f",
+    "trader_name": "Connext",
+    "tag": "Overall",
+    "overall_gain": 3332.119463062001,
+    "active_positions": 0,
+    "win_amount": 3960.613584062,
+    "loss_amount": -628.4941210000001,
+    "win_rate": 0.937007874015748,
+    "total_current_value": 0,
+    "total_positions": 192,
+    "event_ct": 127,
+    "win_count": 119,
+    "rank": 26244,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
