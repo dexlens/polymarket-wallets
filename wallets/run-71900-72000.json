@@ -1406,5 +1406,21 @@
     "win_count": 3,
     "rank": 71989,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x05793a504c3fbf258c6e3ed9dc2ba03e3143aa36",
+    "trader_name": "kimddu",
+    "tag": "Overall",
+    "overall_gain": 766.90764149786,
+    "active_positions": 12,
+    "win_amount": 4093.6302696931725,
+    "loss_amount": -3326.722628195312,
+    "win_rate": 0.9615384615384616,
+    "total_current_value": 14327.283738057,
+    "total_positions": 84,
+    "event_ct": 52,
+    "win_count": 50,
+    "rank": 71990,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
