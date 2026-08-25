@@ -1070,5 +1070,21 @@
     "win_count": 1,
     "rank": 87668,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x52cf796b2ef7ed638629e973fa498881e39d015e",
+    "trader_name": "yestoday",
+    "tag": "Overall",
+    "overall_gain": 516.834371960016,
+    "active_positions": 2,
+    "win_amount": 535.8342599600161,
+    "loss_amount": -18.999888,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 20.000016,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 87669,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
