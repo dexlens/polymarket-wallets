@@ -1102,5 +1102,21 @@
     "win_count": 163,
     "rank": 4969,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x09deb96036c52fd90992c84bb8ef3a873c7abfa0",
+    "trader_name": "MEABear",
+    "tag": "Overall",
+    "overall_gain": 21805.568383,
+    "active_positions": 0,
+    "win_amount": 21805.568383,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 4970,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
