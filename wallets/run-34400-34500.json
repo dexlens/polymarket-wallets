@@ -62,5 +62,21 @@
     "win_count": 1,
     "rank": 34405,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x955118f2d3c3ab2976e7294166832428a7898c45",
+    "trader_name": "eto1lol",
+    "tag": "Overall",
+    "overall_gain": 2388.304042489162,
+    "active_positions": 55,
+    "win_amount": 5182.6429714410015,
+    "loss_amount": -2794.3389289518386,
+    "win_rate": 0.82328190743338,
+    "total_current_value": 1196.5852498474997,
+    "total_positions": 1298,
+    "event_ct": 713,
+    "win_count": 587,
+    "rank": 34406,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
