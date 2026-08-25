@@ -974,5 +974,21 @@
     "win_count": 2,
     "rank": 42262,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b1abf4d9de691384e350db3084d21f1e3637e5f",
+    "trader_name": "fbsdrh",
+    "tag": "Overall",
+    "overall_gain": 1862.63,
+    "active_positions": 1,
+    "win_amount": 1865.13,
+    "loss_amount": -2.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 42263,
+    "trader_tags": ""
   }
 ]
