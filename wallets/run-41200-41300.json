@@ -46,5 +46,21 @@
     "win_count": 6,
     "rank": 41204,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6f7b27de0603266f4def5f2b5711aa4127481893",
+    "trader_name": "highlows",
+    "tag": "Overall",
+    "overall_gain": 1922.48729459899,
+    "active_positions": 3,
+    "win_amount": 3242.3197993356316,
+    "loss_amount": -1319.832504736642,
+    "win_rate": 0.875,
+    "total_current_value": 500.276704446,
+    "total_positions": 68,
+    "event_ct": 48,
+    "win_count": 42,
+    "rank": 41205,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
