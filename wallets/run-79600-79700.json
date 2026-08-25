@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 79690,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4120a5d4f0baaeb4661d692cb1d89c8815b6bf44",
+    "trader_name": "Cancellation",
+    "tag": "Overall",
+    "overall_gain": 635.555435133782,
+    "active_positions": 5,
+    "win_amount": 773.218259297196,
+    "loss_amount": -137.662824163414,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 11.218195999999999,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 79691,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
