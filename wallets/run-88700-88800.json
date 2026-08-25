@@ -878,5 +878,21 @@
     "win_count": 1,
     "rank": 88756,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1616a4d95318dd13066c1156841d46378d8fa3fa",
+    "trader_name": "Frams",
+    "tag": "Overall",
+    "overall_gain": 504.63508683241577,
+    "active_positions": 277,
+    "win_amount": 4291.150841493068,
+    "loss_amount": -3786.5157546606533,
+    "win_rate": 0.507223113964687,
+    "total_current_value": 1.3482999999999998,
+    "total_positions": 635,
+    "event_ct": 623,
+    "win_count": 316,
+    "rank": 88757,
+    "trader_tags": ""
   }
 ]
