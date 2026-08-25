@@ -35,4 +35,10 @@ for (const wallet of realdata.slice(0, 3)) {
     stderr: "piped"
   });
   await c.status();
+
+  // increase the index
+  const indexfilename = `index.json`;
+  const indexdata = JSON.parse(await Deno.readTextFile(indexfilename));
+  indexdata.wallets++;
+  await Deno.writeTextFile(indexfilename, JSON.stringify(indexdata, null, 2));
 }
