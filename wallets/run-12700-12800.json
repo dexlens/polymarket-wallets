@@ -1406,5 +1406,21 @@
     "win_count": 4,
     "rank": 12788,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x90a164e42900605d327ee5d062cc338dfb9b8d3a",
+    "trader_name": "joho5",
+    "tag": "Overall",
+    "overall_gain": 7903.987928,
+    "active_positions": 1,
+    "win_amount": 8679.987928,
+    "loss_amount": -776.0000000000001,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 12789,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
