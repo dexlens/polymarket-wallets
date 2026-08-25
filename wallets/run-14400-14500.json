@@ -526,5 +526,21 @@
     "win_count": 34,
     "rank": 14433,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4574e401ce7324d21a6aac80ea66398897d8888f",
+    "trader_name": "Szmati",
+    "tag": "Overall",
+    "overall_gain": 6815.961891152441,
+    "active_positions": 0,
+    "win_amount": 6945.89022706911,
+    "loss_amount": -129.928335916668,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.00221,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 14434,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
