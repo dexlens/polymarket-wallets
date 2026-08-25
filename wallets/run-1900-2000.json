@@ -878,5 +878,21 @@
     "win_count": 49,
     "rank": 1955,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa315afc43cd6c3fc06774d33d769d0ff043ecabb",
+    "trader_name": "AgriasOaks",
+    "tag": "Overall",
+    "overall_gain": 61775.227878412465,
+    "active_positions": 9,
+    "win_amount": 1771778.370781531,
+    "loss_amount": -1710003.1429031189,
+    "win_rate": 0.5414220482713633,
+    "total_current_value": 71639.214013731,
+    "total_positions": 1900,
+    "event_ct": 1533,
+    "win_count": 830,
+    "rank": 1956,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
