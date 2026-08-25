@@ -1326,5 +1326,21 @@
     "win_count": 14,
     "rank": 7983,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3450f34cdd7c890ba874aaffe51bd48aa4583c4d",
+    "trader_name": "smolting",
+    "tag": "Overall",
+    "overall_gain": 13151.367133787635,
+    "active_positions": 0,
+    "win_amount": 13490.267283303634,
+    "loss_amount": -338.900149516,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.003635,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 7984,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
