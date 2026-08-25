@@ -350,5 +350,21 @@
     "win_count": 9,
     "rank": 61223,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7132fb2154678e5a13f21fc71ef9d3cb6140a53e",
+    "trader_name": "pntn-ara",
+    "tag": "Overall",
+    "overall_gain": 1041.8417378519614,
+    "active_positions": 1990,
+    "win_amount": 17446.293363783305,
+    "loss_amount": -16404.45162593134,
+    "win_rate": 0.5199063231850117,
+    "total_current_value": 5509.764145340001,
+    "total_positions": 3794,
+    "event_ct": 427,
+    "win_count": 222,
+    "rank": 61224,
+    "trader_tags": "1k+ Positions"
   }
 ]
