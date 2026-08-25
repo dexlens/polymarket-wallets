@@ -1134,5 +1134,21 @@
     "win_count": 127,
     "rank": 25272,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x69764985dd7892a0ee9191e240ee85d7a88a03b1",
+    "trader_name": "coffeecantina",
+    "tag": "Overall",
+    "overall_gain": 3494.260031552221,
+    "active_positions": 0,
+    "win_amount": 3794.2573995522207,
+    "loss_amount": -299.997368,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.002221,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 25273,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
