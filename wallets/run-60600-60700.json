@@ -766,5 +766,21 @@
     "win_count": 15,
     "rank": 60649,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x82dfd472bdbbe407e76e5c32178ad0202a95f5dd",
+    "trader_name": "mrbillionaire",
+    "tag": "Overall",
+    "overall_gain": 1057.2454263241902,
+    "active_positions": 131,
+    "win_amount": 5310.2098728035635,
+    "loss_amount": -4252.964446479372,
+    "win_rate": 0.5483870967741935,
+    "total_current_value": 782.5022379999999,
+    "total_positions": 169,
+    "event_ct": 155,
+    "win_count": 85,
+    "rank": 60650,
+    "trader_tags": "< 30 days old"
   }
 ]
