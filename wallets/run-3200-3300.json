@@ -654,5 +654,21 @@
     "win_count": 52,
     "rank": 3241,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80a4552cdcde3b861b8adc146ab1fbd4711022cc",
+    "trader_name": "puravida",
+    "tag": "Overall",
+    "overall_gain": 35395.519285115144,
+    "active_positions": 190,
+    "win_amount": 81259.26392668337,
+    "loss_amount": -45863.74464156824,
+    "win_rate": 0.6781485468245425,
+    "total_current_value": 21887.532542111498,
+    "total_positions": 1472,
+    "event_ct": 929,
+    "win_count": 630,
+    "rank": 3242,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
