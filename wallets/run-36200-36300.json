@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 36234,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa940bc48f5d7328e100aa423d69f273a653f681a",
+    "trader_name": "Trumpet",
+    "tag": "Overall",
+    "overall_gain": 2244.28769687475,
+    "active_positions": 0,
+    "win_amount": 2937.3461472714944,
+    "loss_amount": -693.0584503967441,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 0.003256,
+    "total_positions": 48,
+    "event_ct": 18,
+    "win_count": 13,
+    "rank": 36235,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
