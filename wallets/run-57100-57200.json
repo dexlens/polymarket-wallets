@@ -414,5 +414,21 @@
     "win_count": 29,
     "rank": 57127,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x24c6219e3b910fc9fe7eb90458c934d3aa305587",
+    "trader_name": "ejz101",
+    "tag": "Overall",
+    "overall_gain": 1174.1658821842616,
+    "active_positions": 38,
+    "win_amount": 4720.909785777938,
+    "loss_amount": -3546.743903593677,
+    "win_rate": 0.8,
+    "total_current_value": 3111.4657384035,
+    "total_positions": 124,
+    "event_ct": 50,
+    "win_count": 40,
+    "rank": 57128,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
