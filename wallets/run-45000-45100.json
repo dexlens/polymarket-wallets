@@ -1070,5 +1070,21 @@
     "win_count": 3,
     "rank": 45068,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x66c026307e379e2c593863d90774628832f28855",
+    "trader_name": "Starash",
+    "tag": "Overall",
+    "overall_gain": 1710.5,
+    "active_positions": 1,
+    "win_amount": 2571,
+    "loss_amount": -860.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 45069,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
