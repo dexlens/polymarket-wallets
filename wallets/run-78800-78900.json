@@ -1470,5 +1470,21 @@
     "win_count": 2,
     "rank": 78893,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x507f9d3781cdae482a92a7d5fb0a9c35b63eff28",
+    "trader_name": "FEAS6",
+    "tag": "Overall",
+    "overall_gain": 649.5178302062629,
+    "active_positions": 2,
+    "win_amount": 1075.534514164068,
+    "loss_amount": -426.016683957805,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.02663,
+    "total_positions": 17,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 78894,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
