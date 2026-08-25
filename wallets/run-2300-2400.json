@@ -654,5 +654,21 @@
     "win_count": 7,
     "rank": 2341,
     "trader_tags": "Overall PnL > $10k; > 1 year old; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x91c702f141502ecf64a18dd8b4fb07037b6a28cc",
+    "trader_name": "gilbert",
+    "tag": "Overall",
+    "overall_gain": 50486.54195255944,
+    "active_positions": 1,
+    "win_amount": 162968.5876902411,
+    "loss_amount": -112482.04573768163,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 22352.141803074504,
+    "total_positions": 474,
+    "event_ct": 171,
+    "win_count": 152,
+    "rank": 2342,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
