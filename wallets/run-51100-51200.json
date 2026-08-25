@@ -1150,5 +1150,21 @@
     "win_count": 37,
     "rank": 51173,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x95c39b702a071b655bfe44767af3d7a729f31872",
+    "trader_name": "FInf",
+    "tag": "Overall",
+    "overall_gain": 1430.368718250131,
+    "active_positions": 6,
+    "win_amount": 1436.504218255131,
+    "loss_amount": -6.135500005,
+    "win_rate": 0.875,
+    "total_current_value": 15.032150991,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 51174,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
