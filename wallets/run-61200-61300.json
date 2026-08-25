@@ -1166,5 +1166,21 @@
     "win_count": 7,
     "rank": 61274,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9068922bd44383641118d50d1469ec98bceaaaad",
+    "trader_name": "netflix",
+    "tag": "Overall",
+    "overall_gain": 1040.560023537062,
+    "active_positions": 1,
+    "win_amount": 1170.779823815635,
+    "loss_amount": -130.219800278573,
+    "win_rate": 0.5,
+    "total_current_value": 0.002380625,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 10,
+    "rank": 61275,
+    "trader_tags": "> 1 year old"
   }
 ]
