@@ -1518,5 +1518,21 @@
     "win_count": 3,
     "rank": 5795,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0b12ea892b667467fbbbfca2a0e864856ea761aa",
+    "trader_name": "lowelld",
+    "tag": "Overall",
+    "overall_gain": 18578.818564999998,
+    "active_positions": 0,
+    "win_amount": 18736.458564999997,
+    "loss_amount": -157.64,
+    "win_rate": 0.9047619047619048,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 21,
+    "win_count": 19,
+    "rank": 5796,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
