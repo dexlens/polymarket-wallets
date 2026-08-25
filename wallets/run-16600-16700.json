@@ -830,5 +830,21 @@
     "win_count": 40,
     "rank": 16652,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x78ef3e170626bd8ac900dd3c97b30cbcb970dcb1",
+    "trader_name": "alexhafer",
+    "tag": "Overall",
+    "overall_gain": 5715,
+    "active_positions": 1,
+    "win_amount": 5771.610000000001,
+    "loss_amount": -56.6099999999999,
+    "win_rate": 0.75,
+    "total_current_value": 1943.6100000000001,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 16653,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
