@@ -318,5 +318,21 @@
     "win_count": 3,
     "rank": 7120,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85c4363b59e3b52eb85fda112519d296bcdd1eb9",
+    "trader_name": "mariestrack",
+    "tag": "Overall",
+    "overall_gain": 15015.619999999999,
+    "active_positions": 0,
+    "win_amount": 15015.619999999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 7121,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
