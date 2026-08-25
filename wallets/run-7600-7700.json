@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 7671,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48be64cacd43048d38e522c83281e99161b773a8",
+    "trader_name": "tysonuw",
+    "tag": "Overall",
+    "overall_gain": 13787.493425756493,
+    "active_positions": 82,
+    "win_amount": 270889.90905980783,
+    "loss_amount": -257102.41563405131,
+    "win_rate": 0.5518867924528302,
+    "total_current_value": 10889.166088447499,
+    "total_positions": 222,
+    "event_ct": 212,
+    "win_count": 117,
+    "rank": 7672,
+    "trader_tags": ""
   }
 ]
