@@ -1310,5 +1310,21 @@
     "win_count": 5,
     "rank": 16882,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe855502b8c19bc1f2674d53a3dd7eb6ca4f7a4ad",
+    "trader_name": "Mobilc",
+    "tag": "Overall",
+    "overall_gain": 5603.888903345208,
+    "active_positions": 3,
+    "win_amount": 5733.893687196472,
+    "loss_amount": -130.00478385126394,
+    "win_rate": 0.9859154929577465,
+    "total_current_value": 14741.311997225997,
+    "total_positions": 197,
+    "event_ct": 71,
+    "win_count": 70,
+    "rank": 16883,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
