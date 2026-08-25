@@ -1582,5 +1582,21 @@
     "win_count": 23,
     "rank": 67300,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c24ef52992ac5c7c6d302db6f0c41ccbb838a70",
+    "trader_name": "sankyo",
+    "tag": "Overall",
+    "overall_gain": 880.6806457926995,
+    "active_positions": 26,
+    "win_amount": 1723.1273807496102,
+    "loss_amount": -842.4467349569105,
+    "win_rate": 0.6473118279569893,
+    "total_current_value": 0.005805,
+    "total_positions": 929,
+    "event_ct": 465,
+    "win_count": 301,
+    "rank": 67301,
+    "trader_tags": "< 30 days old"
   }
 ]
