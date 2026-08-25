@@ -1454,5 +1454,21 @@
     "win_count": 7,
     "rank": 15191,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef51e4305fa5322b3b18e5984ae7af1111914b4d",
+    "trader_name": "Tendz",
+    "tag": "Overall",
+    "overall_gain": 6399.435563258604,
+    "active_positions": 0,
+    "win_amount": 6435.29282557773,
+    "loss_amount": -35.857262319126,
+    "win_rate": 0.5,
+    "total_current_value": 0.011227,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 15192,
+    "trader_tags": "> 1 year old; 67%+ Positions in US Election "
   }
 ]
