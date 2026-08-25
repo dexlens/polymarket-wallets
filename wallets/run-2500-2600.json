@@ -894,5 +894,21 @@
     "win_count": 1,
     "rank": 2556,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x944e0472b99926f4f712fc97dc0a846a8c5d8c94",
+    "trader_name": "mountaindewd",
+    "tag": "Overall",
+    "overall_gain": 45724.925769919464,
+    "active_positions": 44,
+    "win_amount": 112333.57789659852,
+    "loss_amount": -66608.65212667908,
+    "win_rate": 0.6225165562913907,
+    "total_current_value": 63783.39121930549,
+    "total_positions": 388,
+    "event_ct": 302,
+    "win_count": 188,
+    "rank": 2557,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
