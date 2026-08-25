@@ -62,5 +62,21 @@
     "win_count": 3,
     "rank": 11104,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe262b6c3fc14e2e75af11c1a8a1a43864d550b1c",
+    "trader_name": "pipiwow",
+    "tag": "Overall",
+    "overall_gain": 9477.570209469852,
+    "active_positions": 11,
+    "win_amount": 9477.591413007642,
+    "loss_amount": -0.02120353778999995,
+    "win_rate": 0.9375,
+    "total_current_value": 1074.4764442785,
+    "total_positions": 27,
+    "event_ct": 16,
+    "win_count": 15,
+    "rank": 11105,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
