@@ -1182,5 +1182,21 @@
     "win_count": 7,
     "rank": 83375,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x75bf86d250f7a54064abd3deab8780e08823aec2",
+    "trader_name": "rmobj",
+    "tag": "Overall",
+    "overall_gain": 576.247018,
+    "active_positions": 0,
+    "win_amount": 576.247018,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 83376,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
