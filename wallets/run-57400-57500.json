@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 57490,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2647d188b1763276325db451cbb67aa3b4fdd6e7",
+    "trader_name": "12phantomldm",
+    "tag": "Overall",
+    "overall_gain": 1160.380450313409,
+    "active_positions": 1,
+    "win_amount": 1314.699280626272,
+    "loss_amount": -154.31883031286299,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 302.2284426,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 57491,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
