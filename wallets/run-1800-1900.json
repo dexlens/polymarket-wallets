@@ -574,5 +574,21 @@
     "win_count": 1,
     "rank": 1836,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8eb4c76b438fb82ef9de4e0513ed8a2bf0cbd892",
+    "trader_name": "BabaRiley",
+    "tag": "Overall",
+    "overall_gain": 66433.74619330803,
+    "active_positions": 19,
+    "win_amount": 524453.455353,
+    "loss_amount": -458019.70915969205,
+    "win_rate": 0.4722222222222222,
+    "total_current_value": 659.46368,
+    "total_positions": 39,
+    "event_ct": 36,
+    "win_count": 17,
+    "rank": 1837,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
