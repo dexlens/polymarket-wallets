@@ -590,5 +590,21 @@
     "win_count": 5,
     "rank": 84238,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3c0d7f147e9bc8847f8c6f82456462bbde0c9997",
+    "trader_name": "MAGA202401",
+    "tag": "Overall",
+    "overall_gain": 563.153482530761,
+    "active_positions": 5,
+    "win_amount": 613.044854257909,
+    "loss_amount": -49.89137172714803,
+    "win_rate": 0.75,
+    "total_current_value": 0.017018,
+    "total_positions": 9,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 84239,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
