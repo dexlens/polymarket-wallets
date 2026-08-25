@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 63847,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xd0fe3eb5c297f678f0971f764521abad57bb9e17",
+    "trader_name": "doloreshaze",
+    "tag": "Overall",
+    "overall_gain": 978.0083558879221,
+    "active_positions": 1,
+    "win_amount": 1076.9099761345751,
+    "loss_amount": -98.901620246653,
+    "win_rate": 0.8,
+    "total_current_value": 0.013049,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 63848,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
