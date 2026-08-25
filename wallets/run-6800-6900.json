@@ -222,5 +222,21 @@
     "win_count": 4,
     "rank": 6814,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7d62424cc8e7135a2491a616e7af87b9a1402e48",
+    "trader_name": "EricBrown2",
+    "tag": "Overall",
+    "overall_gain": 15747,
+    "active_positions": 7,
+    "win_amount": 24965,
+    "loss_amount": -9218,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 7,
+    "rank": 6815,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
