@@ -686,5 +686,21 @@
     "win_count": 7,
     "rank": 55844,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x40b96182a35fbe3c2bb4162e036ecf0c786db002",
+    "trader_name": "moopsy",
+    "tag": "Overall",
+    "overall_gain": 1224.1885444144132,
+    "active_positions": 1,
+    "win_amount": 5112.635622015905,
+    "loss_amount": -3888.4470776014923,
+    "win_rate": 0.8072916666666666,
+    "total_current_value": 2.91571616,
+    "total_positions": 233,
+    "event_ct": 192,
+    "win_count": 155,
+    "rank": 55845,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
