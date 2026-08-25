@@ -142,5 +142,21 @@
     "win_count": 37,
     "rank": 3509,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x889351c90cc897f3456eba9b567ab9d13186ae72",
+    "trader_name": "Zontiq",
+    "tag": "Overall",
+    "overall_gain": 32523.127458907402,
+    "active_positions": 14,
+    "win_amount": 32559.453961472766,
+    "loss_amount": -36.326502565363,
+    "win_rate": 0.9117647058823529,
+    "total_current_value": 105.336157735,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 31,
+    "rank": 3510,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
