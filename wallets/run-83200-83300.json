@@ -462,5 +462,21 @@
     "win_count": 4,
     "rank": 83230,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa0ba1d8f7b61855a97fe9f099a887421dfc9b7df",
+    "trader_name": "Hvchg",
+    "tag": "Overall",
+    "overall_gain": 578.7572262135469,
+    "active_positions": 4,
+    "win_amount": 598.532178145681,
+    "loss_amount": -19.774951932134,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 19.42445225,
+    "total_positions": 88,
+    "event_ct": 70,
+    "win_count": 50,
+    "rank": 83231,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
