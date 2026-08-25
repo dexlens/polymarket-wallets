@@ -1086,5 +1086,21 @@
     "win_count": 53,
     "rank": 68569,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3904f685302bc0a2e1b725b9c6f1757e2637b722",
+    "trader_name": "TWDBETS",
+    "tag": "Overall",
+    "overall_gain": 846.249094111008,
+    "active_positions": 23,
+    "win_amount": 1277.7541556961219,
+    "loss_amount": -431.505061585114,
+    "win_rate": 0.5357142857142857,
+    "total_current_value": 334.14004357,
+    "total_positions": 61,
+    "event_ct": 28,
+    "win_count": 15,
+    "rank": 68570,
+    "trader_tags": ""
   }
 ]
