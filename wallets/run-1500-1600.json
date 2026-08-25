@@ -1022,5 +1022,21 @@
     "win_count": 314,
     "rank": 1564,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x75253f58071564ba95f36258fcfb1e918552cde1",
+    "trader_name": "cynical.reason",
+    "tag": "Overall",
+    "overall_gain": 77432.76235884459,
+    "active_positions": 35,
+    "win_amount": 194689.58047245475,
+    "loss_amount": -117256.81811361015,
+    "win_rate": 0.6888888888888889,
+    "total_current_value": 71017.27452322798,
+    "total_positions": 103,
+    "event_ct": 45,
+    "win_count": 31,
+    "rank": 1565,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
