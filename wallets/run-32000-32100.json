@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 32051,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb392b0234600393289f7a5a0dc32af604ea0fc73",
+    "trader_name": "Berkaja",
+    "tag": "Overall",
+    "overall_gain": 2595.166724215004,
+    "active_positions": 51,
+    "win_amount": 13663.771096224467,
+    "loss_amount": -11068.604372009464,
+    "win_rate": 0.754863813229572,
+    "total_current_value": 22499.258426852,
+    "total_positions": 538,
+    "event_ct": 257,
+    "win_count": 194,
+    "rank": 32052,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
