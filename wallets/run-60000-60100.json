@@ -142,5 +142,21 @@
     "win_count": 4,
     "rank": 60010,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52dd2ef0c42c8b76c60d3f2f689dbc8dc2b5d79f",
+    "trader_name": "aSDAFD21",
+    "tag": "Overall",
+    "overall_gain": 1076.22733119447,
+    "active_positions": 8,
+    "win_amount": 2951.71277475405,
+    "loss_amount": -1875.4854435595798,
+    "win_rate": 0.5694444444444444,
+    "total_current_value": 301.026669732,
+    "total_positions": 96,
+    "event_ct": 72,
+    "win_count": 41,
+    "rank": 60011,
+    "trader_tags": ""
   }
 ]
