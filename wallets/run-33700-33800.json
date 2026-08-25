@@ -542,5 +542,21 @@
     "win_count": 3,
     "rank": 33735,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7dbf9dcdca5219dc69e84c3e21ac15733f6dc4f4",
+    "trader_name": "Ezclap",
+    "tag": "Overall",
+    "overall_gain": 2446.587753820218,
+    "active_positions": 8,
+    "win_amount": 2574.8379603369867,
+    "loss_amount": -128.25020651676897,
+    "win_rate": 0.6982758620689655,
+    "total_current_value": 41.76245,
+    "total_positions": 128,
+    "event_ct": 116,
+    "win_count": 81,
+    "rank": 33736,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
