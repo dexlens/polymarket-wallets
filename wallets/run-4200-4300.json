@@ -1278,5 +1278,21 @@
     "win_count": 15,
     "rank": 4280,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x700f13c7e8d583050cd2d4b977d1de101aef7b54",
+    "trader_name": "SinHua",
+    "tag": "Overall",
+    "overall_gain": 26085.32695911645,
+    "active_positions": 4,
+    "win_amount": 40117.89260711644,
+    "loss_amount": -14032.565648,
+    "win_rate": 0.8292682926829268,
+    "total_current_value": 19.539945711999998,
+    "total_positions": 100,
+    "event_ct": 41,
+    "win_count": 34,
+    "rank": 4281,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
