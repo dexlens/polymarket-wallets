@@ -1422,5 +1422,21 @@
     "win_count": 3,
     "rank": 21289,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x239242196abef00be95e48c28fe8951ccc570d4b",
+    "trader_name": "Nicolaea",
+    "tag": "Overall",
+    "overall_gain": 4286.325764120115,
+    "active_positions": 1,
+    "win_amount": 7977.404018120118,
+    "loss_amount": -3691.078254,
+    "win_rate": 0.6952380952380952,
+    "total_current_value": 92.919668,
+    "total_positions": 129,
+    "event_ct": 105,
+    "win_count": 73,
+    "rank": 21290,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
