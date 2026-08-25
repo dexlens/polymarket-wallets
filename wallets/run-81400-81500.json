@@ -846,5 +846,21 @@
     "win_count": 2,
     "rank": 81454,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x100c2b525a7afb5f856592c497f8498bb51dd463",
+    "trader_name": "MPiZfsivkURt",
+    "tag": "Overall",
+    "overall_gain": 607.0699999999999,
+    "active_positions": 1,
+    "win_amount": 687.9,
+    "loss_amount": -80.83,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 81455,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
