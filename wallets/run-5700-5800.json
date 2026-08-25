@@ -1022,5 +1022,21 @@
     "win_count": 123,
     "rank": 5764,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xca680f17e828e432cfdb21fd78f971f2a65b222a",
+    "trader_name": "ionpop",
+    "tag": "Overall",
+    "overall_gain": 18670.55634580772,
+    "active_positions": 2,
+    "win_amount": 20339.770419,
+    "loss_amount": -1669.2140731922811,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 5765,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
