@@ -990,5 +990,21 @@
     "win_count": 37,
     "rank": 62163,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x633fab993d17ef8e5c8121f9675ea514146a57e8",
+    "trader_name": "hatchet220",
+    "tag": "Overall",
+    "overall_gain": 1017.7980500742091,
+    "active_positions": 44,
+    "win_amount": 3274.86564222473,
+    "loss_amount": -2257.0675921505194,
+    "win_rate": 0.95662100456621,
+    "total_current_value": 0.35158700000000004,
+    "total_positions": 1326,
+    "event_ct": 1314,
+    "win_count": 1257,
+    "rank": 62164,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
