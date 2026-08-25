@@ -798,5 +798,21 @@
     "win_count": 62,
     "rank": 9150,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x543b7b7f5653d98a8c6ba173ab48e579e9274bb0",
+    "trader_name": "sladk",
+    "tag": "Overall",
+    "overall_gain": 11453.182421787664,
+    "active_positions": 1,
+    "win_amount": 13954.756382056494,
+    "loss_amount": -2501.573960268828,
+    "win_rate": 0.5,
+    "total_current_value": 2273.1466429,
+    "total_positions": 23,
+    "event_ct": 12,
+    "win_count": 6,
+    "rank": 9151,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
