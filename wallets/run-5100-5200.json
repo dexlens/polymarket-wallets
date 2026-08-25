@@ -1374,5 +1374,21 @@
     "win_count": 26,
     "rank": 5186,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf8cf052bf45a6894b84bef28542fa3a5200ecbcd",
+    "trader_name": "freidaq",
+    "tag": "Overall",
+    "overall_gain": 20866.864948000002,
+    "active_positions": 0,
+    "win_amount": 21012.244941,
+    "loss_amount": -145.379993,
+    "win_rate": 0.8260869565217391,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 23,
+    "win_count": 19,
+    "rank": 5187,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
