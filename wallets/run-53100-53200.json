@@ -862,5 +862,21 @@
     "win_count": 25,
     "rank": 53155,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f5230b319910485045cd5a54949c71e43ff0474",
+    "trader_name": "undercrypp",
+    "tag": "Overall",
+    "overall_gain": 1340.24518,
+    "active_positions": 1,
+    "win_amount": 4260.12628,
+    "loss_amount": -2919.8811,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 53156,
+    "trader_tags": "> 1 year old"
   }
 ]
