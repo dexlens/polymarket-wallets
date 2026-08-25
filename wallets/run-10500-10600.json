@@ -1390,5 +1390,21 @@
     "win_count": 24,
     "rank": 10587,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x073becc18ee05acc7ef36b263734b9a60f6fbdbd",
+    "trader_name": "worldorder",
+    "tag": "Overall",
+    "overall_gain": 9989.293608000004,
+    "active_positions": 11,
+    "win_amount": 68576.45335800001,
+    "loss_amount": -58587.15975,
+    "win_rate": 0.603448275862069,
+    "total_current_value": 0,
+    "total_positions": 59,
+    "event_ct": 58,
+    "win_count": 35,
+    "rank": 10588,
+    "trader_tags": ""
   }
 ]
