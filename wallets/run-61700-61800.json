@@ -1278,5 +1278,21 @@
     "win_count": 15,
     "rank": 61781,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xb3589e55d16570f8023455f409113be767ddc460",
+    "trader_name": "Zeretha",
+    "tag": "Overall",
+    "overall_gain": 1027.63,
+    "active_positions": 2,
+    "win_amount": 1323.33,
+    "loss_amount": -295.7,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 61782,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
