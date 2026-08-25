@@ -14,5 +14,21 @@
     "win_count": 9,
     "rank": 50002,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7731fdfbd6fcc6d0007cd2fe1506584c6f77c0bb",
+    "trader_name": "100shenglv",
+    "tag": "Overall",
+    "overall_gain": 1484.2827989511948,
+    "active_positions": 44,
+    "win_amount": 5052.7439083869,
+    "loss_amount": -3568.461109435705,
+    "win_rate": 0.38333333333333336,
+    "total_current_value": 75.24631632500001,
+    "total_positions": 68,
+    "event_ct": 60,
+    "win_count": 23,
+    "rank": 50003,
+    "trader_tags": "< 30 days old"
   }
 ]
