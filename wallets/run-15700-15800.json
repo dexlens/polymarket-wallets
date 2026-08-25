@@ -1518,5 +1518,21 @@
     "win_count": 267,
     "rank": 15795,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x635025e474289f1d2a9ab64429d3d8bdd9549b74",
+    "trader_name": "bigplayz",
+    "tag": "Overall",
+    "overall_gain": 6100.415383623911,
+    "active_positions": 6,
+    "win_amount": 6546.372513775671,
+    "loss_amount": -445.957130151761,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 0.024766473,
+    "total_positions": 53,
+    "event_ct": 38,
+    "win_count": 26,
+    "rank": 15796,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
