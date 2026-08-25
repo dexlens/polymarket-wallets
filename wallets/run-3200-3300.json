@@ -830,5 +830,21 @@
     "win_count": 26,
     "rank": 3252,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd6144ed688181019647e871e13224a6591d71fa3",
+    "trader_name": "Cooked",
+    "tag": "Overall",
+    "overall_gain": 35296.7688956526,
+    "active_positions": 344,
+    "win_amount": 118384.35646073238,
+    "loss_amount": -83087.58756507974,
+    "win_rate": 0.5759791122715404,
+    "total_current_value": 2111.452993716999,
+    "total_positions": 2927,
+    "event_ct": 1915,
+    "win_count": 1103,
+    "rank": 3253,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
