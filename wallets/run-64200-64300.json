@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 64240,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9baf83aac7428fc60981e653865f6c53ba30a719",
+    "trader_name": "aserdd",
+    "tag": "Overall",
+    "overall_gain": 967.0524620687081,
+    "active_positions": 0,
+    "win_amount": 1594.4647530000002,
+    "loss_amount": -627.412290931292,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 64241,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
