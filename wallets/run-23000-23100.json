@@ -990,5 +990,21 @@
     "win_count": 10,
     "rank": 23062,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x752e332d0b1e6ba9b38aaf3bd7dda8d05374b1b3",
+    "trader_name": "Afuckingbot",
+    "tag": "Overall",
+    "overall_gain": 3906.749877631938,
+    "active_positions": 4,
+    "win_amount": 7385.33851291,
+    "loss_amount": -3478.588635278062,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 754.41519308,
+    "total_positions": 14,
+    "event_ct": 11,
+    "win_count": 6,
+    "rank": 23063,
+    "trader_tags": "> 1 year old"
   }
 ]
