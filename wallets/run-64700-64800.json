@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 64731,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8741c1fc3149437c6cf65a234acf7ad9b7c6ed7b",
+    "trader_name": "EventEcho",
+    "tag": "Overall",
+    "overall_gain": 953.1932000000002,
+    "active_positions": 3,
+    "win_amount": 2323.6932,
+    "loss_amount": -1370.5,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 64732,
+    "trader_tags": ""
   }
 ]
