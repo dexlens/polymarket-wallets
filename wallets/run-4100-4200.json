@@ -478,5 +478,21 @@
     "win_count": 17,
     "rank": 4130,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ef972adf4a74e3bd14992782c037647cbb6afac",
+    "trader_name": "Markximus",
+    "tag": "Overall",
+    "overall_gain": 27030.646016004885,
+    "active_positions": 7,
+    "win_amount": 91277.77895706113,
+    "loss_amount": -64247.13294105623,
+    "win_rate": 0.38484848484848483,
+    "total_current_value": 1186.894768038,
+    "total_positions": 601,
+    "event_ct": 330,
+    "win_count": 127,
+    "rank": 4131,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
