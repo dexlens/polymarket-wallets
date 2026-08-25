@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 88738,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5c64c5b9f5ca9f8ceb4da49c07e50d7b8606a764",
+    "trader_name": "Fandral",
+    "tag": "Overall",
+    "overall_gain": 504.7776560767218,
+    "active_positions": 399,
+    "win_amount": 2446.6711139999993,
+    "loss_amount": -1941.8934579232775,
+    "win_rate": 0.925747003041689,
+    "total_current_value": 0,
+    "total_positions": 5707,
+    "event_ct": 5589,
+    "win_count": 5174,
+    "rank": 88739,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
