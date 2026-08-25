@@ -766,5 +766,21 @@
     "win_count": 6,
     "rank": 86449,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5cbdc20cda5c11585c9fb57745b95c86a232e60a",
+    "trader_name": "grvid09",
+    "tag": "Overall",
+    "overall_gain": 533.005521118557,
+    "active_positions": 4,
+    "win_amount": 590.384615452868,
+    "loss_amount": -57.379094334311,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 0.30482973999999996,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 5,
+    "rank": 86450,
+    "trader_tags": ""
   }
 ]
