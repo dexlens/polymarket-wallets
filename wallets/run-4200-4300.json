@@ -478,5 +478,21 @@
     "win_count": 130,
     "rank": 4230,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1efcbfd475d696009f339b58f73156001bc04fc9",
+    "trader_name": "DonJoey",
+    "tag": "Overall",
+    "overall_gain": 26430.986815143682,
+    "active_positions": 14,
+    "win_amount": 31752.29818702588,
+    "loss_amount": -5321.311371882198,
+    "win_rate": 0.4666666666666667,
+    "total_current_value": 54869.787844,
+    "total_positions": 19,
+    "event_ct": 15,
+    "win_count": 7,
+    "rank": 4231,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
