@@ -990,5 +990,21 @@
     "win_count": 3,
     "rank": 42063,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb884e2f3e7141c37a1697151cf15b279098acd78",
+    "trader_name": "Ovidasca",
+    "tag": "Overall",
+    "overall_gain": 1873.2251926754032,
+    "active_positions": 2,
+    "win_amount": 2462.7667502846352,
+    "loss_amount": -589.5415576092321,
+    "win_rate": 0.5,
+    "total_current_value": 0.009145,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 42064,
+    "trader_tags": ""
   }
 ]
