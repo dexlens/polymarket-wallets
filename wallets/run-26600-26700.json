@@ -126,5 +126,21 @@
     "win_count": 20,
     "rank": 26609,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb1783dcdfaa39d4b0798f919bafea1e7a11d1fa0",
+    "trader_name": "Eights",
+    "tag": "Overall",
+    "overall_gain": 3269.0606888746024,
+    "active_positions": 20,
+    "win_amount": 8209.515880037216,
+    "loss_amount": -4940.455191162614,
+    "win_rate": 0.5432098765432098,
+    "total_current_value": 1723.1217459430002,
+    "total_positions": 98,
+    "event_ct": 81,
+    "win_count": 44,
+    "rank": 26610,
+    "trader_tags": ""
   }
 ]
