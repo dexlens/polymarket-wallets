@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 37559,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3c06e979442099684f216e52d631f443de89f3d1",
+    "trader_name": "milleretf",
+    "tag": "Overall",
+    "overall_gain": 2150.75,
+    "active_positions": 1,
+    "win_amount": 2150.75,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 37560,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
