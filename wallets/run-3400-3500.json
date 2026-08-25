@@ -318,5 +318,21 @@
     "win_count": 2434,
     "rank": 3420,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x626fe96c20d742606089aa06c5b9c79283fdc1c5",
+    "trader_name": "zaoan",
+    "tag": "Overall",
+    "overall_gain": 33345.17909006664,
+    "active_positions": 0,
+    "win_amount": 33345.17909006664,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0015487749999999998,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 3421,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
