@@ -286,5 +286,21 @@
     "win_count": 717,
     "rank": 34419,
     "trader_tags": "1k+ Positions"
+  },
+  {
+    "trader": "0x9b690807a85f05a5a368966635e2da0476a7398c",
+    "trader_name": "libertyfi",
+    "tag": "Overall",
+    "overall_gain": 2387.350862139999,
+    "active_positions": 2,
+    "win_amount": 9238.2693091,
+    "loss_amount": -6850.91844696,
+    "win_rate": 0.75,
+    "total_current_value": 2649.56719,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 6,
+    "rank": 34420,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
