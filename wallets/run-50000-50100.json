@@ -734,5 +734,21 @@
     "win_count": 9,
     "rank": 50047,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x409d52925a9e98564e8cc2c215bf5763c062aa5f",
+    "trader_name": "bilekjek",
+    "tag": "Overall",
+    "overall_gain": 1482.5321830000005,
+    "active_positions": 0,
+    "win_amount": 5306.531291,
+    "loss_amount": -3823.9991080000013,
+    "win_rate": 0.7599787120808941,
+    "total_current_value": 0,
+    "total_positions": 3625,
+    "event_ct": 1879,
+    "win_count": 1428,
+    "rank": 50048,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
