@@ -270,5 +270,21 @@
     "win_count": 13,
     "rank": 8717,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x152f70eedf49a1ab0a5ffe3a8a0d75f269195b22",
+    "trader_name": "SpoonManF",
+    "tag": "Overall",
+    "overall_gain": 12028.762293822067,
+    "active_positions": 1213,
+    "win_amount": 29069.58449082492,
+    "loss_amount": -17040.822197002857,
+    "win_rate": 0.6556291390728477,
+    "total_current_value": 6099.893598000001,
+    "total_positions": 3619,
+    "event_ct": 1812,
+    "win_count": 1188,
+    "rank": 8718,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
