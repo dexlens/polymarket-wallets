@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 3116,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8a16fc7ff21626e6cb80d27ae963d0c0a6843676",
+    "trader_name": "DFKbullish",
+    "tag": "Overall",
+    "overall_gain": 36742.671201600024,
+    "active_positions": 10,
+    "win_amount": 141897.98958201255,
+    "loss_amount": -105155.31838041251,
+    "win_rate": 0.125,
+    "total_current_value": 1923.8045808539998,
+    "total_positions": 28,
+    "event_ct": 16,
+    "win_count": 2,
+    "rank": 3117,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
