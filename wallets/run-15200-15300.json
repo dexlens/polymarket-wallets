@@ -734,5 +734,21 @@
     "win_count": 5,
     "rank": 15246,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77c106000f2ed6a0d3af05c02dc81699816e1df8",
+    "trader_name": "Pausepoem",
+    "tag": "Overall",
+    "overall_gain": 6367.749,
+    "active_positions": 3,
+    "win_amount": 6493.749,
+    "loss_amount": -126,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 15247,
+    "trader_tags": ""
   }
 ]
