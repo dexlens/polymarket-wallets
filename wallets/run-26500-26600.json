@@ -1038,5 +1038,21 @@
     "win_count": 3,
     "rank": 26566,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1058e1d0751a6fda571cfcbaf814222167332b3b",
+    "trader_name": "Morggan",
+    "tag": "Overall",
+    "overall_gain": 3277.58,
+    "active_positions": 2,
+    "win_amount": 3755,
+    "loss_amount": -477.42,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 26567,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
