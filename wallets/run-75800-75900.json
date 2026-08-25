@@ -1166,5 +1166,21 @@
     "win_count": 12,
     "rank": 75874,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8fa83658a5350d40066b835a5162acde1098c219",
+    "trader_name": "opkh",
+    "tag": "Overall",
+    "overall_gain": 700.9768524082771,
+    "active_positions": 1,
+    "win_amount": 1174.1695722707768,
+    "loss_amount": -473.19271986250004,
+    "win_rate": 0.88,
+    "total_current_value": 351.21070421250005,
+    "total_positions": 32,
+    "event_ct": 25,
+    "win_count": 22,
+    "rank": 75875,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
