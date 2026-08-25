@@ -190,5 +190,21 @@
     "win_count": 11,
     "rank": 4412,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5f82fe5a35d3e1d499712753377fa725537f9b01",
+    "trader_name": "purecashmemories",
+    "tag": "Overall",
+    "overall_gain": 25194.287569457763,
+    "active_positions": 120,
+    "win_amount": 125351.56952452326,
+    "loss_amount": -100157.28195506553,
+    "win_rate": 0.3652694610778443,
+    "total_current_value": 7837.162420685,
+    "total_positions": 218,
+    "event_ct": 167,
+    "win_count": 61,
+    "rank": 4413,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
