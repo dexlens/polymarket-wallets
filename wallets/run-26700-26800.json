@@ -318,5 +318,21 @@
     "win_count": 12,
     "rank": 26721,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d5a44752e17f891457b19ca110944953e2b917e",
+    "trader_name": "populeitor",
+    "tag": "Overall",
+    "overall_gain": 3249.5311142779838,
+    "active_positions": 1,
+    "win_amount": 6529.445337476691,
+    "loss_amount": -3279.9142231987057,
+    "win_rate": 0.3203125,
+    "total_current_value": 0.080759,
+    "total_positions": 143,
+    "event_ct": 128,
+    "win_count": 41,
+    "rank": 26722,
+    "trader_tags": "> 1 year old"
   }
 ]
