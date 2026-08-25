@@ -190,5 +190,21 @@
     "win_count": 12,
     "rank": 512,
     "trader_tags": "Overall PnL > $100k; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0xc5b5bbd42624a8f0c8dfa90221913007d8c77e80",
+    "trader_name": "Capman",
+    "tag": "Overall",
+    "overall_gain": 248296.46041165938,
+    "active_positions": 733,
+    "win_amount": 643591.3728511771,
+    "loss_amount": -395294.91243951814,
+    "win_rate": 0.5876633726490277,
+    "total_current_value": 3577.6426946615015,
+    "total_positions": 13432,
+    "event_ct": 6274,
+    "win_count": 3687,
+    "rank": 513,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Sports PnL > $100k"
   }
 ]
