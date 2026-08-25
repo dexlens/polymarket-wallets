@@ -686,5 +686,21 @@
     "win_count": 24,
     "rank": 1343,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e3040eb55cb0f4f86eb0af40cb84c9d3585acbf",
+    "trader_name": "slimjoe",
+    "tag": "Overall",
+    "overall_gain": 90280.83256899324,
+    "active_positions": 3627,
+    "win_amount": 648285.9056805201,
+    "loss_amount": -558005.0731115273,
+    "win_rate": 0.511769373181698,
+    "total_current_value": 40590.82982077799,
+    "total_positions": 10029,
+    "event_ct": 3781,
+    "win_count": 1935,
+    "rank": 1344,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
