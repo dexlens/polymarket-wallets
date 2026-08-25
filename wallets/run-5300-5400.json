@@ -446,5 +446,21 @@
     "win_count": 13,
     "rank": 5328,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88acba5ab143b4731f0116451346b5d7b972fb0b",
+    "trader_name": "cryptoind",
+    "tag": "Overall",
+    "overall_gain": 20335.51707903695,
+    "active_positions": 25708,
+    "win_amount": 152189.05226025177,
+    "loss_amount": -131853.53518121486,
+    "win_rate": 0.018024252010017134,
+    "total_current_value": 180.13564,
+    "total_positions": 30853,
+    "event_ct": 30348,
+    "win_count": 547,
+    "rank": 5329,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
