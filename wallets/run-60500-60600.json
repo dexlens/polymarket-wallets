@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 60544,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41bb431b347bd684ea7c49c0261b925fdafadd28",
+    "trader_name": "Valfiant1",
+    "tag": "Overall",
+    "overall_gain": 1060.4446599999999,
+    "active_positions": 3,
+    "win_amount": 1334.29466,
+    "loss_amount": -273.85000000000014,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 60545,
+    "trader_tags": ""
   }
 ]
