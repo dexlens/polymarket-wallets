@@ -30,5 +30,21 @@
     "win_count": 3,
     "rank": 87203,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24716a84101f6a9024874c60452bc0231badaaa6",
+    "trader_name": "hyunj",
+    "tag": "Overall",
+    "overall_gain": 523.279173768009,
+    "active_positions": 2,
+    "win_amount": 989.5122225464719,
+    "loss_amount": -466.23304877846306,
+    "win_rate": 0.6086956521739131,
+    "total_current_value": 0.017672,
+    "total_positions": 24,
+    "event_ct": 23,
+    "win_count": 14,
+    "rank": 87204,
+    "trader_tags": "> 1 year old"
   }
 ]
