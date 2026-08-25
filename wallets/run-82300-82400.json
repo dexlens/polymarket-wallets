@@ -958,5 +958,21 @@
     "win_count": 2,
     "rank": 82361,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xacbcc5a0b4f7a4041fac3a88a9c0c489e6b64b92",
+    "trader_name": "FoulChain",
+    "tag": "Overall",
+    "overall_gain": 592.6081139768053,
+    "active_positions": 1,
+    "win_amount": 6810.864657629804,
+    "loss_amount": -6218.256543652999,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.050215,
+    "total_positions": 78,
+    "event_ct": 63,
+    "win_count": 27,
+    "rank": 82362,
+    "trader_tags": ""
   }
 ]
