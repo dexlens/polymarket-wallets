@@ -206,5 +206,21 @@
     "win_count": 42,
     "rank": 70914,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x40611e94f69fba7c7d2b2d2bc5d8c6a7d8c117d4",
+    "trader_name": "ADFGVSER",
+    "tag": "Overall",
+    "overall_gain": 790.185,
+    "active_positions": 0,
+    "win_amount": 790.185,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 70915,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
