@@ -174,5 +174,21 @@
     "win_count": 14,
     "rank": 6411,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x467c5bb6b64873e370220868d27b93a8d3a38c89",
+    "trader_name": "xjdl",
+    "tag": "Overall",
+    "overall_gain": 16712.883844745556,
+    "active_positions": 1,
+    "win_amount": 35854.36563400793,
+    "loss_amount": -19141.481789262372,
+    "win_rate": 0.8769230769230769,
+    "total_current_value": 1.970186,
+    "total_positions": 254,
+    "event_ct": 195,
+    "win_count": 171,
+    "rank": 6412,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
