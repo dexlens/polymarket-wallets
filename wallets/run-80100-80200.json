@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 80142,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe211bbe9f5f3cb3caa74e47a37d063042b82c34f",
+    "trader_name": "weatherGiant",
+    "tag": "Overall",
+    "overall_gain": 628.4267261606841,
+    "active_positions": 2,
+    "win_amount": 979.48833433976,
+    "loss_amount": -351.06160817907596,
+    "win_rate": 0.8560606060606061,
+    "total_current_value": 43.793226999999995,
+    "total_positions": 1083,
+    "event_ct": 396,
+    "win_count": 339,
+    "rank": 80143,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
