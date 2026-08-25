@@ -926,5 +926,21 @@
     "win_count": 5,
     "rank": 58459,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x63b45326e529851cba1374394b9c2e6a8d2e355f",
+    "trader_name": "WishWarden",
+    "tag": "Overall",
+    "overall_gain": 1126.9466700000003,
+    "active_positions": 5,
+    "win_amount": 3245.50795,
+    "loss_amount": -2118.56128,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 58460,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
