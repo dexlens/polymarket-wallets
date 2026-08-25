@@ -318,5 +318,21 @@
     "win_count": 3,
     "rank": 25321,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c28cda063be41ae67e6c2cab37afe9de97bf8c7",
+    "trader_name": "ParityFluxHunter",
+    "tag": "Overall",
+    "overall_gain": 3488.0000000000005,
+    "active_positions": 5,
+    "win_amount": 5317.800000000001,
+    "loss_amount": -1829.8,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 15,
+    "rank": 25322,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
