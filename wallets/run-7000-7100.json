@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 7048,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbc88174a51325957e69838664ca218f1989045d4",
+    "trader_name": "HelloSaar",
+    "tag": "Overall",
+    "overall_gain": 15142.55615929851,
+    "active_positions": 5,
+    "win_amount": 18447.840078603494,
+    "loss_amount": -3305.283919304982,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 9761.950443084499,
+    "total_positions": 26,
+    "event_ct": 15,
+    "win_count": 5,
+    "rank": 7049,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
