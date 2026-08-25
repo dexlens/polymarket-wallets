@@ -142,5 +142,21 @@
     "win_count": 1,
     "rank": 24410,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x821adc594a985539aa502cc9fbcd29a982684920",
+    "trader_name": "stabyme",
+    "tag": "Overall",
+    "overall_gain": 3644.5450317530003,
+    "active_positions": 1,
+    "win_amount": 7467.602427000001,
+    "loss_amount": -3823.057395247,
+    "win_rate": 0.7727272727272727,
+    "total_current_value": 26.566197613,
+    "total_positions": 26,
+    "event_ct": 22,
+    "win_count": 17,
+    "rank": 24411,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
