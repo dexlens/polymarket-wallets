@@ -974,5 +974,21 @@
     "win_count": 620,
     "rank": 5561,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a31d40272e7325c489823856e7fc11789bcf46c",
+    "trader_name": "Quenvian",
+    "tag": "Overall",
+    "overall_gain": 19423.367159999998,
+    "active_positions": 4,
+    "win_amount": 20097.431070999995,
+    "loss_amount": -674.063911,
+    "win_rate": 0.84,
+    "total_current_value": 86.486,
+    "total_positions": 53,
+    "event_ct": 50,
+    "win_count": 42,
+    "rank": 5562,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
