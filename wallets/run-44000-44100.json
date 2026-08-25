@@ -942,5 +942,21 @@
     "win_count": 5,
     "rank": 44060,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5709a82c401848a9802436c5153e02bf6c410c09",
+    "trader_name": "sOrvex",
+    "tag": "Overall",
+    "overall_gain": 1762.6019999999999,
+    "active_positions": 2,
+    "win_amount": 1762.6019999999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 14,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 44061,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
