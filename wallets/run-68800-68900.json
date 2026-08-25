@@ -142,5 +142,21 @@
     "win_count": 2,
     "rank": 68810,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x452f5779a20206f62b7a5e619760cacd4f6a626b",
+    "trader_name": "Bearishguy",
+    "tag": "Overall",
+    "overall_gain": 840.0000010225095,
+    "active_positions": 3,
+    "win_amount": 3999.8075381643694,
+    "loss_amount": -3159.80753714186,
+    "win_rate": 0.5,
+    "total_current_value": 0.028316,
+    "total_positions": 10,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 68811,
+    "trader_tags": ""
   }
 ]
