@@ -750,5 +750,21 @@
     "win_count": 2,
     "rank": 18147,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe80500970a3b547a9d26c4ba680513be2101c2e4",
+    "trader_name": "SigilFund",
+    "tag": "Overall",
+    "overall_gain": 5129.820913000003,
+    "active_positions": 0,
+    "win_amount": 92601.414,
+    "loss_amount": -87471.593087,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 18148,
+    "trader_tags": "> 1 year old"
   }
 ]
