@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 16673,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb3df44d355d167ce44362502360f1b4bbc80cec1",
+    "trader_name": "ProbNope",
+    "tag": "Overall",
+    "overall_gain": 5705.256489375569,
+    "active_positions": 8,
+    "win_amount": 6070.68571295003,
+    "loss_amount": -365.4292235744629,
+    "win_rate": 0.4642857142857143,
+    "total_current_value": 0.000030000000000000004,
+    "total_positions": 29,
+    "event_ct": 28,
+    "win_count": 13,
+    "rank": 16674,
+    "trader_tags": "> 1 year old"
   }
 ]
