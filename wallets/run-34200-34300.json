@@ -766,5 +766,21 @@
     "win_count": 60,
     "rank": 34249,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1853cb39eb11b18346d174ec5eac78d8629e6a0b",
+    "trader_name": "gzzz",
+    "tag": "Overall",
+    "overall_gain": 2401.285417833001,
+    "active_positions": 2,
+    "win_amount": 2554.651810833001,
+    "loss_amount": -153.366393,
+    "win_rate": 0.5033112582781457,
+    "total_current_value": 10.894705,
+    "total_positions": 305,
+    "event_ct": 151,
+    "win_count": 76,
+    "rank": 34250,
+    "trader_tags": "> 1 year old"
   }
 ]
