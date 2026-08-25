@@ -1374,5 +1374,21 @@
     "win_count": 31,
     "rank": 2386,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xcb437c1cae90151d00fb55c014a9d3616ffd3c74",
+    "trader_name": "Stupidity",
+    "tag": "Overall",
+    "overall_gain": 49451.86431400405,
+    "active_positions": 118,
+    "win_amount": 1478932.4951269988,
+    "loss_amount": -1429480.6308129954,
+    "win_rate": 0.4871641791044776,
+    "total_current_value": 20574.6048103875,
+    "total_positions": 2296,
+    "event_ct": 1675,
+    "win_count": 816,
+    "rank": 2387,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
