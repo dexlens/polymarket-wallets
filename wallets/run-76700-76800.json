@@ -1550,5 +1550,21 @@
     "win_count": 6,
     "rank": 76798,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88da7b7d4f6c0407ec0c6bbacc9f7d33dd409a12",
+    "trader_name": "atb",
+    "tag": "Overall",
+    "overall_gain": 685.4812163571612,
+    "active_positions": 3,
+    "win_amount": 1383.1148099155541,
+    "loss_amount": -697.6335935583929,
+    "win_rate": 0.25,
+    "total_current_value": 0.015392,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 76799,
+    "trader_tags": "> 1 year old"
   }
 ]
