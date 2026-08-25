@@ -1566,5 +1566,21 @@
     "win_count": 5,
     "rank": 3798,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3c740196160f00dff951364cb58112e8635ca3c0",
+    "trader_name": "frisby",
+    "tag": "Overall",
+    "overall_gain": 30001.372429003884,
+    "active_positions": 0,
+    "win_amount": 30003.58177,
+    "loss_amount": -2.2093409961129997,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 0.031387,
+    "total_positions": 20,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 3799,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
