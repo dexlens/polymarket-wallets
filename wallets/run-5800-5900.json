@@ -638,5 +638,21 @@
     "win_count": 4,
     "rank": 5840,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37264c0abb23700e92b23d0aa5cea861dc7b0354",
+    "trader_name": "zachxbtisasnitch",
+    "tag": "Overall",
+    "overall_gain": 18424.247015428264,
+    "active_positions": 1,
+    "win_amount": 18424.247015428264,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000047000000000000004,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 5841,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
