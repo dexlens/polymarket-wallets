@@ -1278,5 +1278,21 @@
     "win_count": 12351,
     "rank": 2280,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x83a296505eb520c9d35823571204ced41fd69452",
+    "trader_name": ".jeet",
+    "tag": "Overall",
+    "overall_gain": 52316.56545148027,
+    "active_positions": 73,
+    "win_amount": 168201.517541667,
+    "loss_amount": -115884.95209018669,
+    "win_rate": 0.6928406466512702,
+    "total_current_value": 23420.878491172,
+    "total_positions": 948,
+    "event_ct": 433,
+    "win_count": 300,
+    "rank": 2281,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
