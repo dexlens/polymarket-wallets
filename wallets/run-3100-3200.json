@@ -1438,5 +1438,21 @@
     "win_count": 19,
     "rank": 3190,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x876d7a0ac94a2b326670d0d432b6fec28917a678",
+    "trader_name": "willpowell",
+    "tag": "Overall",
+    "overall_gain": 35876.0582791851,
+    "active_positions": 0,
+    "win_amount": 40977.986640258045,
+    "loss_amount": -5101.928361072929,
+    "win_rate": 0.8847972972972973,
+    "total_current_value": 158.820841,
+    "total_positions": 3714,
+    "event_ct": 2960,
+    "win_count": 2619,
+    "rank": 3191,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
