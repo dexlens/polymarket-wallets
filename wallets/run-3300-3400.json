@@ -654,5 +654,21 @@
     "win_count": 5,
     "rank": 3341,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x324aed2a00c8f485f636b7d5916fcf44c9a53721",
+    "trader_name": "superblueinc",
+    "tag": "Overall",
+    "overall_gain": 34228.897077138674,
+    "active_positions": 39,
+    "win_amount": 56011.41155510139,
+    "loss_amount": -21782.514477962734,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 233419.39755273852,
+    "total_positions": 153,
+    "event_ct": 112,
+    "win_count": 96,
+    "rank": 3342,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
