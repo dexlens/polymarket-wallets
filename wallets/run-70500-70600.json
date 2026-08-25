@@ -1486,5 +1486,21 @@
     "win_count": 26,
     "rank": 70594,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24f71e732aa4bd96cebdae75d17ce661ec6fa542",
+    "trader_name": "MothFly",
+    "tag": "Overall",
+    "overall_gain": 796.9724180463322,
+    "active_positions": 0,
+    "win_amount": 1146.9710270463322,
+    "loss_amount": -349.998609,
+    "win_rate": 0.5,
+    "total_current_value": 0.007726,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 70595,
+    "trader_tags": ""
   }
 ]
