@@ -478,5 +478,21 @@
     "win_count": 20,
     "rank": 74831,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2700ec07daa22057e2c82e4163e5ffef9e419165",
+    "trader_name": "Icopytrade",
+    "tag": "Overall",
+    "overall_gain": 715.9840679332527,
+    "active_positions": 5,
+    "win_amount": 8062.36510156004,
+    "loss_amount": -7346.381033626783,
+    "win_rate": 0.4270833333333333,
+    "total_current_value": 0.0379507745,
+    "total_positions": 124,
+    "event_ct": 96,
+    "win_count": 41,
+    "rank": 74832,
+    "trader_tags": ""
   }
 ]
