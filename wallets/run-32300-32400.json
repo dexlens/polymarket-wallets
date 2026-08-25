@@ -894,5 +894,21 @@
     "win_count": 33,
     "rank": 32357,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1506941a4f4f95435d7d4d0fb106b010828a9217",
+    "trader_name": "hero47",
+    "tag": "Overall",
+    "overall_gain": 2565.841587609499,
+    "active_positions": 3,
+    "win_amount": 10831.550733291378,
+    "loss_amount": -8265.70914568188,
+    "win_rate": 0.6,
+    "total_current_value": 0.0006580000000000001,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 32358,
+    "trader_tags": ""
   }
 ]
