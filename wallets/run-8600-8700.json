@@ -206,5 +206,21 @@
     "win_count": 3139,
     "rank": 8613,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x386d17027f1c9bcde34c9c12ada287ef950f9bb6",
+    "trader_name": "heuer",
+    "tag": "Overall",
+    "overall_gain": 12165.338272081339,
+    "active_positions": 549,
+    "win_amount": 61511.72196474249,
+    "loss_amount": -49346.383692661206,
+    "win_rate": 0.369449378330373,
+    "total_current_value": 187.63549953649996,
+    "total_positions": 911,
+    "event_ct": 563,
+    "win_count": 208,
+    "rank": 8614,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
