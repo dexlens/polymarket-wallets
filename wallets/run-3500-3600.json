@@ -958,5 +958,21 @@
     "win_count": 184,
     "rank": 3560,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6c01399f36123a454ceefe45c70a0d5447bcf327",
+    "trader_name": "BrandonChin",
+    "tag": "Overall",
+    "overall_gain": 31981.22211784649,
+    "active_positions": 3,
+    "win_amount": 40555.21958741742,
+    "loss_amount": -8573.997469570924,
+    "win_rate": 0.8863636363636364,
+    "total_current_value": 11.129926574999999,
+    "total_positions": 119,
+    "event_ct": 44,
+    "win_count": 39,
+    "rank": 3561,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
