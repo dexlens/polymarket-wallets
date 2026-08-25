@@ -350,5 +350,21 @@
     "win_count": 2,
     "rank": 46123,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b73197fa1d4dadc80f20a22d15bb2fad90c7ba9",
+    "trader_name": "lxd20",
+    "tag": "Overall",
+    "overall_gain": 1660.6765161408798,
+    "active_positions": 0,
+    "win_amount": 1690.36550014088,
+    "loss_amount": -29.688983999999998,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 0.080469,
+    "total_positions": 16,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 46124,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
