@@ -446,5 +446,21 @@
     "win_count": 12,
     "rank": 9428,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x108b0073b27da7fb52f1bfb7817ae6049ef83cda",
+    "trader_name": "Usaou",
+    "tag": "Overall",
+    "overall_gain": 11113.019999999999,
+    "active_positions": 21,
+    "win_amount": 13201.999999999998,
+    "loss_amount": -2088.98,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 10.04,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 10,
+    "rank": 9429,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
