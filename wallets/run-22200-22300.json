@@ -158,5 +158,21 @@
     "win_count": 24,
     "rank": 22210,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x03bd3a2186f6ab880a52a0d7c7f31d4f875a3e5c",
+    "trader_name": "faweq",
+    "tag": "Overall",
+    "overall_gain": 4075.0624989999997,
+    "active_positions": 3,
+    "win_amount": 4084.862499,
+    "loss_amount": -9.8,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 146,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 22211,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
