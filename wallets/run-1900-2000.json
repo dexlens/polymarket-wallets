@@ -206,5 +206,21 @@
     "win_count": 126,
     "rank": 1913,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xad5353afe30c2da57709e2704ef3ccdcf67eef24",
+    "trader_name": "AJSV",
+    "tag": "Overall",
+    "overall_gain": 63170.598898015596,
+    "active_positions": 16055,
+    "win_amount": 163352.63154592094,
+    "loss_amount": -100182.03264790529,
+    "win_rate": 0.42463991769547327,
+    "total_current_value": 107999.06220136653,
+    "total_positions": 42622,
+    "event_ct": 7776,
+    "win_count": 3302,
+    "rank": 1914,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
