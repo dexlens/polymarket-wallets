@@ -974,5 +974,21 @@
     "win_count": 43,
     "rank": 6861,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c28cc0884a793b1fbfde9c6881f6bf549db7ba5",
+    "trader_name": "bartiedarin",
+    "tag": "Overall",
+    "overall_gain": 15628.797366371498,
+    "active_positions": 59,
+    "win_amount": 143855.86679999947,
+    "loss_amount": -128227.06943362794,
+    "win_rate": 0.6111111111111112,
+    "total_current_value": 0.29408603499999997,
+    "total_positions": 188,
+    "event_ct": 180,
+    "win_count": 110,
+    "rank": 6862,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
