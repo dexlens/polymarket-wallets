@@ -1262,5 +1262,21 @@
     "win_count": 19,
     "rank": 36380,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7e2018f413d97f70fc43f9390801b47ef4e73fe5",
+    "trader_name": "Galvanze",
+    "tag": "Overall",
+    "overall_gain": 2233.5,
+    "active_positions": 2,
+    "win_amount": 3202.5,
+    "loss_amount": -969,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 36381,
+    "trader_tags": ""
   }
 ]
