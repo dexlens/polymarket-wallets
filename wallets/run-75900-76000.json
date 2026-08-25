@@ -1406,5 +1406,21 @@
     "win_count": 57,
     "rank": 75989,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x084d836a10098e1020c10e3521ab3678d82c48b0",
+    "trader_name": "ictnj",
+    "tag": "Overall",
+    "overall_gain": 699.0240000000001,
+    "active_positions": 4,
+    "win_amount": 861.874,
+    "loss_amount": -162.85000000000002,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 123,
+    "total_positions": 17,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 75990,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
