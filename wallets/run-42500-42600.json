@@ -1278,5 +1278,21 @@
     "win_count": 2,
     "rank": 42581,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0861d32d45368fd95127cde4c7adcc4472d3d1b5",
+    "trader_name": "tripmoon",
+    "tag": "Overall",
+    "overall_gain": 1844.040445033767,
+    "active_positions": 0,
+    "win_amount": 2185.197671070053,
+    "loss_amount": -341.157226036286,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.000003,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 42582,
+    "trader_tags": ""
   }
 ]
