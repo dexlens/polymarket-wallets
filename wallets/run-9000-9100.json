@@ -126,5 +126,21 @@
     "win_count": 2,
     "rank": 9008,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x97d37d16d1774785197bfa23ffed625a8e493f3c",
+    "trader_name": "Gluckyklucky",
+    "tag": "Overall",
+    "overall_gain": 11635.193584366365,
+    "active_positions": 9,
+    "win_amount": 14157.972120788578,
+    "loss_amount": -2522.778536422215,
+    "win_rate": 0.8173652694610778,
+    "total_current_value": 1281.5878515214997,
+    "total_positions": 509,
+    "event_ct": 334,
+    "win_count": 273,
+    "rank": 9009,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
