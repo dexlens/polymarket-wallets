@@ -270,5 +270,21 @@
     "win_count": 43,
     "rank": 2217,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x05f6027ceb5b8db472bb716d3ed574c199118cec",
+    "trader_name": "islav900",
+    "tag": "Overall",
+    "overall_gain": 53946.01821642544,
+    "active_positions": 2,
+    "win_amount": 234072.54443207543,
+    "loss_amount": -180126.52621565,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 117569.49224200001,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 2218,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
