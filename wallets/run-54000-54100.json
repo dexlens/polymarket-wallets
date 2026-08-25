@@ -830,5 +830,21 @@
     "win_count": 72,
     "rank": 54053,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x71b4c1a55f0c746212b3bb9ad67995c97ee1f97e",
+    "trader_name": "West1717",
+    "tag": "Overall",
+    "overall_gain": 1300.790947269079,
+    "active_positions": 3,
+    "win_amount": 1691.898384949282,
+    "loss_amount": -391.107437680203,
+    "win_rate": 0.75,
+    "total_current_value": 0.026489000000000002,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 12,
+    "rank": 54054,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
