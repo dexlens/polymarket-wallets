@@ -574,5 +574,21 @@
     "win_count": 1,
     "rank": 51837,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa3c0912dfef00a9c05362b6247dc619f94fb5a19",
+    "trader_name": "pwells",
+    "tag": "Overall",
+    "overall_gain": 1399.290372702159,
+    "active_positions": 0,
+    "win_amount": 1555.340079396066,
+    "loss_amount": -156.049706693907,
+    "win_rate": 0.6,
+    "total_current_value": 0.010589000000000001,
+    "total_positions": 30,
+    "event_ct": 30,
+    "win_count": 18,
+    "rank": 51838,
+    "trader_tags": "> 1 year old"
   }
 ]
