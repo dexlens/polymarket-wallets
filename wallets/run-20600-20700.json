@@ -1198,5 +1198,21 @@
     "win_count": 65,
     "rank": 20675,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1a87bd2146b3bea4bff3e46fe05bc76c81d98cb7",
+    "trader_name": "ChaChad",
+    "tag": "Overall",
+    "overall_gain": 4449.054500093514,
+    "active_positions": 1,
+    "win_amount": 5495.889165093515,
+    "loss_amount": -1046.834665,
+    "win_rate": 0.625,
+    "total_current_value": 0.0008960000000000001,
+    "total_positions": 11,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 20676,
+    "trader_tags": "> 1 year old"
   }
 ]
