@@ -590,5 +590,21 @@
     "win_count": 3,
     "rank": 83938,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93632fc2852bf44df5d60f56886d3066739d52ca",
+    "trader_name": "hbnva",
+    "tag": "Overall",
+    "overall_gain": 567.2344910115,
+    "active_positions": 0,
+    "win_amount": 1105.6951060115,
+    "loss_amount": -538.460615,
+    "win_rate": 0.75,
+    "total_current_value": 0.0189945715,
+    "total_positions": 24,
+    "event_ct": 20,
+    "win_count": 15,
+    "rank": 83939,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
