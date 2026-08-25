@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 40131,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9169e4b8e6c446f5668f97853d109ef09193a2e3",
+    "trader_name": "uyggv",
+    "tag": "Overall",
+    "overall_gain": 1987.307438690937,
+    "active_positions": 4,
+    "win_amount": 2199.0346693880765,
+    "loss_amount": -211.72723069714,
+    "win_rate": 0.9024390243902439,
+    "total_current_value": 210.33810600000004,
+    "total_positions": 43,
+    "event_ct": 41,
+    "win_count": 37,
+    "rank": 40132,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
