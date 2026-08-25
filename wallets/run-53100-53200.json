@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 53161,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x294a61964989c4e31b5ea0572d8ca839b01fbbba",
+    "trader_name": "Barrakooda",
+    "tag": "Overall",
+    "overall_gain": 1340.0753777287364,
+    "active_positions": 234,
+    "win_amount": 11046.938685448447,
+    "loss_amount": -9706.863307719716,
+    "win_rate": 0.17916666666666667,
+    "total_current_value": 1467.6917286624998,
+    "total_positions": 299,
+    "event_ct": 240,
+    "win_count": 43,
+    "rank": 53162,
+    "trader_tags": ""
   }
 ]
