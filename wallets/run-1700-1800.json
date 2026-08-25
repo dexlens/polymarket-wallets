@@ -334,5 +334,21 @@
     "win_count": 45,
     "rank": 1721,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0d05acd6baaa8ea1fac50ab74a7679ae6f534518",
+    "trader_name": "MtStol",
+    "tag": "Overall",
+    "overall_gain": 71529.96449143662,
+    "active_positions": 3974,
+    "win_amount": 1122878.8586052866,
+    "loss_amount": -1051348.8941138505,
+    "win_rate": 0.5154680327323531,
+    "total_current_value": 7495.684763242501,
+    "total_positions": 21797,
+    "event_ct": 15031,
+    "win_count": 7748,
+    "rank": 1722,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
