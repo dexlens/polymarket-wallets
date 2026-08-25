@@ -302,5 +302,21 @@
     "win_count": 492,
     "rank": 87420,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x716373e8e9f7eb1f31af9ff8869549a6229f36a9",
+    "trader_name": "fatemonger",
+    "tag": "Overall",
+    "overall_gain": 519.984860893039,
+    "active_positions": 18,
+    "win_amount": 1052.627256464527,
+    "loss_amount": -532.642395571488,
+    "win_rate": 0.29411764705882354,
+    "total_current_value": 1316.5064044965,
+    "total_positions": 25,
+    "event_ct": 17,
+    "win_count": 5,
+    "rank": 87421,
+    "trader_tags": ""
   }
 ]
