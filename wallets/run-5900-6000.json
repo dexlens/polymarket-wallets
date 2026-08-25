@@ -1390,5 +1390,21 @@
     "win_count": 3,
     "rank": 5987,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f75172ba0becd9655a007e4504ab3132c890ac6",
+    "trader_name": "Derteil",
+    "tag": "Overall",
+    "overall_gain": 17911.096872342612,
+    "active_positions": 3,
+    "win_amount": 23093.704154248284,
+    "loss_amount": -5182.607281905675,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.028509,
+    "total_positions": 13,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 5988,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
