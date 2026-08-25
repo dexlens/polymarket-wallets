@@ -1070,5 +1070,21 @@
     "win_count": 3,
     "rank": 7167,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55fe3058ae2577aae2b25aefa0f76c2793ea6fc7",
+    "trader_name": "sbrashh",
+    "tag": "Overall",
+    "overall_gain": 14942.011805429758,
+    "active_positions": 5,
+    "win_amount": 25613.700480838266,
+    "loss_amount": -10671.688675408504,
+    "win_rate": 0.375,
+    "total_current_value": 0.005945,
+    "total_positions": 30,
+    "event_ct": 24,
+    "win_count": 9,
+    "rank": 7168,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
