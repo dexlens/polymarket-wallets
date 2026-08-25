@@ -798,5 +798,21 @@
     "win_count": 275,
     "rank": 30551,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0e41ea941fbeaa5b62f29d9626700741c9f2e0bf",
+    "trader_name": "Mysrtic",
+    "tag": "Overall",
+    "overall_gain": 2753.6,
+    "active_positions": 1,
+    "win_amount": 2958.6,
+    "loss_amount": -205,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 30552,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
