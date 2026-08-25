@@ -718,5 +718,21 @@
     "win_count": 4,
     "rank": 42846,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf85a51b7cbdcfe1ae20660fdf0c6ac95c03cb34f",
+    "trader_name": "EEAS8A",
+    "tag": "Overall",
+    "overall_gain": 1827.8146805418062,
+    "active_positions": 4,
+    "win_amount": 2535.2669792118086,
+    "loss_amount": -707.452298670003,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 0.032859,
+    "total_positions": 18,
+    "event_ct": 14,
+    "win_count": 11,
+    "rank": 42847,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
