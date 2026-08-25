@@ -1310,5 +1310,21 @@
     "win_count": 8,
     "rank": 64183,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6f7f7467c28ed0170ce8dcb9e7e68c20aa7a0fbc",
+    "trader_name": "tristiando",
+    "tag": "Overall",
+    "overall_gain": 968.8299999999999,
+    "active_positions": 1,
+    "win_amount": 968.8299999999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 13.39,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 64184,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
