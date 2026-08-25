@@ -1342,5 +1342,21 @@
     "win_count": 7,
     "rank": 9984,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38ddb04abafc4e3942b134ecfc7eb92a89323f6e",
+    "trader_name": "Hazelwood",
+    "tag": "Overall",
+    "overall_gain": 10495.06578131652,
+    "active_positions": 3,
+    "win_amount": 10495.09703119152,
+    "loss_amount": -0.031249875000000094,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 12.99273875,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 9985,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
