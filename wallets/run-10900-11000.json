@@ -1582,5 +1582,21 @@
     "win_count": 32,
     "rank": 10999,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7b6993328e6330120dcad3a8b7e86a05d82c98ea",
+    "trader_name": "Fkcha",
+    "tag": "Overall",
+    "overall_gain": 9576.76157952004,
+    "active_positions": 2,
+    "win_amount": 29339.96968898624,
+    "loss_amount": -19763.208109466203,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.047776,
+    "total_positions": 24,
+    "event_ct": 14,
+    "win_count": 8,
+    "rank": 11000,
+    "trader_tags": ""
   }
 ]
