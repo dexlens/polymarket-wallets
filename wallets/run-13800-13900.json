@@ -1582,5 +1582,21 @@
     "win_count": 32,
     "rank": 13899,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38d415723ba7f45021afe05da51cddb1bffbbe0a",
+    "trader_name": "fouxare",
+    "tag": "Overall",
+    "overall_gain": 7100.939235835308,
+    "active_positions": 5,
+    "win_amount": 9159.148574462582,
+    "loss_amount": -2058.209338627274,
+    "win_rate": 0.8176100628930818,
+    "total_current_value": 15707.926104382002,
+    "total_positions": 429,
+    "event_ct": 159,
+    "win_count": 130,
+    "rank": 13900,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
