@@ -958,5 +958,21 @@
     "win_count": 113,
     "rank": 4360,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbc4cb11c5f3194f84b230755965c1e8d18cf444c",
+    "trader_name": "simetrixai",
+    "tag": "Overall",
+    "overall_gain": 25477.61366522385,
+    "active_positions": 15,
+    "win_amount": 46100.72215763496,
+    "loss_amount": -20623.108492411116,
+    "win_rate": 0.6813450760608487,
+    "total_current_value": 12.882452136499998,
+    "total_positions": 1475,
+    "event_ct": 1249,
+    "win_count": 851,
+    "rank": 4361,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
