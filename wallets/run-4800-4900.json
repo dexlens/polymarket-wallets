@@ -638,5 +638,21 @@
     "win_count": 79,
     "rank": 4840,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xae78ff10c8747df9bbd42149917943fcce605aaa",
+    "trader_name": "sju",
+    "tag": "Overall",
+    "overall_gain": 22472.448164,
+    "active_positions": 1,
+    "win_amount": 25633.258164,
+    "loss_amount": -3160.81,
+    "win_rate": 0.7037037037037037,
+    "total_current_value": 0,
+    "total_positions": 43,
+    "event_ct": 27,
+    "win_count": 19,
+    "rank": 4841,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
