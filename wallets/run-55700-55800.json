@@ -302,5 +302,21 @@
     "win_count": 8,
     "rank": 55720,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7ea59ce862f2e0b1b5ae05e2c6e5d09876bd5738",
+    "trader_name": "iq100",
+    "tag": "Overall",
+    "overall_gain": 1229.008730129564,
+    "active_positions": 0,
+    "win_amount": 1229.008730129564,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009564,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 55721,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
