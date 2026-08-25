@@ -1310,5 +1310,21 @@
     "win_count": 5,
     "rank": 7182,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x188950283e983e3d0d70a115e1fac6d033900714",
+    "trader_name": "arbot4",
+    "tag": "Overall",
+    "overall_gain": 14897.094129110646,
+    "active_positions": 53,
+    "win_amount": 72098.27512451951,
+    "loss_amount": -57201.18099540885,
+    "win_rate": 0.5898651111921254,
+    "total_current_value": 2022.4230840000005,
+    "total_positions": 3655,
+    "event_ct": 2743,
+    "win_count": 1618,
+    "rank": 7183,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
