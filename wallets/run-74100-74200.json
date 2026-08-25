@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 74200,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xee6b16f3ee0c64a12d79bb50ebee2df63cb6cc03",
+    "trader_name": "vexedus",
+    "tag": "Overall",
+    "overall_gain": 725.675735621745,
+    "active_positions": 5,
+    "win_amount": 1005.3688854617449,
+    "loss_amount": -279.69314984,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 917.42873646,
+    "total_positions": 31,
+    "event_ct": 18,
+    "win_count": 12,
+    "rank": 74201,
+    "trader_tags": ""
   }
 ]
