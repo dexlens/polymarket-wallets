@@ -430,5 +430,21 @@
     "win_count": 119,
     "rank": 4827,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x86319182745d4274a78bae4fcbea348b5cdee537",
+    "trader_name": "Imbajimba",
+    "tag": "Overall",
+    "overall_gain": 22531.27003190148,
+    "active_positions": 0,
+    "win_amount": 52681.5689029114,
+    "loss_amount": -30150.298871009927,
+    "win_rate": 0.72,
+    "total_current_value": 0.031955,
+    "total_positions": 29,
+    "event_ct": 25,
+    "win_count": 18,
+    "rank": 4828,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
