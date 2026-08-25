@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 5240,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x97bebc7846c4afcc032f22835471bea722de6f3b",
+    "trader_name": "mmlc - 1937",
+    "tag": "Overall",
+    "overall_gain": 20706.970026,
+    "active_positions": 0,
+    "win_amount": 20706.970026,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 5241,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
