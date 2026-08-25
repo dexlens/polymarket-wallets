@@ -846,5 +846,21 @@
     "win_count": 19,
     "rank": 9753,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4653c34f1b4d5c95495a9cdf59f82238996bfc7d",
+    "trader_name": "garryauttlow",
+    "tag": "Overall",
+    "overall_gain": 10744.5,
+    "active_positions": 0,
+    "win_amount": 10744.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 9754,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
