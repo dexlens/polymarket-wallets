@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 50839,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18a25a57a9f9735612f85e94143e946e568a2fbe",
+    "trader_name": "raduorg",
+    "tag": "Overall",
+    "overall_gain": 1447.075254384101,
+    "active_positions": 3,
+    "win_amount": 1788.221523,
+    "loss_amount": -341.1462686158989,
+    "win_rate": 0.5,
+    "total_current_value": 0.002541,
+    "total_positions": 6,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 50840,
+    "trader_tags": ""
   }
 ]
