@@ -558,5 +558,21 @@
     "win_count": 46,
     "rank": 6135,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00f99609399940ccee70fad6627e88ad3cb89b66",
+    "trader_name": "KafkaMaster",
+    "tag": "Overall",
+    "overall_gain": 17471.63624540045,
+    "active_positions": 1,
+    "win_amount": 28353.390051890026,
+    "loss_amount": -10881.75380648958,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0.010446,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 6136,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
