@@ -686,5 +686,21 @@
     "win_count": 22,
     "rank": 7043,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfde61db51b60faccbbafc88bc3590584e1bc1f5c",
+    "trader_name": "Lumeth",
+    "tag": "Overall",
+    "overall_gain": 15159.209317798059,
+    "active_positions": 1,
+    "win_amount": 16043.919317798058,
+    "loss_amount": -884.7099999999999,
+    "win_rate": 0.9,
+    "total_current_value": 0.000057,
+    "total_positions": 42,
+    "event_ct": 40,
+    "win_count": 36,
+    "rank": 7044,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
