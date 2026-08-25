@@ -510,5 +510,21 @@
     "win_count": 1,
     "rank": 69033,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x94bdb8cce19acebbce15cb0f0c2fa96af71a1f9c",
+    "trader_name": "mborgek",
+    "tag": "Overall",
+    "overall_gain": 833.9723973781047,
+    "active_positions": 7,
+    "win_amount": 3554.1130007296474,
+    "loss_amount": -2720.1406033515436,
+    "win_rate": 0.5245901639344263,
+    "total_current_value": 0.141804,
+    "total_positions": 63,
+    "event_ct": 61,
+    "win_count": 32,
+    "rank": 69034,
+    "trader_tags": "< 30 days old"
   }
 ]
