@@ -1422,5 +1422,21 @@
     "win_count": 17,
     "rank": 4789,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x76d7cd8411f05bcdbc0fc18fe419e405cc41a31d",
+    "trader_name": "Myrzel",
+    "tag": "Overall",
+    "overall_gain": 22724.29017629405,
+    "active_positions": 4,
+    "win_amount": 23341.973976294048,
+    "loss_amount": -617.6838,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 12.000042,
+    "total_positions": 49,
+    "event_ct": 48,
+    "win_count": 44,
+    "rank": 4790,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
