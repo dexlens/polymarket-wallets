@@ -670,5 +670,21 @@
     "win_count": 5,
     "rank": 24543,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x312fc523e2699187929cfd6a613f1354207af0b9",
+    "trader_name": "hedgek",
+    "tag": "Overall",
+    "overall_gain": 3620.362953983168,
+    "active_positions": 7,
+    "win_amount": 4064.0132149831684,
+    "loss_amount": -443.650261,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 3943.6895010800004,
+    "total_positions": 20,
+    "event_ct": 15,
+    "win_count": 10,
+    "rank": 24544,
+    "trader_tags": ""
   }
 ]
