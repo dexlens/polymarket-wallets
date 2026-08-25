@@ -382,5 +382,21 @@
     "win_count": 6,
     "rank": 15724,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf47838234e456ef39c6289241cf6635546db0a44",
+    "trader_name": "atpe2",
+    "tag": "Overall",
+    "overall_gain": 6131.46809801,
+    "active_positions": 2,
+    "win_amount": 6167.454000000001,
+    "loss_amount": -35.98590199,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 19.439999999999998,
+    "total_positions": 19,
+    "event_ct": 14,
+    "win_count": 9,
+    "rank": 15725,
+    "trader_tags": ""
   }
 ]
