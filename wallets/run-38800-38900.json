@@ -558,5 +558,21 @@
     "win_count": 36,
     "rank": 38836,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ca25860fd41d92869c8792e4f924de441130fbe",
+    "trader_name": "dhsr",
+    "tag": "Overall",
+    "overall_gain": 2063.75,
+    "active_positions": 2,
+    "win_amount": 6331.6,
+    "loss_amount": -4267.849999999999,
+    "win_rate": 0.6,
+    "total_current_value": 70,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 38837,
+    "trader_tags": "> 1 year old"
   }
 ]
