@@ -830,5 +830,21 @@
     "win_count": 543,
     "rank": 4152,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x3801583bca5ce62aa3ee3a2299acefd09190cbe8",
+    "trader_name": "Messiah07",
+    "tag": "Overall",
+    "overall_gain": 26867.657986400453,
+    "active_positions": 6,
+    "win_amount": 33087.787009352156,
+    "loss_amount": -6220.1290229517035,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 28122.948631924515,
+    "total_positions": 24,
+    "event_ct": 18,
+    "win_count": 10,
+    "rank": 4153,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
