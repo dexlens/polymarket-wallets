@@ -1070,5 +1070,21 @@
     "win_count": 10,
     "rank": 6767,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb065da5a973668e2297c4a825e9b81e9c972c64",
+    "trader_name": "10xflip",
+    "tag": "Overall",
+    "overall_gain": 15858.745794347788,
+    "active_positions": 0,
+    "win_amount": 15859.945768347789,
+    "loss_amount": -1.199974,
+    "win_rate": 0.9666666666666667,
+    "total_current_value": 0.009236,
+    "total_positions": 105,
+    "event_ct": 30,
+    "win_count": 29,
+    "rank": 6768,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
