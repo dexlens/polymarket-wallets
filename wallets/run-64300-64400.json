@@ -286,5 +286,21 @@
     "win_count": 24,
     "rank": 64319,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x36f1041eb0c2028be32155b48a457466af77ec06",
+    "trader_name": "prostoLUCK",
+    "tag": "Overall",
+    "overall_gain": 964.8119422071229,
+    "active_positions": 16,
+    "win_amount": 1535.6450591214862,
+    "loss_amount": -570.833116914363,
+    "win_rate": 0.9106145251396648,
+    "total_current_value": 1113.0659800005003,
+    "total_positions": 1050,
+    "event_ct": 537,
+    "win_count": 489,
+    "rank": 64320,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
