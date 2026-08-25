@@ -430,5 +430,21 @@
     "win_count": 3,
     "rank": 1027,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x972bf37cae72a169e17ae0e6179821d5778b78ba",
+    "trader_name": "k-maniac",
+    "tag": "Overall",
+    "overall_gain": 118761.937949471,
+    "active_positions": 289,
+    "win_amount": 998598.722891947,
+    "loss_amount": -879836.7849424763,
+    "win_rate": 0.48697668075821626,
+    "total_current_value": 90554.76499540104,
+    "total_positions": 23044,
+    "event_ct": 7333,
+    "win_count": 3571,
+    "rank": 1028,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Sports PnL > $100k"
   }
 ]
