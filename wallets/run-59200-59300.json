@@ -366,5 +366,21 @@
     "win_count": 8,
     "rank": 59224,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x20ec89acc2678056d12f87a48eadfa684af04bf6",
+    "trader_name": "joaomoa",
+    "tag": "Overall",
+    "overall_gain": 1101.1178189754103,
+    "active_positions": 4,
+    "win_amount": 1775.754089854538,
+    "loss_amount": -674.636270879128,
+    "win_rate": 0.9318181818181818,
+    "total_current_value": 8334.932526052002,
+    "total_positions": 83,
+    "event_ct": 44,
+    "win_count": 41,
+    "rank": 59225,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
