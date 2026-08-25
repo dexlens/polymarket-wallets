@@ -958,5 +958,21 @@
     "win_count": 2,
     "rank": 3760,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x680a33bff62829c8a664e59d9f7f7bdc005d2516",
+    "trader_name": "EvaElfie",
+    "tag": "Overall",
+    "overall_gain": 30298.570420621763,
+    "active_positions": 10,
+    "win_amount": 36483.767904738466,
+    "loss_amount": -6185.197484116702,
+    "win_rate": 0.8275862068965517,
+    "total_current_value": 11.199364644,
+    "total_positions": 78,
+    "event_ct": 29,
+    "win_count": 24,
+    "rank": 3761,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
