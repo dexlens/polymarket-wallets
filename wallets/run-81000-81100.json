@@ -1582,5 +1582,21 @@
     "win_count": 15,
     "rank": 81100,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xed16a79c688312240a5fdcbb08aa5737d5db0c9a",
+    "trader_name": "godefroylehardy",
+    "tag": "Overall",
+    "overall_gain": 612.4326133233319,
+    "active_positions": 0,
+    "win_amount": 612.4326133233319,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.001666,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 81101,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
