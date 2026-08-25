@@ -382,5 +382,21 @@
     "win_count": 5,
     "rank": 4924,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61e93ca43b7d40e0e0794157d04beca2022bcb1b",
+    "trader_name": "aithan25364",
+    "tag": "Overall",
+    "overall_gain": 22045.753125812138,
+    "active_positions": 1,
+    "win_amount": 45297.52229303202,
+    "loss_amount": -23251.769167219878,
+    "win_rate": 0.616,
+    "total_current_value": 0.060603000000000004,
+    "total_positions": 265,
+    "event_ct": 125,
+    "win_count": 77,
+    "rank": 4925,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
