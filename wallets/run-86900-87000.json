@@ -702,5 +702,21 @@
     "win_count": 2,
     "rank": 86945,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9ad7ca532e79e622b17414776b7bda8640f160f2",
+    "trader_name": "DDaniel",
+    "tag": "Overall",
+    "overall_gain": 526.150724822812,
+    "active_positions": 1,
+    "win_amount": 807.150469,
+    "loss_amount": -280.999744177188,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 86946,
+    "trader_tags": ""
   }
 ]
