@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 71754,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ed0aaca40a8bcc1d14a0a2fc13069ba9c70d7e1",
+    "trader_name": "Rookiewin",
+    "tag": "Overall",
+    "overall_gain": 772.30974224725,
+    "active_positions": 0,
+    "win_amount": 772.30974224725,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000125,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 71755,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
