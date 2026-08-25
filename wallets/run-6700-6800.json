@@ -1502,5 +1502,21 @@
     "win_count": 98,
     "rank": 6794,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x23d090fd4253affe5ab58a372c4e9c0cdd4e61e7",
+    "trader_name": "mrko",
+    "tag": "Overall",
+    "overall_gain": 15787.083827175371,
+    "active_positions": 2,
+    "win_amount": 29925.155433258813,
+    "loss_amount": -14138.071606083444,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.008754,
+    "total_positions": 9,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 6795,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
