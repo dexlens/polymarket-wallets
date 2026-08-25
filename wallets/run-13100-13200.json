@@ -1166,5 +1166,21 @@
     "win_count": 233,
     "rank": 13173,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2672f7914434087a64c12f109d62f947acf20ba6",
+    "trader_name": "CapitanPescanova",
+    "tag": "Overall",
+    "overall_gain": 7617.689289457862,
+    "active_positions": 110,
+    "win_amount": 29853.245768999986,
+    "loss_amount": -22235.556479542138,
+    "win_rate": 0.9656849500135098,
+    "total_current_value": 0,
+    "total_positions": 3720,
+    "event_ct": 3701,
+    "win_count": 3574,
+    "rank": 13174,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
