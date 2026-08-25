@@ -110,5 +110,21 @@
     "win_count": 10,
     "rank": 26808,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x902b3084831c411a7c5a8812768617fc57deca29",
+    "trader_name": "Str8Gambling",
+    "tag": "Overall",
+    "overall_gain": 3236.114779595722,
+    "active_positions": 1,
+    "win_amount": 4780.004673642496,
+    "loss_amount": -1543.889894046774,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.001303,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 26809,
+    "trader_tags": ""
   }
 ]
