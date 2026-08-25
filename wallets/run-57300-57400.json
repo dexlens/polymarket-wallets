@@ -1566,5 +1566,21 @@
     "win_count": 12,
     "rank": 57399,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x546cfec191eb70695d1876dcb76453b7c4346d31",
+    "trader_name": "itymvhw",
+    "tag": "Overall",
+    "overall_gain": 1163.56613,
+    "active_positions": 2,
+    "win_amount": 1411.4368299999996,
+    "loss_amount": -247.87070000000003,
+    "win_rate": 0.9655172413793104,
+    "total_current_value": 142.63,
+    "total_positions": 30,
+    "event_ct": 29,
+    "win_count": 28,
+    "rank": 57400,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
