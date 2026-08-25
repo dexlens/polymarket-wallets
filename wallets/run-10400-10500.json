@@ -334,5 +334,21 @@
     "win_count": 7,
     "rank": 10421,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc58cb8d5f9ff9f0388f586d58392bae3228f6f90",
+    "trader_name": "gggu1",
+    "tag": "Overall",
+    "overall_gain": 10087.718273,
+    "active_positions": 1,
+    "win_amount": 10087.718273,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 200.29800000000003,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 10422,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
