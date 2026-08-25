@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 33689,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x291f9e75d8ac6d2cc9169a9598c5871fabc36cf3",
+    "trader_name": "StillEchdx",
+    "tag": "Overall",
+    "overall_gain": 2450.563005,
+    "active_positions": 1,
+    "win_amount": 4471.273005,
+    "loss_amount": -2020.71,
+    "win_rate": 0.52,
+    "total_current_value": 0,
+    "total_positions": 44,
+    "event_ct": 25,
+    "win_count": 13,
+    "rank": 33690,
+    "trader_tags": "> 1 year old"
   }
 ]
