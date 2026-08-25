@@ -750,5 +750,21 @@
     "win_count": 152,
     "rank": 2747,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53d73c64465e52ef092277bdc78584bf72b350a8",
+    "trader_name": "Banca",
+    "tag": "Overall",
+    "overall_gain": 42128.16018733447,
+    "active_positions": 0,
+    "win_amount": 107587.99263438473,
+    "loss_amount": -65459.83244705024,
+    "win_rate": 0.3939393939393939,
+    "total_current_value": 0.10234200000000002,
+    "total_positions": 54,
+    "event_ct": 33,
+    "win_count": 13,
+    "rank": 2748,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
