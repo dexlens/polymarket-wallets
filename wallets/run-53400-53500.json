@@ -1454,5 +1454,21 @@
     "win_count": 174,
     "rank": 53492,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x60bfd865b32b6daf741afeb6cce2f3774b1eb506",
+    "trader_name": "endorsejourney",
+    "tag": "Overall",
+    "overall_gain": 1324.4388799328844,
+    "active_positions": 4,
+    "win_amount": 1695.3202123943504,
+    "loss_amount": -370.881332461466,
+    "win_rate": 0.90625,
+    "total_current_value": 378.921398009,
+    "total_positions": 73,
+    "event_ct": 64,
+    "win_count": 58,
+    "rank": 53493,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
