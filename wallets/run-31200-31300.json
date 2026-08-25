@@ -1262,5 +1262,21 @@
     "win_count": 2,
     "rank": 31280,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7d2303856fefcfd079edb1001d83dee065bc8776",
+    "trader_name": "ukjdfkhd",
+    "tag": "Overall",
+    "overall_gain": 2671.8488059999995,
+    "active_positions": 3,
+    "win_amount": 2873.1988059999994,
+    "loss_amount": -201.35000000000002,
+    "win_rate": 0.9090909090909091,
+    "total_current_value": 0.05,
+    "total_positions": 65,
+    "event_ct": 33,
+    "win_count": 30,
+    "rank": 31281,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
