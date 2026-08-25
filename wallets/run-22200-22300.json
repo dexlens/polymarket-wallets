@@ -638,5 +638,21 @@
     "win_count": 11,
     "rank": 22240,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4f8c48de2c010877f5748f192b6f4db38f7bdcf9",
+    "trader_name": "bfuy",
+    "tag": "Overall",
+    "overall_gain": 4065.0987310000014,
+    "active_positions": 2,
+    "win_amount": 5080.658731000001,
+    "loss_amount": -1015.56,
+    "win_rate": 0.9714285714285714,
+    "total_current_value": 13.573,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 34,
+    "rank": 22241,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
