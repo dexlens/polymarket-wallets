@@ -526,5 +526,21 @@
     "win_count": 3,
     "rank": 13233,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x53decedc72531ef57b2d54b5542c509e233c822f",
+    "trader_name": "jack118",
+    "tag": "Overall",
+    "overall_gain": 7583.158326479981,
+    "active_positions": 142,
+    "win_amount": 17483.891435,
+    "loss_amount": -9900.733108520017,
+    "win_rate": 0.42338709677419356,
+    "total_current_value": 0,
+    "total_positions": 255,
+    "event_ct": 248,
+    "win_count": 105,
+    "rank": 13234,
+    "trader_tags": "< 30 days old"
   }
 ]
