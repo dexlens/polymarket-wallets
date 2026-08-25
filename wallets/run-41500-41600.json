@@ -1310,5 +1310,21 @@
     "win_count": 5,
     "rank": 41583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15d705ed8ec8a9d6b5ddda0d5e415adda2c9924d",
+    "trader_name": "fetrg",
+    "tag": "Overall",
+    "overall_gain": 1900.4837712445174,
+    "active_positions": 7,
+    "win_amount": 7552.452896000001,
+    "loss_amount": -5651.969124755483,
+    "win_rate": 0.6,
+    "total_current_value": 94.472817741,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 41584,
+    "trader_tags": "> 1 year old"
   }
 ]
