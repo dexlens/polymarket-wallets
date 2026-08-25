@@ -46,5 +46,21 @@
     "win_count": 220,
     "rank": 1503,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2a1441dc244432d268a103fd7d4a5559813f0762",
+    "trader_name": "weedle",
+    "tag": "Overall",
+    "overall_gain": 80425.79402144965,
+    "active_positions": 0,
+    "win_amount": 236241.5504804496,
+    "loss_amount": -155815.75645900003,
+    "win_rate": 0.5079365079365079,
+    "total_current_value": 0.033287,
+    "total_positions": 519,
+    "event_ct": 189,
+    "win_count": 96,
+    "rank": 1504,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
