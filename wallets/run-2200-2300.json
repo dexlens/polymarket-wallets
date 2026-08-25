@@ -1102,5 +1102,21 @@
     "win_count": 30,
     "rank": 2269,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x75ca58f74f718d583270bdbd665098551fbcd680",
+    "trader_name": "quinca",
+    "tag": "Overall",
+    "overall_gain": 52495.48652033352,
+    "active_positions": 96,
+    "win_amount": 163795.16148399995,
+    "loss_amount": -111299.67496366646,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 256,
+    "event_ct": 256,
+    "win_count": 160,
+    "rank": 2270,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
