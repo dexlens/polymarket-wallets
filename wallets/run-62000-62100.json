@@ -958,5 +958,21 @@
     "win_count": 10,
     "rank": 62061,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59e8063b03ef09ffa631511657af7a7f6eaf187b",
+    "trader_name": "Patienceaq",
+    "tag": "Overall",
+    "overall_gain": 1020.5214931199998,
+    "active_positions": 1,
+    "win_amount": 1021.78927612,
+    "loss_amount": -1.267783,
+    "win_rate": 0.5,
+    "total_current_value": 9.346609,
+    "total_positions": 11,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 62062,
+    "trader_tags": "< 30 days old"
   }
 ]
