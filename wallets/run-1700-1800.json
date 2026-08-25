@@ -190,5 +190,21 @@
     "win_count": 104,
     "rank": 1712,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf38baf077eff5a8df925685eae38ecabcbb97a1a",
+    "trader_name": "MustBe",
+    "tag": "Overall",
+    "overall_gain": 71841.150526,
+    "active_positions": 0,
+    "win_amount": 71841.150526,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 1713,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
