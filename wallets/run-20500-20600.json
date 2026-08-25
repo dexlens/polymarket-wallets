@@ -590,5 +590,21 @@
     "win_count": 16,
     "rank": 20537,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x40ffcbe70e17eecb96390e9a0af03aeea2851a71",
+    "trader_name": "Corvess",
+    "tag": "Overall",
+    "overall_gain": 4485.156057,
+    "active_positions": 2,
+    "win_amount": 28004.950119000005,
+    "loss_amount": -23519.794061999997,
+    "win_rate": 0.5449010654490106,
+    "total_current_value": 151.924,
+    "total_positions": 659,
+    "event_ct": 657,
+    "win_count": 358,
+    "rank": 20538,
+    "trader_tags": ""
   }
 ]
