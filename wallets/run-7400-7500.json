@@ -926,5 +926,21 @@
     "win_count": 16,
     "rank": 7458,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4219aaf48a7d4582f9f65d15aa17449278ea7855",
+    "trader_name": "nellbear",
+    "tag": "Overall",
+    "overall_gain": 14228.566833333449,
+    "active_positions": 39,
+    "win_amount": 114076.60515842611,
+    "loss_amount": -99848.0383250927,
+    "win_rate": 0.6708860759493671,
+    "total_current_value": 22.125578215999994,
+    "total_positions": 92,
+    "event_ct": 79,
+    "win_count": 53,
+    "rank": 7459,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
