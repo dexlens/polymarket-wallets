@@ -1358,5 +1358,21 @@
     "win_count": 4,
     "rank": 52086,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54226800258c11bfc2e8380d134b97e284636c3f",
+    "trader_name": "JM4153",
+    "tag": "Overall",
+    "overall_gain": 1388.5061915022445,
+    "active_positions": 395,
+    "win_amount": 24415.32050581148,
+    "loss_amount": -23026.814314309242,
+    "win_rate": 0.49386084583901774,
+    "total_current_value": 0.032331,
+    "total_positions": 801,
+    "event_ct": 733,
+    "win_count": 362,
+    "rank": 52087,
+    "trader_tags": "> 1 year old"
   }
 ]
