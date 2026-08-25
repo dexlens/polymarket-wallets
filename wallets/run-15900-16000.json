@@ -1230,5 +1230,21 @@
     "win_count": 42,
     "rank": 15977,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3652b2487927939d2c43fa1b61b0ea39bf5da436",
+    "trader_name": "lalala",
+    "tag": "Overall",
+    "overall_gain": 6006.027353,
+    "active_positions": 0,
+    "win_amount": 6006.027353,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 15978,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
