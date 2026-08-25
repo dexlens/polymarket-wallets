@@ -990,5 +990,21 @@
     "win_count": 3,
     "rank": 5462,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2e15d1f0004101da2251a17d84fb24df34470ac8",
+    "trader_name": "Ingg",
+    "tag": "Overall",
+    "overall_gain": 19791.52019912818,
+    "active_positions": 4,
+    "win_amount": 42413.94009189977,
+    "loss_amount": -22622.419892771584,
+    "win_rate": 0.6875,
+    "total_current_value": 104035.68258683998,
+    "total_positions": 36,
+    "event_ct": 16,
+    "win_count": 11,
+    "rank": 5463,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
