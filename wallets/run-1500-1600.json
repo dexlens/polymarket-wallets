@@ -1214,5 +1214,21 @@
     "win_count": 7,
     "rank": 1576,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x24ded84d901a743cfee095f8082b0f9f647183cb",
+    "trader_name": "arjenw",
+    "tag": "Overall",
+    "overall_gain": 77144.95641993126,
+    "active_positions": 79,
+    "win_amount": 253876.89493085508,
+    "loss_amount": -176731.93851092394,
+    "win_rate": 0.8542024013722127,
+    "total_current_value": 10281.924546273998,
+    "total_positions": 1124,
+    "event_ct": 583,
+    "win_count": 498,
+    "rank": 1577,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
