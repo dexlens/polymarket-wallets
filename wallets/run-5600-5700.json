@@ -958,5 +958,21 @@
     "win_count": 3,
     "rank": 5660,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa56902ddb745968ad747f3a5a2a5f07ee68d96ec",
+    "trader_name": "pmcb",
+    "tag": "Overall",
+    "overall_gain": 19067.69408292222,
+    "active_positions": 15,
+    "win_amount": 24467.240544994947,
+    "loss_amount": -5399.546462072731,
+    "win_rate": 0.95,
+    "total_current_value": 242837.074072654,
+    "total_positions": 58,
+    "event_ct": 40,
+    "win_count": 38,
+    "rank": 5661,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
