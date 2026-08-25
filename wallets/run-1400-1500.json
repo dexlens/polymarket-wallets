@@ -1294,5 +1294,21 @@
     "win_count": 620,
     "rank": 1481,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x6c928fabc03658485bd4f2b517e2bbed5a7ccc95",
+    "trader_name": "bittyman",
+    "tag": "Overall",
+    "overall_gain": 81474.23642367417,
+    "active_positions": 1,
+    "win_amount": 89253.87876,
+    "loss_amount": -7779.642336325838,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 1482,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
