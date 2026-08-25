@@ -830,5 +830,21 @@
     "win_count": 22,
     "rank": 21452,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5bcc0551ea1859b9f0aa4c5acdeeb2d8abacb294",
+    "trader_name": "eqqqwe1",
+    "tag": "Overall",
+    "overall_gain": 4246.201003506584,
+    "active_positions": 1,
+    "win_amount": 14816.764317943942,
+    "loss_amount": -10570.563314437357,
+    "win_rate": 0.6909090909090909,
+    "total_current_value": 0.092065,
+    "total_positions": 74,
+    "event_ct": 55,
+    "win_count": 38,
+    "rank": 21453,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
