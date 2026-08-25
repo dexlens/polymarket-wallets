@@ -1134,5 +1134,21 @@
     "win_count": 2,
     "rank": 8471,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x905628a6a0557877ebf63df81a73c05c5e9b9754",
+    "trader_name": "MrGondorff",
+    "tag": "Overall",
+    "overall_gain": 12351.06397602379,
+    "active_positions": 2,
+    "win_amount": 12351.06397602379,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000133,
+    "total_positions": 21,
+    "event_ct": 13,
+    "win_count": 13,
+    "rank": 8472,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
