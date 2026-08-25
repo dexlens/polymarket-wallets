@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 33500,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc876ac611053bc777e8d1509f9916f2512de5b66",
+    "trader_name": "NeuralDrift0j",
+    "tag": "Overall",
+    "overall_gain": 2465.811834580912,
+    "active_positions": 2,
+    "win_amount": 2876.7900865809124,
+    "loss_amount": -410.978252,
+    "win_rate": 0.6071428571428571,
+    "total_current_value": 0,
+    "total_positions": 28,
+    "event_ct": 28,
+    "win_count": 17,
+    "rank": 33501,
+    "trader_tags": ""
   }
 ]
