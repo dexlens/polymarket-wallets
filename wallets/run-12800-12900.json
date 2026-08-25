@@ -622,5 +622,21 @@
     "win_count": 10,
     "rank": 12839,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x643882b0380dd27f2132796987a36d5fec76fe6b",
+    "trader_name": "pd.DataFrame",
+    "tag": "Overall",
+    "overall_gain": 7865.500772000003,
+    "active_positions": 11,
+    "win_amount": 39629.09630500001,
+    "loss_amount": -31763.595533,
+    "win_rate": 0.5616591928251121,
+    "total_current_value": 0,
+    "total_positions": 1750,
+    "event_ct": 892,
+    "win_count": 501,
+    "rank": 12840,
+    "trader_tags": "1k+ Positions"
   }
 ]
