@@ -158,5 +158,21 @@
     "win_count": 1,
     "rank": 20310,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x19fd5f45d0c031d35159dc84127f7cb2d392ff00",
+    "trader_name": "daomei",
+    "tag": "Overall",
+    "overall_gain": 4547.451431844024,
+    "active_positions": 1,
+    "win_amount": 4558.586274993071,
+    "loss_amount": -11.134843149047002,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 342.885242,
+    "total_positions": 17,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 20311,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
