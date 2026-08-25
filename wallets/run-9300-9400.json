@@ -542,5 +542,21 @@
     "win_count": 41,
     "rank": 9334,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xff20a2d4bc4d72edc44bf8846e0c750d7c602efc",
+    "trader_name": "innovatorstrilemma",
+    "tag": "Overall",
+    "overall_gain": 11223.787127787698,
+    "active_positions": 3,
+    "win_amount": 12815.525379144732,
+    "loss_amount": -1591.738251357034,
+    "win_rate": 0.6,
+    "total_current_value": 0.02588,
+    "total_positions": 32,
+    "event_ct": 30,
+    "win_count": 18,
+    "rank": 9335,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
