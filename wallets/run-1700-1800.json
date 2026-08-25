@@ -1102,5 +1102,21 @@
     "win_count": 7,
     "rank": 1769,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1ad81764a4bf463ff717ea9c7bcbfba212587fef",
+    "trader_name": "VivaPalestine",
+    "tag": "Overall",
+    "overall_gain": 69334.929165258,
+    "active_positions": 0,
+    "win_amount": 69334.929165258,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.009814,
+    "total_positions": 15,
+    "event_ct": 14,
+    "win_count": 14,
+    "rank": 1770,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
