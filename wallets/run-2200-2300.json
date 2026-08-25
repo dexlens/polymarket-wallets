@@ -1022,5 +1022,21 @@
     "win_count": 4,
     "rank": 2264,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x76ed2caa9604f3a3b3770d47161190d871f1fa48",
+    "trader_name": "leitingjie",
+    "tag": "Overall",
+    "overall_gain": 52585.35915445334,
+    "active_positions": 20,
+    "win_amount": 121575.77430009784,
+    "loss_amount": -68990.41514564453,
+    "win_rate": 0.545,
+    "total_current_value": 0.065248718,
+    "total_positions": 381,
+    "event_ct": 200,
+    "win_count": 109,
+    "rank": 2265,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
