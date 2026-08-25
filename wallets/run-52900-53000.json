@@ -494,5 +494,21 @@
     "win_count": 7,
     "rank": 52932,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x36a7e80b487b26eebce266da0640e33dd4651aea",
+    "trader_name": "Asperatus",
+    "tag": "Overall",
+    "overall_gain": 1350.9183806847052,
+    "active_positions": 50,
+    "win_amount": 2780.1755405474833,
+    "loss_amount": -1429.2571598627792,
+    "win_rate": 0.8106060606060606,
+    "total_current_value": 3374.8886497389994,
+    "total_positions": 315,
+    "event_ct": 132,
+    "win_count": 107,
+    "rank": 52933,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
