@@ -782,5 +782,21 @@
     "win_count": 153,
     "rank": 20549,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd0b10a3c791b64a5c9d1b338ce8d5c5c86afc12e",
+    "trader_name": "farmertaiki",
+    "tag": "Overall",
+    "overall_gain": 4481.592574013449,
+    "active_positions": 1,
+    "win_amount": 9060.527880708314,
+    "loss_amount": -4578.935306694866,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.007458,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 20550,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
