@@ -1070,5 +1070,21 @@
     "win_count": 4,
     "rank": 59168,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ab0facbf60b0523adb713175ee666c83b833b33",
+    "trader_name": "GGOGANG",
+    "tag": "Overall",
+    "overall_gain": 1103.4312562562152,
+    "active_positions": 9,
+    "win_amount": 3380.8844280000003,
+    "loss_amount": -2277.453171743785,
+    "win_rate": 0.125,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 24,
+    "win_count": 3,
+    "rank": 59169,
+    "trader_tags": "> 1 year old"
   }
 ]
