@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 85265,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5513939c1b8fc9c07c4a78d3e9cc24e63c3151e1",
+    "trader_name": "madapearson",
+    "tag": "Overall",
+    "overall_gain": 548.4876790999999,
+    "active_positions": 0,
+    "win_amount": 548.4876790999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0001,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 85266,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
