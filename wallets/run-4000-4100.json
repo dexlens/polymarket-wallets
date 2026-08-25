@@ -1070,5 +1070,21 @@
     "win_count": 4,
     "rank": 4067,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb8e4a4551d2c6b080ae5a523ff1f0cae8e922dae",
+    "trader_name": "Kalags",
+    "tag": "Overall",
+    "overall_gain": 27560.47387503461,
+    "active_positions": 63,
+    "win_amount": 58278.5559739798,
+    "loss_amount": -30718.082098945197,
+    "win_rate": 0.6310679611650486,
+    "total_current_value": 6945.707536839001,
+    "total_positions": 763,
+    "event_ct": 515,
+    "win_count": 325,
+    "rank": 4068,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
