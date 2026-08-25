@@ -1582,5 +1582,21 @@
     "win_count": 101,
     "rank": 20499,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0dd05f547e6cbe6a0e08555f32c2e67bebb8445c",
+    "trader_name": "syrop-of-change",
+    "tag": "Overall",
+    "overall_gain": 4498.009928879713,
+    "active_positions": 14,
+    "win_amount": 8553.139409119103,
+    "loss_amount": -4055.129480239392,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0.007356,
+    "total_positions": 22,
+    "event_ct": 14,
+    "win_count": 4,
+    "rank": 20500,
+    "trader_tags": ""
   }
 ]
