@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 1461,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x9180d46bd2a46c7955ec9df091698ac76a0ff0da",
+    "trader_name": "Oddscompiler",
+    "tag": "Overall",
+    "overall_gain": 82719.82112840291,
+    "active_positions": 2,
+    "win_amount": 110071.88708168839,
+    "loss_amount": -27352.065953285477,
+    "win_rate": 0.25,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 1462,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
