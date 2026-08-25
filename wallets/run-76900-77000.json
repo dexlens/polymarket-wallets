@@ -1582,5 +1582,21 @@
     "win_count": 2,
     "rank": 77000,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5e65472e055b685180fda5dfaeac0a594696f390",
+    "trader_name": "deadge",
+    "tag": "Overall",
+    "overall_gain": 681.95042433303,
+    "active_positions": 3,
+    "win_amount": 903.35,
+    "loss_amount": -221.39957566696998,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 77001,
+    "trader_tags": ""
   }
 ]
