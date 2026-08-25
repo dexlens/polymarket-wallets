@@ -270,5 +270,21 @@
     "win_count": 14,
     "rank": 10317,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6f6f9ee543cd01cbc6c05ab8110f8813e76dd295",
+    "trader_name": "Xypherion",
+    "tag": "Overall",
+    "overall_gain": 10184.066456221712,
+    "active_positions": 5,
+    "win_amount": 10205.871128145047,
+    "loss_amount": -21.804671923335,
+    "win_rate": 0.8627450980392157,
+    "total_current_value": 15.806047,
+    "total_positions": 55,
+    "event_ct": 51,
+    "win_count": 44,
+    "rank": 10318,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
