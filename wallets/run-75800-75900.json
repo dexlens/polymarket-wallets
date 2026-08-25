@@ -94,5 +94,21 @@
     "win_count": 4,
     "rank": 75807,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2617d814c101c9bb384081f2357822c778aeafc5",
+    "trader_name": "pkFire",
+    "tag": "Overall",
+    "overall_gain": 702.3573556101519,
+    "active_positions": 41,
+    "win_amount": 2323.656074891755,
+    "loss_amount": -1621.2987192816029,
+    "win_rate": 0.5828571428571429,
+    "total_current_value": 1214.8437726589998,
+    "total_positions": 212,
+    "event_ct": 175,
+    "win_count": 102,
+    "rank": 75808,
+    "trader_tags": "> 1 year old"
   }
 ]
