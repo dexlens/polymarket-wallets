@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 44159,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xec763e57b016d0cf5231ad5a5929827ba9eaf9f1",
+    "trader_name": "feedrr",
+    "tag": "Overall",
+    "overall_gain": 1757.279078496068,
+    "active_positions": 26,
+    "win_amount": 3700.720614021129,
+    "loss_amount": -1943.441535525063,
+    "win_rate": 0.6673306772908366,
+    "total_current_value": 1272.3376119964996,
+    "total_positions": 985,
+    "event_ct": 502,
+    "win_count": 335,
+    "rank": 44160,
+    "trader_tags": ""
   }
 ]
