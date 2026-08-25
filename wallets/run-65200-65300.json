@@ -1534,5 +1534,21 @@
     "win_count": 25,
     "rank": 65297,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd09aa77027778805068c58ca05847ee288a1e290",
+    "trader_name": "rimbaud",
+    "tag": "Overall",
+    "overall_gain": 936.2076307171479,
+    "active_positions": 7,
+    "win_amount": 1185.9672268233662,
+    "loss_amount": -249.759596106218,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 211.703807985,
+    "total_positions": 39,
+    "event_ct": 34,
+    "win_count": 28,
+    "rank": 65298,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
