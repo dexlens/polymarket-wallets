@@ -206,5 +206,21 @@
     "win_count": 9,
     "rank": 78314,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14f709b4833d42355e09b002ee9225a74b384ef7",
+    "trader_name": "wow3",
+    "tag": "Overall",
+    "overall_gain": 659.079141618015,
+    "active_positions": 8,
+    "win_amount": 743.3115158835011,
+    "loss_amount": -84.232374265486,
+    "win_rate": 0.7419354838709677,
+    "total_current_value": 81.424783979,
+    "total_positions": 84,
+    "event_ct": 31,
+    "win_count": 23,
+    "rank": 78315,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
