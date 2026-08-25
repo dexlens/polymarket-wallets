@@ -1294,5 +1294,21 @@
     "win_count": 25,
     "rank": 2981,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x62404d8a378e3e89e5ff5e8a62a61ad041ffcc39",
+    "trader_name": "mehtryagainlater",
+    "tag": "Overall",
+    "overall_gain": 38469.56979620892,
+    "active_positions": 1,
+    "win_amount": 39032.310915098926,
+    "loss_amount": -562.74111889,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.048962,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 2982,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
