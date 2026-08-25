@@ -1310,5 +1310,21 @@
     "win_count": 180,
     "rank": 1182,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x14384fc827dfc14548ab300986b6eac62358e114",
+    "trader_name": "QuietCasper",
+    "tag": "Overall",
+    "overall_gain": 102507.87144724856,
+    "active_positions": 1,
+    "win_amount": 143360.78395600003,
+    "loss_amount": -40852.912508751455,
+    "win_rate": 0.2222222222222222,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 2,
+    "rank": 1183,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
   }
 ]
