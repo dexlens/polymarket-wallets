@@ -1454,5 +1454,21 @@
     "win_count": 32,
     "rank": 3391,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe91c98762406ebdd256bf959a87dbea0f27e334f",
+    "trader_name": "joe153",
+    "tag": "Overall",
+    "overall_gain": 33623.94248470258,
+    "active_positions": 3,
+    "win_amount": 352845.5096555803,
+    "loss_amount": -319221.5671708777,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 3392,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
