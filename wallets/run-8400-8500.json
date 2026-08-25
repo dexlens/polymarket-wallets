@@ -286,5 +286,21 @@
     "win_count": 70,
     "rank": 8418,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x0a3e987c811a5df866c8731a93cdf4c85e5194fa",
+    "trader_name": "ffjuuss",
+    "tag": "Overall",
+    "overall_gain": 12442.4612,
+    "active_positions": 1,
+    "win_amount": 12442.4612,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 200.29800000000003,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 8419,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
