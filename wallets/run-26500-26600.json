@@ -446,5 +446,21 @@
     "win_count": 3,
     "rank": 26529,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x96457d8961e2accf384b45e94fafa56f1f596a60",
+    "trader_name": "ortegt",
+    "tag": "Overall",
+    "overall_gain": 3284.2105341999995,
+    "active_positions": 8,
+    "win_amount": 6880.102959,
+    "loss_amount": -3595.8924248000003,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 0,
+    "total_positions": 22,
+    "event_ct": 22,
+    "win_count": 14,
+    "rank": 26530,
+    "trader_tags": "< 30 days old"
   }
 ]
