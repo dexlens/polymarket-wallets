@@ -1566,5 +1566,21 @@
     "win_count": 13,
     "rank": 79899,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xc21672fc4062e3f385736cf5ae2751eaaf88a52e",
+    "trader_name": "Linq1",
+    "tag": "Overall",
+    "overall_gain": 632.392532835184,
+    "active_positions": 1,
+    "win_amount": 632.392532835184,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007726,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 79900,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
