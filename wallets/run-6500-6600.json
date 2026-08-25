@@ -1198,5 +1198,21 @@
     "win_count": 5,
     "rank": 6575,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2d621bf2f23bc981cdd6a84c0a1d6738b2e17c61",
+    "trader_name": "qilloiidokos",
+    "tag": "Overall",
+    "overall_gain": 16305.937852495575,
+    "active_positions": 371,
+    "win_amount": 168156.49816834147,
+    "loss_amount": -151850.56031584588,
+    "win_rate": 0.5025974025974026,
+    "total_current_value": 1548.0224275665003,
+    "total_positions": 886,
+    "event_ct": 770,
+    "win_count": 387,
+    "rank": 6576,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
