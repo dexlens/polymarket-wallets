@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 71844,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5637da1ad64eb2da4236f484f91e606c674f618f",
+    "trader_name": "400p",
+    "tag": "Overall",
+    "overall_gain": 770.2523677878808,
+    "active_positions": 5,
+    "win_amount": 1101.7016087894638,
+    "loss_amount": -331.44924100158295,
+    "win_rate": 0.8158995815899581,
+    "total_current_value": 182.364241204,
+    "total_positions": 437,
+    "event_ct": 239,
+    "win_count": 195,
+    "rank": 71845,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
