@@ -846,5 +846,21 @@
     "win_count": 4,
     "rank": 21253,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3258270c883a86d1ce57bb7005dc802b057c1617",
+    "trader_name": "oKai",
+    "tag": "Overall",
+    "overall_gain": 4296,
+    "active_positions": 1,
+    "win_amount": 4372.5,
+    "loss_amount": -76.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 21254,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
