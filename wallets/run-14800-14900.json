@@ -1278,5 +1278,21 @@
     "win_count": 97,
     "rank": 14880,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6bfe1cfc5ab365e009ef083624a09d9099ce8122",
+    "trader_name": "gjuytbmb",
+    "tag": "Overall",
+    "overall_gain": 6565.659650000001,
+    "active_positions": 2,
+    "win_amount": 6655.77665,
+    "loss_amount": -90.11699999999999,
+    "win_rate": 0.967741935483871,
+    "total_current_value": 167.86,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 30,
+    "rank": 14881,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
