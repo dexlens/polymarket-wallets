@@ -1006,5 +1006,21 @@
     "win_count": 3,
     "rank": 57364,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d4029cb6a3e6e136212f3abec9fb9ab1f147b78",
+    "trader_name": "Jagas",
+    "tag": "Overall",
+    "overall_gain": 1165.0976656105895,
+    "active_positions": 30,
+    "win_amount": 1582.8216887533501,
+    "loss_amount": -417.72402314276104,
+    "win_rate": 0.5865384615384616,
+    "total_current_value": 7.7602882735,
+    "total_positions": 123,
+    "event_ct": 104,
+    "win_count": 61,
+    "rank": 57365,
+    "trader_tags": "> 1 year old"
   }
 ]
