@@ -238,5 +238,21 @@
     "win_count": 3,
     "rank": 20415,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x345a0f22544499d2fa454ef1e6e9c51c4c628b99",
+    "trader_name": "Carolus475",
+    "tag": "Overall",
+    "overall_gain": 4519.808489170408,
+    "active_positions": 62,
+    "win_amount": 12755.915694283754,
+    "loss_amount": -8236.107205113349,
+    "win_rate": 0.5774834437086093,
+    "total_current_value": 265.183289,
+    "total_positions": 1564,
+    "event_ct": 1510,
+    "win_count": 872,
+    "rank": 20416,
+    "trader_tags": "1k+ Positions"
   }
 ]
