@@ -942,5 +942,21 @@
     "win_count": 2,
     "rank": 55560,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3cb93645a99bc5022d285ccdc958c381dd0941ec",
+    "trader_name": "VolatilityHarbor",
+    "tag": "Overall",
+    "overall_gain": 1235.6599999999996,
+    "active_positions": 10,
+    "win_amount": 4973.16,
+    "loss_amount": -3737.5,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0,
+    "total_positions": 24,
+    "event_ct": 24,
+    "win_count": 14,
+    "rank": 55561,
+    "trader_tags": ""
   }
 ]
