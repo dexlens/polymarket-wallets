@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 88428,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbd0be1046f8aa55fad512de91ddc53d3be688a03",
+    "trader_name": "rhl.",
+    "tag": "Overall",
+    "overall_gain": 508.06389291212497,
+    "active_positions": 85,
+    "win_amount": 2793.496791932244,
+    "loss_amount": -2285.4328990201184,
+    "win_rate": 0.49586776859504134,
+    "total_current_value": 54.650044,
+    "total_positions": 250,
+    "event_ct": 242,
+    "win_count": 120,
+    "rank": 88429,
+    "trader_tags": "< 30 days old"
   }
 ]
