@@ -526,5 +526,21 @@
     "win_count": 12,
     "rank": 39834,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x61f8f04b4dc4c81ce58c293be65384263768fdbf",
+    "trader_name": "KittyMeg",
+    "tag": "Overall",
+    "overall_gain": 2002.5,
+    "active_positions": 11,
+    "win_amount": 5033,
+    "loss_amount": -3030.5,
+    "win_rate": 0.5769230769230769,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 15,
+    "rank": 39835,
+    "trader_tags": ""
   }
 ]
