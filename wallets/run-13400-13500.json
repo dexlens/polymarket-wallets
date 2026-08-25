@@ -718,5 +718,21 @@
     "win_count": 3,
     "rank": 13445,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x66c937a94ec2398b1f9d7954eee8c48ff0c82e68",
+    "trader_name": "ummon",
+    "tag": "Overall",
+    "overall_gain": 7397.456173271681,
+    "active_positions": 7,
+    "win_amount": 80749.05875710218,
+    "loss_amount": -73351.60258383048,
+    "win_rate": 0.6936619718309859,
+    "total_current_value": 0.012214,
+    "total_positions": 300,
+    "event_ct": 284,
+    "win_count": 197,
+    "rank": 13446,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
