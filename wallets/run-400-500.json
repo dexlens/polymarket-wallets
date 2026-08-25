@@ -1006,5 +1006,21 @@
     "win_count": 7,
     "rank": 463,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x58776759ee5c70a915138706a1308add8bc5d894",
+    "trader_name": "Donghui",
+    "tag": "Overall",
+    "overall_gain": 278312.3717853652,
+    "active_positions": 169,
+    "win_amount": 6428217.10784907,
+    "loss_amount": -6149904.736063704,
+    "win_rate": 0.46788990825688076,
+    "total_current_value": 0.43818120999999993,
+    "total_positions": 343,
+    "event_ct": 327,
+    "win_count": 153,
+    "rank": 464,
+    "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
   }
 ]
