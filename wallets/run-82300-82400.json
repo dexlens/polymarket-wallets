@@ -670,5 +670,21 @@
     "win_count": 18,
     "rank": 82343,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x71015320111e073002d2e19e8050c6f9396e3fd9",
+    "trader_name": "Godclub",
+    "tag": "Overall",
+    "overall_gain": 592.815023504,
+    "active_positions": 1,
+    "win_amount": 604.1809425,
+    "loss_amount": -11.365918996000001,
+    "win_rate": 0.8153846153846154,
+    "total_current_value": 10.776492500000002,
+    "total_positions": 79,
+    "event_ct": 65,
+    "win_count": 53,
+    "rank": 82344,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
