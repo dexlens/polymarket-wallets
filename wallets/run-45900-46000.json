@@ -366,5 +366,21 @@
     "win_count": 5,
     "rank": 45924,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x420f8bb012d9547b79f839d8ea7a671907931688",
+    "trader_name": "supercommander",
+    "tag": "Overall",
+    "overall_gain": 1669.8799999999999,
+    "active_positions": 10,
+    "win_amount": 3624.33,
+    "loss_amount": -1954.4500000000003,
+    "win_rate": 0.6875,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 22,
+    "rank": 45925,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
