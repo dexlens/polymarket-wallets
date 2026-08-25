@@ -734,5 +734,21 @@
     "win_count": 4,
     "rank": 86347,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b5c80ce9fa11869da04ba8570f7790068f9ab22",
+    "trader_name": "clackgot",
+    "tag": "Overall",
+    "overall_gain": 534.4156207444321,
+    "active_positions": 45,
+    "win_amount": 3868.5770724725107,
+    "loss_amount": -3334.1614517280796,
+    "win_rate": 0.4455337690631808,
+    "total_current_value": 472.94801899399994,
+    "total_positions": 1289,
+    "event_ct": 918,
+    "win_count": 409,
+    "rank": 86348,
+    "trader_tags": "1k+ Positions"
   }
 ]
