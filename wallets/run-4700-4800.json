@@ -1134,5 +1134,21 @@
     "win_count": 46,
     "rank": 4771,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x0720803c7cb0d0c5a928787b3b7ea148c6831cdb",
+    "trader_name": "pinkblanket",
+    "tag": "Overall",
+    "overall_gain": 22811.762926053023,
+    "active_positions": 7,
+    "win_amount": 7032910.514531523,
+    "loss_amount": -7010098.75160547,
+    "win_rate": 0.6,
+    "total_current_value": 0.00041600000000000003,
+    "total_positions": 17,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 4772,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
