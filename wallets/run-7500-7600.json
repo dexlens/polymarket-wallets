@@ -1182,5 +1182,21 @@
     "win_count": 19,
     "rank": 7574,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2f78a59f9d8152f6b2f74555092c13ede58d479b",
+    "trader_name": "VivianReade",
+    "tag": "Overall",
+    "overall_gain": 14006.204572229079,
+    "active_positions": 39,
+    "win_amount": 33000.20457222908,
+    "loss_amount": -18994,
+    "win_rate": 0.703125,
+    "total_current_value": 22.160477999999998,
+    "total_positions": 72,
+    "event_ct": 64,
+    "win_count": 45,
+    "rank": 7575,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
