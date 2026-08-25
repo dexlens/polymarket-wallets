@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 45397,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x446a8aee6ffab4ec64f64c66fce60c10c44daf10",
+    "trader_name": "Financebru",
+    "tag": "Overall",
+    "overall_gain": 1694.696278418025,
+    "active_positions": 6,
+    "win_amount": 2989.605450949428,
+    "loss_amount": -1294.909172531403,
+    "win_rate": 0.4,
+    "total_current_value": 0.050581999999999995,
+    "total_positions": 13,
+    "event_ct": 10,
+    "win_count": 4,
+    "rank": 45398,
+    "trader_tags": ""
   }
 ]
