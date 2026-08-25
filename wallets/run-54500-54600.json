@@ -1038,5 +1038,21 @@
     "win_count": 75,
     "rank": 54566,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4568f52cb88e477c00d6a9e006a9b00c71d26e22",
+    "trader_name": "kuuub",
+    "tag": "Overall",
+    "overall_gain": 1277.6000000000001,
+    "active_positions": 1,
+    "win_amount": 1277.6000000000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 19.26,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 54567,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
