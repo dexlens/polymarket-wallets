@@ -334,5 +334,21 @@
     "win_count": 3,
     "rank": 17021,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x353f6645b9a0518ca140b171c83052f7e669d262",
+    "trader_name": "Zuvgik578",
+    "tag": "Overall",
+    "overall_gain": 5543.800695261766,
+    "active_positions": 2,
+    "win_amount": 12838.399593742353,
+    "loss_amount": -7294.598898480586,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 8046.248848759999,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 17022,
+    "trader_tags": "< 30 days old"
   }
 ]
