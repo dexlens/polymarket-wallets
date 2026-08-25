@@ -1278,5 +1278,21 @@
     "win_count": 30,
     "rank": 31281,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa8e0d93de70ab95aa949dd808e89941dd6dfafc2",
+    "trader_name": "ffr0",
+    "tag": "Overall",
+    "overall_gain": 2671.638281681475,
+    "active_positions": 9,
+    "win_amount": 5252.997987,
+    "loss_amount": -2581.359705318526,
+    "win_rate": 0.16666666666666666,
+    "total_current_value": 0.009391,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 2,
+    "rank": 31282,
+    "trader_tags": "> 1 year old"
   }
 ]
