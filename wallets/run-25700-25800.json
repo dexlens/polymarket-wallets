@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 25753,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7babf245a3eae89e89fb5d4056c10e2d5a5c33d6",
+    "trader_name": "sergiiklevec",
+    "tag": "Overall",
+    "overall_gain": 3414.599892307363,
+    "active_positions": 4,
+    "win_amount": 4737.418516,
+    "loss_amount": -1322.818623692637,
+    "win_rate": 0.76,
+    "total_current_value": 0,
+    "total_positions": 26,
+    "event_ct": 25,
+    "win_count": 19,
+    "rank": 25754,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
