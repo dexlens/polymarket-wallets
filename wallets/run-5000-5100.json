@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 5069,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xed9ebf007d6e2ed90d5f6462a72645b7cb9489f4",
+    "trader_name": "dorthaul",
+    "tag": "Overall",
+    "overall_gain": 21375.29,
+    "active_positions": 0,
+    "win_amount": 26150.59,
+    "loss_amount": -4775.3,
+    "win_rate": 0.875,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 5070,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
