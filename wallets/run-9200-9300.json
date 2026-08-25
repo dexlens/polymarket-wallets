@@ -1070,5 +1070,21 @@
     "win_count": 19,
     "rank": 9267,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1a56e000bf95b7844a6befa6ea911218213a03a1",
+    "trader_name": "wcw1710",
+    "tag": "Overall",
+    "overall_gain": 11317.666871000001,
+    "active_positions": 0,
+    "win_amount": 11317.666871000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 9268,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
