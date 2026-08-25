@@ -1502,5 +1502,21 @@
     "win_count": 12,
     "rank": 44395,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57aace33703bd8c166f91263015448568223259d",
+    "trader_name": "Elonizer",
+    "tag": "Overall",
+    "overall_gain": 1743.148907402875,
+    "active_positions": 0,
+    "win_amount": 18207.636786,
+    "loss_amount": -16464.48787859712,
+    "win_rate": 0.4026451138868479,
+    "total_current_value": 0.0007080000000000001,
+    "total_positions": 1868,
+    "event_ct": 1361,
+    "win_count": 548,
+    "rank": 44396,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
