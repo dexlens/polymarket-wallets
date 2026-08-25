@@ -1390,5 +1390,21 @@
     "win_count": 8,
     "rank": 5787,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd5440411345a5c4cf02199f1d346b1f598264d5e",
+    "trader_name": "Pandaprotect",
+    "tag": "Overall",
+    "overall_gain": 18601.724983662247,
+    "active_positions": 62,
+    "win_amount": 45593.275531976025,
+    "loss_amount": -26991.55054831377,
+    "win_rate": 0.4715447154471545,
+    "total_current_value": 3.2791105115000008,
+    "total_positions": 169,
+    "event_ct": 123,
+    "win_count": 58,
+    "rank": 5788,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
