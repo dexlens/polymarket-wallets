@@ -782,5 +782,21 @@
     "win_count": 3,
     "rank": 8649,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2defe89358fbdbd86f5d9ec464deb1c8ec9ff4f0",
+    "trader_name": "lookatthetime",
+    "tag": "Overall",
+    "overall_gain": 12112,
+    "active_positions": 27,
+    "win_amount": 39435,
+    "loss_amount": -27323,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 63,
+    "event_ct": 63,
+    "win_count": 36,
+    "rank": 8650,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
