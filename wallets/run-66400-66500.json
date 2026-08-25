@@ -398,5 +398,21 @@
     "win_count": 10,
     "rank": 66426,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x87a0cbe3457e2dfe78adbe6aa75effa24d76ec27",
+    "trader_name": "DoMyDance",
+    "tag": "Overall",
+    "overall_gain": 904.5968052391661,
+    "active_positions": 2,
+    "win_amount": 3063.917801717668,
+    "loss_amount": -2159.320996478502,
+    "win_rate": 0.9308176100628931,
+    "total_current_value": 0.024994,
+    "total_positions": 160,
+    "event_ct": 159,
+    "win_count": 148,
+    "rank": 66427,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
