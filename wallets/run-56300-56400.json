@@ -1326,5 +1326,21 @@
     "win_count": 176,
     "rank": 56384,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x50a90ca0cdb3b3e20c3334a89c9a361641731221",
+    "trader_name": "Ultrasound",
+    "tag": "Overall",
+    "overall_gain": 1201.7538728653262,
+    "active_positions": 6,
+    "win_amount": 12567.219092327328,
+    "loss_amount": -11365.465219462,
+    "win_rate": 0.8306878306878307,
+    "total_current_value": 4256.328805638501,
+    "total_positions": 270,
+    "event_ct": 189,
+    "win_count": 157,
+    "rank": 56385,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
