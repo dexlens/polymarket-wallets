@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 79059,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80e7b21c188b5ca8fe76556790eeaa950b746906",
+    "trader_name": "Talorin",
+    "tag": "Overall",
+    "overall_gain": 646.193092,
+    "active_positions": 5,
+    "win_amount": 1981.128092,
+    "loss_amount": -1334.935,
+    "win_rate": 0.47368421052631576,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 9,
+    "rank": 79060,
+    "trader_tags": ""
   }
 ]
