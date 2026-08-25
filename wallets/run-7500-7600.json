@@ -1198,5 +1198,21 @@
     "win_count": 45,
     "rank": 7575,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfb48fcfd735c029f3c9dfd365c09ef8a3d0a1c27",
+    "trader_name": "DanteSeVen",
+    "tag": "Overall",
+    "overall_gain": 14003.007221457578,
+    "active_positions": 0,
+    "win_amount": 15721.270249208392,
+    "loss_amount": -1718.2630277508133,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.024916,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 7576,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
