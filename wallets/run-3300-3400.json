@@ -1294,5 +1294,21 @@
     "win_count": 20,
     "rank": 3381,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x58d7ebfaf22d4791433e929a429011db056e7cf1",
+    "trader_name": "cijinping",
+    "tag": "Overall",
+    "overall_gain": 33717.00932699998,
+    "active_positions": 14,
+    "win_amount": 53100.91962699999,
+    "loss_amount": -19383.910299999996,
+    "win_rate": 0.7045454545454546,
+    "total_current_value": 0,
+    "total_positions": 45,
+    "event_ct": 44,
+    "win_count": 31,
+    "rank": 3382,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
