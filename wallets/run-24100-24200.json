@@ -638,5 +638,21 @@
     "win_count": 5,
     "rank": 24141,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0cb4dd9592515b6b6431126588144e07cfaf76f1",
+    "trader_name": "amyavolupt",
+    "tag": "Overall",
+    "overall_gain": 3695.995699,
+    "active_positions": 0,
+    "win_amount": 3695.995699,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 24142,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
