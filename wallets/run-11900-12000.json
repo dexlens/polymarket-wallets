@@ -542,5 +542,21 @@
     "win_count": 11,
     "rank": 11934,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x596a78ff6de24b12fd39f827aecf93975e2f7a0f",
+    "trader_name": "carpe-noctem",
+    "tag": "Overall",
+    "overall_gain": 8655.501392170956,
+    "active_positions": 996,
+    "win_amount": 48679.74951115637,
+    "loss_amount": -40024.24811898541,
+    "win_rate": 0.5170542635658915,
+    "total_current_value": 7642.498945058496,
+    "total_positions": 5235,
+    "event_ct": 2580,
+    "win_count": 1334,
+    "rank": 11935,
+    "trader_tags": "1k+ Positions"
   }
 ]
