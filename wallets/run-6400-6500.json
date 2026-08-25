@@ -542,5 +542,21 @@
     "win_count": 1,
     "rank": 6434,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3608117a19c088bb236f8bb772d40d909cc3b13d",
+    "trader_name": "thebeaverthebear",
+    "tag": "Overall",
+    "overall_gain": 16643.132146620002,
+    "active_positions": 7,
+    "win_amount": 35136.33419484,
+    "loss_amount": -18493.20204822,
+    "win_rate": 0.38461538461538464,
+    "total_current_value": 1405.8000880000002,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 5,
+    "rank": 6435,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
