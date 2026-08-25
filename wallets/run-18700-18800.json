@@ -366,5 +366,21 @@
     "win_count": 3,
     "rank": 18723,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9b4a459ac01cd7e2857af59a83f603550ea2ffda",
+    "trader_name": "olikox",
+    "tag": "Overall",
+    "overall_gain": 4972.367866083245,
+    "active_positions": 1,
+    "win_amount": 4983.827738629913,
+    "loss_amount": -11.459872546667999,
+    "win_rate": 0.8,
+    "total_current_value": 0.014677,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 18724,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
