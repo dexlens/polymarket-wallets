@@ -1262,5 +1262,21 @@
     "win_count": 3195,
     "rank": 2279,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x936027683753c01e2900f245c9db113421e48bc5",
+    "trader_name": "proof-fairy",
+    "tag": "Overall",
+    "overall_gain": 52376.408392,
+    "active_positions": 0,
+    "win_amount": 61449.819462000014,
+    "loss_amount": -9073.411069999998,
+    "win_rate": 0.7695806592311047,
+    "total_current_value": 0,
+    "total_positions": 31945,
+    "event_ct": 16049,
+    "win_count": 12351,
+    "rank": 2280,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
