@@ -142,5 +142,21 @@
     "win_count": 21,
     "rank": 14909,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x096f826142f78950ee3468e03ca8f7c291988c80",
+    "trader_name": "Truehearta",
+    "tag": "Overall",
+    "overall_gain": 6548.848256715115,
+    "active_positions": 6,
+    "win_amount": 7171.073821767051,
+    "loss_amount": -622.225565051937,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 9.203252152,
+    "total_positions": 14,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 14910,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
