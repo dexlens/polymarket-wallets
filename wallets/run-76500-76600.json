@@ -510,5 +510,21 @@
     "win_count": 4,
     "rank": 76533,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x804c2e229e2a2468ef999480e77575e526533ce6",
+    "trader_name": "moo053-0",
+    "tag": "Overall",
+    "overall_gain": 689.772258329075,
+    "active_positions": 2,
+    "win_amount": 689.772258329075,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0023350000000000003,
+    "total_positions": 4,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 76534,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
