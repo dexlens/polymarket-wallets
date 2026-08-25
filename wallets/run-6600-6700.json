@@ -878,5 +878,21 @@
     "win_count": 34,
     "rank": 6655,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25ff4ba958068843d132c5e9dc7cc89392c5d6d2",
+    "trader_name": "whippo",
+    "tag": "Overall",
+    "overall_gain": 16140.06065613597,
+    "active_positions": 5,
+    "win_amount": 24401.633148611054,
+    "loss_amount": -8261.57249247507,
+    "win_rate": 0.6578947368421053,
+    "total_current_value": 0.021976,
+    "total_positions": 75,
+    "event_ct": 38,
+    "win_count": 25,
+    "rank": 6656,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
