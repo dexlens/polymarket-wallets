@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 47732,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x20571b6a2c3760a30fee237325b4472225e6f820",
+    "trader_name": "greenpepper",
+    "tag": "Overall",
+    "overall_gain": 1584.2858435243772,
+    "active_positions": 63,
+    "win_amount": 7835.805452561869,
+    "loss_amount": -6251.519609037495,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 0.000001,
+    "total_positions": 488,
+    "event_ct": 276,
+    "win_count": 161,
+    "rank": 47733,
+    "trader_tags": ""
   }
 ]
