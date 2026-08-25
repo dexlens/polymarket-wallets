@@ -830,5 +830,21 @@
     "win_count": 3,
     "rank": 12152,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1bd8a0ad9705f20b8ad7097e8ee334552b414b1c",
+    "trader_name": "lurlinek",
+    "tag": "Overall",
+    "overall_gain": 8438.452274999998,
+    "active_positions": 0,
+    "win_amount": 9645.607202000001,
+    "loss_amount": -1207.154927,
+    "win_rate": 0.71875,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 32,
+    "win_count": 23,
+    "rank": 12153,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
