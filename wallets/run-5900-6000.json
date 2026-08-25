@@ -878,5 +878,21 @@
     "win_count": 6,
     "rank": 5955,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x681d1c275b728566e2c0ad5a8c13247edfc03fa1",
+    "trader_name": "StaryWaniorek",
+    "tag": "Overall",
+    "overall_gain": 17978.29969993437,
+    "active_positions": 64,
+    "win_amount": 25213.193554175148,
+    "loss_amount": -7234.893854240768,
+    "win_rate": 0.5362318840579711,
+    "total_current_value": 0.130803,
+    "total_positions": 165,
+    "event_ct": 138,
+    "win_count": 74,
+    "rank": 5956,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
