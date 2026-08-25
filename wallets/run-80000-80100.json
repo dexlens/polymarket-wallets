@@ -1326,5 +1326,21 @@
     "win_count": 1,
     "rank": 80084,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x41b9964a604afcc7520a1998aed2b4cfadc1beb1",
+    "trader_name": "Fersaqq",
+    "tag": "Overall",
+    "overall_gain": 629.1374919478341,
+    "active_positions": 1,
+    "win_amount": 648.495872947834,
+    "loss_amount": -19.358380999999998,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 30.927834,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 22,
+    "rank": 80085,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
