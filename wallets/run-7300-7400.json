@@ -1230,5 +1230,21 @@
     "win_count": 4,
     "rank": 7377,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8af5dddfc5bff7262f71d86700f05a12e21f1c18",
+    "trader_name": "loisschroed",
+    "tag": "Overall",
+    "overall_gain": 14430.86,
+    "active_positions": 1,
+    "win_amount": 14448.5,
+    "loss_amount": -17.64,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 7378,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
