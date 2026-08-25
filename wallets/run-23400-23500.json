@@ -1230,5 +1230,21 @@
     "win_count": 4,
     "rank": 23477,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x763175651c9441a45502f856c2ed479927b0564e",
+    "trader_name": "mrkim",
+    "tag": "Overall",
+    "overall_gain": 3823.4493711792475,
+    "active_positions": 0,
+    "win_amount": 21443.783503926494,
+    "loss_amount": -17620.334132747244,
+    "win_rate": 0.8,
+    "total_current_value": 0.038131,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 23478,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
