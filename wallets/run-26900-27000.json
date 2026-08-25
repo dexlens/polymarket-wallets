@@ -1310,5 +1310,21 @@
     "win_count": 11,
     "rank": 26983,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7bdf3645300671565d6b7d70f02de7b371562b69",
+    "trader_name": "toxik",
+    "tag": "Overall",
+    "overall_gain": 3210.531656667893,
+    "active_positions": 0,
+    "win_amount": 3210.531656667893,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.007893,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 26984,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
