@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 87976,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x812878303e3d660a941e85ff969abe9c17e2d4c6",
+    "trader_name": "ACmoney",
+    "tag": "Overall",
+    "overall_gain": 513.289581141849,
+    "active_positions": 2,
+    "win_amount": 676.1120116691291,
+    "loss_amount": -162.82243052727998,
+    "win_rate": 0.4,
+    "total_current_value": 0.009129,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 87977,
+    "trader_tags": "> 1 year old"
   }
 ]
