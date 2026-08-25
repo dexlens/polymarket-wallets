@@ -734,5 +734,21 @@
     "win_count": 1,
     "rank": 32947,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x524a8cc93d7a451653fc2ec70920ba494d6c346f",
+    "trader_name": "Jeta",
+    "tag": "Overall",
+    "overall_gain": 2508.9000344745714,
+    "active_positions": 2,
+    "win_amount": 6508.891783756326,
+    "loss_amount": -3999.991749281754,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0.006325,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 32948,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
