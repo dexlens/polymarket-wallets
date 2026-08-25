@@ -158,5 +158,21 @@
     "win_count": 25,
     "rank": 60611,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb3063d1cc97db7780e411d650fef30e543a51e2",
+    "trader_name": "awry-nexus",
+    "tag": "Overall",
+    "overall_gain": 1058.44751326,
+    "active_positions": 106,
+    "win_amount": 6524.828916,
+    "loss_amount": -5466.38140274,
+    "win_rate": 0.8052805280528053,
+    "total_current_value": 0,
+    "total_positions": 606,
+    "event_ct": 606,
+    "win_count": 488,
+    "rank": 60612,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
