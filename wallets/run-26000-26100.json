@@ -350,5 +350,21 @@
     "win_count": 4,
     "rank": 26023,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x146c0707fc89c98f0873aab28bb4b45d7a7bb807",
+    "trader_name": "Double-Double",
+    "tag": "Overall",
+    "overall_gain": 3367.649255193536,
+    "active_positions": 179,
+    "win_amount": 16310.873050056993,
+    "loss_amount": -12943.223794863454,
+    "win_rate": 0.5115606936416185,
+    "total_current_value": 787.254302661,
+    "total_positions": 393,
+    "event_ct": 346,
+    "win_count": 177,
+    "rank": 26024,
+    "trader_tags": "> 1 year old"
   }
 ]
