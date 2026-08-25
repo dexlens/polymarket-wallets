@@ -606,5 +606,21 @@
     "win_count": 72,
     "rank": 87239,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8ae5351f7fae9c0cda6f01e028734a4a0cdd4aa6",
+    "trader_name": "helter",
+    "tag": "Overall",
+    "overall_gain": 522.6483157289741,
+    "active_positions": 6,
+    "win_amount": 1026.392033183562,
+    "loss_amount": -503.743717454588,
+    "win_rate": 0.5,
+    "total_current_value": 30.749989258,
+    "total_positions": 9,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 87240,
+    "trader_tags": "< 30 days old"
   }
 ]
