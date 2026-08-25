@@ -990,5 +990,21 @@
     "win_count": 6,
     "rank": 20762,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4594ee9150ebac09ffd5abdfe4f91f60038aefb8",
+    "trader_name": "suneater",
+    "tag": "Overall",
+    "overall_gain": 4428.0897712990645,
+    "active_positions": 12,
+    "win_amount": 8844.835920411137,
+    "loss_amount": -4416.746149112075,
+    "win_rate": 0.717391304347826,
+    "total_current_value": 0.10829600000000002,
+    "total_positions": 48,
+    "event_ct": 46,
+    "win_count": 33,
+    "rank": 20763,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
