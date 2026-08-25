@@ -558,5 +558,21 @@
     "win_count": 22,
     "rank": 5435,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a0e48f457a20bba2a8074fe3344c528f65e311b",
+    "trader_name": "Thryxa",
+    "tag": "Overall",
+    "overall_gain": 19908.86283525639,
+    "active_positions": 3,
+    "win_amount": 24472.699824390074,
+    "loss_amount": -4563.836989133686,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 20.00017,
+    "total_positions": 38,
+    "event_ct": 36,
+    "win_count": 32,
+    "rank": 5436,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
