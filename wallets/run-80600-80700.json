@@ -1406,5 +1406,21 @@
     "win_count": 62,
     "rank": 80689,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9de1a162e13221d5e2c95a6b11ada10d070a3736",
+    "trader_name": "DUSHENZHOURUNFA",
+    "tag": "Overall",
+    "overall_gain": 619.198042,
+    "active_positions": 0,
+    "win_amount": 619.198042,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 80690,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
