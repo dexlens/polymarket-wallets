@@ -750,5 +750,21 @@
     "win_count": 3,
     "rank": 38148,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0377cae06ffc84c39b6e8f0693526a740349e498",
+    "trader_name": "titoupost",
+    "tag": "Overall",
+    "overall_gain": 2109.177765796795,
+    "active_positions": 2,
+    "win_amount": 2849.343048270944,
+    "loss_amount": -740.16528247415,
+    "win_rate": 0.7662337662337663,
+    "total_current_value": 738.17455331,
+    "total_positions": 103,
+    "event_ct": 77,
+    "win_count": 59,
+    "rank": 38149,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
