@@ -1566,5 +1566,21 @@
     "win_count": 286,
     "rank": 1098,
     "trader_tags": "Overall PnL > $100k; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x758b3e0b0026bfa8491ea550e98614ce297c4bfb",
+    "trader_name": "0x758B3e0B0026bfa8491Ea550e98614cE297C4bFB-1764612936823",
+    "tag": "Overall",
+    "overall_gain": 110384.61102339227,
+    "active_positions": 0,
+    "win_amount": 110384.61102339227,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000048,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 1099,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
