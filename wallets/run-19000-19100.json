@@ -974,5 +974,21 @@
     "win_count": 10,
     "rank": 19061,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x44fc69758aee382015e0c860f1dd116d81e59728",
+    "trader_name": "DedushkaSol",
+    "tag": "Overall",
+    "overall_gain": 4880.246706617318,
+    "active_positions": 2,
+    "win_amount": 8640.092907176884,
+    "loss_amount": -3759.8462005595666,
+    "win_rate": 0.7,
+    "total_current_value": 11272.581075414997,
+    "total_positions": 339,
+    "event_ct": 220,
+    "win_count": 154,
+    "rank": 19062,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
