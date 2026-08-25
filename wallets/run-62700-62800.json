@@ -1038,5 +1038,21 @@
     "win_count": 85,
     "rank": 62766,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93302b3666eec1adf6d3178e54ed96c821cc405d",
+    "trader_name": "BNYSY",
+    "tag": "Overall",
+    "overall_gain": 1003.2000019999998,
+    "active_positions": 2,
+    "win_amount": 2067.980002,
+    "loss_amount": -1064.78,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 32,
+    "rank": 62767,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
