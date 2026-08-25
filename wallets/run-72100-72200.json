@@ -926,5 +926,21 @@
     "win_count": 1,
     "rank": 72159,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x63183588b9f659e2524a2d9226b1c302184bcd60",
+    "trader_name": "bvcwerw",
+    "tag": "Overall",
+    "overall_gain": 762.8835,
+    "active_positions": 1,
+    "win_amount": 1004.3705,
+    "loss_amount": -241.487,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0,
+    "total_positions": 39,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 72160,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
