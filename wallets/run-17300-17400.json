@@ -686,5 +686,21 @@
     "win_count": 5,
     "rank": 17343,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2edb6c4eacbe85a11ffd21e42caea9ae53849ac5",
+    "trader_name": "memester",
+    "tag": "Overall",
+    "overall_gain": 5415.182956799568,
+    "active_positions": 139,
+    "win_amount": 11471.359787510677,
+    "loss_amount": -6056.176830711107,
+    "win_rate": 0.7169811320754716,
+    "total_current_value": 20404.732171720003,
+    "total_positions": 713,
+    "event_ct": 318,
+    "win_count": 228,
+    "rank": 17344,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
