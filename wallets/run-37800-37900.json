@@ -1390,5 +1390,21 @@
     "win_count": 18,
     "rank": 37888,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x23a8a44076dba4fb5b8338fafc04c7db88d4680c",
+    "trader_name": "bingomango",
+    "tag": "Overall",
+    "overall_gain": 2126.279860679764,
+    "active_positions": 5,
+    "win_amount": 2126.279860679764,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008679,
+    "total_positions": 7,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 37889,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
