@@ -1118,5 +1118,21 @@
     "win_count": 25,
     "rank": 8570,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x77d3c9463a44bf179da7a4d59305662539c48a6b",
+    "trader_name": "winniethebear",
+    "tag": "Overall",
+    "overall_gain": 12230.437449431292,
+    "active_positions": 3445,
+    "win_amount": 394855.95080600004,
+    "loss_amount": -382625.5133565688,
+    "win_rate": 0.5480070193030835,
+    "total_current_value": 10.2,
+    "total_positions": 7978,
+    "event_ct": 7978,
+    "win_count": 4372,
+    "rank": 8571,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
