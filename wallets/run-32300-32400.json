@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 32345,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9061a3718bb341d825d918bb83757e61913e5668",
+    "trader_name": "Jardon7923",
+    "tag": "Overall",
+    "overall_gain": 2567.184231584648,
+    "active_positions": 0,
+    "win_amount": 2878.030411534147,
+    "loss_amount": -310.846179949499,
+    "win_rate": 0.5,
+    "total_current_value": 0.000237875,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 3,
+    "rank": 32346,
+    "trader_tags": ""
   }
 ]
