@@ -942,5 +942,21 @@
     "win_count": 11,
     "rank": 1659,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2fb0f88ef5ba40e799b996e6f07b590d92b4abf8",
+    "trader_name": "AIisTheNewWalkingDead",
+    "tag": "Overall",
+    "overall_gain": 73841.53206583326,
+    "active_positions": 95,
+    "win_amount": 82076.93321045468,
+    "loss_amount": -8235.401144621419,
+    "win_rate": 0.9896907216494846,
+    "total_current_value": 17512.119785999996,
+    "total_positions": 1766,
+    "event_ct": 873,
+    "win_count": 864,
+    "rank": 1660,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
