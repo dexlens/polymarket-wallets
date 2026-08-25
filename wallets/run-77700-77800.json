@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 77750,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x47948d6a1d1d07cc83effa0709a6d6aa3d1c2564",
+    "trader_name": "hu20prt",
+    "tag": "Overall",
+    "overall_gain": 668.3596110696459,
+    "active_positions": 4,
+    "win_amount": 668.3596110696459,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 411.007518023,
+    "total_positions": 25,
+    "event_ct": 22,
+    "win_count": 22,
+    "rank": 77751,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
