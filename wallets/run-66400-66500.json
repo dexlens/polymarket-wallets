@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 66447,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0687d810b76253a92d1f2e460d6c32ff46924f7d",
+    "trader_name": "getherlol",
+    "tag": "Overall",
+    "overall_gain": 904,
+    "active_positions": 1,
+    "win_amount": 955,
+    "loss_amount": -51,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 66448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
