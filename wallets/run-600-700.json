@@ -782,5 +782,21 @@
     "win_count": 38,
     "rank": 649,
     "trader_tags": "Overall PnL > $100k; 1k+ Positions; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x0e5bd76779e74304d08e759072abf126d87da593",
+    "trader_name": "JAHODA",
+    "tag": "Overall",
+    "overall_gain": 198982.43919770393,
+    "active_positions": 33,
+    "win_amount": 224277.85977336968,
+    "loss_amount": -25295.420575665783,
+    "win_rate": 0.8055555555555556,
+    "total_current_value": 1000000.583645895,
+    "total_positions": 227,
+    "event_ct": 72,
+    "win_count": 58,
+    "rank": 650,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
