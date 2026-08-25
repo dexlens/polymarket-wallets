@@ -302,5 +302,21 @@
     "win_count": 20,
     "rank": 17519,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xaeeb85dcaf1c8c3964d185f69bf9c7d67c32d25a",
+    "trader_name": "dcsz",
+    "tag": "Overall",
+    "overall_gain": 5351.810159000001,
+    "active_positions": 0,
+    "win_amount": 5378.332148,
+    "loss_amount": -26.521989,
+    "win_rate": 0.6818181818181818,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 22,
+    "win_count": 15,
+    "rank": 17520,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
