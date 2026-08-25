@@ -750,5 +750,21 @@
     "win_count": 7,
     "rank": 79248,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdb8bea532c4412a88e6add4a099f38ecf60ca049",
+    "trader_name": "jasmin-et",
+    "tag": "Overall",
+    "overall_gain": 643.2282856000003,
+    "active_positions": 7,
+    "win_amount": 644.3282856000003,
+    "loss_amount": -1.1,
+    "win_rate": 0.75,
+    "total_current_value": 5555.2,
+    "total_positions": 7,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 79249,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
