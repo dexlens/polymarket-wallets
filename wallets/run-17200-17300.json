@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 17239,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0bc46452369b36101e158fe895ce91f9c7eb2d40",
+    "trader_name": "mitzaku",
+    "tag": "Overall",
+    "overall_gain": 5457.4691561055915,
+    "active_positions": 26,
+    "win_amount": 8735.369772747392,
+    "loss_amount": -3277.900616641799,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.06164399999999999,
+    "total_positions": 60,
+    "event_ct": 21,
+    "win_count": 15,
+    "rank": 17240,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
