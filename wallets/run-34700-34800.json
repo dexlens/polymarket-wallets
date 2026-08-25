@@ -990,5 +990,21 @@
     "win_count": 8,
     "rank": 34763,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x80ee90726b3a733674a976283719005385455cf0",
+    "trader_name": "supaforecaster",
+    "tag": "Overall",
+    "overall_gain": 2360.7727329756462,
+    "active_positions": 42,
+    "win_amount": 9845.179502407298,
+    "loss_amount": -7484.406769431655,
+    "win_rate": 0.6458333333333334,
+    "total_current_value": 4047.868849569999,
+    "total_positions": 167,
+    "event_ct": 96,
+    "win_count": 62,
+    "rank": 34764,
+    "trader_tags": ""
   }
 ]
