@@ -622,5 +622,21 @@
     "win_count": 11,
     "rank": 86340,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b7ae212788dd64a18c5be30948b3ff8f893d35b",
+    "trader_name": "RemusCerneala",
+    "tag": "Overall",
+    "overall_gain": 534.5082043165062,
+    "active_positions": 9,
+    "win_amount": 2411.216007455394,
+    "loss_amount": -1876.707803138888,
+    "win_rate": 0.36551724137931035,
+    "total_current_value": 1078.435138816,
+    "total_positions": 257,
+    "event_ct": 145,
+    "win_count": 53,
+    "rank": 86341,
+    "trader_tags": "> 1 year old"
   }
 ]
