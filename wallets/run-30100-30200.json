@@ -1582,5 +1582,21 @@
     "win_count": 10,
     "rank": 30200,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x97c8dbb9672b6e032ea4fffeb49e454e366e1e0f",
+    "trader_name": "bigmonk",
+    "tag": "Overall",
+    "overall_gain": 2799.4175589999995,
+    "active_positions": 2,
+    "win_amount": 60977.27953700002,
+    "loss_amount": -58177.86197799999,
+    "win_rate": 0.4626347866854196,
+    "total_current_value": 30.06,
+    "total_positions": 12526,
+    "event_ct": 10665,
+    "win_count": 4934,
+    "rank": 30201,
+    "trader_tags": "1k+ Positions"
   }
 ]
