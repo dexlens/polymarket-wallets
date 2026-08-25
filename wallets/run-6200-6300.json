@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 6246,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7ce529680c57a78d53c5d13d237d22125dd47c13",
+    "trader_name": "Dodor",
+    "tag": "Overall",
+    "overall_gain": 17157.175314895354,
+    "active_positions": 1,
+    "win_amount": 49417.31515760165,
+    "loss_amount": -32260.13984270629,
+    "win_rate": 0.79,
+    "total_current_value": 2715.359374000001,
+    "total_positions": 227,
+    "event_ct": 100,
+    "win_count": 79,
+    "rank": 6247,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
