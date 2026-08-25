@@ -334,5 +334,21 @@
     "win_count": 2,
     "rank": 36722,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6fac711db24ca6954bb4147ef34eab1dd18a314f",
+    "trader_name": "sfdhwsea",
+    "tag": "Overall",
+    "overall_gain": 2209.949512,
+    "active_positions": 1,
+    "win_amount": 2234.47672,
+    "loss_amount": -24.527208,
+    "win_rate": 0.14285714285714285,
+    "total_current_value": 29.925,
+    "total_positions": 16,
+    "event_ct": 7,
+    "win_count": 1,
+    "rank": 36723,
+    "trader_tags": "< 30 days old"
   }
 ]
