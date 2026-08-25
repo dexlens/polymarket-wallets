@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 5143,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x469f8560d47c8eaaaec3d003e7a1fac2bd0e3d4f",
+    "trader_name": "G1bo",
+    "tag": "Overall",
+    "overall_gain": 21041.948085155716,
+    "active_positions": 0,
+    "win_amount": 25509.315026198055,
+    "loss_amount": -4467.366941042331,
+    "win_rate": 0.7154811715481172,
+    "total_current_value": 1.0756639250000002,
+    "total_positions": 500,
+    "event_ct": 239,
+    "win_count": 171,
+    "rank": 5144,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
