@@ -126,5 +126,21 @@
     "win_count": 2,
     "rank": 5308,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xce5bec63b40392845a9a504915f607c8e03a047a",
+    "trader_name": "Nexuus",
+    "tag": "Overall",
+    "overall_gain": 20435.647323894667,
+    "active_positions": 303,
+    "win_amount": 25662.894681506892,
+    "loss_amount": -5227.247357612219,
+    "win_rate": 0.06476030277544155,
+    "total_current_value": 938.4437505595,
+    "total_positions": 4570,
+    "event_ct": 1189,
+    "win_count": 77,
+    "rank": 5309,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
