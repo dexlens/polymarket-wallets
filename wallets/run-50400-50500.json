@@ -798,5 +798,21 @@
     "win_count": 2,
     "rank": 50451,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x090c3b51d372381b8088f6b35010235de2c54dee",
+    "trader_name": "Pxs888",
+    "tag": "Overall",
+    "overall_gain": 1464.508810376374,
+    "active_positions": 17,
+    "win_amount": 6182.499970984451,
+    "loss_amount": -4717.991160608076,
+    "win_rate": 0.25,
+    "total_current_value": 946.042452468,
+    "total_positions": 59,
+    "event_ct": 44,
+    "win_count": 11,
+    "rank": 50452,
+    "trader_tags": ""
   }
 ]
