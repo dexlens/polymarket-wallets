@@ -1502,5 +1502,21 @@
     "win_count": 66,
     "rank": 8494,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1167a2f227ce516bd69b1c09ab70ecd52baa8444",
+    "trader_name": "domenicoeos",
+    "tag": "Overall",
+    "overall_gain": 12330.5,
+    "active_positions": 0,
+    "win_amount": 12330.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 8495,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
