@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 29255,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc4c1246af95cf0cfe70448f08a1a3655b6e77324",
+    "trader_name": "Cattail",
+    "tag": "Overall",
+    "overall_gain": 2914.4753332444097,
+    "active_positions": 14,
+    "win_amount": 3834.329556054646,
+    "loss_amount": -919.8542228102359,
+    "win_rate": 0.6595744680851063,
+    "total_current_value": 6658.8135866885,
+    "total_positions": 107,
+    "event_ct": 47,
+    "win_count": 31,
+    "rank": 29256,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
