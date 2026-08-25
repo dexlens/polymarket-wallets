@@ -430,5 +430,21 @@
     "win_count": 5,
     "rank": 7227,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1fa35bd1435def4701e626b85c54370e8952da4a",
+    "trader_name": "Pytus",
+    "tag": "Overall",
+    "overall_gain": 14774.973041911553,
+    "active_positions": 8,
+    "win_amount": 35378.38472761044,
+    "loss_amount": -20603.41168569889,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.008643999999999999,
+    "total_positions": 22,
+    "event_ct": 12,
+    "win_count": 4,
+    "rank": 7228,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
