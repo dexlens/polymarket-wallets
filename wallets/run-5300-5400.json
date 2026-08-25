@@ -398,5 +398,21 @@
     "win_count": 7,
     "rank": 5325,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xfc7612db87dc5d3b234fb673eda2858f9de00ad0",
+    "trader_name": "lisra",
+    "tag": "Overall",
+    "overall_gain": 20339.740349643827,
+    "active_positions": 11,
+    "win_amount": 21824.963261396962,
+    "loss_amount": -1485.2229117531322,
+    "win_rate": 0.4782608695652174,
+    "total_current_value": 42746.5520676325,
+    "total_positions": 46,
+    "event_ct": 23,
+    "win_count": 11,
+    "rank": 5326,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
