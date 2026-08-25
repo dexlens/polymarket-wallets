@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 88242,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd7cfc8f3e3cebb25966e59c05671616b148ea603",
+    "trader_name": "NoChanceAgain",
+    "tag": "Overall",
+    "overall_gain": 510.17230318801614,
+    "active_positions": 0,
+    "win_amount": 4061.2834855066217,
+    "loss_amount": -3551.111182318606,
+    "win_rate": 0.8448275862068966,
+    "total_current_value": 0.40660963049999993,
+    "total_positions": 127,
+    "event_ct": 58,
+    "win_count": 49,
+    "rank": 88243,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
