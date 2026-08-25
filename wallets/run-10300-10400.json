@@ -398,5 +398,21 @@
     "win_count": 14,
     "rank": 10325,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x382d4dc921f03bfbe34475763636606a5b82b9e9",
+    "trader_name": "VegaStara",
+    "tag": "Overall",
+    "overall_gain": 10174.98861046375,
+    "active_positions": 3,
+    "win_amount": 11117.306786826157,
+    "loss_amount": -942.318176362407,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 10.050356,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 10326,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
