@@ -958,5 +958,21 @@
     "win_count": 4,
     "rank": 9260,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x96ce75537e7823ab122d91703e238ebae8456851",
+    "trader_name": "miheng",
+    "tag": "Overall",
+    "overall_gain": 11329.624667820626,
+    "active_positions": 56,
+    "win_amount": 11399.805080272647,
+    "loss_amount": -70.18041245202599,
+    "win_rate": 0.5564516129032258,
+    "total_current_value": 3.61659055,
+    "total_positions": 124,
+    "event_ct": 124,
+    "win_count": 69,
+    "rank": 9261,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
