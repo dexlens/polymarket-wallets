@@ -126,5 +126,21 @@
     "win_count": 75,
     "rank": 52009,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x300c272f3822067c740e938303190796b1252ed2",
+    "trader_name": "ikhbjn",
+    "tag": "Overall",
+    "overall_gain": 1392.1075886864835,
+    "active_positions": 38,
+    "win_amount": 4816.266380927003,
+    "loss_amount": -3424.1587922405197,
+    "win_rate": 0.7339449541284404,
+    "total_current_value": 458.7406306685,
+    "total_positions": 121,
+    "event_ct": 109,
+    "win_count": 80,
+    "rank": 52010,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
