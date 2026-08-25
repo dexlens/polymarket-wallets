@@ -494,5 +494,21 @@
     "win_count": 5,
     "rank": 48932,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74267fa12d435c4e35903cb8eb099ce81a90963b",
+    "trader_name": "fadeaway2000",
+    "tag": "Overall",
+    "overall_gain": 1531.372404427652,
+    "active_positions": 8,
+    "win_amount": 3735.9706270169877,
+    "loss_amount": -2204.5982225893363,
+    "win_rate": 0.6988636363636364,
+    "total_current_value": 0.705160475,
+    "total_positions": 217,
+    "event_ct": 176,
+    "win_count": 123,
+    "rank": 48933,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
