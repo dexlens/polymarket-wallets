@@ -1006,5 +1006,21 @@
     "win_count": 12,
     "rank": 36064,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe0eed1b8ab18678cbb13dce5e5eca91343639836",
+    "trader_name": "VCR1",
+    "tag": "Overall",
+    "overall_gain": 2258.5564669568694,
+    "active_positions": 1,
+    "win_amount": 8729.594704000005,
+    "loss_amount": -6471.0382370431325,
+    "win_rate": 0.9304166666666667,
+    "total_current_value": 0.219996,
+    "total_positions": 2553,
+    "event_ct": 2400,
+    "win_count": 2233,
+    "rank": 36065,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
