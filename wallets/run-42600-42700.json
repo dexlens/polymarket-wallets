@@ -542,5 +542,21 @@
     "win_count": 12,
     "rank": 42635,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x174fb8319edc358ea2599314bda24baaef91bdae",
+    "trader_name": "xxu-trader",
+    "tag": "Overall",
+    "overall_gain": 1840.6953710899222,
+    "active_positions": 260,
+    "win_amount": 15043.276042183994,
+    "loss_amount": -13202.580671094069,
+    "win_rate": 0.7836804892031339,
+    "total_current_value": 671.3322639999999,
+    "total_positions": 7122,
+    "event_ct": 5233,
+    "win_count": 4101,
+    "rank": 42636,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
