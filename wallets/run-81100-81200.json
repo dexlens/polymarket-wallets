@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 81189,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86e90bc2f9f7299b271d00d328a285ea259fbbd2",
+    "trader_name": "kk_",
+    "tag": "Overall",
+    "overall_gain": 611.1400530768531,
+    "active_positions": 0,
+    "win_amount": 690.082155920368,
+    "loss_amount": -78.94210284351499,
+    "win_rate": 0.8,
+    "total_current_value": 0.0023845000000000003,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 81190,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
