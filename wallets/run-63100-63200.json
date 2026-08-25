@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 63154,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b517cbe60bdb26bb0088e2af6189e2655e82351",
+    "trader_name": "nihugen",
+    "tag": "Overall",
+    "overall_gain": 996.9231060781352,
+    "active_positions": 4,
+    "win_amount": 1005.0442270780602,
+    "loss_amount": -8.121120999925001,
+    "win_rate": 0.7727272727272727,
+    "total_current_value": 3.87356,
+    "total_positions": 25,
+    "event_ct": 22,
+    "win_count": 17,
+    "rank": 63155,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
