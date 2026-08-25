@@ -510,5 +510,21 @@
     "win_count": 5,
     "rank": 26033,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb2e1f2487f78d1d57ef840660da90c79b000e628",
+    "trader_name": "KryptoInwestycje",
+    "tag": "Overall",
+    "overall_gain": 3365.0744435092,
+    "active_positions": 0,
+    "win_amount": 3436.2336525092005,
+    "loss_amount": -71.159209,
+    "win_rate": 0.8,
+    "total_current_value": 0.000925,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 26034,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
