@@ -1326,5 +1326,21 @@
     "win_count": 123,
     "rank": 7883,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xde700c6a791bcaab18a7ffa3bcf6d2fdd848438d",
+    "trader_name": "sass",
+    "tag": "Overall",
+    "overall_gain": 13341.875716844119,
+    "active_positions": 0,
+    "win_amount": 13341.875716844119,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.014441,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7884,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
