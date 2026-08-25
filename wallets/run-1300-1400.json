@@ -1086,5 +1086,21 @@
     "win_count": 2,
     "rank": 1368,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x611c20bf7fdc4e88ec4f0172c99efcaa30d5c982",
+    "trader_name": "MistaJenkins",
+    "tag": "Overall",
+    "overall_gain": 88940.32267092369,
+    "active_positions": 8,
+    "win_amount": 247281.79649915444,
+    "loss_amount": -158341.47382823078,
+    "win_rate": 0.47368421052631576,
+    "total_current_value": 0.054948,
+    "total_positions": 87,
+    "event_ct": 57,
+    "win_count": 27,
+    "rank": 1369,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Crypto PnL > $100k"
   }
 ]
