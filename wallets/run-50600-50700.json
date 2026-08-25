@@ -926,5 +926,21 @@
     "win_count": 81,
     "rank": 50659,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x568e54db0143dcd858902ac43d25162466f9e7b8",
+    "trader_name": "asmd",
+    "tag": "Overall",
+    "overall_gain": 1455.860944212674,
+    "active_positions": 2,
+    "win_amount": 1734.861576570512,
+    "loss_amount": -279.000632357838,
+    "win_rate": 0.25,
+    "total_current_value": 0.006986,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 50660,
+    "trader_tags": ""
   }
 ]
