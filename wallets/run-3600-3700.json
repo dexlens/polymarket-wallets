@@ -158,5 +158,21 @@
     "win_count": 6,
     "rank": 3610,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x184f569734fd5ba6099aa843e2b7cd893efe05e5",
+    "trader_name": "misterforty",
+    "tag": "Overall",
+    "overall_gain": 31497.110878044707,
+    "active_positions": 12,
+    "win_amount": 61751.924998999995,
+    "loss_amount": -30254.814120955292,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 22310.325275756495,
+    "total_positions": 15,
+    "event_ct": 14,
+    "win_count": 4,
+    "rank": 3611,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
