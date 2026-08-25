@@ -558,5 +558,21 @@
     "win_count": 20,
     "rank": 35836,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa5a164dff8421fd3c5279db8de85088211250ee9",
+    "trader_name": "shorting",
+    "tag": "Overall",
+    "overall_gain": 2273.776265214984,
+    "active_positions": 0,
+    "win_amount": 2509.535053574984,
+    "loss_amount": -235.75878835999998,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.0432515545,
+    "total_positions": 66,
+    "event_ct": 35,
+    "win_count": 25,
+    "rank": 35837,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
