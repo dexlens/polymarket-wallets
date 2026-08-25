@@ -1230,5 +1230,21 @@
     "win_count": 11,
     "rank": 23177,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf2e78c8636613645cd35d75d23febac897e89f8d",
+    "trader_name": "2026Y-15minP3",
+    "tag": "Overall",
+    "overall_gain": 3882.0785400888994,
+    "active_positions": 1366,
+    "win_amount": 6826.847469000001,
+    "loss_amount": -2944.7689289111013,
+    "win_rate": 0.046689895470383276,
+    "total_current_value": 100,
+    "total_positions": 1452,
+    "event_ct": 1435,
+    "win_count": 67,
+    "rank": 23178,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
