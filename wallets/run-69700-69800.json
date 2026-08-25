@@ -1214,5 +1214,21 @@
     "win_count": 3,
     "rank": 69777,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4d8f069f5364ed430a6e2b07f4667413cc2f9cd1",
+    "trader_name": "garzimon",
+    "tag": "Overall",
+    "overall_gain": 815.8584192843498,
+    "active_positions": 0,
+    "win_amount": 1238.508667013766,
+    "loss_amount": -422.650247729416,
+    "win_rate": 0.9036697247706422,
+    "total_current_value": 0.361767758,
+    "total_positions": 299,
+    "event_ct": 218,
+    "win_count": 197,
+    "rank": 69778,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
