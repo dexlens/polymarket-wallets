@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 3439,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30b9bc14ff8cf87474c8cfe1c487b7065e16dc4e",
+    "trader_name": "poni85",
+    "tag": "Overall",
+    "overall_gain": 33148.14478113399,
+    "active_positions": 6,
+    "win_amount": 33388.923922,
+    "loss_amount": -240.77914086600998,
+    "win_rate": 0.56,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 25,
+    "win_count": 14,
+    "rank": 3440,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
