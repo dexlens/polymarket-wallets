@@ -894,5 +894,21 @@
     "win_count": 20,
     "rank": 24157,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe272be7a967901fa733c3c168e90306e89609486",
+    "trader_name": "nlox",
+    "tag": "Overall",
+    "overall_gain": 3692.619,
+    "active_positions": 2,
+    "win_amount": 3693.634,
+    "loss_amount": -1.0149999999999988,
+    "win_rate": 0.75,
+    "total_current_value": 13.195,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 24158,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
