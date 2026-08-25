@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 28772,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf6cbda3f48569107ba09fd75b0088bf7e3743f69",
+    "trader_name": "napalm-eth",
+    "tag": "Overall",
+    "overall_gain": 2976.9852448483143,
+    "active_positions": 64,
+    "win_amount": 7144.156516769041,
+    "loss_amount": -4167.171271920727,
+    "win_rate": 0.5391705069124424,
+    "total_current_value": 3761.251466678,
+    "total_positions": 479,
+    "event_ct": 217,
+    "win_count": 117,
+    "rank": 28773,
+    "trader_tags": ""
   }
 ]
