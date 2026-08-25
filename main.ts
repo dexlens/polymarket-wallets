@@ -14,9 +14,10 @@ let thisrunsdata = [];
 if (await Deno.stat(thisrunsfilename)) {
   thisrunsdata = JSON.parse(await Deno.readTextFile(thisrunsfilename));
 }
-for (const wallet of realdata.slice(0, 3)) {
+for (const wallet of realdata.slice(0, 1)) {
   const address = wallet.trader; // Adjust this if data structure is different
   const rank = wallet.rank;
+  const trader_name = wallet.trader_name;
   
   console.log({
     address,
@@ -33,7 +34,7 @@ for (const wallet of realdata.slice(0, 3)) {
     stderr: "piped"
   });
   await p.status();
-  const commitMessage = `Add wallet ${address}`;
+  const commitMessage = `Add ${trader_name}:(${address})`;
   const c = Deno.run({
     cmd: ["git", "commit", "-m", commitMessage],
     stdout: "piped",
