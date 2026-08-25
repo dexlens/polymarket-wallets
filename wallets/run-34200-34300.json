@@ -142,5 +142,21 @@
     "win_count": 3,
     "rank": 34210,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x40829594376e7023d9ad52b26ef1179c3ddea104",
+    "trader_name": "rj2",
+    "tag": "Overall",
+    "overall_gain": 2404.4295571581756,
+    "active_positions": 3,
+    "win_amount": 16103.111198839999,
+    "loss_amount": -13698.681641681818,
+    "win_rate": 0.966650898770104,
+    "total_current_value": 2.315182,
+    "total_positions": 4242,
+    "event_ct": 4228,
+    "win_count": 4087,
+    "rank": 34211,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
