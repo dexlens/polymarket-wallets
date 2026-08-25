@@ -734,5 +734,21 @@
     "win_count": 36,
     "rank": 10046,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x34c2c3c970052edefda2b93e3bb3e5920f1307ba",
+    "trader_name": "Ava234",
+    "tag": "Overall",
+    "overall_gain": 10443.361596155712,
+    "active_positions": 8,
+    "win_amount": 22060.6105545937,
+    "loss_amount": -11617.248958437987,
+    "win_rate": 0.6333333333333333,
+    "total_current_value": 0.074624,
+    "total_positions": 46,
+    "event_ct": 30,
+    "win_count": 19,
+    "rank": 10047,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
