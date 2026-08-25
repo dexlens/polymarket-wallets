@@ -526,5 +526,21 @@
     "win_count": 409,
     "rank": 9333,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xf79aa5eafbe056ad504466796fbd4ebee86645ed",
+    "trader_name": "Wrythor",
+    "tag": "Overall",
+    "overall_gain": 11224.64704962354,
+    "active_positions": 2,
+    "win_amount": 11494.881401999995,
+    "loss_amount": -270.234352376456,
+    "win_rate": 0.9111111111111111,
+    "total_current_value": 7,
+    "total_positions": 47,
+    "event_ct": 45,
+    "win_count": 41,
+    "rank": 9334,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
