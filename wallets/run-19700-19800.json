@@ -686,5 +686,21 @@
     "win_count": 24,
     "rank": 19743,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x93d7761f929ac888a72c759f3d663cedfc11329b",
+    "trader_name": "ZYXVentures",
+    "tag": "Overall",
+    "overall_gain": 4696.633299267863,
+    "active_positions": 4,
+    "win_amount": 5532.546067226526,
+    "loss_amount": -835.912767958663,
+    "win_rate": 0.7857142857142857,
+    "total_current_value": 0.004148,
+    "total_positions": 50,
+    "event_ct": 28,
+    "win_count": 22,
+    "rank": 19744,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
