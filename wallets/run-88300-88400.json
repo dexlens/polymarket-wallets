@@ -894,5 +894,21 @@
     "win_count": 2,
     "rank": 88357,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8fbd20be917722556a3b06d43c0d6019755779fc",
+    "trader_name": "McKutzer",
+    "tag": "Overall",
+    "overall_gain": 508.8078026735289,
+    "active_positions": 1,
+    "win_amount": 931.4325801616988,
+    "loss_amount": -422.6247774881701,
+    "win_rate": 0.5346534653465347,
+    "total_current_value": 1571.268565,
+    "total_positions": 126,
+    "event_ct": 101,
+    "win_count": 54,
+    "rank": 88358,
+    "trader_tags": "> 1 year old"
   }
 ]
