@@ -1022,5 +1022,21 @@
     "win_count": 16,
     "rank": 20264,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x832512d91bf4c961f293522ff7238f90d47600b0",
+    "trader_name": "LiferMan",
+    "tag": "Overall",
+    "overall_gain": 4559.527381653817,
+    "active_positions": 0,
+    "win_amount": 4559.527381653817,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.013818,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 20265,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
