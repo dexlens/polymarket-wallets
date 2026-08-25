@@ -1214,5 +1214,21 @@
     "win_count": 205,
     "rank": 44277,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0130afd6f3efddf1c3e16e01217b172dd9befb49",
+    "trader_name": "ShadowWizzard",
+    "tag": "Overall",
+    "overall_gain": 1749.7610554386308,
+    "active_positions": 955,
+    "win_amount": 14072.463207489101,
+    "loss_amount": -12322.702152050471,
+    "win_rate": 0.6501901140684411,
+    "total_current_value": 34024.053527697004,
+    "total_positions": 6111,
+    "event_ct": 789,
+    "win_count": 513,
+    "rank": 44278,
+    "trader_tags": "1k+ Positions"
   }
 ]
