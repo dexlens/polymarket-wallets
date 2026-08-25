@@ -974,5 +974,21 @@
     "win_count": 5,
     "rank": 9661,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5ccf62ac8155e49bc7d021a1a66e9ef18f5579d7",
+    "trader_name": "Cungly",
+    "tag": "Overall",
+    "overall_gain": 10832.970139827417,
+    "active_positions": 5,
+    "win_amount": 22542.495650456924,
+    "loss_amount": -11709.525510629497,
+    "win_rate": 0.7263681592039801,
+    "total_current_value": 2492.7879131130003,
+    "total_positions": 538,
+    "event_ct": 201,
+    "win_count": 146,
+    "rank": 9662,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
