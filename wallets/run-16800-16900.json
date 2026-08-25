@@ -1022,5 +1022,21 @@
     "win_count": 6,
     "rank": 16864,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0c5daa5ad1bf087906c643be3f8d8b1e989018c7",
+    "trader_name": "pequinn54",
+    "tag": "Overall",
+    "overall_gain": 5613.3492191825,
+    "active_positions": 8,
+    "win_amount": 6809.580206182501,
+    "loss_amount": -1196.230987,
+    "win_rate": 0.7821782178217822,
+    "total_current_value": 404.79227700000007,
+    "total_positions": 119,
+    "event_ct": 101,
+    "win_count": 79,
+    "rank": 16865,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
