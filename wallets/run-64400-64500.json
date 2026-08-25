@@ -1246,5 +1246,21 @@
     "win_count": 1,
     "rank": 64479,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe2b036f1cc543d1fb3d150c89429c8aa2f5e5cc1",
+    "trader_name": "localdog",
+    "tag": "Overall",
+    "overall_gain": 959.7773199440003,
+    "active_positions": 10,
+    "win_amount": 2972.4390000000003,
+    "loss_amount": -2012.6616800559998,
+    "win_rate": 0.5652173913043478,
+    "total_current_value": 1.719030264,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 13,
+    "rank": 64480,
+    "trader_tags": ""
   }
 ]
