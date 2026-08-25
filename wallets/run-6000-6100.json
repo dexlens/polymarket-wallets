@@ -1070,5 +1070,21 @@
     "win_count": 566,
     "rank": 6067,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x4f9f0a82f7fcc513716581e1f5c786f675da19b7",
+    "trader_name": "Tornados",
+    "tag": "Overall",
+    "overall_gain": 17681.892954099843,
+    "active_positions": 32,
+    "win_amount": 20819.67921548111,
+    "loss_amount": -3137.7862613812645,
+    "win_rate": 0.7241379310344828,
+    "total_current_value": 51.586582368,
+    "total_positions": 60,
+    "event_ct": 29,
+    "win_count": 21,
+    "rank": 6068,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
