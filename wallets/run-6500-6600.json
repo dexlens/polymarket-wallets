@@ -958,5 +958,21 @@
     "win_count": 14,
     "rank": 6560,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x18d09866fac2d63518fee3d7dce5a5911ebf5407",
+    "trader_name": "GigglesGus",
+    "tag": "Overall",
+    "overall_gain": 16346.96108919216,
+    "active_positions": 25,
+    "win_amount": 22288.363732935028,
+    "loss_amount": -5941.402643742865,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 562.134982335,
+    "total_positions": 47,
+    "event_ct": 38,
+    "win_count": 26,
+    "rank": 6561,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
