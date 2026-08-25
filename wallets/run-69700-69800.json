@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 69741,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7fb9473c1a46fb1a1e850a013bc07f47b009ec2c",
+    "trader_name": "lazybird",
+    "tag": "Overall",
+    "overall_gain": 816.696211885047,
+    "active_positions": 0,
+    "win_amount": 915.245601631972,
+    "loss_amount": -98.549389746925,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.0025,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 69742,
+    "trader_tags": "> 1 year old"
   }
 ]
