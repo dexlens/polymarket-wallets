@@ -1038,5 +1038,21 @@
     "win_count": 115,
     "rank": 4265,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2e75c16425aa9a5059ed2686560ddcc0f4af9223",
+    "trader_name": "Girls-Soccer-Champs",
+    "tag": "Overall",
+    "overall_gain": 26202.93084655361,
+    "active_positions": 5,
+    "win_amount": 26202.93084655361,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000003,
+    "total_positions": 14,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 4266,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
