@@ -1502,5 +1502,21 @@
     "win_count": 13,
     "rank": 51495,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x289256efd2504bc01f61ad4d00a5ba05e9406ec7",
+    "trader_name": "Ragar",
+    "tag": "Overall",
+    "overall_gain": 1415.3585112214757,
+    "active_positions": 26,
+    "win_amount": 6504.310125655868,
+    "loss_amount": -5088.95161443439,
+    "win_rate": 0.7123519458544839,
+    "total_current_value": 0.09437200000000001,
+    "total_positions": 1433,
+    "event_ct": 1182,
+    "win_count": 842,
+    "rank": 51496,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
