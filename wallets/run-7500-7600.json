@@ -414,5 +414,21 @@
     "win_count": 7073,
     "rank": 7526,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x899a14b3fa1b9f2e542977175c618af8308f8738",
+    "trader_name": "AgnesOne",
+    "tag": "Overall",
+    "overall_gain": 14094.46585790035,
+    "active_positions": 46,
+    "win_amount": 42903.455666534894,
+    "loss_amount": -28808.989808634557,
+    "win_rate": 0.6491228070175439,
+    "total_current_value": 8.45077173,
+    "total_positions": 122,
+    "event_ct": 114,
+    "win_count": 74,
+    "rank": 7527,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
