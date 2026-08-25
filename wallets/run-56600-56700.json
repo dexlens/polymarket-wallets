@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 56625,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x257036692fd907ed6239c5a39b92207c46ef7764",
+    "trader_name": "mozabrick",
+    "tag": "Overall",
+    "overall_gain": 1193.7335328690135,
+    "active_positions": 2,
+    "win_amount": 1269.0815131831653,
+    "loss_amount": -75.34798031415201,
+    "win_rate": 0.7931034482758621,
+    "total_current_value": 29.829444000000002,
+    "total_positions": 30,
+    "event_ct": 29,
+    "win_count": 23,
+    "rank": 56626,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
