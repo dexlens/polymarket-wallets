@@ -462,5 +462,21 @@
     "win_count": 2,
     "rank": 39030,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd60551fc9628b76130e4b70a4b9b3c7a1f8d64b7",
+    "trader_name": "Meeke",
+    "tag": "Overall",
+    "overall_gain": 2051.0637483348637,
+    "active_positions": 0,
+    "win_amount": 2051.1149100000002,
+    "loss_amount": -0.051161665136,
+    "win_rate": 0.9375,
+    "total_current_value": 0.006864,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 15,
+    "rank": 39031,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
