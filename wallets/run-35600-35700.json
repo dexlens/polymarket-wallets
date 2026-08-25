@@ -1518,5 +1518,21 @@
     "win_count": 7,
     "rank": 35696,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4350a9dddaa4b6453bb10fa406049dfedd71a18a",
+    "trader_name": "yedhsd",
+    "tag": "Overall",
+    "overall_gain": 2285.626558,
+    "active_positions": 4,
+    "win_amount": 4702.481457000001,
+    "loss_amount": -2416.854899,
+    "win_rate": 0.875,
+    "total_current_value": 162.12,
+    "total_positions": 43,
+    "event_ct": 40,
+    "win_count": 35,
+    "rank": 35697,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
