@@ -1582,5 +1582,21 @@
     "win_count": 10,
     "rank": 8399,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x865f2f2d68647baf20ec9fd92eaa0fc48bd7e88e",
+    "trader_name": "riccopong",
+    "tag": "Overall",
+    "overall_gain": 12467.68378451725,
+    "active_positions": 2887,
+    "win_amount": 43218.21896756625,
+    "loss_amount": -30750.53518304901,
+    "win_rate": 0.6343971631205674,
+    "total_current_value": 5464.8855758655,
+    "total_positions": 8641,
+    "event_ct": 2820,
+    "win_count": 1789,
+    "rank": 8400,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
