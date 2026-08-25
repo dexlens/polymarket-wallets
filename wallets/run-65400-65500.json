@@ -814,5 +814,21 @@
     "win_count": 5,
     "rank": 65452,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9d6fac9b1d89152314a6a6fbccca1db44b8cec8b",
+    "trader_name": "gusev",
+    "tag": "Overall",
+    "overall_gain": 931.7640810916021,
+    "active_positions": 2,
+    "win_amount": 1013.9205389003491,
+    "loss_amount": -82.156457808747,
+    "win_rate": 0.6428571428571429,
+    "total_current_value": 35.061389,
+    "total_positions": 31,
+    "event_ct": 28,
+    "win_count": 18,
+    "rank": 65453,
+    "trader_tags": "> 1 year old"
   }
 ]
