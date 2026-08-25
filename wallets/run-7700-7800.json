@@ -814,5 +814,21 @@
     "win_count": 10,
     "rank": 7751,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7656ed7f597a0a61cd307591db198a42b2a7194b",
+    "trader_name": "HustleW",
+    "tag": "Overall",
+    "overall_gain": 13615.6128895469,
+    "active_positions": 25,
+    "win_amount": 17311.70719919541,
+    "loss_amount": -3696.0943096485103,
+    "win_rate": 0.6691358024691358,
+    "total_current_value": 543.3297357624998,
+    "total_positions": 658,
+    "event_ct": 405,
+    "win_count": 271,
+    "rank": 7752,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
