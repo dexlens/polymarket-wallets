@@ -1406,5 +1406,21 @@
     "win_count": 48,
     "rank": 82489,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb0556b0dd07ffde058f9e6b16778b6a4a5d713bc",
+    "trader_name": "Rosasmon",
+    "tag": "Overall",
+    "overall_gain": 590.3609667841539,
+    "active_positions": 1,
+    "win_amount": 649.816448835932,
+    "loss_amount": -59.455482051778006,
+    "win_rate": 0.5,
+    "total_current_value": 0.016640000000000002,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 82490,
+    "trader_tags": "< 30 days old"
   }
 ]
