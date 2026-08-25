@@ -286,5 +286,21 @@
     "win_count": 9,
     "rank": 68719,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6f1f4d38d94cf3bdfbd3adaf126ddd4616a383d6",
+    "trader_name": "Korahfall",
+    "tag": "Overall",
+    "overall_gain": 842.33791,
+    "active_positions": 1,
+    "win_amount": 1173.80691,
+    "loss_amount": -331.469,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 68720,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
