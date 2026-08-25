@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 79439,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x55dccc565b7729e21960d4df66dd56068aae2250",
+    "trader_name": "N1337Kron",
+    "tag": "Overall",
+    "overall_gain": 639.7114934757369,
+    "active_positions": 1,
+    "win_amount": 1150.3290581140411,
+    "loss_amount": -510.617564638304,
+    "win_rate": 0.5454545454545454,
+    "total_current_value": 0.010062000000000001,
+    "total_positions": 27,
+    "event_ct": 22,
+    "win_count": 12,
+    "rank": 79440,
+    "trader_tags": "> 1 year old"
   }
 ]
