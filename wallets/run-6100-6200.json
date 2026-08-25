@@ -1310,5 +1310,21 @@
     "win_count": 46,
     "rank": 6182,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xcd9607c4a676b7815f10bb8bc25355414e47cbdc",
+    "trader_name": "Artaius",
+    "tag": "Overall",
+    "overall_gain": 17330.88439140848,
+    "active_positions": 129,
+    "win_amount": 27291.156706938706,
+    "loss_amount": -9960.27231553023,
+    "win_rate": 0.5524861878453039,
+    "total_current_value": 11420.379787053998,
+    "total_positions": 1178,
+    "event_ct": 362,
+    "win_count": 200,
+    "rank": 6183,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
