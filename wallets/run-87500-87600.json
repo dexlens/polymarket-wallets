@@ -894,5 +894,21 @@
     "win_count": 30,
     "rank": 87557,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1631cf2d75d72f8b98573b3162c96a5d68b1db7e",
+    "trader_name": "darren-markel",
+    "tag": "Overall",
+    "overall_gain": 518.1564990009999,
+    "active_positions": 0,
+    "win_amount": 518.1564990009999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.000001,
+    "total_positions": 232,
+    "event_ct": 221,
+    "win_count": 221,
+    "rank": 87558,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
