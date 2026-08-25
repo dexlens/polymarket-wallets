@@ -702,5 +702,21 @@
     "win_count": 2,
     "rank": 87645,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49bf8cf8e5fc884850f0fd817959b864ff894fd7",
+    "trader_name": "cuk1",
+    "tag": "Overall",
+    "overall_gain": 517.104848766595,
+    "active_positions": 5,
+    "win_amount": 1047.278957847221,
+    "loss_amount": -530.1741090806261,
+    "win_rate": 0.6111111111111112,
+    "total_current_value": 127.77777707499999,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 11,
+    "rank": 87646,
+    "trader_tags": ""
   }
 ]
