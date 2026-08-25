@@ -846,5 +846,21 @@
     "win_count": 3,
     "rank": 62654,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x29fc000762f9f412f0f2203a3614cdfc449606b0",
+    "trader_name": "WenApp",
+    "tag": "Overall",
+    "overall_gain": 1005.8591737230134,
+    "active_positions": 72,
+    "win_amount": 2806.2747141351547,
+    "loss_amount": -1800.415540412141,
+    "win_rate": 0.6638655462184874,
+    "total_current_value": 4740.885141685002,
+    "total_positions": 462,
+    "event_ct": 119,
+    "win_count": 79,
+    "rank": 62655,
+    "trader_tags": "> 1 year old"
   }
 ]
