@@ -542,5 +542,21 @@
     "win_count": 3,
     "rank": 5734,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe922473e81dbd20e3fffd7b64b51f057a9b839b3",
+    "trader_name": "chibicat",
+    "tag": "Overall",
+    "overall_gain": 18770.64911221107,
+    "active_positions": 15,
+    "win_amount": 158694.9385610937,
+    "loss_amount": -139924.28944888266,
+    "win_rate": 0.5355504587155964,
+    "total_current_value": 16482.857155779504,
+    "total_positions": 1162,
+    "event_ct": 872,
+    "win_count": 467,
+    "rank": 5735,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
