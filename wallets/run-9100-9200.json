@@ -1134,5 +1134,21 @@
     "win_count": 23,
     "rank": 9171,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x862ea21f71f1592fe9f8feb0575d207008027972",
+    "trader_name": "MillieErwood",
+    "tag": "Overall",
+    "overall_gain": 11429.267850108761,
+    "active_positions": 11,
+    "win_amount": 12539.208128297865,
+    "loss_amount": -1109.940278189105,
+    "win_rate": 0.4,
+    "total_current_value": 1393.5784776475,
+    "total_positions": 23,
+    "event_ct": 15,
+    "win_count": 6,
+    "rank": 9172,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
