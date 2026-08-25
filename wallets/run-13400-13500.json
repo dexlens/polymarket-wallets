@@ -1454,5 +1454,21 @@
     "win_count": 13,
     "rank": 13491,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3e476cc20f8c3feea86af0d6d4d352c8cd11a397",
+    "trader_name": "MSCAT",
+    "tag": "Overall",
+    "overall_gain": 7371.5,
+    "active_positions": 1,
+    "win_amount": 7371.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 13492,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
