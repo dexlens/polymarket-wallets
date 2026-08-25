@@ -110,5 +110,21 @@
     "win_count": 5,
     "rank": 75008,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59823bf62b0e603889a2f3bb2c7f3a2376b0fa1e",
+    "trader_name": "ASim",
+    "tag": "Overall",
+    "overall_gain": 713.6571817433564,
+    "active_positions": 0,
+    "win_amount": 3008.6448818427216,
+    "loss_amount": -2294.987700099366,
+    "win_rate": 0.53125,
+    "total_current_value": 0.08610600000000002,
+    "total_positions": 212,
+    "event_ct": 128,
+    "win_count": 68,
+    "rank": 75009,
+    "trader_tags": "> 1 year old"
   }
 ]
