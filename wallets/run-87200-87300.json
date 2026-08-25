@@ -1182,5 +1182,21 @@
     "win_count": 92,
     "rank": 87275,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4e53ba5e525d0afa9501bc220727579ff7d5834a",
+    "trader_name": "IKJHAZFGB",
+    "tag": "Overall",
+    "overall_gain": 522.0822459999999,
+    "active_positions": 0,
+    "win_amount": 522.0822459999999,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 87276,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
