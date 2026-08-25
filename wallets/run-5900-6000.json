@@ -1406,5 +1406,21 @@
     "win_count": 5,
     "rank": 5988,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x71c9d8b27a4b239e8c4e27cde6a0465da29e169a",
+    "trader_name": "coxh",
+    "tag": "Overall",
+    "overall_gain": 17911.045900999998,
+    "active_positions": 0,
+    "win_amount": 18002.245901,
+    "loss_amount": -91.2,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 0,
+    "total_positions": 23,
+    "event_ct": 13,
+    "win_count": 12,
+    "rank": 5989,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
