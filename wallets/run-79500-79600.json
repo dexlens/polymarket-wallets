@@ -1390,5 +1390,21 @@
     "win_count": 9,
     "rank": 79588,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x062aca0497dd8f1652d2d129cb5de9d95b7ec45f",
+    "trader_name": "klri",
+    "tag": "Overall",
+    "overall_gain": 637.4768096928882,
+    "active_positions": 2,
+    "win_amount": 641.5694791061061,
+    "loss_amount": -4.092669413217973,
+    "win_rate": 0.8823529411764706,
+    "total_current_value": 510.85532401300003,
+    "total_positions": 102,
+    "event_ct": 34,
+    "win_count": 30,
+    "rank": 79589,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
