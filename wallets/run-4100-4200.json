@@ -334,5 +334,21 @@
     "win_count": 13,
     "rank": 4121,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6123a485226e6d00ec73901561fbca6dd508ec8b",
+    "trader_name": "Vaelthar",
+    "tag": "Overall",
+    "overall_gain": 27170.550499945064,
+    "active_positions": 3,
+    "win_amount": 27187.294499945063,
+    "loss_amount": -16.744,
+    "win_rate": 0.9318181818181818,
+    "total_current_value": 5.680063,
+    "total_positions": 49,
+    "event_ct": 44,
+    "win_count": 41,
+    "rank": 4122,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
