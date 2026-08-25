@@ -126,5 +126,21 @@
     "win_count": 942,
     "rank": 9408,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x5c6480d7d3b0470b42bba8e9ef5ea816a2ea0d1f",
+    "trader_name": "xcca",
+    "tag": "Overall",
+    "overall_gain": 11134.192355056604,
+    "active_positions": 2,
+    "win_amount": 11379.191466056605,
+    "loss_amount": -244.999111,
+    "win_rate": 0.8064516129032258,
+    "total_current_value": 200.763341,
+    "total_positions": 32,
+    "event_ct": 31,
+    "win_count": 25,
+    "rank": 9409,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
