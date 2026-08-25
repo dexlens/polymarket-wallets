@@ -1038,5 +1038,21 @@
     "win_count": 109,
     "rank": 2265,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa83be3f6a49604556f45089799f2b2096e71def4",
+    "trader_name": "Signal47-Bets",
+    "tag": "Overall",
+    "overall_gain": 52577.27860793886,
+    "active_positions": 17,
+    "win_amount": 70692.34002424768,
+    "loss_amount": -18115.061416308814,
+    "win_rate": 0.7642857142857142,
+    "total_current_value": 53823.733910999996,
+    "total_positions": 153,
+    "event_ct": 140,
+    "win_count": 107,
+    "rank": 2266,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
