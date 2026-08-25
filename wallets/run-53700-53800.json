@@ -1198,5 +1198,21 @@
     "win_count": 1,
     "rank": 53776,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x252112c8bf154ae7bb7e0eca8b4f60959f17f7fb",
+    "trader_name": "ds1ffg",
+    "tag": "Overall",
+    "overall_gain": 1312.9033944478238,
+    "active_positions": 90,
+    "win_amount": 5105.186527000001,
+    "loss_amount": -3792.283132552177,
+    "win_rate": 0.6035242290748899,
+    "total_current_value": 0,
+    "total_positions": 227,
+    "event_ct": 227,
+    "win_count": 137,
+    "rank": 53777,
+    "trader_tags": ""
   }
 ]
