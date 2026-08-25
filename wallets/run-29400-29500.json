@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 29499,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7dcc4ccde81d77cb2bd3509cd5757a4bce3df53f",
+    "trader_name": "oranquaevc",
+    "tag": "Overall",
+    "overall_gain": 2882.75,
+    "active_positions": 1,
+    "win_amount": 2979.95,
+    "loss_amount": -97.2,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 29500,
+    "trader_tags": "< 30 days old"
   }
 ]
