@@ -30,5 +30,21 @@
     "win_count": 2,
     "rank": 10702,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x26cabe355381e5b2e3dfaeb5e9222d12d6c56c0a",
+    "trader_name": "DonaldDrump",
+    "tag": "Overall",
+    "overall_gain": 9897.345388646128,
+    "active_positions": 1,
+    "win_amount": 9952.325388646128,
+    "loss_amount": -54.980000000000004,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.006128,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 10703,
+    "trader_tags": "> 1 year old"
   }
 ]
