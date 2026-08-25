@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 16518,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x2a55836a3b8edf7e992220425577c04c1149ffaa",
+    "trader_name": "137N",
+    "tag": "Overall",
+    "overall_gain": 5768.758140844667,
+    "active_positions": 35,
+    "win_amount": 6351.236454827584,
+    "loss_amount": -582.4783139829158,
+    "win_rate": 0.7090909090909091,
+    "total_current_value": 379.1052858324999,
+    "total_positions": 107,
+    "event_ct": 55,
+    "win_count": 39,
+    "rank": 16519,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
