@@ -1134,5 +1134,21 @@
     "win_count": 2,
     "rank": 6071,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9c277d1d40a9d142bc79fb5da105a367f0bf2132",
+    "trader_name": "mintchocolate",
+    "tag": "Overall",
+    "overall_gain": 17663.207283584074,
+    "active_positions": 1,
+    "win_amount": 49161.274413404084,
+    "loss_amount": -31498.067129819992,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0.9252449999999999,
+    "total_positions": 212,
+    "event_ct": 48,
+    "win_count": 34,
+    "rank": 6072,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
