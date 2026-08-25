@@ -782,5 +782,21 @@
     "win_count": 63,
     "rank": 3149,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6996ae50436e2e72ab1777df915b40ad0bb6408d",
+    "trader_name": "BENFICAA",
+    "tag": "Overall",
+    "overall_gain": 36341.179974076826,
+    "active_positions": 8,
+    "win_amount": 54582.1699766032,
+    "loss_amount": -18240.990002526367,
+    "win_rate": 0.7358490566037735,
+    "total_current_value": 30627.963040165,
+    "total_positions": 113,
+    "event_ct": 53,
+    "win_count": 39,
+    "rank": 3150,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
