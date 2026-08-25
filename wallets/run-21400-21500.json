@@ -1374,5 +1374,21 @@
     "win_count": 4,
     "rank": 21486,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc77bc7c12cff77cd80de2d3377ce22aec3a6a526",
+    "trader_name": "projectparrot",
+    "tag": "Overall",
+    "overall_gain": 4239.474012719672,
+    "active_positions": 238,
+    "win_amount": 16154.426444041592,
+    "loss_amount": -11914.952431321917,
+    "win_rate": 0.5947712418300654,
+    "total_current_value": 17414.874407913,
+    "total_positions": 1209,
+    "event_ct": 612,
+    "win_count": 364,
+    "rank": 21487,
+    "trader_tags": "1k+ Positions"
   }
 ]
