@@ -1230,5 +1230,21 @@
     "win_count": 24,
     "rank": 8977,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x4c645841a6890d632d7de2e163307a64c0f6de66",
+    "trader_name": "SonicWhale",
+    "tag": "Overall",
+    "overall_gain": 11670.711662909993,
+    "active_positions": 0,
+    "win_amount": 12290.727146553341,
+    "loss_amount": -620.01548364335,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0.070083,
+    "total_positions": 15,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 8978,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
