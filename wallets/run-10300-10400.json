@@ -558,5 +558,21 @@
     "win_count": 7,
     "rank": 10335,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef23cbe21335189da1847ce4bb7b6115039a5b60",
+    "trader_name": "vetokone",
+    "tag": "Overall",
+    "overall_gain": 10169.649785254496,
+    "active_positions": 202,
+    "win_amount": 206371.24079661956,
+    "loss_amount": -196201.59101136497,
+    "win_rate": 0.4322033898305085,
+    "total_current_value": 5034.639552000001,
+    "total_positions": 505,
+    "event_ct": 472,
+    "win_count": 204,
+    "rank": 10336,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
