@@ -350,5 +350,21 @@
     "win_count": 4,
     "rank": 2122,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e5bdea42542a03dca0fff3f43a38a619f21d4ec",
+    "trader_name": "xtrqs",
+    "tag": "Overall",
+    "overall_gain": 56831.594641101845,
+    "active_positions": 7,
+    "win_amount": 99823.77866399928,
+    "loss_amount": -42992.184022897425,
+    "win_rate": 0.23809523809523808,
+    "total_current_value": 971.8849128999999,
+    "total_positions": 102,
+    "event_ct": 84,
+    "win_count": 20,
+    "rank": 2123,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
