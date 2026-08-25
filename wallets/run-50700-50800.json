@@ -1214,5 +1214,21 @@
     "win_count": 19,
     "rank": 50777,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa221c5e08cd73a2da606cfccb9299dfbb9392a0f",
+    "trader_name": "fvckingbot",
+    "tag": "Overall",
+    "overall_gain": 1450.034883238716,
+    "active_positions": 6,
+    "win_amount": 1831.476746326841,
+    "loss_amount": -381.44186308812505,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 336.91955125000004,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 3,
+    "rank": 50778,
+    "trader_tags": ""
   }
 ]
