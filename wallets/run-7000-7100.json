@@ -286,5 +286,21 @@
     "win_count": 4,
     "rank": 7018,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xd76461a6ede020d09d1d10bab4cd22b7e176cd5a",
+    "trader_name": "ajol",
+    "tag": "Overall",
+    "overall_gain": 15233.976778999997,
+    "active_positions": 0,
+    "win_amount": 15287.035778999998,
+    "loss_amount": -53.059,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 56,
+    "event_ct": 30,
+    "win_count": 25,
+    "rank": 7019,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
