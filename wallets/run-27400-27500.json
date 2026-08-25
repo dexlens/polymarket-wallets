@@ -1022,5 +1022,21 @@
     "win_count": 4,
     "rank": 27465,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc2736cc708f5576e91c249f546d5fef526c1ae96",
+    "trader_name": "marcusacc",
+    "tag": "Overall",
+    "overall_gain": 3138.924,
+    "active_positions": 1,
+    "win_amount": 3196.164,
+    "loss_amount": -57.24,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 27466,
+    "trader_tags": "< 30 days old"
   }
 ]
