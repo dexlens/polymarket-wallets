@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 39765,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x004a9dd6bccb31a82f23e3a61a44863f77f09424",
+    "trader_name": "nakamota",
+    "tag": "Overall",
+    "overall_gain": 2006.2908199695999,
+    "active_positions": 5,
+    "win_amount": 3464.6215585095997,
+    "loss_amount": -1458.33073854,
+    "win_rate": 0.5,
+    "total_current_value": 100,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 39766,
+    "trader_tags": "> 1 year old; 67%+ Positions in US Election "
   }
 ]
