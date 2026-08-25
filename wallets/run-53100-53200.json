@@ -1326,5 +1326,21 @@
     "win_count": 6,
     "rank": 53184,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x211e247d8e7f68b78fdace32249ac16c8fd335dd",
+    "trader_name": "mioki",
+    "tag": "Overall",
+    "overall_gain": 1338.4441094316207,
+    "active_positions": 4,
+    "win_amount": 24427.41845012569,
+    "loss_amount": -23088.974340694058,
+    "win_rate": 0.841304347826087,
+    "total_current_value": 34506.1205948095,
+    "total_positions": 994,
+    "event_ct": 460,
+    "win_count": 387,
+    "rank": 53185,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
