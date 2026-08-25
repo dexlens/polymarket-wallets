@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 35755,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc6eb4295179bd3b28c69bc2c1a32720b2ec548a6",
+    "trader_name": "RiverRun5678",
+    "tag": "Overall",
+    "overall_gain": 2280.192423708,
+    "active_positions": 2,
+    "win_amount": 3267.039192,
+    "loss_amount": -986.8467682919998,
+    "win_rate": 0.5806451612903226,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 31,
+    "win_count": 18,
+    "rank": 35756,
+    "trader_tags": "< 30 days old"
   }
 ]
