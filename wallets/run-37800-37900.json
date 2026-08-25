@@ -606,5 +606,21 @@
     "win_count": 41,
     "rank": 37839,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf43430b78b33df7b7b0f0c0a83d804b1c231384d",
+    "trader_name": "0xRanger",
+    "tag": "Overall",
+    "overall_gain": 2129.9058625848465,
+    "active_positions": 5,
+    "win_amount": 2162.4058625848465,
+    "loss_amount": -32.5,
+    "win_rate": 0.75,
+    "total_current_value": 2441.8111634184997,
+    "total_positions": 9,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 37840,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
