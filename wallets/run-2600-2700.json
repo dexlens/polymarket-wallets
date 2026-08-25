@@ -190,5 +190,21 @@
     "win_count": 3,
     "rank": 2612,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27db6ea9051c6e2d68a8ff1fc2984e764c73e863",
+    "trader_name": "PandaTime",
+    "tag": "Overall",
+    "overall_gain": 44548.8333840816,
+    "active_positions": 5,
+    "win_amount": 106635.91990030637,
+    "loss_amount": -62087.086516224794,
+    "win_rate": 0.7047451669595782,
+    "total_current_value": 5071.260721623498,
+    "total_positions": 809,
+    "event_ct": 569,
+    "win_count": 401,
+    "rank": 2613,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
