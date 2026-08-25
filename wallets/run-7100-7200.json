@@ -1246,5 +1246,21 @@
     "win_count": 8,
     "rank": 7178,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb61b5056f0b890e47b16f1e36eb94e6ae4108ebd",
+    "trader_name": "polymarkettest",
+    "tag": "Overall",
+    "overall_gain": 14911.50237,
+    "active_positions": 0,
+    "win_amount": 14938.206052,
+    "loss_amount": -26.703681999999997,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 7179,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
