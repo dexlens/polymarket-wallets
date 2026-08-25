@@ -942,5 +942,21 @@
     "win_count": 28,
     "rank": 87060,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8a1cdb4e3ad89aaadb7340e629d1c018acceb7de",
+    "trader_name": "Wenpp",
+    "tag": "Overall",
+    "overall_gain": 524.909495485906,
+    "active_positions": 0,
+    "win_amount": 524.909495485906,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0007830000000000001,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 87061,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
