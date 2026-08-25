@@ -398,5 +398,21 @@
     "win_count": 6,
     "rank": 80226,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x37a777b818388a7afdc38df254238c9068c4a42b",
+    "trader_name": "pfog",
+    "tag": "Overall",
+    "overall_gain": 627.0517142333039,
+    "active_positions": 18,
+    "win_amount": 3068.031205108775,
+    "loss_amount": -2440.97949087547,
+    "win_rate": 0.4657534246575342,
+    "total_current_value": 9.035313835999998,
+    "total_positions": 86,
+    "event_ct": 73,
+    "win_count": 34,
+    "rank": 80227,
+    "trader_tags": ""
   }
 ]
