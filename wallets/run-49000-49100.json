@@ -1406,5 +1406,21 @@
     "win_count": 15,
     "rank": 49089,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8f5d96f7b7e0c0af8efa814e305134c5eb65fab3",
+    "trader_name": "Nonfritend",
+    "tag": "Overall",
+    "overall_gain": 1524.1,
+    "active_positions": 1,
+    "win_amount": 1524.1,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 12.84,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 49090,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
