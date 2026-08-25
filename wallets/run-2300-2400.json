@@ -1278,5 +1278,21 @@
     "win_count": 40,
     "rank": 2380,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdc9ca7e8803ef19fd0e4b867da14f4793b7ffb00",
+    "trader_name": "Rainbow-Jereme",
+    "tag": "Overall",
+    "overall_gain": 49591.8325118759,
+    "active_positions": 5,
+    "win_amount": 58453.19008932002,
+    "loss_amount": -8861.357577444116,
+    "win_rate": 0.8791208791208791,
+    "total_current_value": 0.029552,
+    "total_positions": 114,
+    "event_ct": 91,
+    "win_count": 80,
+    "rank": 2381,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
