@@ -1134,5 +1134,21 @@
     "win_count": 9,
     "rank": 54872,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6d38048c4395da7b6aee7905d0f5eb7cd9cc16ad",
+    "trader_name": "urtgvnxn",
+    "tag": "Overall",
+    "overall_gain": 1265.221083123077,
+    "active_positions": 2,
+    "win_amount": 1523.650683123077,
+    "loss_amount": -258.4296,
+    "win_rate": 0.967741935483871,
+    "total_current_value": 150.967077,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 30,
+    "rank": 54873,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
