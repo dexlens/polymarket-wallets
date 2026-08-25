@@ -302,5 +302,21 @@
     "win_count": 8,
     "rank": 65020,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0xbabee2b51900c040efe10c28caa7e670366efad5",
+    "trader_name": "alwayswin2",
+    "tag": "Overall",
+    "overall_gain": 945.00973743846,
+    "active_positions": 1,
+    "win_amount": 945.00973743846,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1277.03846,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 65021,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
