@@ -1326,5 +1326,21 @@
     "win_count": 12,
     "rank": 59484,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6f41e81534f98b4484b511b22ac3d46545e065ee",
+    "trader_name": "OK4",
+    "tag": "Overall",
+    "overall_gain": 1092.604754,
+    "active_positions": 3,
+    "win_amount": 1132.597631,
+    "loss_amount": -39.99287699999999,
+    "win_rate": 0.75,
+    "total_current_value": 100.00222,
+    "total_positions": 36,
+    "event_ct": 28,
+    "win_count": 21,
+    "rank": 59485,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
