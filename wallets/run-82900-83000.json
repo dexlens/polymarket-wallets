@@ -766,5 +766,21 @@
     "win_count": 10,
     "rank": 82949,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x402731bbebc7604cf7b01d86be722c2710a17982",
+    "trader_name": "FSFSFFG",
+    "tag": "Overall",
+    "overall_gain": 582.916665267663,
+    "active_positions": 8,
+    "win_amount": 1075.0414995295514,
+    "loss_amount": -492.12483426188794,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 278.354603772,
+    "total_positions": 63,
+    "event_ct": 36,
+    "win_count": 21,
+    "rank": 82950,
+    "trader_tags": ""
   }
 ]
