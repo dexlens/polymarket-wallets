@@ -1534,5 +1534,21 @@
     "win_count": 6,
     "rank": 7696,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfafda14bcead2658cb984be9f441c0d207e351a2",
+    "trader_name": "Lysric",
+    "tag": "Overall",
+    "overall_gain": 13740.586012325115,
+    "active_positions": 5,
+    "win_amount": 13760.966002116427,
+    "loss_amount": -20.379989791313,
+    "win_rate": 0.8809523809523809,
+    "total_current_value": 8.22165,
+    "total_positions": 44,
+    "event_ct": 42,
+    "win_count": 37,
+    "rank": 7697,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
