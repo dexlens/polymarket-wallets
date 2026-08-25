@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 5666,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5dca425df2c5ab84fea200c1ab55c181275c87d0",
+    "trader_name": "Cvhr61",
+    "tag": "Overall",
+    "overall_gain": 19050.5068615542,
+    "active_positions": 8,
+    "win_amount": 82453.48467836717,
+    "loss_amount": -63402.97781681294,
+    "win_rate": 0.4911504424778761,
+    "total_current_value": 12105.71859305,
+    "total_positions": 295,
+    "event_ct": 226,
+    "win_count": 111,
+    "rank": 5667,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
