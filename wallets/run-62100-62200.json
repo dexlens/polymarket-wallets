@@ -862,5 +862,21 @@
     "win_count": 3,
     "rank": 62155,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x11a1bf87be1b68bafa19819f721f00b8b197f298",
+    "trader_name": "JOKER039",
+    "tag": "Overall",
+    "overall_gain": 1018.0380632247951,
+    "active_positions": 0,
+    "win_amount": 1596.644049,
+    "loss_amount": -578.605985775205,
+    "win_rate": 0.9328621908127208,
+    "total_current_value": 0.337734,
+    "total_positions": 287,
+    "event_ct": 283,
+    "win_count": 264,
+    "rank": 62156,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
