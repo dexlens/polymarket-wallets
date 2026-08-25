@@ -798,5 +798,21 @@
     "win_count": 166,
     "rank": 350,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6b88b6a431c5ec9b3afdb76e69393d0404909856",
+    "trader_name": "sweetspea",
+    "tag": "Overall",
+    "overall_gain": 365183.29981531994,
+    "active_positions": 2,
+    "win_amount": 368491.1769259999,
+    "loss_amount": -3307.8771106799995,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 5,
+    "rank": 351,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
   }
 ]
