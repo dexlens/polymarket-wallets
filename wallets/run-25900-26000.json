@@ -478,5 +478,21 @@
     "win_count": 2,
     "rank": 25931,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x73ed7160fd1f2799dd509ef4cf4a49b6730313fd",
+    "trader_name": "ShamrockC",
+    "tag": "Overall",
+    "overall_gain": 3383.0278820000003,
+    "active_positions": 1,
+    "win_amount": 3383.0278820000003,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 25932,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
