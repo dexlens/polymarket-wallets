@@ -542,5 +542,21 @@
     "win_count": 5,
     "rank": 33635,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1ccdc17b17212ec9392a54fe66cca137f01b5330",
+    "trader_name": "MMstrategy",
+    "tag": "Overall",
+    "overall_gain": 2454.477031150014,
+    "active_positions": 670,
+    "win_amount": 15493.79627440088,
+    "loss_amount": -13039.319243250864,
+    "win_rate": 0.5191256830601093,
+    "total_current_value": 1035.3983509965,
+    "total_positions": 1118,
+    "event_ct": 366,
+    "win_count": 190,
+    "rank": 33636,
+    "trader_tags": "1k+ Positions"
   }
 ]
