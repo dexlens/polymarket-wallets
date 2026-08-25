@@ -734,5 +734,21 @@
     "win_count": 39,
     "rank": 846,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe965bb56ab8182bd9c90897c24d0c41e86036559",
+    "trader_name": "VPutin",
+    "tag": "Overall",
+    "overall_gain": 144774.35499053096,
+    "active_positions": 28,
+    "win_amount": 249806.02369711353,
+    "loss_amount": -105031.66870658263,
+    "win_rate": 0.656,
+    "total_current_value": 0.43631900000000007,
+    "total_positions": 308,
+    "event_ct": 250,
+    "win_count": 164,
+    "rank": 847,
+    "trader_tags": "Overall PnL > $100k; Politics PnL > $100k"
   }
 ]
