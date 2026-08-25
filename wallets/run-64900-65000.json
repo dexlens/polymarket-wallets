@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 64999,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb3b74ec10a41c778c98d689f6b8a7dcdf2b55c6b",
+    "trader_name": "Mavrisol",
+    "tag": "Overall",
+    "overall_gain": 945.4600000000002,
+    "active_positions": 2,
+    "win_amount": 1107.8600000000001,
+    "loss_amount": -162.39999999999998,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 65000,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
