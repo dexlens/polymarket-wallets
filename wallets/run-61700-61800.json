@@ -190,5 +190,21 @@
     "win_count": 3,
     "rank": 61713,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd84d970b0d4ec9bfc28d011306eba298b339cc32",
+    "trader_name": "threshmain",
+    "tag": "Overall",
+    "overall_gain": 1029.2655283185109,
+    "active_positions": 0,
+    "win_amount": 1934.904181154964,
+    "loss_amount": -905.638652836453,
+    "win_rate": 0.6010362694300518,
+    "total_current_value": 1.310519,
+    "total_positions": 903,
+    "event_ct": 579,
+    "win_count": 348,
+    "rank": 61714,
+    "trader_tags": ""
   }
 ]
