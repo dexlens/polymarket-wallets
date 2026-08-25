@@ -526,5 +526,21 @@
     "win_count": 52,
     "rank": 56134,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x271c7bd345d8f01e0a93e13bc60172d608996a19",
+    "trader_name": "blips.doormat",
+    "tag": "Overall",
+    "overall_gain": 1212.43999433,
+    "active_positions": 143,
+    "win_amount": 8708.4342838,
+    "loss_amount": -7495.99428947,
+    "win_rate": 0.7741559953434226,
+    "total_current_value": 0.0166,
+    "total_positions": 952,
+    "event_ct": 859,
+    "win_count": 665,
+    "rank": 56135,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
