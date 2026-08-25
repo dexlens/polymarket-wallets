@@ -1358,5 +1358,21 @@
     "win_count": 2,
     "rank": 1085,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xae36db2d9aa13bce2da12413a6211b375ac6dcf6",
+    "trader_name": "nomadFrog",
+    "tag": "Overall",
+    "overall_gain": 111342.59718275661,
+    "active_positions": 3,
+    "win_amount": 121736.885326,
+    "loss_amount": -10394.2881432434,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 2,
+    "rank": 1086,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
   }
 ]
