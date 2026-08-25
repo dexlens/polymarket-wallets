@@ -1134,5 +1134,21 @@
     "win_count": 8,
     "rank": 8171,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4fe9427f0d574e97922623ea4d2309647cbb2e20",
+    "trader_name": "giraffe1",
+    "tag": "Overall",
+    "overall_gain": 12879.72174896,
+    "active_positions": 0,
+    "win_amount": 12879.72174896,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 8172,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
