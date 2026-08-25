@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 26488,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x037d337ffc571708f5740ff94911204ebe2b161b",
+    "trader_name": "Tuda",
+    "tag": "Overall",
+    "overall_gain": 3290.733503332852,
+    "active_positions": 4,
+    "win_amount": 7165.191678787587,
+    "loss_amount": -3874.458175454735,
+    "win_rate": 0.3902439024390244,
+    "total_current_value": 635.02695695,
+    "total_positions": 56,
+    "event_ct": 41,
+    "win_count": 16,
+    "rank": 26489,
+    "trader_tags": "> 1 year old"
   }
 ]
