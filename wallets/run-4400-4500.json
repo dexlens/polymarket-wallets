@@ -942,5 +942,21 @@
     "win_count": 17,
     "rank": 4459,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9224054247a0c3dd995bc6f521f7afa97db55d09",
+    "trader_name": "Buttermilk1",
+    "tag": "Overall",
+    "overall_gain": 24854.116946000002,
+    "active_positions": 0,
+    "win_amount": 24854.116946000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 4460,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
