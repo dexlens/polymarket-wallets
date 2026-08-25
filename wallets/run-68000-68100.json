@@ -1358,5 +1358,21 @@
     "win_count": 1,
     "rank": 68086,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x142a890b57cf437d7986dbdfa394f1b4bf387f09",
+    "trader_name": "wrfsfd",
+    "tag": "Overall",
+    "overall_gain": 858.343805,
+    "active_positions": 1,
+    "win_amount": 858.346325,
+    "loss_amount": -0.0025199999999996336,
+    "win_rate": 0.9565217391304348,
+    "total_current_value": 5.0274,
+    "total_positions": 25,
+    "event_ct": 23,
+    "win_count": 22,
+    "rank": 68087,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
