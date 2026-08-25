@@ -350,5 +350,21 @@
     "win_count": 2,
     "rank": 23322,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b0b1bd1cbf12741d3b3fc3fb707e6d30b5a82d7",
+    "trader_name": "mr-guy",
+    "tag": "Overall",
+    "overall_gain": 3855.6479796444014,
+    "active_positions": 1,
+    "win_amount": 4925.335584531239,
+    "loss_amount": -1069.687604886838,
+    "win_rate": 0.6,
+    "total_current_value": 0.10758200000000001,
+    "total_positions": 17,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 23323,
+    "trader_tags": "> 1 year old"
   }
 ]
