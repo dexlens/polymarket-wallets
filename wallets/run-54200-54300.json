@@ -782,5 +782,21 @@
     "win_count": 2,
     "rank": 54250,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30707fe043dbe4d350fe6e6ca48ba64246a5ad5c",
+    "trader_name": "ponzivault",
+    "tag": "Overall",
+    "overall_gain": 1292.688607086104,
+    "active_positions": 0,
+    "win_amount": 1466.0438653361039,
+    "loss_amount": -173.35525825,
+    "win_rate": 0.6,
+    "total_current_value": 0.00600145,
+    "total_positions": 6,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 54251,
+    "trader_tags": ""
   }
 ]
