@@ -1118,5 +1118,21 @@
     "win_count": 2,
     "rank": 22870,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c962e7444c2c1f7b4f376c2ff13fefdbc2cc94b",
+    "trader_name": "Sloupe",
+    "tag": "Overall",
+    "overall_gain": 3945.3543485219066,
+    "active_positions": 351,
+    "win_amount": 99601.23457999721,
+    "loss_amount": -95655.88023147528,
+    "win_rate": 0.5233128834355828,
+    "total_current_value": 29.928750590000007,
+    "total_positions": 17481,
+    "event_ct": 9780,
+    "win_count": 5118,
+    "rank": 22871,
+    "trader_tags": "1k+ Positions"
   }
 ]
