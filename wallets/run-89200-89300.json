@@ -1214,5 +1214,21 @@
     "win_count": 41,
     "rank": 89277,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8c626a8042b2d04ccc24cb00542cc1f86df712c3",
+    "trader_name": "BLDCC",
+    "tag": "Overall",
+    "overall_gain": 498.4335653220339,
+    "active_positions": 9,
+    "win_amount": 515.533015322034,
+    "loss_amount": -17.09944999999999,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 671.5140707805,
+    "total_positions": 26,
+    "event_ct": 13,
+    "win_count": 12,
+    "rank": 89278,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
