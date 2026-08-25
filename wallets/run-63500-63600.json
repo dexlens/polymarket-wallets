@@ -734,5 +734,21 @@
     "win_count": 16,
     "rank": 63547,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4498adce4f2113c70b080c701473f4ecd4e68541",
+    "trader_name": "rikitan",
+    "tag": "Overall",
+    "overall_gain": 987.260739488544,
+    "active_positions": 0,
+    "win_amount": 987.260739488544,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008432,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 63548,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
