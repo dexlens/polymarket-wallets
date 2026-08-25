@@ -1342,5 +1342,21 @@
     "win_count": 2,
     "rank": 7984,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xabc85423a4440d47c1ed71a5bc4851d2c243698c",
+    "trader_name": "psw007",
+    "tag": "Overall",
+    "overall_gain": 13151.037797353547,
+    "active_positions": 0,
+    "win_amount": 13151.037797353547,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7985,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
