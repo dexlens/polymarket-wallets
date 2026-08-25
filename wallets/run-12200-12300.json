@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 12284,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x3661cdf79020d1608e09f80250dd38e42cbf36c9",
+    "trader_name": "ff555",
+    "tag": "Overall",
+    "overall_gain": 8322.49656608,
+    "active_positions": 1,
+    "win_amount": 8322.49656608,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 100.000096,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 12285,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
