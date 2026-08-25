@@ -1022,5 +1022,21 @@
     "win_count": 14,
     "rank": 29665,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ac49dfa89a5b48eff433d596ba00ce91f5066f5",
+    "trader_name": "Yakitori",
+    "tag": "Overall",
+    "overall_gain": 2859.999342,
+    "active_positions": 0,
+    "win_amount": 2859.999342,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 29666,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
