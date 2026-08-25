@@ -606,5 +606,21 @@
     "win_count": 40,
     "rank": 8738,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3758dddc0221d32a86c7d72e845c40dd17386c7c",
+    "trader_name": "BennettJonesl",
+    "tag": "Overall",
+    "overall_gain": 12000.028210370143,
+    "active_positions": 17,
+    "win_amount": 28800.061518000002,
+    "loss_amount": -16800.033307629856,
+    "win_rate": 0.6470588235294118,
+    "total_current_value": 0.0021386400000000002,
+    "total_positions": 53,
+    "event_ct": 51,
+    "win_count": 33,
+    "rank": 8739,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
