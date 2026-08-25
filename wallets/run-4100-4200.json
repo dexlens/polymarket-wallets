@@ -686,5 +686,21 @@
     "win_count": 12,
     "rank": 4143,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xbbe51da08bd64944231fcedd7a0c609c913938c2",
+    "trader_name": "koitea",
+    "tag": "Overall",
+    "overall_gain": 26937.94512056809,
+    "active_positions": 21,
+    "win_amount": 38445.557515438086,
+    "loss_amount": -11507.61239487,
+    "win_rate": 0.918918918918919,
+    "total_current_value": 36.333035471,
+    "total_positions": 111,
+    "event_ct": 37,
+    "win_count": 34,
+    "rank": 4144,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
