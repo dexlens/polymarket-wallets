@@ -270,5 +270,21 @@
     "win_count": 2,
     "rank": 81218,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa3f3aefaa988c60a521c2cdc5ff9fee6a522d9e7",
+    "trader_name": "ponn1",
+    "tag": "Overall",
+    "overall_gain": 610.659002535052,
+    "active_positions": 5,
+    "win_amount": 844.4759797077081,
+    "loss_amount": -233.816977172656,
+    "win_rate": 0.7,
+    "total_current_value": 0.043367,
+    "total_positions": 23,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 81219,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
