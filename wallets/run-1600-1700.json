@@ -894,5 +894,21 @@
     "win_count": 90,
     "rank": 1656,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x368ba69507fd67972059fa178af5e459b72f2458",
+    "trader_name": "RockyZet",
+    "tag": "Overall",
+    "overall_gain": 74102.11476976395,
+    "active_positions": 30,
+    "win_amount": 162634.0467872525,
+    "loss_amount": -88531.9320174885,
+    "win_rate": 0.7759336099585062,
+    "total_current_value": 101241.77839446499,
+    "total_positions": 438,
+    "event_ct": 241,
+    "win_count": 187,
+    "rank": 1657,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
