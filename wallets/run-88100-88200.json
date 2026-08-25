@@ -206,5 +206,21 @@
     "win_count": 1,
     "rank": 88114,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x38c67e3b34a932fe7f98c158a424f6ae50a097ae",
+    "trader_name": "520KM",
+    "tag": "Overall",
+    "overall_gain": 511.63118480958127,
+    "active_positions": 39,
+    "win_amount": 810.4402102146671,
+    "loss_amount": -298.809025405086,
+    "win_rate": 0.48,
+    "total_current_value": 217.924354896,
+    "total_positions": 115,
+    "event_ct": 50,
+    "win_count": 24,
+    "rank": 88115,
+    "trader_tags": ""
   }
 ]
