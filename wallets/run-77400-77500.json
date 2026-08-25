@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 77444,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59e7f9224a01017bfbf95939c7a5839ac8f9548c",
+    "trader_name": "OneDayKnown",
+    "tag": "Overall",
+    "overall_gain": 673.686327451059,
+    "active_positions": 4,
+    "win_amount": 2952.3754748528268,
+    "loss_amount": -2278.689147401767,
+    "win_rate": 0.9733333333333334,
+    "total_current_value": 0.012741849999999999,
+    "total_positions": 1950,
+    "event_ct": 1950,
+    "win_count": 1898,
+    "rank": 77445,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
