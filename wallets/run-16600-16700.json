@@ -1102,5 +1102,21 @@
     "win_count": 3,
     "rank": 16669,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x336a19edb925a959bbd7e301a26fc43e12241915",
+    "trader_name": "lag123",
+    "tag": "Overall",
+    "overall_gain": 5708.453809681645,
+    "active_positions": 74,
+    "win_amount": 43081.562204414106,
+    "loss_amount": -37373.10839473243,
+    "win_rate": 0.5638629283489096,
+    "total_current_value": 0.043670999999999995,
+    "total_positions": 370,
+    "event_ct": 321,
+    "win_count": 181,
+    "rank": 16670,
+    "trader_tags": ""
   }
 ]
