@@ -1566,5 +1566,21 @@
     "win_count": 23,
     "rank": 17198,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x07b6888a738f827537576564df80e70193fd7935",
+    "trader_name": "BryanCookedMe",
+    "tag": "Overall",
+    "overall_gain": 5471.281376515309,
+    "active_positions": 0,
+    "win_amount": 9398.125507614395,
+    "loss_amount": -3926.8441310990856,
+    "win_rate": 0.7105263157894737,
+    "total_current_value": 0.054213708500000006,
+    "total_positions": 144,
+    "event_ct": 76,
+    "win_count": 54,
+    "rank": 17199,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
