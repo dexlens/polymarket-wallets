@@ -1070,5 +1070,21 @@
     "win_count": 16,
     "rank": 57568,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x229e65ba3da54fbd6938719add6562d8b4c13cb2",
+    "trader_name": "cryptoxu",
+    "tag": "Overall",
+    "overall_gain": 1157.8999430803603,
+    "active_positions": 17,
+    "win_amount": 2193.106974110262,
+    "loss_amount": -1035.2070310299018,
+    "win_rate": 0.753968253968254,
+    "total_current_value": 5406.9198507805,
+    "total_positions": 135,
+    "event_ct": 126,
+    "win_count": 95,
+    "rank": 57569,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
