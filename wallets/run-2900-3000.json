@@ -1246,5 +1246,21 @@
     "win_count": 26,
     "rank": 2978,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x07d4245464dc4fa05d0b3f084d82482462dc8991",
+    "trader_name": "Wojtek",
+    "tag": "Overall",
+    "overall_gain": 38490.68070627216,
+    "active_positions": 144,
+    "win_amount": 282616.9476950327,
+    "loss_amount": -244126.26698876053,
+    "win_rate": 0.29497098646034814,
+    "total_current_value": 11036.4042894295,
+    "total_positions": 2341,
+    "event_ct": 1034,
+    "win_count": 305,
+    "rank": 2979,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
