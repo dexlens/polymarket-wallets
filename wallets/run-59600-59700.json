@@ -862,5 +862,21 @@
     "win_count": 11,
     "rank": 59655,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x336c95bf2905de25ba6234b4a07025da8cd927ca",
+    "trader_name": "otunity",
+    "tag": "Overall",
+    "overall_gain": 1087.796708074046,
+    "active_positions": 1,
+    "win_amount": 1092.831378174046,
+    "loss_amount": -5.0346701000000005,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 46.422516443999996,
+    "total_positions": 17,
+    "event_ct": 14,
+    "win_count": 13,
+    "rank": 59656,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
