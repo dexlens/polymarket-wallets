@@ -542,5 +542,21 @@
     "win_count": 3,
     "rank": 88635,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xaf392d91390aabe5244da7f38c1da6989d6edd40",
+    "trader_name": "gotiko",
+    "tag": "Overall",
+    "overall_gain": 505.76564342499967,
+    "active_positions": 6,
+    "win_amount": 3069.109365999999,
+    "loss_amount": -2563.3437225750004,
+    "win_rate": 0.8597837460760377,
+    "total_current_value": 49.302852675,
+    "total_positions": 5423,
+    "event_ct": 2867,
+    "win_count": 2465,
+    "rank": 88636,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
