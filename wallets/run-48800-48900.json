@@ -638,5 +638,21 @@
     "win_count": 52,
     "rank": 48841,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x87370ee213f5e6b63b1ad8c171a78ccdde9a94d5",
+    "trader_name": "EtherEd",
+    "tag": "Overall",
+    "overall_gain": 1535.3542559999999,
+    "active_positions": 0,
+    "win_amount": 2510.454256,
+    "loss_amount": -975.0999999999999,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 24,
+    "event_ct": 21,
+    "win_count": 12,
+    "rank": 48842,
+    "trader_tags": "> 1 year old"
   }
 ]
