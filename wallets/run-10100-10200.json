@@ -798,5 +798,21 @@
     "win_count": 59,
     "rank": 10150,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x0f5a5c5540e5bd9048095104426d0cf74c411167",
+    "trader_name": "qdfo",
+    "tag": "Overall",
+    "overall_gain": 10353.488400000002,
+    "active_positions": 0,
+    "win_amount": 10353.488400000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 10151,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
