@@ -782,5 +782,21 @@
     "win_count": 154,
     "rank": 3349,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb90693d0eecb548f43f91d76ab53047b0eee2a75",
+    "trader_name": "NoCopyTrade",
+    "tag": "Overall",
+    "overall_gain": 34142.22198041593,
+    "active_positions": 316,
+    "win_amount": 127321.66558210536,
+    "loss_amount": -93179.44360168942,
+    "win_rate": 0.48411214953271026,
+    "total_current_value": 1021.7038140000001,
+    "total_positions": 1418,
+    "event_ct": 1070,
+    "win_count": 518,
+    "rank": 3350,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
