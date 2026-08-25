@@ -1534,5 +1534,21 @@
     "win_count": 1403,
     "rank": 6696,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0xebf0a333fcc4648aacc7826f7183fd4360dbe275",
+    "trader_name": "yaokan",
+    "tag": "Overall",
+    "overall_gain": 16019.531568370661,
+    "active_positions": 4,
+    "win_amount": 16250.306280370663,
+    "loss_amount": -230.77471199999997,
+    "win_rate": 0.8867924528301887,
+    "total_current_value": 3696.2376322250007,
+    "total_positions": 216,
+    "event_ct": 53,
+    "win_count": 47,
+    "rank": 6697,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
