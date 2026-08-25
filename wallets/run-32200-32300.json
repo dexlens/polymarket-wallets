@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 32250,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6b1ff9be1871353fd8faa9aa96d680ab9009d9c3",
+    "trader_name": "crassus01",
+    "tag": "Overall",
+    "overall_gain": 2575.727650868991,
+    "active_positions": 10,
+    "win_amount": 6513.05818396344,
+    "loss_amount": -3937.3305330944486,
+    "win_rate": 0.7723684210526316,
+    "total_current_value": 1299.1832032,
+    "total_positions": 1703,
+    "event_ct": 1520,
+    "win_count": 1174,
+    "rank": 32251,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
