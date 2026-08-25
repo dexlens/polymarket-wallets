@@ -1022,5 +1022,21 @@
     "win_count": 10,
     "rank": 1464,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x993c072519306017fe9a6b3ee6fa4a02b3056787",
+    "trader_name": "Jep-G",
+    "tag": "Overall",
+    "overall_gain": 82443.55095730009,
+    "active_positions": 135,
+    "win_amount": 185709.77105671586,
+    "loss_amount": -103266.22009941579,
+    "win_rate": 0.5456730769230769,
+    "total_current_value": 43803.119396037495,
+    "total_positions": 1531,
+    "event_ct": 416,
+    "win_count": 227,
+    "rank": 1465,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
