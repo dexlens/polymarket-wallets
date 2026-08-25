@@ -1422,5 +1422,21 @@
     "win_count": 5,
     "rank": 5089,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xb31e41965df4ab8014de4c4d8da9deff0a6ac120",
+    "trader_name": "C63AMG",
+    "tag": "Overall",
+    "overall_gain": 21298.494043593513,
+    "active_positions": 9,
+    "win_amount": 127068.55428126572,
+    "loss_amount": -105770.06023767217,
+    "win_rate": 0.7404921700223713,
+    "total_current_value": 19224.625958215005,
+    "total_positions": 536,
+    "event_ct": 447,
+    "win_count": 331,
+    "rank": 5090,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
