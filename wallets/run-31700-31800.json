@@ -1566,5 +1566,21 @@
     "win_count": 8,
     "rank": 31799,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x366c7f079535b6b554b0e04bd24a9ced838cec01",
+    "trader_name": "babyws",
+    "tag": "Overall",
+    "overall_gain": 2620.1313716187674,
+    "active_positions": 20,
+    "win_amount": 3201.158877981852,
+    "loss_amount": -581.0275063630841,
+    "win_rate": 0.6461538461538462,
+    "total_current_value": 27.789775000000002,
+    "total_positions": 94,
+    "event_ct": 65,
+    "win_count": 42,
+    "rank": 31800,
+    "trader_tags": "> 1 year old"
   }
 ]
