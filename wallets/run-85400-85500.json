@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 85500,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x95d888bfc949106161c542f16523d00552b02922",
+    "trader_name": "dota-bot",
+    "tag": "Overall",
+    "overall_gain": 545.274471576146,
+    "active_positions": 148,
+    "win_amount": 3974.2786144801184,
+    "loss_amount": -3429.004142903971,
+    "win_rate": 0.7407407407407407,
+    "total_current_value": 0.031314,
+    "total_positions": 778,
+    "event_ct": 567,
+    "win_count": 420,
+    "rank": 85501,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
