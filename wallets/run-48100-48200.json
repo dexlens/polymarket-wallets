@@ -350,5 +350,21 @@
     "win_count": 1,
     "rank": 48123,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdce805e5b3d5eedc7625945c3fa2a44c739623bd",
+    "trader_name": "Rcap",
+    "tag": "Overall",
+    "overall_gain": 1567.0957696852338,
+    "active_positions": 2,
+    "win_amount": 2230.239297165877,
+    "loss_amount": -663.1435274806428,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 1046.1150223,
+    "total_positions": 13,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 48124,
+    "trader_tags": "> 1 year old"
   }
 ]
