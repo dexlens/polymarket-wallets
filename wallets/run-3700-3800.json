@@ -1134,5 +1134,21 @@
     "win_count": 5,
     "rank": 3771,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x52ed504e3c3c7cfceaa61dc4f23a6e29d79f8db7",
+    "trader_name": "Tys0n8686",
+    "tag": "Overall",
+    "overall_gain": 30211.418361403452,
+    "active_positions": 7,
+    "win_amount": 50589.61362088724,
+    "loss_amount": -20378.19525948378,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 12044.294837785004,
+    "total_positions": 384,
+    "event_ct": 374,
+    "win_count": 264,
+    "rank": 3772,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
