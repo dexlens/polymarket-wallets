@@ -1390,5 +1390,21 @@
     "win_count": 2,
     "rank": 26588,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8d390e461fd28ba5e3cf1e6826af5a66ae182989",
+    "trader_name": "Mirandasd22",
+    "tag": "Overall",
+    "overall_gain": 3272.1869345280656,
+    "active_positions": 2,
+    "win_amount": 3394.1896855280656,
+    "loss_amount": -122.002751,
+    "win_rate": 0.8421052631578947,
+    "total_current_value": 0.000066,
+    "total_positions": 24,
+    "event_ct": 19,
+    "win_count": 16,
+    "rank": 26589,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
