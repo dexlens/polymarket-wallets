@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 7559,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x19af0121d6bf74fafb9d0cf0f7c626f116cc298c",
+    "trader_name": "Myzen",
+    "tag": "Overall",
+    "overall_gain": 14023.538083628167,
+    "active_positions": 1,
+    "win_amount": 15488.258083628169,
+    "loss_amount": -1464.72,
+    "win_rate": 0.95,
+    "total_current_value": 0.033104999999999996,
+    "total_positions": 42,
+    "event_ct": 40,
+    "win_count": 38,
+    "rank": 7560,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
