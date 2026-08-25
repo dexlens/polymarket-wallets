@@ -1134,5 +1134,21 @@
     "win_count": 15,
     "rank": 55972,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84c1ab1cda0df87bb50bc35914816bcf4b499a5c",
+    "trader_name": "RocketData",
+    "tag": "Overall",
+    "overall_gain": 1219.8649245561874,
+    "active_positions": 34,
+    "win_amount": 5302.624916,
+    "loss_amount": -4082.759991443813,
+    "win_rate": 0.5405405405405406,
+    "total_current_value": 0,
+    "total_positions": 74,
+    "event_ct": 74,
+    "win_count": 40,
+    "rank": 55973,
+    "trader_tags": "> 1 year old"
   }
 ]
