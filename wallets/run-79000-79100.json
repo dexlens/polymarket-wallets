@@ -430,5 +430,21 @@
     "win_count": 31,
     "rank": 79028,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8de15af3aa2d513de06222a91e45c3c406ee459d",
+    "trader_name": "KKI",
+    "tag": "Overall",
+    "overall_gain": 646.9252200513621,
+    "active_positions": 3,
+    "win_amount": 746.9250920513622,
+    "loss_amount": -99.999872,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 3617.719964943,
+    "total_positions": 18,
+    "event_ct": 15,
+    "win_count": 14,
+    "rank": 79029,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
