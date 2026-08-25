@@ -462,5 +462,21 @@
     "win_count": 3,
     "rank": 20329,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x17540562632846295eef64df11b01641efef2d7e",
+    "trader_name": "Tulsiman",
+    "tag": "Overall",
+    "overall_gain": 4541.425382319984,
+    "active_positions": 19,
+    "win_amount": 10560.225371319984,
+    "loss_amount": -6018.799989,
+    "win_rate": 0.9069767441860465,
+    "total_current_value": 37.790723,
+    "total_positions": 118,
+    "event_ct": 43,
+    "win_count": 39,
+    "rank": 20330,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
