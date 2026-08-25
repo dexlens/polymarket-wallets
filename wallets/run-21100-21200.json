@@ -1006,5 +1006,21 @@
     "win_count": 3,
     "rank": 21163,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x60bd97eed992dabbfdecb41e74af1f79f4789521",
+    "trader_name": "ds122",
+    "tag": "Overall",
+    "overall_gain": 4319.632033999999,
+    "active_positions": 7,
+    "win_amount": 14148.995588,
+    "loss_amount": -9829.363554,
+    "win_rate": 0.35294117647058826,
+    "total_current_value": 15,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 6,
+    "rank": 21164,
+    "trader_tags": ""
   }
 ]
