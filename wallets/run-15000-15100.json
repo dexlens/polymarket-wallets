@@ -254,5 +254,21 @@
     "win_count": 456,
     "rank": 15016,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x310e35761bdde5017b9ab1769d10d606fc5025cf",
+    "trader_name": "TheLonerWhoWins",
+    "tag": "Overall",
+    "overall_gain": 6488.532118687663,
+    "active_positions": 5,
+    "win_amount": 53714.072014,
+    "loss_amount": -47225.53989531234,
+    "win_rate": 0.4,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 4,
+    "rank": 15017,
+    "trader_tags": "> 1 year old"
   }
 ]
