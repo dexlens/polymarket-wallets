@@ -1150,5 +1150,21 @@
     "win_count": 10,
     "rank": 77273,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x7b1ed3bcdcd923b6a11dfa90cd6585a3434f1385",
+    "trader_name": "Yarick",
+    "tag": "Overall",
+    "overall_gain": 676.9664672280793,
+    "active_positions": 8,
+    "win_amount": 3086.3275987331776,
+    "loss_amount": -2409.361131505099,
+    "win_rate": 0.8253968253968254,
+    "total_current_value": 6311.554265411,
+    "total_positions": 442,
+    "event_ct": 378,
+    "win_count": 312,
+    "rank": 77274,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
