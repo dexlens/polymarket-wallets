@@ -430,5 +430,21 @@
     "win_count": 7,
     "rank": 9927,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x34600abd7059cb89590ffa6037cef7058341fdc1",
+    "trader_name": "Lambolong",
+    "tag": "Overall",
+    "overall_gain": 10563.934250315451,
+    "active_positions": 1,
+    "win_amount": 10583.002412,
+    "loss_amount": -19.068161684548997,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 53,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 9928,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
