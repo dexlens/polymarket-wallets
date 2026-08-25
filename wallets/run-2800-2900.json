@@ -702,5 +702,21 @@
     "win_count": 29,
     "rank": 2844,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xceecb2ecc91e32ebcc6bdee532e3d90055a34ad9",
+    "trader_name": "Goopah",
+    "tag": "Overall",
+    "overall_gain": 40483.40379386614,
+    "active_positions": 3,
+    "win_amount": 260256.4402580037,
+    "loss_amount": -219773.03646413758,
+    "win_rate": 0.39285714285714285,
+    "total_current_value": 11721.13038634,
+    "total_positions": 99,
+    "event_ct": 84,
+    "win_count": 33,
+    "rank": 2845,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
