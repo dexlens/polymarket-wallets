@@ -1198,5 +1198,21 @@
     "win_count": 30,
     "rank": 7675,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x064385184c8e85405a39ba772598b2ddfee8c134",
+    "trader_name": "nassaru",
+    "tag": "Overall",
+    "overall_gain": 13782.017502257499,
+    "active_positions": 182,
+    "win_amount": 65099.06234589001,
+    "loss_amount": -51317.04484363251,
+    "win_rate": 0.5319693094629157,
+    "total_current_value": 0.011141,
+    "total_positions": 392,
+    "event_ct": 391,
+    "win_count": 208,
+    "rank": 7676,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
