@@ -206,5 +206,21 @@
     "win_count": 5,
     "rank": 7013,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15909c4a49370ef2426d4ce6dca23a986196e9c7",
+    "trader_name": "malonelamisgay",
+    "tag": "Overall",
+    "overall_gain": 15238.034589389406,
+    "active_positions": 28,
+    "win_amount": 31479.936073862216,
+    "loss_amount": -16241.901484472808,
+    "win_rate": 0.5,
+    "total_current_value": 0.09243900000000001,
+    "total_positions": 68,
+    "event_ct": 52,
+    "win_count": 26,
+    "rank": 7014,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
