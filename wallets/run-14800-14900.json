@@ -718,5 +718,21 @@
     "win_count": 44,
     "rank": 14845,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8f9da2aa10dda8eee8cb5b39cb18b575c1c71cb9",
+    "trader_name": "El-Coronel",
+    "tag": "Overall",
+    "overall_gain": 6590.236017041681,
+    "active_positions": 409,
+    "win_amount": 6720.600013592542,
+    "loss_amount": -130.36399655086097,
+    "win_rate": 0.7708333333333334,
+    "total_current_value": 1597.9026223380004,
+    "total_positions": 812,
+    "event_ct": 48,
+    "win_count": 37,
+    "rank": 14846,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
