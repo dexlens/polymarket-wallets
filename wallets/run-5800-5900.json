@@ -1390,5 +1390,21 @@
     "win_count": 10,
     "rank": 5887,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0e3226217752d7247c67b870b72b99ba3e20535b",
+    "trader_name": "JPLP",
+    "tag": "Overall",
+    "overall_gain": 18254.44157658995,
+    "active_positions": 387,
+    "win_amount": 64220.45823669208,
+    "loss_amount": -45966.016660102134,
+    "win_rate": 0.7421052631578947,
+    "total_current_value": 64370.19155536148,
+    "total_positions": 1152,
+    "event_ct": 570,
+    "win_count": 423,
+    "rank": 5888,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
