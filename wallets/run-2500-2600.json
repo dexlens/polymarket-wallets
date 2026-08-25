@@ -1102,5 +1102,21 @@
     "win_count": 11,
     "rank": 2569,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x27b820e5203aa114acc2712e0e1d0ad758abb68c",
+    "trader_name": "MichaelJacksonn",
+    "tag": "Overall",
+    "overall_gain": 45451.94871077666,
+    "active_positions": 0,
+    "win_amount": 50202.65408730466,
+    "loss_amount": -4750.705376528,
+    "win_rate": 0.8031088082901554,
+    "total_current_value": 0.06817947900000002,
+    "total_positions": 585,
+    "event_ct": 193,
+    "win_count": 155,
+    "rank": 2570,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
