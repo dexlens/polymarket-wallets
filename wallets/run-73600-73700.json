@@ -782,5 +782,21 @@
     "win_count": 1,
     "rank": 73650,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x663832df14cb43e8e75ce3d732197030bd1b2d54",
+    "trader_name": "CitadelRisk",
+    "tag": "Overall",
+    "overall_gain": 733.7251223898377,
+    "active_positions": 17,
+    "win_amount": 4959.048278,
+    "loss_amount": -4225.323155610162,
+    "win_rate": 0.5853658536585366,
+    "total_current_value": 0,
+    "total_positions": 41,
+    "event_ct": 41,
+    "win_count": 24,
+    "rank": 73651,
+    "trader_tags": "> 1 year old"
   }
 ]
