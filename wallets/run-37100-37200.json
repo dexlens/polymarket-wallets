@@ -1054,5 +1054,21 @@
     "win_count": 9,
     "rank": 37167,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6e5d4fe7ca1a1307db9b8b90e7330febf02a94d5",
+    "trader_name": "gogler",
+    "tag": "Overall",
+    "overall_gain": 2178.7109070360316,
+    "active_positions": 6,
+    "win_amount": 2256.998002228032,
+    "loss_amount": -78.287095192,
+    "win_rate": 0.7,
+    "total_current_value": 10122.149509744999,
+    "total_positions": 25,
+    "event_ct": 20,
+    "win_count": 14,
+    "rank": 37168,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
