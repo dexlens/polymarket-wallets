@@ -1550,5 +1550,21 @@
     "win_count": 4,
     "rank": 75398,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xee7a4b39e0922b6072656f2b161afcb72726d0fd",
+    "trader_name": "safeup",
+    "tag": "Overall",
+    "overall_gain": 708.2733169984168,
+    "active_positions": 1,
+    "win_amount": 736.9733169984169,
+    "loss_amount": -28.7,
+    "win_rate": 0.9411764705882353,
+    "total_current_value": 1707.0504403975003,
+    "total_positions": 39,
+    "event_ct": 34,
+    "win_count": 32,
+    "rank": 75399,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
