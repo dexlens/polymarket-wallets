@@ -686,5 +686,21 @@
     "win_count": 5,
     "rank": 29644,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4e14d4d80215352a1f2ddb21aae90ba36ad786f0",
+    "trader_name": "OneDollarBot",
+    "tag": "Overall",
+    "overall_gain": 2862.1174032819285,
+    "active_positions": 0,
+    "win_amount": 7138.236333695617,
+    "loss_amount": -4276.11893041369,
+    "win_rate": 0.6493506493506493,
+    "total_current_value": 0.13127,
+    "total_positions": 170,
+    "event_ct": 77,
+    "win_count": 50,
+    "rank": 29645,
+    "trader_tags": ""
   }
 ]
