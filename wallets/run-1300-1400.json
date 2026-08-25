@@ -366,5 +366,21 @@
     "win_count": 52,
     "rank": 1323,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x912a58103662ebe2e30328a305bc33131eca0f92",
+    "trader_name": "ratue",
+    "tag": "Overall",
+    "overall_gain": 91412.88198339513,
+    "active_positions": 2919,
+    "win_amount": 418545.5259186453,
+    "loss_amount": -327132.64393525035,
+    "win_rate": 0.5598933212279408,
+    "total_current_value": 15860.357226222495,
+    "total_positions": 29092,
+    "event_ct": 17623,
+    "win_count": 9867,
+    "rank": 1324,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
