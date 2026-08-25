@@ -846,5 +846,21 @@
     "win_count": 2,
     "rank": 83554,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x02861c426b32279b62a7df5dab2140a2c2fbbce0",
+    "trader_name": "WangTianLai",
+    "tag": "Overall",
+    "overall_gain": 573.2224349299998,
+    "active_positions": 2,
+    "win_amount": 573.2224349299998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1367.013229,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 10,
+    "rank": 83555,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
