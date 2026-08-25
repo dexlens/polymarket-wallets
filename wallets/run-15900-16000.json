@@ -174,5 +174,21 @@
     "win_count": 5,
     "rank": 15911,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe133e5ae2b6796dfbacdc7d9387b0a1738bd2c34",
+    "trader_name": "BobbyWithoutOrgans",
+    "tag": "Overall",
+    "overall_gain": 6047.606613956464,
+    "active_positions": 2,
+    "win_amount": 13351.033094,
+    "loss_amount": -7303.4264800435385,
+    "win_rate": 0.614065180102916,
+    "total_current_value": 140.925132,
+    "total_positions": 2303,
+    "event_ct": 1166,
+    "win_count": 716,
+    "rank": 15912,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
