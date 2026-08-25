@@ -750,5 +750,21 @@
     "win_count": 1,
     "rank": 547,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0xe0368af7f5777989b927b7ad0d420562fee8616c",
+    "trader_name": "unwillingly-public",
+    "tag": "Overall",
+    "overall_gain": 232851.31712600728,
+    "active_positions": 7,
+    "win_amount": 276363.71751556854,
+    "loss_amount": -43512.400389561226,
+    "win_rate": 0.7214285714285714,
+    "total_current_value": 190222.992380785,
+    "total_positions": 224,
+    "event_ct": 140,
+    "win_count": 101,
+    "rank": 548,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
   }
 ]
