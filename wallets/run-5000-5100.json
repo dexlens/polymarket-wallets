@@ -1518,5 +1518,21 @@
     "win_count": 1,
     "rank": 5095,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0xb058a52501e3e841506fef66252c93eb27fee380",
+    "trader_name": "mingzi",
+    "tag": "Overall",
+    "overall_gain": 21279.294018720007,
+    "active_positions": 2,
+    "win_amount": 21299.272522920008,
+    "loss_amount": -19.978504200000003,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 17.87097925,
+    "total_positions": 36,
+    "event_ct": 36,
+    "win_count": 28,
+    "rank": 5096,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
