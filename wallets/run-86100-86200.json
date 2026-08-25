@@ -590,5 +590,21 @@
     "win_count": 70,
     "rank": 86138,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x305bda339218d7049133587b7fa185ca8e9550d8",
+    "trader_name": "alpaca.patcher",
+    "tag": "Overall",
+    "overall_gain": 537.5778258299999,
+    "active_positions": 66,
+    "win_amount": 3706.2357190000007,
+    "loss_amount": -3168.6578931699996,
+    "win_rate": 0.797752808988764,
+    "total_current_value": 0,
+    "total_positions": 357,
+    "event_ct": 356,
+    "win_count": 284,
+    "rank": 86139,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
