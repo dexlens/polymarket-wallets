@@ -1038,5 +1038,21 @@
     "win_count": 2,
     "rank": 44566,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54f27e3073d1557370faadc72bb4e07717b7d0e3",
+    "trader_name": "Wesson",
+    "tag": "Overall",
+    "overall_gain": 1733.4494886190346,
+    "active_positions": 34,
+    "win_amount": 23944.632850221453,
+    "loss_amount": -22211.183361602416,
+    "win_rate": 0.3968253968253968,
+    "total_current_value": 0.3553560000000001,
+    "total_positions": 286,
+    "event_ct": 252,
+    "win_count": 100,
+    "rank": 44567,
+    "trader_tags": ""
   }
 ]
