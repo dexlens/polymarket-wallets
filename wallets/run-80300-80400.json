@@ -638,5 +638,21 @@
     "win_count": 2,
     "rank": 80341,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64b97669fe9195363125abcd90c436ce945722e4",
+    "trader_name": "hailiestark",
+    "tag": "Overall",
+    "overall_gain": 625.0250000000001,
+    "active_positions": 1,
+    "win_amount": 718.3,
+    "loss_amount": -93.27499999999986,
+    "win_rate": 0.5,
+    "total_current_value": 1212.575,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 80342,
+    "trader_tags": "> 1 year old"
   }
 ]
