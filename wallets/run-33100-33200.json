@@ -1086,5 +1086,21 @@
     "win_count": 10,
     "rank": 33169,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x469111af448ca35de21d09bf82ba74d544c3997e",
+    "trader_name": "irysdh",
+    "tag": "Overall",
+    "overall_gain": 2490.9088990000005,
+    "active_positions": 2,
+    "win_amount": 2660.201819000001,
+    "loss_amount": -169.29292,
+    "win_rate": 0.9333333333333333,
+    "total_current_value": 150.81,
+    "total_positions": 32,
+    "event_ct": 30,
+    "win_count": 28,
+    "rank": 33170,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
