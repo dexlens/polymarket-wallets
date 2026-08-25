@@ -1294,5 +1294,21 @@
     "win_count": 3,
     "rank": 43082,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa2eea50e51326a8324c35b3d9918d99a8d292693",
+    "trader_name": "swappyui",
+    "tag": "Overall",
+    "overall_gain": 1815,
+    "active_positions": 1,
+    "win_amount": 1915,
+    "loss_amount": -100,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 43083,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
