@@ -686,5 +686,21 @@
     "win_count": 33,
     "rank": 10343,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc57896663b72920083ba44fafb8f7d1b2bde2754",
+    "trader_name": "Linda1Wilson",
+    "tag": "Overall",
+    "overall_gain": 10164.513734,
+    "active_positions": 0,
+    "win_amount": 31507.753336999995,
+    "loss_amount": -21343.239603000005,
+    "win_rate": 0.6147540983606558,
+    "total_current_value": 0,
+    "total_positions": 244,
+    "event_ct": 244,
+    "win_count": 150,
+    "rank": 10344,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
