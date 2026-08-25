@@ -734,5 +734,21 @@
     "win_count": 2,
     "rank": 82447,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x06bcf69cbd8f2c9df71f0e7649f1cc461cbf72e5",
+    "trader_name": "youjiawen",
+    "tag": "Overall",
+    "overall_gain": 591.1356591000002,
+    "active_positions": 0,
+    "win_amount": 591.1356591000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0001,
+    "total_positions": 139,
+    "event_ct": 134,
+    "win_count": 134,
+    "rank": 82448,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
