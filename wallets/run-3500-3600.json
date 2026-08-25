@@ -734,5 +734,21 @@
     "win_count": 30694,
     "rank": 3546,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x7b5df2b7094e16fa7eea6c5b0419b1d3d54c7a01",
+    "trader_name": "bscrypto",
+    "tag": "Overall",
+    "overall_gain": 32130.84206189555,
+    "active_positions": 4,
+    "win_amount": 32130.84206189555,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 103773.90115959001,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 3547,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
