@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 9724,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xb12897c1a963e73a3e1682398c03fce18d57cf58",
+    "trader_name": "Cherut",
+    "tag": "Overall",
+    "overall_gain": 10772.591958795037,
+    "active_positions": 15,
+    "win_amount": 15854.86695398545,
+    "loss_amount": -5082.27499519041,
+    "win_rate": 0.5428571428571428,
+    "total_current_value": 57641.37523480001,
+    "total_positions": 58,
+    "event_ct": 35,
+    "win_count": 19,
+    "rank": 9725,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
