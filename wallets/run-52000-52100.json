@@ -766,5 +766,21 @@
     "win_count": 8,
     "rank": 52049,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x14373471da76e1d15d983a690839c5abb291bf43",
+    "trader_name": "vvfyuuk",
+    "tag": "Overall",
+    "overall_gain": 1389.980504966,
+    "active_positions": 2,
+    "win_amount": 1649.193304966,
+    "loss_amount": -259.2128,
+    "win_rate": 0.967741935483871,
+    "total_current_value": 139.279654,
+    "total_positions": 33,
+    "event_ct": 31,
+    "win_count": 30,
+    "rank": 52050,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
