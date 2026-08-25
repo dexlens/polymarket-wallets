@@ -1214,5 +1214,21 @@
     "win_count": 9,
     "rank": 78677,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x1096619b294af2b685b3983a06a1511b51e07993",
+    "trader_name": "openseason",
+    "tag": "Overall",
+    "overall_gain": 652.681060739254,
+    "active_positions": 9,
+    "win_amount": 728.5083342561768,
+    "loss_amount": -75.82727351692299,
+    "win_rate": 0.6829268292682927,
+    "total_current_value": 691.8630865499996,
+    "total_positions": 49,
+    "event_ct": 41,
+    "win_count": 28,
+    "rank": 78678,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
