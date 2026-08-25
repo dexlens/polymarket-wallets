@@ -1518,5 +1518,21 @@
     "win_count": 30,
     "rank": 15895,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x89aad1394d671327472439caea5b95f2f4f37f4c",
+    "trader_name": "HJDLC",
+    "tag": "Overall",
+    "overall_gain": 6056.702,
+    "active_positions": 3,
+    "win_amount": 6173.002,
+    "loss_amount": -116.3,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 25,
+    "total_positions": 18,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 15896,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
