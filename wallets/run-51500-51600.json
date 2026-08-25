@@ -1310,5 +1310,21 @@
     "win_count": 9,
     "rank": 51583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16e52bc27e691c98cffbb61dfc4cc694a377743a",
+    "trader_name": "kvbling",
+    "tag": "Overall",
+    "overall_gain": 1411.7298312585788,
+    "active_positions": 6,
+    "win_amount": 2784.21132482857,
+    "loss_amount": -1372.481493569991,
+    "win_rate": 0.7058823529411765,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 17,
+    "win_count": 12,
+    "rank": 51584,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
