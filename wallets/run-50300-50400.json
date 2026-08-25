@@ -558,5 +558,21 @@
     "win_count": 9,
     "rank": 50336,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18ff146fc16fa0da34ce6ffd43ff376494981721",
+    "trader_name": "bafdba",
+    "tag": "Overall",
+    "overall_gain": 1469.691687,
+    "active_positions": 2,
+    "win_amount": 2686.355687,
+    "loss_amount": -1216.664,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 892.94985,
+    "total_positions": 25,
+    "event_ct": 24,
+    "win_count": 16,
+    "rank": 50337,
+    "trader_tags": ""
   }
 ]
