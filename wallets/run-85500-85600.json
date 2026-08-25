@@ -46,5 +46,21 @@
     "win_count": 38,
     "rank": 85504,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x92240c88a1c6c9afadca6973608e5d43ad621d3d",
+    "trader_name": "ApeSnek",
+    "tag": "Overall",
+    "overall_gain": 545.2360272105014,
+    "active_positions": 3445,
+    "win_amount": 10428.84270389944,
+    "loss_amount": -9883.606676688936,
+    "win_rate": 0.7851352986248337,
+    "total_current_value": 14.993575402499998,
+    "total_positions": 26776,
+    "event_ct": 24797,
+    "win_count": 19469,
+    "rank": 85505,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
