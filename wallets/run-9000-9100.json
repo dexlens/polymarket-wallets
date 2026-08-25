@@ -302,5 +302,21 @@
     "win_count": 23,
     "rank": 9019,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd6aa0ecab55b24559b54ff5c2348d77a1e9a9b5d",
+    "trader_name": "tjonk",
+    "tag": "Overall",
+    "overall_gain": 11622.589391140946,
+    "active_positions": 0,
+    "win_amount": 18233.57986938147,
+    "loss_amount": -6610.990478240528,
+    "win_rate": 0.6226937269372693,
+    "total_current_value": 0.09262899999999999,
+    "total_positions": 2135,
+    "event_ct": 1084,
+    "win_count": 675,
+    "rank": 9020,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
