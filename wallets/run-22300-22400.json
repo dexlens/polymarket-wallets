@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 22321,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa03ab36e37f6bd8b778ef728289b3286346fa243",
+    "trader_name": "tfyl",
+    "tag": "Overall",
+    "overall_gain": 4048.9290451346083,
+    "active_positions": 5,
+    "win_amount": 5949.503964741159,
+    "loss_amount": -1900.5749196065499,
+    "win_rate": 0.4666666666666667,
+    "total_current_value": 553.06955912,
+    "total_positions": 23,
+    "event_ct": 15,
+    "win_count": 7,
+    "rank": 22322,
+    "trader_tags": "> 1 year old"
   }
 ]
