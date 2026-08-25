@@ -814,5 +814,21 @@
     "win_count": 11,
     "rank": 15751,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73ff20b1b59f8b32e717b69387d7db2c16177014",
+    "trader_name": "lvgood",
+    "tag": "Overall",
+    "overall_gain": 6115.357422620972,
+    "active_positions": 8449,
+    "win_amount": 24522.73330119448,
+    "loss_amount": -18407.37587857349,
+    "win_rate": 0.03637195470662244,
+    "total_current_value": 0,
+    "total_positions": 9020,
+    "event_ct": 8743,
+    "win_count": 318,
+    "rank": 15752,
+    "trader_tags": "1k+ Positions"
   }
 ]
