@@ -302,5 +302,21 @@
     "win_count": 64,
     "rank": 6519,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xebd832bea2a5a8a61ca86505b0f59221a04d570c",
+    "trader_name": "ferus",
+    "tag": "Overall",
+    "overall_gain": 16445.715264335,
+    "active_positions": 3,
+    "win_amount": 117576.15894799998,
+    "loss_amount": -101130.44368366498,
+    "win_rate": 0.5318761384335154,
+    "total_current_value": 0,
+    "total_positions": 918,
+    "event_ct": 549,
+    "win_count": 292,
+    "rank": 6520,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
