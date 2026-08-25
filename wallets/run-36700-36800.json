@@ -574,5 +574,21 @@
     "win_count": 5,
     "rank": 36737,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e806ebc0d5826c377a674d0bd401ab8dde230e2",
+    "trader_name": "xiaodouzi",
+    "tag": "Overall",
+    "overall_gain": 2208.4511873113765,
+    "active_positions": 3509,
+    "win_amount": 4853.031255655047,
+    "loss_amount": -2644.5800683436714,
+    "win_rate": 0.16835443037974684,
+    "total_current_value": 266.61753389549995,
+    "total_positions": 3695,
+    "event_ct": 790,
+    "win_count": 133,
+    "rank": 36738,
+    "trader_tags": "1k+ Positions"
   }
 ]
