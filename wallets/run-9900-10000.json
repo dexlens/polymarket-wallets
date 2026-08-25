@@ -1326,5 +1326,21 @@
     "win_count": 10,
     "rank": 9983,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x2b5ee2f7ed097ed3d679fefa40a1fbef084e0d89",
+    "trader_name": "Geylang",
+    "tag": "Overall",
+    "overall_gain": 10495.162998024869,
+    "active_positions": 1,
+    "win_amount": 10598.739418,
+    "loss_amount": -103.57641997513,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 9,
+    "win_count": 7,
+    "rank": 9984,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
