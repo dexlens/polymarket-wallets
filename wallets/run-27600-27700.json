@@ -894,5 +894,21 @@
     "win_count": 171,
     "rank": 27657,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x55054bf5e567d9c336bcb8f3b62bdbb2bc1ab707",
+    "trader_name": "cxcbsyr",
+    "tag": "Overall",
+    "overall_gain": 3110.7760301600647,
+    "active_positions": 3,
+    "win_amount": 3966.614800860065,
+    "loss_amount": -855.8387706999999,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 123.710065,
+    "total_positions": 25,
+    "event_ct": 24,
+    "win_count": 22,
+    "rank": 27658,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
