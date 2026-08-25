@@ -1502,5 +1502,21 @@
     "win_count": 2,
     "rank": 83795,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4ab038f3a0c3d07c9ec389c7397ae08a76ac8ef0",
+    "trader_name": "Bezi077",
+    "tag": "Overall",
+    "overall_gain": 569.4967083591821,
+    "active_positions": 1,
+    "win_amount": 569.4967083591821,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 101.090303,
+    "total_positions": 44,
+    "event_ct": 42,
+    "win_count": 42,
+    "rank": 83796,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
