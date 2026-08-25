@@ -974,5 +974,21 @@
     "win_count": 63,
     "rank": 50962,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6f715128d0522a7fa875b69baff981f17be72cdb",
+    "trader_name": "thirdjob",
+    "tag": "Overall",
+    "overall_gain": 1441.011843,
+    "active_positions": 2,
+    "win_amount": 1788.711843,
+    "loss_amount": -347.7,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 5.015,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 50963,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
