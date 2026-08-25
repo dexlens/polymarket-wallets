@@ -206,5 +206,21 @@
     "win_count": 85,
     "rank": 5013,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x19cd0abbc325290437eeed66b14d4aae04b3997a",
+    "trader_name": "daan04",
+    "tag": "Overall",
+    "overall_gain": 21604.899759700183,
+    "active_positions": 26,
+    "win_amount": 42252.049677129995,
+    "loss_amount": -20647.14991742982,
+    "win_rate": 0.5121951219512195,
+    "total_current_value": 1195.516593,
+    "total_positions": 43,
+    "event_ct": 41,
+    "win_count": 21,
+    "rank": 5014,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
