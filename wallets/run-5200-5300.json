@@ -350,5 +350,21 @@
     "win_count": 2,
     "rank": 5222,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x042a1caf0b0d51d4fe5abc5d8832c2c9a5ffb153",
+    "trader_name": "PootumVV",
+    "tag": "Overall",
+    "overall_gain": 20751.52324371518,
+    "active_positions": 70,
+    "win_amount": 23239.607370986116,
+    "loss_amount": -2488.0841272709276,
+    "win_rate": 0.24719101123595505,
+    "total_current_value": 658.3680347439998,
+    "total_positions": 130,
+    "event_ct": 89,
+    "win_count": 22,
+    "rank": 5223,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
