@@ -606,5 +606,21 @@
     "win_count": 11,
     "rank": 35839,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c2ffbdbac458089b8d14031ccc54da9c58bde0c",
+    "trader_name": "windmark",
+    "tag": "Overall",
+    "overall_gain": 2273.64473738229,
+    "active_positions": 11,
+    "win_amount": 8364.035516879174,
+    "loss_amount": -6090.390779496886,
+    "win_rate": 0.5553602811950791,
+    "total_current_value": 38.420287,
+    "total_positions": 790,
+    "event_ct": 569,
+    "win_count": 316,
+    "rank": 35840,
+    "trader_tags": ""
   }
 ]
