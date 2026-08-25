@@ -446,5 +446,21 @@
     "win_count": 3,
     "rank": 5628,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25894d2827b5e312eff55e7000be83c7027febd2",
+    "trader_name": "Joker116",
+    "tag": "Overall",
+    "overall_gain": 19153.65676071749,
+    "active_positions": 12,
+    "win_amount": 21377.683899972875,
+    "loss_amount": -2224.027139255381,
+    "win_rate": 0.5897435897435898,
+    "total_current_value": 11758.2213151215,
+    "total_positions": 58,
+    "event_ct": 39,
+    "win_count": 23,
+    "rank": 5629,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
