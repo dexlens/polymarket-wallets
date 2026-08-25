@@ -1310,5 +1310,21 @@
     "win_count": 25,
     "rank": 9182,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xdd565269daaf4072a47b4a376b0ed9272749d1cf",
+    "trader_name": "CramSchool00000",
+    "tag": "Overall",
+    "overall_gain": 11416.393900085804,
+    "active_positions": 228,
+    "win_amount": 38857.78560990708,
+    "loss_amount": -27441.391709821277,
+    "win_rate": 0.6246200607902735,
+    "total_current_value": 191.05653900000001,
+    "total_positions": 780,
+    "event_ct": 658,
+    "win_count": 411,
+    "rank": 9183,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
