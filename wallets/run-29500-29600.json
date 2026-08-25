@@ -366,5 +366,21 @@
     "win_count": 5,
     "rank": 29524,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9686688f2a23450729aabf522c159808c8f9fc76",
+    "trader_name": "hgdvcbgtrfv",
+    "tag": "Overall",
+    "overall_gain": 2878.1088320000053,
+    "active_positions": 34,
+    "win_amount": 14810.087234000006,
+    "loss_amount": -11931.978401999995,
+    "win_rate": 0.940149625935162,
+    "total_current_value": 9.17,
+    "total_positions": 5737,
+    "event_ct": 5614,
+    "win_count": 5278,
+    "rank": 29525,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
