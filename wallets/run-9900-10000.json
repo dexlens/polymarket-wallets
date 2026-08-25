@@ -1086,5 +1086,21 @@
     "win_count": 7,
     "rank": 9968,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1d99278b2e3d159101c9f3d3f0396b765a1e91af",
+    "trader_name": "geerwan",
+    "tag": "Overall",
+    "overall_gain": 10516.35444808675,
+    "active_positions": 11,
+    "win_amount": 19573.815748567325,
+    "loss_amount": -9057.461300480572,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.020477000000000002,
+    "total_positions": 55,
+    "event_ct": 33,
+    "win_count": 15,
+    "rank": 9969,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
