@@ -78,5 +78,21 @@
     "win_count": 1,
     "rank": 41706,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe8927c79ef811110c57bb0943e46e431441e58ef",
+    "trader_name": "Carlsen",
+    "tag": "Overall",
+    "overall_gain": 1892.5889060000002,
+    "active_positions": 0,
+    "win_amount": 1901.146396,
+    "loss_amount": -8.55749,
+    "win_rate": 0.3,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 10,
+    "win_count": 3,
+    "rank": 41707,
+    "trader_tags": "> 1 year old"
   }
 ]
