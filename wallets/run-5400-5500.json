@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 5466,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf41a50dd466780103a8311c9d91bea20753db386",
+    "trader_name": "kittie",
+    "tag": "Overall",
+    "overall_gain": 19769.959859961353,
+    "active_positions": 12,
+    "win_amount": 107548.29516288439,
+    "loss_amount": -87778.33530292305,
+    "win_rate": 0.4074074074074074,
+    "total_current_value": 0.162685,
+    "total_positions": 28,
+    "event_ct": 27,
+    "win_count": 11,
+    "rank": 5467,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
