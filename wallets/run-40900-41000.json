@@ -110,5 +110,21 @@
     "win_count": 3,
     "rank": 40908,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a8ffc65b2597259672fa8d34fb40eb0675fd72e",
+    "trader_name": "cryptogeo",
+    "tag": "Overall",
+    "overall_gain": 1939.2986390155552,
+    "active_positions": 9,
+    "win_amount": 3067.7517980000002,
+    "loss_amount": -1128.453158984445,
+    "win_rate": 0.3,
+    "total_current_value": 126.5350562425,
+    "total_positions": 15,
+    "event_ct": 10,
+    "win_count": 3,
+    "rank": 40909,
+    "trader_tags": ""
   }
 ]
