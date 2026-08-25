@@ -1278,5 +1278,21 @@
     "win_count": 36,
     "rank": 7280,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x7e5e420a5cde8a322f3b5b93a12a164827f47315",
+    "trader_name": "StasPanda",
+    "tag": "Overall",
+    "overall_gain": 14673.352351373114,
+    "active_positions": 64,
+    "win_amount": 86509.9000567615,
+    "loss_amount": -71836.54770538838,
+    "win_rate": 0.5818181818181818,
+    "total_current_value": 36772.909790656995,
+    "total_positions": 230,
+    "event_ct": 165,
+    "win_count": 96,
+    "rank": 7281,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
