@@ -1566,5 +1566,21 @@
     "win_count": 3,
     "rank": 72499,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe8e7f2eb64a5240fc80462fa802abff42b8710c0",
+    "trader_name": "F1NBA",
+    "tag": "Overall",
+    "overall_gain": 755.2602928856609,
+    "active_positions": 23,
+    "win_amount": 3336.0147139651076,
+    "loss_amount": -2580.754421079447,
+    "win_rate": 0.6739130434782609,
+    "total_current_value": 282.09675841949996,
+    "total_positions": 124,
+    "event_ct": 92,
+    "win_count": 62,
+    "rank": 72500,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
