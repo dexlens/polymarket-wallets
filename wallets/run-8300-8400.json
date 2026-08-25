@@ -1566,5 +1566,21 @@
     "win_count": 11,
     "rank": 8398,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xc13d26a8df1c460179fd10d192587ba24039424e",
+    "trader_name": "0xzhaochao",
+    "tag": "Overall",
+    "overall_gain": 12468.717160490001,
+    "active_positions": 2,
+    "win_amount": 13531.180411,
+    "loss_amount": -1062.4632505099999,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 8399,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
