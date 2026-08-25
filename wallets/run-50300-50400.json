@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 50391,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xe6f3c99c9f495a3a0b3a799865d3054e8ec8db95",
+    "trader_name": "Anyr",
+    "tag": "Overall",
+    "overall_gain": 1467.267667959833,
+    "active_positions": 0,
+    "win_amount": 1467.281117959833,
+    "loss_amount": -0.01345,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.001167,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 50392,
+    "trader_tags": "> 1 year old"
   }
 ]
