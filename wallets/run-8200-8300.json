@@ -846,5 +846,21 @@
     "win_count": 11,
     "rank": 8253,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x401ee31e9ebf9ab9f6315cd95faca5f950436fc9",
+    "trader_name": "Lolakis",
+    "tag": "Overall",
+    "overall_gain": 12750.615417086054,
+    "active_positions": 14,
+    "win_amount": 48407.69576344233,
+    "loss_amount": -35657.08034635626,
+    "win_rate": 0.5499181669394435,
+    "total_current_value": 11232.7950679915,
+    "total_positions": 1234,
+    "event_ct": 611,
+    "win_count": 336,
+    "rank": 8254,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
