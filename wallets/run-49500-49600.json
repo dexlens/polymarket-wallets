@@ -1582,5 +1582,21 @@
     "win_count": 1,
     "rank": 49600,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x3e434b7ee14a6d45b2204cd564f10aed2e8e18a1",
+    "trader_name": "gabozzzzzzzzzov",
+    "tag": "Overall",
+    "overall_gain": 1500.3460462739724,
+    "active_positions": 1,
+    "win_amount": 2441.7090154612943,
+    "loss_amount": -941.362969187322,
+    "win_rate": 0.7814070351758794,
+    "total_current_value": 196.12067161800007,
+    "total_positions": 780,
+    "event_ct": 398,
+    "win_count": 311,
+    "rank": 49601,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
