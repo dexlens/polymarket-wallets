@@ -1438,5 +1438,21 @@
     "win_count": 239,
     "rank": 90,
     "trader_tags": "Overall PnL > $1m; < 30 days old; 1k+ Positions; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x8b5a7da2fdf239b51b9c68a2a1a35bb156d200f2",
+    "trader_name": "Joe-Biden",
+    "tag": "Overall",
+    "overall_gain": 1081993.2031635067,
+    "active_positions": 62,
+    "win_amount": 3137987.641023904,
+    "loss_amount": -2055994.4378603962,
+    "win_rate": 0.38073394495412843,
+    "total_current_value": 93719.67781262599,
+    "total_positions": 305,
+    "event_ct": 218,
+    "win_count": 83,
+    "rank": 91,
+    "trader_tags": "Overall PnL > $1m; > 1 year old; Politics PnL > $100k; Sports PnL > $100k"
   }
 ]
