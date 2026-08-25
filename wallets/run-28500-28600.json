@@ -478,5 +478,21 @@
     "win_count": 49,
     "rank": 28531,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xee5ad0395370a941c3ab25fff3be41d7c8329c32",
+    "trader_name": "JillRosalind",
+    "tag": "Overall",
+    "overall_gain": 3000.216723343048,
+    "active_positions": 7,
+    "win_amount": 6500.216723343048,
+    "loss_amount": -3500,
+    "win_rate": 0.7083333333333334,
+    "total_current_value": 0.015047999999999999,
+    "total_positions": 28,
+    "event_ct": 24,
+    "win_count": 17,
+    "rank": 28532,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
