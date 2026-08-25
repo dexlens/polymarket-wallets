@@ -1134,5 +1134,21 @@
     "win_count": 3,
     "rank": 87372,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7314be2a7221a10f60c6b192489c13798b921156",
+    "trader_name": "xjohnraiii",
+    "tag": "Overall",
+    "overall_gain": 520.660674448813,
+    "active_positions": 157,
+    "win_amount": 1870.8920825851426,
+    "loss_amount": -1350.2314081363297,
+    "win_rate": 0.5223577235772358,
+    "total_current_value": 50.71866900000001,
+    "total_positions": 562,
+    "event_ct": 492,
+    "win_count": 257,
+    "rank": 87373,
+    "trader_tags": "< 30 days old"
   }
 ]
