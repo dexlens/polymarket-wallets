@@ -398,5 +398,21 @@
     "win_count": 3,
     "rank": 72726,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64032d42be5840f23d882c90c0d3056836759657",
+    "trader_name": "Kts57pmarket",
+    "tag": "Overall",
+    "overall_gain": 750,
+    "active_positions": 1,
+    "win_amount": 750,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1350,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 72727,
+    "trader_tags": "Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
