@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 62697,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x54cf77bb7cb700691140288c3361368c9c7bbea6",
+    "trader_name": "Hazelhkd",
+    "tag": "Overall",
+    "overall_gain": 1004.99971103,
+    "active_positions": 1,
+    "win_amount": 1005.41283503,
+    "loss_amount": -0.41312399999999966,
+    "win_rate": 0.5,
+    "total_current_value": 2.6829980000000004,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 62698,
+    "trader_tags": "> 1 year old"
   }
 ]
