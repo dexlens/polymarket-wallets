@@ -1230,5 +1230,21 @@
     "win_count": 17,
     "rank": 11777,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a79e83ccb6b3c58b4730eeabb9115101f0f6296",
+    "trader_name": "Goopster",
+    "tag": "Overall",
+    "overall_gain": 8797.053320743978,
+    "active_positions": 38,
+    "win_amount": 36091.60874971573,
+    "loss_amount": -27294.555428971733,
+    "win_rate": 0.8434782608695652,
+    "total_current_value": 41259.59099321949,
+    "total_positions": 341,
+    "event_ct": 230,
+    "win_count": 194,
+    "rank": 11778,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
