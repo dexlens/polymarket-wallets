@@ -142,5 +142,21 @@
     "win_count": 2,
     "rank": 63310,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f2ea878eece1493f887f6ad99fd41cbe68a1730",
+    "trader_name": "tersov",
+    "tag": "Overall",
+    "overall_gain": 992.9215855704738,
+    "active_positions": 3,
+    "win_amount": 8940.070736570471,
+    "loss_amount": -7947.149151,
+    "win_rate": 0.4920828258221681,
+    "total_current_value": 3.2132970000000003,
+    "total_positions": 1597,
+    "event_ct": 821,
+    "win_count": 404,
+    "rank": 63311,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
