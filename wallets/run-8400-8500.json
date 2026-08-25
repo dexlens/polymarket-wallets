@@ -318,5 +318,21 @@
     "win_count": 234,
     "rank": 8420,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1fcdf36901d30792b3231e49882d0d362d39d059",
+    "trader_name": "b-kz32",
+    "tag": "Overall",
+    "overall_gain": 12435.73399014999,
+    "active_positions": 2,
+    "win_amount": 12487.225305999993,
+    "loss_amount": -51.49131585000001,
+    "win_rate": 0.9914675767918089,
+    "total_current_value": 0.05,
+    "total_positions": 586,
+    "event_ct": 586,
+    "win_count": 581,
+    "rank": 8421,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
