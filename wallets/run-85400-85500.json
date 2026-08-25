@@ -1150,5 +1150,21 @@
     "win_count": 1,
     "rank": 85473,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x21b48e8e2daa01f531fff08b62f2b4df6cff1f06",
+    "trader_name": "proposal123",
+    "tag": "Overall",
+    "overall_gain": 545.621194364,
+    "active_positions": 4,
+    "win_amount": 545.6561943639999,
+    "loss_amount": -0.03500000000000014,
+    "win_rate": 0.9983164983164983,
+    "total_current_value": 264.89883199999997,
+    "total_positions": 1035,
+    "event_ct": 594,
+    "win_count": 593,
+    "rank": 85474,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
