@@ -1006,5 +1006,21 @@
     "win_count": 1,
     "rank": 3063,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x8059f99b1fd83e462a5fc72e1126ddbecc136936",
+    "trader_name": "HiCryptoGod",
+    "tag": "Overall",
+    "overall_gain": 37460.16091332237,
+    "active_positions": 0,
+    "win_amount": 38174.76853089906,
+    "loss_amount": -714.6076175766942,
+    "win_rate": 0.875,
+    "total_current_value": 0.039869,
+    "total_positions": 17,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 3064,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
