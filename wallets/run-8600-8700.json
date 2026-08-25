@@ -1374,5 +1374,21 @@
     "win_count": 1,
     "rank": 8686,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x2de0b68d0f0fd9685199912598debb44e7069869",
+    "trader_name": "Wryndalis",
+    "tag": "Overall",
+    "overall_gain": 12065.792308517182,
+    "active_positions": 0,
+    "win_amount": 12818.092308517182,
+    "loss_amount": -752.3,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 0.00018199999999999998,
+    "total_positions": 42,
+    "event_ct": 42,
+    "win_count": 39,
+    "rank": 8687,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
