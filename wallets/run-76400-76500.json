@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 76449,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70aaa976cd662bcd2e604ae8bd4eb89697358945",
+    "trader_name": "usernameDream",
+    "tag": "Overall",
+    "overall_gain": 691.399036884545,
+    "active_positions": 1,
+    "win_amount": 771.284933188738,
+    "loss_amount": -79.885896304193,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 0.07072,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 11,
+    "rank": 76450,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
