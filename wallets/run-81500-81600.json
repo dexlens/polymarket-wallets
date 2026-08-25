@@ -1150,5 +1150,21 @@
     "win_count": 10,
     "rank": 81573,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x85d88b07d65fdfc39a80f43cbb6b42ff1a615d70",
+    "trader_name": "centrifuges",
+    "tag": "Overall",
+    "overall_gain": 605.0081299999999,
+    "active_positions": 1,
+    "win_amount": 676.00301,
+    "loss_amount": -70.99488000000001,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 11,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 81574,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
