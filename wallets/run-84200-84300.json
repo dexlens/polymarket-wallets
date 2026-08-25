@@ -990,5 +990,21 @@
     "win_count": 31,
     "rank": 84263,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe7b438e4c23b4438e6e6a83439536e3de89f6eeb",
+    "trader_name": "ericfbc",
+    "tag": "Overall",
+    "overall_gain": 562.7056991374191,
+    "active_positions": 3,
+    "win_amount": 695.0664557638531,
+    "loss_amount": -132.360756626434,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 13681.710056717002,
+    "total_positions": 29,
+    "event_ct": 14,
+    "win_count": 12,
+    "rank": 84264,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
