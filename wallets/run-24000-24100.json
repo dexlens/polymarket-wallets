@@ -1422,5 +1422,21 @@
     "win_count": 4,
     "rank": 24090,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x486a739419c57f9e83bbb309aafadb54ff31a13f",
+    "trader_name": "ZenCatCap419",
+    "tag": "Overall",
+    "overall_gain": 3703.5384000000004,
+    "active_positions": 6,
+    "win_amount": 5412,
+    "loss_amount": -1708.4616,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 13,
+    "rank": 24091,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
