@@ -1582,5 +1582,21 @@
     "win_count": 2,
     "rank": 52500,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xebaa06c05b7437c69fb1d7252ec02a872305992e",
+    "trader_name": "Laprom",
+    "tag": "Overall",
+    "overall_gain": 1369.5031430000001,
+    "active_positions": 5,
+    "win_amount": 5130.500035000001,
+    "loss_amount": -3760.996892,
+    "win_rate": 0.8125,
+    "total_current_value": 256.4821,
+    "total_positions": 34,
+    "event_ct": 32,
+    "win_count": 26,
+    "rank": 52501,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
