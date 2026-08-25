@@ -606,5 +606,21 @@
     "win_count": 3,
     "rank": 24739,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0824d421b549f35f1dc0fc4ff20b8b9015c61e48",
+    "trader_name": "FHFDLHGH",
+    "tag": "Overall",
+    "overall_gain": 3589.4126300000003,
+    "active_positions": 19,
+    "win_amount": 7722.941640000001,
+    "loss_amount": -4133.529009999999,
+    "win_rate": 0.578125,
+    "total_current_value": 8.7,
+    "total_positions": 64,
+    "event_ct": 64,
+    "win_count": 37,
+    "rank": 24740,
+    "trader_tags": "> 1 year old"
   }
 ]
