@@ -622,5 +622,21 @@
     "win_count": 1,
     "rank": 58140,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2fd36ba6cc341294bbf0fe658fc711ca3f40230b",
+    "trader_name": "patadora",
+    "tag": "Overall",
+    "overall_gain": 1137.5,
+    "active_positions": 2,
+    "win_amount": 1137.5,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 15,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 58141,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
