@@ -62,5 +62,21 @@
     "win_count": 11,
     "rank": 20704,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb9aafda92c13b73c765494c32db012e34407ec83",
+    "trader_name": "Pot0fGreed",
+    "tag": "Overall",
+    "overall_gain": 4438.8562754186205,
+    "active_positions": 0,
+    "win_amount": 4442.15121241862,
+    "loss_amount": -3.294937,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.011142,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 20705,
+    "trader_tags": "< 30 days old"
   }
 ]
