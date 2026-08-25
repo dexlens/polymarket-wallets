@@ -414,5 +414,21 @@
     "win_count": 1981,
     "rank": 6026,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0xa3572980fcd8346f25b068144cff358eb3c01045",
+    "trader_name": "EuRoom",
+    "tag": "Overall",
+    "overall_gain": 17802.717214570806,
+    "active_positions": 8,
+    "win_amount": 50357.54015983649,
+    "loss_amount": -32554.822945265678,
+    "win_rate": 0.37037037037037035,
+    "total_current_value": 0.077506,
+    "total_positions": 250,
+    "event_ct": 135,
+    "win_count": 50,
+    "rank": 6027,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
