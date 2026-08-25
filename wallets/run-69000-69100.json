@@ -478,5 +478,21 @@
     "win_count": 3,
     "rank": 69031,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x27ed5a709c0cd680d565c02c8c96f19e59b757eb",
+    "trader_name": "clever-02-serried",
+    "tag": "Overall",
+    "overall_gain": 833.9899671,
+    "active_positions": 2,
+    "win_amount": 10205.462281000002,
+    "loss_amount": -9371.472313900002,
+    "win_rate": 0.5306553911205074,
+    "total_current_value": 76.4,
+    "total_positions": 538,
+    "event_ct": 473,
+    "win_count": 251,
+    "rank": 69032,
+    "trader_tags": ""
   }
 ]
