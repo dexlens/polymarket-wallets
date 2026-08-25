@@ -382,5 +382,21 @@
     "win_count": 1,
     "rank": 3424,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x9af199820e63b5d72ea50d4552db301361b6e242",
+    "trader_name": "HTcable",
+    "tag": "Overall",
+    "overall_gain": 33308.634827773654,
+    "active_positions": 13,
+    "win_amount": 33311.52314177365,
+    "loss_amount": -2.8883140000000003,
+    "win_rate": 0.9583333333333334,
+    "total_current_value": 17.782034129499998,
+    "total_positions": 70,
+    "event_ct": 24,
+    "win_count": 23,
+    "rank": 3425,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
