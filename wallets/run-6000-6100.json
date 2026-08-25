@@ -1086,5 +1086,21 @@
     "win_count": 21,
     "rank": 6068,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3d72b97baa92935d603357b2eb518d11049e8f96",
+    "trader_name": "Keenheart",
+    "tag": "Overall",
+    "overall_gain": 17674.61467180022,
+    "active_positions": 4,
+    "win_amount": 27622.694978,
+    "loss_amount": -9948.08030619978,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 4.85954924,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 8,
+    "rank": 6069,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
