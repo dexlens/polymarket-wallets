@@ -46,5 +46,21 @@
     "win_count": 5,
     "rank": 6003,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x18aae932df659eacf00babbc6898c8f84343f6ec",
+    "trader_name": "armand",
+    "tag": "Overall",
+    "overall_gain": 17861.49525911005,
+    "active_positions": 80,
+    "win_amount": 54305.20636207131,
+    "loss_amount": -36443.711102961264,
+    "win_rate": 0.5414634146341464,
+    "total_current_value": 10493.001413806498,
+    "total_positions": 356,
+    "event_ct": 205,
+    "win_count": 111,
+    "rank": 6004,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
