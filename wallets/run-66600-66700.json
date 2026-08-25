@@ -958,5 +958,21 @@
     "win_count": 1,
     "rank": 66661,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa5f4c7906de4779bc997601b77556296996febed",
+    "trader_name": "Yarborough",
+    "tag": "Overall",
+    "overall_gain": 898.3100000000001,
+    "active_positions": 0,
+    "win_amount": 898.3100000000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 66662,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
