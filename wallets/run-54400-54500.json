@@ -1486,5 +1486,21 @@
     "win_count": 3,
     "rank": 54494,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x718b93f386ebb7edb1b5ecb3ebf22c7cbc784e9e",
+    "trader_name": "Maxjoi",
+    "tag": "Overall",
+    "overall_gain": 1281.4457163550965,
+    "active_positions": 25,
+    "win_amount": 2595.397239739036,
+    "loss_amount": -1313.9515233839402,
+    "win_rate": 0.5445544554455446,
+    "total_current_value": 0.12180586,
+    "total_positions": 122,
+    "event_ct": 101,
+    "win_count": 55,
+    "rank": 54495,
+    "trader_tags": "> 1 year old"
   }
 ]
