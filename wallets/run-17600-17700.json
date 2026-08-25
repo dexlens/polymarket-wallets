@@ -318,5 +318,21 @@
     "win_count": 5,
     "rank": 17620,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1cdc418b72175a30ed94f7e8357771592343aa82",
+    "trader_name": "NFP",
+    "tag": "Overall",
+    "overall_gain": 5316.461788490218,
+    "active_positions": 3,
+    "win_amount": 5656.917721459159,
+    "loss_amount": -340.455932968941,
+    "win_rate": 0.5882352941176471,
+    "total_current_value": 2521.871702375,
+    "total_positions": 26,
+    "event_ct": 17,
+    "win_count": 10,
+    "rank": 17621,
+    "trader_tags": "> 1 year old"
   }
 ]
