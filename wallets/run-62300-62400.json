@@ -1134,5 +1134,21 @@
     "win_count": 11,
     "rank": 62372,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x92a2c583675b29b96c2b03cc683f6d17deff2370",
+    "trader_name": "WFV38",
+    "tag": "Overall",
+    "overall_gain": 1013.051033988628,
+    "active_positions": 1,
+    "win_amount": 1013.051033988628,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 10.128627999999999,
+    "total_positions": 26,
+    "event_ct": 26,
+    "win_count": 26,
+    "rank": 62373,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
