@@ -942,5 +942,21 @@
     "win_count": 17,
     "rank": 32360,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x08628ebc448f97450825e14ed3a79f45e5a6c7aa",
+    "trader_name": "John3501",
+    "tag": "Overall",
+    "overall_gain": 2564.826431233644,
+    "active_positions": 123,
+    "win_amount": 3548.796931336726,
+    "loss_amount": -983.9705001030809,
+    "win_rate": 0.7386363636363636,
+    "total_current_value": 2870.1764326619996,
+    "total_positions": 588,
+    "event_ct": 88,
+    "win_count": 65,
+    "rank": 32361,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
