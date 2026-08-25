@@ -414,5 +414,21 @@
     "win_count": 81,
     "rank": 67227,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd7b82ada8e7e52a2a8b17683f1b33537ab5ec1f7",
+    "trader_name": "TimeToWork",
+    "tag": "Overall",
+    "overall_gain": 882.85906960734,
+    "active_positions": 30,
+    "win_amount": 1180.0371112602031,
+    "loss_amount": -297.17804165286304,
+    "win_rate": 0.675,
+    "total_current_value": 0.03676,
+    "total_positions": 130,
+    "event_ct": 40,
+    "win_count": 27,
+    "rank": 67228,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
