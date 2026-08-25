@@ -638,5 +638,21 @@
     "win_count": 5,
     "rank": 4340,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfd144099a983b0cfdb88d0b89e0ca049fae22267",
+    "trader_name": "Divinev",
+    "tag": "Overall",
+    "overall_gain": 25611.823010383378,
+    "active_positions": 89,
+    "win_amount": 445244.93483339093,
+    "loss_amount": -419633.1118230077,
+    "win_rate": 0.37917329093799684,
+    "total_current_value": 13286.80858422,
+    "total_positions": 3470,
+    "event_ct": 2516,
+    "win_count": 954,
+    "rank": 4341,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
