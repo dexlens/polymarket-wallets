@@ -382,5 +382,21 @@
     "win_count": 3,
     "rank": 424,
     "trader_tags": "Overall PnL > $100k; < 30 days old; Crypto PnL > $100k"
+  },
+  {
+    "trader": "0x41e70a2195ac1a78f7a72445dcac2ce0e1e8de49",
+    "trader_name": "jft555",
+    "tag": "Overall",
+    "overall_gain": 299417.776138,
+    "active_positions": 0,
+    "win_amount": 374179.778399,
+    "loss_amount": -74762.002261,
+    "win_rate": 0.8235294117647058,
+    "total_current_value": 0,
+    "total_positions": 25,
+    "event_ct": 17,
+    "win_count": 14,
+    "rank": 425,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Sports PnL > $100k"
   }
 ]
