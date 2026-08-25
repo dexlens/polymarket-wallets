@@ -1422,5 +1422,21 @@
     "win_count": 1,
     "rank": 84890,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00f080abd064b1d07c6c4163fc3e73a72250f528",
+    "trader_name": "gasala",
+    "tag": "Overall",
+    "overall_gain": 553.8,
+    "active_positions": 1,
+    "win_amount": 573,
+    "loss_amount": -19.2,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 84891,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
