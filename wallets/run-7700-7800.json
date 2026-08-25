@@ -542,5 +542,21 @@
     "win_count": 43,
     "rank": 7734,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x92126aca1acb18a59f8f1cbdb85df05596de2ff6",
+    "trader_name": "RedBullZero",
+    "tag": "Overall",
+    "overall_gain": 13649.352422045853,
+    "active_positions": 0,
+    "win_amount": 27614.47612699501,
+    "loss_amount": -13965.123704949154,
+    "win_rate": 0.5263157894736842,
+    "total_current_value": 0.159765,
+    "total_positions": 188,
+    "event_ct": 95,
+    "win_count": 50,
+    "rank": 7735,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
