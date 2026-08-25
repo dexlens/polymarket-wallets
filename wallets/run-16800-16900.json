@@ -1294,5 +1294,21 @@
     "win_count": 5,
     "rank": 16881,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbc02bfcf13af2cd21e4238ae07255041bce11d1e",
+    "trader_name": "Lightlog",
+    "tag": "Overall",
+    "overall_gain": 5605.1,
+    "active_positions": 3,
+    "win_amount": 5744.1,
+    "loss_amount": -139,
+    "win_rate": 0.625,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 16882,
+    "trader_tags": ""
   }
 ]
