@@ -1582,5 +1582,21 @@
     "win_count": 3,
     "rank": 70000,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6ea57ae50b9e6821786bd1543f8b9e778c11516a",
+    "trader_name": "4ffw",
+    "tag": "Overall",
+    "overall_gain": 810.516507026572,
+    "active_positions": 0,
+    "win_amount": 1017.390033357093,
+    "loss_amount": -206.87352633052097,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 1.091026325,
+    "total_positions": 18,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 70001,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
