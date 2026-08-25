@@ -494,5 +494,21 @@
     "win_count": 10,
     "rank": 8331,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1f2c08b8b71bcd8508ef381ba1084861f498dcbb",
+    "trader_name": "0xChainWizard",
+    "tag": "Overall",
+    "overall_gain": 12601.476748489416,
+    "active_positions": 2,
+    "win_amount": 14705.634211601713,
+    "loss_amount": -2104.1574631122958,
+    "win_rate": 0.8217054263565892,
+    "total_current_value": 3.4772773949999984,
+    "total_positions": 163,
+    "event_ct": 129,
+    "win_count": 106,
+    "rank": 8332,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
