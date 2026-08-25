@@ -510,5 +510,21 @@
     "win_count": 4,
     "rank": 4232,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x78b290ff2d4f9bd4a4f7ffc6cfa987444da724ee",
+    "trader_name": "HLLee",
+    "tag": "Overall",
+    "overall_gain": 26426.29941645088,
+    "active_positions": 11,
+    "win_amount": 26427.566429883766,
+    "loss_amount": -1.2670134328879996,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 18.198181479,
+    "total_positions": 71,
+    "event_ct": 28,
+    "win_count": 26,
+    "rank": 4233,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
