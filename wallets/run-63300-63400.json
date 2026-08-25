@@ -1006,5 +1006,21 @@
     "win_count": 1,
     "rank": 63364,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11aad6321336b0fcff1096b88a0baeead9751bd9",
+    "trader_name": "devavatar",
+    "tag": "Overall",
+    "overall_gain": 990.8159045904863,
+    "active_positions": 6,
+    "win_amount": 1149.1642668904283,
+    "loss_amount": -158.34836229994198,
+    "win_rate": 0.5308641975308642,
+    "total_current_value": 39.794223745,
+    "total_positions": 88,
+    "event_ct": 81,
+    "win_count": 43,
+    "rank": 63365,
+    "trader_tags": "> 1 year old"
   }
 ]
