@@ -1502,5 +1502,21 @@
     "win_count": 20,
     "rank": 67795,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0dbc193d89a463b6f94c6a7297191d67e69fa1fb",
+    "trader_name": "DylanChilde",
+    "tag": "Overall",
+    "overall_gain": 866.6749753475639,
+    "active_positions": 1,
+    "win_amount": 1509.8564753475641,
+    "loss_amount": -643.1815,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 35.547781218000004,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 67796,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
