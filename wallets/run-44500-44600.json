@@ -286,5 +286,21 @@
     "win_count": 2,
     "rank": 44519,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdf1c2e388bde2fbacabaf85c75a6b69cc35e2ebb",
+    "trader_name": "BMM-1",
+    "tag": "Overall",
+    "overall_gain": 1736.2837718543358,
+    "active_positions": 1,
+    "win_amount": 1736.2837718543358,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 11644.155713,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 44520,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
