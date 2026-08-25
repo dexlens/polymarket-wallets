@@ -14,5 +14,21 @@
     "win_count": 50,
     "rank": 17001,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8cdaa6c64ce0d1c4fbb1501b5dd78dabeac22de5",
+    "trader_name": "Chianti",
+    "tag": "Overall",
+    "overall_gain": 5552.640812453728,
+    "active_positions": 3,
+    "win_amount": 14581.390826902201,
+    "loss_amount": -9028.750014448475,
+    "win_rate": 0.5625,
+    "total_current_value": 3328.6014461999994,
+    "total_positions": 17,
+    "event_ct": 16,
+    "win_count": 9,
+    "rank": 17002,
+    "trader_tags": ""
   }
 ]
