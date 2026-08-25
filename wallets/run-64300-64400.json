@@ -1262,5 +1262,21 @@
     "win_count": 9,
     "rank": 64380,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1e0aa9196b3cb8becabd5c1b0717a3c06917d9dd",
+    "trader_name": "Trezor55",
+    "tag": "Overall",
+    "overall_gain": 962.5250191455,
+    "active_positions": 1,
+    "win_amount": 962.5250191455,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1961.1549,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 64381,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
