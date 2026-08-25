@@ -1262,5 +1262,21 @@
     "win_count": 98,
     "rank": 22379,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xb4e7b844cdf994760c7f78e6aab746e7e7b32f09",
+    "trader_name": "SDFJSRTSRT",
+    "tag": "Overall",
+    "overall_gain": 4035.8547161544143,
+    "active_positions": 2,
+    "win_amount": 4052.3346820000006,
+    "loss_amount": -16.479965845586,
+    "win_rate": 0.9375,
+    "total_current_value": 0,
+    "total_positions": 32,
+    "event_ct": 32,
+    "win_count": 30,
+    "rank": 22380,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
