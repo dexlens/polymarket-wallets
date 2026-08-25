@@ -1422,5 +1422,21 @@
     "win_count": 135,
     "rank": 5789,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xe26d025ed5d4bfc30374c15c55cb86b3bd408813",
+    "trader_name": "jazmynasp",
+    "tag": "Overall",
+    "overall_gain": 18596.845999999998,
+    "active_positions": 0,
+    "win_amount": 19586.845999999998,
+    "loss_amount": -990,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 5,
+    "rank": 5790,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
