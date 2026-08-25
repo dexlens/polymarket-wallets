@@ -1070,5 +1070,21 @@
     "win_count": 2,
     "rank": 16667,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ddbeee0f6a5e7090dde6679bf54ef14376fca89",
+    "trader_name": "quimboni-trader",
+    "tag": "Overall",
+    "overall_gain": 5709.086902153383,
+    "active_positions": 8,
+    "win_amount": 9592.840699182821,
+    "loss_amount": -3883.7537970294384,
+    "win_rate": 0.6772616136919315,
+    "total_current_value": 0.7963439999999998,
+    "total_positions": 1544,
+    "event_ct": 409,
+    "win_count": 277,
+    "rank": 16668,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
