@@ -686,5 +686,21 @@
     "win_count": 13,
     "rank": 6043,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x46296a032c57b225bd0d9a453df2254f2ca873db",
+    "trader_name": "xenify",
+    "tag": "Overall",
+    "overall_gain": 17755.515039387024,
+    "active_positions": 4,
+    "win_amount": 18886.655565870013,
+    "loss_amount": -1131.14052648299,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 54.786328,
+    "total_positions": 14,
+    "event_ct": 9,
+    "win_count": 6,
+    "rank": 6044,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
