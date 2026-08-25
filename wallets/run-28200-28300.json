@@ -1582,5 +1582,21 @@
     "win_count": 5,
     "rank": 28300,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1f38d211ff3a0233496bed81ec3217b9bd24192d",
+    "trader_name": "flomo",
+    "tag": "Overall",
+    "overall_gain": 3027.355659961104,
+    "active_positions": 0,
+    "win_amount": 3027.355659961104,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008857,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 28301,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
