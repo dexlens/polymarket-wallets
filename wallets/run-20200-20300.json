@@ -1310,5 +1310,21 @@
     "win_count": 10,
     "rank": 20282,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd4314c03bd51a28325f9b3ee2f10e612ba2d1c91",
+    "trader_name": "PrimeQuinn",
+    "tag": "Overall",
+    "overall_gain": 4554.320000000001,
+    "active_positions": 5,
+    "win_amount": 5942.0599999999995,
+    "loss_amount": -1387.74,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 20283,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
