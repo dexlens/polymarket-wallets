@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 70044,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x8c98a0de12f7bb9e7ecb55208a29a4e9452d6f55",
+    "trader_name": "Vladi555",
+    "tag": "Overall",
+    "overall_gain": 809.6718245804472,
+    "active_positions": 1,
+    "win_amount": 2123.240515170612,
+    "loss_amount": -1313.5686905901655,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.491689,
+    "total_positions": 402,
+    "event_ct": 195,
+    "win_count": 135,
+    "rank": 70045,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
