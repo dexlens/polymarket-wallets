@@ -1470,5 +1470,21 @@
     "win_count": 3,
     "rank": 42793,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2b48863bb0f27dda50638142e594f9b1131eb2ed",
+    "trader_name": "bowbow-master",
+    "tag": "Overall",
+    "overall_gain": 1831.060815885922,
+    "active_positions": 62,
+    "win_amount": 11843.352742042138,
+    "loss_amount": -10012.291926156215,
+    "win_rate": 0.514331853048042,
+    "total_current_value": 1650.0519776200008,
+    "total_positions": 3418,
+    "event_ct": 2477,
+    "win_count": 1274,
+    "rank": 42794,
+    "trader_tags": "< 30 days old; 1k+ Positions"
   }
 ]
