@@ -1278,5 +1278,21 @@
     "win_count": 10,
     "rank": 65681,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x50e60c43b82b42dd5168b3fa20acc4685ed2e385",
+    "trader_name": "visan",
+    "tag": "Overall",
+    "overall_gain": 925.485,
+    "active_positions": 0,
+    "win_amount": 925.485,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 65682,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
