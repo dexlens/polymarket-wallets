@@ -1198,5 +1198,21 @@
     "win_count": 2,
     "rank": 80176,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x795d5367a30af031893c9df589f74618b58763e7",
+    "trader_name": "figman",
+    "tag": "Overall",
+    "overall_gain": 627.6694301496993,
+    "active_positions": 50,
+    "win_amount": 15819.169606899086,
+    "loss_amount": -15191.500176749389,
+    "win_rate": 0.5115606936416185,
+    "total_current_value": 2590.2036549104996,
+    "total_positions": 539,
+    "event_ct": 346,
+    "win_count": 177,
+    "rank": 80177,
+    "trader_tags": "> 1 year old"
   }
 ]
