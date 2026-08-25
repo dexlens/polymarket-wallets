@@ -366,5 +366,21 @@
     "win_count": 14,
     "rank": 4223,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x555604b46ab2eba4145e39b93c8ccd9acc95d016",
+    "trader_name": "sheridanba",
+    "tag": "Overall",
+    "overall_gain": 26457,
+    "active_positions": 0,
+    "win_amount": 26457,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 4224,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
