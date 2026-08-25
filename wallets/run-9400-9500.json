@@ -1326,5 +1326,21 @@
     "win_count": 14,
     "rank": 9483,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x673f04cb585fd6eb918b6930c3bc885bd011428c",
+    "trader_name": "drakemayelover",
+    "tag": "Overall",
+    "overall_gain": 11051.198667880002,
+    "active_positions": 1,
+    "win_amount": 11083.683287000002,
+    "loss_amount": -32.48461912,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 9484,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
