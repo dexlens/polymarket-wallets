@@ -1054,5 +1054,21 @@
     "win_count": 25,
     "rank": 27367,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x3ecc49df94708d8c468adbc9c5966e014e0815f2",
+    "trader_name": "CVBFD2",
+    "tag": "Overall",
+    "overall_gain": 3152.04,
+    "active_positions": 1,
+    "win_amount": 3152.04,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 27368,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
