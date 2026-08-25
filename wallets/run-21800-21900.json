@@ -78,5 +78,21 @@
     "win_count": 2,
     "rank": 21805,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x67529a6cd67aa774e6bf180f580337f4a6a4c738",
+    "trader_name": "TheNat",
+    "tag": "Overall",
+    "overall_gain": 4166.029731322048,
+    "active_positions": 1,
+    "win_amount": 8670.49858011551,
+    "loss_amount": -4504.468848793463,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.037388000000000005,
+    "total_positions": 48,
+    "event_ct": 44,
+    "win_count": 20,
+    "rank": 21806,
+    "trader_tags": "> 1 year old"
   }
 ]
