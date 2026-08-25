@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 25572,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x4cd4125feabed5b1a2bbf2c1533a6b49173b0987",
+    "trader_name": "Pyrrhsic",
+    "tag": "Overall",
+    "overall_gain": 3447.5,
+    "active_positions": 1,
+    "win_amount": 3721.5,
+    "loss_amount": -274,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 25573,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
