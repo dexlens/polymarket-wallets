@@ -606,5 +606,21 @@
     "win_count": 18,
     "rank": 7838,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x5fafa0c06be5dce1e87fe162ccd221cf6e511183",
+    "trader_name": "bubblebutt",
+    "tag": "Overall",
+    "overall_gain": 13444.871209442135,
+    "active_positions": 6,
+    "win_amount": 93059.77365171027,
+    "loss_amount": -79614.90244226811,
+    "win_rate": 0.3137254901960784,
+    "total_current_value": 5653.444955459001,
+    "total_positions": 78,
+    "event_ct": 51,
+    "win_count": 16,
+    "rank": 7839,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
