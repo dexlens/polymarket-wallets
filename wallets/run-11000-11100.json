@@ -718,5 +718,21 @@
     "win_count": 4,
     "rank": 11045,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74470745edfafc1fe34ca32cc823cd77c6fa6564",
+    "trader_name": "Notagolfer",
+    "tag": "Overall",
+    "overall_gain": 9537.574970490108,
+    "active_positions": 56,
+    "win_amount": 15240.10053010506,
+    "loss_amount": -5702.525559614956,
+    "win_rate": 0.4523809523809524,
+    "total_current_value": 507.68652154,
+    "total_positions": 164,
+    "event_ct": 126,
+    "win_count": 57,
+    "rank": 11046,
+    "trader_tags": "> 1 year old"
   }
 ]
