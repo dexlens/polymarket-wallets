@@ -1294,5 +1294,21 @@
     "win_count": 90,
     "rank": 85482,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4ec414569364633421ffd4fed37132dd639f4cdc",
+    "trader_name": "Aodnada",
+    "tag": "Overall",
+    "overall_gain": 545.481467,
+    "active_positions": 0,
+    "win_amount": 545.481467,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 85483,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
