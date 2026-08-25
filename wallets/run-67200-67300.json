@@ -1086,5 +1086,21 @@
     "win_count": 3,
     "rank": 67269,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x539424ff22b286df3fc04cc5caa86da58ab456b2",
+    "trader_name": "ehkluo",
+    "tag": "Overall",
+    "overall_gain": 881.7139134003281,
+    "active_positions": 8,
+    "win_amount": 1462.1112383288712,
+    "loss_amount": -580.3973249285428,
+    "win_rate": 0.32,
+    "total_current_value": 301.50101597,
+    "total_positions": 27,
+    "event_ct": 25,
+    "win_count": 8,
+    "rank": 67270,
+    "trader_tags": ""
   }
 ]
