@@ -1086,5 +1086,21 @@
     "win_count": 3,
     "rank": 37969,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4068998042e81ddf3feb83a8880f9759a035e0ad",
+    "trader_name": "hellomoney",
+    "tag": "Overall",
+    "overall_gain": 2120.7383605303116,
+    "active_positions": 0,
+    "win_amount": 4207.8736296213965,
+    "loss_amount": -2087.135269091085,
+    "win_rate": 0.25,
+    "total_current_value": 0.004322,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 1,
+    "rank": 37970,
+    "trader_tags": ""
   }
 ]
