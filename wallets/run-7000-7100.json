@@ -1230,5 +1230,21 @@
     "win_count": 15,
     "rank": 7077,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xca299ef6ff63b8c30b5aadeeb227cc5c04335986",
+    "trader_name": "Breya",
+    "tag": "Overall",
+    "overall_gain": 15087.856856752624,
+    "active_positions": 7,
+    "win_amount": 15395.588136078119,
+    "loss_amount": -307.73127932549596,
+    "win_rate": 0.8611111111111112,
+    "total_current_value": 5.28432,
+    "total_positions": 40,
+    "event_ct": 36,
+    "win_count": 31,
+    "rank": 7078,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
