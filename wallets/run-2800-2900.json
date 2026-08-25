@@ -1310,5 +1310,21 @@
     "win_count": 15,
     "rank": 2882,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xcc58ad3fcf99ae01315755924c1261bd4705f6e4",
+    "trader_name": "PuiYi",
+    "tag": "Overall",
+    "overall_gain": 39915.499121152265,
+    "active_positions": 7,
+    "win_amount": 44864.44648743305,
+    "loss_amount": -4948.947366280788,
+    "win_rate": 0.9310344827586207,
+    "total_current_value": 11.304763924,
+    "total_positions": 90,
+    "event_ct": 29,
+    "win_count": 27,
+    "rank": 2883,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
