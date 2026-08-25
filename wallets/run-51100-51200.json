@@ -878,5 +878,21 @@
     "win_count": 4,
     "rank": 51156,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xecb95c5aba59f5bd31da27a4f80ca79bfc15bdd4",
+    "trader_name": "Twei",
+    "tag": "Overall",
+    "overall_gain": 1431.43204874986,
+    "active_positions": 7,
+    "win_amount": 2600.7959720306353,
+    "loss_amount": -1169.3639232807752,
+    "win_rate": 0.723404255319149,
+    "total_current_value": 7190.7521957325,
+    "total_positions": 57,
+    "event_ct": 47,
+    "win_count": 34,
+    "rank": 51157,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
