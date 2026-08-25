@@ -846,5 +846,21 @@
     "win_count": 5,
     "rank": 31454,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ed2ab27b926205544b0dae14fe5e6f5666b56e0",
+    "trader_name": "PainChoco",
+    "tag": "Overall",
+    "overall_gain": 2654.844343114761,
+    "active_positions": 8,
+    "win_amount": 4233.616936014906,
+    "loss_amount": -1578.772592900145,
+    "win_rate": 0.3548387096774194,
+    "total_current_value": 3122.9754781720003,
+    "total_positions": 39,
+    "event_ct": 31,
+    "win_count": 11,
+    "rank": 31455,
+    "trader_tags": "> 1 year old"
   }
 ]
