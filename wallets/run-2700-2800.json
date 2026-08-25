@@ -878,5 +878,21 @@
     "win_count": 146,
     "rank": 2755,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0c97325a81ad05c6b58ae30d12eaaec1b8451b68",
+    "trader_name": "dontshowmyname",
+    "tag": "Overall",
+    "overall_gain": 41977.18494071622,
+    "active_positions": 378,
+    "win_amount": 89813.04725776654,
+    "loss_amount": -47835.86231705032,
+    "win_rate": 0.6714082503556188,
+    "total_current_value": 47042.924018406506,
+    "total_positions": 1871,
+    "event_ct": 703,
+    "win_count": 472,
+    "rank": 2756,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
