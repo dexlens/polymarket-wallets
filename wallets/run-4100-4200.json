@@ -398,5 +398,21 @@
     "win_count": 71,
     "rank": 4125,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c7a74e2a72b1ce28206a258faee57505ded201a",
+    "trader_name": "DarkRepulser",
+    "tag": "Overall",
+    "overall_gain": 27091.47698780251,
+    "active_positions": 0,
+    "win_amount": 30590.578894894446,
+    "loss_amount": -3499.1019070919347,
+    "win_rate": 0.7631578947368421,
+    "total_current_value": 0.033647,
+    "total_positions": 84,
+    "event_ct": 38,
+    "win_count": 29,
+    "rank": 4126,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
