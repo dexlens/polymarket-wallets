@@ -158,5 +158,21 @@
     "win_count": 28,
     "rank": 8610,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x98777581f99d25916400362a1ed2c56c342171c1",
+    "trader_name": "gangwan",
+    "tag": "Overall",
+    "overall_gain": 12166.504397989129,
+    "active_positions": 5,
+    "win_amount": 12271.136781748517,
+    "loss_amount": -104.63238375938799,
+    "win_rate": 0.7428571428571429,
+    "total_current_value": 19.46936457,
+    "total_positions": 36,
+    "event_ct": 35,
+    "win_count": 26,
+    "rank": 8611,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
