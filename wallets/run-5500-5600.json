@@ -1070,5 +1070,21 @@
     "win_count": 11,
     "rank": 5567,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x75a1bb786e642051a8dbd1abb4afe98f026514f3",
+    "trader_name": "delphidigital",
+    "tag": "Overall",
+    "overall_gain": 19403.62446721548,
+    "active_positions": 2,
+    "win_amount": 41845.145442766036,
+    "loss_amount": -22441.52097555056,
+    "win_rate": 0.8666666666666667,
+    "total_current_value": 1.4030559999999999,
+    "total_positions": 114,
+    "event_ct": 45,
+    "win_count": 39,
+    "rank": 5568,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
