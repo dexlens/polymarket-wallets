@@ -430,5 +430,21 @@
     "win_count": 6,
     "rank": 4227,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xce20de859c36542b234230abc92e49108942360c",
+    "trader_name": "remixten",
+    "tag": "Overall",
+    "overall_gain": 26433.087072975362,
+    "active_positions": 2,
+    "win_amount": 35482.774234523284,
+    "loss_amount": -9049.687161547918,
+    "win_rate": 0.8695652173913043,
+    "total_current_value": 33997.258094995,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 20,
+    "rank": 4228,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
