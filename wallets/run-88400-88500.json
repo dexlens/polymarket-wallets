@@ -398,5 +398,21 @@
     "win_count": 2,
     "rank": 88426,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x118886b70829e200d0f5e78fc3457b0e7c89bb30",
+    "trader_name": "biptypod",
+    "tag": "Overall",
+    "overall_gain": 508.0833203555013,
+    "active_positions": 13,
+    "win_amount": 3250.277287489901,
+    "loss_amount": -2742.1939671344,
+    "win_rate": 0.2962962962962963,
+    "total_current_value": 9.905835,
+    "total_positions": 42,
+    "event_ct": 27,
+    "win_count": 8,
+    "rank": 88427,
+    "trader_tags": "> 1 year old"
   }
 ]
