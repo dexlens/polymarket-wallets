@@ -190,5 +190,21 @@
     "win_count": 547,
     "rank": 8612,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf841f268b8326fc38a9ec51a3fe552d2cd66915b",
+    "trader_name": "ImTestingInProd",
+    "tag": "Overall",
+    "overall_gain": 12165.652943103347,
+    "active_positions": 3,
+    "win_amount": 54066.91148755846,
+    "loss_amount": -41901.25854445512,
+    "win_rate": 0.6877738825591586,
+    "total_current_value": 829.77477957,
+    "total_positions": 5742,
+    "event_ct": 4564,
+    "win_count": 3139,
+    "rank": 8613,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
