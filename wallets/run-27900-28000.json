@@ -1006,5 +1006,21 @@
     "win_count": 1,
     "rank": 27964,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44c7357add6310e9599d278c9127853c61359bde",
+    "trader_name": "sksrt",
+    "tag": "Overall",
+    "overall_gain": 3071.0253226846326,
+    "active_positions": 100,
+    "win_amount": 8084.541960810602,
+    "loss_amount": -5013.516638125972,
+    "win_rate": 0.5335018963337548,
+    "total_current_value": 13.4887976015,
+    "total_positions": 1113,
+    "event_ct": 791,
+    "win_count": 422,
+    "rank": 27965,
+    "trader_tags": "1k+ Positions"
   }
 ]
