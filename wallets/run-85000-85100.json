@@ -510,5 +510,21 @@
     "win_count": 5,
     "rank": 85033,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x01f81eae7bfd2e4d881767f501fe2e8a7e94e06c",
+    "trader_name": "Lowis",
+    "tag": "Overall",
+    "overall_gain": 551.937524814323,
+    "active_positions": 1,
+    "win_amount": 551.937524814323,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 85034,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
