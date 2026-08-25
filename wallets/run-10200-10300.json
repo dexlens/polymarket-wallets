@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 10225,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa196c85c5c152cd9b04a7fb0612025d741665b78",
+    "trader_name": "booblyc",
+    "tag": "Overall",
+    "overall_gain": 10283.53333003563,
+    "active_positions": 12,
+    "win_amount": 46772.99933428168,
+    "loss_amount": -36489.466004246075,
+    "win_rate": 0.6850715746421268,
+    "total_current_value": 10071.891236235,
+    "total_positions": 837,
+    "event_ct": 489,
+    "win_count": 335,
+    "rank": 10226,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
