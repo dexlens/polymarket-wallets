@@ -1358,5 +1358,21 @@
     "win_count": 4,
     "rank": 6185,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x2e4589b1e6ecb50e16bf3b901d154d43a8a9de0f",
+    "trader_name": "ceciliureh",
+    "tag": "Overall",
+    "overall_gain": 17323,
+    "active_positions": 0,
+    "win_amount": 17323,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 6186,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
