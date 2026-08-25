@@ -270,5 +270,21 @@
     "win_count": 4,
     "rank": 3717,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x87531c465a5a729850e1e2c4fd4af3dcb87d85ad",
+    "trader_name": "Trotz.85",
+    "tag": "Overall",
+    "overall_gain": 30690.474211987064,
+    "active_positions": 17,
+    "win_amount": 964800.8265570804,
+    "loss_amount": -934110.3523450929,
+    "win_rate": 0.5503184713375796,
+    "total_current_value": 22138.114357914998,
+    "total_positions": 2014,
+    "event_ct": 1570,
+    "win_count": 864,
+    "rank": 3718,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; 1k+ Positions"
   }
 ]
