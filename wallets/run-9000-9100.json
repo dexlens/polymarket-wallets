@@ -942,5 +942,21 @@
     "win_count": 520,
     "rank": 9059,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x5dba3d49e14081acab2dc41857f44f6006e3e009",
+    "trader_name": "Frankssss",
+    "tag": "Overall",
+    "overall_gain": 11572.592134999999,
+    "active_positions": 1,
+    "win_amount": 11594.502134999999,
+    "loss_amount": -21.91,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 9060,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
