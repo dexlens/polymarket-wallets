@@ -782,5 +782,21 @@
     "win_count": 8,
     "rank": 10749,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf33030be9f7af03b61a4520fe449c50a4cfcf779",
+    "trader_name": "Koolio",
+    "tag": "Overall",
+    "overall_gain": 9851.871671557634,
+    "active_positions": 24,
+    "win_amount": 42028.04007245097,
+    "loss_amount": -32176.168400893333,
+    "win_rate": 0.45098039215686275,
+    "total_current_value": 5968.640135028501,
+    "total_positions": 137,
+    "event_ct": 102,
+    "win_count": 46,
+    "rank": 10750,
+    "trader_tags": "> 1 year old"
   }
 ]
