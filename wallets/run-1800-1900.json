@@ -270,5 +270,21 @@
     "win_count": 6952,
     "rank": 1817,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x8bfb6913db1dbf07f59b688cba6871f54c18a4a2",
+    "trader_name": "the_oracle",
+    "tag": "Overall",
+    "overall_gain": 67118.86953227299,
+    "active_positions": 1,
+    "win_amount": 173835.93008807264,
+    "loss_amount": -106717.06055579963,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.01781,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 1818,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Politics PnL > $100k"
   }
 ]
