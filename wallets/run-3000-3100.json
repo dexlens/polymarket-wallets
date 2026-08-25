@@ -270,5 +270,21 @@
     "win_count": 28,
     "rank": 3017,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x4366ab8b8b27e4139d94a532e3cec94a83d1c73e",
+    "trader_name": "RBax",
+    "tag": "Overall",
+    "overall_gain": 38062.57497806448,
+    "active_positions": 11,
+    "win_amount": 253295.98295601073,
+    "loss_amount": -215233.4079779464,
+    "win_rate": 0.48753462603878117,
+    "total_current_value": 75925.52113935402,
+    "total_positions": 483,
+    "event_ct": 361,
+    "win_count": 176,
+    "rank": 3018,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
