@@ -14,5 +14,21 @@
     "win_count": 5,
     "rank": 6501,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x087eaada2ce7452fd07d00fb858155b13919c44e",
+    "trader_name": "Kylora",
+    "tag": "Overall",
+    "overall_gain": 16480.017647086548,
+    "active_positions": 6,
+    "win_amount": 18567.82730755909,
+    "loss_amount": -2087.809660472547,
+    "win_rate": 0.7884615384615384,
+    "total_current_value": 0.00019300000000000003,
+    "total_positions": 53,
+    "event_ct": 52,
+    "win_count": 41,
+    "rank": 6502,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
