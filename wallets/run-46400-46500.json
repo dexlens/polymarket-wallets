@@ -1198,5 +1198,21 @@
     "win_count": 24,
     "rank": 46476,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f8a056053cb5d22630d0a86faba4980b4029ea0",
+    "trader_name": "Rustgap",
+    "tag": "Overall",
+    "overall_gain": 1642.23,
+    "active_positions": 0,
+    "win_amount": 1642.23,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 46477,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
