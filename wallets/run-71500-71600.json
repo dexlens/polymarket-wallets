@@ -1502,5 +1502,21 @@
     "win_count": 83,
     "rank": 71595,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x38aeced189e126ffa21dac51f80b31ff3346aa9b",
+    "trader_name": "BleeperLiner",
+    "tag": "Overall",
+    "overall_gain": 775.4131280050001,
+    "active_positions": 120,
+    "win_amount": 6781.501542999999,
+    "loss_amount": -6006.088414994998,
+    "win_rate": 0.7919354838709678,
+    "total_current_value": 0.0029643,
+    "total_positions": 620,
+    "event_ct": 620,
+    "win_count": 491,
+    "rank": 71596,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
