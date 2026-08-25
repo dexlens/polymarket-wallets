@@ -254,5 +254,21 @@
     "win_count": 45,
     "rank": 7416,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbe4e2a2643a662413cdcfcf6b4120cfc0b80aaad",
+    "trader_name": "NAYING",
+    "tag": "Overall",
+    "overall_gain": 14341.060000000001,
+    "active_positions": 12,
+    "win_amount": 33340.55,
+    "loss_amount": -18999.489999999998,
+    "win_rate": 0.6129032258064516,
+    "total_current_value": 5,
+    "total_positions": 33,
+    "event_ct": 31,
+    "win_count": 19,
+    "rank": 7417,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
