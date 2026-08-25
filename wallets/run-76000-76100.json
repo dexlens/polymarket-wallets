@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 76094,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xe06b171b7925b730fe7504852f2c6b31e743e80a",
+    "trader_name": "Ethenix",
+    "tag": "Overall",
+    "overall_gain": 697.421009,
+    "active_positions": 1,
+    "win_amount": 697.421009,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 293,
+    "total_positions": 25,
+    "event_ct": 11,
+    "win_count": 11,
+    "rank": 76095,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
