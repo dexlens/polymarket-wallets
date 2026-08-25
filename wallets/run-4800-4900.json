@@ -1102,5 +1102,21 @@
     "win_count": 180,
     "rank": 4869,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3d6f958a366ed5d6bcde346ef43b61f97006fd16",
+    "trader_name": "Mamdani69",
+    "tag": "Overall",
+    "overall_gain": 22341.20004177798,
+    "active_positions": 0,
+    "win_amount": 22341.20004177798,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.008426,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 6,
+    "rank": 4870,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
