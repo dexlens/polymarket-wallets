@@ -1358,5 +1358,21 @@
     "win_count": 222,
     "rank": 885,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x84898b583d56054b502c6564f3edfad43b54e211",
+    "trader_name": "JustLearning",
+    "tag": "Overall",
+    "overall_gain": 139080.63033117328,
+    "active_positions": 1,
+    "win_amount": 166744.1897526938,
+    "loss_amount": -27663.559421520535,
+    "win_rate": 0.7453183520599251,
+    "total_current_value": 0.00015975910546156376,
+    "total_positions": 505,
+    "event_ct": 267,
+    "win_count": 199,
+    "rank": 886,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
