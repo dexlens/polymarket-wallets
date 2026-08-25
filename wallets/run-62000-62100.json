@@ -302,5 +302,21 @@
     "win_count": 3,
     "rank": 62020,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x44dcbe8470afb7f55c948ceefe1952dea516e2c0",
+    "trader_name": "Market.Intern",
+    "tag": "Overall",
+    "overall_gain": 1021.602824232747,
+    "active_positions": 15,
+    "win_amount": 1451.363704008747,
+    "loss_amount": -429.76087977599997,
+    "win_rate": 0.8042328042328042,
+    "total_current_value": 0.010886999999999999,
+    "total_positions": 334,
+    "event_ct": 189,
+    "win_count": 152,
+    "rank": 62021,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
