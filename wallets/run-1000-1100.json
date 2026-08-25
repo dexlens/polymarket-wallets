@@ -1438,5 +1438,21 @@
     "win_count": 1,
     "rank": 1090,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x650a96777ab0f6ba2d560d231745f9b6fff86eb2",
+    "trader_name": "speeal",
+    "tag": "Overall",
+    "overall_gain": 110859.89526599999,
+    "active_positions": 4,
+    "win_amount": 111538.585266,
+    "loss_amount": -678.69,
+    "win_rate": 0.6,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 1091,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
   }
 ]
