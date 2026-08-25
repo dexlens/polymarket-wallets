@@ -1390,5 +1390,21 @@
     "win_count": 12,
     "rank": 57288,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9698e750724229b81769395401d44e09b68a09d9",
+    "trader_name": "ens36b",
+    "tag": "Overall",
+    "overall_gain": 1168.19385562204,
+    "active_positions": 0,
+    "win_amount": 1957.81812962204,
+    "loss_amount": -789.624274,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0.005718,
+    "total_positions": 14,
+    "event_ct": 14,
+    "win_count": 8,
+    "rank": 57289,
+    "trader_tags": "> 1 year old"
   }
 ]
