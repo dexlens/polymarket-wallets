@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 1666,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x56c5e91f0ff58e9015011a18b61509b68192dbcf",
+    "trader_name": "Wsix",
+    "tag": "Overall",
+    "overall_gain": 73681.51757873042,
+    "active_positions": 6,
+    "win_amount": 85003.95718300011,
+    "loss_amount": -11322.43960426968,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 30227.592810957503,
+    "total_positions": 62,
+    "event_ct": 42,
+    "win_count": 24,
+    "rank": 1667,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
