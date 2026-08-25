@@ -414,5 +414,21 @@
     "win_count": 4,
     "rank": 28127,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb7c65fd3c8a32aa623759fdcde9e974136c511fc",
+    "trader_name": "CougarDolphin",
+    "tag": "Overall",
+    "overall_gain": 3048.644759983156,
+    "active_positions": 15,
+    "win_amount": 5911.564753,
+    "loss_amount": -2862.919993016844,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 45,
+    "event_ct": 45,
+    "win_count": 30,
+    "rank": 28128,
+    "trader_tags": "> 1 year old"
   }
 ]
