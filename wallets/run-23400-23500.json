@@ -990,5 +990,21 @@
     "win_count": 2,
     "rank": 23462,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x351e39537aff4a1a7927f0a1f88ad0d4aaad549c",
+    "trader_name": "wytcq",
+    "tag": "Overall",
+    "overall_gain": 3827,
+    "active_positions": 2,
+    "win_amount": 4354,
+    "loss_amount": -527,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 23463,
+    "trader_tags": ""
   }
 ]
