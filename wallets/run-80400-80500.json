@@ -654,5 +654,21 @@
     "win_count": 1,
     "rank": 80442,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbb646e83756ccb33b304645623035d7e4e98aafa",
+    "trader_name": "ViggoDahl",
+    "tag": "Overall",
+    "overall_gain": 623.371633194013,
+    "active_positions": 1,
+    "win_amount": 624.161619782017,
+    "loss_amount": -0.789986588004,
+    "win_rate": 0.25925925925925924,
+    "total_current_value": 5.0313757385,
+    "total_positions": 40,
+    "event_ct": 27,
+    "win_count": 7,
+    "rank": 80443,
+    "trader_tags": ""
   }
 ]
