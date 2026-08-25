@@ -366,5 +366,21 @@
     "win_count": 1,
     "rank": 1423,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xeb4ada4cce58bf9e14c4ebd913dffb6451d94ef5",
+    "trader_name": "Crackerjoe",
+    "tag": "Overall",
+    "overall_gain": 85106.2502440623,
+    "active_positions": 42,
+    "win_amount": 246287.60805766814,
+    "loss_amount": -161181.35781360586,
+    "win_rate": 0.5978260869565217,
+    "total_current_value": 0,
+    "total_positions": 106,
+    "event_ct": 92,
+    "win_count": 55,
+    "rank": 1424,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
