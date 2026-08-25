@@ -1326,5 +1326,21 @@
     "win_count": 3,
     "rank": 7483,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xd109e93d5a86a68982c0b5e94323d01ab728de03",
+    "trader_name": "carltiosway",
+    "tag": "Overall",
+    "overall_gain": 14173.628388,
+    "active_positions": 0,
+    "win_amount": 14173.628388,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 7484,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
