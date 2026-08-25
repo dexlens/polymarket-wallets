@@ -1022,5 +1022,21 @@
     "win_count": 3,
     "rank": 18764,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x677a64768b262459e8d07605194b3c3b2d852d0b",
+    "trader_name": "Didke",
+    "tag": "Overall",
+    "overall_gain": 4962.5,
+    "active_positions": 1,
+    "win_amount": 5353.5,
+    "loss_amount": -391,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 18765,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
