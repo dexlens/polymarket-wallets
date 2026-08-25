@@ -1150,5 +1150,21 @@
     "win_count": 3,
     "rank": 66073,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5fa6d0912c394d03bb1be0e23ef930044982893f",
+    "trader_name": "Radiromara",
+    "tag": "Overall",
+    "overall_gain": 913.9309933032841,
+    "active_positions": 1,
+    "win_amount": 913.9309933032841,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1954.3252685100001,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 66074,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
