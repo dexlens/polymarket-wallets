@@ -1486,5 +1486,21 @@
     "win_count": 1,
     "rank": 21693,
     "trader_tags": "67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x754e97a6d93358ded3cef6c8c053e5445b67028f",
+    "trader_name": "gregariousgarlic",
+    "tag": "Overall",
+    "overall_gain": 4190.866119815351,
+    "active_positions": 1,
+    "win_amount": 10276.607539863055,
+    "loss_amount": -6085.741420047703,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.000954285,
+    "total_positions": 28,
+    "event_ct": 26,
+    "win_count": 20,
+    "rank": 21694,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
