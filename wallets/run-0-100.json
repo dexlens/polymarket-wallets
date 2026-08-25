@@ -1550,5 +1550,21 @@
     "win_count": 26,
     "rank": 97,
     "trader_tags": "Overall PnL > $1m; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0xc8b438e4a1c10643ea0ea3e59bcaadc73174f05d",
+    "trader_name": "gamblingdebt",
+    "tag": "Overall",
+    "overall_gain": 1009471.5237727643,
+    "active_positions": 2,
+    "win_amount": 7919470.231602702,
+    "loss_amount": -6909998.707829936,
+    "win_rate": 0.5393087732624383,
+    "total_current_value": 0.3303057549999999,
+    "total_positions": 3478,
+    "event_ct": 2633,
+    "win_count": 1420,
+    "rank": 98,
+    "trader_tags": "Overall PnL > $1m; 1k+ Positions; Sports PnL > $100k"
   }
 ]
