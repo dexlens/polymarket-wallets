@@ -1390,5 +1390,21 @@
     "win_count": 13,
     "rank": 37788,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xedce78bea768456d15ea7e9657fab8e39b74412e",
+    "trader_name": "noobied",
+    "tag": "Overall",
+    "overall_gain": 2133.959628565055,
+    "active_positions": 1,
+    "win_amount": 2277.418125487218,
+    "loss_amount": -143.458496922163,
+    "win_rate": 0.8,
+    "total_current_value": 3.536998250000001,
+    "total_positions": 66,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 37789,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
