@@ -1550,5 +1550,21 @@
     "win_count": 3,
     "rank": 2197,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xfaddc0c57eeb6c79b3ec0ce1506eb43288b43955",
+    "trader_name": "orhauhg",
+    "tag": "Overall",
+    "overall_gain": 54755.379828074554,
+    "active_positions": 12,
+    "win_amount": 99557.20738758457,
+    "loss_amount": -44801.82755951002,
+    "win_rate": 0.6213592233009708,
+    "total_current_value": 0.038876,
+    "total_positions": 432,
+    "event_ct": 103,
+    "win_count": 64,
+    "rank": 2198,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
