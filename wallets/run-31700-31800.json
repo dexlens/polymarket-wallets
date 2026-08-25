@@ -1390,5 +1390,21 @@
     "win_count": 20,
     "rank": 31788,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6320f2b8867e763effe7f75fae227966d7acee59",
+    "trader_name": "Limantas",
+    "tag": "Overall",
+    "overall_gain": 2621.252472249397,
+    "active_positions": 0,
+    "win_amount": 8554.950853886563,
+    "loss_amount": -5933.698381637166,
+    "win_rate": 0.53125,
+    "total_current_value": 0.028576000000000004,
+    "total_positions": 40,
+    "event_ct": 32,
+    "win_count": 17,
+    "rank": 31789,
+    "trader_tags": "> 1 year old"
   }
 ]
