@@ -286,5 +286,21 @@
     "win_count": 1,
     "rank": 44219,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbb9655f5883280f926934474b21437d3f7339545",
+    "trader_name": "AlwaysHere",
+    "tag": "Overall",
+    "overall_gain": 1753.2283364192842,
+    "active_positions": 2,
+    "win_amount": 8378.218031609991,
+    "loss_amount": -6624.989695190709,
+    "win_rate": 0.4755244755244755,
+    "total_current_value": 124.076036,
+    "total_positions": 176,
+    "event_ct": 143,
+    "win_count": 68,
+    "rank": 44220,
+    "trader_tags": "> 1 year old"
   }
 ]
