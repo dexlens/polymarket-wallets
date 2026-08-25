@@ -1038,5 +1038,21 @@
     "win_count": 128,
     "rank": 40166,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x11b351f943811b416a602d36c00319fdc3f7dd04",
+    "trader_name": "Jactitation",
+    "tag": "Overall",
+    "overall_gain": 1985.53,
+    "active_positions": 0,
+    "win_amount": 1985.53,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 40167,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
