@@ -1070,5 +1070,21 @@
     "win_count": 15,
     "rank": 10167,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x05885b09d33b48ef7fc6091f96dbd18f29b89b80",
+    "trader_name": "pamps",
+    "tag": "Overall",
+    "overall_gain": 10327.763699731098,
+    "active_positions": 21,
+    "win_amount": 21212.785469219685,
+    "loss_amount": -10885.02176948858,
+    "win_rate": 0.4090909090909091,
+    "total_current_value": 0.029944999999999996,
+    "total_positions": 46,
+    "event_ct": 22,
+    "win_count": 9,
+    "rank": 10168,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
