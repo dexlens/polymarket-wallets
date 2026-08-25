@@ -1502,5 +1502,21 @@
     "win_count": 3,
     "rank": 77895,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3494226892fe4556cfde3ecd0715211c1d0c04f4",
+    "trader_name": "0xDracarys",
+    "tag": "Overall",
+    "overall_gain": 665.7151190833266,
+    "active_positions": 11,
+    "win_amount": 44369.76994596101,
+    "loss_amount": -43704.05482687769,
+    "win_rate": 0.6276558073654391,
+    "total_current_value": 41.861665806,
+    "total_positions": 13067,
+    "event_ct": 11296,
+    "win_count": 7090,
+    "rank": 77896,
+    "trader_tags": "1k+ Positions"
   }
 ]
