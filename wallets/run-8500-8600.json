@@ -1454,5 +1454,21 @@
     "win_count": 60,
     "rank": 8591,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x84f831a945c64c5fe0a5fc9e543ff08f1026d348",
+    "trader_name": "NotTheBadWolf",
+    "tag": "Overall",
+    "overall_gain": 12200.875894424415,
+    "active_positions": 9,
+    "win_amount": 14863.1254979138,
+    "loss_amount": -2662.249603489384,
+    "win_rate": 0.8955223880597015,
+    "total_current_value": 13810.484301987502,
+    "total_positions": 187,
+    "event_ct": 134,
+    "win_count": 120,
+    "rank": 8592,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
