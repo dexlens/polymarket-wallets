@@ -1294,5 +1294,21 @@
     "win_count": 16,
     "rank": 6381,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xb55d75a739995648f498378807adfdbcb8fa7253",
+    "trader_name": "0xB",
+    "tag": "Overall",
+    "overall_gain": 16789.116285,
+    "active_positions": 0,
+    "win_amount": 16789.116285,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 6382,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
