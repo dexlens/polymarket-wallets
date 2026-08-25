@@ -1070,5 +1070,21 @@
     "win_count": 60,
     "rank": 8467,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x44939aea8f41bc7a898f99d9165407e80ce63ec1",
+    "trader_name": "leafygreens",
+    "tag": "Overall",
+    "overall_gain": 12363.735006714742,
+    "active_positions": 3,
+    "win_amount": 14373.15550615227,
+    "loss_amount": -2009.420499437529,
+    "win_rate": 0.5,
+    "total_current_value": 551.736744635,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 8468,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
