@@ -606,5 +606,21 @@
     "win_count": 2,
     "rank": 88439,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x816698676f121a3efac83cd524529c7e28172957",
+    "trader_name": "balon5",
+    "tag": "Overall",
+    "overall_gain": 507.94606943634545,
+    "active_positions": 2,
+    "win_amount": 507.94606943634545,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 89.110095,
+    "total_positions": 57,
+    "event_ct": 50,
+    "win_count": 50,
+    "rank": 88440,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
