@@ -494,5 +494,21 @@
     "win_count": 1,
     "rank": 61632,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xdb15f3b0b84143be3e765728eaa9d43b93cb6a30",
+    "trader_name": "jacobmeta",
+    "tag": "Overall",
+    "overall_gain": 1031.0889050728176,
+    "active_positions": 45,
+    "win_amount": 5687.507822695224,
+    "loss_amount": -4656.418917622407,
+    "win_rate": 0.896551724137931,
+    "total_current_value": 0.391764,
+    "total_positions": 554,
+    "event_ct": 551,
+    "win_count": 494,
+    "rank": 61633,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
