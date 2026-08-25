@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 46531,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0716284053103a2d9d3d8cadc1836f580348f036",
+    "trader_name": "Who9",
+    "tag": "Overall",
+    "overall_gain": 1639.658930999398,
+    "active_positions": 4,
+    "win_amount": 5711.1293928115665,
+    "loss_amount": -4071.4704618121687,
+    "win_rate": 0.3939393939393939,
+    "total_current_value": 0.040026392,
+    "total_positions": 37,
+    "event_ct": 33,
+    "win_count": 13,
+    "rank": 46532,
+    "trader_tags": ""
   }
 ]
