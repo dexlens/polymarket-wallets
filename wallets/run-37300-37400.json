@@ -1038,5 +1038,21 @@
     "win_count": 7,
     "rank": 37366,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x5d3c6a4a0190db586bfae2890f8147d4c36dc868",
+    "trader_name": "Borea",
+    "tag": "Overall",
+    "overall_gain": 2163.5,
+    "active_positions": 1,
+    "win_amount": 2429,
+    "loss_amount": -265.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 37367,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
