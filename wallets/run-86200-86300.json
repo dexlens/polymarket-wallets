@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 86267,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xba3d754480ebd115f42d02437dc256faec0f5079",
+    "trader_name": "liyang520",
+    "tag": "Overall",
+    "overall_gain": 535.6180588029283,
+    "active_positions": 884,
+    "win_amount": 6548.526074731278,
+    "loss_amount": -6012.908015928349,
+    "win_rate": 0.8659594985535197,
+    "total_current_value": 8.592101000000001,
+    "total_positions": 12644,
+    "event_ct": 12444,
+    "win_count": 10776,
+    "rank": 86268,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
