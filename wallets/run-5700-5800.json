@@ -894,5 +894,21 @@
     "win_count": 355,
     "rank": 5756,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf2c4e8f884ed052fd0fdbed4d04573d7d7ae1f17",
+    "trader_name": "BubbleKitchen",
+    "tag": "Overall",
+    "overall_gain": 18690.86481633922,
+    "active_positions": 0,
+    "win_amount": 18690.86481633922,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.0319225,
+    "total_positions": 4,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 5757,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
