@@ -638,5 +638,21 @@
     "win_count": 94,
     "rank": 87541,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0618e4fa26a24ee796cce4212ef7987df5dc8b16",
+    "trader_name": "GSRGSDA",
+    "tag": "Overall",
+    "overall_gain": 518.3442321614222,
+    "active_positions": 2,
+    "win_amount": 735.3587146838281,
+    "loss_amount": -217.014482522406,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.007422,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 87542,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
