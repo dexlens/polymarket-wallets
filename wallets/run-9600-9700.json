@@ -542,5 +542,21 @@
     "win_count": 3,
     "rank": 9634,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc56278319d1d16c52e16d56608cf24f4bfe036c3",
+    "trader_name": "gyradosu",
+    "tag": "Overall",
+    "overall_gain": 10871.206942078816,
+    "active_positions": 1,
+    "win_amount": 10927.84613423815,
+    "loss_amount": -56.639192159334,
+    "win_rate": 0.875,
+    "total_current_value": 2.127665839,
+    "total_positions": 75,
+    "event_ct": 24,
+    "win_count": 21,
+    "rank": 9635,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
