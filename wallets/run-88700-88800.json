@@ -1502,5 +1502,21 @@
     "win_count": 42,
     "rank": 88795,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xa721ab406a6887bcebab883436086a7363c4bb18",
+    "trader_name": "Onfar",
+    "tag": "Overall",
+    "overall_gain": 504.127183833092,
+    "active_positions": 4,
+    "win_amount": 504.127183833092,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 27.657092,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 88796,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
