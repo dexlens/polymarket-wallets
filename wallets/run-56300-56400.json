@@ -1294,5 +1294,21 @@
     "win_count": 1,
     "rank": 56382,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x49d8e56fd16c2c06792b46d63d6e49897e477807",
+    "trader_name": "CCPChives",
+    "tag": "Overall",
+    "overall_gain": 1201.7892998053082,
+    "active_positions": 0,
+    "win_amount": 2004.5078957702444,
+    "loss_amount": -802.7185959649358,
+    "win_rate": 0.4423076923076923,
+    "total_current_value": 0.024092,
+    "total_positions": 62,
+    "event_ct": 52,
+    "win_count": 23,
+    "rank": 56383,
+    "trader_tags": "> 1 year old"
   }
 ]
