@@ -446,5 +446,21 @@
     "win_count": 2,
     "rank": 22628,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x919e2125d98365dc23891f71e5e3a21db6034e9b",
+    "trader_name": "xfinity",
+    "tag": "Overall",
+    "overall_gain": 3995.6412881616616,
+    "active_positions": 5,
+    "win_amount": 13533.429486058967,
+    "loss_amount": -9537.788197897306,
+    "win_rate": 0.6,
+    "total_current_value": 38100.0498416965,
+    "total_positions": 21,
+    "event_ct": 15,
+    "win_count": 9,
+    "rank": 22629,
+    "trader_tags": "> 1 year old"
   }
 ]
