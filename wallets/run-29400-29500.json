@@ -1038,5 +1038,21 @@
     "win_count": 4,
     "rank": 29466,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48a5f0e49930f25dca97031e00b81586055f0d51",
+    "trader_name": "move4",
+    "tag": "Overall",
+    "overall_gain": 2886.0117010087934,
+    "active_positions": 288,
+    "win_amount": 21070.389690629843,
+    "loss_amount": -18184.37798962106,
+    "win_rate": 0.7210031347962382,
+    "total_current_value": 676.4784879999999,
+    "total_positions": 3093,
+    "event_ct": 2552,
+    "win_count": 1840,
+    "rank": 29467,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
