@@ -1182,5 +1182,21 @@
     "win_count": 43,
     "rank": 35075,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x79b6ced61ec91701bab2c231ab04962a3b0d612e",
+    "trader_name": "Arcelik",
+    "tag": "Overall",
+    "overall_gain": 2335.25719352903,
+    "active_positions": 13,
+    "win_amount": 48835.976161325474,
+    "loss_amount": -46500.71896779647,
+    "win_rate": 0.623015873015873,
+    "total_current_value": 15527.212094677001,
+    "total_positions": 563,
+    "event_ct": 504,
+    "win_count": 314,
+    "rank": 35076,
+    "trader_tags": "> 1 year old"
   }
 ]
