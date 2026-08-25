@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 51934,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x62b0321fce926f33e9f90993e256a7879eb3029e",
+    "trader_name": "Kilo9",
+    "tag": "Overall",
+    "overall_gain": 1395.101340466378,
+    "active_positions": 8,
+    "win_amount": 4395.902427,
+    "loss_amount": -3000.8010865336214,
+    "win_rate": 0.5510204081632653,
+    "total_current_value": 0.007662,
+    "total_positions": 49,
+    "event_ct": 49,
+    "win_count": 27,
+    "rank": 51935,
+    "trader_tags": "> 1 year old"
   }
 ]
