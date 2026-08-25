@@ -190,5 +190,21 @@
     "win_count": 11,
     "rank": 14312,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x82e5692fcfc21d3f1243946bf80fcbcdeb342a9d",
+    "trader_name": "allegro-con-leveraggio",
+    "tag": "Overall",
+    "overall_gain": 6877.781827758675,
+    "active_positions": 1,
+    "win_amount": 7116.111417272364,
+    "loss_amount": -238.329589513689,
+    "win_rate": 0.5,
+    "total_current_value": 0.010119,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 14313,
+    "trader_tags": "> 1 year old"
   }
 ]
