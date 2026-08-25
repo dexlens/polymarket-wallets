@@ -958,5 +958,21 @@
     "win_count": 36,
     "rank": 2860,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x52f2b4efed1f7b06dabed7e7f2c9aeb8797b6951",
+    "trader_name": "sallyillumlu",
+    "tag": "Overall",
+    "overall_gain": 40210.5,
+    "active_positions": 0,
+    "win_amount": 40330.5,
+    "loss_amount": -120,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 2861,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
