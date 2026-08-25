@@ -638,5 +638,21 @@
     "win_count": 2,
     "rank": 9940,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01bfc213738b7ab0d4f9e65756aadc1f4daa5e61",
+    "trader_name": "beyoai",
+    "tag": "Overall",
+    "overall_gain": 10549.002848714388,
+    "active_positions": 0,
+    "win_amount": 11550.984530635787,
+    "loss_amount": -1001.9816819213991,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.030494,
+    "total_positions": 13,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 9941,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
