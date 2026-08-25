@@ -254,5 +254,21 @@
     "win_count": 57,
     "rank": 7216,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6a9743e7872cb5e321ca2eb97edc907bc6c14800",
+    "trader_name": "Losingedge",
+    "tag": "Overall",
+    "overall_gain": 14802.379722307247,
+    "active_positions": 141,
+    "win_amount": 69331.89717416209,
+    "loss_amount": -54529.517451854816,
+    "win_rate": 0.7918188458729,
+    "total_current_value": 14901.108614786497,
+    "total_positions": 3490,
+    "event_ct": 1369,
+    "win_count": 1084,
+    "rank": 7217,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
