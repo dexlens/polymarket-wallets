@@ -974,5 +974,21 @@
     "win_count": 60,
     "rank": 80862,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9baedf2608a085c2a643419078b280d2512314ad",
+    "trader_name": "Thtpvp",
+    "tag": "Overall",
+    "overall_gain": 616.669758319329,
+    "active_positions": 5,
+    "win_amount": 1523.1456635113411,
+    "loss_amount": -906.4759051920121,
+    "win_rate": 0.4,
+    "total_current_value": 0.018795,
+    "total_positions": 23,
+    "event_ct": 15,
+    "win_count": 6,
+    "rank": 80863,
+    "trader_tags": "> 1 year old"
   }
 ]
