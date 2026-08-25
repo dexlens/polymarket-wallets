@@ -1326,5 +1326,21 @@
     "win_count": 42,
     "rank": 983,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x14e3abe2054dfa9a726077841b74dcb4c11cce1f",
+    "trader_name": "TetyaIra",
+    "tag": "Overall",
+    "overall_gain": 123161.64338100002,
+    "active_positions": 3,
+    "win_amount": 455356.07620499993,
+    "loss_amount": -332194.43282399996,
+    "win_rate": 0.6206088992974239,
+    "total_current_value": 86.25,
+    "total_positions": 509,
+    "event_ct": 427,
+    "win_count": 265,
+    "rank": 984,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Sports PnL > $100k"
   }
 ]
