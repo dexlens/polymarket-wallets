@@ -510,5 +510,21 @@
     "win_count": 20,
     "rank": 8832,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xf1fbeee8784cfa011ed0a0c98296414de8e06080",
+    "trader_name": "Balle",
+    "tag": "Overall",
+    "overall_gain": 11861.217910446489,
+    "active_positions": 313,
+    "win_amount": 78005.32144038081,
+    "loss_amount": -66144.1035299343,
+    "win_rate": 0.5426561125769569,
+    "total_current_value": 0.018409000000000002,
+    "total_positions": 10423,
+    "event_ct": 5685,
+    "win_count": 3085,
+    "rank": 8833,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
