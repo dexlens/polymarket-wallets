@@ -958,5 +958,21 @@
     "win_count": 8,
     "rank": 67561,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x56c39f04464f2a1b0bd5664ab349e7ead151d2d7",
+    "trader_name": "generalstoph",
+    "tag": "Overall",
+    "overall_gain": 873.378342821156,
+    "active_positions": 1,
+    "win_amount": 1128.393631529156,
+    "loss_amount": -255.01528870799999,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 67562,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
