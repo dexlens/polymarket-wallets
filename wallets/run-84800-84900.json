@@ -238,5 +238,21 @@
     "win_count": 10,
     "rank": 84816,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf4ffeffab5a48910b75202573b82fd1b4d8986f3",
+    "trader_name": "szymmon",
+    "tag": "Overall",
+    "overall_gain": 554.699518036909,
+    "active_positions": 1,
+    "win_amount": 5255.960306446909,
+    "loss_amount": -4701.26078841,
+    "win_rate": 0.7538461538461538,
+    "total_current_value": 57.584425,
+    "total_positions": 86,
+    "event_ct": 65,
+    "win_count": 49,
+    "rank": 84817,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
