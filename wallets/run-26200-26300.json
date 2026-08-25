@@ -1230,5 +1230,21 @@
     "win_count": 4,
     "rank": 26278,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0fba294266abca165a74e530f35c76b694e84f46",
+    "trader_name": "Gambito007",
+    "tag": "Overall",
+    "overall_gain": 3326.7419571841983,
+    "active_positions": 0,
+    "win_amount": 22045.255255409706,
+    "loss_amount": -18718.513298225505,
+    "win_rate": 0.9576868829337094,
+    "total_current_value": 0.008905,
+    "total_positions": 717,
+    "event_ct": 709,
+    "win_count": 679,
+    "rank": 26279,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
