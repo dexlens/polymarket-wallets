@@ -1182,5 +1182,21 @@
     "win_count": 10,
     "rank": 61875,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x9de43c5e9cfaaa9f7566352886c316e4365a29d4",
+    "trader_name": "Megum",
+    "tag": "Overall",
+    "overall_gain": 1025.2848,
+    "active_positions": 0,
+    "win_amount": 1025.2848,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 61876,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
