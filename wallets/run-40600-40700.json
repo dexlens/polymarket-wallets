@@ -958,5 +958,21 @@
     "win_count": 13,
     "rank": 40661,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x995683d6ec99c3fb1d195366c05928bb417da7ca",
+    "trader_name": "moronbet",
+    "tag": "Overall",
+    "overall_gain": 1956.370971204822,
+    "active_positions": 1,
+    "win_amount": 2293.0965933288217,
+    "loss_amount": -336.725622124,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 2221.53563287,
+    "total_positions": 14,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 40662,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
