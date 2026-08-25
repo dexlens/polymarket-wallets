@@ -734,5 +734,21 @@
     "win_count": 703,
     "rank": 9146,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x17bf9e17bc58980772907a666e318a2a30e46731",
+    "trader_name": "Paradise Capital",
+    "tag": "Overall",
+    "overall_gain": 11461.236633046057,
+    "active_positions": 12,
+    "win_amount": 16229.025442361724,
+    "loss_amount": -4767.788809315667,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 17356.057554336003,
+    "total_positions": 35,
+    "event_ct": 27,
+    "win_count": 18,
+    "rank": 9147,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
