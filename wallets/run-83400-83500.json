@@ -158,5 +158,21 @@
     "win_count": 44,
     "rank": 83411,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x4d4a8a6301af539f2fcc98f89e0600d1559a9413",
+    "trader_name": "ETFkk",
+    "tag": "Overall",
+    "overall_gain": 575.6009954605271,
+    "active_positions": 4,
+    "win_amount": 575.6009954605271,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 27.600527,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 83412,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
