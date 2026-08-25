@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 14339,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa9dd5a6eced2c44e4e51f63f8a24a156958e6d2e",
+    "trader_name": "Blue-moon",
+    "tag": "Overall",
+    "overall_gain": 6860.329932960463,
+    "active_positions": 9,
+    "win_amount": 8512.434799351886,
+    "loss_amount": -1652.10486639142,
+    "win_rate": 0.9347826086956522,
+    "total_current_value": 21709.438561644,
+    "total_positions": 231,
+    "event_ct": 138,
+    "win_count": 129,
+    "rank": 14340,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
