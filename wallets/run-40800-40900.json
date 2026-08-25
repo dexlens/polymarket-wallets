@@ -1262,5 +1262,21 @@
     "win_count": 2,
     "rank": 40880,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30c854dfdb0196b7624982610b068f783f3efddc",
+    "trader_name": "olevels",
+    "tag": "Overall",
+    "overall_gain": 1941.3012099999992,
+    "active_positions": 2,
+    "win_amount": 4240.180908999999,
+    "loss_amount": -2298.879699,
+    "win_rate": 0.9137931034482759,
+    "total_current_value": 0,
+    "total_positions": 64,
+    "event_ct": 58,
+    "win_count": 53,
+    "rank": 40881,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
