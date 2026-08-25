@@ -638,5 +638,21 @@
     "win_count": 10,
     "rank": 63741,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0xfd7ff5b7b6ab3f549018d6ab8cadbd84c5f0eee4",
+    "trader_name": "FreezB",
+    "tag": "Overall",
+    "overall_gain": 981.233063,
+    "active_positions": 0,
+    "win_amount": 981.233063,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 63742,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
