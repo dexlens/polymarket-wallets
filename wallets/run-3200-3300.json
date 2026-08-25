@@ -286,5 +286,21 @@
     "win_count": 3887,
     "rank": 3218,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x1e294b009d97e9cb5f63586c7cb2e0f426fe9e66",
+    "trader_name": "sushi1234",
+    "tag": "Overall",
+    "overall_gain": 35646.21323891964,
+    "active_positions": 15,
+    "win_amount": 397001.76948632183,
+    "loss_amount": -361355.55624740204,
+    "win_rate": 0.4919093851132686,
+    "total_current_value": 19334.69967338,
+    "total_positions": 1544,
+    "event_ct": 927,
+    "win_count": 456,
+    "rank": 3219,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
