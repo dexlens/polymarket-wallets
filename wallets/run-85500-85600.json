@@ -446,5 +446,21 @@
     "win_count": 1,
     "rank": 85529,
     "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x8c0d5e8285d0efcb8fd30009e2325891edb6a3ce",
+    "trader_name": "Anon (0x8c0d5e8285d0efcb8fd30009e2325891edb6a3ce)",
+    "tag": "Overall",
+    "overall_gain": 544.8186808081239,
+    "active_positions": 25,
+    "win_amount": 1997.7136164932879,
+    "loss_amount": -1452.8949356851642,
+    "win_rate": 0.5961538461538461,
+    "total_current_value": 120.01075004,
+    "total_positions": 59,
+    "event_ct": 52,
+    "win_count": 31,
+    "rank": 85530,
+    "trader_tags": "< 30 days old"
   }
 ]
