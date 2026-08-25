@@ -1102,5 +1102,21 @@
     "win_count": 2,
     "rank": 8769,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x84996559d6c79b013d72778420145ff21ed083a8",
+    "trader_name": "sonibets",
+    "tag": "Overall",
+    "overall_gain": 11951.44612823964,
+    "active_positions": 313,
+    "win_amount": 63526.90457858642,
+    "loss_amount": -51575.458450346785,
+    "win_rate": 0.5105657805044308,
+    "total_current_value": 11.119753477,
+    "total_positions": 1541,
+    "event_ct": 1467,
+    "win_count": 749,
+    "rank": 8770,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
