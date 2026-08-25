@@ -446,5 +446,21 @@
     "win_count": 11,
     "rank": 87029,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0f609a4f7ff89be68986803d314d67df5c0d2a3a",
+    "trader_name": "FlairsReady",
+    "tag": "Overall",
+    "overall_gain": 525.2727122290453,
+    "active_positions": 2,
+    "win_amount": 3146.769933613789,
+    "loss_amount": -2621.497221384743,
+    "win_rate": 0.23529411764705882,
+    "total_current_value": 4.216258,
+    "total_positions": 25,
+    "event_ct": 17,
+    "win_count": 4,
+    "rank": 87030,
+    "trader_tags": "> 1 year old"
   }
 ]
