@@ -974,5 +974,21 @@
     "win_count": 1,
     "rank": 87362,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6bd43e2b05bd6b68b8c1403122a42529c33aa757",
+    "trader_name": "putmerd",
+    "tag": "Overall",
+    "overall_gain": 520.764430636895,
+    "active_positions": 4,
+    "win_amount": 823.7631289999999,
+    "loss_amount": -302.998698363105,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 87363,
+    "trader_tags": ""
   }
 ]
