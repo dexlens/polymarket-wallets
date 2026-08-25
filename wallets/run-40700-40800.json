@@ -526,5 +526,21 @@
     "win_count": 2,
     "rank": 40734,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xefaf9c706f5d715dc9a16a7d0f15eb46e3708c7e",
+    "trader_name": "FayeWong",
+    "tag": "Overall",
+    "overall_gain": 1951.499370329242,
+    "active_positions": 1051,
+    "win_amount": 44258.352117277725,
+    "loss_amount": -42306.85274694852,
+    "win_rate": 0.6237541528239202,
+    "total_current_value": 270.599794115,
+    "total_positions": 3872,
+    "event_ct": 3612,
+    "win_count": 2253,
+    "rank": 40735,
+    "trader_tags": "1k+ Positions"
   }
 ]
