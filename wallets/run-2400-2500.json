@@ -1390,5 +1390,21 @@
     "win_count": 5,
     "rank": 2487,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c4bad2680956e6acdd5a19c6e475b5aae2cb6d1",
+    "trader_name": "KarenaFlourishing",
+    "tag": "Overall",
+    "overall_gain": 47267.383181,
+    "active_positions": 0,
+    "win_amount": 47375.33318100001,
+    "loss_amount": -107.95,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 23,
+    "win_count": 16,
+    "rank": 2488,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
