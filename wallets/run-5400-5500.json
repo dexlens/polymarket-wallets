@@ -1550,5 +1550,21 @@
     "win_count": 3,
     "rank": 5497,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc2c680c2014af37d9be0f1d96cb343eab557bef3",
+    "trader_name": "Holyfs",
+    "tag": "Overall",
+    "overall_gain": 19658.822909,
+    "active_positions": 1,
+    "win_amount": 20098.402824999997,
+    "loss_amount": -439.579916,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 27,
+    "win_count": 18,
+    "rank": 5498,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
