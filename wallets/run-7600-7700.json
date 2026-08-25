@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 7625,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7c034b8a4c3afe380f1d4a4640e49d872058bb32",
+    "trader_name": "SCJ",
+    "tag": "Overall",
+    "overall_gain": 13882.320320969458,
+    "active_positions": 0,
+    "win_amount": 17502.605762,
+    "loss_amount": -3620.285441030543,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.054208,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 7626,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
