@@ -318,5 +318,21 @@
     "win_count": 10,
     "rank": 15020,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x634bd1e9e1e63020a96e9d404d86404cd0340816",
+    "trader_name": "TradeTreasure",
+    "tag": "Overall",
+    "overall_gain": 6485.188424000001,
+    "active_positions": 1,
+    "win_amount": 6700.379424000001,
+    "loss_amount": -215.19099999999997,
+    "win_rate": 0.6842105263157895,
+    "total_current_value": 106.212,
+    "total_positions": 37,
+    "event_ct": 19,
+    "win_count": 13,
+    "rank": 15021,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
