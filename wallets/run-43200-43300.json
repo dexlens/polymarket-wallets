@@ -974,5 +974,21 @@
     "win_count": 5,
     "rank": 43262,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x145cecce19d952aa5be5c5639765c090dd89fc73",
+    "trader_name": "BreezeLotus",
+    "tag": "Overall",
+    "overall_gain": 1806.7567989999998,
+    "active_positions": 15,
+    "win_amount": 3717.3467990000004,
+    "loss_amount": -1910.5900000000001,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0,
+    "total_positions": 34,
+    "event_ct": 34,
+    "win_count": 18,
+    "rank": 43263,
+    "trader_tags": ""
   }
 ]
