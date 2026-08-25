@@ -1102,5 +1102,21 @@
     "win_count": 1,
     "rank": 54070,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7797ddfb7bc6a70e03ceb78f8162676c337b0637",
+    "trader_name": "BABIII",
+    "tag": "Overall",
+    "overall_gain": 1300,
+    "active_positions": 1,
+    "win_amount": 1950,
+    "loss_amount": -650,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 54071,
+    "trader_tags": ""
   }
 ]
