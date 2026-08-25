@@ -1006,5 +1006,21 @@
     "win_count": 2,
     "rank": 87364,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x68e2acb5db41fe42f5c34542c4b7d5532a35aba4",
+    "trader_name": "wwslonic",
+    "tag": "Overall",
+    "overall_gain": 520.7514436399999,
+    "active_positions": 2,
+    "win_amount": 564.76890364,
+    "loss_amount": -44.017460000000014,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 186.2954,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 15,
+    "rank": 87365,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
