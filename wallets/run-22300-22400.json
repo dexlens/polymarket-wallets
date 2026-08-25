@@ -622,5 +622,21 @@
     "win_count": 33,
     "rank": 22339,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc63a7eeb979e2001dcb1fd4ec075b1fdacd768db",
+    "trader_name": "DD55555",
+    "tag": "Overall",
+    "overall_gain": 4044.8259769038905,
+    "active_positions": 72,
+    "win_amount": 29566.639897706595,
+    "loss_amount": -25521.813920802706,
+    "win_rate": 0.8924570575056012,
+    "total_current_value": 478.70490492049987,
+    "total_positions": 1423,
+    "event_ct": 1339,
+    "win_count": 1195,
+    "rank": 22340,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
