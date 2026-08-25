@@ -430,5 +430,21 @@
     "win_count": 4,
     "rank": 3927,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa5b740cc5ec5661383372d386e57b028801a0d89",
+    "trader_name": "silosobea",
+    "tag": "Overall",
+    "overall_gain": 28737.64097605528,
+    "active_positions": 4,
+    "win_amount": 33419.480976055296,
+    "loss_amount": -4681.84,
+    "win_rate": 0.967741935483871,
+    "total_current_value": 13.196813544,
+    "total_positions": 86,
+    "event_ct": 31,
+    "win_count": 30,
+    "rank": 3928,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
