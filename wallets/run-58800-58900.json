@@ -990,5 +990,21 @@
     "win_count": 16,
     "rank": 58863,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xade09da9a4541eca64d3cfb11f65536390b70230",
+    "trader_name": "Trumaner",
+    "tag": "Overall",
+    "overall_gain": 1113.0822051756659,
+    "active_positions": 0,
+    "win_amount": 1114.085746,
+    "loss_amount": -1.003540824334,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.015631169,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 2,
+    "rank": 58864,
+    "trader_tags": "< 30 days old"
   }
 ]
