@@ -590,5 +590,21 @@
     "win_count": 1,
     "rank": 67838,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9c968a8d6da8299be39ad0501208faacb6c6fa63",
+    "trader_name": "Kooobpo",
+    "tag": "Overall",
+    "overall_gain": 865.191035039884,
+    "active_positions": 2,
+    "win_amount": 889.910543,
+    "loss_amount": -24.719507960115997,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.014352875000000001,
+    "total_positions": 13,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 67839,
+    "trader_tags": ""
   }
 ]
