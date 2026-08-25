@@ -958,5 +958,21 @@
     "win_count": 109,
     "rank": 30461,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x95363c293f16192f0b9328e2c51cda7258a552dc",
+    "trader_name": "Mirageris",
+    "tag": "Overall",
+    "overall_gain": 2764.5,
+    "active_positions": 3,
+    "win_amount": 3606.5,
+    "loss_amount": -842,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 30462,
+    "trader_tags": ""
   }
 ]
