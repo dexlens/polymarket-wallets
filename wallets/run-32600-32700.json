@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 32685,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbfe54da19ecd5331dbe355e2ed1a9bf79edab6a1",
+    "trader_name": "itsmeadegon",
+    "tag": "Overall",
+    "overall_gain": 2532.30541034923,
+    "active_positions": 58,
+    "win_amount": 13438.494677629438,
+    "loss_amount": -10906.189267280211,
+    "win_rate": 0.6598360655737705,
+    "total_current_value": 208.82428540999996,
+    "total_positions": 267,
+    "event_ct": 244,
+    "win_count": 161,
+    "rank": 32686,
+    "trader_tags": "< 30 days old"
   }
 ]
