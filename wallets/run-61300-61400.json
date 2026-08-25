@@ -686,5 +686,21 @@
     "win_count": 2,
     "rank": 61344,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3e3d56773976bfb4b36fe16f28f7b15867b7bbfa",
+    "trader_name": "TurboNinja",
+    "tag": "Overall",
+    "overall_gain": 1038.765743533792,
+    "active_positions": 37,
+    "win_amount": 2626.5524010500367,
+    "loss_amount": -1587.7866575162438,
+    "win_rate": 0.5474452554744526,
+    "total_current_value": 4604.9018956345,
+    "total_positions": 337,
+    "event_ct": 137,
+    "win_count": 75,
+    "rank": 61345,
+    "trader_tags": "< 30 days old"
   }
 ]
