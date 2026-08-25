@@ -1422,5 +1422,21 @@
     "win_count": 20,
     "rank": 13089,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe4206d5b5f4980f18e7abb1003fc15bc445a393a",
+    "trader_name": "rollator",
+    "tag": "Overall",
+    "overall_gain": 7672.284911791645,
+    "active_positions": 1,
+    "win_amount": 10135.371465,
+    "loss_amount": -2463.0865532083553,
+    "win_rate": 0.75,
+    "total_current_value": 1.2127904937214552e-12,
+    "total_positions": 57,
+    "event_ct": 56,
+    "win_count": 42,
+    "rank": 13090,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
