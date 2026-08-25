@@ -558,5 +558,21 @@
     "win_count": 10,
     "rank": 2135,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xafe65d1671a61dfaab2b463257450ec7f1fe8192",
+    "trader_name": "TOWERCAPITAL",
+    "tag": "Overall",
+    "overall_gain": 56450.9328658886,
+    "active_positions": 52,
+    "win_amount": 80100.92442384321,
+    "loss_amount": -23649.991557954607,
+    "win_rate": 0.41935483870967744,
+    "total_current_value": 5058.718419215,
+    "total_positions": 89,
+    "event_ct": 62,
+    "win_count": 26,
+    "rank": 2136,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
