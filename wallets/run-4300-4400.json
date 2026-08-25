@@ -1070,5 +1070,21 @@
     "win_count": 99,
     "rank": 4367,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9427a3be6f21339040c2c44222815f8c0f3910fb",
+    "trader_name": "qitao",
+    "tag": "Overall",
+    "overall_gain": 25441.381400477232,
+    "active_positions": 2,
+    "win_amount": 27138.0294192,
+    "loss_amount": -1696.6480187227671,
+    "win_rate": 0.8,
+    "total_current_value": 2.730772,
+    "total_positions": 35,
+    "event_ct": 35,
+    "win_count": 28,
+    "rank": 4368,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
