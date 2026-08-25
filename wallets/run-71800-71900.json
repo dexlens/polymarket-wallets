@@ -1422,5 +1422,21 @@
     "win_count": 196,
     "rank": 71890,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xf00ff55557a2abb3be66a7a65a8f6715296a700a",
+    "trader_name": "Joke2",
+    "tag": "Overall",
+    "overall_gain": 769.16543,
+    "active_positions": 2,
+    "win_amount": 1259.68543,
+    "loss_amount": -490.52,
+    "win_rate": 0.75,
+    "total_current_value": 2.715,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 71891,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
