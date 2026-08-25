@@ -366,5 +366,21 @@
     "win_count": 22,
     "rank": 5223,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xc7e53ac4a7c76d6df8b794de2e7d0794265d2d3a",
+    "trader_name": "LiquidatedDegen",
+    "tag": "Overall",
+    "overall_gain": 20749.451933338594,
+    "active_positions": 1013,
+    "win_amount": 661374.5626516003,
+    "loss_amount": -640625.110718262,
+    "win_rate": 0.40328253223915594,
+    "total_current_value": 62805.534320097024,
+    "total_positions": 1931,
+    "event_ct": 1706,
+    "win_count": 688,
+    "rank": 5224,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
