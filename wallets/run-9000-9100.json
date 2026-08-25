@@ -1390,5 +1390,21 @@
     "win_count": 27,
     "rank": 9087,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ed0bd7fba4dbd4953e8be1612f695823111c8d8",
+    "trader_name": "PhoN1xx",
+    "tag": "Overall",
+    "overall_gain": 11535.457182043136,
+    "active_positions": 2,
+    "win_amount": 11538.457175,
+    "loss_amount": -2.9999929568640002,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 4,
+    "win_count": 2,
+    "rank": 9088,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
