@@ -142,5 +142,21 @@
     "win_count": 95,
     "rank": 1509,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0x8ac1eaed0399f8332f47041436312d6cd4b19595",
+    "trader_name": "b1gGambler",
+    "tag": "Overall",
+    "overall_gain": 80095.44320051349,
+    "active_positions": 649,
+    "win_amount": 171095.82580694815,
+    "loss_amount": -91000.38260643471,
+    "win_rate": 0.6197503671071953,
+    "total_current_value": 1.6741280000000003,
+    "total_positions": 25771,
+    "event_ct": 13620,
+    "win_count": 8441,
+    "rank": 1510,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
