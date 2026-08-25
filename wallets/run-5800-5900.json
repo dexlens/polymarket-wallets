@@ -94,5 +94,21 @@
     "win_count": 27,
     "rank": 5806,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2aa2b63b0010124807c7d805d239ddaf9493ff66",
+    "trader_name": "Myamco",
+    "tag": "Overall",
+    "overall_gain": 18533.389708644514,
+    "active_positions": 2,
+    "win_amount": 27463.24645261429,
+    "loss_amount": -8929.856743969773,
+    "win_rate": 0.5,
+    "total_current_value": 0.014433,
+    "total_positions": 13,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 5807,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
