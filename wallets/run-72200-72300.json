@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 72259,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9eca74dcb0fa8ffb7ad2bcf1bbcd14d27487fc20",
+    "trader_name": "Amory",
+    "tag": "Overall",
+    "overall_gain": 760.925588574009,
+    "active_positions": 7,
+    "win_amount": 8423.89227453557,
+    "loss_amount": -7662.966685961559,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 0.343345,
+    "total_positions": 176,
+    "event_ct": 156,
+    "win_count": 120,
+    "rank": 72260,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
