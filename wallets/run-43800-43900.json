@@ -734,5 +734,21 @@
     "win_count": 5,
     "rank": 43847,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0cd7bea497efb9220105858617f0cd660d0a78e0",
+    "trader_name": "SirJason",
+    "tag": "Overall",
+    "overall_gain": 1775.0081023803777,
+    "active_positions": 2,
+    "win_amount": 1783.4349864161486,
+    "loss_amount": -8.426884035771,
+    "win_rate": 0.875,
+    "total_current_value": 2247.2197731059996,
+    "total_positions": 9,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 43848,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
