@@ -254,5 +254,21 @@
     "win_count": 1,
     "rank": 64117,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc7a9771f8e3ebd6a5f9687d535d84d4dcfd3680f",
+    "trader_name": "IKRA",
+    "tag": "Overall",
+    "overall_gain": 970.8505242935639,
+    "active_positions": 1,
+    "win_amount": 981.0198558596229,
+    "loss_amount": -10.169331566059002,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.038367,
+    "total_positions": 22,
+    "event_ct": 21,
+    "win_count": 14,
+    "rank": 64118,
+    "trader_tags": "> 1 year old"
   }
 ]
