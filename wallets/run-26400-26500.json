@@ -926,5 +926,21 @@
     "win_count": 3,
     "rank": 26459,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x48b02ca501bdd00861b3a0e906e921edc1ad083e",
+    "trader_name": "CFYL",
+    "tag": "Overall",
+    "overall_gain": 3295.3274720739028,
+    "active_positions": 2,
+    "win_amount": 55847.22295274697,
+    "loss_amount": -52551.89548067307,
+    "win_rate": 0.25,
+    "total_current_value": 0.007691,
+    "total_positions": 17,
+    "event_ct": 12,
+    "win_count": 3,
+    "rank": 26460,
+    "trader_tags": "> 1 year old"
   }
 ]
