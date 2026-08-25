@@ -574,5 +574,21 @@
     "win_count": 25,
     "rank": 35837,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15a317a9a6c5492782e98c10374cd314e4c782da",
+    "trader_name": "cusertoken",
+    "tag": "Overall",
+    "overall_gain": 2273.7647387505644,
+    "active_positions": 20,
+    "win_amount": 2554.057824619539,
+    "loss_amount": -280.293085868975,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 38.5766188995,
+    "total_positions": 46,
+    "event_ct": 26,
+    "win_count": 14,
+    "rank": 35838,
+    "trader_tags": ""
   }
 ]
