@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 80141,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x35d115e853119758362fabce5af35e87c8fd59a8",
+    "trader_name": "Baloutelli",
+    "tag": "Overall",
+    "overall_gain": 628.441376598512,
+    "active_positions": 0,
+    "win_amount": 628.441376598512,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005343,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 80142,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
