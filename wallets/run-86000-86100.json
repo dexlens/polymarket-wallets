@@ -1230,5 +1230,21 @@
     "win_count": 5,
     "rank": 86078,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xd3a9fbcbb1b98c37bb7ea4a66c82f7c8635c1a44",
+    "trader_name": "grl1",
+    "tag": "Overall",
+    "overall_gain": 538.2332699384231,
+    "active_positions": 0,
+    "win_amount": 538.2332699384231,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.004783,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 4,
+    "rank": 86079,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
