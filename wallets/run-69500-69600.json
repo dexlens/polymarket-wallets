@@ -990,5 +990,21 @@
     "win_count": 10,
     "rank": 69563,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1797515bdd2b903fd0a5a0d7da1fad463fc271d4",
+    "trader_name": "blacksmitha",
+    "tag": "Overall",
+    "overall_gain": 820.7845908973087,
+    "active_positions": 161,
+    "win_amount": 2184.635912045335,
+    "loss_amount": -1363.851321148026,
+    "win_rate": 0.720558882235529,
+    "total_current_value": 1192.5837080000001,
+    "total_positions": 734,
+    "event_ct": 501,
+    "win_count": 361,
+    "rank": 69564,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
