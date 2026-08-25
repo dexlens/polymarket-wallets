@@ -1454,5 +1454,21 @@
     "win_count": 5,
     "rank": 32592,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc0f7a6b7a45538a3b529fc580701b3d403b1274d",
+    "trader_name": "adverse-selection",
+    "tag": "Overall",
+    "overall_gain": 2541.800233967462,
+    "active_positions": 59,
+    "win_amount": 9826.685037206766,
+    "loss_amount": -7284.884803239307,
+    "win_rate": 0.48283038501560877,
+    "total_current_value": 299.18781832099995,
+    "total_positions": 2455,
+    "event_ct": 1922,
+    "win_count": 928,
+    "rank": 32593,
+    "trader_tags": "1k+ Positions"
   }
 ]
