@@ -1534,5 +1534,21 @@
     "win_count": 3,
     "rank": 23496,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x28b6caf96868da097ad7c882edbc6441c50b0b15",
+    "trader_name": "irondata",
+    "tag": "Overall",
+    "overall_gain": 3818.8999999999996,
+    "active_positions": 4,
+    "win_amount": 5745.0599999999995,
+    "loss_amount": -1926.16,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 0,
+    "total_positions": 18,
+    "event_ct": 18,
+    "win_count": 14,
+    "rank": 23497,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
