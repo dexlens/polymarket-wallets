@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 80041,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x83bed1c7be7778b6f4741aee03f915123f297037",
+    "trader_name": "Zawwgan",
+    "tag": "Overall",
+    "overall_gain": 630,
+    "active_positions": 1,
+    "win_amount": 1590.5,
+    "loss_amount": -960.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 80042,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
