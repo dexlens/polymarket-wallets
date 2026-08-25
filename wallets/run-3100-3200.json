@@ -366,5 +366,21 @@
     "win_count": 66,
     "rank": 3123,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xee8e24c26b7d591a543972fd7ac424d8a8310a7b",
+    "trader_name": "itzlebrian",
+    "tag": "Overall",
+    "overall_gain": 36625.32234707625,
+    "active_positions": 12,
+    "win_amount": 192545.3140491276,
+    "loss_amount": -155919.9917020513,
+    "win_rate": 0.696319018404908,
+    "total_current_value": 17960.339441415505,
+    "total_positions": 389,
+    "event_ct": 326,
+    "win_count": 227,
+    "rank": 3124,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
