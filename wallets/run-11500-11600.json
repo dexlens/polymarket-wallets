@@ -734,5 +734,21 @@
     "win_count": 4,
     "rank": 11546,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3841de6eeb1d1fd555a9696025e77d10c92fcd5c",
+    "trader_name": "morskayazvezda",
+    "tag": "Overall",
+    "overall_gain": 9020.425756141529,
+    "active_positions": 6,
+    "win_amount": 11689.629814651254,
+    "loss_amount": -2669.2040585097257,
+    "win_rate": 0.46875,
+    "total_current_value": 14.172603933,
+    "total_positions": 41,
+    "event_ct": 32,
+    "win_count": 15,
+    "rank": 11547,
+    "trader_tags": ""
   }
 ]
