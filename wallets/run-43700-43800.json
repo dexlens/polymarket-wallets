@@ -190,5 +190,21 @@
     "win_count": 5,
     "rank": 43713,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x40ac39f67c019d50ba55ec381a8351436c588cb3",
+    "trader_name": "FrankSay",
+    "tag": "Overall",
+    "overall_gain": 1781.7953613758955,
+    "active_positions": 7,
+    "win_amount": 9839.784694268026,
+    "loss_amount": -8057.98933289213,
+    "win_rate": 0.75,
+    "total_current_value": 71.5770444435,
+    "total_positions": 14,
+    "event_ct": 12,
+    "win_count": 9,
+    "rank": 43714,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
