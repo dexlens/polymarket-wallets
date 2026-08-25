@@ -814,5 +814,21 @@
     "win_count": 3,
     "rank": 9351,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6339c72d36784671ff3bc0e496493281637da0c9",
+    "trader_name": "gogagoga",
+    "tag": "Overall",
+    "overall_gain": 11202.594844567688,
+    "active_positions": 0,
+    "win_amount": 13740.61729352199,
+    "loss_amount": -2538.0224489543016,
+    "win_rate": 0.7368421052631579,
+    "total_current_value": 0.067598,
+    "total_positions": 20,
+    "event_ct": 19,
+    "win_count": 14,
+    "rank": 9352,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
