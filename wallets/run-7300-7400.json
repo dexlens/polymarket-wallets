@@ -1038,5 +1038,21 @@
     "win_count": 6,
     "rank": 7365,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa9c872e1ffec9aeb057b299fd3eb2b66289ac493",
+    "trader_name": "FreeMoney1",
+    "tag": "Overall",
+    "overall_gain": 14459.824045063991,
+    "active_positions": 0,
+    "win_amount": 24266.53033906399,
+    "loss_amount": -9806.706294,
+    "win_rate": 0.5510204081632653,
+    "total_current_value": 0.03189,
+    "total_positions": 70,
+    "event_ct": 49,
+    "win_count": 27,
+    "rank": 7366,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
