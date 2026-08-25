@@ -750,5 +750,21 @@
     "win_count": 3,
     "rank": 1247,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd043d8bdca05c5f9ecdf75df3c6681ac74ca7e85",
+    "trader_name": "KURAKAO",
+    "tag": "Overall",
+    "overall_gain": 97067.5169552775,
+    "active_positions": 15,
+    "win_amount": 98015.60612322188,
+    "loss_amount": -948.08916794438,
+    "win_rate": 0.85,
+    "total_current_value": 15084.430396110003,
+    "total_positions": 199,
+    "event_ct": 120,
+    "win_count": 102,
+    "rank": 1248,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
