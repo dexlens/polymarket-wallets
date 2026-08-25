@@ -990,5 +990,21 @@
     "win_count": 12,
     "rank": 10262,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x76009c7a98f146d5e2fcf39e5b1aea4294683eec",
+    "trader_name": "JoeTrum",
+    "tag": "Overall",
+    "overall_gain": 10251.262746057011,
+    "active_positions": 4,
+    "win_amount": 13897.541293416556,
+    "loss_amount": -3646.2785473595413,
+    "win_rate": 0.9036144578313253,
+    "total_current_value": 0.073717,
+    "total_positions": 423,
+    "event_ct": 166,
+    "win_count": 150,
+    "rank": 10263,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
