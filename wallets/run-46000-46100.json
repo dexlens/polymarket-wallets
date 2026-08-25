@@ -462,5 +462,21 @@
     "win_count": 26,
     "rank": 46030,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x91880807003f61728aba9482e92fb463f8401836",
+    "trader_name": "etihennancy",
+    "tag": "Overall",
+    "overall_gain": 1664.82,
+    "active_positions": 0,
+    "win_amount": 1664.82,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 46031,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
