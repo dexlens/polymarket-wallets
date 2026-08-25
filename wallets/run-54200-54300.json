@@ -622,5 +622,21 @@
     "win_count": 3,
     "rank": 54240,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x27e35cb9852772cbe01cc37c65114b8167a0bbd0",
+    "trader_name": "jhgf7675",
+    "tag": "Overall",
+    "overall_gain": 1292.9881076254758,
+    "active_positions": 8,
+    "win_amount": 3880.759208559158,
+    "loss_amount": -2587.771100933683,
+    "win_rate": 0.7096774193548387,
+    "total_current_value": 47.239157999999996,
+    "total_positions": 31,
+    "event_ct": 31,
+    "win_count": 22,
+    "rank": 54241,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
