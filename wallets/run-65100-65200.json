@@ -1310,5 +1310,21 @@
     "win_count": 1,
     "rank": 65183,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3dbc72f05e8e7324e4984b76be6637d89e3e7c66",
+    "trader_name": "hanni",
+    "tag": "Overall",
+    "overall_gain": 939.8894642533551,
+    "active_positions": 0,
+    "win_amount": 2218.10481507,
+    "loss_amount": -1278.215350816645,
+    "win_rate": 0.8805970149253731,
+    "total_current_value": 0.019540000000000002,
+    "total_positions": 73,
+    "event_ct": 67,
+    "win_count": 59,
+    "rank": 65184,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
