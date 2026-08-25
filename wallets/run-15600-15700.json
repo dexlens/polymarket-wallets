@@ -1582,5 +1582,21 @@
     "win_count": 32,
     "rank": 15699,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3ea7b1bc882e3688c171c27953026eee210badd6",
+    "trader_name": "panpig",
+    "tag": "Overall",
+    "overall_gain": 6140.752019748144,
+    "active_positions": 2,
+    "win_amount": 6474.758835795221,
+    "loss_amount": -334.0068160470764,
+    "win_rate": 0.75,
+    "total_current_value": 72428.93318543851,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 15700,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
