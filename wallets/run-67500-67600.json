@@ -1566,5 +1566,21 @@
     "win_count": 9,
     "rank": 67599,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x930b52ebd49803f80714e1bbba87ce869b2dc8bc",
+    "trader_name": "yaew",
+    "tag": "Overall",
+    "overall_gain": 872.5909604628496,
+    "active_positions": 4,
+    "win_amount": 4157.566422,
+    "loss_amount": -3284.9754615371503,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 67600,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
