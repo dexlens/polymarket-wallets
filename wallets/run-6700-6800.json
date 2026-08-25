@@ -1550,5 +1550,21 @@
     "win_count": 207,
     "rank": 6797,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x00dcd75c69a475e88e186cbd36059d59dff16ab8",
+    "trader_name": "YoonSukYeol",
+    "tag": "Overall",
+    "overall_gain": 15784.055326412341,
+    "active_positions": 5,
+    "win_amount": 31549.34001843555,
+    "loss_amount": -15765.284692023208,
+    "win_rate": 0.5227272727272727,
+    "total_current_value": 0.08524534,
+    "total_positions": 57,
+    "event_ct": 44,
+    "win_count": 23,
+    "rank": 6798,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
