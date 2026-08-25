@@ -1582,5 +1582,21 @@
     "win_count": 2,
     "rank": 87200,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x996a9d7980e0b0aa43f4bd2c413ba0f3ddc8261f",
+    "trader_name": "PetraQ",
+    "tag": "Overall",
+    "overall_gain": 523.2986969700079,
+    "active_positions": 3,
+    "win_amount": 4476.155109270552,
+    "loss_amount": -3952.8564123005444,
+    "win_rate": 0.9071230807953687,
+    "total_current_value": 6.538468,
+    "total_positions": 4016,
+    "event_ct": 3973,
+    "win_count": 3604,
+    "rank": 87201,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
