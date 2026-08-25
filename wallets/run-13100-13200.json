@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 13125,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcf154ea0a02ea3f0dc5cdaeef67da70597a876e0",
+    "trader_name": "JenkinsJulian",
+    "tag": "Overall",
+    "overall_gain": 7648.534601320195,
+    "active_positions": 1,
+    "win_amount": 7648.569925957154,
+    "loss_amount": -0.03532463695800003,
+    "win_rate": 0.9,
+    "total_current_value": 1.26482659,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 13126,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
