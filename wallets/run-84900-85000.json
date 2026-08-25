@@ -1182,5 +1182,21 @@
     "win_count": 20,
     "rank": 84975,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf0c37def6199c7595c5aa59f7f9cd42020129e5e",
+    "trader_name": "slack",
+    "tag": "Overall",
+    "overall_gain": 552.74142,
+    "active_positions": 0,
+    "win_amount": 552.74142,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 84976,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
