@@ -1134,5 +1134,21 @@
     "win_count": 3,
     "rank": 62472,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x15c97829dac5ccbd28052f9cab001061f186a012",
+    "trader_name": "priaoslo",
+    "tag": "Overall",
+    "overall_gain": 1010.337908617397,
+    "active_positions": 17,
+    "win_amount": 1443.241883734243,
+    "loss_amount": -432.903975116846,
+    "win_rate": 0.6792452830188679,
+    "total_current_value": 1291.7542550444998,
+    "total_positions": 147,
+    "event_ct": 53,
+    "win_count": 36,
+    "rank": 62473,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
