@@ -942,5 +942,21 @@
     "win_count": 13,
     "rank": 9259,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xf6dd6be17a5e2c37be705300a1deef65f9858b14",
+    "trader_name": "OmegaObelisk",
+    "tag": "Overall",
+    "overall_gain": 11333,
+    "active_positions": 4,
+    "win_amount": 12043,
+    "loss_amount": -710,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 4,
+    "rank": 9260,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
