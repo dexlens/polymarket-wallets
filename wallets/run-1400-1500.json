@@ -158,5 +158,21 @@
     "win_count": 1,
     "rank": 1410,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44d9200a6b0106d041f9460fa84d054736c14c1a",
+    "trader_name": "Loyalty-Crash",
+    "tag": "Overall",
+    "overall_gain": 85909.35851079956,
+    "active_positions": 18,
+    "win_amount": 180284.66417436054,
+    "loss_amount": -94375.30566356106,
+    "win_rate": 0.6311475409836066,
+    "total_current_value": 121411.73551453848,
+    "total_positions": 172,
+    "event_ct": 122,
+    "win_count": 77,
+    "rank": 1411,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
