@@ -462,5 +462,21 @@
     "win_count": 79,
     "rank": 30730,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98c54d891de0d8fcbb11793485e3db4001bf5916",
+    "trader_name": "Phforcys",
+    "tag": "Overall",
+    "overall_gain": 2731.5,
+    "active_positions": 2,
+    "win_amount": 3636.5,
+    "loss_amount": -905,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 30731,
+    "trader_tags": ""
   }
 ]
