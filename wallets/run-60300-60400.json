@@ -1086,5 +1086,21 @@
     "win_count": 1,
     "rank": 60369,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x82e7f153abb20a16f135c82247670b8041d3c309",
+    "trader_name": "3gghead",
+    "tag": "Overall",
+    "overall_gain": 1065.2048820542352,
+    "active_positions": 14,
+    "win_amount": 5471.756386766834,
+    "loss_amount": -4406.551504712599,
+    "win_rate": 0.6595744680851063,
+    "total_current_value": 0.009387,
+    "total_positions": 47,
+    "event_ct": 47,
+    "win_count": 31,
+    "rank": 60370,
+    "trader_tags": ""
   }
 ]
