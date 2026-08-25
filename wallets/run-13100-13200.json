@@ -958,5 +958,21 @@
     "win_count": 12,
     "rank": 13160,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x32f1b2bea0def6a273b3144c2261951da69c1a5e",
+    "trader_name": "jaylinjasko",
+    "tag": "Overall",
+    "overall_gain": 7624.5,
+    "active_positions": 0,
+    "win_amount": 12275.5,
+    "loss_amount": -4651,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 13161,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
