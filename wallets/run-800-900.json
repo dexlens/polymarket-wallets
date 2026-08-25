@@ -782,5 +782,21 @@
     "win_count": 18,
     "rank": 849,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x04847b0925c5a537c001185c50a6ea2ac1919321",
+    "trader_name": "MarketMak3r1",
+    "tag": "Overall",
+    "overall_gain": 143936.43227718608,
+    "active_positions": 3315,
+    "win_amount": 522739.3949336164,
+    "loss_amount": -378802.9626564302,
+    "win_rate": 0.5299650631550659,
+    "total_current_value": 13.137576999999997,
+    "total_positions": 30488,
+    "event_ct": 18605,
+    "win_count": 9860,
+    "rank": 850,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
