@@ -574,5 +574,21 @@
     "win_count": 204,
     "rank": 10336,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9d31ca0175e9f7da19967239798171e3cb1bb648",
+    "trader_name": "Samurai12",
+    "tag": "Overall",
+    "overall_gain": 10169.497579223176,
+    "active_positions": 5,
+    "win_amount": 10169.542043223177,
+    "loss_amount": -0.04446399999999073,
+    "win_rate": 0.95,
+    "total_current_value": 231.539661125,
+    "total_positions": 41,
+    "event_ct": 20,
+    "win_count": 19,
+    "rank": 10337,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
