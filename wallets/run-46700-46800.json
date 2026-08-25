@@ -142,5 +142,21 @@
     "win_count": 42,
     "rank": 46710,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x86b39acd5e9a6c2473cf4afa3c303f2fc2eb8828",
+    "trader_name": "1w1p4s",
+    "tag": "Overall",
+    "overall_gain": 1630.1049559961587,
+    "active_positions": 10,
+    "win_amount": 4260.485438556281,
+    "loss_amount": -2630.380482560122,
+    "win_rate": 0.7142857142857143,
+    "total_current_value": 166.04653604450002,
+    "total_positions": 36,
+    "event_ct": 14,
+    "win_count": 10,
+    "rank": 46711,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
