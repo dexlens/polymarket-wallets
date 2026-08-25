@@ -542,5 +542,21 @@
     "win_count": 13,
     "rank": 10134,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdbdb898e66f00456b3a2a8bb7cbd7eb21b3abc86",
+    "trader_name": "kite3",
+    "tag": "Overall",
+    "overall_gain": 10364.702188000003,
+    "active_positions": 0,
+    "win_amount": 10395.404949000002,
+    "loss_amount": -30.702761000000002,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 22,
+    "win_count": 16,
+    "rank": 10135,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
