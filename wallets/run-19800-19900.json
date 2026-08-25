@@ -782,5 +782,21 @@
     "win_count": 5,
     "rank": 19849,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9f103771655fc77028f1d6415eb14855b964f54a",
+    "trader_name": "Nfereus",
+    "tag": "Overall",
+    "overall_gain": 4664.5,
+    "active_positions": 2,
+    "win_amount": 5188.5,
+    "loss_amount": -524,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 19850,
+    "trader_tags": ""
   }
 ]
