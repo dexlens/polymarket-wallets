@@ -318,5 +318,21 @@
     "win_count": 15,
     "rank": 42421,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x337ee35a16ebce003012babb86f5d3eb3ce3bcd3",
+    "trader_name": "lydia-ex",
+    "tag": "Overall",
+    "overall_gain": 1853.3557860000003,
+    "active_positions": 11,
+    "win_amount": 1854.4557860000002,
+    "loss_amount": -1.1,
+    "win_rate": 0.875,
+    "total_current_value": 5004,
+    "total_positions": 11,
+    "event_ct": 8,
+    "win_count": 7,
+    "rank": 42422,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
