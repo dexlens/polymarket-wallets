@@ -1054,5 +1054,21 @@
     "win_count": 55,
     "rank": 67067,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1368174662147bb2a40c615c1afb015de29a220f",
+    "trader_name": "Umnik",
+    "tag": "Overall",
+    "overall_gain": 887.0899850000001,
+    "active_positions": 0,
+    "win_amount": 887.0899850000001,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 67068,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
