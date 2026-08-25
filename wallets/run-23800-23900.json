@@ -1230,5 +1230,21 @@
     "win_count": 1,
     "rank": 23878,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa0d0941dac5d49c9d358401c19353fe982f29bfb",
+    "trader_name": "nygox",
+    "tag": "Overall",
+    "overall_gain": 3742.5,
+    "active_positions": 3,
+    "win_amount": 4271.5,
+    "loss_amount": -529,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 23879,
+    "trader_tags": ""
   }
 ]
