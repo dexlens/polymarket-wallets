@@ -1294,5 +1294,21 @@
     "win_count": 12,
     "rank": 9981,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x500bbab91803427f8f1d60c23263cc0c92e553e5",
+    "trader_name": "WinstonMichelson",
+    "tag": "Overall",
+    "overall_gain": 10499.185644101823,
+    "active_positions": 7,
+    "win_amount": 15999.185644101824,
+    "loss_amount": -5500,
+    "win_rate": 0.7931034482758621,
+    "total_current_value": 4.022152,
+    "total_positions": 34,
+    "event_ct": 29,
+    "win_count": 23,
+    "rank": 9982,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
