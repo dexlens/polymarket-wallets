@@ -1374,5 +1374,21 @@
     "win_count": 13,
     "rank": 9086,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4900e774120075b20b51e787f91327646038301f",
+    "trader_name": "JIUZOU",
+    "tag": "Overall",
+    "overall_gain": 11536.334147000833,
+    "active_positions": 2,
+    "win_amount": 11639.772007000001,
+    "loss_amount": -103.43785999916699,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 5.874817,
+    "total_positions": 37,
+    "event_ct": 33,
+    "win_count": 27,
+    "rank": 9087,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
