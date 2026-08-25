@@ -686,5 +686,21 @@
     "win_count": 5,
     "rank": 72244,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x66f7e8d595c187cf9bda9eec6a3eeebbacaa2beb",
+    "trader_name": "Reserver",
+    "tag": "Overall",
+    "overall_gain": 761.2130828577051,
+    "active_positions": 0,
+    "win_amount": 962.727175,
+    "loss_amount": -201.514092142295,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 0.007705,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 72245,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
