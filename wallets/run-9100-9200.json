@@ -1022,5 +1022,21 @@
     "win_count": 1,
     "rank": 9164,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c472c42eac19a5b0cb31758423606995af8bcb4",
+    "trader_name": "NotRoaringKitty",
+    "tag": "Overall",
+    "overall_gain": 11434.6943300273,
+    "active_positions": 26,
+    "win_amount": 76399.95166165657,
+    "loss_amount": -64965.25733162928,
+    "win_rate": 0.585635359116022,
+    "total_current_value": 691.1539962404997,
+    "total_positions": 210,
+    "event_ct": 181,
+    "win_count": 106,
+    "rank": 9165,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
