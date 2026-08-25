@@ -1310,5 +1310,21 @@
     "win_count": 4,
     "rank": 1482,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5d861bcdd27e8a74d1aa14f2eade9e53e4500e96",
+    "trader_name": "MONSTER.WATERMELON",
+    "tag": "Overall",
+    "overall_gain": 81446.75299968448,
+    "active_positions": 0,
+    "win_amount": 97623.84167925871,
+    "loss_amount": -16177.088679574212,
+    "win_rate": 0.45454545454545453,
+    "total_current_value": 0.121446,
+    "total_positions": 22,
+    "event_ct": 11,
+    "win_count": 5,
+    "rank": 1483,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
