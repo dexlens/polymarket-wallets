@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 10496,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x89fcb0f6e53e6c70be7ceab209c8521fb0e6b5c2",
+    "trader_name": "marksoc",
+    "tag": "Overall",
+    "overall_gain": 10026.538216296087,
+    "active_positions": 45,
+    "win_amount": 13708.573092636012,
+    "loss_amount": -3682.034876339924,
+    "win_rate": 0.5298507462686567,
+    "total_current_value": 4574.721684330501,
+    "total_positions": 285,
+    "event_ct": 134,
+    "win_count": 71,
+    "rank": 10497,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
