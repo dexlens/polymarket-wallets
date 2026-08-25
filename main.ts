@@ -22,7 +22,7 @@ let thisrunsdata = [];
 if (await Deno.stat(thisrunsfilename)) {
   thisrunsdata = JSON.parse(await Deno.readTextFile(thisrunsfilename));
 }
-for (const wallet of realdata.slice(0, 1000)) {
+for (const wallet of realdata.slice(runStart, runEnd)) {
   const address = wallet.trader; // Adjust this if data structure is different
   const rank = wallet.rank;
   const trader_name = wallet.trader_name;
