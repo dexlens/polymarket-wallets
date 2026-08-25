@@ -958,5 +958,21 @@
     "win_count": 8,
     "rank": 32061,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xaa06e5aa7c8b61c537f0acc6f2c2aabcb44f4e52",
+    "trader_name": "scrpn",
+    "tag": "Overall",
+    "overall_gain": 2593.8878033025553,
+    "active_positions": 10,
+    "win_amount": 2945.288434904975,
+    "loss_amount": -351.40063160242,
+    "win_rate": 0.9904610492845787,
+    "total_current_value": 889.394483,
+    "total_positions": 2195,
+    "event_ct": 1258,
+    "win_count": 1246,
+    "rank": 32062,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
