@@ -430,5 +430,21 @@
     "win_count": 1,
     "rank": 8827,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1e4f313f4910ff50f8c13260225d93c130c647d7",
+    "trader_name": "Vivi2354",
+    "tag": "Overall",
+    "overall_gain": 11866.128062697226,
+    "active_positions": 0,
+    "win_amount": 12378.283018772076,
+    "loss_amount": -512.1549560748491,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0.0820160885,
+    "total_positions": 10,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 8828,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
