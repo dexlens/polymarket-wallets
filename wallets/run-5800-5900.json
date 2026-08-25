@@ -158,5 +158,21 @@
     "win_count": 66,
     "rank": 5810,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x872dd5028b73282d7f59c97bbd8579ebf8bbd08c",
+    "trader_name": "Fibonacii",
+    "tag": "Overall",
+    "overall_gain": 18521.064470027257,
+    "active_positions": 0,
+    "win_amount": 26945.709891811257,
+    "loss_amount": -8424.645421784,
+    "win_rate": 0.7586206896551724,
+    "total_current_value": 0.044655,
+    "total_positions": 34,
+    "event_ct": 29,
+    "win_count": 22,
+    "rank": 5811,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
