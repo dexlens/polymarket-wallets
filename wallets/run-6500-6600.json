@@ -190,5 +190,21 @@
     "win_count": 14,
     "rank": 6512,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdd9cb05e6709a57441ad04e59cd1e88690062a50",
+    "trader_name": "musicmang",
+    "tag": "Overall",
+    "overall_gain": 16459.15142790452,
+    "active_positions": 13,
+    "win_amount": 17698.34465682149,
+    "loss_amount": -1239.1932289169702,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 11596.1671907635,
+    "total_positions": 25,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 6513,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
