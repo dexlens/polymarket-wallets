@@ -110,5 +110,21 @@
     "win_count": 20,
     "rank": 9407,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xca3f77cb090cf7cbcf48bcf865e8f27364418078",
+    "trader_name": "crispy-avocado",
+    "tag": "Overall",
+    "overall_gain": 11134.544683382403,
+    "active_positions": 5,
+    "win_amount": 37766.6791896,
+    "loss_amount": -26632.134506217597,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 506.99149645500006,
+    "total_positions": 2680,
+    "event_ct": 1413,
+    "win_count": 942,
+    "rank": 9408,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
