@@ -1166,5 +1166,21 @@
     "win_count": 5,
     "rank": 43174,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x658e463fd239fb38d47f1222deb282258ecb01ca",
+    "trader_name": "planthandy",
+    "tag": "Overall",
+    "overall_gain": 1811,
+    "active_positions": 1,
+    "win_amount": 1911,
+    "loss_amount": -100,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 43175,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
