@@ -574,5 +574,21 @@
     "win_count": 8,
     "rank": 15436,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xe7247ebb5f5b893ec6ba2623f7f07b97a7febc75",
+    "trader_name": "Tundraql",
+    "tag": "Overall",
+    "overall_gain": 6271.5,
+    "active_positions": 1,
+    "win_amount": 6306.5,
+    "loss_amount": -35,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 15437,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
