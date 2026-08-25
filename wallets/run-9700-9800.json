@@ -254,5 +254,21 @@
     "win_count": 4,
     "rank": 9716,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x59542ad6e8f5fda5d3f6cb5bf28bf33a9ff20230",
+    "trader_name": "matthewferdinand0915",
+    "tag": "Overall",
+    "overall_gain": 10782.628,
+    "active_positions": 7,
+    "win_amount": 32909.128,
+    "loss_amount": -22126.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 21,
+    "event_ct": 21,
+    "win_count": 14,
+    "rank": 9717,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
