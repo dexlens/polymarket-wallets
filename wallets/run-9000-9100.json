@@ -238,5 +238,21 @@
     "win_count": 34,
     "rank": 9015,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x673f97f61349ed397d0ef253c77f366fce563f97",
+    "trader_name": "Orlithen",
+    "tag": "Overall",
+    "overall_gain": 11625.697981,
+    "active_positions": 0,
+    "win_amount": 96213.40976400001,
+    "loss_amount": -84587.711783,
+    "win_rate": 0.5434380776340111,
+    "total_current_value": 0,
+    "total_positions": 541,
+    "event_ct": 541,
+    "win_count": 294,
+    "rank": 9016,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
