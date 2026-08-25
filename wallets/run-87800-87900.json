@@ -814,5 +814,21 @@
     "win_count": 4,
     "rank": 87852,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x19e3c10f6c0cab5438a07d0025c63c92d86d15cb",
+    "trader_name": "tongyangyll",
+    "tag": "Overall",
+    "overall_gain": 514.73373278128,
+    "active_positions": 2,
+    "win_amount": 1063.2034197684195,
+    "loss_amount": -548.46968698714,
+    "win_rate": 0.984375,
+    "total_current_value": 0.015449999999999998,
+    "total_positions": 129,
+    "event_ct": 128,
+    "win_count": 126,
+    "rank": 87853,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
