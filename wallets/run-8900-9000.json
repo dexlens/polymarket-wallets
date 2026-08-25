@@ -206,5 +206,21 @@
     "win_count": 49,
     "rank": 8913,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x037ae0e8ca65c2f3bdd91e09969a4e1ebbdac53e",
+    "trader_name": "Ugabadunga",
+    "tag": "Overall",
+    "overall_gain": 11749.199438232878,
+    "active_positions": 5,
+    "win_amount": 30095.123815555762,
+    "loss_amount": -18345.924377322885,
+    "win_rate": 0.6268656716417911,
+    "total_current_value": 0.25741,
+    "total_positions": 70,
+    "event_ct": 67,
+    "win_count": 42,
+    "rank": 8914,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
