@@ -366,5 +366,21 @@
     "win_count": 11,
     "rank": 47124,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x72c7a50a710c97ddbc6d24e06371f723ec849f4a",
+    "trader_name": "planer",
+    "tag": "Overall",
+    "overall_gain": 1611.274192,
+    "active_positions": 0,
+    "win_amount": 1611.274192,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 47125,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
