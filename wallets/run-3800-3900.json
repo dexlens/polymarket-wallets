@@ -1502,5 +1502,21 @@
     "win_count": 23,
     "rank": 3894,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6a8afddff103920a254ac8d73da53b35c8eac01e",
+    "trader_name": "NoFiat2024",
+    "tag": "Overall",
+    "overall_gain": 29063.803096,
+    "active_positions": 0,
+    "win_amount": 29063.803096,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 3895,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
   }
 ]
