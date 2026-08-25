@@ -206,5 +206,21 @@
     "win_count": 2,
     "rank": 3213,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x3ef8fda266babd6cabaf9909e6ff72f8d8f69183",
+    "trader_name": "nehacupidi",
+    "tag": "Overall",
+    "overall_gain": 35672,
+    "active_positions": 0,
+    "win_amount": 43351,
+    "loss_amount": -7679,
+    "win_rate": 0.8571428571428571,
+    "total_current_value": 0,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 6,
+    "rank": 3214,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
