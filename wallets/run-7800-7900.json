@@ -1422,5 +1422,21 @@
     "win_count": 12,
     "rank": 7889,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x9cdb0aeb078266e204ca351c87c566add0ba036f",
+    "trader_name": "Silencer",
+    "tag": "Overall",
+    "overall_gain": 13336.145744488796,
+    "active_positions": 1,
+    "win_amount": 13661.646458488796,
+    "loss_amount": -325.500714,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0.001059,
+    "total_positions": 7,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 7890,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
