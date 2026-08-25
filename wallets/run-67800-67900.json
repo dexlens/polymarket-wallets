@@ -1502,5 +1502,21 @@
     "win_count": 1,
     "rank": 67895,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x827baa1df5dfa142401485cd6272e7c5ced8c16e",
+    "trader_name": "pdsxn",
+    "tag": "Overall",
+    "overall_gain": 863.5,
+    "active_positions": 2,
+    "win_amount": 2336,
+    "loss_amount": -1472.5,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 67896,
+    "trader_tags": ""
   }
 ]
