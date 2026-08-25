@@ -1038,5 +1038,21 @@
     "win_count": 1,
     "rank": 20165,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x720597429e8a99a252bde107e866b89c677fffd4",
+    "trader_name": "Arctic0x",
+    "tag": "Overall",
+    "overall_gain": 4585.051934451646,
+    "active_positions": 13,
+    "win_amount": 23801.47212703511,
+    "loss_amount": -19216.420192583468,
+    "win_rate": 0.4583333333333333,
+    "total_current_value": 850.7114146319999,
+    "total_positions": 126,
+    "event_ct": 72,
+    "win_count": 33,
+    "rank": 20166,
+    "trader_tags": ""
   }
 ]
