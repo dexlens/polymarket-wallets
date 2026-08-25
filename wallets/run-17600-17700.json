@@ -910,5 +910,21 @@
     "win_count": 5,
     "rank": 17657,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x62ba237148edab02f8128141c2ce111a771b569b",
+    "trader_name": "heyyy24",
+    "tag": "Overall",
+    "overall_gain": 5300.09556312793,
+    "active_positions": 6360,
+    "win_amount": 26020.517008484767,
+    "loss_amount": -20720.42144535685,
+    "win_rate": 0.14567243675099867,
+    "total_current_value": 4145.450157654001,
+    "total_positions": 8500,
+    "event_ct": 7510,
+    "win_count": 1094,
+    "rank": 17658,
+    "trader_tags": "1k+ Positions"
   }
 ]
