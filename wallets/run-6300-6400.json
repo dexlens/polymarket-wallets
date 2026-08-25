@@ -1326,5 +1326,21 @@
     "win_count": 198,
     "rank": 6383,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x660f30c045f407b2c8893974ad3f5b32f7db5fd3",
+    "trader_name": "ArthurGiles",
+    "tag": "Overall",
+    "overall_gain": 16788,
+    "active_positions": 1,
+    "win_amount": 25538,
+    "loss_amount": -8750,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 6384,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
