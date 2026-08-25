@@ -1566,5 +1566,21 @@
     "win_count": 1607,
     "rank": 7598,
     "trader_tags": "Overall PnL > $10k; 1k+ Positions"
+  },
+  {
+    "trader": "0x882a5afa5cc685a5908dad6bc7c7ee600035f2b3",
+    "trader_name": "waveNemo",
+    "tag": "Overall",
+    "overall_gain": 13942.97417075161,
+    "active_positions": 9,
+    "win_amount": 21024.546994866163,
+    "loss_amount": -7081.572824114553,
+    "win_rate": 0.7777777777777778,
+    "total_current_value": 116011.570821277,
+    "total_positions": 20,
+    "event_ct": 18,
+    "win_count": 14,
+    "rank": 7599,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
