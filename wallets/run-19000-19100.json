@@ -350,5 +350,21 @@
     "win_count": 3,
     "rank": 19022,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1f35018b557309cd1cafe7dc50f99d0d485f339e",
+    "trader_name": "wtxhcbx",
+    "tag": "Overall",
+    "overall_gain": 4890.357872,
+    "active_positions": 1,
+    "win_amount": 4954.625091999999,
+    "loss_amount": -64.26722,
+    "win_rate": 0.9655172413793104,
+    "total_current_value": 196.833915,
+    "total_positions": 29,
+    "event_ct": 29,
+    "win_count": 28,
+    "rank": 19023,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
