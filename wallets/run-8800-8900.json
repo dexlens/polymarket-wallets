@@ -958,5 +958,21 @@
     "win_count": 260,
     "rank": 8860,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x22aa24b58b2db9a1966e7578c9f6edb79f2b0cae",
+    "trader_name": "Alex255385",
+    "tag": "Overall",
+    "overall_gain": 11821.361541565055,
+    "active_positions": 62,
+    "win_amount": 17119.485336959417,
+    "loss_amount": -5298.123795394369,
+    "win_rate": 0.27586206896551724,
+    "total_current_value": 5387.248811327,
+    "total_positions": 101,
+    "event_ct": 58,
+    "win_count": 16,
+    "rank": 8861,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
