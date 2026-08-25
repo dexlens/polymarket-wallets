@@ -1486,5 +1486,21 @@
     "win_count": 14,
     "rank": 9293,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x571af99da9077081a155ee1c7e93a2b80ed69cda",
+    "trader_name": "qergs",
+    "tag": "Overall",
+    "overall_gain": 11285.342624,
+    "active_positions": 0,
+    "win_amount": 11350.869904000001,
+    "loss_amount": -65.52728,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 35,
+    "event_ct": 24,
+    "win_count": 16,
+    "rank": 9294,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
