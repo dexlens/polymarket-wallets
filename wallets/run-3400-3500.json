@@ -686,5 +686,21 @@
     "win_count": 1,
     "rank": 3443,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x6b73ff80a279c04919aa6bf682dba3127010eb0d",
+    "trader_name": "everetts",
+    "tag": "Overall",
+    "overall_gain": 33126.68,
+    "active_positions": 0,
+    "win_amount": 33126.68,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 3444,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
