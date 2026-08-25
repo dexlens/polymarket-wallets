@@ -1358,5 +1358,21 @@
     "win_count": 14,
     "rank": 7885,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x62fbdbaf7ac6d5b30584959cf37295c75d2cb277",
+    "trader_name": "mrmastermind",
+    "tag": "Overall",
+    "overall_gain": 13340.054745706184,
+    "active_positions": 24,
+    "win_amount": 55931.903896183954,
+    "loss_amount": -42591.84915047777,
+    "win_rate": 0.4,
+    "total_current_value": 0.18555799999999997,
+    "total_positions": 52,
+    "event_ct": 50,
+    "win_count": 20,
+    "rank": 7886,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
