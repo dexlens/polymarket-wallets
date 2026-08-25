@@ -1262,5 +1262,21 @@
     "win_count": 28,
     "rank": 14579,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x24fd0fa65c37a875f8d5657a7f7285096f386d70",
+    "trader_name": "Ashbloomz",
+    "tag": "Overall",
+    "overall_gain": 6741.378406806516,
+    "active_positions": 5,
+    "win_amount": 6751.378387483258,
+    "loss_amount": -9.999980676741998,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 9.375191115499998,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 14580,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
