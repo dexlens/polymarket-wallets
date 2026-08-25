@@ -958,5 +958,21 @@
     "win_count": 20,
     "rank": 6460,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7163028e3e64ee12eb6b1e349a078aaf3022a9e5",
+    "trader_name": "megamm2",
+    "tag": "Overall",
+    "overall_gain": 16562.528205857998,
+    "active_positions": 3869,
+    "win_amount": 38470.705211469205,
+    "loss_amount": -21908.177005611207,
+    "win_rate": 0.037644787644787646,
+    "total_current_value": 0.900711,
+    "total_positions": 4397,
+    "event_ct": 4144,
+    "win_count": 156,
+    "rank": 6461,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
