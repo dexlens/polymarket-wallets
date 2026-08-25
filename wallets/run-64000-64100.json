@@ -574,5 +574,21 @@
     "win_count": 1,
     "rank": 64037,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c41cb06fa38ff095e538f798a3434c257da42eb",
+    "trader_name": "Jdimon",
+    "tag": "Overall",
+    "overall_gain": 973.0892317535431,
+    "active_positions": 10,
+    "win_amount": 3541.5963031328456,
+    "loss_amount": -2568.5070713793034,
+    "win_rate": 0.5142857142857142,
+    "total_current_value": 743.9173223225,
+    "total_positions": 111,
+    "event_ct": 70,
+    "win_count": 36,
+    "rank": 64038,
+    "trader_tags": ""
   }
 ]
