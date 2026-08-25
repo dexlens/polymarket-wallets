@@ -414,5 +414,21 @@
     "win_count": 10,
     "rank": 10026,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xe040615c70ca8f2a0d2174e353e340de51a1c867",
+    "trader_name": "ekjsdf",
+    "tag": "Overall",
+    "overall_gain": 10462.299853856803,
+    "active_positions": 10,
+    "win_amount": 13771.626104078445,
+    "loss_amount": -3309.326250221643,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.024169,
+    "total_positions": 53,
+    "event_ct": 27,
+    "win_count": 9,
+    "rank": 10027,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
