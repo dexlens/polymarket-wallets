@@ -1566,5 +1566,21 @@
     "win_count": 3,
     "rank": 49099,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x66825938df6daf40522ec95aea7c8bfcf5447902",
+    "trader_name": "R13",
+    "tag": "Overall",
+    "overall_gain": 1523.6478573836162,
+    "active_positions": 1,
+    "win_amount": 3999.3317950444284,
+    "loss_amount": -2475.6839376608127,
+    "win_rate": 0.6712328767123288,
+    "total_current_value": 0.35014800000000007,
+    "total_positions": 282,
+    "event_ct": 73,
+    "win_count": 49,
+    "rank": 49100,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
