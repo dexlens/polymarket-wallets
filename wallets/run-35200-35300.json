@@ -862,5 +862,21 @@
     "win_count": 1,
     "rank": 35255,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x839d866fd124fead57fc6f551f637f34d2020a40",
+    "trader_name": "erryy",
+    "tag": "Overall",
+    "overall_gain": 2320.538250654278,
+    "active_positions": 4,
+    "win_amount": 3444.6564290000006,
+    "loss_amount": -1124.1181783457218,
+    "win_rate": 0.7894736842105263,
+    "total_current_value": 0,
+    "total_positions": 19,
+    "event_ct": 19,
+    "win_count": 15,
+    "rank": 35256,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
