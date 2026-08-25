@@ -702,5 +702,21 @@
     "win_count": 3,
     "rank": 13744,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x35a5515e6e0fc8aea4d0da307f16c3e19f0866b8",
+    "trader_name": "ETORO",
+    "tag": "Overall",
+    "overall_gain": 7196,
+    "active_positions": 0,
+    "win_amount": 7196,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 1,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 13745,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
