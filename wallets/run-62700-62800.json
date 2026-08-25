@@ -1054,5 +1054,21 @@
     "win_count": 32,
     "rank": 62767,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30cd9599bda4898a93586bfd70ff01fb22b2f67a",
+    "trader_name": "irisa2",
+    "tag": "Overall",
+    "overall_gain": 1003.1400000000002,
+    "active_positions": 1,
+    "win_amount": 1003.1400000000002,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 1405.0000000000002,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 62768,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
