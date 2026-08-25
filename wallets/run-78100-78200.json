@@ -510,5 +510,21 @@
     "win_count": 14,
     "rank": 78133,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x06c3124a6eec88a76ff10a3a9431551b18052356",
+    "trader_name": "Izone",
+    "tag": "Overall",
+    "overall_gain": 662.094794268426,
+    "active_positions": 5,
+    "win_amount": 1974.2738170533835,
+    "loss_amount": -1312.1790227849579,
+    "win_rate": 0.55,
+    "total_current_value": 325.9940715,
+    "total_positions": 88,
+    "event_ct": 40,
+    "win_count": 22,
+    "rank": 78134,
+    "trader_tags": "> 1 year old"
   }
 ]
