@@ -222,5 +222,21 @@
     "win_count": 23,
     "rank": 25415,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x267568e60bccc61e876fbb3607fba7c47ee12374",
+    "trader_name": "negativePNL",
+    "tag": "Overall",
+    "overall_gain": 3473.139617269948,
+    "active_positions": 38,
+    "win_amount": 16158.65475456305,
+    "loss_amount": -12685.5151372931,
+    "win_rate": 0.3661616161616162,
+    "total_current_value": 1992.9255583559993,
+    "total_positions": 513,
+    "event_ct": 396,
+    "win_count": 145,
+    "rank": 25416,
+    "trader_tags": "> 1 year old"
   }
 ]
