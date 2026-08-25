@@ -926,5 +926,21 @@
     "win_count": 35,
     "rank": 30659,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x71d7ea5306e896774e5cf3bd2ca4f9e385e36ae7",
+    "trader_name": "Fogmanacle",
+    "tag": "Overall",
+    "overall_gain": 2740.5,
+    "active_positions": 1,
+    "win_amount": 3342,
+    "loss_amount": -601.5,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 5,
+    "rank": 30660,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
