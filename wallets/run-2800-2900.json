@@ -1374,5 +1374,21 @@
     "win_count": 35,
     "rank": 2886,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xca8f0374e3fc79b485499cc0b038d4f7e783d963",
+    "trader_name": "ScottVan",
+    "tag": "Overall",
+    "overall_gain": 39878.20290246715,
+    "active_positions": 2761,
+    "win_amount": 182254.05247348064,
+    "loss_amount": -142375.84957101342,
+    "win_rate": 0.36353102285894867,
+    "total_current_value": 6758.025081996999,
+    "total_positions": 24326,
+    "event_ct": 9493,
+    "win_count": 3451,
+    "rank": 2887,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
