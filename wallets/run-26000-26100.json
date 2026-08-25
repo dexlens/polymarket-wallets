@@ -1374,5 +1374,21 @@
     "win_count": 3,
     "rank": 26087,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1abae2d3481cd8c6db343ad5ca1c67b49e829be5",
+    "trader_name": "myndtt",
+    "tag": "Overall",
+    "overall_gain": 3354.596247348875,
+    "active_positions": 110,
+    "win_amount": 13106.140288885706,
+    "loss_amount": -9751.544041536836,
+    "win_rate": 0.7122905027932961,
+    "total_current_value": 1974.354029077,
+    "total_positions": 413,
+    "event_ct": 358,
+    "win_count": 255,
+    "rank": 26088,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
