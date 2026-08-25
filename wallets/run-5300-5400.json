@@ -622,5 +622,21 @@
     "win_count": 25,
     "rank": 5339,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd616bc397501c4a6338fbd382db7c985c2de6456",
+    "trader_name": "Ishyfishy",
+    "tag": "Overall",
+    "overall_gain": 20282.632065391306,
+    "active_positions": 1,
+    "win_amount": 20732.631665,
+    "loss_amount": -449.99959960869603,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 5340,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
