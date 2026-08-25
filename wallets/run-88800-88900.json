@@ -1278,5 +1278,21 @@
     "win_count": 3,
     "rank": 88881,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x06441d31cb605c003a2377ade56270a6829414d7",
+    "trader_name": "HW38",
+    "tag": "Overall",
+    "overall_gain": 503.04039747580794,
+    "active_positions": 0,
+    "win_amount": 562.9959974758079,
+    "loss_amount": -59.9556,
+    "win_rate": 0.5,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 88882,
+    "trader_tags": ""
   }
 ]
