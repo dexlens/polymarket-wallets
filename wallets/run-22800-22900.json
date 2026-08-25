@@ -1022,5 +1022,21 @@
     "win_count": 14,
     "rank": 22864,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x68d1dd69cb5b3441606a6632e26291d4826a9064",
+    "trader_name": "WilburBernard",
+    "tag": "Overall",
+    "overall_gain": 3946.3181063746247,
+    "active_positions": 19,
+    "win_amount": 17197.318097321553,
+    "loss_amount": -13250.999990946926,
+    "win_rate": 0.7831325301204819,
+    "total_current_value": 1.005241,
+    "total_positions": 85,
+    "event_ct": 83,
+    "win_count": 65,
+    "rank": 22865,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
