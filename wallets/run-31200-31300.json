@@ -1342,5 +1342,21 @@
     "win_count": 1,
     "rank": 31285,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x70bc6e72023d62e68557bcb67220b00e76754e16",
+    "trader_name": "bnv9297",
+    "tag": "Overall",
+    "overall_gain": 2671.408973490932,
+    "active_positions": 7,
+    "win_amount": 5546.2143769919985,
+    "loss_amount": -2874.8054035010646,
+    "win_rate": 0.3953488372093023,
+    "total_current_value": 0.063335,
+    "total_positions": 44,
+    "event_ct": 43,
+    "win_count": 17,
+    "rank": 31286,
+    "trader_tags": "> 1 year old"
   }
 ]
