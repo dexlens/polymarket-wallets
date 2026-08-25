@@ -1118,5 +1118,21 @@
     "win_count": 27,
     "rank": 2070,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x57b00c3ccef1b6bd6962fb9ca463c4e0b38e76f4",
+    "trader_name": "decluse-goni",
+    "tag": "Overall",
+    "overall_gain": 58056.45433029728,
+    "active_positions": 28,
+    "win_amount": 85209.29902752636,
+    "loss_amount": -27152.844697229048,
+    "win_rate": 0.8581780538302277,
+    "total_current_value": 21887.775086780508,
+    "total_positions": 2011,
+    "event_ct": 966,
+    "win_count": 829,
+    "rank": 2071,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
