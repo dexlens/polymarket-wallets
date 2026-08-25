@@ -46,5 +46,21 @@
     "win_count": 6,
     "rank": 43404,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8c936146295abbde3a0da3971c993a587ef41321",
+    "trader_name": "oep",
+    "tag": "Overall",
+    "overall_gain": 1798.8565762871594,
+    "active_positions": 87,
+    "win_amount": 15518.323021190143,
+    "loss_amount": -13719.466444902986,
+    "win_rate": 0.5275080906148867,
+    "total_current_value": 0.6983229999999999,
+    "total_positions": 783,
+    "event_ct": 618,
+    "win_count": 326,
+    "rank": 43405,
+    "trader_tags": ""
   }
 ]
