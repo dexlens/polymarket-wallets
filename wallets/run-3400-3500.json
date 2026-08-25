@@ -1134,5 +1134,21 @@
     "win_count": 1,
     "rank": 3471,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2708cf50cf98f55a4b593688468f7b6c7838505b",
+    "trader_name": "Hiab",
+    "tag": "Overall",
+    "overall_gain": 32747.16109065927,
+    "active_positions": 1,
+    "win_amount": 32747.16109065927,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.016374,
+    "total_positions": 15,
+    "event_ct": 7,
+    "win_count": 7,
+    "rank": 3472,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
