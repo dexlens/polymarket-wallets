@@ -766,5 +766,21 @@
     "win_count": 2,
     "rank": 40449,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1006de05334e9ae3a092da240177f1b363a60d9e",
+    "trader_name": "freespirit",
+    "tag": "Overall",
+    "overall_gain": 1968.509899326649,
+    "active_positions": 2,
+    "win_amount": 4723.796738164479,
+    "loss_amount": -2755.286838837831,
+    "win_rate": 0.8,
+    "total_current_value": 0.009235,
+    "total_positions": 23,
+    "event_ct": 20,
+    "win_count": 16,
+    "rank": 40450,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
