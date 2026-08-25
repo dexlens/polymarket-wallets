@@ -478,5 +478,21 @@
     "win_count": 1,
     "rank": 45131,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9aaff199c14a12eb0efbba92cdaa277a0a428298",
+    "trader_name": "ValentinaYerba",
+    "tag": "Overall",
+    "overall_gain": 1707.4658661109133,
+    "active_positions": 72,
+    "win_amount": 3251.933045814487,
+    "loss_amount": -1544.4671797035742,
+    "win_rate": 0.6661654135338346,
+    "total_current_value": 3526.013775148001,
+    "total_positions": 5927,
+    "event_ct": 1995,
+    "win_count": 1329,
+    "rank": 45132,
+    "trader_tags": "1k+ Positions"
   }
 ]
