@@ -526,5 +526,21 @@
     "win_count": 7,
     "rank": 20333,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21318ffc4561e2dbfed6215b91caf3613100cf3c",
+    "trader_name": "SimpSauce",
+    "tag": "Overall",
+    "overall_gain": 4540.338258892872,
+    "active_positions": 2,
+    "win_amount": 4977.002993818867,
+    "loss_amount": -436.66473492599596,
+    "win_rate": 0.38095238095238093,
+    "total_current_value": 0.015256,
+    "total_positions": 24,
+    "event_ct": 21,
+    "win_count": 8,
+    "rank": 20334,
+    "trader_tags": "> 1 year old"
   }
 ]
