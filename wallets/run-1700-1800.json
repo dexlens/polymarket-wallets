@@ -1310,5 +1310,21 @@
     "win_count": 18,
     "rank": 1782,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xbb39ba863319281427a482c8714ffdf69cb7ee8a",
+    "trader_name": "DoggoTrade",
+    "tag": "Overall",
+    "overall_gain": 68636.95195935345,
+    "active_positions": 87,
+    "win_amount": 77693.62196078562,
+    "loss_amount": -9056.6700014322,
+    "win_rate": 0.743801652892562,
+    "total_current_value": 93696.0431168515,
+    "total_positions": 510,
+    "event_ct": 121,
+    "win_count": 90,
+    "rank": 1783,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
