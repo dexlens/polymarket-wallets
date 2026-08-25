@@ -814,5 +814,21 @@
     "win_count": 12,
     "rank": 4851,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x21bad9623eed0145e7257b1d2f18f0797fd5ac39",
+    "trader_name": "kjh21212",
+    "tag": "Overall",
+    "overall_gain": 22426.213013,
+    "active_positions": 0,
+    "win_amount": 189429.01252599998,
+    "loss_amount": -167002.799513,
+    "win_rate": 0.5473546701502287,
+    "total_current_value": 0,
+    "total_positions": 3064,
+    "event_ct": 3062,
+    "win_count": 1676,
+    "rank": 4852,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
