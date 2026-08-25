@@ -302,5 +302,21 @@
     "win_count": 9,
     "rank": 59620,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x44bd2993a69d8b569859ed8c0bf0b946f733f71a",
+    "trader_name": "panda99999",
+    "tag": "Overall",
+    "overall_gain": 1088.9226065870005,
+    "active_positions": 443,
+    "win_amount": 7898.803771999998,
+    "loss_amount": -6809.881165413001,
+    "win_rate": 0.48306997742663654,
+    "total_current_value": 476.30665,
+    "total_positions": 888,
+    "event_ct": 886,
+    "win_count": 428,
+    "rank": 59621,
+    "trader_tags": "< 30 days old"
   }
 ]
