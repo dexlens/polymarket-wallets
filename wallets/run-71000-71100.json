@@ -558,5 +558,21 @@
     "win_count": 147,
     "rank": 71036,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7a22aeec347920a2b0ce2b900aa1d5097467fca9",
+    "trader_name": "buffetw",
+    "tag": "Overall",
+    "overall_gain": 787.608939985445,
+    "active_positions": 9,
+    "win_amount": 1215.169898185445,
+    "loss_amount": -427.5609582,
+    "win_rate": 0.6521739130434783,
+    "total_current_value": 438.3680295155,
+    "total_positions": 49,
+    "event_ct": 23,
+    "win_count": 15,
+    "rank": 71037,
+    "trader_tags": ""
   }
 ]
