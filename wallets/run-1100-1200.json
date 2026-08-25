@@ -398,5 +398,21 @@
     "win_count": 5,
     "rank": 1125,
     "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd56837a9f2ed30eefe0a588dd1467e7f51e3a35a",
+    "trader_name": "jeffersonlau",
+    "tag": "Overall",
+    "overall_gain": 108652.03653763194,
+    "active_positions": 94,
+    "win_amount": 986330.0319373215,
+    "loss_amount": -877677.9953996898,
+    "win_rate": 0.5991735537190083,
+    "total_current_value": 17.228190999999992,
+    "total_positions": 252,
+    "event_ct": 242,
+    "win_count": 145,
+    "rank": 1126,
+    "trader_tags": "Overall PnL > $100k; Sports PnL > $100k"
   }
 ]
