@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 48039,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xfece05259fb8dcf127f201a8cb648bf12546940b",
+    "trader_name": "towuk",
+    "tag": "Overall",
+    "overall_gain": 1570.9003866852315,
+    "active_positions": 6,
+    "win_amount": 5918.546864347183,
+    "loss_amount": -4347.646477661952,
+    "win_rate": 0.6976744186046512,
+    "total_current_value": 0.024159000000000003,
+    "total_positions": 47,
+    "event_ct": 43,
+    "win_count": 30,
+    "rank": 48040,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
