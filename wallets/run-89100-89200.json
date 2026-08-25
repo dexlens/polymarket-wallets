@@ -766,5 +766,21 @@
     "win_count": 1,
     "rank": 89149,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x8efdc886553d3c48b861f0825b566dec343159a0",
+    "trader_name": "587eqwtr",
+    "tag": "Overall",
+    "overall_gain": 500,
+    "active_positions": 5,
+    "win_amount": 1350,
+    "loss_amount": -850,
+    "win_rate": 0.6363636363636364,
+    "total_current_value": 300,
+    "total_positions": 11,
+    "event_ct": 11,
+    "win_count": 7,
+    "rank": 89150,
+    "trader_tags": ""
   }
 ]
