@@ -1262,5 +1262,21 @@
     "win_count": 1,
     "rank": 72680,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x62daa0f9b1796e854aac4693a06b8e584e5b040a",
+    "trader_name": "Adhitya",
+    "tag": "Overall",
+    "overall_gain": 751.0205304684708,
+    "active_positions": 40,
+    "win_amount": 3377.0140658269934,
+    "loss_amount": -2625.9935353585215,
+    "win_rate": 0.4561200923787529,
+    "total_current_value": 140.6646464805,
+    "total_positions": 1115,
+    "event_ct": 866,
+    "win_count": 395,
+    "rank": 72681,
+    "trader_tags": "1k+ Positions"
   }
 ]
