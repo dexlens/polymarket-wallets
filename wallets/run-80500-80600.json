@@ -1310,5 +1310,21 @@
     "win_count": 3,
     "rank": 80583,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16c3c8f460de8142bbe496a14005251e3052d4b9",
+    "trader_name": "Curiosity0x",
+    "tag": "Overall",
+    "overall_gain": 620.8955936576083,
+    "active_positions": 4,
+    "win_amount": 4822.564126673196,
+    "loss_amount": -4201.668533015588,
+    "win_rate": 0.5081967213114754,
+    "total_current_value": 478.208530393,
+    "total_positions": 86,
+    "event_ct": 61,
+    "win_count": 31,
+    "rank": 80584,
+    "trader_tags": ""
   }
 ]
