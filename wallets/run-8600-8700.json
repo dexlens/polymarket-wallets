@@ -862,5 +862,21 @@
     "win_count": 620,
     "rank": 8654,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x8b42a268a500254444e600125fc4ca7f4d40c867",
+    "trader_name": "ykaql",
+    "tag": "Overall",
+    "overall_gain": 12101.577848,
+    "active_positions": 0,
+    "win_amount": 12143.277848,
+    "loss_amount": -41.7,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0,
+    "total_positions": 33,
+    "event_ct": 26,
+    "win_count": 18,
+    "rank": 8655,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
