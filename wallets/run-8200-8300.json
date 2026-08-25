@@ -398,5 +398,21 @@
     "win_count": 4,
     "rank": 8225,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xef68142e50e4a350a6a55e1543eddb769358a0af",
+    "trader_name": "Quartzrock",
+    "tag": "Overall",
+    "overall_gain": 12801.979287189217,
+    "active_positions": 7,
+    "win_amount": 15508.97361516724,
+    "loss_amount": -2706.994327978026,
+    "win_rate": 0.875,
+    "total_current_value": 15.2942463005,
+    "total_positions": 16,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 8226,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
