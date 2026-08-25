@@ -1054,5 +1054,21 @@
     "win_count": 1,
     "rank": 51567,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x418a02c595a97b1b8128022f96a608089341ffad",
+    "trader_name": "trump-endorser",
+    "tag": "Overall",
+    "overall_gain": 1412.286367311901,
+    "active_positions": 1,
+    "win_amount": 1671.861567311901,
+    "loss_amount": -259.5752,
+    "win_rate": 0.5,
+    "total_current_value": 0.005509,
+    "total_positions": 2,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 51568,
+    "trader_tags": "> 1 year old"
   }
 ]
