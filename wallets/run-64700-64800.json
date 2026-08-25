@@ -1342,5 +1342,21 @@
     "win_count": 46,
     "rank": 64785,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x0c9dc0e81a6d39011327217c2286802169d5e062",
+    "trader_name": "wfherfed084",
+    "tag": "Overall",
+    "overall_gain": 951.8069673384598,
+    "active_positions": 2,
+    "win_amount": 7567.8023299999995,
+    "loss_amount": -6615.99536266154,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 64786,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
