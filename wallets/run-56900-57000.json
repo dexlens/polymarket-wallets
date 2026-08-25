@@ -1182,5 +1182,21 @@
     "win_count": 4,
     "rank": 56975,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x522ffd7a54f7656bfc214135a89cbdcca67246aa",
+    "trader_name": "sanpd",
+    "tag": "Overall",
+    "overall_gain": 1179.9913091837411,
+    "active_positions": 0,
+    "win_amount": 3494.5065104661544,
+    "loss_amount": -2314.515201282413,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 0.31516700000000003,
+    "total_positions": 94,
+    "event_ct": 72,
+    "win_count": 60,
+    "rank": 56976,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
