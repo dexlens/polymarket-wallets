@@ -1470,5 +1470,21 @@
     "win_count": 10,
     "rank": 17392,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x0c9c0aa6fd64559709245bf6b55ce5f7e743880e",
+    "trader_name": "qmoPioDuq",
+    "tag": "Overall",
+    "overall_gain": 5397.443898863547,
+    "active_positions": 14,
+    "win_amount": 23284.233898863546,
+    "loss_amount": -17886.79,
+    "win_rate": 0.6956521739130435,
+    "total_current_value": 9.860322000000002,
+    "total_positions": 46,
+    "event_ct": 46,
+    "win_count": 32,
+    "rank": 17393,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
