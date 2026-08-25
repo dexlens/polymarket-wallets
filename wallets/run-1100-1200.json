@@ -1390,5 +1390,21 @@
     "win_count": 1,
     "rank": 1187,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x161a7f666ca49d592848cf415b42f49a84714103",
+    "trader_name": "torta.tech",
+    "tag": "Overall",
+    "overall_gain": 102195.84146256604,
+    "active_positions": 2417,
+    "win_amount": 758783.118557751,
+    "loss_amount": -656587.2770951851,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 61947.733512179984,
+    "total_positions": 6429,
+    "event_ct": 3114,
+    "win_count": 1730,
+    "rank": 1188,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Sports PnL > $100k"
   }
 ]
