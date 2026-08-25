@@ -222,5 +222,21 @@
     "win_count": 26,
     "rank": 7014,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x3dbaea210f61639b9c2ced226b42954f23553e7b",
+    "trader_name": "cssb",
+    "tag": "Overall",
+    "overall_gain": 15237.387518078262,
+    "active_positions": 72,
+    "win_amount": 16522.721334477035,
+    "loss_amount": -1285.3338163987742,
+    "win_rate": 0.5375,
+    "total_current_value": 6.520077441999998,
+    "total_positions": 164,
+    "event_ct": 160,
+    "win_count": 86,
+    "rank": 7015,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
