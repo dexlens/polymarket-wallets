@@ -126,5 +126,21 @@
     "win_count": 4,
     "rank": 25509,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6614efd7a01ab3dc3b9b4697846f6b33878186a4",
+    "trader_name": "olabandola",
+    "tag": "Overall",
+    "overall_gain": 3457.397353642144,
+    "active_positions": 0,
+    "win_amount": 4376.897521642144,
+    "loss_amount": -919.500168,
+    "win_rate": 0.9523809523809523,
+    "total_current_value": 0.060786000000000014,
+    "total_positions": 159,
+    "event_ct": 105,
+    "win_count": 100,
+    "rank": 25510,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
