@@ -334,5 +334,21 @@
     "win_count": 13,
     "rank": 3321,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xf5c49ad254b1d53ea0b86fb285dd3f11dc800926",
+    "trader_name": "0xdamocles",
+    "tag": "Overall",
+    "overall_gain": 34506.47056739021,
+    "active_positions": 13,
+    "win_amount": 51950.98855184714,
+    "loss_amount": -17444.517984456936,
+    "win_rate": 0.6835443037974683,
+    "total_current_value": 168486.58456361704,
+    "total_positions": 142,
+    "event_ct": 79,
+    "win_count": 54,
+    "rank": 3322,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
