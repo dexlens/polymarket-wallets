@@ -1566,5 +1566,21 @@
     "win_count": 1,
     "rank": 64499,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2c286e80861a8a96021c14a397ec9173d7ac0b29",
+    "trader_name": "Prodigytlv",
+    "tag": "Overall",
+    "overall_gain": 959.4928189708643,
+    "active_positions": 22,
+    "win_amount": 1096.6328552960058,
+    "loss_amount": -137.14003632514198,
+    "win_rate": 0.6486486486486487,
+    "total_current_value": 759.8754751484998,
+    "total_positions": 41,
+    "event_ct": 37,
+    "win_count": 24,
+    "rank": 64500,
+    "trader_tags": "< 30 days old"
   }
 ]
