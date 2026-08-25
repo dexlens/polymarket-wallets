@@ -1118,5 +1118,21 @@
     "win_count": 5,
     "rank": 18870,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6c358cc585935f06b06036996d27b6e839178f52",
+    "trader_name": "ogrgch",
+    "tag": "Overall",
+    "overall_gain": 4935.867303640085,
+    "active_positions": 3,
+    "win_amount": 5045.617023192086,
+    "loss_amount": -109.749719552,
+    "win_rate": 0.926829268292683,
+    "total_current_value": 156.301638,
+    "total_positions": 41,
+    "event_ct": 41,
+    "win_count": 38,
+    "rank": 18871,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
