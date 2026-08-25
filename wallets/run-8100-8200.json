@@ -62,5 +62,21 @@
     "win_count": 4,
     "rank": 8104,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc90005740be2289f44c72f105b7d19f4086a3b8d",
+    "trader_name": "Gremora",
+    "tag": "Overall",
+    "overall_gain": 12982.491487000001,
+    "active_positions": 0,
+    "win_amount": 34439.302013,
+    "loss_amount": -21456.810525999997,
+    "win_rate": 0.6178010471204188,
+    "total_current_value": 0,
+    "total_positions": 192,
+    "event_ct": 191,
+    "win_count": 118,
+    "rank": 8105,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
