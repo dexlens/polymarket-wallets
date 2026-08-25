@@ -1150,5 +1150,21 @@
     "win_count": 3,
     "rank": 25973,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2ecb50c98b57020b3f1465b5df057fb6a10656a4",
+    "trader_name": "ring0707",
+    "tag": "Overall",
+    "overall_gain": 3376.656936753818,
+    "active_positions": 0,
+    "win_amount": 3397.291697753818,
+    "loss_amount": -20.634761,
+    "win_rate": 0.8888888888888888,
+    "total_current_value": 0.006773,
+    "total_positions": 10,
+    "event_ct": 9,
+    "win_count": 8,
+    "rank": 25974,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
