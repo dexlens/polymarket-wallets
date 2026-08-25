@@ -350,5 +350,21 @@
     "win_count": 15,
     "rank": 8022,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x128cd861e622eb5951c55b730ec60115a46bad12",
+    "trader_name": "zhangyu1377",
+    "tag": "Overall",
+    "overall_gain": 13078.842595143844,
+    "active_positions": 46,
+    "win_amount": 20302.640282169425,
+    "loss_amount": -7223.797687025578,
+    "win_rate": 0.6730769230769231,
+    "total_current_value": 1113.8325390000005,
+    "total_positions": 141,
+    "event_ct": 52,
+    "win_count": 35,
+    "rank": 8023,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
