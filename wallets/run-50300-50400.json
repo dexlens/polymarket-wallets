@@ -814,5 +814,21 @@
     "win_count": 4268,
     "rank": 50352,
     "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
+  },
+  {
+    "trader": "0x38f5ad38d892f1064fde29964278cab81be123fa",
+    "trader_name": "EchoFinder",
+    "tag": "Overall",
+    "overall_gain": 1468.9,
+    "active_positions": 2,
+    "win_amount": 3250.9,
+    "loss_amount": -1782,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 6,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 50353,
+    "trader_tags": ""
   }
 ]
