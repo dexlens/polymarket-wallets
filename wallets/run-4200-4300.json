@@ -798,5 +798,21 @@
     "win_count": 1,
     "rank": 4250,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6c8d84a4b642466951cabc3023a311edb81c6b86",
+    "trader_name": "munkiballz1",
+    "tag": "Overall",
+    "overall_gain": 26279.474996367484,
+    "active_positions": 1,
+    "win_amount": 26394.04661,
+    "loss_amount": -114.571613632515,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 5.00966,
+    "total_positions": 16,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 4251,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
