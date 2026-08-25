@@ -1454,5 +1454,21 @@
     "win_count": 23,
     "rank": 51792,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x84fbb333bb014e4963af6d6f4eb2b370f0f942ce",
+    "trader_name": "uppsda",
+    "tag": "Overall",
+    "overall_gain": 1401.2398970000002,
+    "active_positions": 1,
+    "win_amount": 4376.915862,
+    "loss_amount": -2975.6759650000004,
+    "win_rate": 0.675,
+    "total_current_value": 0,
+    "total_positions": 54,
+    "event_ct": 40,
+    "win_count": 27,
+    "rank": 51793,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
