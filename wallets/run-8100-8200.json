@@ -302,5 +302,21 @@
     "win_count": 11,
     "rank": 8119,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x6d308ece7533f6dfb63a22ff6792014d17cbce29",
+    "trader_name": "Axis54",
+    "tag": "Overall",
+    "overall_gain": 12959.99079832427,
+    "active_positions": 5,
+    "win_amount": 18967.1954500935,
+    "loss_amount": -6007.2046517692315,
+    "win_rate": 0.6052631578947368,
+    "total_current_value": 0.107335,
+    "total_positions": 42,
+    "event_ct": 38,
+    "win_count": 23,
+    "rank": 8120,
+    "trader_tags": "Overall PnL > $10k; < 30 days old"
   }
 ]
