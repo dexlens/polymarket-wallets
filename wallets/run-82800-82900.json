@@ -830,5 +830,21 @@
     "win_count": 7,
     "rank": 82853,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6516b979b9839c23e83e7e18ca1ba62dc44a49a7",
+    "trader_name": "mimop",
+    "tag": "Overall",
+    "overall_gain": 584.6289958760605,
+    "active_positions": 0,
+    "win_amount": 16424.764482000006,
+    "loss_amount": -15840.13548612394,
+    "win_rate": 0.7584745762711864,
+    "total_current_value": 0.110583,
+    "total_positions": 849,
+    "event_ct": 708,
+    "win_count": 537,
+    "rank": 82854,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
