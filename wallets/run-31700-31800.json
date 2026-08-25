@@ -1406,5 +1406,21 @@
     "win_count": 17,
     "rank": 31789,
     "trader_tags": "> 1 year old"
+  },
+  {
+    "trader": "0x39144f36c2241fe744de7791b58b3c082ecfb29a",
+    "trader_name": "BetSniper.ai",
+    "tag": "Overall",
+    "overall_gain": 2621.218528004368,
+    "active_positions": 0,
+    "win_amount": 3459.1897700043683,
+    "loss_amount": -837.971242,
+    "win_rate": 0.75,
+    "total_current_value": 0.004073,
+    "total_positions": 16,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 31790,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
