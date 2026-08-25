@@ -478,5 +478,21 @@
     "win_count": 37,
     "rank": 30431,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88f3bda1d90ca5f0bd9adae5f2a901df68930625",
+    "trader_name": "Kiliki",
+    "tag": "Overall",
+    "overall_gain": 2768.6403407966163,
+    "active_positions": 7,
+    "win_amount": 3450.635703406755,
+    "loss_amount": -681.9953626101388,
+    "win_rate": 0.46153846153846156,
+    "total_current_value": 6.756755,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 6,
+    "rank": 30432,
+    "trader_tags": ""
   }
 ]
