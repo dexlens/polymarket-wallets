@@ -1534,5 +1534,21 @@
     "win_count": 2,
     "rank": 77397,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ed7f0ca2433d55c60ad7fef85dc3f986b9739b5",
+    "trader_name": "bdlntl",
+    "tag": "Overall",
+    "overall_gain": 674.3831905753851,
+    "active_positions": 8,
+    "win_amount": 920.7532863142651,
+    "loss_amount": -246.37009573888,
+    "win_rate": 0.3684210526315789,
+    "total_current_value": 0.004489,
+    "total_positions": 99,
+    "event_ct": 76,
+    "win_count": 28,
+    "rank": 77398,
+    "trader_tags": "> 1 year old"
   }
 ]
