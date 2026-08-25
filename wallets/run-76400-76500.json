@@ -590,5 +590,21 @@
     "win_count": 4,
     "rank": 76438,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3abb188df578488af90265cc0dc1a992072e8000",
+    "trader_name": "aduna",
+    "tag": "Overall",
+    "overall_gain": 691.585912377758,
+    "active_positions": 0,
+    "win_amount": 739.046560851922,
+    "loss_amount": -47.460648474164,
+    "win_rate": 0.7272727272727273,
+    "total_current_value": 0.008538,
+    "total_positions": 12,
+    "event_ct": 11,
+    "win_count": 8,
+    "rank": 76439,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
