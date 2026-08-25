@@ -1438,5 +1438,21 @@
     "win_count": 5,
     "rank": 17890,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x64db18033a3631ff8af30e657aede9a3cc279a6f",
+    "trader_name": "OvidiuF",
+    "tag": "Overall",
+    "overall_gain": 5215.595195309208,
+    "active_positions": 4,
+    "win_amount": 12609.258799811618,
+    "loss_amount": -7393.663604502415,
+    "win_rate": 0.9809568044588945,
+    "total_current_value": 4522.411014,
+    "total_positions": 4312,
+    "event_ct": 4306,
+    "win_count": 4224,
+    "rank": 17891,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
