@@ -1486,5 +1486,21 @@
     "win_count": 2,
     "rank": 86294,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x78042fc9af06793ff9d81a6b03514dd514aff011",
+    "trader_name": "NanoTheo",
+    "tag": "Overall",
+    "overall_gain": 535.1733198529021,
+    "active_positions": 26,
+    "win_amount": 3968.6945530000007,
+    "loss_amount": -3433.5212331470984,
+    "win_rate": 0.6119402985074627,
+    "total_current_value": 0,
+    "total_positions": 67,
+    "event_ct": 67,
+    "win_count": 41,
+    "rank": 86295,
+    "trader_tags": "> 1 year old"
   }
 ]
