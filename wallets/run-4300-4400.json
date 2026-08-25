@@ -1262,5 +1262,21 @@
     "win_count": 35,
     "rank": 4379,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x805399faeb06e150a7c525b1e0c14a97207a2d3c",
+    "trader_name": "alopexy",
+    "tag": "Overall",
+    "overall_gain": 25364.245221,
+    "active_positions": 0,
+    "win_amount": 25364.245221,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 4380,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
