@@ -1582,5 +1582,21 @@
     "win_count": 212,
     "rank": 63200,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xed26a00db4cdc9797e825d0121385007f9e588a7",
+    "trader_name": "u77",
+    "tag": "Overall",
+    "overall_gain": 995.909697380145,
+    "active_positions": 0,
+    "win_amount": 1115.279471380145,
+    "loss_amount": -119.36977399999999,
+    "win_rate": 0.6,
+    "total_current_value": 0.027755,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 3,
+    "rank": 63201,
+    "trader_tags": ""
   }
 ]
