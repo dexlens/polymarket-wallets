@@ -814,5 +814,21 @@
     "win_count": 1,
     "rank": 24852,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x01af1a2db2721a0495fbf526ae613095616638f6",
+    "trader_name": "roteland",
+    "tag": "Overall",
+    "overall_gain": 3567.804,
+    "active_positions": 1,
+    "win_amount": 3569.204,
+    "loss_amount": -1.4000000000000021,
+    "win_rate": 0.8,
+    "total_current_value": 18.2,
+    "total_positions": 7,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 24853,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
