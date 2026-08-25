@@ -190,5 +190,21 @@
     "win_count": 8,
     "rank": 71113,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x773c62c3a83f749dc234fd9e2efaa55b4b256ebd",
+    "trader_name": "sfvxch",
+    "tag": "Overall",
+    "overall_gain": 785.952097,
+    "active_positions": 1,
+    "win_amount": 785.952097,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 5.04735,
+    "total_positions": 26,
+    "event_ct": 24,
+    "win_count": 24,
+    "rank": 71114,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
