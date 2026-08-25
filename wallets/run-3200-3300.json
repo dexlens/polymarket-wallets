@@ -446,5 +446,21 @@
     "win_count": 36,
     "rank": 3228,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x571c6a7efdc105bc04b766267915ae188f891f49",
+    "trader_name": "QQ11",
+    "tag": "Overall",
+    "overall_gain": 35537.92360668676,
+    "active_positions": 8,
+    "win_amount": 42676.99192164516,
+    "loss_amount": -7139.068314958389,
+    "win_rate": 0.7101449275362319,
+    "total_current_value": 25.14814,
+    "total_positions": 84,
+    "event_ct": 69,
+    "win_count": 49,
+    "rank": 3229,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
