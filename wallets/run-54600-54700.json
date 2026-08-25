@@ -30,5 +30,21 @@
     "win_count": 1,
     "rank": 54603,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa4c40bd41094eb647efaa85e1be73490dbcbf4cb",
+    "trader_name": "Ragtos",
+    "tag": "Overall",
+    "overall_gain": 1276.2074075428236,
+    "active_positions": 0,
+    "win_amount": 14000.567353152186,
+    "loss_amount": -12724.35994560936,
+    "win_rate": 0.5555555555555556,
+    "total_current_value": 0.5867829999999999,
+    "total_positions": 128,
+    "event_ct": 126,
+    "win_count": 70,
+    "rank": 54604,
+    "trader_tags": "< 30 days old"
   }
 ]
