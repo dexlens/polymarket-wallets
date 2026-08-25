@@ -190,5 +190,21 @@
     "win_count": 24,
     "rank": 8312,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x4f6cd86f2d550bf41333bde6a20f6ae33cfccb60",
+    "trader_name": "DnGFNmBo",
+    "tag": "Overall",
+    "overall_gain": 12636.559272595034,
+    "active_positions": 3,
+    "win_amount": 17653.059272595034,
+    "loss_amount": -5016.5,
+    "win_rate": 0.8,
+    "total_current_value": 0.000035000000000000004,
+    "total_positions": 15,
+    "event_ct": 15,
+    "win_count": 12,
+    "rank": 8313,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
