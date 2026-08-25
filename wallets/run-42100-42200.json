@@ -958,5 +958,21 @@
     "win_count": 37,
     "rank": 42161,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x1d65fd35be23752be4832c9f9a35f930ed4b4cc6",
+    "trader_name": "Burnsmaxi",
+    "tag": "Overall",
+    "overall_gain": 1868.2439610410815,
+    "active_positions": 2,
+    "win_amount": 2346.2206906980696,
+    "loss_amount": -477.97672965698797,
+    "win_rate": 0.9166666666666666,
+    "total_current_value": 4207.9991005745,
+    "total_positions": 15,
+    "event_ct": 12,
+    "win_count": 11,
+    "rank": 42162,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
