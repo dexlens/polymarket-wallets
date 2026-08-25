@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 83160,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16a7facbc63c06bbe16ae369d5e7a1084f052ee3",
+    "trader_name": "Sammaal",
+    "tag": "Overall",
+    "overall_gain": 579.9590078048931,
+    "active_positions": 1,
+    "win_amount": 2358.041408084341,
+    "loss_amount": -1778.082400279448,
+    "win_rate": 0.7647058823529411,
+    "total_current_value": 0.013678000000000001,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 13,
+    "rank": 83161,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
