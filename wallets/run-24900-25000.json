@@ -1518,5 +1518,21 @@
     "win_count": 8,
     "rank": 24996,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x8aa57ac47693dd9576d90ecc3a960ef00bc63c24",
+    "trader_name": "GregSharp",
+    "tag": "Overall",
+    "overall_gain": 3539.259594266438,
+    "active_positions": 226,
+    "win_amount": 8191.033116281674,
+    "loss_amount": -4651.7735220152335,
+    "win_rate": 0.7595066803699897,
+    "total_current_value": 0.41664162149999995,
+    "total_positions": 1774,
+    "event_ct": 973,
+    "win_count": 739,
+    "rank": 24997,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
