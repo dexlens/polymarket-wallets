@@ -1214,5 +1214,21 @@
     "win_count": 37,
     "rank": 4876,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7df662e68f3056d852a617e976a02f890ea6b212",
+    "trader_name": "Promet",
+    "tag": "Overall",
+    "overall_gain": 22296.820257583124,
+    "active_positions": 0,
+    "win_amount": 22495.608791622126,
+    "loss_amount": -198.788534039,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 0.0911732425,
+    "total_positions": 23,
+    "event_ct": 19,
+    "win_count": 17,
+    "rank": 4877,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
