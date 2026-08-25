@@ -1070,5 +1070,21 @@
     "win_count": 9,
     "rank": 69568,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2ad55e48e10cc4fc174505eb60eddae21c1db3ed",
+    "trader_name": "OwenGu",
+    "tag": "Overall",
+    "overall_gain": 820.651287485597,
+    "active_positions": 2,
+    "win_amount": 2262.8178293220285,
+    "loss_amount": -1442.1665418364312,
+    "win_rate": 0.7070707070707071,
+    "total_current_value": 470.27001921950006,
+    "total_positions": 103,
+    "event_ct": 99,
+    "win_count": 70,
+    "rank": 69569,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
