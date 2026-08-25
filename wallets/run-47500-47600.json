@@ -1502,5 +1502,21 @@
     "win_count": 17,
     "rank": 47595,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1c8c40f5af721da844338bf727975cf8feee237d",
+    "trader_name": "gondiiii",
+    "tag": "Overall",
+    "overall_gain": 1590.5686971275936,
+    "active_positions": 15,
+    "win_amount": 19057.29915620393,
+    "loss_amount": -17466.73045907634,
+    "win_rate": 0.48425787106446777,
+    "total_current_value": 0.153537,
+    "total_positions": 1119,
+    "event_ct": 667,
+    "win_count": 323,
+    "rank": 47596,
+    "trader_tags": "1k+ Positions"
   }
 ]
