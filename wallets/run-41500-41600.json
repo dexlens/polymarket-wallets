@@ -1534,5 +1534,21 @@
     "win_count": 1,
     "rank": 41597,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x25a48f619787ee2be14bf9f48bc255b7a7be2694",
+    "trader_name": "GraveTrout11",
+    "tag": "Overall",
+    "overall_gain": 1899.8790468622815,
+    "active_positions": 13,
+    "win_amount": 13567.318195757514,
+    "loss_amount": -11667.439148895235,
+    "win_rate": 0.6341463414634146,
+    "total_current_value": 2623.7286232449997,
+    "total_positions": 64,
+    "event_ct": 41,
+    "win_count": 26,
+    "rank": 41598,
+    "trader_tags": "< 30 days old"
   }
 ]
