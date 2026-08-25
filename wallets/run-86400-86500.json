@@ -174,5 +174,21 @@
     "win_count": 1,
     "rank": 86412,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x285c4e90f54f2db313fe6518b2390847316cd137",
+    "trader_name": "lm4t",
+    "tag": "Overall",
+    "overall_gain": 533.5117548334683,
+    "active_positions": 16,
+    "win_amount": 2683.092369953571,
+    "loss_amount": -2149.5806151201036,
+    "win_rate": 0.35135135135135137,
+    "total_current_value": 619.755328189,
+    "total_positions": 48,
+    "event_ct": 37,
+    "win_count": 13,
+    "rank": 86413,
+    "trader_tags": ""
   }
 ]
