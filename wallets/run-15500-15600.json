@@ -1342,5 +1342,21 @@
     "win_count": 2,
     "rank": 15584,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x887fa95a8a0a2d54d345f7b01a25abb389344f97",
+    "trader_name": "gooup",
+    "tag": "Overall",
+    "overall_gain": 6188.891272340499,
+    "active_positions": 7,
+    "win_amount": 10065.144851276502,
+    "loss_amount": -3876.2535789359995,
+    "win_rate": 0.782608695652174,
+    "total_current_value": 3449.3601249585,
+    "total_positions": 27,
+    "event_ct": 23,
+    "win_count": 18,
+    "rank": 15585,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
