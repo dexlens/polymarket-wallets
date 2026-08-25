@@ -558,5 +558,21 @@
     "win_count": 4,
     "rank": 77236,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x38feeb102a16ad54ead722d389f9fb56eed32b7c",
+    "trader_name": "OracleOfOdds21",
+    "tag": "Overall",
+    "overall_gain": 677.5722310000001,
+    "active_positions": 0,
+    "win_amount": 1150.5022020000001,
+    "loss_amount": -472.929971,
+    "win_rate": 0.9,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 9,
+    "rank": 77237,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
