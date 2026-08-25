@@ -1358,5 +1358,21 @@
     "win_count": 2,
     "rank": 5085,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x74c319cef9c666465f3b56c1abcdfb560c358d15",
+    "trader_name": "SiggytheShork",
+    "tag": "Overall",
+    "overall_gain": 21319.05949080354,
+    "active_positions": 9,
+    "win_amount": 61477.73955,
+    "loss_amount": -40158.68005919646,
+    "win_rate": 0.2916666666666667,
+    "total_current_value": 0.009415,
+    "total_positions": 37,
+    "event_ct": 24,
+    "win_count": 7,
+    "rank": 5086,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
