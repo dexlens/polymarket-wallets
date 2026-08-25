@@ -1534,5 +1534,21 @@
     "win_count": 12,
     "rank": 70897,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x030ef6d3454c4c15fabc7ae8b1c6924294ab1179",
+    "trader_name": "Suhr",
+    "tag": "Overall",
+    "overall_gain": 790.5126178977399,
+    "active_positions": 13,
+    "win_amount": 1098.312001569043,
+    "loss_amount": -307.799383671303,
+    "win_rate": 0.7391304347826086,
+    "total_current_value": 36.6585172095,
+    "total_positions": 28,
+    "event_ct": 23,
+    "win_count": 17,
+    "rank": 70898,
+    "trader_tags": "> 1 year old; Overall Win Rate > 67%"
   }
 ]
