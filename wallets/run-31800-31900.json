@@ -782,5 +782,21 @@
     "win_count": 23,
     "rank": 31850,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xd4c8b8ac7d98ab83346b1e6e7e17e161076dc34e",
+    "trader_name": "Vk1999",
+    "tag": "Overall",
+    "overall_gain": 2614.208311896833,
+    "active_positions": 5,
+    "win_amount": 4917.325744485191,
+    "loss_amount": -2303.117432588358,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 10308.430512803001,
+    "total_positions": 8,
+    "event_ct": 6,
+    "win_count": 4,
+    "rank": 31851,
+    "trader_tags": "< 30 days old"
   }
 ]
