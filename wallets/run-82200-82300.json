@@ -1166,5 +1166,21 @@
     "win_count": 1,
     "rank": 82274,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xa4bde52eeb7c098af8b65991db93b9011ceddcd2",
+    "trader_name": "swipe",
+    "tag": "Overall",
+    "overall_gain": 594.0635072396283,
+    "active_positions": 0,
+    "win_amount": 11980.955646,
+    "loss_amount": -11386.892138760371,
+    "win_rate": 0.5789473684210527,
+    "total_current_value": 0,
+    "total_positions": 31,
+    "event_ct": 19,
+    "win_count": 11,
+    "rank": 82275,
+    "trader_tags": "> 1 year old"
   }
 ]
