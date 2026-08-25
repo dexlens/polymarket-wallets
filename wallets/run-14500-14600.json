@@ -846,5 +846,21 @@
     "win_count": 17,
     "rank": 14553,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x31d408177c7610c35cc9b03c4ab0660e669b9930",
+    "trader_name": "Lythorin",
+    "tag": "Overall",
+    "overall_gain": 6754.293479444304,
+    "active_positions": 5,
+    "win_amount": 11350.983421,
+    "loss_amount": -4596.689941555696,
+    "win_rate": 0.7959183673469388,
+    "total_current_value": 7,
+    "total_positions": 52,
+    "event_ct": 49,
+    "win_count": 39,
+    "rank": 14554,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
