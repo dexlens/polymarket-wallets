@@ -654,5 +654,21 @@
     "win_count": 10,
     "rank": 4241,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xab21252b603aea73ed9c89adede6d523cf6cc521",
+    "trader_name": "enderone",
+    "tag": "Overall",
+    "overall_gain": 26352.879699419747,
+    "active_positions": 6,
+    "win_amount": 40407.67273044502,
+    "loss_amount": -14054.79303102526,
+    "win_rate": 0.9238095238095239,
+    "total_current_value": 9463.3083219265,
+    "total_positions": 667,
+    "event_ct": 315,
+    "win_count": 291,
+    "rank": 4242,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
