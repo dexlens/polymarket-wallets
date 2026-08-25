@@ -670,5 +670,21 @@
     "win_count": 32,
     "rank": 442,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Sports PnL > $100k"
+  },
+  {
+    "trader": "0x8f69269039b9a401de28a38c2f1c3001364b7df1",
+    "trader_name": "DumplingBMF",
+    "tag": "Overall",
+    "overall_gain": 290239.7123925244,
+    "active_positions": 148,
+    "win_amount": 650479.7008796599,
+    "loss_amount": -360239.98848713574,
+    "win_rate": 0.7105666156202144,
+    "total_current_value": 257449.2358229465,
+    "total_positions": 2400,
+    "event_ct": 1306,
+    "win_count": 928,
+    "rank": 443,
+    "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 1k+ Positions; Politics PnL > $100k"
   }
 ]
