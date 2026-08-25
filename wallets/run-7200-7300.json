@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 7244,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x32a68622af88a6dd5c71fbc5420d613b1b52977d",
+    "trader_name": "Travissdgfg",
+    "tag": "Overall",
+    "overall_gain": 14750,
+    "active_positions": 0,
+    "win_amount": 14750,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 5,
+    "rank": 7245,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
