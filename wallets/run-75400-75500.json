@@ -254,5 +254,21 @@
     "win_count": 5,
     "rank": 75417,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x274c7c11bc19139397464068ca342c42de784372",
+    "trader_name": "sfaloughi",
+    "tag": "Overall",
+    "overall_gain": 707.7841896160401,
+    "active_positions": 6,
+    "win_amount": 1425.779047019656,
+    "loss_amount": -717.9948574036159,
+    "win_rate": 0.5319148936170213,
+    "total_current_value": 977.4191916649999,
+    "total_positions": 107,
+    "event_ct": 94,
+    "win_count": 50,
+    "rank": 75418,
+    "trader_tags": "> 1 year old"
   }
 ]
