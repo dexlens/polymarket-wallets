@@ -638,5 +638,21 @@
     "win_count": 1,
     "rank": 88341,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x89f0a333cda79fccc920dc0f003823e9bece1e62",
+    "trader_name": "dissk",
+    "tag": "Overall",
+    "overall_gain": 508.967322960621,
+    "active_positions": 35,
+    "win_amount": 2346.2623243668163,
+    "loss_amount": -1837.2950014061948,
+    "win_rate": 0.8335809806835067,
+    "total_current_value": 4717.195155801999,
+    "total_positions": 919,
+    "event_ct": 673,
+    "win_count": 561,
+    "rank": 88342,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
