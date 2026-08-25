@@ -750,5 +750,21 @@
     "win_count": 15,
     "rank": 25148,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x74cdfe9233b67bb1c3061de9111855bda4612f6a",
+    "trader_name": "lordsnusik",
+    "tag": "Overall",
+    "overall_gain": 3511.965778035094,
+    "active_positions": 4,
+    "win_amount": 3925.995671305261,
+    "loss_amount": -414.029893270167,
+    "win_rate": 0.8181818181818182,
+    "total_current_value": 0.032078872,
+    "total_positions": 23,
+    "event_ct": 11,
+    "win_count": 9,
+    "rank": 25149,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
