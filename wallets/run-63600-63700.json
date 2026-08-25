@@ -798,5 +798,21 @@
     "win_count": 17,
     "rank": 63651,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x33c6aa09c9a7be8232bf0a3bccc069d6ac1aaa26",
+    "trader_name": "idontknowyoutellme",
+    "tag": "Overall",
+    "overall_gain": 984.1120801205276,
+    "active_positions": 5,
+    "win_amount": 11899.411143974647,
+    "loss_amount": -10915.299063854116,
+    "win_rate": 0.6986027944111777,
+    "total_current_value": 10.904646,
+    "total_positions": 1093,
+    "event_ct": 1002,
+    "win_count": 700,
+    "rank": 63652,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
