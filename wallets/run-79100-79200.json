@@ -1102,5 +1102,21 @@
     "win_count": 3,
     "rank": 79170,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x981b740f8a66a8235cc5ef13d235aa4150849163",
+    "trader_name": "niulang",
+    "tag": "Overall",
+    "overall_gain": 644.378652460322,
+    "active_positions": 0,
+    "win_amount": 645.2017424940381,
+    "loss_amount": -0.823090033716,
+    "win_rate": 0.625,
+    "total_current_value": 0.016322,
+    "total_positions": 8,
+    "event_ct": 8,
+    "win_count": 5,
+    "rank": 79171,
+    "trader_tags": "> 1 year old"
   }
 ]
