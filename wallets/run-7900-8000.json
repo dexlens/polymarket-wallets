@@ -654,5 +654,21 @@
     "win_count": 275,
     "rank": 7941,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xade730a884685f8a6994a0517ce7ffb6c8f5d5c8",
+    "trader_name": "Sylven",
+    "tag": "Overall",
+    "overall_gain": 13238.903948288502,
+    "active_positions": 5,
+    "win_amount": 13685.027296550552,
+    "loss_amount": -446.12334826204994,
+    "win_rate": 0.9230769230769231,
+    "total_current_value": 15.19248633,
+    "total_positions": 54,
+    "event_ct": 52,
+    "win_count": 48,
+    "rank": 7942,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
