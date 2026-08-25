@@ -494,5 +494,21 @@
     "win_count": 3,
     "rank": 9831,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x192158697acf50fc2f997c69eeacece98d164fbc",
+    "trader_name": "StacyJames",
+    "tag": "Overall",
+    "overall_gain": 10652.517366566666,
+    "active_positions": 48,
+    "win_amount": 23537.971647,
+    "loss_amount": -12885.454280433336,
+    "win_rate": 0.5462962962962963,
+    "total_current_value": 0,
+    "total_positions": 110,
+    "event_ct": 108,
+    "win_count": 59,
+    "rank": 9832,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
