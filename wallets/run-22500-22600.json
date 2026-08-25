@@ -1054,5 +1054,21 @@
     "win_count": 337,
     "rank": 22566,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbde3e2c2b72948e8e8cd4ce56df40de98de46019",
+    "trader_name": "duck-empat",
+    "tag": "Overall",
+    "overall_gain": 4001.880709685203,
+    "active_positions": 2,
+    "win_amount": 5284.547247516827,
+    "loss_amount": -1282.666537831624,
+    "win_rate": 0.8,
+    "total_current_value": 1257.621071,
+    "total_positions": 15,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 22567,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
