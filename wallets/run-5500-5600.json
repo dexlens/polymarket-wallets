@@ -878,5 +878,21 @@
     "win_count": 17,
     "rank": 5555,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9463843be36315b22b8778ab08fbaa71399f6a9e",
+    "trader_name": "raynecfds22",
+    "tag": "Overall",
+    "overall_gain": 19464.67898439237,
+    "active_positions": 0,
+    "win_amount": 31121.437772392368,
+    "loss_amount": -11656.758788000003,
+    "win_rate": 0.4942528735632184,
+    "total_current_value": 0.008552,
+    "total_positions": 87,
+    "event_ct": 87,
+    "win_count": 43,
+    "rank": 5556,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
