@@ -1486,5 +1486,21 @@
     "win_count": 5,
     "rank": 4693,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x238712c6d1e3c60d301d0db84701a624aba86613",
+    "trader_name": "OIP99",
+    "tag": "Overall",
+    "overall_gain": 23209.966231724386,
+    "active_positions": 5,
+    "win_amount": 35533.93782572439,
+    "loss_amount": -12323.971594,
+    "win_rate": 0.8,
+    "total_current_value": 32.871513875,
+    "total_positions": 77,
+    "event_ct": 60,
+    "win_count": 48,
+    "rank": 4694,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
