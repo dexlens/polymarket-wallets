@@ -526,5 +526,21 @@
     "win_count": 1,
     "rank": 35334,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x331ab85c43da2ab7c71f9678e5886f7328d9d80e",
+    "trader_name": "ACCA3",
+    "tag": "Overall",
+    "overall_gain": 2314.370822943,
+    "active_positions": 11,
+    "win_amount": 32609.676596259877,
+    "loss_amount": -30295.305773316868,
+    "win_rate": 0.8432055749128919,
+    "total_current_value": 109.95668148600001,
+    "total_positions": 4501,
+    "event_ct": 4305,
+    "win_count": 3630,
+    "rank": 35335,
+    "trader_tags": "Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
