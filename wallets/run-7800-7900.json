@@ -734,5 +734,21 @@
     "win_count": 21,
     "rank": 7846,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x2907fae3a2803d7b44e542a6e3fd707af931b1e9",
+    "trader_name": "MWAgPKaTV",
+    "tag": "Overall",
+    "overall_gain": 13433.5,
+    "active_positions": 9,
+    "win_amount": 21743.5,
+    "loss_amount": -8310,
+    "win_rate": 0.55,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 11,
+    "rank": 7847,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
