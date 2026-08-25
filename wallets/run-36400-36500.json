@@ -862,5 +862,21 @@
     "win_count": 5,
     "rank": 36455,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x488a68790436cb02d12282839653d1c3870e2c90",
+    "trader_name": "Clean-Bandit",
+    "tag": "Overall",
+    "overall_gain": 2228.499177484845,
+    "active_positions": 0,
+    "win_amount": 2388.5008239999997,
+    "loss_amount": -160.00164651515502,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 0,
+    "total_positions": 8,
+    "event_ct": 7,
+    "win_count": 4,
+    "rank": 36456,
+    "trader_tags": "> 1 year old"
   }
 ]
