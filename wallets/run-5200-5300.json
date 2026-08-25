@@ -782,5 +782,21 @@
     "win_count": 40,
     "rank": 5249,
     "trader_tags": "Overall PnL > $10k; < 30 days old"
+  },
+  {
+    "trader": "0xb92edd9bdec7bd9c6832bec52f1a46fd2accd70e",
+    "trader_name": "katelynhaa",
+    "tag": "Overall",
+    "overall_gain": 20654.5,
+    "active_positions": 0,
+    "win_amount": 20779,
+    "loss_amount": -124.5,
+    "win_rate": 0.8,
+    "total_current_value": 0,
+    "total_positions": 5,
+    "event_ct": 5,
+    "win_count": 4,
+    "rank": 5250,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
