@@ -718,5 +718,21 @@
     "win_count": 227,
     "rank": 23445,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x846f10bb6a12acc6eda5ffe3b12288aa38e4750e",
+    "trader_name": "DogDaysROver",
+    "tag": "Overall",
+    "overall_gain": 3830.073622368054,
+    "active_positions": 5,
+    "win_amount": 38218.688540102776,
+    "loss_amount": -34388.61491773473,
+    "win_rate": 0.47058823529411764,
+    "total_current_value": 3335.9712912620007,
+    "total_positions": 321,
+    "event_ct": 136,
+    "win_count": 64,
+    "rank": 23446,
+    "trader_tags": "> 1 year old"
   }
 ]
