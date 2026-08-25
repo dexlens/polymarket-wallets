@@ -350,5 +350,21 @@
     "win_count": 12,
     "rank": 41823,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x30fb100dc4f67ff384242f2e0506bb98d9df4856",
+    "trader_name": "rabby888",
+    "tag": "Overall",
+    "overall_gain": 1886.9138166132839,
+    "active_positions": 52,
+    "win_amount": 12254.697737356259,
+    "loss_amount": -10367.783920742972,
+    "win_rate": 0.6595744680851063,
+    "total_current_value": 2046.0256840000002,
+    "total_positions": 210,
+    "event_ct": 141,
+    "win_count": 93,
+    "rank": 41824,
+    "trader_tags": "< 30 days old"
   }
 ]
