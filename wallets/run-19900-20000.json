@@ -126,5 +126,21 @@
     "win_count": 1,
     "rank": 19908,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x73b4f93f5a10bf84f99f3b8ad31bbe8dcd3844d0",
+    "trader_name": "Falconrey",
+    "tag": "Overall",
+    "overall_gain": 4650.028202535954,
+    "active_positions": 4,
+    "win_amount": 4650.048222535954,
+    "loss_amount": -0.020020000000000593,
+    "win_rate": 0.8,
+    "total_current_value": 15.01521267,
+    "total_positions": 11,
+    "event_ct": 10,
+    "win_count": 8,
+    "rank": 19909,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
