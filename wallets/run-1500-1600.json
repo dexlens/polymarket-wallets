@@ -478,5 +478,21 @@
     "win_count": 3,
     "rank": 1530,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x594edb9112f526fa6a80b8f858a6379c8a2c1c11",
+    "trader_name": "ColdMath",
+    "tag": "Overall",
+    "overall_gain": 78914.9359496892,
+    "active_positions": 855,
+    "win_amount": 105874.95559638608,
+    "loss_amount": -26960.019646696855,
+    "win_rate": 0.7948717948717948,
+    "total_current_value": 64683.69500273501,
+    "total_positions": 5803,
+    "event_ct": 1248,
+    "win_count": 992,
+    "rank": 1531,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%; 1k+ Positions"
   }
 ]
