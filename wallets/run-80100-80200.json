@@ -94,5 +94,21 @@
     "win_count": 2,
     "rank": 80107,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7ae57516fa444cba1206f6ceb291cf0025761f0e",
+    "trader_name": "Tom1k",
+    "tag": "Overall",
+    "overall_gain": 628.828081208218,
+    "active_positions": 11,
+    "win_amount": 738.792121325408,
+    "loss_amount": -109.96404011719,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0.015759000000000002,
+    "total_positions": 21,
+    "event_ct": 9,
+    "win_count": 3,
+    "rank": 80108,
+    "trader_tags": "> 1 year old"
   }
 ]
