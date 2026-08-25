@@ -1502,5 +1502,21 @@
     "win_count": 17,
     "rank": 67695,
     "trader_tags": "< 30 days old"
+  },
+  {
+    "trader": "0x9fb564c7393a9af903a6ae10b03c50d082a883dc",
+    "trader_name": "bumkasmd",
+    "tag": "Overall",
+    "overall_gain": 869.792870235042,
+    "active_positions": 1,
+    "win_amount": 875.1928702350419,
+    "loss_amount": -5.4,
+    "win_rate": 0.75,
+    "total_current_value": 3.602863584,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 67696,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
