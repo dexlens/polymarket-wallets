@@ -606,5 +606,21 @@
     "win_count": 1,
     "rank": 9038,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x554988bf8a7d0c507fd5b2e4996f764e8b1d5303",
+    "trader_name": "Zane5Z",
+    "tag": "Overall",
+    "overall_gain": 11603.814755,
+    "active_positions": 1,
+    "win_amount": 11604.742755,
+    "loss_amount": -0.9279999999999999,
+    "win_rate": 0.75,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 9039,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
