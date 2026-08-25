@@ -702,5 +702,21 @@
     "win_count": 1,
     "rank": 45045,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5b539d561bfd42139f3ac35bcf32f215b7bd1c09",
+    "trader_name": "xiaoshuhu111",
+    "tag": "Overall",
+    "overall_gain": 1711.273751072689,
+    "active_positions": 6,
+    "win_amount": 9286.115913,
+    "loss_amount": -7574.84216192731,
+    "win_rate": 0.8603988603988604,
+    "total_current_value": 0.01492,
+    "total_positions": 709,
+    "event_ct": 702,
+    "win_count": 604,
+    "rank": 45046,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
