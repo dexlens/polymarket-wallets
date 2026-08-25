@@ -510,5 +510,21 @@
     "win_count": 2,
     "rank": 14432,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xfe0f8089217477b6d9010385b35b99681be5ae82",
+    "trader_name": "puzzl3",
+    "tag": "Overall",
+    "overall_gain": 6816.294070395649,
+    "active_positions": 12,
+    "win_amount": 7113.10009639565,
+    "loss_amount": -296.806026,
+    "win_rate": 0.918918918918919,
+    "total_current_value": 7069.469505533,
+    "total_positions": 108,
+    "event_ct": 37,
+    "win_count": 34,
+    "rank": 14433,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
