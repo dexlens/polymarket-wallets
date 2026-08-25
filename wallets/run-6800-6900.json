@@ -1198,5 +1198,21 @@
     "win_count": 4,
     "rank": 6875,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x98d04f9eb52d08ef9697f6eb8d7cfe8d46e5f14a",
+    "trader_name": "mrworldwide",
+    "tag": "Overall",
+    "overall_gain": 15602.844658533895,
+    "active_positions": 13,
+    "win_amount": 35208.32802799893,
+    "loss_amount": -19605.48336946503,
+    "win_rate": 0.780373831775701,
+    "total_current_value": 8624.3584440605,
+    "total_positions": 508,
+    "event_ct": 214,
+    "win_count": 167,
+    "rank": 6876,
+    "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
   }
 ]
