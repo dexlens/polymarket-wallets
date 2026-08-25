@@ -686,5 +686,21 @@
     "win_count": 6,
     "rank": 23343,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xce5ec563b18ecd44ec50a4cd30f5a506dbdeb7c0",
+    "trader_name": "Lanfear8",
+    "tag": "Overall",
+    "overall_gain": 3849.9836114119607,
+    "active_positions": 5,
+    "win_amount": 3849.9836114119607,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 3061.877513,
+    "total_positions": 5,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 23344,
+    "trader_tags": "< 30 days old; Overall Win Rate > 67%"
   }
 ]
