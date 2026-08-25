@@ -1230,5 +1230,21 @@
     "win_count": 12,
     "rank": 36578,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x6c9f1492f900226107ee6d6937a0708aca3c99eb",
+    "trader_name": "HazelStone",
+    "tag": "Overall",
+    "overall_gain": 2219.500191415451,
+    "active_positions": 5,
+    "win_amount": 6670.728244,
+    "loss_amount": -4451.228052584549,
+    "win_rate": 0.7391304347826086,
+    "total_current_value": 0.0045,
+    "total_positions": 23,
+    "event_ct": 23,
+    "win_count": 17,
+    "rank": 36579,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
