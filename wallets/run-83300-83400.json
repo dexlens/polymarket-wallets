@@ -94,5 +94,21 @@
     "win_count": 42,
     "rank": 83307,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x2a34e081ab5bf3a810f930b922a336299efdc226",
+    "trader_name": "bendoverme",
+    "tag": "Overall",
+    "overall_gain": 577.2402369350311,
+    "active_positions": 3,
+    "win_amount": 593.307767776031,
+    "loss_amount": -16.067530841,
+    "win_rate": 0.6923076923076923,
+    "total_current_value": 0.039994,
+    "total_positions": 53,
+    "event_ct": 13,
+    "win_count": 9,
+    "rank": 83308,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
