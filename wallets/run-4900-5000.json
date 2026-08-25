@@ -414,5 +414,21 @@
     "win_count": 30,
     "rank": 4926,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x7b2e0880807cc19f553c9569c873f23a770b36fd",
+    "trader_name": "MaximumReturns",
+    "tag": "Overall",
+    "overall_gain": 22035.696012458793,
+    "active_positions": 19,
+    "win_amount": 24069.29709756974,
+    "loss_amount": -2033.6010851109447,
+    "win_rate": 0.5476190476190477,
+    "total_current_value": 509.30641771949985,
+    "total_positions": 57,
+    "event_ct": 42,
+    "win_count": 23,
+    "rank": 4927,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
