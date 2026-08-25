@@ -878,5 +878,21 @@
     "win_count": 89,
     "rank": 30156,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xcfecbb302388065871aa6de7d7ac47db7146f7db",
+    "trader_name": "LilWin",
+    "tag": "Overall",
+    "overall_gain": 2803.317796407251,
+    "active_positions": 1,
+    "win_amount": 12913.18985197725,
+    "loss_amount": -10109.872055569997,
+    "win_rate": 0.9599358974358975,
+    "total_current_value": 20.499819000000002,
+    "total_positions": 744,
+    "event_ct": 624,
+    "win_count": 599,
+    "rank": 30157,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
