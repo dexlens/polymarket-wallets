@@ -1150,5 +1150,21 @@
     "win_count": 6,
     "rank": 65773,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x0502352365bdc71dc31bd2d0bc279dfd0f0b7547",
+    "trader_name": "bilenych",
+    "tag": "Overall",
+    "overall_gain": 922.7238453172773,
+    "active_positions": 56,
+    "win_amount": 2897.348497933281,
+    "loss_amount": -1974.624652616004,
+    "win_rate": 0.35714285714285715,
+    "total_current_value": 26.279611000000003,
+    "total_positions": 89,
+    "event_ct": 56,
+    "win_count": 20,
+    "rank": 65774,
+    "trader_tags": "> 1 year old"
   }
 ]
