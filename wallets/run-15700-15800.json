@@ -1502,5 +1502,21 @@
     "win_count": 5,
     "rank": 15794,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3aaa14c9a3e649374351986d4ef22b88e808c18d",
+    "trader_name": "BulishBlox",
+    "tag": "Overall",
+    "overall_gain": 6100.432700732427,
+    "active_positions": 199,
+    "win_amount": 17785.63967085713,
+    "loss_amount": -11685.206970124707,
+    "win_rate": 0.5959821428571429,
+    "total_current_value": 21.191988520000002,
+    "total_positions": 498,
+    "event_ct": 448,
+    "win_count": 267,
+    "rank": 15795,
+    "trader_tags": ""
   }
 ]
