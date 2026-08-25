@@ -894,5 +894,21 @@
     "win_count": 6,
     "rank": 16256,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x475928313bd3b28979ec049a65bc36f88c29f916",
+    "trader_name": "heiei",
+    "tag": "Overall",
+    "overall_gain": 5884.593934370951,
+    "active_positions": 12,
+    "win_amount": 6007.387298000001,
+    "loss_amount": -122.79336362904998,
+    "win_rate": 0.2857142857142857,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 14,
+    "win_count": 4,
+    "rank": 16257,
+    "trader_tags": ""
   }
 ]
