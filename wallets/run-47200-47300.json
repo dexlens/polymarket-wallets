@@ -782,5 +782,21 @@
     "win_count": 6,
     "rank": 47250,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x52a4038e4229be36ce9b09078bacb1e923330294",
+    "trader_name": "DrKingSchultz",
+    "tag": "Overall",
+    "overall_gain": 1604.677338820454,
+    "active_positions": 18,
+    "win_amount": 7626.713385675783,
+    "loss_amount": -6022.036046855329,
+    "win_rate": 0.7222222222222222,
+    "total_current_value": 10512.317098035,
+    "total_positions": 61,
+    "event_ct": 54,
+    "win_count": 39,
+    "rank": 47251,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
