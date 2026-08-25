@@ -334,5 +334,21 @@
     "win_count": 15,
     "rank": 5121,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0xa5a07fcb49e8cc70ad0f4697418a4790b31b2265",
+    "trader_name": "Zenyla",
+    "tag": "Overall",
+    "overall_gain": 21137.957415419733,
+    "active_positions": 3,
+    "win_amount": 21920.97862845637,
+    "loss_amount": -783.0212130366331,
+    "win_rate": 0.8947368421052632,
+    "total_current_value": 0.003875,
+    "total_positions": 39,
+    "event_ct": 38,
+    "win_count": 34,
+    "rank": 5122,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
