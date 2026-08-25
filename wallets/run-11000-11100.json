@@ -1438,5 +1438,21 @@
     "win_count": 70,
     "rank": 11090,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xff6042e1cb97a64f1b29383c3b3e8b0beb8e8c1d",
+    "trader_name": "qingkong",
+    "tag": "Overall",
+    "overall_gain": 9495.281676909997,
+    "active_positions": 2,
+    "win_amount": 10206.328687999998,
+    "loss_amount": -711.04701109,
+    "win_rate": 0.8333333333333334,
+    "total_current_value": 50,
+    "total_positions": 12,
+    "event_ct": 12,
+    "win_count": 10,
+    "rank": 11091,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
