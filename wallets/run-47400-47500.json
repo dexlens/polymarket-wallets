@@ -814,5 +814,21 @@
     "win_count": 2,
     "rank": 47452,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x88d2798ba01d92eca4be7d394ae6bc8db51ed2d6",
+    "trader_name": "Muritel",
+    "tag": "Overall",
+    "overall_gain": 1596.796,
+    "active_positions": 1,
+    "win_amount": 1596.796,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 20,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 3,
+    "rank": 47453,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
