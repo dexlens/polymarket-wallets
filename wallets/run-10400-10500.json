@@ -270,5 +270,21 @@
     "win_count": 9,
     "rank": 10417,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x9a602d9a64d6573ba25450b5acbee5a5b3303f7c",
+    "trader_name": "snqicirlljx",
+    "tag": "Overall",
+    "overall_gain": 10092.675901003713,
+    "active_positions": 9,
+    "win_amount": 22291.920455,
+    "loss_amount": -12199.244553996286,
+    "win_rate": 0.4166666666666667,
+    "total_current_value": 0.045813,
+    "total_positions": 60,
+    "event_ct": 36,
+    "win_count": 15,
+    "rank": 10418,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
