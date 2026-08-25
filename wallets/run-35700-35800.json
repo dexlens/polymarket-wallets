@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 35760,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x954e978d7fae489fd4d3ee4568833b82d6cfc06a",
+    "trader_name": "eagleee",
+    "tag": "Overall",
+    "overall_gain": 2279.8419854328345,
+    "active_positions": 18,
+    "win_amount": 5019.518440290061,
+    "loss_amount": -2739.676454857226,
+    "win_rate": 0.7352941176470589,
+    "total_current_value": 70.11796549499999,
+    "total_positions": 39,
+    "event_ct": 34,
+    "win_count": 25,
+    "rank": 35761,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
