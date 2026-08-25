@@ -1214,5 +1214,21 @@
     "win_count": 10,
     "rank": 3776,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x6cf9666d226fd3d660667f309eda8e1d56e79d9f",
+    "trader_name": "Cartel",
+    "tag": "Overall",
+    "overall_gain": 30166.118727119298,
+    "active_positions": 2,
+    "win_amount": 43638.420971559186,
+    "loss_amount": -13472.302244439888,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 5676.877587867501,
+    "total_positions": 44,
+    "event_ct": 24,
+    "win_count": 14,
+    "rank": 3777,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
