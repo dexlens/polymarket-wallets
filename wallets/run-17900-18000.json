@@ -1150,5 +1150,21 @@
     "win_count": 5,
     "rank": 17972,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xadcb1a7b59ad4205fb5ec2e1ee8e66d748b8ffcf",
+    "trader_name": "Peregrinevale",
+    "tag": "Overall",
+    "overall_gain": 5193.0687470921275,
+    "active_positions": 6,
+    "win_amount": 5198.9281220921275,
+    "loss_amount": -5.859375,
+    "win_rate": 0.8461538461538461,
+    "total_current_value": 14.295304999999999,
+    "total_positions": 13,
+    "event_ct": 13,
+    "win_count": 11,
+    "rank": 17973,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
