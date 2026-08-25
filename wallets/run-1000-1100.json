@@ -1454,5 +1454,21 @@
     "win_count": 3,
     "rank": 1091,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x29978facc899668e4972a6a21b73aff0a8bc6c34",
+    "trader_name": "shoumi1",
+    "tag": "Overall",
+    "overall_gain": 110791.71017615481,
+    "active_positions": 38,
+    "win_amount": 330629.2816420216,
+    "loss_amount": -219837.57146586667,
+    "win_rate": 0.8829787234042553,
+    "total_current_value": 0.9324135769999998,
+    "total_positions": 884,
+    "event_ct": 564,
+    "win_count": 498,
+    "rank": 1092,
+    "trader_tags": "Overall PnL > $100k; Overall Win Rate > 67%"
   }
 ]
