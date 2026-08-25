@@ -1566,5 +1566,21 @@
     "win_count": 18,
     "rank": 31299,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x5f33385b8ccced3b43b9e7ca40c36834c3300d47",
+    "trader_name": "stonesas72",
+    "tag": "Overall",
+    "overall_gain": 2670.291142882733,
+    "active_positions": 4,
+    "win_amount": 3936.017059966187,
+    "loss_amount": -1265.7259170834548,
+    "win_rate": 0.8103448275862069,
+    "total_current_value": 5.374788000000001,
+    "total_positions": 458,
+    "event_ct": 348,
+    "win_count": 282,
+    "rank": 31300,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
