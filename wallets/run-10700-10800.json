@@ -254,5 +254,21 @@
     "win_count": 50,
     "rank": 10716,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1354e9d95f76b02d8e6e606bc52e35f88f7cad04",
+    "trader_name": "amundsen11",
+    "tag": "Overall",
+    "overall_gain": 9889.474850058,
+    "active_positions": 0,
+    "win_amount": 11390.971262000001,
+    "loss_amount": -1501.4964119420001,
+    "win_rate": 0.5,
+    "total_current_value": 0.000111608,
+    "total_positions": 8,
+    "event_ct": 2,
+    "win_count": 1,
+    "rank": 10717,
+    "trader_tags": "< 30 days old"
   }
 ]
