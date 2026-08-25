@@ -270,5 +270,21 @@
     "win_count": 6,
     "rank": 8317,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x754af581e820ea0dc9dbce2e8979e037eb95b519",
+    "trader_name": "DrG",
+    "tag": "Overall",
+    "overall_gain": 12629.154944145774,
+    "active_positions": 10,
+    "win_amount": 41071.94444432036,
+    "loss_amount": -28442.789500174593,
+    "win_rate": 0.6307692307692307,
+    "total_current_value": 966.4641390001248,
+    "total_positions": 287,
+    "event_ct": 195,
+    "win_count": 123,
+    "rank": 8318,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
