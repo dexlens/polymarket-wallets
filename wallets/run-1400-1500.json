@@ -414,5 +414,21 @@
     "win_count": 160,
     "rank": 1426,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0xa8b202e6e9a4c2091b6860f1f5c9e9119bbc9a39",
+    "trader_name": "Team-TNT",
+    "tag": "Overall",
+    "overall_gain": 84951.34620075677,
+    "active_positions": 5,
+    "win_amount": 86095.86643203035,
+    "loss_amount": -1144.520231273576,
+    "win_rate": 0.7692307692307693,
+    "total_current_value": 1607432.6871728187,
+    "total_positions": 15,
+    "event_ct": 13,
+    "win_count": 10,
+    "rank": 1427,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
   }
 ]
