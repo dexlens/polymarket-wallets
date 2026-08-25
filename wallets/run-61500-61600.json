@@ -1102,5 +1102,21 @@
     "win_count": 4,
     "rank": 61570,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x12281a923d0f8d69d60b1d54b61e9587c068ac29",
+    "trader_name": "gq-test-account",
+    "tag": "Overall",
+    "overall_gain": 1032.993938937094,
+    "active_positions": 0,
+    "win_amount": 1032.993938937094,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.021277,
+    "total_positions": 3,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 61571,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
