@@ -302,5 +302,21 @@
     "win_count": 1,
     "rank": 63120,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xbca84086ef54a069275cac21943bc4c0b9d052c1",
+    "trader_name": "gfd5cfv",
+    "tag": "Overall",
+    "overall_gain": 997.6184427400292,
+    "active_positions": 15,
+    "win_amount": 6864.547438089435,
+    "loss_amount": -5866.928995349405,
+    "win_rate": 0.5714285714285714,
+    "total_current_value": 34.708481,
+    "total_positions": 44,
+    "event_ct": 42,
+    "win_count": 24,
+    "rank": 63121,
+    "trader_tags": "> 1 year old"
   }
 ]
