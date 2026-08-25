@@ -286,5 +286,21 @@
     "win_count": 3,
     "rank": 11218,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x74f1645a6ec9bc345a26d3cd5485bb184be10c7f",
+    "trader_name": "zer0edge",
+    "tag": "Overall",
+    "overall_gain": 9355.93814652259,
+    "active_positions": 5,
+    "win_amount": 54972.10656544883,
+    "loss_amount": -45616.16841892623,
+    "win_rate": 0.8580441640378549,
+    "total_current_value": 1296.5967519250003,
+    "total_positions": 643,
+    "event_ct": 634,
+    "win_count": 544,
+    "rank": 11219,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
