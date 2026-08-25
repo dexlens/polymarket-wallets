@@ -1054,5 +1054,21 @@
     "win_count": 28,
     "rank": 44067,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xb9b97edac95d20c59bb1868f5059049e070b133e",
+    "trader_name": "pintmaggit",
+    "tag": "Overall",
+    "overall_gain": 1762.11597908,
+    "active_positions": 6,
+    "win_amount": 3519.9501680000003,
+    "loss_amount": -1757.8341889200003,
+    "win_rate": 0.3333333333333333,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 9,
+    "win_count": 3,
+    "rank": 44068,
+    "trader_tags": "< 30 days old"
   }
 ]
