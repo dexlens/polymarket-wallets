@@ -590,5 +590,21 @@
     "win_count": 9,
     "rank": 65538,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xce2d5c570dbb8424f833afd5e3eb12fdbd080bbb",
+    "trader_name": "pnegron",
+    "tag": "Overall",
+    "overall_gain": 929.53432763998,
+    "active_positions": 1,
+    "win_amount": 929.53432763998,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.005862,
+    "total_positions": 2,
+    "event_ct": 1,
+    "win_count": 1,
+    "rank": 65539,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
