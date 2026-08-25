@@ -14,5 +14,21 @@
     "win_count": 1,
     "rank": 14201,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5a73942c8b4f0ada9ecdec199de9f4f61ca6e1ad",
+    "trader_name": "najada",
+    "tag": "Overall",
+    "overall_gain": 6943.972760106553,
+    "active_positions": 96,
+    "win_amount": 37957.69385285158,
+    "loss_amount": -31013.721092745032,
+    "win_rate": 0.3225806451612903,
+    "total_current_value": 859.8856281799999,
+    "total_positions": 170,
+    "event_ct": 124,
+    "win_count": 40,
+    "rank": 14202,
+    "trader_tags": "< 30 days old"
   }
 ]
