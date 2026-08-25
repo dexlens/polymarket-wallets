@@ -238,5 +238,21 @@
     "win_count": 2,
     "rank": 83316,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x7741092f296712d643acaa274f850f7461d1493a",
+    "trader_name": "MowerMatt",
+    "tag": "Overall",
+    "overall_gain": 577.16658500672,
+    "active_positions": 26,
+    "win_amount": 1626.2264018554001,
+    "loss_amount": -1049.05981684868,
+    "win_rate": 0.7523809523809524,
+    "total_current_value": 216.801543,
+    "total_positions": 113,
+    "event_ct": 105,
+    "win_count": 79,
+    "rank": 83317,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
