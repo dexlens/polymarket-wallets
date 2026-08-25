@@ -942,5 +942,21 @@
     "win_count": 1,
     "rank": 56260,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52a7469d144a12a8fb080a844a6700b350c0173c",
+    "trader_name": "zz1231aa",
+    "tag": "Overall",
+    "overall_gain": 1206.60662509,
+    "active_positions": 4,
+    "win_amount": 2296.6366530000005,
+    "loss_amount": -1090.03002791,
+    "win_rate": 0.918918918918919,
+    "total_current_value": 0,
+    "total_positions": 74,
+    "event_ct": 74,
+    "win_count": 68,
+    "rank": 56261,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
