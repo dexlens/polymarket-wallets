@@ -1566,5 +1566,21 @@
     "win_count": 2,
     "rank": 45799,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x46141bac66b4d9aee20493be484be6e35bb76002",
+    "trader_name": "jakepeaks",
+    "tag": "Overall",
+    "overall_gain": 1676.1808340470031,
+    "active_positions": 11,
+    "win_amount": 3276.580883,
+    "loss_amount": -1600.4000489529972,
+    "win_rate": 0.5925925925925926,
+    "total_current_value": 10.550099999999999,
+    "total_positions": 27,
+    "event_ct": 27,
+    "win_count": 16,
+    "rank": 45800,
+    "trader_tags": ""
   }
 ]
