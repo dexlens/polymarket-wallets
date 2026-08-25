@@ -1214,5 +1214,21 @@
     "win_count": 1,
     "rank": 88877,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x88ffcf31f37c15d5aeb03ce17505c2ceda3fac66",
+    "trader_name": "nomanland",
+    "tag": "Overall",
+    "overall_gain": 503.07177749078386,
+    "active_positions": 0,
+    "win_amount": 850.645566429683,
+    "loss_amount": -347.573788938899,
+    "win_rate": 0.5,
+    "total_current_value": 0.025931,
+    "total_positions": 18,
+    "event_ct": 16,
+    "win_count": 8,
+    "rank": 88878,
+    "trader_tags": "> 1 year old"
   }
 ]
