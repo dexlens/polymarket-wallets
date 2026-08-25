@@ -126,5 +126,21 @@
     "win_count": 4,
     "rank": 24209,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x5b3956a426604f520705f3138a5e79ebaff9eafb",
+    "trader_name": "flexbus",
+    "tag": "Overall",
+    "overall_gain": 3683.0637899999997,
+    "active_positions": 1,
+    "win_amount": 3896.5166849999996,
+    "loss_amount": -213.452895,
+    "win_rate": 0.9594594594594594,
+    "total_current_value": 0,
+    "total_positions": 103,
+    "event_ct": 74,
+    "win_count": 71,
+    "rank": 24210,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
