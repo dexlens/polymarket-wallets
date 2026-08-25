@@ -542,5 +542,21 @@
     "win_count": 2,
     "rank": 12534,
     "trader_tags": "< 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x87c2620742159e6ecb9ee759d370a1926fc9459f",
+    "trader_name": "HughWesley",
+    "tag": "Overall",
+    "overall_gain": 8100.212041306035,
+    "active_positions": 25,
+    "win_amount": 21650.212041306037,
+    "loss_amount": -13550,
+    "win_rate": 0.6140350877192983,
+    "total_current_value": 3.0370243425,
+    "total_positions": 57,
+    "event_ct": 57,
+    "win_count": 35,
+    "rank": 12535,
+    "trader_tags": ""
   }
 ]
