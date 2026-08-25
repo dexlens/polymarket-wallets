@@ -654,5 +654,21 @@
     "win_count": 3,
     "rank": 22041,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3cbe463eb7fe33429ab93274a35a23f358de1c79",
+    "trader_name": "chanchan",
+    "tag": "Overall",
+    "overall_gain": 4113.904655743515,
+    "active_positions": 11,
+    "win_amount": 5567.028341868068,
+    "loss_amount": -1453.123686124554,
+    "win_rate": 0.5238095238095238,
+    "total_current_value": 0.027999999999999997,
+    "total_positions": 26,
+    "event_ct": 21,
+    "win_count": 11,
+    "rank": 22042,
+    "trader_tags": "> 1 year old"
   }
 ]
