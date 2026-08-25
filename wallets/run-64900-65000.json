@@ -686,5 +686,21 @@
     "win_count": 3,
     "rank": 64944,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x709d731869610c2e1076bfe1116d02f9d17a2efb",
+    "trader_name": "zikuan",
+    "tag": "Overall",
+    "overall_gain": 947.12141833429,
+    "active_positions": 14,
+    "win_amount": 2185.7765628980296,
+    "loss_amount": -1238.6551445637397,
+    "win_rate": 0.5757575757575758,
+    "total_current_value": 0.012985,
+    "total_positions": 33,
+    "event_ct": 33,
+    "win_count": 19,
+    "rank": 64945,
+    "trader_tags": ""
   }
 ]
