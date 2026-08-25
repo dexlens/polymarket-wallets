@@ -1422,5 +1422,21 @@
     "win_count": 1234,
     "rank": 89,
     "trader_tags": "Overall PnL > $1m; > 1 year old; 1k+ Positions; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x37c1874a60d348903594a96703e0507c518fc53a",
+    "trader_name": "CemeterySun",
+    "tag": "Overall",
+    "overall_gain": 1091838.0201822587,
+    "active_positions": 534,
+    "win_amount": 9174352.752908524,
+    "loss_amount": -8082514.732726262,
+    "win_rate": 0.5843520782396088,
+    "total_current_value": 667455.2905408291,
+    "total_positions": 1856,
+    "event_ct": 409,
+    "win_count": 239,
+    "rank": 90,
+    "trader_tags": "Overall PnL > $1m; < 30 days old; 1k+ Positions; Sports PnL > $100k"
   }
 ]
