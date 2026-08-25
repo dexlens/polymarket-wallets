@@ -1422,5 +1422,21 @@
     "win_count": 6,
     "rank": 37090,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x84dc1c7ca1ebd36b9d58ba6bf40378949608c2df",
+    "trader_name": "suanova",
+    "tag": "Overall",
+    "overall_gain": 2183.8227941380037,
+    "active_positions": 1,
+    "win_amount": 2183.8227941380037,
+    "loss_amount": 0,
+    "win_rate": 1,
+    "total_current_value": 0.011288999999999999,
+    "total_positions": 3,
+    "event_ct": 2,
+    "win_count": 2,
+    "rank": 37091,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
