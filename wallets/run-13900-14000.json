@@ -62,5 +62,21 @@
     "win_count": 8,
     "rank": 13904,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x6fd5c13afa7bd3db108f8ca257d22684a6cccd21",
+    "trader_name": "Bolivar",
+    "tag": "Overall",
+    "overall_gain": 7099.116934011053,
+    "active_positions": 12,
+    "win_amount": 8712.148840684902,
+    "loss_amount": -1613.031906673848,
+    "win_rate": 0.9285714285714286,
+    "total_current_value": 46.320720574000006,
+    "total_positions": 45,
+    "event_ct": 42,
+    "win_count": 39,
+    "rank": 13905,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
