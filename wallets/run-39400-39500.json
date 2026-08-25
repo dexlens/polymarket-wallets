@@ -398,5 +398,21 @@
     "win_count": 1,
     "rank": 39426,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3fb6f13d1110aac0b4983d1298f3d90c8746a888",
+    "trader_name": "Zorvex",
+    "tag": "Overall",
+    "overall_gain": 2025.0999999999995,
+    "active_positions": 7,
+    "win_amount": 4727.3,
+    "loss_amount": -2702.2,
+    "win_rate": 0.65,
+    "total_current_value": 0,
+    "total_positions": 20,
+    "event_ct": 20,
+    "win_count": 13,
+    "rank": 39427,
+    "trader_tags": ""
   }
 ]
