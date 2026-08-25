@@ -142,5 +142,21 @@
     "win_count": 342,
     "rank": 30110,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x86b5b9606641f3d6db8dfbbeb3cc911c009ecaff",
+    "trader_name": "Belgique",
+    "tag": "Overall",
+    "overall_gain": 2807.839003852143,
+    "active_positions": 3,
+    "win_amount": 2820.818973016098,
+    "loss_amount": -12.979969163955001,
+    "win_rate": 0.75,
+    "total_current_value": 0.002336,
+    "total_positions": 8,
+    "event_ct": 4,
+    "win_count": 3,
+    "rank": 30111,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
