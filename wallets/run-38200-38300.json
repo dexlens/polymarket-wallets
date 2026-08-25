@@ -334,5 +334,21 @@
     "win_count": 1,
     "rank": 38222,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x16a9ee36491b3eb8b5ac4542596fd0beb764be44",
+    "trader_name": "3SD24F",
+    "tag": "Overall",
+    "overall_gain": 2103.91,
+    "active_positions": 8,
+    "win_amount": 7904.66,
+    "loss_amount": -5800.75,
+    "win_rate": 0.5294117647058824,
+    "total_current_value": 0,
+    "total_positions": 17,
+    "event_ct": 17,
+    "win_count": 9,
+    "rank": 38223,
+    "trader_tags": "< 30 days old"
   }
 ]
