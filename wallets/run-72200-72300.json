@@ -46,5 +46,21 @@
     "win_count": 5,
     "rank": 72204,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x954bcbb904d96ad35ef5b92d6624bdc360cc08e1",
+    "trader_name": "qwdc",
+    "tag": "Overall",
+    "overall_gain": 762.1764209999999,
+    "active_positions": 6,
+    "win_amount": 828.262671,
+    "loss_amount": -66.08624999999999,
+    "win_rate": 0.8,
+    "total_current_value": 38.86225,
+    "total_positions": 27,
+    "event_ct": 25,
+    "win_count": 20,
+    "rank": 72205,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
