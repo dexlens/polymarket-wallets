@@ -1054,5 +1054,21 @@
     "win_count": 26,
     "rank": 4966,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xea8ee311382139d952087a669252252625663de0",
+    "trader_name": "Yukaii",
+    "tag": "Overall",
+    "overall_gain": 21832.81275341603,
+    "active_positions": 2158,
+    "win_amount": 39392.101692932534,
+    "loss_amount": -17559.288939516522,
+    "win_rate": 0.054276315789473686,
+    "total_current_value": 3768.433573024,
+    "total_positions": 4805,
+    "event_ct": 1216,
+    "win_count": 66,
+    "rank": 4967,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
