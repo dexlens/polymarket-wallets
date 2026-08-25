@@ -942,5 +942,21 @@
     "win_count": 10,
     "rank": 14159,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x790e103b68f298a7775c7368407216f90ea7701c",
+    "trader_name": "LifeTorrent",
+    "tag": "Overall",
+    "overall_gain": 6968.455682600334,
+    "active_positions": 1,
+    "win_amount": 11549.891682600333,
+    "loss_amount": -4581.436,
+    "win_rate": 0.5833333333333334,
+    "total_current_value": 20.601333,
+    "total_positions": 47,
+    "event_ct": 36,
+    "win_count": 21,
+    "rank": 14160,
+    "trader_tags": "> 1 year old"
   }
 ]
