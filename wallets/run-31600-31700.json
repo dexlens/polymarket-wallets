@@ -574,5 +574,21 @@
     "win_count": 9,
     "rank": 31637,
     "trader_tags": ""
+  },
+  {
+    "trader": "0xbbedb189575e8ce37af9876a795eb6ff2dea0d9b",
+    "trader_name": "qwrds",
+    "tag": "Overall",
+    "overall_gain": 2636.0292570881647,
+    "active_positions": 13,
+    "win_amount": 2637.3541261966566,
+    "loss_amount": -1.3248691084920001,
+    "win_rate": 0.9210526315789473,
+    "total_current_value": 16.137061617,
+    "total_positions": 38,
+    "event_ct": 38,
+    "win_count": 35,
+    "rank": 31638,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
