@@ -766,5 +766,21 @@
     "win_count": 21,
     "rank": 63949,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x3b2db78851af9610222ff5cbfd6c7e39622ed452",
+    "trader_name": "btrherg3",
+    "tag": "Overall",
+    "overall_gain": 975.3400000000001,
+    "active_positions": 3,
+    "win_amount": 2491.04,
+    "loss_amount": -1515.7,
+    "win_rate": 0.7,
+    "total_current_value": 0,
+    "total_positions": 10,
+    "event_ct": 10,
+    "win_count": 7,
+    "rank": 63950,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
