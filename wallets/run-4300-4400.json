@@ -350,5 +350,21 @@
     "win_count": 80,
     "rank": 4322,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x0cd99bddc9855b29f02a761e904232f65d1a2a08",
+    "trader_name": "cryptowalk1",
+    "tag": "Overall",
+    "overall_gain": 25750.36407473267,
+    "active_positions": 138,
+    "win_amount": 44720.49293617384,
+    "loss_amount": -18970.128861441168,
+    "win_rate": 0.650571791613723,
+    "total_current_value": 1.6284100000000004,
+    "total_positions": 1630,
+    "event_ct": 787,
+    "win_count": 512,
+    "rank": 4323,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
