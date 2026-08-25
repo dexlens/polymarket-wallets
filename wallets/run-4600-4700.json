@@ -30,5 +30,21 @@
     "win_count": 12,
     "rank": 4602,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x1686b3e512052ba1ff70f8b48bbe0547be52c3f9",
+    "trader_name": "contrarycap",
+    "tag": "Overall",
+    "overall_gain": 23901.895927982114,
+    "active_positions": 2,
+    "win_amount": 25672.165346998867,
+    "loss_amount": -1770.269419016753,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 75258.605133415,
+    "total_positions": 3,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 4603,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
