@@ -942,5 +942,21 @@
     "win_count": 92,
     "rank": 3459,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x1df231bd33dae91463e1682927e8096b82c289a0",
+    "trader_name": "pedroBala",
+    "tag": "Overall",
+    "overall_gain": 32863.11814382561,
+    "active_positions": 6,
+    "win_amount": 98825.1309928256,
+    "loss_amount": -65962.01284899999,
+    "win_rate": 0.5654761904761905,
+    "total_current_value": 1255.12765562,
+    "total_positions": 1287,
+    "event_ct": 672,
+    "win_count": 380,
+    "rank": 3460,
+    "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
   }
 ]
