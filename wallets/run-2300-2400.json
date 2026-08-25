@@ -1406,5 +1406,21 @@
     "win_count": 247,
     "rank": 2388,
     "trader_tags": "Overall PnL > $10k"
+  },
+  {
+    "trader": "0x306b8fd94ac30e5fd512c7de013b419139e83ec5",
+    "trader_name": "Ragnarok",
+    "tag": "Overall",
+    "overall_gain": 49413.65164449125,
+    "active_positions": 1,
+    "win_amount": 70446.32280242887,
+    "loss_amount": -21032.67115793762,
+    "win_rate": 0.6133828996282528,
+    "total_current_value": 0.37637499999999996,
+    "total_positions": 499,
+    "event_ct": 269,
+    "win_count": 165,
+    "rank": 2389,
+    "trader_tags": "Overall PnL > $10k; > 1 year old"
   }
 ]
