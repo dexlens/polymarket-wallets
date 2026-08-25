@@ -670,5 +670,21 @@
     "win_count": 29,
     "rank": 82643,
     "trader_tags": ""
+  },
+  {
+    "trader": "0x0cb0e65c2848a0f2dde1b49741ff273085cad24f",
+    "trader_name": "cohao",
+    "tag": "Overall",
+    "overall_gain": 588.0242410216151,
+    "active_positions": 19,
+    "win_amount": 1270.144323629529,
+    "loss_amount": -682.1200826079139,
+    "win_rate": 0.78125,
+    "total_current_value": 506.49391709049996,
+    "total_positions": 107,
+    "event_ct": 96,
+    "win_count": 75,
+    "rank": 82644,
+    "trader_tags": "Overall Win Rate > 67%"
   }
 ]
