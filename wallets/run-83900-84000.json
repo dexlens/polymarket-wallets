@@ -1470,5 +1470,21 @@
     "win_count": 1,
     "rank": 83993,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e629e1a537b41146b748cea7fc4e24808be65de",
+    "trader_name": "vijnpred",
+    "tag": "Overall",
+    "overall_gain": 566.311246017739,
+    "active_positions": 35,
+    "win_amount": 2547.59724222355,
+    "loss_amount": -1981.285996205811,
+    "win_rate": 0.6356589147286822,
+    "total_current_value": 34.869733,
+    "total_positions": 140,
+    "event_ct": 129,
+    "win_count": 82,
+    "rank": 83994,
+    "trader_tags": ""
   }
 ]
