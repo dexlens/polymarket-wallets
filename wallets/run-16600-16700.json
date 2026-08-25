@@ -1582,5 +1582,21 @@
     "win_count": 198,
     "rank": 16699,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x52876115dfe78d8dba3e7cd2003fd9f223ddca51",
+    "trader_name": "qwsxedrews111",
+    "tag": "Overall",
+    "overall_gain": 5695.748448484821,
+    "active_positions": 5,
+    "win_amount": 13330.733457,
+    "loss_amount": -7634.985008515179,
+    "win_rate": 0.42857142857142855,
+    "total_current_value": 0,
+    "total_positions": 9,
+    "event_ct": 7,
+    "win_count": 3,
+    "rank": 16700,
+    "trader_tags": "< 30 days old"
   }
 ]
