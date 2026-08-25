@@ -718,5 +718,21 @@
     "win_count": 1,
     "rank": 1045,
     "trader_tags": "Overall PnL > $100k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election ; Politics PnL > $100k"
+  },
+  {
+    "trader": "0x0fe40e887acbd0022f89d996acce26ab428501b7",
+    "trader_name": "gobblewobble",
+    "tag": "Overall",
+    "overall_gain": 115654.77485971389,
+    "active_positions": 251,
+    "win_amount": 529868.1254068969,
+    "loss_amount": -414213.350547183,
+    "win_rate": 0.5257731958762887,
+    "total_current_value": 297959.45681566093,
+    "total_positions": 1343,
+    "event_ct": 291,
+    "win_count": 153,
+    "rank": 1046,
+    "trader_tags": "Overall PnL > $100k; 1k+ Positions; Crypto PnL > $100k"
   }
 ]
