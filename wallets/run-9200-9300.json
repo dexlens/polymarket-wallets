@@ -830,5 +830,21 @@
     "win_count": 4,
     "rank": 9252,
     "trader_tags": "Overall PnL > $10k; < 30 days old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xc93c86f929a23f8f688d12db7ad2ed736ef652f1",
+    "trader_name": "123erty",
+    "tag": "Overall",
+    "overall_gain": 11337.249819546028,
+    "active_positions": 65,
+    "win_amount": 45134.87424785508,
+    "loss_amount": -33797.62442830903,
+    "win_rate": 0.532051282051282,
+    "total_current_value": 27300.357273581,
+    "total_positions": 326,
+    "event_ct": 156,
+    "win_count": 83,
+    "rank": 9253,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
