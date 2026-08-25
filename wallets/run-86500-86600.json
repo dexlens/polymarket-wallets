@@ -974,5 +974,21 @@
     "win_count": 5,
     "rank": 86562,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x327af600935a48581799554bf1415ac240500d5b",
+    "trader_name": "BEIKU",
+    "tag": "Overall",
+    "overall_gain": 531.475717192865,
+    "active_positions": 78,
+    "win_amount": 4374.2975935392005,
+    "loss_amount": -3842.821876346334,
+    "win_rate": 0.6461538461538462,
+    "total_current_value": 22.876418000000005,
+    "total_positions": 327,
+    "event_ct": 325,
+    "win_count": 210,
+    "rank": 86563,
+    "trader_tags": ""
   }
 ]
