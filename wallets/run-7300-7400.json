@@ -1406,5 +1406,21 @@
     "win_count": 1,
     "rank": 7388,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%; 67%+ Positions in US Election "
+  },
+  {
+    "trader": "0x11e50ec01d48adc0be2292cb8e2a5fee0369ee4d",
+    "trader_name": "BlueOrchid",
+    "tag": "Overall",
+    "overall_gain": 14404.547949340229,
+    "active_positions": 27,
+    "win_amount": 201976.76620654523,
+    "loss_amount": -187572.21825720498,
+    "win_rate": 0.5384615384615384,
+    "total_current_value": 152301.5580249675,
+    "total_positions": 34,
+    "event_ct": 13,
+    "win_count": 7,
+    "rank": 7389,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
