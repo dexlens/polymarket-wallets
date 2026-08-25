@@ -734,5 +734,21 @@
     "win_count": 53,
     "rank": 2546,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0xdb219958841291a2484819881495829f2ab739ff",
+    "trader_name": "crumbsAndGlass",
+    "tag": "Overall",
+    "overall_gain": 45961.33834647548,
+    "active_positions": 1544,
+    "win_amount": 250474.94581873488,
+    "loss_amount": -204513.60747225935,
+    "win_rate": 0.5388496468213926,
+    "total_current_value": 4013.5860059999995,
+    "total_positions": 18464,
+    "event_ct": 9910,
+    "win_count": 5340,
+    "rank": 2547,
+    "trader_tags": "Overall PnL > $10k; 1k+ Positions"
   }
 ]
