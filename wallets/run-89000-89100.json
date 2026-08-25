@@ -1054,5 +1054,21 @@
     "win_count": 2,
     "rank": 89067,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x50a353b678a8c713e77045c99a4508d69354ea7a",
+    "trader_name": "rickrollol",
+    "tag": "Overall",
+    "overall_gain": 500.999833279257,
+    "active_positions": 6,
+    "win_amount": 744.7237771426161,
+    "loss_amount": -243.72394386335898,
+    "win_rate": 0.6513761467889908,
+    "total_current_value": 0.733316,
+    "total_positions": 205,
+    "event_ct": 109,
+    "win_count": 71,
+    "rank": 89068,
+    "trader_tags": "< 30 days old"
   }
 ]
