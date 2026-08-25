@@ -686,5 +686,21 @@
     "win_count": 11,
     "rank": 4043,
     "trader_tags": "Overall PnL > $10k; > 1 year old"
+  },
+  {
+    "trader": "0x55d0c13d016624e4b816ea561efd5062b4d1f655",
+    "trader_name": "EpsilonThe3rd",
+    "tag": "Overall",
+    "overall_gain": 27748.060037930798,
+    "active_positions": 3,
+    "win_amount": 42588.66168614057,
+    "loss_amount": -14840.601648209788,
+    "win_rate": 0.3584905660377358,
+    "total_current_value": 474.19688408400003,
+    "total_positions": 837,
+    "event_ct": 318,
+    "win_count": 114,
+    "rank": 4044,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
