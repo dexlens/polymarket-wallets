@@ -446,5 +446,21 @@
     "win_count": 5,
     "rank": 40329,
     "trader_tags": "Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x71daff0d0a2775be54a994af24083dc97e83a213",
+    "trader_name": "VoidListenerv9",
+    "tag": "Overall",
+    "overall_gain": 1976.4370735399998,
+    "active_positions": 1,
+    "win_amount": 2919.2299999999996,
+    "loss_amount": -942.79292646,
+    "win_rate": 0.6666666666666666,
+    "total_current_value": 0,
+    "total_positions": 4,
+    "event_ct": 3,
+    "win_count": 2,
+    "rank": 40330,
+    "trader_tags": "> 1 year old"
   }
 ]
