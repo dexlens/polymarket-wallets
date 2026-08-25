@@ -702,5 +702,21 @@
     "win_count": 219,
     "rank": 6644,
     "trader_tags": "Overall PnL > $10k; > 1 year old; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x9e157de7e84f6038032d087cb55aaa7949877531",
+    "trader_name": "Lidongo",
+    "tag": "Overall",
+    "overall_gain": 16158.4055330521,
+    "active_positions": 11,
+    "win_amount": 110385.25850345194,
+    "loss_amount": -94226.85297039984,
+    "win_rate": 0.5201005025125628,
+    "total_current_value": 12590.785222095003,
+    "total_positions": 543,
+    "event_ct": 398,
+    "win_count": 207,
+    "rank": 6645,
+    "trader_tags": "Overall PnL > $10k"
   }
 ]
