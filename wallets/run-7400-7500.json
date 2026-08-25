@@ -302,5 +302,21 @@
     "win_count": 825,
     "rank": 7419,
     "trader_tags": "Overall PnL > $10k; < 30 days old; 1k+ Positions"
+  },
+  {
+    "trader": "0x21fe95443df2eaceb8b1f58bdf20f1e37cf07b71",
+    "trader_name": "Avantgard",
+    "tag": "Overall",
+    "overall_gain": 14329.963218959909,
+    "active_positions": 5,
+    "win_amount": 25163.676674000497,
+    "loss_amount": -10833.713455040586,
+    "win_rate": 0.6857142857142857,
+    "total_current_value": 1015.2746199999999,
+    "total_positions": 49,
+    "event_ct": 35,
+    "win_count": 24,
+    "rank": 7420,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
