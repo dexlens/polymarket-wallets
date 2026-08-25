@@ -46,5 +46,21 @@
     "win_count": 3,
     "rank": 8703,
     "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
+  },
+  {
+    "trader": "0x744a283ddda3533d6abf89240bfe2f43201a923b",
+    "trader_name": "mulah",
+    "tag": "Overall",
+    "overall_gain": 12044.683260142898,
+    "active_positions": 0,
+    "win_amount": 12614.582419142898,
+    "loss_amount": -569.899159,
+    "win_rate": 0.875,
+    "total_current_value": 0.066976,
+    "total_positions": 18,
+    "event_ct": 16,
+    "win_count": 14,
+    "rank": 8704,
+    "trader_tags": "Overall PnL > $10k; Overall Win Rate > 67%"
   }
 ]
